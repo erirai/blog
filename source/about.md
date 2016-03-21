@@ -2,6 +2,7 @@ title: Su di me
 layout: page
 comments: false
 noDate: true
+noShare: true
 ---
 
 <img align="left" src="css/images/avatar.jpg" width="220px" max-width="220px" style="margin-right: 20px; margin-bottom: 10px;">
