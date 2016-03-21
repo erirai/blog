@@ -10,7 +10,7 @@ tags:
 - cacao
 categories:
 - Dolce
-- Torta
+- Torte
 ---
 ![](header.jpg "frangipani © Erica")
 

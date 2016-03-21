@@ -9,7 +9,7 @@ tags:
 - zebra cake
 categories:
 - Dolce
-- Torta
+- Torte
 ---
 ![](header.jpg "frangipani © Erica")
 

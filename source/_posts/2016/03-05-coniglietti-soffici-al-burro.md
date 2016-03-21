@@ -3,8 +3,7 @@ title: "Coniglietti Soffici al Burro"
 date: 2016-03-05
 tags:
 - pasqua
-- pasta
-- lievita
+- pasta lievita
 - colazione
 - vegan
 categories:
