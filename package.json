@@ -2,6 +2,13 @@
   "name": "frangipani",
   "version": "0.0.0",
   "private": true,
+  "scripts": {
+    "pull": "git pull && git submodule update",
+    "push": "git commit -a -m 'update' && git push",
+    "work": "hexo server",
+    "start": "hexo server",
+    "deploy": "hexo deploy --generate"
+  },
   "hexo": {
     "version": "3.2.0"
   },
