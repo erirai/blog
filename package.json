@@ -7,7 +7,7 @@
     "push": "git commit -a -m 'update' && git push",
     "work": "hexo server",
     "start": "hexo server",
-    "deploy": "hexo deploy --generate"
+    "deploy": "rm -rf public && hexo deploy --generate"
   },
   "hexo": {
     "version": "3.2.0"
