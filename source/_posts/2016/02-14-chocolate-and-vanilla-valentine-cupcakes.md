@@ -4,7 +4,6 @@ date: 2016-02-14
 tags:
 - san valentino
 - cupcakes
-- muffin
 - cioccolato
 - vaniglia
 - vegan
