@@ -8,7 +8,7 @@ tags:
 - natale
 categories:
 - Dolce
-- "Crostate, Tartes...":
+- "Crostate, Tartes..."
 ---
 ![](header.jpg "frangipani © Erica")
 
@@ -124,7 +124,7 @@ Prendete un terzo dell'impasto, avvolgetelo nella pellicola trasparente e mettet
 Nel frattempo preparate la farcia: Mettete il Quark o la ricotta a sgocciolare in modo che possa perdere l'acqua in eccesso. Poi passatelo in una coppa capiente e iniziate a frullare il tutto con le fruste elettriche finché diventerà bello morbido e liscio. Aggiungete un uovo alla volta e mescolate bene, aggiungete anche la panna e la crème fraiche o lo yogurt. Finite aggiungendo il resto degli ingredienti e mescolate ancora per qualche minuto. Come risultato avrete una cremina abbastanza liquida, ma non vi preoccupate!
 ![](farcia.jpg "frangipani © Erica")
 
-Tirate fuori dal frigo la tortiera ricoperta con la frolla, versateci il composto al Quark e rimettete in frigo. Adesso prendete il resto dell'impasto che avevate messo in frigo inizialmente. Stendetelo tra due fogli di carta forno fino ad uno spessore di 5mm e con delle formine a stella di diverse dimensioni ricavate tante stelline. 
+Tirate fuori dal frigo la tortiera ricoperta con la frolla, versateci il composto al Quark e rimettete in frigo. Adesso prendete il resto dell'impasto che avevate messo in frigo inizialmente. Stendetelo tra due fogli di carta forno fino ad uno spessore di 5mm e con delle formine a stella di diverse dimensioni ricavate tante stelline.
 ![](stelle.jpg "frangipani © Erica")
 
 Adagiate le stelle molto delicatamente sulla torta, fatene quante ne volete, ma naturalemnte più sono meglio è.
