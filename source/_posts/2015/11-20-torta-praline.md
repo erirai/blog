@@ -8,7 +8,7 @@ tags:
 - vegan
 categories:
 - Dolce
-- "Crostate, Tartes...":
+- "Crostate, Tartes..."
 ---
 ![](header.jpg "frangipani © Erica")
 
@@ -110,7 +110,7 @@ Infornate il bisquit nel forno preriscaldato a 170°C statico per ca. 12min, mi 
 Fatelo raffreddare leggermente, poi toglietelo dalla tortiera e con un coltello grande tagliate il pezzo di sopra, giusto quello che pasta per livellare il tutto.
 ![](tagliata.jpg "frangipani © Erica")
 
-Adesso dedichiamoci alla crema di nocciole: mettete le nocciole su di una leccarda con sotto della carta forno e infornatele nel forno caldo a 200°C per 7min. Le nocciole saranno ben tostate quando vedrete che la pellicina si stacca e sentirete un buonissimo odore. Poi fatele raffreddare per qualche minuto. 
+Adesso dedichiamoci alla crema di nocciole: mettete le nocciole su di una leccarda con sotto della carta forno e infornatele nel forno caldo a 200°C per 7min. Le nocciole saranno ben tostate quando vedrete che la pellicina si stacca e sentirete un buonissimo odore. Poi fatele raffreddare per qualche minuto.
 ![](nocciole.jpg "frangipani © Erica")
 
 Mettete le nocciole ancora calde nel mixer e frullate il tutto fino a ridurle in polvere. Ogni tanto spegnete il mixer per non surriscaldarle. Aggiungete il cacao e frullate ancora un po'. Poi aggiungete il succo d'agave e date un'altra frullata. Mettete il latte vegetale in un pentolino (io ho usato quello nocciola e riso), aggiugnete l'Agar-Agar e fatelo sciogliere bene. Portate il latte ad ebollizione e fate sobbollire per 1min. Togleite il pentolino dai fornelli e fate raffreddare per qualche minuto. Poi versatelo nel mixer con dentro il composto con le nocciole e frullate ancora. Il composto sarà pronto quando sarà bello omogeneo e morbido. Passate la crema di nocciole in una coppa, aggiungete la vaniglia in polvere e date un'ultima mescolata.
