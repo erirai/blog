@@ -1,7 +1,7 @@
 "Attuale: Pasqua":
   - pasqua
 Colazione:
-  - colazione 
+  - colazione
 Aperitivi:
   - aperitivo
 Antipasti:
@@ -10,9 +10,9 @@ Antipasti:
   - primi
 "Secondi Piatti e Contorni":
   - secondi
-  - contorno 
+  - contorno
 "Piatti Unici":
-  - piatto unico 
+  - piatto unico
 Panificati:
   - panificati
 "Torte salate, Muffin salati...":
@@ -23,16 +23,16 @@ Biscotti:
 Torte:
   - torta
 "Crostate, Tartes...":
-  - crostata  
-  - tarte 
+  - crostata
+  - tarte
   - crumble
   - strudel
   - cheesecake
 "Muffin, Cupcakes, Cake Pops...":
-  - muffin 
-  - cupcakes 
+  - muffin
+  - cupcakes
   - cake pops
-  - whoopies 
+  - whoopies
 "Dolci al cucchiaio, Gelati...":
   - dolce al cucchiaio
   - gelato
@@ -43,13 +43,12 @@ Torte:
   - torrone
   - frittelline
   - financiers
-  - piccola pasticceria 
+  - piccola pasticceria
 Conserve:
   - conserve
 Bevande:
   - té
   - cioccolata calda
-  - bevande  
+  - bevande
 Vegan:
   - vegan
-
