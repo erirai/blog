@@ -7,7 +7,7 @@ tags:
 - dolci
 categories:
 - Dolce
-- Torta
+- Torte
 ---
 ![](header.jpg "frangipani © Erica")
 
