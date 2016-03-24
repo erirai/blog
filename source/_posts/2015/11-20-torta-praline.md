@@ -4,6 +4,7 @@ date: 2015-11-20
 tags:
 - san valentino
 - tarte
+- dolci
 - cioccolato
 - vegan
 categories:
