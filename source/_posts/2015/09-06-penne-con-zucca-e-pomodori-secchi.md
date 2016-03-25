@@ -55,6 +55,7 @@ Appena arriva il fresco autunnale, la prima cosa che compro è la zucca! Mamma q
     <i class="fa fa-cogs"></i>
   </font> Preparazione
 </h3>
+
 Sbucciate e tagliate la zucca a pezzettini. Tagliate lo scalogno a fettine e mettetelo a soffriggere con un po' di olio ed un pizzico di sale. Quando si sarà ammorbidito aggiungete la zucca, fate rosolare un po' e poi aggiungete un po' d'acqua.
 ![](zuccacruda.jpg "frangipani © Erica")
 
