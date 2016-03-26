@@ -8,7 +8,7 @@ tags:
 - halloween
 - vegan
 categories:
-- Dolce
+- Salato
 - "Primi Piatti"
 ---
 ![](header.jpg "frangipani © Erica")
