@@ -1,5 +1,5 @@
 ---
-title: Arancine vegetariane
+title: "Arancine vegetariane"
 date: 2015-06-19
 tags:
 - piatto unico

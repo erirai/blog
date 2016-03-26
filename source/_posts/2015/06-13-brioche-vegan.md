@@ -1,5 +1,5 @@
 ---
-title: Brioches
+title: "Brioches"
 date: 2015-06-13
 tags:
 - brioche

@@ -1,5 +1,5 @@
 ---
-title: Torta al Cioccolato Bianco e Pesche
+title: "Torta al Cioccolato Bianco e Pesche"
 date: 2015-06-24
 tags:
 - torta

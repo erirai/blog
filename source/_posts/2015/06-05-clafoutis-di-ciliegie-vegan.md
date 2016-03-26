@@ -1,5 +1,5 @@
 ---
-title: Clafoutis di Ciliegie vegan
+title: "Clafoutis di Ciliegie vegan"
 date: 2015-06-05
 tags:
 - ciliegie
