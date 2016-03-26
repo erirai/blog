@@ -14,7 +14,7 @@ categories:
 Per questi giorni di festa e di vacanze volevo preparare un po' di cornetti da tenere in congelatore per poterli fare la mattina belli caldi... Il problema è che non avevo tanto tempo per preparali, soprattutto per tutte le sfogliature. Cercando in Internet, sul sito (<a href="http://worldrecipes.expo2015.org/it/ricetta-cornetti_sfogliati_veloci_1482.html" target="_blank">worldrecipes.expo2015.org</a>) ho trovato questa versione veloce per preparare i cornetti sfogliati. Praticamente si prepare l'impasto, si fa lievitare e poi si fanno le sfogliature in modo veloce con del burro fuso e dello zucchero. Ok, lo so, non sono i veri e propri cornetti sfogliati ma devo dire che sono molto buono lo stesso, mi sono piaciuti tantissimo! Nell'impasto non c'è zucchero, c'è solo un po' di zucchero che si mette nelle varie sfoglie. Ma usando molta marmellata o Nutella la dolcezza ci sarà!
 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

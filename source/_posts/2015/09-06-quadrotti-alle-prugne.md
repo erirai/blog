@@ -14,7 +14,7 @@ categories:
 Rieccomi qua dopo le nostre prime vacanze con i nostri due figli, la piccola ma grande peste ed il piccolo angioletto... Ci volevano proprio! In Italia faceva ancora caldissimo, 35°C... arriviamo qua e fa freschetto! Ho tirato fuori le giacchette, brrrr. Di mattina c'è nebbia, poi di pomeriggio esce il sole, ma c'è proprio profumo di autunno! Con l'autunno arrivano anche i dolci più sostanziosi e pesantini. Al momento ci sono le prugne ottime e i dolci con le prugne sono una meraviglia. Questo dolce ha tutte le consistenze: sotto una pasta tipo pane bella morbida, sopra le prugne succose e per finire la granella croccante, mmmmm!
 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

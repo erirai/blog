@@ -13,7 +13,7 @@ categories:
 Sta mattina mi sono svegliata presto, anzi il nostro piccolo Bombolone ci ha svegliati presto... Fuori piove, è grigio e c'è bisogno di qualcosa di caldo per colazione! Cosa posso fare veloce veloce? Gli Scones naturalmente! Si fanno veramente in un attimo e sono troppo buoni... e sono pure vegan!
 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

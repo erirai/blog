@@ -15,7 +15,7 @@ categories:
 Ho visto la foto di una ciamblla al pistacchio e arancia e sembrava una favola. Il problema è che spesso le ciambelle hanno un sacco di uova e questo non mi piace... Quindi ho tirato fuori la ricetta del mio Gugelhupf classico e l'ho adattato. In questa ricetta ci sono "solo" 3 uova e niente lievito, giusto non è un errore, per questo Gugelhupf non vi serve lievito. I gusti di questo Gugelhupf sono sicilianissimi, il pistacchio e le arance... e vi assicuro che è una meraviglia! Se non avete la teglia per il Gugelhupf, prendete tranquillamente la forma per una ciambella classica. Se posso darvi un consiglio: spalmate un po' di crema di pistacchio sulla fetta di Gugelhupf, è ancora più buonaaaaaaaaa!
 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

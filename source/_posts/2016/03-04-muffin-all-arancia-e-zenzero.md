@@ -15,7 +15,7 @@ categories:
 
 Eh si, finalmente è arrivato Marzo! Marzo porta la primavera, il sole, i fiori... almeno dovrebbe... Qui piove, fa freddo, nevica, poi c'è il sole, poi nevica, poi piove, poi vento... Schifo, schifo, schifo! Vorrei dedicarmi piano piano ai dolci primaverili ma non mi viene proprio voglia con questo tempo! Spero solo che il sole arrivi presto, abbiamo tanto bisogno di TE, o sole mio. Comunque è pur sempre inverno ancora e quest'inverno le arance sono state veramente ottime. Oggi vi propongo questi Muffin all'Arancia e Zenzero. Come tutti i Muffin vegani, si preparano in un attimo, li ho preparati sta mattina presto prima che si svegliassero i miei due terremoti. Sono freschi, sono fruttosi, ma soprattutto sono di una morbidezza incredibile. Provare per credere!
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
 	<div class="ingredients">
 	  <div class="ingredients-title">Ingredienti</div>

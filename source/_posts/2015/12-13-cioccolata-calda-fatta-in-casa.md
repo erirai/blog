@@ -13,7 +13,7 @@ categories:
 Cosa beviamo quando fuori fa freddo, seduti sul divano davanti alla TV, sotto una bella coperta calda? Giusto! Una bella tazza di cioccolata calda. È una delle coccole che ci concediamo e facciamo bene... Questo natale regalerò un po' di coccole in forma di cioccolato per fare una bella tazza di cioccolata calda. È una vera genialata perché servono pochissime cose, ma è un vero piacere riceverlo!
 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

@@ -15,7 +15,7 @@ categories:
 C'è chi li ama e chi li odia. Io faccio parte della categoria: li adorooooooooooooooo! Sto parlando dei carciofi. Un ortaggio che si presenta in diverse forme, con un fiore meraviglioso dal colore lilla. I carciofi sono buoni in tantissimi modi... semplicemente bolliti, mangiando le foglie con olio e aceto, con la pasta, col riso, nduppati (ripieni con mollica), fritti... Ma io li adoro così, arrostiti! Ancora meglio se si possono arrostire sulla brace. È un modo velocissimo e buonissimo per preparare i carciofi. Sono ottimi come contorno. Se per esempio fate un primo abbondante e non volete fare un secondo piatto, preparate i carciofi arrostiti e tutti saranno felici! Ma vi avverto, il potenziale di dipendenza è molto alto, anzi altissimo!
 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

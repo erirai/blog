@@ -13,10 +13,10 @@ categories:
 ---
 ![](header.jpg "frangipani © Erica")
 
-La sera di Natale ceniamo a casa nostra con i miei, dopo che a pranzo siamo stati a casa di mio marito... quindi non ho tanto tempo per preparare qualcosa di buono il giorno di natale stesso. Mi serviva qualcosa da poter preparare il giorno prima e mettere in frigo. Ed ecco quà la ricetta salva-natale: il Timballo di Pasta in Crosta! È fantastico perché si può preparare il giorno prima e si inforna poi quando serve. Si può condire come si vuole, con o senza carne, con le verdure, con il sugo o con i formaggi... e fa molta scena! Io ho preparato la versione classica vegetariana: Penne condite con una salsa al pomodoro con un soffritto di sedano, carote e cipolla, dei piselli e delle polpettine di pane. Il tutto avvolto con della pasta sfoglia... mmm non vedo l'ora di mangiarlo. È proprio un piatto per le feste, che va benissimo come piatto unico. Come contorno si possono fare delle verdure saltate in padella o dei carciofi arrostiti... Ma credetemi, dopo una fetta di questo timballo sarete già sazi... 
+La sera di Natale ceniamo a casa nostra con i miei, dopo che a pranzo siamo stati a casa di mio marito... quindi non ho tanto tempo per preparare qualcosa di buono il giorno di natale stesso. Mi serviva qualcosa da poter preparare il giorno prima e mettere in frigo. Ed ecco quà la ricetta salva-natale: il Timballo di Pasta in Crosta! È fantastico perché si può preparare il giorno prima e si inforna poi quando serve. Si può condire come si vuole, con o senza carne, con le verdure, con il sugo o con i formaggi... e fa molta scena! Io ho preparato la versione classica vegetariana: Penne condite con una salsa al pomodoro con un soffritto di sedano, carote e cipolla, dei piselli e delle polpettine di pane. Il tutto avvolto con della pasta sfoglia... mmm non vedo l'ora di mangiarlo. È proprio un piatto per le feste, che va benissimo come piatto unico. Come contorno si possono fare delle verdure saltate in padella o dei carciofi arrostiti... Ma credetemi, dopo una fetta di questo timballo sarete già sazi...
 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

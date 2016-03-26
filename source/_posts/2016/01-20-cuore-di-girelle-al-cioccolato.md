@@ -18,7 +18,7 @@ categories:
 Ieri sera ho fatto un bel po' d'impasto per fare il pane, ma non solo. Sinceramente volevo fare solo le girelle salate, ma mi è rimasto ancora impasto, quindi ho fatto anche le girelle dolci. Ho messo le girelle in una teglia a forma di cuore, giusto perché tra meno di un mese sarà San Valentino. Ma naturalmente va benissimo una semplice teglia rotonda o quadrata, quello che avete insomma. Ho farcito queste girelle dolci con della crema di nocciole vegan e del cioccolato grattugiato. Va benissimo anche con la marmellata, della crema pasticcera... quello che avete voglia! Queste girelle sono ottime per merenda ma anche per colazione!
 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

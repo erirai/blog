@@ -14,7 +14,7 @@ categories:
 
 Cosa si mangia sta sera? Boooooooooo! Il pane si è finito, in frigo ci sono due melanzane, un po' di pesto che mi era rimasto... Ok, sta sera faccio gli Hamburger! E per gli Hamburger servono i panini giusti... i Burger Buns. Praticamente sono dei panini al latte, supermorbidi. Si possono fare con la farina che più vi piace, potete anche mischiare. Metà bianca e metà manitoba, integrale, di farro... io ho usato 400gr di farina bianca e 100gr di farina bigia.
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

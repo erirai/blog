@@ -16,7 +16,7 @@ categories:
 È periodo di vendemmia, i giardini sono pieni d'uva, talmente tanta che è impossibile mangiarla tutta. Cosa ne facciamo allora? Io vi consiglio di fare questa marmellata, che potete anche speziare con l'anice stellato, la cannella, il cardamomo, la scorza d'arancia e la vaniglia. Così facendo, avrete una marmellata al gusto di Vin Brûlé. O la lasciate semplice semplice, solo con il succo d'uva.
 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

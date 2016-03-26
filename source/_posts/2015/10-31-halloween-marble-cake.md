@@ -18,7 +18,7 @@ categories:
 Juhuuuuuuuuu! Quanto mi piace Halloween! Quest'anno ho deciso di fare qualcosa di coloratissimo, anche se non amo usare i coloranti... ma dai a Halloween si può! L'ho preparata già oggi, che domani per cena preparerò dei Zucca Burger con Puré di Patate viola, quindi mi sono già portata avanti. Se la preparate il giorno prima, chiudetela ermeticamente così rimarrà bella soffice. La Halloween Marble Cake non è nient'altro che una torta marmorizzata, solo più colorata. Io l'ho fatta nera, arancione, verde e viola... Voi usate i colori che più vi piacciono. Potete anche non colorarla e usare dei colori solo per glassarla, a voi la scielta!
 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

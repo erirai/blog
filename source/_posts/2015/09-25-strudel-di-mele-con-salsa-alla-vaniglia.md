@@ -17,7 +17,7 @@ categories:
 
 Non è bello l'autunno?! A me piace tanto... Oggi è proprio freschetto, c'era la nebbia ma adesso è uscito il sole! Per inaugurare la stagione delle mele, ho preparato un Classico, lo Strudel di Mele. Secondo me lo Strudel di Mele va sempre accompagnato con una Salsa alla Vaniglia, possibilmente calda o anche con del gelato alla vaniglia... Se non volete fare l'impasto per lo Strudel, potete anche usare la pasta Fillo. Servite il tutto ben caldo, è molto più buono, ma va bene anche freddo.
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

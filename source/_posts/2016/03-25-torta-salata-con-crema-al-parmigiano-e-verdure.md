@@ -13,7 +13,7 @@ categories:
 Avete ancora bisogno di qualche idea per qualcosa di buono per il pranzo di Pasqua o Pasqetta? Eccola! Sul Blog di Chiarapassion (<a href="http://www.chiarapassion.com/2015/06/torta-salata-con-verdure-facile-e-veloce.html" target="_blank">chiarapassion.com</a>) ho visto questa bellissima torta salata. Avete lo stampo col fondo rialzato? Questa è la torta salata perfetta per usarlo! Il risultato sarà ottimo ma anche bellissimo! Una soffice base, una cremosa crema al parmigiano e la croccantezza delle verdure... Che volete di più?! Potete farcire la base della torta come preferite, sbizzarritevi!
 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

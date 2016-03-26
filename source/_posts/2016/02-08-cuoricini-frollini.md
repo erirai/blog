@@ -14,7 +14,7 @@ categories:
 
 Passiamo dalla modalità Carnevale in modalità San Valentino! Quest'anno sono proprio attaccati, che peccato. Anzi qui la sfilata di Carnevale sarà proprio domenica, a San Valentino. Basta friggere frittelle e cose varie, adesso le ricette saranno più romantiche. Come questi Frollini a forma di cuore che ho ricoperto con del cioccolato bianco. Sono buoni per la colazione, per merenda, con il té o la sera davanti alla TV, magari guardando San Remo... Questi biscotti li ho fatti con la Sparabiscotti e ho usato lo stampo per cuoricini, ma va benissimo qualunque stampo. Fanno un profumo fantastico di vaniglia e si sposano perfettamente con il cioccolato bianco... 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

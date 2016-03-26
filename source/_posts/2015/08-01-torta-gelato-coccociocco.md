@@ -16,7 +16,7 @@ categories:
 Mia sorella la piccola mi ha chiesto di farle una torta al cioccolato per il suo compleanno. Sinceramente non avevo proprio voglia di fare una torta al cioccolato con questo caldo, quindi ho pensato di fare qualcosa di fresco. Dato che le piace anche il cocco, ho pasticciato un po' ed è nata questa torta gelato con la base biscottosa al cioccolato e un cremoso gelato al cocco.
 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

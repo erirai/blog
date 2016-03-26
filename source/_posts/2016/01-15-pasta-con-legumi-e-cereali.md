@@ -17,7 +17,7 @@ categories:
 È da un'eternità che non mangio un bel piatto di legumi. Questa sera ho preparato una bella zuppa piena di tanti legumi e cereali. Ho preso tutto quello che ho trovato in dispensa. Voi fate lo stesso! Se volete aggiungete anche la pasta, se no vi mangiate solo i legumi così. È un piatto perfetto per queste serate fredde, riscalda e nutre moltissimo. Buona zuppa allora!
 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

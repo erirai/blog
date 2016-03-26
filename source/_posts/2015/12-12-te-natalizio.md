@@ -13,7 +13,7 @@ categories:
 Questo finesettimana ho preparato tutti i regali di natale. Sono stata praticamente solo in cucina, ma sono molto soddisfatta. Ho iniziato l'anno scorso a regalare cose fatte in casa e devo dire che mi piace molto. Ci sono tantissime cose da preparare, dal salato al dolce, cose semplici ma anche cose più elaborate. Uno di questi è il Té Natalizio. Praticamente partite da un té di base tipo Hibiscus, Rosa Canina o té nero. Io ho usato Hibiscus e Rosa Canina. Poi aggiungete tutta la frutta che volete, naturalmente deve essere tutto essiccato, e alla fine anche qualche spezia natalizia. La cosa buona è che lo potete preparare benissimo qualche settimana prima e chiuderlo ermeticamente, così l'aroma sarà molto più intenso.
 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

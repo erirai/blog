@@ -16,7 +16,7 @@ categories:
 Avevo in frigo tante verdure... cavolo viola, cavolfiore viola, zucca e mi era rimasta una patata bollita. Vedendo questi colori meravigliosi, ho pensato di fare una torta salata. Mentre la preparavo mi sono accorta che erano proprio i colori che solitamente si usano per Halloween: viola, arancione, nero... per questo il nome! Io ho preparato la pasta brisé perché non avevo la pasta sfoglia, vanno bene tutte e due. Potete accompagnare questa torta salata con una bella zuppa di zucca ed ecco servita la cena per la sera di Halloween. 
 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

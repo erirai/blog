@@ -18,7 +18,7 @@ categories:
 L'anno scorso mia Mamma mi ha regalato questo bellissimo stampo a forma di alberello di natale della Nordic Ware. Finalmente quest'anno sono riuscita a provarlo e devo dire che viene proprio bene! Ok, gli stampi della Nordic Ware sono veramente di ottima qualità... Questo impasto si può adattare alle varie stagioni... adesso si può fare con le arance, se si vuole si può aggiungere anche la cannella o altre spezie. In primavera o estate si può fare col limone. La torta è molto buona, fresca, per niente pesante. Viene molto soffice e resta bella umida. Naturalmente va benissimo anche uno semplice stampo rotondo da massimo 20-22cm o da plumcake.
 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

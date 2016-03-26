@@ -16,7 +16,7 @@ categories:
 Sta mattina sono uscita con i miei due piccoli a fare una passeggiata anche se c'era freddo e nebbia... Gaia voleva portarsi il suo passeggino con Elsa. Naturalmente ha preso anche una copertina per Elsa perché sentiva freddo, così ha detto. Mentre rientravamo, mi è venuta voglia di una bella tora di mele, non so perché, sarà l'autunno... Ho ancora le mele che mi avevano portato mia madrina e mio padrino e quelle sono perfette per fare i dolci! È una torta di mele vegan classica, ma con un tocco in più... Perché buttare via la buccia delle mele, è piena di vitamine e altro! Perché non farci delle roselline carine e usarle come decorazione?!
 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

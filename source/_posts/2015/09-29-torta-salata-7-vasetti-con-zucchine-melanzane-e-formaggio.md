@@ -15,7 +15,7 @@ categories:
 Mentre guardavo le foto su Instagram, ho visto questa Torta Salata sul Blog di (<a href="http://petitpatisserieblog.blogspot.it" target="_blank">petitpatisserie</a>). Non sapevo cosa cucinare e avevo dentro tutti gli ingredienti della ricetta, quindi l'ho fatta ma con qualche modifica... Mamma mia quanto è buona! Si fa veramente in un attimo, io addirittura non ho messo le uova ed è venuta ottima. Nella ricetta io le uova le metto, ma potete farla anche senzo o con meno uova. Come verdure usate quello che avete dentro, peperoni, pomodori, zucchine, melanzane ecc. La stessa cosa per il formaggio.
 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

@@ -13,7 +13,7 @@ categories:
 Questa ricetta è nata così, per caso. A natale ho fatto le polpettine di pane per il timballo di pasta e mi era avanzato un po' d'impasto delle polpettine. Avete presente quei momenti che siete di superfretta e dovete preparare il pranzo o la cena mentre che state preparando altre cose da mangiare? Proprio in quei momenti, spesso nascono delle genialate incredibili. Quando ti devi arrangiare con quello che ti trovi davanti e devi essere pure velocissima. Così è nato questo polpettone di pane! Il polpettone si potrebbe anche non farcire, ma secondo me così verrebbe troppo asciutto. Con la mozzarella e gli spinaci viene bello umido, poi accompagnato con una bella salsa al pomodoro, non vi dico, è la fine del mondo! Mi sa che per un'altra volta, provo a farlo con le patate, tipo arrosto, vediamo come viene...
 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

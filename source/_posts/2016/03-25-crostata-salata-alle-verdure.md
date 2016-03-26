@@ -14,7 +14,7 @@ categories:
 
 Ecco un'altra idea da preparare per il pranzo di Pasqua o per la scampagnata di Pasquetta... una crostata, ma nella versione salata! Praticamente preparate una frolla salata, la farcite con tante verdure e date un po' di cremosità con la panna. Io ho usato la panna vegetale, voi naturalmente potete usare anche quella normale. Questa crostata si può fare in ogni stagione, basta usare le verdure di stagione!
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

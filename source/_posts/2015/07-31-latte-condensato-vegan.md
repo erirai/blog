@@ -13,7 +13,7 @@ categories:
 Per la torta gelato che preparerò domani ho bisogno del latte condensato vegan, dato che la torta sarà vegan. Non sono riuscita a trovarlo quindo l'ho fatto io... Lo potete preparare e poi lo mettete in una boccetta di vetro e lo lasciate in frigo, in questo modo terrà fino a due settimane. Con queste dosi avrete ca. 250gr di latte condensato.
 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

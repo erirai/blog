@@ -13,7 +13,7 @@ categories:
 
 Siamo in piena settimana di carnevale, anche se qui in Svizzera nel paese dove abito io, il carnevale si festeggia il prossimo weekend. Che dolci facciamo questo carnevale? Proviamo con le Castagnole! Non le avevo mai fatte, neanche mia mamma. Non amo friggere ma certe cose vanno fritte e basta!!! Comunque tutte queste frittelline di carnevale si fanno in un attimo, si prepara l'impasto poi si friggono subito. Questo tipo di Castagnole che vi propongo io sono molto morbide. L'impasto sembra un impasto per torte, quindi va porzionato con un cucchiaio, non bisogna formare le palline. Poi ci sono un sacco di varianti... con la ricotta, bagnate con l'Alchermes, ripiene... Comunque sia, vi auguro un bellissimo Carnevale!
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

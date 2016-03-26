@@ -15,7 +15,7 @@ categories:
 Uff... esattamente due anni fa ho pubblicato il mio primo post! Da allora sono cambiate tante cose... Sono mamma di due figli, faccio la casalinga e la mamma a tempo pieno! Ho anche aperto un profilo su Instagram che va veramente bene, mi da tante soddisfazioni! Devo essere sincera, ma con due figli il tempo è un bene prezioso! Quando posso, mi dedico al mio Blog, ma vorrei avere più tempo. Mi manca il tempo per sperimentare e per cercare nuove idee, ma quando posso lo faccio. Ho anche in mente qualcosina per cambiare un po' il mio Blog, ma al momento è solo un'idea. Ringrazio ogni uno di voi che ogni tanto da una sbirciatina per vedere cosa combino o per prendere spunto per qualche ricetta. Per questo 2° Compleanno, insieme a mia figlia, abbiamo fatto questi Cookie Pops che sono veramente di grande effetto. Poi si possono decorare come si vuole. Buon divertimento!
 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

@@ -18,7 +18,7 @@ categories:
 Mamma mia... è passato già un anno! Il nostro piccolo Ometto oggi festeggia il suo primo anno di vita! Non è stato un anno facile, molto faticoso, molto stancante... ma allo stesso tempo pieno di soddisfazioni, emozioni e gioie... Quest'anno è passato così, al volo, senza neanche accorgersene! Tra poco il piccolino inizierà a camminare, a parlare... Sono così carini quando giocano insieme e si fanno delle risate! Il primo compleanno è speciale, sempre molto emozionante... non è più un baby, ma un piccolo ometto ormai! Anche se lui la torta non se la mangerà, gli ho preparato una Zebra Cake. Questa torta è facilissima da preparare ed è molto scenografica. Basta preparare due impasti, uno bianco e uno nero, poi si può farcire come si vuole. Io la torta l'ho ricoperta con della pasta di zucchero, volendo si può anche ricoprire con la crema al mascarpone, con della panna montata o semplicemente glassandola con del cioccolato fondente o bianco. Se la volete ricoprire con la crema al mascarpone, allore dovrete aumentare le dosi per la crema. Io ho fatto una teglia grande da circa 20x30cm o di più per poter ritagliare un 1, per questo le quantità sono così alte. Con i ritagli della torta poi ho anche fatto dei Cake Pops, così non ho buttato niente!
 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

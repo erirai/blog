@@ -14,7 +14,7 @@ categories:
 Che bello, sono riuscita a trovare il cavolfiore colorato. Non vi sembrerà una gran cosa ma qui queste cose "esotiche" non si trovano spesso. Cosa faccio con questa meraviglia di cavolfiore? Giusto! La pasta col cavolfiore, così come la facciamo in Sicilia. A me piace tantissimo... solo che al posto dell'uvetta io ho messo le olive nere, non essendo amante di uvetta. Voi potete mettere anche entrambe le cose... come preferite. Sono sicura che ogni uno la fa in modo diverso, chi mette le acciughe, chi l'uvetta, chi le olive nere... Vi assicuro solamente che è molto buona, fa proprio bene in questi giorni freddi!
 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

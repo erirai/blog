@@ -12,7 +12,7 @@ categories:
 
 Mia mamma mi ha dato un bel sacchettino pieno di pomodorini secchi, così mentre tutta l'Italia passava il Ferragosto a divertirsi al mare io ho fatto le Chiappe! Le Chiappe sono semplicemente i Pomodori Secchi sott'Olio, da noi si chiamano così. Non ci vuole niente a farli, bastano i pomodori secchi, del basilico, aglio ed olio. Si dovrebbero mettere nell'olio evo ma non a tutti piace il gusto forte dell'olio evo, quindi volendo si può usare dell'olio di girasole...
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

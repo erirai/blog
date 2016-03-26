@@ -14,7 +14,7 @@ categories:
 
 Lo so, lo so... Questo piatto non è proprio un classico per il pranzo domenicale, ma se la principessa di casa vuole giocare con la plastilina, non c'è tempo di preparare cose molto elaborate. Quindi ho messo sui fornelli questa zuppetta d'orzo e l'ho fatta cucinare per poco più di un'oretta. Così ho avuto tutto il tempo per giocare e allo stesso tempo il pranzo stava li, tra se e se a cucinare. La zuppetta è venuta cremosissima. Pure mio marito ha detto che era buonissima, cosa che con le zuppette non succede praticamente mai! 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

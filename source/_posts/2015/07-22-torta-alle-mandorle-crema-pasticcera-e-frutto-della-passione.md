@@ -16,7 +16,7 @@ categories:
 Tanti auguri a me, tanti auguri aaa meee... Oggi compio 28 anni e mi avvicino sempre più ai 30!!! Aaaaaaaaaaaaaaaaaaaaaaaaaaaa!!! Sta sera mangeremo la Pizza fatta in casa e come dolce questa torta meravigliosa. È un'esplosione di gusti... c'è la mandorla, il marzapane, la vaniglia, il limone e poi il frutto della passione! Meravigliosa...
 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

@@ -19,7 +19,7 @@ categories:
 Oggi mio marito ed io festeggiamo i nostri primi 10 anni, 10 anni passati insieme! In questi 10 anni sono successe un sacco di cose... i momenti più indimenticabili? Il nostro matrimonio e naturalmente la nascita dei nostri due bellissimi figli! Per festeggire ho preparato questa torta supercioccolatosa che ho voluto chiamare Torta Praliné. Praticamente alla base c'è un bisquit al cioccolato e sopra una crema di nocciole e cacao. Questa torta va servita fresca, direttamente dal frigo e basta sicuramente per 12 persone, perché è abbastanza pesantuccia... beh, arriva l'inverno e abbiamo bisogno di coccolarci con dolci più abbondandi.
 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

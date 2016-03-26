@@ -14,7 +14,7 @@ categories:
 Ultimamente in TV ho visto fare il classico ragù con la carne ed ho pensato subito come poterlo fare senza la carne. Cercando un po' ho trovato il Seitan. Non lo avevo mai provato prima, ma solo perché non saprei come utilizzarlo... Però mi è sembrato un buon sostituto per la carne. Ed è venuto ottimo! È lo stesso procedimento come il ragù classico solo che al posto del macinato si mette il Seitan tritato col coltello. Un'altro vantaggio è il tempo di cottura... mezz'oretta e tutto è fatto!
 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

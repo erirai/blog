@@ -17,7 +17,7 @@ categories:
 Halloween si avvicina e mica vogliamo farci trovare impreparati?! Sto sperimentando un po' di ricette con la zucca e mi piace tanto provare i diversi tipi di zucca. Dal contadino dove andiamo di solito c'è una vastissima scelta di zucche, una di quelle è la "Bleue de Hongrie". Ha un gusto dolce, una polpa soda è un colore bello acceso. Questa zucca è perfetta da usare per i dolci. Come dolce per Halloween vi propongo questi Muffin alla Zucca che ho arricchito con delle gocce di cioccolato e una crema al mascarpone. Se volete una crema vegana prendete un formaggio spalmabile vegan al posto del mascarpone... Volendo potete anche speziarli con della cannella, del cardamomo e dell'anice stellato, tutto macinato naturalmente.
 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

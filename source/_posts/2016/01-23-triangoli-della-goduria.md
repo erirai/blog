@@ -14,7 +14,7 @@ categories:
 Qualche giorno fa a "La Prova del Cuoco", Marco Bianchi ha preparato questi fantastici Triangoli della Goduria. Così a vederli, sembravano veramente goduriosissimi! Marco Bianchi li ha preparati con le bietole, purtroppo io qui non sono riuscita a trovarle, quindi ho usato gli spinaci. Sicuramente si possono fare anche con le cime di rapa o altre verdure a foglia verde. Si fanno in un attimo, volendo si possono anche preparare prima e infornarli al momento, dato che hanno bisogno appena di 10min di cottura in forno. Sono ottimi come piatto unico, ma anche come aperitivo. Allora, pochissimi ingredienti tutti sani, poco tempo di preparazione e di cottura, che volete di più?
 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

@@ -19,7 +19,7 @@ categories:
 Finalmente anche io ce l'ho fatta a studiarmi un po' il fantastico sito di iFood. Il loro libro "Il Gusto della Terra" ce l'ho già da un pezzo, ma non ho avuto ancora il tempo per studiarmelo bene. Devo dire che ci sono un sacco di ricette veramente ottime, c'è l'imbarazzo della scelta! Ne ho avvistate un paio che prossimamente sicuramente farò. Oggi però inizio con questa Torta di pere alla cannella con frutti di bosco autunnali, qui il link (<a href="http://www.ifood.it/2015/10/torta-di-pere-alla-cannella-con-frutti-di-bosco-autunnali.html" target="_blank">iFood.it</a>) (io l'ho modificata leggermente). Ci vuole di più per scrivere il nome della torta che per farla! È una torta vegan, morbidissima che accompagnata con questi frutti di bosco autunnali caldi è la fine del mondo! Io ho preso un pacco di frutti di bosco congelati, perché non sono più riuscita a trovarli freschi. Prendete le ultime more, gli ultimi lamponi ed i mirtilli...
 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

@@ -15,7 +15,7 @@ categories:
 Passate tutte le feste invernali, possiamo dedicarci alla festa della Primavera: la Pasqua. Ora cambiano i colori, cambiano i piatti, cambia il tempo, le giornate si fanno più lunghe e fioriscono tutti quei fiori meravigliosi... Ho il giardino pieno! Bucaneve, Crocus, Narcisi... Adoro la Primavera con i suoi colori, i suoi fiori, il sole, il profumo la mattina presto... Ok, basta parlare della Primavera e ritorniamo in cucina. Oggi ho preparato questi Coniglietti Soffici per la colazione di domani mattina e credo proprio che li rifarò per la colazione di Pasqua. Per le forme date sfogo alla vostra fantasia e divertitevi con i vostri bimbi! Li potete preparare senza problema il giorno prima, conservandoli avvolti in una coperta. Così facendo rimarranno morbidissimi! 
 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
 	<div class="ingredients">
 	  <div class="ingredients-title">Ingredienti</div>

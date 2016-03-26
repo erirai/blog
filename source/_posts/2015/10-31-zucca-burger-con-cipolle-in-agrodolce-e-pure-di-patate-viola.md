@@ -18,7 +18,7 @@ categories:
 I panini al latte per i burger sono pronti, adesso dobbiamo preparare solo quello che serve per farcire quei buonissimi panini. Praticamente sono delle fette di zucca impanate, delle cipolle stufate in agrodolce, ma voi sbizzarritevi! Io ho preso la zucca Butternut, che è perfetta da tagliare a fette. Come sempre vi do solo gli ingredienti senza le dosi, dipende da quante persone siete...
 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

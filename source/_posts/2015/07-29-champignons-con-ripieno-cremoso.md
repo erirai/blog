@@ -16,7 +16,7 @@ categories:
 Ho comprato dei Champignons belli grandi che sinceramente volevo fare ripieni con del pesto, ma sabato siamo stati da un collega di lavoro di mio marito e la sua compagna ha preparato i Champignons ripieni con della Philadelphia che poi hanno cotto sulla griglia. Erano veramente ottimi e mi sono ispirata alla sua ricetta... Colgo l'occasione per ringraziare Stöffel e Ai-Linh per la bella serata passata insieme, siamo stati veramente bene!
 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

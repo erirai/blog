@@ -16,7 +16,7 @@ categories:
 Ecco una delle tante cose che si può fare con l'impasto per pane. Queste girelle sono fantastiche, perché si possono farcire in qualsiasi modo! Si può dire che è anche una ricetta svuotafrigo, infatti ho preso le cose che mi erano rimaste in frigo. Vengono ottime anche farcite con dei formaggi, con della verdura di stagione... Anche queste le ho messe in una teglia a forma di cuore, giusto per darvi un'idea forse per un aperitivo per San Valentino...
 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

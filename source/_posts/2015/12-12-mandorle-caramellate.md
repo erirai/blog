@@ -15,7 +15,7 @@ categories:
 Quando sento l'odore delle mandorle caramellate, mi viene subito in mente il natale... quei meravigliosi mercatini natalizi, col freddo fuori e tutto illuminato dalle luci di natale! Le mandorle caramellate sono l'unica cosa che prendo ogni volta che vado ai mercatini. Mi piaciono troppo! Quindi ho pensato: perché non regalare un po' di profumo di natale?! 
 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

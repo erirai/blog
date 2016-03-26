@@ -16,7 +16,7 @@ categories:
 Eccomi qua con il primo post del 2016! Tutto è ritornato alla normalità, le feste sono finite e con le feste anche le vacanze. Con tutto quello che abbiamo mangiato abbiamo voglia solo di cose leggere, ma senza rinunciare ai dolci. Quando si tratta di fare dolci leggeri, scelgo sempre dei dolci vegani. Si preparano in un attimo, sono gustosi, morbidi e, soprattutto per l'assenza delle uova, molto più leggeri. Mio marito qualche giorno fa mi ha chiesto una torta che piacesse a lui. Dovete sapere che è molto difficile trovare un dolce che gli piaccia! Una volta manca il cioccolato, poi manca il limone o l'arancia, poi le noccioline non vanno bene... avete capito no? Questa ciambella è superlimonesca, morbida e si può inzuppare anche nel té (cosa che a lui piace tanto e io detesto). Comunque sia, se avete voglia di un dolce leggero e veloce, e con una bella dose di Vitamina C, questo fa per voi!
 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

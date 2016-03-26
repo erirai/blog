@@ -16,7 +16,7 @@ categories:
 Mio marito aveva comprato un cestino di susine buonissime, raccolte proprio a qualche chilometro da casa nostra! Erano superdolci!!! Ne ho approfittato ed ho fatto questi dolcetti che sinceramente da fuori sembrano Arancine, ma sono fatti con un impasto di patate e dentro hanno un cuore fruttoso... Buonissimi!
 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

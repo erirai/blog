@@ -16,7 +16,7 @@ categories:
 
 Non vedo l'ora che arrivi la primavera! Mi sono stufata di questo tempo che fa veramente su e giù! Allora sabato ha nevicato e si moriva dal freddo, domenica si tava una meraviglia, lunedì bellissimo e ieri di nuovo schifo con pioggia, vento e freddo! Oggi aveva iniziato bene, ma adesso è nuvoloso e triste... BASTAAA! La cosa buona dell'inverno, sono i dolci belli sostanziosi, al cioccoalto, quei dolci che riscaldano l'anima. Esattamente come questa Torta Rustica al Cioccolato e Nocciole che ho trovato sul meraviglioso sito (<a href="http://www.ifood.it" target="_blank">ifood.it</a>). È stato amore a prima vista, l'ho vista e l'ho rifatta, ma con qualche modifica. La cosa fantastica dei dolci vegani è, che gli ingredienti normalmente li abbiamo sempre in casa! Allora che aspettate?! Prima che arrivi la primavera...
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
 	<div class="ingredients">
 	  <div class="ingredients-title">Ingredienti</div>

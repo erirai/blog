@@ -16,7 +16,7 @@ categories:
 Ma che è sto Farrotto? Beh, niente di tanto strano... praticamente è un risotto senza riso ma con il farro, tutto qui. Il farro è un cereale ricco di proteine vegetali, quindi una buonissima alternativa a quelle di origine animale. Quindi per noi vegetariani è perfetto! È ricco di fibre e ha pochissimi grassi. Purtroppo usiamo troppo poco questi cereali antichi che per fortuna stanno tornando di moda. Il farro si può usare in tantissimi modi, praticamente come il riso. Si possono fare i farrotti, delle insalate di farro o usarlo come contorno. Spero di usarlo più spesso anche io...
 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

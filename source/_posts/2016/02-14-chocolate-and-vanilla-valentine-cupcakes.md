@@ -18,7 +18,7 @@ categories:
 
 San Valentino... una festa che a tante persone piace, ma che altrettante persone detestano! I fiori in questi giorni costano un occhio della testa, le rose rosse soprattutto. Poi nei negozi ci sono fragole, lamponi... assurdo! È definitivamente troppo presto per quella frutta, poi non sanno di niente! Comunque, mentre pensavo al dolce da fare per questo San Valentino, mi sono accorta che era da un bel po' di tempo che non facevo dei bei Cupcakes. A San Valentino sicuramente non può mancare il cioccolato... quindi ho fatto dei muffin al cioccolato e vaniglia con un frosting supercioccolatoso. E tutto questo VEGAN! Passate questa giornata con le persone o la persona che amate e ricordatevi che San Valentino è tutti i giorni!
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

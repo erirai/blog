@@ -15,7 +15,7 @@ categories:
 Inauguro la stagione dei dolci natalizi con questa Baked Christmas Cheesecake. La ricetta l'ho presa dal fantastico Blog di (<a href="http://knusperstuebchen.net/2015/11/22/herzlich-willkommen-kalte-zeit-zupfkuchen/" target="_blank">Das Knusperstübchen</a>), se parlate il tedesco ve lo consiglio vivamente! Ho messo la foto anche su Instagram e ha avuto un successone! Mamma mia, non pensavo proprio! Colgo l'occasione per ringraziarvi per tutto l'affetto! Originariamente questo dolce si chiama Zupfkuchen, praticamente ha una base di frolla morbida, una farcia a base di Quark (un formaggio fresco simile alla ricotta) e sopra viene ricoperta con il resto della frolla che viene pizzicata con le dita. Questa però è la versione natalizia, quindi nella frolla ho messo le spezie per il Pan Pepato e la cannella e nella farcia c'è la scorza d'arancia e la cannella. Se non vi piaciono le spezie per il Pan Pepato potete anche non metterle... Se non riuscite a trovare il Quark, penso che potete prendere anche della semplice ricotta di mucca (quella di capra avrebbe il gusto troppo forte) e al posto della Crème Fraiche del semplice yogurt. Le quantità sono per una tortiera da 20cm e viene molto alta, se non la volete così alta, basta ridurre le quantità di un terzo. Ok, adesso siamo pronti per preparare la torta!
 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

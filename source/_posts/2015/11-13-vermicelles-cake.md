@@ -16,7 +16,7 @@ categories:
 Quando ancora lavoravo, la mia carissima amica Lucia in autunno portava questa buonissima torta. Inizialmente non l'ho voluta provare, perché dentro c'è la purea di castagne, quella per fare i Vermicelles e io detesto i Vermicelles. Proprio non mi scendono, amo le castagne ma i Vermicelles proprio zero! Poi mi sono presa di coraggio e meno male che l'ho fatto!!! Non vi dico quanto è buona... la torta è bella soffice e per niente asciutta, è una meraviglia. Non vedevo l'ora che arrivasse l'autunno solo per questa torta. La purea di castagne la potete comprare già pronta, normalmente si trova congelata. Oggi l'ho fatta io per la prima volta, è anche il compleanno di mio Papà. Spero che gli piaccia, se no me la pappo tutta io!
 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

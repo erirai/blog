@@ -15,7 +15,7 @@ categories:
 Avevo una voglia di qualcosa di asiatico e in dispensa ho trovato le sfogliatine di riso e i vermicelli cinesi. Ho aperto il frigo, c'era una verza, le carote, un peperone piccolino, porro, salsa agrodolce e la salsa di soia che non manca mai. Due sono le cose: ho faccio un brodino, una zuppetta con i vermicelli cinesi o faccio gli Involtini Primavera. Dato che i miei due piccoli terremoti dormivano, ne ho approfittato e ho preparato gli Involtini Primavera. Essendo inverno ho usato il porro e la verza. La cosa bella di questa ricetta è, che si possono usare le verdure di stagione. In primavera o estate si possono riempire con cipollotti freschi, piselli, zucchine, peperoni... C'è chi ci mette i vermicelli cinesi, c'è chi non li mette. Non sono un must, io li avevo quindi li ho messi... Come germogli ho trovato quelli di fagioli mungo, ma vanno benissimo anche quelli di soia, ancora meglio se li potete far germogliare voi stessi. Se non riuscite a trovare le sfogliatine di riso, quelle adatte a fare gli Spring Rolls, basta prendere la pasta fillo.
 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

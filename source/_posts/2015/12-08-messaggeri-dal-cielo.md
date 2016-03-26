@@ -19,7 +19,7 @@ categories:
 Volete fare dei biscotti con i vostri figli? Eccoli qua! Sono facilissimi, sono buoni, sono simpaticissimi e sono divertenti da fare! È un impasto base di frolla che ho aromatizzato con della scorza d'arancia e limone, voi potete usare anche solo uno dei due o addirittura aggiungere anche la scorza di mandarino. Non serve tanto, ma il risultato sarà molto carino. Mia figlia si divertiva a fare i puntini sulle stelline, che alla fine sembravano avere la varicella... e mio figlio la guardava e rideva, si sono divertiti tutti e due.
 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

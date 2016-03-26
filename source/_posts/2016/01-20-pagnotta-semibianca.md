@@ -14,7 +14,7 @@ categories:
 Ieri sera ho preparato l'impasto per il pane però con pochissimo lievito. Così facendo, l'impasto ha tutto il tempo per lievitare la notte intera. Usando poco lievito, il pane risulterà anche più leggero, senza quell'odore forte di lievito. Ho fatto l'impasto con un chilo di farina. Con la metà ho fatto due belle pagnotte, con il resto dei cuori di girelle, uno salato e l'altro dolce. Tutto con lo stesso impasto. Questo è l'impasto come lo faccio io di solito. Questa volta ho usato la farina semibianca, ma potete usare la farina che volete!
 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

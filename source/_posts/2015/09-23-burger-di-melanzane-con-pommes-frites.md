@@ -15,7 +15,7 @@ categories:
 
 I Burger Buns sono fatti, adesso pensiamo a farcire questo Veggie-Burger. Allora come pezzo forte preparerò delle melanzane impanate che cuocerò al forno, poi via libera ai vostri gusti... Come salsina ho usato del pesto che mi era rimasto, pomodoro, sottilette,... Il tutto accompagnato da Pommes Frites cotte al forno. Questo Burger di Melanzane non ha niente da invidiare al Hamburger! 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

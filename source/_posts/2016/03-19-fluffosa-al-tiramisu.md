@@ -19,7 +19,7 @@ categories:
 
 Oggi festeggiamo tutti i Papà! Al mio Papà come ogni anno, gli porto le rose del suo colore preferito e per mio marito, quest'anno mia figlia gli ha preparato una bella poesia... Si sta esercitando da settimane ormai! Io gli preparo una bella torta, una Fluffosa al Tiramisù o anche Chiffon Cake al Tirmisù. Il nome "Fluffosa" mi piace troppo, praticamente già dice tutto! Per questa torta c'è una ricetta di base, che poi può essere aromatizzata a piacere... Alla vaniglia, al limone, al caffé, al cioccolato, farcita, glassata, con la frutta o semplicemente con una spolverata di zucchero a velo! Per fare questa Fluffosa, servirebbe lo stampo adatto per renderla così alta è fluffosa. Potete usare anche uno stampo simile, ma il risultato non sarà lo stesso.
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

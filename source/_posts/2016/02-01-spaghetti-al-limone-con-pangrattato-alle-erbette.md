@@ -15,7 +15,7 @@ categories:
 Settimana scorsa al mercato ho comprato dei meravigliosi limoni bio rigorosamente siciliani! Non vi dico il profumo che fanno... Sinceramente potrei darli così ai miei piccoli e se li mangerebbero senza muovere un muscolo della faccia! Adorano mangiare il limone, chissà da chi avranno preso... Questo piatto si prepara molto velocemente, giusto il tempo della cottura della pasta. Potete sostituire il limone anche con l'arancia volendo. Come erbette ho usato quello che ho trovato in giardino. C'era il rosmarino, l'origano, poi stava spuntando anche la menta e il basilico che però era quello comprato. Con le dosi che vi do, il limone si sente molto, per un gusto più leggero, mettete meno succo di limone. Allora, buona Spaghettata!
 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

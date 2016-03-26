@@ -17,7 +17,7 @@ categories:
 I primi biscotti di questo Natale, devo dire la verità, non sono proprio belli... Ma il gusto è ottimo. Sono molto cioccolatosi e quel tocco di Rum ci sta veramente bene! L'impasto sarà molto appiccicoso perché in confronto al burro o alla margarina c'è poca farina, ma proprio per questo i biscotti saranno belli friabili e morbidi. Si fanno molto velocemente e servono pochissimi ingredienti. Se non avete il Rum o li volete fare senza alcol, basta prendere una o due fialette di aroma di Rum!
 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

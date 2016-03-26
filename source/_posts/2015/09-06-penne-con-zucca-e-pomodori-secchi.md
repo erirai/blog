@@ -15,7 +15,7 @@ categories:
 Appena arriva il fresco autunnale, la prima cosa che compro è la zucca! Mamma quanto mi piace!!! Non importa se zuppa, pasta, risotto, contorno... Come la fai e fai sempre zucca è! Per aprire la stagione dalle zucche ho iniziato con queste Penne condite con Zucca e Pomodori Secchi, che secondo me zucca e pomodori secchi fanno il matrimonio perfetto! Come sempre per i piatti con la pasta non vi do le dosi ma solo gli ingredienti. Vi dico solo che per 1kg di pasta ho usato 1.5kg di zucca e un pugno di pomodori secchi. Con queste quantità la pasta viene ben condita, quasi un piatto unico.
 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

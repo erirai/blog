@@ -17,7 +17,7 @@ categories:
 Sta sera a cena mangiamo dei Zucca Burger, quindi cosa serve? Giusto! Dei buoni panini per Burger. Questa volta ho scelto di fare dei panini al latte con dei semi di zucca, giusto per restare in tema... Per rendere i panini leggeri, vi consiglio di usare poco lievito e fare lievitare a lungo. Certo, se non avete tempo è un altro discorso. Se non avete il malto d'orzo, potete usare dello zucchero o del miele, ma se riuscite a trovarlo prendetelo, perché per questo tipo di ricette è molto utile.
 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

@@ -16,7 +16,7 @@ categories:
 Siiiiiiiii, oggi finalmente ce l'ho fatta a fare gli Gnocchi di Zucca! Sto sfruttando la zucca a tutto campo, beh è stagione. Mi ha aiutata mia figlia, abbiamo pasticciato un po', il pavimento dopo era pieno di farina, ma fa niente! Vi consiglio di condire gli Gnocchi di Zucca semplicemente con del burro e della salvia, così facendo sentirete tutto il gusto degli Gnocchi. Ma vanno benissimo anche conditi con una salsina alla panna, al formaggio o con del sugo.
 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

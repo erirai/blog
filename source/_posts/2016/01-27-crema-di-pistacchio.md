@@ -14,7 +14,7 @@ categories:
 Per il dolce che vedrete nel prossimo post, mi serviva la crema di pistacchio. Purtroppo qui è difficilissimo trovarla, come tante altre cose... Quindi cosa fai se ti serve qualcosa ma non si può comprare? Giusto! Si prepara in casa, che poi fatta in casa è sempre meglio...
 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

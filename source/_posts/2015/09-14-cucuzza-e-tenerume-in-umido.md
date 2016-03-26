@@ -16,7 +16,7 @@ categories:
 Ok, lo so! Tutti quelli che non hanno mai mangiato la cucuzza ed il tenerume non capiranno perché ho pubblicato questo Post. Chi però conosce il gusto dolciastro della cucuzza ed il gusto amarognolo del tenerume, sa perché ho pubblicato questo Post. Purtroppo qui la cucuzza non esiste, non si può comprare. Solo se hai la fortuna di conoscere qualcuno che la pianta nel proprio giardino, potrai mangiarla... È un piatto facilissimo e poverissimo, ma il gusto è troppo!!!
 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

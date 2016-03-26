@@ -15,7 +15,7 @@ categories:
 È ufficiale, mio Papà è il mio spacciatore di carciofi! Ecco! Questa volta come li preparo? Siiiiiiiiiiii, col sugo. Non vi dico che profumo in cucina... L'odore del sugo unito con i carciofi, mmm! Questo è un modo per fare un classico sugo di pomodoro, un po' diverso dal solito. C'è chi dice che il sugo di pomodoro non ha bisogno di nessun arricchimento (mio marito), c'è invece a chi piace cambiare e mettere qualcosina in più (io). Non ho buttato assolutamente niente dei carciofi: il cuore tenero del carciofo e i gambi li ho messi nel sugo, le foglie esterne le ho bollite e le abbiamo mangiate inzuppate in olio e aceto. Da noi non si butta niente o almeno ci proviamo...
 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

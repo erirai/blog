@@ -16,7 +16,7 @@ categories:
 Oggi ho fatto gli Gnocchi gratinati al forno... e volevo preparare anche un aperitivo! Ho aperto il frigo ho preso la pasta sfoglia, la Philadelphia, i pomodori secchi e qualche erbetta aromatica dal giardino e in pochi minuti ho preparato questi cornettini!
 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>

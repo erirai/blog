@@ -14,7 +14,7 @@ categories:
 Questa estate avevo il giardino pieno di erbe aromatiche e non sapevo cosa combinarci. Avevo già preparato il sale alle erbe ed è piaciuto molto, quindi ne ho fatto in più per poi regalarlo a natale. Come secondo tipo di sale aromatizzato oggi ho preparato il sale al pomodoro. Non ci vuole niente a prepararlo ma è buonissimo per aromatizzare zuppe, insalate, pasta e per chi mangia carne anche per la carne... Anche questo può essere preparato in anticipo e chiuso ermeticamente finché servirà.
 
 
-<div id="wrapper" style="text-align: center">    
+<div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
       <div class="ingredients-title">Ingredienti</div>
