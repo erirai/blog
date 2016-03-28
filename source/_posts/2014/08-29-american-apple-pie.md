@@ -8,7 +8,7 @@ tags:
 - tarte
 - vegan
 categories:
-- Dolci
+- Dolce
 - "Crostate, Tartes..."
 ---
 ![](header.jpg "frangipani © Erica")
@@ -102,7 +102,7 @@ Nel frattempo preparate il condimento. Lavate e sbucciate le mele, togliete il t
 Sfornate la teglia e abbassate la temperatura del forno a 180°C. Ricoprite con le mele.
 ![](mele.jpg "frangipani © Erica")
 
-Stendete l'altra metà della pasta frolla e ricoprite le mele. Aggiustate bene i bordi e fate dei taglietti. 
+Stendete l'altra metà della pasta frolla e ricoprite le mele. Aggiustate bene i bordi e fate dei taglietti.
 ![](teglia.jpg "frangipani © Erica")
 
 Dunque infornatela a 180°C (statico) per un'oretta. Verso fine cottura date sempre un'occhiata in modo che non si bruci. Fate raffreddare bene la torta direttamente nella teglia e non provate a toglierla dalla teglia che si rompe tutta. La prima fetta si spappola tutta dato che deve uscire tutto il succo (come potete vedere sulla foto) ma le altre fette tengono bene.
