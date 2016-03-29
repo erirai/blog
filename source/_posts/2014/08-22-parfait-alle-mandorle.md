@@ -2,7 +2,6 @@
 title: Parfait alle Mandorle
 date: 2014-08-22
 tags:
-- dolci
 - mandorle
 - gelato
 - vegan
