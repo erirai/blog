@@ -1,5 +1,5 @@
 ---
-title: Polpette di broccoli con cuore di mozzarella
+title: Polpette di Broccoli con Cuore di Mozzarella
 date: 2014-07-18
 tags:
 - polpette
