@@ -16,8 +16,12 @@ timezone: Europe/Zurich
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 # url: http://frangipani.raiano.ch/
 # root: /
-url: http://erirai.github.io/
-root: /blog/
+# url: http://erirai.github.io/
+# root: /blog/
+url: http://blog.raiano.ch/
+root: /
+additionalCNAMEs:
+  - frangipani.raiano.ch
 # permalink: :year/:month/:day/:title/
 permalink: :title/
 permalink_defaults:
