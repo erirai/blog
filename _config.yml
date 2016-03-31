@@ -96,6 +96,12 @@ robotstxt:
   useragent: "*"
   sitemap: /sitemap.xml
 
+feed:
+  type: rss
+  path: rss2.xml
+  limit: 0
+  hub:
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
