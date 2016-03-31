@@ -97,8 +97,8 @@ robotstxt:
   sitemap: /sitemap.xml
 
 feed:
-  type: rss
-  path: rss2.xml
+  type: atom
+  path: atom.xml
   limit: 20
   hub:
 
