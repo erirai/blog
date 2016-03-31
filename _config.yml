@@ -99,7 +99,7 @@ robotstxt:
 feed:
   type: rss
   path: rss2.xml
-  limit: 0
+  limit: 20
   hub:
 
 # Deployment
