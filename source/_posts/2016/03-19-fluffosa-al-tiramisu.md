@@ -95,7 +95,7 @@ Oggi festeggiamo tutti i Papà! Al mio Papà come ogni anno, gli porto le rose d
           </tr>
           <tr>
             <td>qb</td>
-            <td>scaglie di cioccolate per decorare</td>
+            <td>scaglie di cioccolato per decorare</td>
           </tr>
         </tbody>
       </table>
