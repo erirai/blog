@@ -1,6 +1,6 @@
 ---
 title: "Cotolette di Melanzane con Patate alle Erbe Aromatiche e Salsa allo Yogurt"
-date: 2016-04-14
+date: 2016-04-13
 tags:
 - piatto unico
 - melanzane
