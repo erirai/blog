@@ -166,7 +166,7 @@ Adesso iniziate a farcirla. Prendete una delle due creme e spalmatela sulla base
 Se andrete a ricoprire la torta con la pasta di zucchero, allora ricoprite tutta la torta con un finissimo strato di crema al mascarpone, per poi far aderire meglio la pasta di zucchero. Se no, ricoprite la torta come preferite.
 ![](ricoperta.jpg "frangipani © Erica")
 
-![]({{ site.baseurl }}/images/zebra cake farcita con crema al mascarpone e pistacchio/zebracakemascarponepistacchio.jpg "frangipani © Erica")
+![](risultato.jpg "frangipani © Erica")
 
 
 Con i ritagli della della torta ho fatto anche dei Cake Pops. Prendete i resti e sbriciolateli in una coppa capiente, la crosta dura non usatela, se no i Cake Pops non terrano.
