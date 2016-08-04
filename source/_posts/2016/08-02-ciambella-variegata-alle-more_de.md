@@ -145,7 +145,7 @@ Ich begrüsse diesen Monat mit diesen wunderbaren schweizer Brombeeren! Ich lieb
 <h3>
   <font color="grey">
     <i class="fa fa-cogs"></i>
-  </font> Preparazione
+  </font> Zubereitung
 </h3>
 
 In zwei verschiedenen Schüsseln Mehl, Maizena, Soiamehl (falls ihr kein Soiamehl habt, einfach mit Maizena ersetzen), Zucker, Vanillezucker, Salz und Backpulver geben und gut vermengen. In einer Schüssel Öl, Milch, die flüssige Margarine und den Saft sowie die Schale der Zitrone dazugeben und gut zusammen verrühren. Für den violetten Teig eine Handvoll Brombeeren mit etwas Wasser pürieren. Nehmt 3 Esslöffel pürierte Brombeeren und stellt diese auf die Seite, das benötigen wir später für die Glasur. Den Rest in ein Messbecher geben und mit Wasser auffühllen bis 125ml erreicht sind.
