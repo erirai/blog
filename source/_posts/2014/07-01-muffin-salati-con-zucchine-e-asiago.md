@@ -11,7 +11,7 @@ categories:
 ---
 ![](header.jpg "frangipani © Erica")
 
-ggi per la prima volta ho fatto i muffin salati... Devo dire che non era facile sciegliere la ricetta, perché ce ne sono veramente tante e sembrano tutte buone! Inizio con questa, poi si vedrà...
+Oggi per la prima volta ho fatto i muffin salati... Devo dire che non era facile sciegliere la ricetta, perché ce ne sono veramente tante e sembrano tutte buone! Inizio con questa, poi si vedrà...
 
 
 <div id="wrapper" style="text-align: center">
