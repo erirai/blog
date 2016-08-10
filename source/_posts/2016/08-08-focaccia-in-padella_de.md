@@ -7,7 +7,7 @@ tags:
 categories:
 - Salato
 - Panificati
-label: 2016-08-02-focaccia-in-padella
+label: 2016-08-08-focaccia-in-padella
 lang: de
 ---
 ![](../2016-08-08-focaccia-in-padella/header.jpg "frangipani © Erica")
