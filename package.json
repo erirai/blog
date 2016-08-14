@@ -6,7 +6,7 @@
     "init": "git submodule init && git submodule update && git submodule status",
     "pull": "git pull && git submodule update",
     "push": "git add . && git commit -m 'update' && git push",
-    "work": "hexo server",
+    "work": "hexo server --draft",
     "start": "hexo server",
     "deploy": "rm -rf public && hexo deploy --generate",
     "finish": "npm run push && npm run deploy"
