@@ -130,7 +130,10 @@ Adesso preparate la farcia ai pistacchi. Mettete i pistacchi in un frullatore e 
 A parte, in un'altra ciotola, mettete il formaggio spalmabile, lo zucchero a velo e l'estratto di vaniglia e amalgamate il tutto con le fruste elettriche. Aggiungete anche il composto ai pistacchi e continuate a mescolare il tutto sempre con le fruste elettriche. A questo punto aggiungete la panna precedentemente ben montata e con una spatola amalgamate mescolando dall'alto verso il basso per non far smontare la panna. Naturalmente potete montare tutta la panna insieme e poi dividerla in due.
 ![](compostopistacchi.jpg "frangipani © Erica")
 
-Tirate fuori dal frigo la teglia e aggiungete molto delicatamente la farcia ai pistacchi. Le due farcie non si devono mischiare, devono rimanere separate. 
+Tirate fuori dal frigo la teglia e aggiungete molto delicatamente la farcia ai pistacchi. Le due farcie non si devono mischiare, devono rimanere separate.
+
+{% youtube ctaKRxIU-C8 %}
+
 ![](teglia2.jpg "frangipani © Erica")
 
 A questo punto mettete la Cheesecake in congelatore per 3-4 ore. Se la lasciate di più diventerà un semifreddo e non sarà più morbida. Dopo 3-4 ore è perfetta da mangiare subito, se sta più di 4 ore la mangiate come semifreddo o la lasciate per una ventina di minuti a temperatura ambiente e diventerà subito bella morbida, natrualmente dipende anche dal caldo che c'è!
