@@ -14,7 +14,7 @@ lang: de
 ---
 ![](../2016-08-15-lasagna-estiva/header.jpg "frangipani © Erica")
 
-In Italien feiert man heute "Ferragosto", alle sind am Strand oder in den Bergen und geniessen den freien Tag mit der Familie. In einigen Kantonen, hier in der Schweiz, ist auch frei wegen Mariä Himmelfahrt, hier bei uns leider nicht, naja. In Italien isst man an diesem Tag oft Pastaauflauf, selbstgemachte Pizza oder Lasagne. Da ich noch etwa 5 Packungen Lasagne-Blätter zu Hause hatte, habe ich mit für Lasagne etschieden. Es ist eigentlich eine ganz normale Lasagne mit Tomatensauce, Mozzarella und Béchamelsauce, ich habe diese aber mit gegrilltem Sommergemüse verfeinert... Lecker!
+In Italien feiert man heute "Ferragosto", alle sind am Strand oder in den Bergen und geniessen den freien Tag mit der Familie. In einigen Kantonen, hier in der Schweiz, ist auch frei wegen Mariä Himmelfahrt, hier bei uns leider nicht, naja. In Italien isst man an diesem Tag oft Pastaauflauf, selbstgemachte Pizza oder Lasagne. Da ich noch etwa 5 Packungen Lasagne-Blätter zu Hause hatte, habe ich mich für Lasagne entschieden. Es ist eigentlich eine ganz normale Lasagne mit Tomatensauce, Mozzarella und Béchamelsauce, ich habe diese aber mit gegrilltem Sommergemüse verfeinert... Lecker!
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
