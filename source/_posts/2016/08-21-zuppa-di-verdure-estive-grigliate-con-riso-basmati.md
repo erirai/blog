@@ -1,5 +1,5 @@
 ---
-title: "Zuppa di Verdure Grigliate con Riso Basmati"
+title: "Zuppa di Verdure Estive Grigliate con Riso Basmati"
 date: 2016-08-21
 tags:
 - zuppa
