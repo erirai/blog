@@ -20,8 +20,6 @@ Ieri sera ho preparato l'impasto per il pane però con pochissimo lievito. Così
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
-          <tr>
-            <td colspan="2"><b>Impasto per Pane</b></td>
           </tr>
           <tr>
             <td>1kg</td>
