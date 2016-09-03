@@ -15,16 +15,16 @@ lang: de
 
 > Glückwunsch uns beiden, dieses Jahr sind es 5!
 
-Diesen Post widme ich Dir. Vor 5 Jahren hast du vor dem Altar auf mich gewartet um mich endlich an die Hand zu nehmen um diese nie wieder zu verlassen. 
+Diesen Post widme ich Dir. Vor 5 Jahren hast du vor dem Altar auf mich gewartet um mich endlich an die Hand zu nehmen um diese nie wieder zu verlassen.
 ![](../2016-09-03-no-bake-cheesecake-al-limone/noi1.jpg "frangipani © Erica")
 
-Um uns herum waren alle nervös, alle. Es gab alles... einige rannten rum, einige zogen den Bauch ein um gut auszusehen, einige haben beim Betreten der Kirche angefangen zu weinen und haben nicht mehr aufgehört, einige lachten um nicht zu weinen, einige taten so als wären sie nicht gerührt, einige kamen einfach so aus Neugierde... 
+Um uns herum waren alle nervös, alle. Es gab alles... einige rannten rum, einige zogen den Bauch ein um gut auszusehen, einige haben beim Betreten der Kirche angefangen zu weinen und haben nicht mehr aufgehört, einige lachten um nicht zu weinen, einige taten so als wären sie nicht gerührt, einige kamen einfach so aus Neugierde...
 ![](../2016-09-03-no-bake-cheesecake-al-limone/noi2.jpg "frangipani © Erica")
 
-Wir mussten wieder übertreiben, ein Pfarrer war nicht genug, nein wir brauchten zwei! Dein Onkel, der absolut nicht fehlen durfte und Don, mit dem wir aufgewachsen sind und zwar genau in dieser Kirche. Ich muss sagen, dass es ein Privileg war, die beiden Pfarrer persönlich zu kennen, die unsere Hochzeit zelebriert haben. Dann gab es auch uns zwei... die Ruhe selbst, der Frieden auf Erden. Mit voller Überzeugung und Bewusstein standen wir dort, ohne jemals daran zu zweifeln. Es war ein wunderschöner Tag, unvergesslich. 
+Wir mussten wieder übertreiben, ein Pfarrer war nicht genug, nein wir brauchten zwei! Dein Onkel, der absolut nicht fehlen durfte und Don, mit dem wir aufgewachsen sind und zwar genau in dieser Kirche. Ich muss sagen, dass es ein Privileg war, die beiden Pfarrer persönlich zu kennen, die unsere Hochzeit zelebriert haben. Dann gab es auch uns zwei... die Ruhe selbst, der Frieden auf Erden. Mit voller Überzeugung und Bewusstein standen wir dort, ohne jemals daran zu zweifeln. Es war ein wunderschöner Tag, unvergesslich.
 ![](../2016-09-03-no-bake-cheesecake-al-limone/noi3.jpg "frangipani © Erica")
 
-Die Zeremonie war persönlich und bewegend, das Fest ein Vergnügen... Ich kann mich noch errinnern, als wäre es gestern! Und jedes Mal, wenn ich daran denke, muss ich grinsen. Vor allem, wenn ich an unser Eröffnungstanz denke, niemand erwartete, dass wir plötzlich rumtanzten, alle waren überrascht. 
+Die Zeremonie war persönlich und bewegend, das Fest ein Vergnügen... Ich kann mich noch errinnern, als wäre es gestern! Und jedes Mal, wenn ich daran denke, muss ich grinsen. Vor allem, wenn ich an unser Eröffnungstanz denke, niemand erwartete, dass wir plötzlich rumtanzten, alle waren überrascht.
 ![](../2016-09-03-no-bake-cheesecake-al-limone/noi4.jpg "frangipani © Erica")
 
 Wir haben getanzt, gesungen, wir hatten sehr viel Spass. Am Ende des Abends nahmen wir das Auto und fuhren nach Hause. In unser zu Hause, dass seit Monaten bereit war und nur noch auf uns wartete.
@@ -90,7 +90,7 @@ Lass mich noch den anderen ein Paar Worte sagen... ich verspreche, dass das die 
   </font> Zubereitung
 </h3>
 
-Als erstes den Boden für die Cheesecake vorbereiten. Dafür die Butterkekse in den Blitzhacker geben bis diese sandig werden, danach alles in eine Schüssel geben. Die Butter schmelzen lassen, zu den Keksen geben, etwas Zitronensaft noch dazu und alles vermischen. 
+Als erstes den Boden für die Cheesecake vorbereiten. Dafür die Butterkekse in den Blitzhacker geben bis diese sandig werden, danach alles in eine Schüssel geben. Die Butter schmelzen lassen, zu den Keksen geben, etwas Zitronensaft noch dazu und alles vermischen.
 ![](../2016-09-03-no-bake-cheesecake-al-limone/biscotti.jpg "frangipani © Erica")
 
 Nehmt eine runde 20cm Springform, belegt den Boden mit Backpapier und bestreicht die Wände mit Butter. Gebt die Keksmasse in die Springform und drückt alles mit den Händen gut an, bis alles fest ist. Danach in den Kühlschrank stellen.
@@ -102,7 +102,7 @@ In einer Schüssel Frischkäse und Puderzucker von Hand cremig schlagen. Den Zit
 Gebt die Zitronenfüllung in die Springform mit dem Keksboden und streicht alles glatt.
 ![](../2016-09-03-no-bake-cheesecake-al-limone/teglia.jpg "frangipani © Erica")
 
-{% youtube I3GARljjZLM %}
+{% youtube n7d1-BNABic %}
 
 Jetzt kommt die Cheesecake für die ganze Nacht in den Kühlschrank (da es keine Gelatine hat, braucht es länger), ihr könnt sie auch in den Gefrierschrank tun, so etwa eine Stunde bevor ihr sie serviert. Zum Schluss noch mit Zitronenscheiben und Minze oder Zitronenmelisse dekorieren.
 ![](../2016-09-03-no-bake-cheesecake-al-limone/risultato1.jpg "frangipani © Erica")

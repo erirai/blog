@@ -15,13 +15,13 @@ lang: it
 
 > Tanti auguri a noi due, quest'anno sono 5!
 
-Questo post è dedicato tutto a te, a te che esattamente 5 anni fa mi aspettavi davanti all'altare per darmi finamlente la mano e non lasciarla mai più! 
+Questo post è dedicato tutto a te, a te che esattamente 5 anni fa mi aspettavi davanti all'altare per darmi finamlente la mano e non lasciarla mai più!
 ![](noi1.jpg "frangipani © Erica")
 
-Attorno a noi erano tutti nervosi, tutti. Chi correva in giro, chi si ritirava la pancia per fare bella figura nel vestito comprato a posta per l'occasione, chi appena entrato in chiesa si è messo a piangere e non ha smesso più, chi rideva per non piangere, chi faceva finta di non essere emozionato, chi è venuto per curiosità... 
+Attorno a noi erano tutti nervosi, tutti. Chi correva in giro, chi si ritirava la pancia per fare bella figura nel vestito comprato a posta per l'occasione, chi appena entrato in chiesa si è messo a piangere e non ha smesso più, chi rideva per non piangere, chi faceva finta di non essere emozionato, chi è venuto per curiosità...
 ![](noi2.jpg "frangipani © Erica")
 
-Poi al nostro solito dovevamo esagerare, non ci bastava solo un prete, ma ne servivano due! Tuo zio, che assolutamente non poteva mancare e Don che ci ha visti crescere, proprio in quella chiesa. Devo dire che è stato un privilegio, conoscere i preti che hanno celebrato il nostro matrimonio! E poi c'eravamo anche noi... tranquillissimi, la pace sulla terra. Convinti e consapevoli di quello che stavamo facendo, mai un minimo dubbio! È stata una giornata bellissima, indimenticabile. 
+Poi al nostro solito dovevamo esagerare, non ci bastava solo un prete, ma ne servivano due! Tuo zio, che assolutamente non poteva mancare e Don che ci ha visti crescere, proprio in quella chiesa. Devo dire che è stato un privilegio, conoscere i preti che hanno celebrato il nostro matrimonio! E poi c'eravamo anche noi... tranquillissimi, la pace sulla terra. Convinti e consapevoli di quello che stavamo facendo, mai un minimo dubbio! È stata una giornata bellissima, indimenticabile.
 ![](noi3.jpg "frangipani © Erica")
 
 Una cerimonia personale ed emozionante, una festa divertentissima... Me lo ricordo come se fosse ieri! E ogni volta che ci penso, ho il sorriso stampato in faccia... Soprattutto quando penso al nostro ballo, eh si perché nessuno si aspettava che tutto d'un tratto ci scatenavamo, sono rimasti tutti sorpresi.
@@ -90,7 +90,7 @@ Fammi dire una parola anche agli altri... allora, vi prometto che questa è l'ul
   </font> Preparazione
 </h3>
 
-Per prima cosa preparate la base per la Cheesecake. Frullate i biscotti riducendoli in polvere. Poi aggiungete il burro fuso e qualche goccia di succo di limone e amalgamate il tutto. 
+Per prima cosa preparate la base per la Cheesecake. Frullate i biscotti riducendoli in polvere. Poi aggiungete il burro fuso e qualche goccia di succo di limone e amalgamate il tutto.
 ![](biscotti.jpg "frangipani © Erica")
 
 Prendete una teglia rotonda a cerniera da 20cm, coprite il fondo con della carta forno e imburrate i bordi. Mettete i biscotti sbriciolati nella teglia e con la mano schiacchiate bene, compattando la base. Poi mettetela in frigo.
@@ -102,7 +102,7 @@ In una coppa mettete il formaggio spalmabile e lo zucchero a velo, con le fruste
 Versate il composto nella teglia con la base di biscotti e livellate bene.
 ![](teglia.jpg "frangipani © Erica")
 
-{% youtube I3GARljjZLM %}
+{% youtube n7d1-BNABic %}
 
 A questo punto mettete la Cheesecake in frigo per tutta la notte (dato l'assenza di gelatina, richiede più tempo per rassodarsi), volendo potete metterla in congelatore un'oretta prima di servirla. Prima di servirla, decorate con qualche fettina di limone e qualche ciuffetto di menta o melissa.
 ![](risultato1.jpg "frangipani © Erica")
