@@ -13,7 +13,7 @@ categories:
 ---
 ![](header.jpg "frangipani © Erica")
 
-vevo un sacco di mele che dovevo usare quindi oggi ho fatto la tipica American Apple Pie (Torta di mele). È veramente facile e si fa in poco tempo. Poi questa torta mi ricorda tantissimo le torte che fanno nei cartoni animati, tipo da Biancaneve...
+Avevo un sacco di mele che dovevo usare quindi oggi ho fatto la tipica American Apple Pie (Torta di mele). È veramente facile e si fa in poco tempo. Poi questa torta mi ricorda tantissimo le torte che fanno nei cartoni animati, tipo da Biancaneve...
 
 
 <div id="wrapper" style="text-align: center">
@@ -59,10 +59,6 @@ vevo un sacco di mele che dovevo usare quindi oggi ho fatto la tipica American A
           </tr>
           <tr>      
             <td>200gr</td>
-            <td>zucchero</td>
-          </tr>
-          <tr>
-            <td>100gr</td>
             <td>zucchero di canna</td>
           </tr>
           <tr>
@@ -107,16 +103,6 @@ Stendete l'altra metà della pasta frolla e ricoprite le mele. Aggiustate bene i
 
 Dunque infornatela a 180°C (statico) per un'oretta. Verso fine cottura date sempre un'occhiata in modo che non si bruci. Fate raffreddare bene la torta direttamente nella teglia e non provate a toglierla dalla teglia che si rompe tutta. La prima fetta si spappola tutta dato che deve uscire tutto il succo (come potete vedere sulla foto) ma le altre fette tengono bene.
 ![](risultato.jpg "frangipani © Erica")
-
-
-
-<h3>
-  <font color="#FFCC00">
-    <i class="fa fa-lightbulb-o"></i>
-  </font> P.S.
-</h3>
-
-Secondo me le mele sono troppo dolci, pensando che ci sono 300gr di zucchero, ma è questione di gusti. Poi per la pasta frolla ho usato il latte di riso al posto dell'acqua.
 
 <h4>Buon appetito
   <font color="red">
