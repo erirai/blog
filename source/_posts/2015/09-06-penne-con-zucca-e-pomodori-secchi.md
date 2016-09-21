@@ -5,6 +5,7 @@ tags:
 - zucca
 - pomodori secchi
 - primi
+- halloween
 - vegan
 categories:
 - Salato

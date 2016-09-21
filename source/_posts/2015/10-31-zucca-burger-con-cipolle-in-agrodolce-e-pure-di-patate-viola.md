@@ -6,6 +6,7 @@ tags:
 - burger
 - zucca
 - patate
+- halloween
 - vegan
 categories:
 - Salato
