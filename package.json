@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "init": "git submodule init && git submodule update && git submodule status",
-    "pull": "git pull && git submodule update && git submodule foreach git pull origin master",
+    "pull": "git pull && git submodule update && git submodule foreach git pull origin master && cd themes/hueman && git checkout master && git pull && cd ../..",
     "push": "git add . && git commit -m 'update' && git push",
     "work": "hexo server --draft",
     "start": "hexo server",
@@ -12,7 +12,7 @@
     "finish": "npm run push && npm run deploy"
   },
   "hexo": {
-    "version": "3.2.2"
+    "version": "3.2.0"
   },
   "dependencies": {
     "deepmerge": "^0.2.10",
