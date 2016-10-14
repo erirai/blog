@@ -9,7 +9,7 @@ tags:
 - halloween
 - vegan
 categories:
-- Salato
+- Dolce
 - Torte
 label: 2016-10-10-fluffosa
 lang: it
