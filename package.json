@@ -9,6 +9,7 @@
     "work": "hexo server --draft",
     "start": "hexo server",
     "deploy": "rm -rf public && hexo deploy --generate",
+    "publish": "hexo deploy",
     "finish": "npm run push && npm run deploy"
   },
   "hexo": {
