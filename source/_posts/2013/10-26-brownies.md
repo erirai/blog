@@ -72,7 +72,6 @@ Avevo voglia di qualcosa di cioccolatoso dato che quà è iniziato definitivamen
 </h3>
 
 Mettete tutto il cioccolato ed il burro a sciogliere a bagnomaria. Nel frattempo mettete in una ciotola la farina, lo zucchero, lo zucchero vanigliato, le uova ed un pizzico di sale e mescolate il tutto con il mixer o con la planetaria per 10min. Quando il cioccolato sarà sciolto aggiungegelo all'impasto e mescolate ancora per 5min. Fate le noci a pezzettini (io lo faccio con il batticarne) ed aggiungeteli all'impasto e mescolate a mano. Prendete una teglia da 27x38cm metteteci un foglio di carta forno e versateci tendo l'impasto. Infornate nel forno preriscaldato a 200°C per 30min. Quando saranno freddi tagliateli a cubetti e cospargeteli di zucchero a velo.
-
 ![](risultato.jpg "frangipani © Erica")
 
 
