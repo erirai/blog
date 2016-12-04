@@ -23,7 +23,7 @@ Mio marito mi aveva chiesto dei biscotti molto cioccolatosi... Eccoli quà!
             <td colspan="2"><b>Impasto</b></td>
           </tr>
           <tr>
-            <td>120gr</td>
+            <td>ca. 300gr</td>
             <td>farina</td>
           </tr>
           <tr>

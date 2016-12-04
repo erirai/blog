@@ -45,13 +45,13 @@ Il 6 dicembre qui in Svizzera Santa Claus viene a casa dei bambini per portargli
             <td>margarina</td>
           </tr>
           <tr>
-            <td>40gr</td>
+            <td>10gr</td>
             <td>lievito per pane</td>
           </tr>
           <tr>
             <td>2 dl</td>
             <td>latte</td>
-           </tr>
+          </tr>
           <tr>
             <td>1</td>
             <td>uovo</td>
@@ -110,7 +110,7 @@ Il 6 dicembre qui in Svizzera Santa Claus viene a casa dei bambini per portargli
   </font> Preparazione
 </h3>
 
-Impastate tutti gli ingredienti per l'impasto, poi mettetelo a lievitare a temperatura ambiente per ca. 3 ore o in frigo per tutta la notte.
+Impastate tutti gli ingredienti per l'impasto, poi mettetelo a lievitare a temperatura ambiente per ca. 4 ore o finché avrà raddoppiato il suo volume. Se non avete tutto questo tempo aumentate la dose del lievito. Potete preparare l'impasto anche la sera prima usando la metà del lievito e lasciandolo lievitare per tutta la notte a temperatura ambiente.
 ![](impasto.jpg "frangipani © Erica")
 
 Nel frattempo preparate il ripieno, mescolando insieme tutti gli ingredienti.
@@ -126,6 +126,8 @@ Arrotolatela e tagliatela a metà per il lungo.
 
 Poi mettetela direttamente in una teglia con sotto della carta forno, attorcigliate i due pezzi e fatela lievitare ancora per mezz'oretta.
 ![](intrecciata.jpg "frangipani © Erica")
+
+{% youtube UvnCqbhwxTw %}
 
 Ora infornate la treccia russa nel forno preriscaldato a 180°C per 30min (controllate può essere che ci vuole più o meno tempo)! Preparate velocemente la glassa mescolando tutti gli ingredienti e spalmatela sulla treccia appena sfornata.
 ![](risultato1.jpg "frangipani © Erica")
