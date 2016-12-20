@@ -73,7 +73,7 @@ Nun den Saft einer Zitrone dazu geben, ihr könnt sehen, wie sich die Farbe des 
 In einem separaten Kochtopf 1.5l Wasser mit 2 Stückchen Zitronenschale aufkochen, das braucht ihr um den Risotto zu kochen.
 ![](../2016-12-07-risotto-al-cavolo-viola-profumato-al-limone/acqua.jpg "frangipani © Erica")
 
-Sobald der Rotkohl weich geworden ist, könnt ihr den Reis dazugeben und für eine Minute alles unter ständigem Rühren rösten. Nun etwas vom heissen Zitronenwasser dazu geben und auf mittlerer Stufe unter gelegentlichem Rühren  köcheln lassen.
+Sobald der Rotkohl weich geworden ist, könnt ihr den Reis dazugeben und für eine Minute alles unter ständigem Rühren rösten. Nun etwas vom heissen Zitronenwasser dazu geben und auf mittlerer Stufe unter gelegentlichem Rühren köcheln lassen.
 ![](../2016-12-07-risotto-al-cavolo-viola-profumato-al-limone/riso.jpg "frangipani © Erica")
 
 Sobald der Reis das ganze Wasser absorbiert hat, könnt ihr nochmals heisses Zitronenwasser dazu geben. Wiederholt das ganze, bis der Reis gar ist, zum Schluss salzen und geriebene Zitronenschale dazu geben. Den Risotto auftischen und zum Schluss nochmals etwas Zitronenschale darüber streuen.
