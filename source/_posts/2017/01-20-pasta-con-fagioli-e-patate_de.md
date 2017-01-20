@@ -14,7 +14,7 @@ categories:
 label: 2017-01-20-pasta-con-fagioli-e-patate
 lang: de
 ---
-![](../2017-01-19-pasta-con-fagioli-e-patate/header.jpg "frangipani © Erica")
+![](../2017-01-20-pasta-con-fagioli-e-patate/header.jpg "frangipani © Erica")
 
 Es ist so kalt, es schneit, es ist alles weiss... wunderschön! Ich muss aber sagen, dass ich eher der Sonnen- und Wärmemensch bin, ich mag die Kälte überhaupt nicht, aber der Schnee hat etwas beruhigendes, friedliches... es wird alles so still und gemühtlich. Versteht ihr was ich meine? Die Kleinen hatten auch viel Spass im Schnee, meine Tochter hat sogar eine Sandburg gemacht, mit Schnee gäll. Dann ist es windig geworden, fast schon stürmisch, richtig kalt und bissig. Du gehst nach Draussen und sofort bereust du es, leider können wir uns aber nicht zu Hause einschliessen und in den Winterschlaf gehen, darum ganz warm einpacken und diese Kälte ertragen bis der Frühling kommt! Aber, etwas können wir tun, damit diese eisigen Tage erträglicher werden. Wir können uns mit gutem Essen verwöhnen, mit wärmendem Essen wie diese Bohnen-Kartoffelsuppe mit Pasta. Sie ist so richtig cremig geworden, es war ein Genuss! Die Kartoffeln und ein Teil der Bohnen haben sich aufgelöst, so kann man auch die Bohnen verstecken für diejenigen, die sie nicht so sehr mögen... Ich weiss ganz genau, dass ihr auch kalt habt, worauf wartet ihr noch? Ab in die Küche um diese Suppe zu kochen! 
 
