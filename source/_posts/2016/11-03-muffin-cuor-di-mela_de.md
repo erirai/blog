@@ -75,7 +75,7 @@ Halloween ist vorbei, nun kann ich endlich den Korb voller Äpfel vom Baum meine
       </tbody>
     </table>
     <br></br>
-    <i class="pull-right" style="font-size: 80%;">per ca. 12 Muffin</i>
+    <i class="pull-right" style="font-size: 80%;">für ca. 12 Muffins</i>
   </div>
   </div>
 </div>
