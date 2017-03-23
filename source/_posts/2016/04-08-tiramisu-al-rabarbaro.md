@@ -5,7 +5,7 @@ tags:
 - dolci
 - mascarpone
 - rabarbaro
-- dolce al cucchiaio
+- dolci al cucchiaio
 - festa della mamma
 categories:
 - Dolce

@@ -2,7 +2,7 @@
 title: "Sfoglia al Rabarbaro"
 date: 2016-04-04
 tags:
-- sfoglia
+- pasta sfoglia
 - rabarbaro
 - dolci
 categories:

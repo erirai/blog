@@ -4,7 +4,7 @@ date: 2016-01-27
 tags:
 - dolci
 - torta
-- pistacchio
+- pistacchi
 - arance
 categories:
 - Dolce

@@ -5,7 +5,7 @@ tags:
 - primi
 - cavolfiore
 - pasta
-- pomodoro
+- pomodori
 - vegan
 categories:
 - Salato

@@ -3,7 +3,6 @@ title: "Pumpkin Spice Latte"
 date: 2016-10-12
 tags:
 - zucca
-- latte
 - bevande
 - colazione
 - halloween

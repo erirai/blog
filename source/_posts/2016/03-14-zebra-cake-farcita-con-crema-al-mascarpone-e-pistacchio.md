@@ -5,7 +5,7 @@ tags:
 - dolci
 - torta
 - mascarpone
-- pistacchio
+- pistacchi
 - zebra cake
 categories:
 - Dolce

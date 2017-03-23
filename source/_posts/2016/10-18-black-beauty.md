@@ -6,7 +6,7 @@ tags:
 - cioccolato
 - dolci
 - torta
-- fest del papà
+- festa del papà
 - halloween
 - vegan
 categories:

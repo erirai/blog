@@ -5,7 +5,6 @@ tags:
 - biscotti
 - dolci
 - cacao
-- rum
 - vegan
 - natale
 categories:

@@ -5,7 +5,7 @@ tags:
 - primi
 - melanzane
 - pasta
-- pomodoro
+- pomodori
 - natale
 categories:
 - Salato

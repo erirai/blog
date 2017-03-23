@@ -3,7 +3,7 @@ title: "Spaghetti con Sugo e Carciofi"
 date: 2016-01-17
 tags:
 - primi
-- sugo
+- pomodori
 - carciofi
 - vegan
 categories:
