@@ -131,7 +131,7 @@ Diese kommt für 70-75min in den vorgeheizten Ofen bei 160°C Ober- und Unterhit
 In der Zwischenzeit den Krokant vorbereiten. Dafür die Nussmischung mit dem Messer grob hacken.
 ![](../2016-11-18-fluffosa-alla-frutta-secca-con-caramello-croccante/fruttasecca.jpg "frangipani © Erica")
 
-Zucker und ein paar Trofpen Zitronensaft in eine Bratpfanne geben und auf mittlerer Hitze schmelzen lassen. Immer aufpassen, dass der Zucker nicht verbrennt. Passt auch auf, dass ihr euch nicht verbrennt.
+Zucker und ein paar Tropfen Zitronensaft in eine Bratpfanne geben und auf mittlerer Hitze schmelzen lassen. Immer aufpassen, dass der Zucker nicht verbrennt. Passt auch auf, dass ihr euch nicht verbrennt.
 ![](../2016-11-18-fluffosa-alla-frutta-secca-con-caramello-croccante/caramello.jpg "frangipani © Erica")
 
 Sobald der Zucker vollständig geschmolzen und bräunlich geworden ist, vom Herd nehmen und Nussmischung dazu geben. Kurz alles vermengen, dann auf ein Blatt Backpapier geben und mit einer Zitrone flach drücken. Lasst den Krokant vollständig auskühlen, dann in kleine Stücke brechen.
