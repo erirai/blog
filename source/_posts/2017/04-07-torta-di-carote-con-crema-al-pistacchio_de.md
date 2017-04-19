@@ -127,7 +127,7 @@ Nun Creme vorbereiten: Weisse Schokolade zusammen mit der Butter im Wasserbad sc
 Für dem Krokant Zucker und ein paar Tropfen Zitronensaft in eine Bratpfanne geben und auf mittlerer Hitze schmelzen lassen. Immer aufpassen, dass der Zucker nicht verbrennt. Passt auch auf, dass ihr euch nicht verbrennt. Sobald der Zucker vollständig geschmolzen und bräunlich geworden ist, die gerösteten Pistazien dazu geben. Kurz alles vermengen, dann auf ein Blatt Backpapier geben und mit einer Zitrone flach drücken. Lasst den Krokant vollständig auskühlen.
 ![](../2017-04-07-torta-di-carote-con-crema-al-pistacchio/croccante.jpg "frangipani © Erica")
 
-Sobald der Kuchen vollständig ausgekühlt ist, in drei Teilen. Ihr braucht drei Scheiben. Versucht auch den obersten Teil etwas auszugleichen.
+Sobald der Kuchen vollständig ausgekühlt ist, in drei teilen. Ihr braucht drei Scheiben. Versucht auch den obersten Teil etwas auszugleichen.
 ![](../2017-04-07-torta-di-carote-con-crema-al-pistacchio/dischi.jpg "frangipani © Erica")
 
 Die erste Scheibe auf einen Teller legen, dann Pistaziencreme darauf verteilen. Falls die Creme zu hart geworden ist, lasst sie ein wenig bei Zimmertemperatur ruhen. Für den Crunch, habe ich noch etwas Pistazienkrokant auf der Creme verteilt.
