@@ -1,5 +1,5 @@
 ---
-title: "Kartoffel-Artischoken-Tarte"
+title: "Kartoffel-Artischocken-Tarte"
 date: 2017-04-21
 tags:
 - torta salata
