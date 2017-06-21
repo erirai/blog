@@ -1,5 +1,5 @@
 ---
-title: "Crumble mit Kirschen und Erdbeeren"
+title: "Kirschen-Erdbeer-Crumble"
 date: 2017-06-22
 tags:
 - crumble 
