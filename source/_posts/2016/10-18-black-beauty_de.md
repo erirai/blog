@@ -1,5 +1,5 @@
 ---
-title: "Black Beauty (Chocolate Chiffon Cake)"
+title: "Black Beauty (vegan Chocolate Chiffon Cake)"
 date: 2016-10-18
 tags:
 - fluffosa

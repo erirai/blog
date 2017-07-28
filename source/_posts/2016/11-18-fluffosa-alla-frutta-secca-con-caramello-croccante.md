@@ -117,7 +117,7 @@ Comunque sia, per l'occasione ho preparato questa fluffosissima Fluffosa alla fr
   </font> Preparazione
 </h3>
 
-Separate gli albumi dai tuorli e montate a neve gli albumi con due gocce di succo di limone, mettete da parte. In una coppa a parte mettete la farina, la frutta secca macinata, il lievito, un pizzico di sale e lo zucchero, tutto setacciato. Aggiungete i tuorli, l'olio, l'acqua e 2-3 gocce di essenza di mandorla amara. Mescolate il tutto con le fruste elettriche. Adesso aggiungete un po' alla volta gli albumi montati a neve e incoropateli aiutandovi con una spoatola. Come al solito con un movimento dall'alto verso il basso, facendo attenzione a non far smontare gli albumi.
+Separate gli albumi dai tuorli e montate a neve gli albumi con due gocce di succo di limone, mettete da parte. In una coppa a parte mettete la farina, la frutta secca macinata, il lievito, un pizzico di sale e lo zucchero, tutto setacciato. Aggiungete i tuorli, l'olio, l'acqua e 2-3 gocce di essenza di mandorla amara. Mescolate il tutto con le fruste elettriche. Adesso aggiungete un po' alla volta gli albumi montati a neve e incoropateli aiutandovi con una spatola. Come al solito con un movimento dall'alto verso il basso, facendo attenzione a non far smontare gli albumi.
 ![](impasto.jpg "frangipani © Erica")
 
 Versate l'impasto nello stampo per Chiffon Cake, mi raccomando NON c'è bisogno di imburrarlo ed infarinarlo.
