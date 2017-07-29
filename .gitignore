@@ -7,3 +7,4 @@ public/
 .deploy*/
 npm-debug.log
 source/_drafts
+package-lock.json
