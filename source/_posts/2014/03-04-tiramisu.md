@@ -27,7 +27,7 @@ Vi do le misure esatte solo per la crema di mascarpone, per il resto degli ingre
             <td>Mascarpone</td>
           </tr>
           <tr>
-            <td>3</td>
+            <td>2</td>
             <td>uova</td>
           </tr>
           <tr>
@@ -75,7 +75,7 @@ Vi do le misure esatte solo per la crema di mascarpone, per il resto degli ingre
 Per primo preparate il caffè, poi mettetelo in una coppa, aggiungete un po' di zucchero e la fialetta di aroma di rum e fatelo raffreddare. Se volete potete mettere anche del rum o un altro liquore.
 ![](caffe.jpg "frangipani © Erica")
 
-Poi preparate la crema di mascarpone: separate le uova e per primo montate a neve gli albumi con un pizzico di sale. In un'altra coppa mettete i tuorli con lo zucchero e sbattete con il mixer finché sarà bello spumoso. Poi aggiungete il mascarpone e la scorza di limone e d'arancia e continuate a mescolare sempre col mixer. A questo punto incorporate a mano gli albumi montati a neve mescolando dall'alto verso il basso, in questo modo rimane spumoso. Fate riposare la crema in frigo per farla solidificare.
+Poi preparate la crema di mascarpone: separate le uova e per primo montate a neve gli albumi con due gocce di limone. In un'altra coppa mettete i tuorli con lo zucchero e sbattete con il mixer finché sarà bello spumoso. Poi aggiungete il mascarpone e la scorza di limone e d'arancia e continuate a mescolare sempre col mixer. A questo punto incorporate a mano gli albumi montati a neve mescolando dall'alto verso il basso, in questo modo rimane spumoso. Fate riposare la crema in frigo per farla solidificare.
 ![](mascarpone.jpg "frangipani © Erica")
 
 Ora possiamo assemblare il tutto. Prendete una pirofila, immergete un savoiardo dopo l'altro nel caffé e metteteli nella pirofila.
