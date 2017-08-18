@@ -10,7 +10,7 @@ tags:
 categories:
 - Salato
 - "Primi Piatti"
-label: 2017-06-06-pasta-con-pomodori-secchi-e-fiori-di-zucca
+label: 2017-06-01-pasta-con-pomodori-secchi-e-fiori-di-zucca
 lang: it
 ---
 ![](header.jpg "frangipani © Erica")

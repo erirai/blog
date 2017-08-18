@@ -1,6 +1,6 @@
-title: ricettario
+title: rezepte
 layout: groups
 comments: false
 label: groups
-lang: it
+lang: de
 ---
