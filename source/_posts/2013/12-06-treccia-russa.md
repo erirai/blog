@@ -10,6 +10,7 @@ tags:
 categories:
 - Dolce
 - Panificati
+lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 

@@ -8,6 +8,7 @@ tags:
 categories:
 - Salato
 - "Primi Piatti"
+lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
@@ -77,7 +78,7 @@ C'è il sole, anche se c'è un venticello fresco, sono seduta in giardino, mi be
 Per prima cosa lavate le zucchine e tagliate la calotta. Poi scavatele con uno scavino, facendo attenzione a non togliere troppa polpa.
 ![](scavare.jpg "frangipani © Erica")
 
-Mettete le zucchine scavate e le calotte su di una leccarda con sotto della carta forno. 
+Mettete le zucchine scavate e le calotte su di una leccarda con sotto della carta forno.
 ![](zucchine.jpg "frangipani © Erica")
 
 Salate le zucchine e infornatele nel forno preriscaldato a 180°C ventilato per mezz'oretta. Poi rovesciatele per farle sgocciolare (durante la cottura spesso si crea dell'acqua che va tolta).

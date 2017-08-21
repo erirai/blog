@@ -9,6 +9,7 @@ tags:
 categories:
 - Salato
 - "Primi Piatti"
+lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
@@ -65,13 +66,13 @@ categories:
   </font> Preparazione
 </h3>
 
-Togliete le foglie esterne dure del carciofo e mettetele da parte. Tagliate le punte e finite di pulire il cuore del carciofo. Tagliatelo a metà, togliete la barbetta e tagliatelo a listarelle fine. 
+Togliete le foglie esterne dure del carciofo e mettetele da parte. Tagliate le punte e finite di pulire il cuore del carciofo. Tagliatelo a metà, togliete la barbetta e tagliatelo a listarelle fine.
 ![](carciofi.jpg "frangipani © Erica")
 
-Pulite i gambi tagliando via i filamenti esterni e tagliateli a rondelle. Mettete in una padella o in una pentola uno spicchio d'aglio con un filo d'olio evo e un pizzico di sale, fatelo soffriggere poi aggiungete i carciofi e i gambi e fateli rosolare un po'. 
+Pulite i gambi tagliando via i filamenti esterni e tagliateli a rondelle. Mettete in una padella o in una pentola uno spicchio d'aglio con un filo d'olio evo e un pizzico di sale, fatelo soffriggere poi aggiungete i carciofi e i gambi e fateli rosolare un po'.
 ![](carciofipadella.jpg "frangipani © Erica")
 
-A questo punto aggiungete la passata di pomodoro, allungate con un po' d'acqua, mettete qualche fogliolina di basilico e fate andare a fuoco moderato finché il sugo non si sarà addensato, non vi dimenticate di aggiustare di sale. 
+A questo punto aggiungete la passata di pomodoro, allungate con un po' d'acqua, mettete qualche fogliolina di basilico e fate andare a fuoco moderato finché il sugo non si sarà addensato, non vi dimenticate di aggiustare di sale.
 ![](sugo.jpg "frangipani © Erica")
 
 Mettete le foglie esterne dei carciofi che avevate messo da parte in una pentola capiente, riempite con l'acqua, portate ad ebollizione e fateli bollire ancora per una decina di minuti. Scolate le foglie e buttate la pasta nella stessa acqua di cottura delle foglie dei carciofi e salate. Le foglie dei carciofi le potete mangiare così, inzuppandole in olio e aceto, mia figlia li adora!

@@ -11,6 +11,7 @@ tags:
 categories:
 - Dolce
 - "Crostate, Tartes..."
+lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 

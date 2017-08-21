@@ -10,6 +10,7 @@ tags:
 categories:
 - Salato
 - Primi Piatti
+lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
@@ -65,18 +66,18 @@ Ma che è sto Farrotto? Beh, niente di tanto strano... praticamente è un risott
 Se usate il farro integrale, allora dovete metterlo in ammollo per tutta la notte, se usate quello perlato non c'è bisogno di metterlo in ammollo. Comunque seguite le indicazioni sulla confezione. Preparate il sughetto per il farrotto: tagliate finemente lo scalogno, pulite il peperone e tagliatelo a quadrotti. Prendete una padella antiaderente e fate soffriggere lo scalogno con un filo d'olio e un pizzico di sale, poi aggiungete il peperone tagliato a quadretti. Fate rosolare per un po', poi aggiungete la passate di pomodoro e un po' d'acqua (vanno bene anche i pomodorini freschi) e fate insaporire per qualche minuto.
 ![](sughetto.jpg "frangipani © Erica")
 
-Passate il sughetto in un recipiente stretto e alto per poi frullare il tutto con il mixer ad immersione. Quando avrete ottenuto una cremina bella liscia, rimettete il tutto nella padella. 
+Passate il sughetto in un recipiente stretto e alto per poi frullare il tutto con il mixer ad immersione. Quando avrete ottenuto una cremina bella liscia, rimettete il tutto nella padella.
 ![](sughettofrullato.jpg "frangipani © Erica")
 
 Scolate il farro...
 ![](farro.jpg "frangipani © Erica")
 
-...e versatelo nel sughetto. 
+...e versatelo nel sughetto.
 ![](padella.jpg "frangipani © Erica")
 
 A questo punto cuocete il farro esattamente come un risotto. Quando il sughetto si sarà asciugato aggiungete un po' di acqua bollente e così via finché il farro sarà cotto, ci vorranno ca. 45min. Il farro comunque rimane abbastanza al dente, non diventa morbido come il riso. Impiattate e mangiatelo bello caldo!
 ![](risultato.jpg "frangipani © Erica")
- 
+
 
 <h4>Buon appetito
   <font color="red">

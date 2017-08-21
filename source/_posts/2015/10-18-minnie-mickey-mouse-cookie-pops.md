@@ -7,6 +7,7 @@ tags:
 categories:
 - Dolce
 - Biscotti
+lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 

@@ -9,6 +9,7 @@ tags:
 categories:
 - Salato
 - "Primi Piatti"
+lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
@@ -72,10 +73,10 @@ Settimana scorsa al mercato ho comprato dei meravigliosi limoni bio rigorosament
 In una padella mettete mezzo spicchio d'aglio con un filo d'olio ed un pizzico di sale, fatelo rosolare. Poi aggiungete il succo di un limone. Fate sciogliere la maizena in mezzo bicchiere d'acqua, poi aggiungetelo nella padella con il limone. Aggiungete anche un pochettino di scorza di limone.
 ![](sughetto.jpg "frangipani © Erica")
 
-In un'altra padellina mettete l'altra metà dello spicchio d'aglio con un pochettino d'olio, un po' di scorza di limone e le erbe aromatiche. Fate rosolare un po' il tutto, giusto il tempo che l'olio prenda tutti gli aromi. 
+In un'altra padellina mettete l'altra metà dello spicchio d'aglio con un pochettino d'olio, un po' di scorza di limone e le erbe aromatiche. Fate rosolare un po' il tutto, giusto il tempo che l'olio prenda tutti gli aromi.
 ![](erbette.jpg "frangipani © Erica")
 
-Poi aggiungete il pangrattato e un pochettino di sale e fatelo tostare a fiamma bassa. 
+Poi aggiungete il pangrattato e un pochettino di sale e fatelo tostare a fiamma bassa.
 ![](pangrattato.jpg "frangipani © Erica")
 
 Appena bolle l'acqua per la pasta, salate e buttate gli spaghetti. Quando saranno cotti scolateli e fateli mantecare nella padella con il sughetto al limone. Impiattate e finite con una generosa spolverata di pangrattato aromatizzato e un po' di scorza di limone.

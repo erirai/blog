@@ -10,6 +10,7 @@ tags:
 categories:
 - Salato
 - "Primi Piatti"
+lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
@@ -83,7 +84,7 @@ Adesso prendete un pochettino d'impasto, formate un salsicciotto e poi tagliatel
 Se volete rigateli con l'apposito attrezzino o con una forchetta.
 ![](gnocchi2.jpg "frangipani © Erica")
 
-Quando avrete fatto tutti gli gnocchi, mettete a bollire abbondante acqua. Appena bolle salate l'acqua, prendete una bella manciata di gnocchi e versateli nell'acqua. Appena vengono a galla, scolateli e aggiungeteli nella padella con il condimento. 
+Quando avrete fatto tutti gli gnocchi, mettete a bollire abbondante acqua. Appena bolle salate l'acqua, prendete una bella manciata di gnocchi e versateli nell'acqua. Appena vengono a galla, scolateli e aggiungeteli nella padella con il condimento.
 ![](pentola.jpg "frangipani © Erica")
 
 ![](padella.jpg "frangipani © Erica")

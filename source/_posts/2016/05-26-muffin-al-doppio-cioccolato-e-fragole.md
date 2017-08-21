@@ -11,6 +11,7 @@ tags:
 categories:
 - Dolce
 - "Muffin, Cupcakes, Cake Pops..."
+lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
@@ -51,7 +52,7 @@ Sono passati quasi due mesi dall'ultima volta che ho fatto dei Muffin e questo n
             <td>1 pizzico</td>
             <td>sale</td>
           </tr>
-          <tr> 
+          <tr>
             <td>100gr</td>
             <td>olio di semi</td>
           </tr>

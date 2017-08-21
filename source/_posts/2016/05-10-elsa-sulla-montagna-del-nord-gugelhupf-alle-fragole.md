@@ -7,12 +7,13 @@ tags:
 categories:
 - Dolce
 - Torte
+lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
 > Auguri Cincipessa mia per i tuoi 3 Anni!
 
-E un'altro anno ormai è passato... La nostra piccola grande Cincipessa o anche regina Elsa (come si chiama lei) oggi compie 3 anni. Eh si, ormai è grande... Ad agosto inizia con il preasilo, parla come una grande, si comporta come una grande e fa la monella come una grande! Beh, sono così i bambini. Comunque sia, Gaia voleva una torta al gusto fragola e finocchio... non chiedetemi perché al finocchio! Le volevo fare una torta Elsa, quelle fatte con la bambola. Quando ho sfornato il Gugelhupf, ho provato ad infilare Elsa nel Gugelhupf per vedere l'altezza della gonna (che sarebbe stato il Gugelhupf), le arrivava appena alle ginocchia, quindi di nuovo ho dovuto improvvisare. Pensando al film ho deciso di fare tipo la montagna del nord piena di fiocchi di neve e metterci sopra Elsa. Così è veramente facilissimo e in pochissimo tempo avrete una torta bella e vi assicuro che le vostre principesse saranno felicissime. Comunque si può fare con tutte le principesse, basta adattare il colore della pasta di zucchero e le decorazioni... 
+E un'altro anno ormai è passato... La nostra piccola grande Cincipessa o anche regina Elsa (come si chiama lei) oggi compie 3 anni. Eh si, ormai è grande... Ad agosto inizia con il preasilo, parla come una grande, si comporta come una grande e fa la monella come una grande! Beh, sono così i bambini. Comunque sia, Gaia voleva una torta al gusto fragola e finocchio... non chiedetemi perché al finocchio! Le volevo fare una torta Elsa, quelle fatte con la bambola. Quando ho sfornato il Gugelhupf, ho provato ad infilare Elsa nel Gugelhupf per vedere l'altezza della gonna (che sarebbe stato il Gugelhupf), le arrivava appena alle ginocchia, quindi di nuovo ho dovuto improvvisare. Pensando al film ho deciso di fare tipo la montagna del nord piena di fiocchi di neve e metterci sopra Elsa. Così è veramente facilissimo e in pochissimo tempo avrete una torta bella e vi assicuro che le vostre principesse saranno felicissime. Comunque si può fare con tutte le principesse, basta adattare il colore della pasta di zucchero e le decorazioni...
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">

@@ -8,6 +8,7 @@ tags:
 categories:
 - Salato
 - "Secondi Piatti e Contorni"
+lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 

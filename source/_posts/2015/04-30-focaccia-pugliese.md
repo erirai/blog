@@ -9,6 +9,7 @@ tags:
 categories:
 - Salato
 - Panificati
+lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 

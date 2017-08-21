@@ -11,6 +11,7 @@ tags:
 categories:
 - Salato
 - "Primi Piatti"
+lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
@@ -46,7 +47,7 @@ categories:
           </tr>
           <tr>
             <td>qb</td>
-            <td>sale</td> 
+            <td>sale</td>
           </tr>
         </tbody>
       </table>
@@ -66,7 +67,7 @@ categories:
 La sera prima mettete in ammollo i legumi e i cereali precedentemente sciacquati. Lasciateli nell'acqua per tutta la notte.
 ![](legumi.jpg "frangipani © Erica")
 
-Il giorno dopo scolateli, versateli in una pentola capiente e riempite la pentola con abbondante acqua. Aggiungete le foglie d'alloro e il bicarbonato. Il bicarbonato servirà ad ammorbidire la buccia dei legumi. Accendete il fornello e portate ad ebollizione il tutto. Quando inizierà a bollire, si creerà della schiumina. A questo punto abbassate il calore dei fornelli e aiutandovi con un cucchiaio, togliete la schiumina. 
+Il giorno dopo scolateli, versateli in una pentola capiente e riempite la pentola con abbondante acqua. Aggiungete le foglie d'alloro e il bicarbonato. Il bicarbonato servirà ad ammorbidire la buccia dei legumi. Accendete il fornello e portate ad ebollizione il tutto. Quando inizierà a bollire, si creerà della schiumina. A questo punto abbassate il calore dei fornelli e aiutandovi con un cucchiaio, togliete la schiumina.
 ![](schiuma.jpg "frangipani © Erica")
 
 Fate andare finché i legumi ed i cereali saranno cotti, ci vorranno 2-3 orette.

@@ -9,6 +9,7 @@ tags:
 categories:
 - Dolce
 - "Dolci al cucchiaio, Gelati..."
+lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 

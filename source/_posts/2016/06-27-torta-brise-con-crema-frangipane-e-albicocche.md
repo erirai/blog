@@ -10,12 +10,13 @@ tags:
 categories:
 - Dolce
 - Torte
+lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
 > Buon Compleanno Zio Arduino!
 
-Mamma mia, ma avete visto che partitia ieri?! Avete visto come hanno giocato bene i ragazzi della nostra Nazionale? Che emozione... Al fischio finale tutti a zompare in giro, i miei due piccoli mi hanno pure messa K.O.! Vedremo cosa combinano sabato contro la Germania... Restando in zona tedesca, oggi fa il compleanno lo zio di mio marito, che purtroppo, essendo prete, non vive proprio nelle nostre vicinanze, ma per festeggiare un pezzo di torta lo mangiamo anche noi! 
+Mamma mia, ma avete visto che partitia ieri?! Avete visto come hanno giocato bene i ragazzi della nostra Nazionale? Che emozione... Al fischio finale tutti a zompare in giro, i miei due piccoli mi hanno pure messa K.O.! Vedremo cosa combinano sabato contro la Germania... Restando in zona tedesca, oggi fa il compleanno lo zio di mio marito, che purtroppo, essendo prete, non vive proprio nelle nostre vicinanze, ma per festeggiare un pezzo di torta lo mangiamo anche noi!
 
 Ho scoperto questa meraviglia di crema frangipane e la ADORO! Mi piaciono tantissimo le mandorle, poi insieme alle albicocche che ancora sono acidule, è una favola. Come base per la torta ho fatto una pasta brisé. La pasta frolla mi sembrava forse un po' pesantuccia, poi siamo in estate e i dolci in questo periodo sono decisamente più leggeri. Se avete fretta, potete usare anche un rotolo di pasta sfoglia, viene ottima anche con quella. La pasta brisé si prepara in un attimo, serve solo un pochettino di riposo in frigo e la crema frangipane è pronta in un batter d'occhio. Ha tutte le carte in regola per un dolce estivo veloce ma soprattutto ottimo! Provate per credere!
 

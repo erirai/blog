@@ -9,6 +9,7 @@ tags:
 categories:
 - Salato
 - Antipasti
+lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 

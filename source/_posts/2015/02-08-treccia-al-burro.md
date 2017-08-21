@@ -8,6 +8,7 @@ tags:
 categories:
 - Dolce
 - Colazione
+lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 

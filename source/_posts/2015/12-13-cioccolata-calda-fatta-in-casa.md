@@ -7,6 +7,7 @@ tags:
 categories:
 - Dolce
 - Bevande
+lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 

@@ -7,6 +7,7 @@ tags:
 categories:
 - Salato
 - Conserve
+lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 

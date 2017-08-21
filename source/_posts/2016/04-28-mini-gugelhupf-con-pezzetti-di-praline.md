@@ -10,10 +10,11 @@ tags:
 categories:
 - Dolce
 - "Muffin, Cupcakes, Cake Pops..."
+lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
-Non so voi, ma a Pasqua riceviamo talmente tanto cioccolato che praticamente lo congelo tutto. Così ho la scorta di cioccolato per qualche mese. Spesso ci sono anche quelle belle scatole di praline che purtroppo ce n'è sempre qualcuna che non piace o semplicemente sono troppe da mangiare, congelate anche quelle. 
+Non so voi, ma a Pasqua riceviamo talmente tanto cioccolato che praticamente lo congelo tutto. Così ho la scorta di cioccolato per qualche mese. Spesso ci sono anche quelle belle scatole di praline che purtroppo ce n'è sempre qualcuna che non piace o semplicemente sono troppe da mangiare, congelate anche quelle.
 Dopo tutti i dolci con la frutta, avevo voglia di qualcosa di semplice con del cioccolato. Per non usare del semplice cioccolato, ho preferito le praline congelate. Erano tutte mischiate, fondente, latte, gianduia, croccanti, cremose... Naturalmente va benissimo anche del semplice cioccolato, se avete ancora quello di Pasqua usate quello... Se non avete lo stampo per i Mini Gugelhupf, fate dei semplici Muffin o anche altre forme, a voi la libera scelta. L'impasto è vegan, poi dipende dal cioccolato che aggiungete...
 
 

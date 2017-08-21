@@ -9,6 +9,7 @@ tags:
 categories:
 - Dolce
 - Torte
+lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 

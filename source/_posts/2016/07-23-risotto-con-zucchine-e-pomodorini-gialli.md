@@ -10,6 +10,7 @@ tags:
 categories:
 - Salato
 - "Primi Piatti"
+lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
@@ -72,7 +73,7 @@ Per prima cosa preparate i pomodirini al forno, una specie di pomodorini confit 
 Infornate nel forno preriscaldato a 150°C statico per mezz'oretta. Se vedete che si bruciacchiano troppo, abbassate la temperatura.
 ![](pomodorinicotti.jpg "frangipani © Erica")
 
-Poi grattugiate grossolanamente la zucchina. In una padella o in una pentola mettete uno spicchio d'aglio, un filo d'olio e un pizzico di sale. Fate soffriggere, poi aggiungete le zucchine grattugiate. 
+Poi grattugiate grossolanamente la zucchina. In una padella o in una pentola mettete uno spicchio d'aglio, un filo d'olio e un pizzico di sale. Fate soffriggere, poi aggiungete le zucchine grattugiate.
 ![](zucchine.jpg "frangipani © Erica")
 
 Fate rosolare un attimino, poi aggiungete il riso sempre mescolando. Aggiungete un po' d'acqua bollente e fate cuocere il riso a fiamma moderata. Quando il riso avrà assorbito tutta l'acqua, aggiungetene ancora, ripetete questo finché il riso sarà cotto. Non dimenticate di mettere il sale e di togliere l'aglio. Quando il riso sarà cotto, aggiungete qualche fogliolina di basilico fresco e impiattate. Decorate il piatto con i pomodorini al forno e ancora del basilico.

@@ -5,11 +5,12 @@ tags:
 - lasagne
 - primi
 - asparagi
-- piselli 
+- piselli
 - fave
 categories:
 - Salato
 - "Primi Piatti"
+lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
@@ -109,7 +110,7 @@ Tagliate a rondelle i cipollotti e metteteli a soffriggere in una pentola con de
 Per la besciamella mettete la farina in un pentolino poi aggiungete a filo il latte sempre mescolando con la frusta a mano. Quando la farina si sarà sciolta completamente, mettete il pentolino sul fornello, a fiamma moderata, sempre mescolando, fatela addensare. Appena si sarà addensata togliete il pentolino dai fornelli e aggiungete il sale e la noce moscata.
 ![](besciamella.jpg "frangipani © Erica")
 
-A questo punto possiamo iniziare a comporre la Lasagna. Prendete una pirofila e imburratela. Sul fondo mettete un pochettino di sugo e di besciamella, poi il primo strato di pasta, sugo, besciamella, mozzarella, parmigiano grattugiato, le punte degli asparagi e i fiori di zucchina aperti... 
+A questo punto possiamo iniziare a comporre la Lasagna. Prendete una pirofila e imburratela. Sul fondo mettete un pochettino di sugo e di besciamella, poi il primo strato di pasta, sugo, besciamella, mozzarella, parmigiano grattugiato, le punte degli asparagi e i fiori di zucchina aperti...
 ![](comporre.jpg "frangipani © Erica")
 
 Continuate finché sarete arrivati appena sotto il bordo della pirofila. Finite l'ultimo strato con una bella spolverata di parmigiano grattugiato.

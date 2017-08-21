@@ -13,6 +13,7 @@ tags:
 categories:
 - Dolce
 - "Muffin, Cupcakes, Cake Pops..."
+lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 

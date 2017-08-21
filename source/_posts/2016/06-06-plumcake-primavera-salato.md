@@ -8,11 +8,12 @@ tags:
 categories:
 - Salato
 - "Torte salate, Muffin salati..."
+lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
 Settimana scorsa mia figlia ed io siamo state a fare una visita al preasilo, dove lei andrà per due ore alla settimana dopo l'estate. Le è piaciuto tantissimo, ha partecipato subito, si è messa a cantare, giocare, hanno fatto merenda insieme... era proprio contenta. Poi le ho spiegato che dopo le vacanze, ci potrà andare di nuovo ma senza di me... Ecco, a questo punto tu come mamma ti aspetti una reazione del tipo: "Oh no, vado da sola senza di te?". Col cavolo! Era felicissima: "Davvero mamma?! Posso andare da sola? Jeeeeeeee!". E si è messa a saltellare e cantare. Ok, da una parte sono felice perché quella sua reazione mi ha fatto capire che è definitivamente pronta per staccarsi da me, dall'altra parte però capisci che tua figlia ormai è grande ed è giusto che sia così.
-Comunque sia, parliamo della ricetta di oggi... Questo Plumcake è una meraviglia! È morbidissimo, gustosissimo e anche leggero. L'impasto a se è vegan e può essere arricchito come si vuole. Io ho usato le verdure di stagione e la Feta, ma andrebbe bene anche il Tofu o altro formaggio. Volendo si può lasciare anche così senza verdure e si preparano delle salsine o cremine a parte da spalmare. È ottimo caldo per pranzo o cena, accompagnato da una bella insalatona o anche freddo, tagliato a quadretti come aperitivo o per un bel Picnic. 
+Comunque sia, parliamo della ricetta di oggi... Questo Plumcake è una meraviglia! È morbidissimo, gustosissimo e anche leggero. L'impasto a se è vegan e può essere arricchito come si vuole. Io ho usato le verdure di stagione e la Feta, ma andrebbe bene anche il Tofu o altro formaggio. Volendo si può lasciare anche così senza verdure e si preparano delle salsine o cremine a parte da spalmare. È ottimo caldo per pranzo o cena, accompagnato da una bella insalatona o anche freddo, tagliato a quadretti come aperitivo o per un bel Picnic.
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">

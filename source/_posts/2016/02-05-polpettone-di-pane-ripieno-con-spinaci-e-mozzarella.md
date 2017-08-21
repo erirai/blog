@@ -7,6 +7,7 @@ tags:
 categories:
 - Salato
 - "Secondi Piatti e Contorni"
+lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
@@ -113,7 +114,7 @@ Per prima cosa preparate il sugo: tagliate finemente la cipolla e mettetela a ro
 
 Preparate gli spinaci: lavateli bene facendo attenzione a togliere tutta la terra. Poi prendete una padella, mettete uno spicchio d'aglio e un filo d'olio evo e fate soffriggere l'aglio. Aggiungete gli spinaci ancora bagnati e fateli appassire. Quando saranno cotti, aggiungete un pizzico di sale.
 
-Adesso preparate l'impasto per il polpettone: tagliate a pezzettoni il pane e mettetelo in ammollo nel latte o nell'acqua (io ho fatto un po' e un po'). Quando il pane sarà bello bagnato, strizzatelo e mettetelo in una ciotola. Aggiungete le uova, il parmigiano grattugiato, 2 cucchiai di pan grattato, il prezzemolo, l'erba cipollina, aggiustate di sale e pepe e impastate. Se serve ancora pan grattato aggiungetelo! L'impasto dovrà risultare bello sodo, ma non duro. Prendete uno o due fogli di carta forno e metteteli sul piano di lavoro, cospargete il tutto con un po' di pan grattato. Prendete l'impasto, e aiutandovi con le mani, schiacciatelo e formate un rettangolo. Prendete gli spinaci e metteteli sul rettangolo di pane, tagliate a metà qualche pomodoroine e mettete anche quelli, poi finite con la mozzarella spezzetata. 
+Adesso preparate l'impasto per il polpettone: tagliate a pezzettoni il pane e mettetelo in ammollo nel latte o nell'acqua (io ho fatto un po' e un po'). Quando il pane sarà bello bagnato, strizzatelo e mettetelo in una ciotola. Aggiungete le uova, il parmigiano grattugiato, 2 cucchiai di pan grattato, il prezzemolo, l'erba cipollina, aggiustate di sale e pepe e impastate. Se serve ancora pan grattato aggiungetelo! L'impasto dovrà risultare bello sodo, ma non duro. Prendete uno o due fogli di carta forno e metteteli sul piano di lavoro, cospargete il tutto con un po' di pan grattato. Prendete l'impasto, e aiutandovi con le mani, schiacciatelo e formate un rettangolo. Prendete gli spinaci e metteteli sul rettangolo di pane, tagliate a metà qualche pomodoroine e mettete anche quelli, poi finite con la mozzarella spezzetata.
 ![](farcire.jpg "frangipani © Erica")
 
 A questo punto arrotolatelo aiutandovi con la carta forno. Sigillate bene le giunture e le punte, in modo che non fuoriesca la farcia e resti bello umido all'interno. Chiudetelo e stringetelo bene con la carta forno e poi anche con la carta argentata.

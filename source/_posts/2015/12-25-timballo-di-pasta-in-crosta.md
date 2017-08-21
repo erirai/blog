@@ -10,6 +10,7 @@ tags:
 categories:
 - Salato
 - "Piatti Unici"
+lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 

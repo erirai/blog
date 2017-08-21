@@ -10,6 +10,7 @@ tags:
 categories:
 - Salato
 - Panificati
+lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
@@ -33,7 +34,7 @@ Ecco una delle tante cose che si può fare con l'impasto per pane. Queste girell
           </tr>
           <tr>
             <td>qb</td>
-            <td>passata di pomodoro</td> 
+            <td>passata di pomodoro</td>
           </tr>
           <tr>
             <td>qb</td>

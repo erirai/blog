@@ -10,10 +10,11 @@ tags:
 categories:
 - Dolce
 - "Dolci al cucchiaio, Gelati..."
+lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
-Si si lo so, di nuovo un dolce col rabarbaro... è stagione ed io lo sfrutto più che posso, ecco! Vi consiglio vivamente di preparare questo dolce la sera prima, in questo modo i savoiardi si inzupperanno meglio ed il gusto sarà più intenso. Servitelo freddo e gustatevi la freschezza del rabarbaro con la cremosità della crema al mascarpone, che goduria! 
+Si si lo so, di nuovo un dolce col rabarbaro... è stagione ed io lo sfrutto più che posso, ecco! Vi consiglio vivamente di preparare questo dolce la sera prima, in questo modo i savoiardi si inzupperanno meglio ed il gusto sarà più intenso. Servitelo freddo e gustatevi la freschezza del rabarbaro con la cremosità della crema al mascarpone, che goduria!
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">

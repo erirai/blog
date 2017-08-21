@@ -8,6 +8,7 @@ tags:
 categories:
 - Dolce
 - "Piccola Pasticceria"
+lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 

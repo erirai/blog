@@ -7,6 +7,7 @@ tags:
 categories:
 - Salato
 - "Torte salate, Muffin salati..."
+lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 

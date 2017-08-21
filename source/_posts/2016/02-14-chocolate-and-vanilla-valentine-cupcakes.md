@@ -11,6 +11,7 @@ tags:
 categories:
 - Dolce
 - "Muffin, Cupcakes, Cake Pops..."
+lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
@@ -57,7 +58,7 @@ San Valentino... una festa che a tante persone piace, ma che altrettante persone
           </tr>
           <tr>
             <td>1 cucchiaio</td>
-            <td>succo di limone</td> 
+            <td>succo di limone</td>
           </tr>
           <tr>
             <td>50ml</td>
@@ -97,7 +98,7 @@ San Valentino... una festa che a tante persone piace, ma che altrettante persone
 Tritate il cioccolato con un coltello e mettetelo da parte. Anche per questi muffin vegani vale sempre lo stesso procedimento: Mettete tutti gli ingredienti asciutti in una coppa capiente e mescolate con una frusta a mano, poi aggiungete tutti gli ingredienti liquidi e aiutandovi con un leccapentole, amalgamate il tutti. Poi aggiungete il cioccolato tritato e mescolate velocemente.
 ![](impasto.jpg "frangipani © Erica")
 
-Riempite i pirottini fino a ca. 3/4. 
+Riempite i pirottini fino a ca. 3/4.
 ![](pirottini.jpg "frangipani © Erica")
 
 Poi infornateli nel forno preriscaldato statico a 200°C per 20min, mi raccomando fate la prova stecchino. Fateli raffreddare completamente su di una griglia.

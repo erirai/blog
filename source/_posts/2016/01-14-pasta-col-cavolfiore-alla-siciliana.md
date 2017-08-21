@@ -8,6 +8,7 @@ tags:
 categories:
 - Salato
 - "Primi Piatti"
+lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
@@ -64,10 +65,10 @@ Che bello, sono riuscita a trovare il cavolfiore colorato. Non vi sembrerà una 
   </font> Preparazione
 </h3>
 
-Pulite il cavolfiore e tagliate le cimette. Poi lessateli in abbondante acqua salata. Nel frattempo tagliate finemente lo scalogno e fatelo rosolare in padella con un filo d'olio e un pizzico di sale. Quando il cavolfiore sarà cotto, scolatelo con una schiumarola e mettetelo nella padella con lo scalogno. Non buttate via l'acqua di cottura, vi servirà per cuocere la pasta. Fate ribollire l'acqua dove avevate cotto il cavolfiore poi buttate la pasta. Fate rosolare il cavolfiore ancora un po' in padella, aggiungete le olive nere denocciolate e tagliate a pezzettini. Aggiungete un po' d'acqua della pasta, questo aiuterà a creare una bella cremina. 
+Pulite il cavolfiore e tagliate le cimette. Poi lessateli in abbondante acqua salata. Nel frattempo tagliate finemente lo scalogno e fatelo rosolare in padella con un filo d'olio e un pizzico di sale. Quando il cavolfiore sarà cotto, scolatelo con una schiumarola e mettetelo nella padella con lo scalogno. Non buttate via l'acqua di cottura, vi servirà per cuocere la pasta. Fate ribollire l'acqua dove avevate cotto il cavolfiore poi buttate la pasta. Fate rosolare il cavolfiore ancora un po' in padella, aggiungete le olive nere denocciolate e tagliate a pezzettini. Aggiungete un po' d'acqua della pasta, questo aiuterà a creare una bella cremina.
 ![](cavolfiori.jpg "frangipani © Erica")
 
-Prendete un'altra padellina e tostate i pinoli facendo attenzione a non bruciarli. 
+Prendete un'altra padellina e tostate i pinoli facendo attenzione a non bruciarli.
 ![](pinoli.jpg "frangipani © Erica")
 
 Quando la pasta sarà al dente, scolatela e versatela in padella con il cavolfiore. Tenete da parte un po' di acqua di cottura. Fate mantecare la pasta, impiattate, mettete un po' di pinoli e un filo d'olio evo.

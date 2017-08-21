@@ -8,6 +8,7 @@ tags:
 categories:
 - Dolce
 - "Piccola Pasticceria"
+lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
@@ -79,7 +80,7 @@ Mettete il burro morbido, lo zucchero, lo zucchero vanigliato ed un pizzico di s
 Mettete abbondante olio in una pentola e accendete il fornello. Quando l'olio sarà ben caldo prendete con un cucchiaio un quantitativo d'impasto pari ad una noce e gettatelo dell'olio, facendo molta attenzione a non bruciarvi. Non friggete molte castagnole alla volta, perché durante la cottura aumenteranno di volume. Appena vedete che prendono colore giratele.
 ![](friggere.jpg "frangipani © Erica")
 
-Quando si saranno dorate da entrambe le parti, scolatele con una schiumarola e posatele su di un vassoio con sotto della carta assorbente. In questo modo l'olio in eccesso verrà assorbito dalla carta. Prima di servirli non vi dimenticate un'abbondante spolverata di zucchero a velo! 
+Quando si saranno dorate da entrambe le parti, scolatele con una schiumarola e posatele su di un vassoio con sotto della carta assorbente. In questo modo l'olio in eccesso verrà assorbito dalla carta. Prima di servirli non vi dimenticate un'abbondante spolverata di zucchero a velo!
 ![](risultato.jpg "frangipani © Erica")
 
 

@@ -10,6 +10,7 @@ tags:
 categories:
 - Dolce
 - "Muffin, Cupcakes, Cake Pops..."
+lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
@@ -52,7 +53,7 @@ Eh si, finalmente è arrivato Marzo! Marzo porta la primavera, il sole, i fiori.
 	      </tr>
 	      <tr>
 	        <td>80ml</td>
-	        <td>latte vegetale</td> 
+	        <td>latte vegetale</td>
 	      </tr>
 	      <tr>
 	        <td>50ml</td>

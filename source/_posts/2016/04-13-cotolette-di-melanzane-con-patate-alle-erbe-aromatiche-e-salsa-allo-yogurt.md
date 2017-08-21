@@ -9,10 +9,11 @@ tags:
 categories:
 - Salato
 - "Piatti Unici"
+lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
-Al mercato ho trovato uno stand, che ha tanta frutta e verdura dalla Sicilia. Non vi sto ad elencare tutto, ma queste melanzane violette erano una meraviglia. La morte delle melanzane è friggerle, lo so sono pesantucce, ma ogni tanto non fa male! Per non fare il solito piatto di pasta, tipo alla Norma (che io ADORO) ho pensato di fare queste cotolette di melanzane. Non vi dico che goduria! Fuori croccanti, dentro la melanzana morbida e al centro un cuore filante... Vi assicuro che queste cotolette di melanzane non hanno assolutamente niente da invidiare alle cotolette di carne, NIENTE! Il tutto accompagnato con delle patate alle erbe aromatiche e una salsina fresca e leggera allo yogurt. Le patate le ho cotte in un sacchettino per cottura in forno. Con quel sacchettino le patate restano morbide, senza crosticina (le ho fatte così per non fare due cotture, dato che la crosticina viene male a mangiare a mio figlio...) e tutti gli odori delle erbe aromatiche restano all'interno. Va benissimo anche una normalissima cottura nella pirofila. Io prima ho cotto le patate al forno e le ho tenute al caldo nel sacchettino stesso e dopo ho cotto le melanzane. Voi regolatevi come vi viene meglio. Ecco, penso di aver detto tutto... 
+Al mercato ho trovato uno stand, che ha tanta frutta e verdura dalla Sicilia. Non vi sto ad elencare tutto, ma queste melanzane violette erano una meraviglia. La morte delle melanzane è friggerle, lo so sono pesantucce, ma ogni tanto non fa male! Per non fare il solito piatto di pasta, tipo alla Norma (che io ADORO) ho pensato di fare queste cotolette di melanzane. Non vi dico che goduria! Fuori croccanti, dentro la melanzana morbida e al centro un cuore filante... Vi assicuro che queste cotolette di melanzane non hanno assolutamente niente da invidiare alle cotolette di carne, NIENTE! Il tutto accompagnato con delle patate alle erbe aromatiche e una salsina fresca e leggera allo yogurt. Le patate le ho cotte in un sacchettino per cottura in forno. Con quel sacchettino le patate restano morbide, senza crosticina (le ho fatte così per non fare due cotture, dato che la crosticina viene male a mangiare a mio figlio...) e tutti gli odori delle erbe aromatiche restano all'interno. Va benissimo anche una normalissima cottura nella pirofila. Io prima ho cotto le patate al forno e le ho tenute al caldo nel sacchettino stesso e dopo ho cotto le melanzane. Voi regolatevi come vi viene meglio. Ecco, penso di aver detto tutto...
 
 
 <div id="wrapper" style="text-align: center">
@@ -158,7 +159,7 @@ A questo punto prendete una fetta di melanzana con il lato non fritto verso l'al
 
 Infornate le melanzane nel forno preriscaldato a 220°C statico per ca. 20min, o almeno finché saranno ben dorate e croccanti.
 
-Per le patate: Pelate le patate, lavatele e tagliatele a spicchi, poi mettetele nel sacchettino per cottura in forno (mettete il sacchettino su di una leccarda), aggiungete le erbette aromatiche, i due spicchi d'aglio schiacciati e chiudete il sacchettino. 
+Per le patate: Pelate le patate, lavatele e tagliatele a spicchi, poi mettetele nel sacchettino per cottura in forno (mettete il sacchettino su di una leccarda), aggiungete le erbette aromatiche, i due spicchi d'aglio schiacciati e chiudete il sacchettino.
 ![](patate.jpg "frangipani © Erica")
 
 Fate un piccolo foro all'angolo del sacchettino e infornate nel forno preriscaldato a 190°C statico per 30-40min o almeno finché le patate saranno cotte. Comunque sia leggete le istruzioni sulla confezione, non so se l'uso di questi sacchettini è sempre uguale, soprattutto per la temperatura in forno. Appena le patate sono cotte, uscitele dal sacchettino (attenzione a non scottarvi, il vapore è molto caldo) e mettetele in una coppa, aggiungete un filo d'olio e salate.

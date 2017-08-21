@@ -7,6 +7,7 @@ tags:
 categories:
 - Salato
 - "Primi Piatti"
+lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
@@ -78,7 +79,7 @@ Tagliate finemente la cipolla e mettetela a soffriggere in una padella con un fi
 Nel frattempo preparate le uova: Mettete le uova in una coppetta, aggiungete il parmigiano grattugiato, il sale e una macinata di pepe. Sbattete il tutto con una forchetta e mettete da parte.
 ![](uovo.jpg "frangipani © Erica")
 
-Portate ad ebollizione abbondante acqua. Quando bolle salatela e buttate la pasata. Togliete gli steli del prezzemolo che avevate messo negli asparagi. Quando la pasta sarà cotta, scolatela tenendo da parte l'acqua di cottura (in caso dovesse servire) e versate la pasta nella padella con gli asparagi. Mescolate il tutto e aggiungete le uova, mescolate finché l'uovo avrà la cottura che vi piace. 
+Portate ad ebollizione abbondante acqua. Quando bolle salatela e buttate la pasata. Togliete gli steli del prezzemolo che avevate messo negli asparagi. Quando la pasta sarà cotta, scolatela tenendo da parte l'acqua di cottura (in caso dovesse servire) e versate la pasta nella padella con gli asparagi. Mescolate il tutto e aggiungete le uova, mescolate finché l'uovo avrà la cottura che vi piace.
 ![](padella.jpg "frangipani © Erica")
 
 Allora, c'è a chi piace la cremina, quindi l'uovo rimane crudino, c'è invece a chi non piace l'uovo crudo, quindi non viene cremoso. Fate come preferite. Aggiungete il prezzemolo tritato e un'altra macinata di pepe nero.

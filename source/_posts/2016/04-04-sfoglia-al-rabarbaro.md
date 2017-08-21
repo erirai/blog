@@ -8,10 +8,11 @@ tags:
 categories:
 - Dolce
 - "Crostate, Tartes..."
+lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
-I miei due piccoli terremoti dormono, sono seduta in giardino sotto il sole splendente e caldo che riscalda la pelle, gli uccellini cinguettano e io scrivo il primo post del mio nuovo Blog. 
+I miei due piccoli terremoti dormono, sono seduta in giardino sotto il sole splendente e caldo che riscalda la pelle, gli uccellini cinguettano e io scrivo il primo post del mio nuovo Blog.
 
 L'altro giorno al mercato finalmente c'era il rabarbaro svizzero. Perché proprio quello svizzero? Eh, perché per alcune cose ne vale la pena aspettare qualche settimana in più per gustare i prodotti a km0! Come anche le fragole... Il rabarbaro è una cosa meravigliosa, ha un gusto agro, aspro ma è molto versatile. È perfetto per le ciambelle, per le sfoglie o le crostate o anche per le marmellate... Questa ricetta è una di quelle ricette che vi salvano la pelle quando qualcuno vi chiama e vi dice: "Oh, siete a casa? Tra un'oretta veniamo a berci un caffé!". Ecco, non ci sono biscotti decenti in dispensa, ma in frigo un rotolo di pasta sfoglia e della frutta c'è sempre. A me piace fare questa sfoglia col rabarbaro o in autunno con le mele... Va sempre bene e piace a tutti!
 

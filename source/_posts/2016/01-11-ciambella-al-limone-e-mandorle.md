@@ -10,6 +10,7 @@ tags:
 categories:
 - Dolce
 - Torte
+lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
@@ -93,7 +94,7 @@ Eccomi qua con il primo post del 2016! Tutto è ritornato alla normalità, le fe
   </font> Preparazione
 </h3>
 
-Mettete in una ciotola capiente l'olio di semi, lo zucchero di canna, il sale e il puré di mandorle (lo trovate nei negozi bio), la scorza dei due limoni, lo zucchero vanigliato e mescolate bene facendo sciogliere bene il puré di mandorle. Poi aggiungete il succo dei due limoni ed il latte di mandorla e mescolate ancora, se l'impasto risulterà troppo duro aggiungete ancora latte di mandorla (la quantità del latte di mandorla dipende da quanto succo di limone averete ottenuto). Poi poco alla volta aggiungete la farina, il lievito e la fecola di mais setacciati. Amalgamate bene il tutto facendo attenzione a non creare grumi. 
+Mettete in una ciotola capiente l'olio di semi, lo zucchero di canna, il sale e il puré di mandorle (lo trovate nei negozi bio), la scorza dei due limoni, lo zucchero vanigliato e mescolate bene facendo sciogliere bene il puré di mandorle. Poi aggiungete il succo dei due limoni ed il latte di mandorla e mescolate ancora, se l'impasto risulterà troppo duro aggiungete ancora latte di mandorla (la quantità del latte di mandorla dipende da quanto succo di limone averete ottenuto). Poi poco alla volta aggiungete la farina, il lievito e la fecola di mais setacciati. Amalgamate bene il tutto facendo attenzione a non creare grumi.
 ![](impasto.jpg "frangipani © Erica")
 
 Versate l'impasto in una forma per ciambelle o Gugelhupf precedentemente imburrata ed infarinata.
@@ -102,7 +103,7 @@ Versate l'impasto in una forma per ciambelle o Gugelhupf precedentemente imburra
 Infornate la torta nel forno preriscaldato statico a 180°C per circa 50min, mi raccomando fate la prova stecchino. Fatela intiepidire un po', poi capovolgetela su di una griglia e con uno stecchino fate tanti buchini. Versate il succo di un limone su tutta la torta aiutandovi con un cucchiaino.
 ![](buchini.jpg "frangipani © Erica")
 
-Adesso preparate la glassa: mettete lo zucchero a velo in una coppetta e aggiungete un po' di succo di limone alla volta, finché avrete una glassa bella densa ma scivolosa. 
+Adesso preparate la glassa: mettete lo zucchero a velo in una coppetta e aggiungete un po' di succo di limone alla volta, finché avrete una glassa bella densa ma scivolosa.
 ![](glassa.jpg "frangipani © Erica")
 
 Poi glassate la torta...

@@ -9,10 +9,11 @@ tags:
 categories:
 - Dolce
 - Colazione
+lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
-Passate tutte le feste invernali, possiamo dedicarci alla festa della Primavera: la Pasqua. Ora cambiano i colori, cambiano i piatti, cambia il tempo, le giornate si fanno più lunghe e fioriscono tutti quei fiori meravigliosi... Ho il giardino pieno! Bucaneve, Crocus, Narcisi... Adoro la Primavera con i suoi colori, i suoi fiori, il sole, il profumo la mattina presto... Ok, basta parlare della Primavera e ritorniamo in cucina. Oggi ho preparato questi Coniglietti Soffici per la colazione di domani mattina e credo proprio che li rifarò per la colazione di Pasqua. Per le forme date sfogo alla vostra fantasia e divertitevi con i vostri bimbi! Li potete preparare senza problema il giorno prima, conservandoli avvolti in una coperta. Così facendo rimarranno morbidissimi! 
+Passate tutte le feste invernali, possiamo dedicarci alla festa della Primavera: la Pasqua. Ora cambiano i colori, cambiano i piatti, cambia il tempo, le giornate si fanno più lunghe e fioriscono tutti quei fiori meravigliosi... Ho il giardino pieno! Bucaneve, Crocus, Narcisi... Adoro la Primavera con i suoi colori, i suoi fiori, il sole, il profumo la mattina presto... Ok, basta parlare della Primavera e ritorniamo in cucina. Oggi ho preparato questi Coniglietti Soffici per la colazione di domani mattina e credo proprio che li rifarò per la colazione di Pasqua. Per le forme date sfogo alla vostra fantasia e divertitevi con i vostri bimbi! Li potete preparare senza problema il giorno prima, conservandoli avvolti in una coperta. Così facendo rimarranno morbidissimi!
 
 
 <div id="wrapper" style="text-align: center">
@@ -83,7 +84,7 @@ O così...
 Mettete i coniglietti su di una leccarda con sotto della carta forno. Non metteteli troppo vicini che dovranno ancora lievitare... Poi fateli lievitare, sempre coperti, per un'altra oretta.
 ![](teglia.jpg "frangipani © Erica")
 
-Infornate i coniglietti nel forno preriscaldato a 220°C statico per 12-15min, o almeno fino a doratura. Appena sfornati copriteli per una decina di minuti con una coperta, in questo modo i vostri coniglietti saranno ancora più soffici. Poi passateli su di una griglia e fateli raffreddare completamente. A me piace mangiarli con la margarina e la marmellata... 
+Infornate i coniglietti nel forno preriscaldato a 220°C statico per 12-15min, o almeno fino a doratura. Appena sfornati copriteli per una decina di minuti con una coperta, in questo modo i vostri coniglietti saranno ancora più soffici. Poi passateli su di una griglia e fateli raffreddare completamente. A me piace mangiarli con la margarina e la marmellata...
 ![](risultato.jpg "frangipani © Erica")
 
 
