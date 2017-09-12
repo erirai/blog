@@ -1,5 +1,5 @@
 ---
-title: "Apfel-Zwetschen-Wähe mit Zimt"
+title: "Apfel-Zwetschgen-Wähe mit Zimt"
 date: 2017-09-13
 tags:
 - dolci 
@@ -15,7 +15,7 @@ lang: de
 ---
 ![](../2017-09-13-crostata-di-mele-prugne-e-cannella/header.jpg "frangipani © Erica")
 
-Habt ihr auch ein Dessert, dass ihr sehr gerne mögt aber aus unerklärlichen Gründen nie oder sehr selten backt? Bitte, sagt mir, dass ich nicht die Einzige bin! Diese Wähe ist einfach herrlich, aber ich backe sie praktisch nie. Ich hatte Lust auf etwas Süsses, musste aber etwas schnelles und einfaches sein, da ich noch nicht zu lange stehen darf. Sobald mein Mann aus dem Hause war um unsere Tochter in den Kindergarten zu begleiten, habe ich sofort losgelegt. Ich erspare euch seinen Kommentar, als er mich in der Küche sah... Da ich mich nicht zwischen Apfel- oder Zwetschgenwähe entscheiden konnte, habe ich beides genommen. Diese ist eine Spätsommer- oder Herbstversion dieser Wähe, geht aber mit allen Früchten. Das ist eines der vielseitigsten Desserts, dass ich kenne!
+Habt ihr auch ein Dessert, dass ihr sehr gerne mögt aber aus unerklärlichen Gründen nie oder sehr selten backt? Bitte, sagt mir, dass ich nicht die Einzige bin! Diese Wähe ist einfach herrlich, aber ich backe sie praktisch nie. Ich hatte Lust auf etwas Süsses, musste aber etwas schnelles und einfaches sein, da ich noch nicht lange stehen darf. Sobald mein Mann aus dem Hause war um unsere Tochter in den Kindergarten zu begleiten, habe ich sofort losgelegt. Ich erspare euch seinen Kommentar, als er mich in der Küche sah... Da ich mich nicht zwischen Apfel- oder Zwetschgenwähe entscheiden konnte, habe ich beides genommen. Diese ist eine Spätsommer- oder Herbstversion dieser Wähe, geht aber mit allen Früchten. Das ist eines der vielseitigsten Desserts, dass ich kenne!
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
