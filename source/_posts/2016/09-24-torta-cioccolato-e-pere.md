@@ -1,5 +1,5 @@
 ---
-title: "Torta Cioccolato e Pere"
+title: "Torta Cioccolato e Pere vegan"
 date: 2016-09-24
 tags:
 - cioccolato

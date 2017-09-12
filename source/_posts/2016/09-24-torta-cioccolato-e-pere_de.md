@@ -1,5 +1,5 @@
 ---
-title: "Schoko-Birnen-Kuchen"
+title: "Veganer Schoko-Birnen-Kuchen"
 date: 2016-09-24
 tags:
 - cioccolato
