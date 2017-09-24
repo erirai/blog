@@ -1,5 +1,5 @@
 ---
-title: Treccia salata ripiena di zucca e patate
+title: Treccia Salata vegan ripiena di Zucca e Patate
 date: 2014-10-31
 tags:
 - torta salata
@@ -11,14 +11,14 @@ tags:
 categories:
 - Salato
 - "Torte salate, Muffin salati..."
+label: 2014-10-31-treccia-salata-ripiena-di-zucca-e-patate
 lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
->Happy Halloween a tutti!!!
+> Happy Halloween a tutti!
 
-Oggi Overdose di zucca!!! Abbiamo comprato una zucca bella grande per fare tantissime pietanze tutte con la zucca. Io vi darò solo la ricetta per questa buonissima treccia salata il resto ve lo spiego molto velocemente anche perché è facilissimo...
-
+Oggi Overdose di zucca!!! Abbiamo comprato una zucca bella grande per fare tantissime pietanze tutte con la zucca. Io vi darò solo la ricetta per questa buonissima treccia salata il resto ve lo posterò un'altra volta.
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
@@ -87,20 +87,33 @@ Ora mettete le verdure al centro della pasta sfoglia e chiudete bene.
 
 ![](chiusa.jpg "frangipani © Erica")
 
-Infornate la treccia a 220°C statico per mezz'oretta. A metà cottura uscite la treccia, spennellate con della panna vegetale mischiata con la curcuma e se volete cospargete con dei semi di papavero. Prima di tagliare la treccia fatela raffreddare leggermente in modo che si rapprenda un po'...
-![](risultato.jpg "frangipani © Erica")
+Infornate la treccia a 220°C statico per mezz'oretta. A metà cottura uscite la treccia, spennellate con della panna vegetale mischiata con la curcuma e se volete cospargete con dei semi di papavero. Infornatela di nuovo fino a cottura ottimata. Prima di tagliare la treccia fatela raffreddare leggermente in modo che si rapprenda un po'...
+![](risultato1.jpg "frangipani © Erica")
 
-Poi ho fatto anche la vellutata di zucca. Praticamente ho messo in una pentola la zucca, poche patate e acqua e ho fatto bollire il tutto. Poi ho frullato il tutto con il mixer ad immersione, ho aggiunto il sale e ho continuato ancora un po' la cottura. A tavola ho messo poi l'olio di semi di zucca, l'olio di zenzero e lemongrass, dei germogli e dei semi di zucca così che ogni uno possa condire la vellutata a proprio piacere.
-![](vellutata.jpg "frangipani © Erica")
+![](risultato2.jpg "frangipani © Erica")
 
-Ho anche provato a fare dei panini a forma di zucca. Praticamente ho fatto l'impasto per il pane con farina bianca, acqua, curcuma, lievito e sale e ho messo a lievitare. Poi ho diviso l'impasto in parti uguali e li ho legati a stella e li ho fatti lievitare di nuovo. Ho infornato i panini nel forno preriscaldato al massimo e appena ho chiuso il forno ho abbassato la temperatura a 220°C. Ci vogliono ca. 20min o almeno finché la superfice dei panini sarà bella dorata.
-![](pagnotte1.jpg "frangipani © Erica")
+![](risultato3.jpg "frangipani © Erica")
 
-![](pagnotte2.jpg "frangipani © Erica")
+![](risultato4.jpg "frangipani © Erica")
 
-E per finire mia mamma ha fatto la zucca fritta con la stemperata d'aceto. Ha tagliato a fette la zucca, l'ha passata nella farina e l'ha fritta (si può fare anche al forno). A parte ha fatto appassire le cipolle e poi ha aggiunto un po' d'aceto. Ha messo le fette di zucca fritta su di un piatto e ha ricoperto con la cipolla. Vi assicuro che è la fine del mondo!
-![](stemperata.jpg "frangipani © Erica")
+![](risultato5.jpg "frangipani © Erica")
 
+Inoltre abbiamo mangiato dei panini a forma di zucca, la vellutata di zucca e la stemperata d'aceto che ha fatto mia mamma.
+<p>
+  <div style="width: 100%; margin-bottom: ">
+    <img style="float: left; width: 49%; margin-right: 1%" src="pagnotte1.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="pagnotte2.jpg" alt="" title="frangipani © Erica" />
+    <div style="clear: both"></div>
+  </div>
+</p>
+
+<p>
+  <div style="width: 100%; margin-bottom: ">
+    <img style="float: left; width: 49%; margin-right: 1%" src="vellutata.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="stemperata.jpg" alt="" title="frangipani © Erica" />
+    <div style="clear: both"></div>
+  </div>
+</p>
 
 <h4>Buon appetito
   <font color="red">
