@@ -76,18 +76,18 @@ Heute gibt es eine Kürbisoverdose! Wir haben einen grossen Kürbis gekauft und 
   </font> Zubereitung
 </h3>
 
-Pelate le patate e tagliatele a fettine. Mettetele in una padella bella calda con dell'olio e fatele cucinare coperte con un coperchio a fuoco basso finché saranno cotte. Aggiustate di sale. Tagliate la zucca a pezzetti, metteteli su di una teglia con sotto della carta forno e infornate nel forno ventilato a 180°C per mezz'oretta o almeno finché la zucca sarà cotta. Quando sarà cotta aggiungete una spolverata di sale. E per ultimo tagliate a rondelle il porro e fatelo appassire in una padella con poco olio e sale. Se c'è bisogno aggiungete un po' d'acqua.
+Kartoffeln schälen und in nicht all zu dicke Scheiben schneiden. Etwas Öl in eine Bratpfanne geben und erwärmen, dann Kartoffelscheiben dazu geben und zugedeckt auf niedriger Stufe braten. Kartoffeln immer wieder wenden damit sie nicht anbrennen und am Schluss salzen. Kürbis schälen und ebenfalls in Scheiben schneiden. Kürbis auf ein mit Backpapier belegtes Blech legen und für ca. 30min (oder bis er gar ist) im Ofen bei 180°C Umluft backen. Auch den Kürbis erst am Schluss salzen. Nun den Lauch rüsten und in Scheiben schneiden. Den Lauch in einer Bratpfanne mit etwas Öl weich kochen. Wenn nötig nach und nach etwas Wasser dazu geben.
 ![](../2014-10-31-treccia-salata-ripiena-di-zucca-e-patate/ripieno.jpg "frangipani © Erica")
 
-Fate rafreddare un po' le verdure e nel frattempo mettete la pasta sfoglia su di una teglia e fate dei taglietti ai lati per poi intrecciare il tutto.
+Nun alles auskühlen lassen. Blätterteig ausrollen und auf ein mit Backpapier belegtes Blech legen und auf den Seiten einschneiden, damit dieser dann geflochten werden kann.
 ![](../2014-10-31-treccia-salata-ripiena-di-zucca-e-patate/sfoglia.jpg "frangipani © Erica")
 
-Ora mettete le verdure al centro della pasta sfoglia e chiudete bene.
+Kürbis, Kartoffeln und Lauch in die Mitte vom Blätterteig legen und zuflechten.
 ![](../2014-10-31-treccia-salata-ripiena-di-zucca-e-patate/ripiena.jpg "frangipani © Erica")
 
 ![](../2014-10-31-treccia-salata-ripiena-di-zucca-e-patate/chiusa.jpg "frangipani © Erica")
 
-Infornate la treccia a 220°C statico per mezz'oretta. A metà cottura uscite la treccia, spennellate con della panna vegetale mischiata con la curcuma e se volete cospargete con dei semi di papavero. Prima di tagliare la treccia fatela raffreddare leggermente in modo che si rapprenda un po'...
+Der Strudel kommt für eine halbe Stunde in den vorgeheizten Ofen bei 220°C Ober- und Unterhitze. Nach der Hälfte der Backzeit den Strudel rausnehmen, mit einem Sahne-Kurkuma-Gemisch bepinseln und Mohnsamen darüber streuen. Strudel wieder in den Ofen schieben und fertig backen. Vor dem Anschneiden etwas auskühlen lassen, damit nicht alles auseinanderfällt...
 ![](../2014-10-31-treccia-salata-ripiena-di-zucca-e-patate/risultato1.jpg "frangipani © Erica")
 
 ![](../2014-10-31-treccia-salata-ripiena-di-zucca-e-patate/risultato2.jpg "frangipani © Erica")
@@ -98,19 +98,19 @@ Infornate la treccia a 220°C statico per mezz'oretta. A metà cottura uscite la
 
 ![](../2014-10-31-treccia-salata-ripiena-di-zucca-e-patate/risultato5.jpg "frangipani © Erica")
 
-Inoltre abbiamo mangiato dei panini a forma di zucca, la vellutata di zucca e la stemperata d'aceto che ha fatto mia mamma.
+Dazu gab es Brötchen in Kürbisform, Kürbissuppe und frittierte Kürbisschnitze mit süss-sauer Zwiebeln von meiner Mamma.
 <p>
   <div style="width: 100%; margin-bottom: ">
-    <img style="float: left; width: 49%; margin-right: 1%" src="pagnotte1.jpg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="pagnotte2.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-10-31-treccia-salata-ripiena-di-zucca-e-patate/pagnotte1.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-10-31-treccia-salata-ripiena-di-zucca-e-patate/pagnotte2.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: ">
-    <img style="float: left; width: 49%; margin-right: 1%" src="vellutata.jpg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="stemperata.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-10-31-treccia-salata-ripiena-di-zucca-e-patate/vellutata.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-10-31-treccia-salata-ripiena-di-zucca-e-patate/stemperata.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
