@@ -1,5 +1,5 @@
 ---
-title: "vegane Pasta in Pfifferling-Rahmsauce"
+title: "Pasta in veganer Pfifferling-Rahmsauce"
 date: 2017-10-02
 tags:
 - funghi
