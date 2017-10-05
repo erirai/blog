@@ -1,5 +1,5 @@
 ---
-title: "vegan Brownies alla Zucca e cioccolato"
+title: "vegan Brownies alla Zucca e Cioccolato"
 date: 2017-10-05
 tags:
 - dolci 
