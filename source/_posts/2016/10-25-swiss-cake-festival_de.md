@@ -1,5 +1,5 @@
 ---
-title: "Swiss Cake Festival"
+title: "Swiss Cake Festival 2016"
 date: 2016-10-25
 tags:
 - swiss cake festival
