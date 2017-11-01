@@ -45,6 +45,10 @@ Vor ein paar Wochen, hat mein Mann mich darauf aufmerksam gemacht, dass ich scho
             <td>Milch</td>
           </tr>
           <tr>
+            <td>350gr</td>
+            <td>Zucker</td>
+          </tr>
+          <tr>
             <td>420gr</td>
             <td>Mehl</td>
           </tr>

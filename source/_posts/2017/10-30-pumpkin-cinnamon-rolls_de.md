@@ -91,7 +91,7 @@ Morgen ist Halloween und damit endet auch der Monat Oktober... Dieser Monat ist 
   </font> Zubereitung
 </h3>
 
-Für den Teig Mehl, Zucker, Trockenhefe, Salz und wenn ihr möcht auch Pumpkin Spice in die Küchenmaschine geben und kurz vermengen. Milch zusammen mit der Butter leicht aufwärmen, dann vom Herd nehmen und den Kürbispüree unterrühren. Das flüssige Gemisch ebenfalls in die Küchenmaschine geben und kneten lassen, bis sich der Teig vom Schüsselrand löst. Teig auf eine Arbeitsfläche geben und noch ein paar Minuten von Hand durchkneten. Teig in eine Schüssel geben und zugedeckt etwas 3h aufgehen lassen oder bis sich sein Volumen verdoppelt hat.
+Für den Teig Mehl, Zucker, Trockenhefe, Salz und wenn ihr möcht auch Pumpkin Spice in die Küchenmaschine geben und kurz vermengen. Milch zusammen mit der Butter leicht aufwärmen, dann vom Herd nehmen und den Kürbispüree unterrühren. Das flüssige Gemisch ebenfalls in die Küchenmaschine geben und kneten lassen, bis sich der Teig vom Schüsselrand löst. Teig auf eine Arbeitsfläche geben und noch ein paar Minuten von Hand durchkneten. Teig in eine Schüssel geben und zugedeckt etwa 3h aufgehen lassen oder bis sich sein Volumen verdoppelt hat.
 
 Den aufgegangenen Teig auf eine bemehlte Arbeitsfläche geben und mit einem Wallholz zu einem 1cm dicken Rechteck ausrollen. Für die Füllung in einem Schüsselchen die weiche Margarine zusammen mit Zucker und Zimt verrühren.
 ![](../2017-10-30-pumpkin-cinnamon-rolls/farcia.jpg "frangipani © Erica")

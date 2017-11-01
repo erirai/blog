@@ -45,6 +45,10 @@ Mio marito qualche settimana fa mi ha fatto notare, che l'ultima videoricetta l'
             <td>latte</td>
           </tr>
           <tr>
+            <td>350gr</td>
+            <td>zucchero</td>
+          </tr>
+          <tr>
             <td>420gr</td>
             <td>farina</td>
           </tr>
