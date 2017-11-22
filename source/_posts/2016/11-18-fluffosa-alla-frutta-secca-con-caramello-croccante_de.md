@@ -1,5 +1,5 @@
 ---
-title: "Nuss Chiffon Cake mit Knusprigem Krokant"
+title: "Nuss Chiffon Cake mit Knusprigem Karamell"
 date: 2016-11-18
 tags:
 - torta

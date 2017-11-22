@@ -104,7 +104,7 @@ Inauguro la stagione dei dolci natalizi con questa Baked Christmas Cheesecake. L
         </tbody>
       </table>
       <br></br>
-      <i class="pull-right" style="font-size: 80%;">per una tortiera da 20cm</i>
+      <i class="pull-right" style="font-size: 80%;">per una tortiera da 18-20cm</i>
     </div>
   </div>
 </div>
@@ -116,10 +116,10 @@ Inauguro la stagione dei dolci natalizi con questa Baked Christmas Cheesecake. L
   </font> Preparazione
 </h3>
 
-Iniziate preparando la frolla: mettete tutti gli ingredienti tranne il latte in una ciotola capiente e iniziate ad impastare, poi aggiungete 1 cucchiaio di latte e se vedete che l'impasto non si compatta bene, aggiungete un altro cucchiaio di latte. Continuate ad impastare finché tutti gli ingredienti si saranno amalgamenti bene e compattate tutto.
+Iniziate preparando la frolla: mettete tutti gli ingredienti tranne il latte in una ciotola capiente e iniziate ad impastare, poi aggiungete 1 cucchiaio di latte e se vedete che l'impasto non si compatta bene, aggiungete un altro cucchiaio di latte. Continuate ad impastare finché tutti gli ingredienti si saranno amalgamati bene e formate un panetto.
 ![](impasto.jpg "frangipani © Erica")
 
-Prendete un terzo dell'impasto, avvolgetelo nella pellicola trasparente e mettetelo a riposare in frigo. Il resto dell'impasto stendetelo tra due fogli di carta forno fino ad uno spessore di 5mm ca. Rivestite una tortiera a cerniera da 20cm con della carta forno, poi foderate il tutto con la pasta frolla. Odio questa procedura perché mi si rompe sempre tutto l'impasto. Questa volta ho fatto prima un disco per ricoprire il fondo, poi ho ritagliato delle strisce per fare i bordi. Schiacciate bene l'impasto verso le pareti dei bordi, in modo che non cada. Poi mettetela a riposare in frigo per un'oretta.
+Prendete un terzo dell'impasto, avvolgetelo nella pellicola trasparente e mettetelo a riposare in frigo. Il resto dell'impasto stendetelo tra due fogli di carta forno fino ad uno spessore di 5mm ca. Rivestite una tortiera a cerniera da 20cm con della carta forno, poi foderate il tutto con la pasta frolla. Odio questa procedura perché mi si rompe sempre tutto l'impasto. Questa volta ho fatto prima un disco per ricoprire il fondo, poi ho ritagliato delle strisce per fare i bordi. Schiacciate bene l'impasto verso le pareti in modo che non cada. Poi mettetela a riposare in frigo per un'oretta.
 ![](teglia.jpg "frangipani © Erica")
 
 Nel frattempo preparate la farcia: Mettete il Quark o la ricotta a sgocciolare in modo che possa perdere l'acqua in eccesso. Poi passatelo in una coppa capiente e iniziate a frullare il tutto con le fruste elettriche finché diventerà bello morbido e liscio. Aggiungete un uovo alla volta e mescolate bene, aggiungete anche la panna e la crème fraiche o lo yogurt. Finite aggiungendo il resto degli ingredienti e mescolate ancora per qualche minuto. Come risultato avrete una cremina abbastanza liquida, ma non vi preoccupate!
