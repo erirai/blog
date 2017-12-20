@@ -1,5 +1,5 @@
 ---
-title: "Orangen-Fenchel Salat"
+title: "Orangen-Fenchel-Salat"
 date: 2016-12-29
 tags:
 - antipasti

@@ -1,5 +1,5 @@
 ---
-title: "Insalata d'Arance e Finocchi"
+title: "Insalata di Arance e Finocchi"
 date: 2016-12-29
 tags:
 - antipasti
