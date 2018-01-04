@@ -1,5 +1,5 @@
 ---
-title: "Dreikönigskuchen"
+title: "Dreikönigskuchen vegan"
 date: 2015-01-06
 tags:
 - panificati
