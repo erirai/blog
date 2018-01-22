@@ -5,7 +5,7 @@ tags:
 - dolci
 - limone
 - carnevale
-- frittelline
+- frittelle
 categories:
 - Dolce
 - "Piccola Pasticceria"

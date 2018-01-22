@@ -4,7 +4,7 @@ date: 2016-02-05
 tags:
 - dolci
 - carnevale
-- frittelline
+- frittelle
 categories:
 - Dolce
 - "Piccola Pasticceria"
