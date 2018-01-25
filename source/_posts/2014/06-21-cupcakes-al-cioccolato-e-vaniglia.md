@@ -1,5 +1,5 @@
 ---
-title: Cupcakes al Cioccolato e Vaniglia
+title: Cupcakes vegani al Cioccolato e Vaniglia
 date: 2014-06-21
 tags:
 - san valentino

@@ -1,5 +1,5 @@
 ---
-title: "Alberello di Natale alle Carote, Arance e Zenzero"
+title: "Torta vegana alle Carote, Arance e Zenzero"
 date: 2015-12-11
 tags:
 - torta

@@ -1,5 +1,5 @@
 ---
-title: "Mini Gugelhupf con Pezzetti di Praline"
+title: "Mini Gugelhupf vegani con Pezzetti di Praline"
 date: 2016-04-28
 tags:
 - muffin

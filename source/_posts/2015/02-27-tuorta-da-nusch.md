@@ -1,5 +1,5 @@
 ---
-title: "Tuorta da Nusch (Torta di Noci Grigionese)"
+title: "Tuorta da Nusch vegana (Torta di Noci Grigionese vegana)"
 date: 2015-02-27
 tags:
 - dolci

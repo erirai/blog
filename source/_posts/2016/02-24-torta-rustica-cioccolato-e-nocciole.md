@@ -1,5 +1,5 @@
 ---
-title: "Torta Rustica al Cioccolato e Nocciole"
+title: "Torta Rustica vegana al Cioccolato e Nocciole"
 date: 2016-02-24
 tags:
 - dolci

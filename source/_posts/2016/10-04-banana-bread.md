@@ -1,5 +1,5 @@
 ---
-title: "Banana Bread"
+title: "Banana Bread vegano"
 date: 2016-10-04
 tags:
 - torta

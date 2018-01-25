@@ -1,5 +1,5 @@
 ---
-title: "Torta Cioccolato e Zucchine"
+title: "Torta vegana Cioccolato e Zucchine"
 date: 2017-04-28
 tags:
 - torta

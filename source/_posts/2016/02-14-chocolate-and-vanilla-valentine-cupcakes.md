@@ -1,5 +1,5 @@
 ---
-title: "Chocolate and Vanilla Valentine Cupcakes"
+title: "vegan Chocolate and Vanilla Valentine Cupcakes"
 date: 2016-02-14
 tags:
 - san valentino

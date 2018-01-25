@@ -1,5 +1,5 @@
 ---
-title: Pancakes
+title: Pancakes vegani
 date: 2014-06-14
 tags:
 - colazione

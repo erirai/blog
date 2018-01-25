@@ -1,5 +1,5 @@
 ---
-title: Minnie Mouse Cupcakes al Cioccolato
+title: Minnie Mouse Cupcakes vegani al Cioccolato
 date: 2014-05-10
 tags:
 - dolci

@@ -1,5 +1,5 @@
 ---
-title: "Ciambella alla Frutta"
+title: "Ciambella vegana alla Frutta"
 date: 2015-05-25
 tags:
 - torta

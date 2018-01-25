@@ -1,5 +1,5 @@
 ---
-title: Bouquet di Cupcakes al Rabarbaro e Cocco
+title: Bouquet di Cupcakes vegani al Rabarbaro e Cocco
 date: 2014-05-02
 tags:
 - san valentino

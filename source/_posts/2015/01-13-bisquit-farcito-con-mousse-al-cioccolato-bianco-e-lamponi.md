@@ -1,5 +1,5 @@
 ---
-title: Bisquit farcito con Mousse al Cioccolato Bianco e Lamponi
+title: Bisquit vegano farcito con Mousse al Cioccolato Bianco e Lamponi
 date: 2015-01-13
 tags:
 - dolci

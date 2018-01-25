@@ -1,5 +1,5 @@
 ---
-title: Brioches ripiene
+title: Brioches ripiene vegane
 date: 2014-08-01
 tags:
 - brioches

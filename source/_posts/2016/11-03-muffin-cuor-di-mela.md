@@ -1,5 +1,5 @@
 ---
-title: "Muffin Cuor di Mela"
+title: "Muffin Cuor di Mela vegani"
 date: 2016-11-03
 tags:
 - muffin

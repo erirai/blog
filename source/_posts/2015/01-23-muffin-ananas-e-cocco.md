@@ -1,5 +1,5 @@
 ---
-title: "Muffin Ananas & Cocco"
+title: "Muffin vegani Ananas & Cocco"
 date: 2015-01-23
 tags:
 - dolci

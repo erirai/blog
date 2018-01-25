@@ -1,5 +1,5 @@
 ---
-title: "Cupcakes al Limone con frosting cremoso"
+title: "Cupcakes al Limone vegani con frosting cremoso"
 date: 2015-04-17
 tags:
 - muffin

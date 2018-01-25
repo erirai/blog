@@ -1,5 +1,5 @@
 ---
-title: "Matcha Ingwer Cookies"
+title: "vegane Matcha-Ingwer-Cookies"
 date: 2016-12-01
 tags:
 - zenzero

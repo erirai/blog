@@ -1,5 +1,5 @@
 ---
-title: "Scones"
+title: "Scones vegani"
 date: 2015-10-05
 tags:
 - colazione

@@ -1,5 +1,5 @@
 ---
-title: Baci di Dama al Cioccolato
+title: Baci di Dama vegani al Cioccolato
 date: 2014-12-04
 tags:
 - san valentino

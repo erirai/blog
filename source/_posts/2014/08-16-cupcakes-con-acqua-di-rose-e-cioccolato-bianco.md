@@ -1,5 +1,5 @@
 ---
-title: Cupcakes con Acqua di Rose e Cioccolato Bianco
+title: Cupcakes vegani con Acqua di Rose e Cioccolato Bianco
 date: 2014-08-16
 tags:
 - san valentino

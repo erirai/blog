@@ -1,5 +1,5 @@
 ---
-title: "Torta Croccamorbidosa al Cioccolato"
+title: "Torta Croccamorbidosa al Cioccolato vegana"
 date: 2015-04-11
 tags:
 - san valentino

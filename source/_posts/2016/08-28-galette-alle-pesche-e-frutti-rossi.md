@@ -1,5 +1,5 @@
 ---
-title: "Galette alle Pesche e Frutti Rossi"
+title: "Galette alle Pesche e Frutti Rossi vegana"
 date: 2016-08-28
 tags:
 - crostata

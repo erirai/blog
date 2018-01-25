@@ -1,5 +1,5 @@
 ---
-title: Mini Cupcakes al Limone
+title: Mini Cupcakes vegani al Limone
 date: 2014-04-17
 tags:
 - muffin

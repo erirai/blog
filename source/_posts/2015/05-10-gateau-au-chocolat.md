@@ -1,5 +1,5 @@
 ---
-title: "Gâteau au Chocolat"
+title: "Gâteau au Chocolat vegano"
 date: 2015-05-10
 tags:
 - san valentino

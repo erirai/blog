@@ -1,5 +1,5 @@
 ---
-title: Gufetti
+title: Muffin Gufetti vegani
 date: 2015-01-10
 tags:
 - dolci

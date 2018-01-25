@@ -1,5 +1,5 @@
 ---
-title: "Pumpkin Spice Chiffon Cake"
+title: "vegan Pumpkin Spice Chiffon Cake"
 date: 2016-10-10
 tags:
 - fluffosa

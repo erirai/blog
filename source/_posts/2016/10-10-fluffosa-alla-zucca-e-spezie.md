@@ -1,5 +1,5 @@
 ---
-title: "Fluffosa alla Zucca e Spezie"
+title: "Fluffosa vegana alla Zucca e Spezie"
 date: 2016-10-10
 tags:
 - fluffosa

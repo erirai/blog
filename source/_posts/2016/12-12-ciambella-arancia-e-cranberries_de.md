@@ -1,5 +1,5 @@
 ---
-title: "Orangen Cranberry Bundt Cake"
+title: "veganer Orangen-Cranberry-Bundt Cake"
 date: 2016-12-12
 tags:
 - arance

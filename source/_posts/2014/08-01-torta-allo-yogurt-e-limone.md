@@ -1,5 +1,5 @@
 ---
-title: Torta allo Yogurt e Limone
+title: Torta allo Yogurt e Limone vegana
 date: 2014-08-01
 tags:
 - dolci

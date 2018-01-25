@@ -1,5 +1,5 @@
 ---
-title: Ciambella ai Frutti di Bosco
+title: Ciambella vegana ai Frutti di Bosco
 date: 2014-07-25
 tags:
 - dolci

@@ -1,5 +1,5 @@
 ---
-title: Mini-Plumcakes Mele e Cannella
+title: Mini-Plumcakes vegani Mele e Cannella
 date: 2014-10-03
 tags:
 - dolci

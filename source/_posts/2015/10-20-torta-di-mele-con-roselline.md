@@ -1,5 +1,5 @@
 ---
-title: "Torta di Mele con Roselline"
+title: "Torta di Mele vegana con Roselline"
 date: 2015-10-20
 tags:
 - dolci

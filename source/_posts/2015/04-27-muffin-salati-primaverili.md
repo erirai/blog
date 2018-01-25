@@ -1,5 +1,5 @@
 ---
-title: "Muffin salati Primaverili"
+title: "Muffin salati Primaverili vegani"
 date: 2015-04-27
 tags:
 - muffin salati

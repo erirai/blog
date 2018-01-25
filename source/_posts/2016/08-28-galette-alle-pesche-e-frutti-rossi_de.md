@@ -1,5 +1,5 @@
 ---
-title: "Pfirsich Beeren Galette"
+title: "vegane Pfirsich-Beeren-Galette"
 date: 2016-08-28
 tags:
 - crostata

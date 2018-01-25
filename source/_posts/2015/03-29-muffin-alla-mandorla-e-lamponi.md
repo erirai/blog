@@ -1,5 +1,5 @@
 ---
-title: Muffin alla Mandorla e Lamponi
+title: Muffin vegani alle Mandorle e Lamponi
 date: 2015-03-29
 tags:
 - dolci

@@ -1,5 +1,5 @@
 ---
-title: "Halloween Marble Cake"
+title: "vegan Halloween Marble Cake"
 date: 2015-10-31
 tags:
 - dolci

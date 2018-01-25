@@ -1,5 +1,5 @@
 ---
-title: Parfait alle Mandorle
+title: Parfait alle Mandorle vegano
 date: 2014-08-22
 tags:
 - mandorle

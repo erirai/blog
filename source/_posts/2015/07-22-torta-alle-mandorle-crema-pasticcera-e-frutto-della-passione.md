@@ -1,5 +1,5 @@
 ---
-title: "Torta alle Mandorle farcita con Crema Pasticcera e Frutto della Passione"
+title: "Torta alle Mandorle vegana farcita con Crema Pasticcera e Frutto della Passione"
 date: 2015-07-22
 tags:
 - torta

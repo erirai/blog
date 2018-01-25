@@ -3,7 +3,7 @@ title: "Torta Salata con Crema di Parmigiano e Verdure"
 date: 2016-03-25
 tags:
 - torta salata
-- vegan
+- pasqua
 categories:
 - Salato
 - "Torte salate, Muffin salati..."

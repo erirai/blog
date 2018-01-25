@@ -1,5 +1,5 @@
 ---
-title: Husarenkrapferl
+title: Husarenkrapferl vegani
 date: 2014-12-09
 tags:
 - biscotti

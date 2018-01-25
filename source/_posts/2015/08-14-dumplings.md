@@ -1,5 +1,5 @@
 ---
-title: "Dumplings"
+title: "Dumplings vegani"
 date: 2015-08-14
 tags:
 - prugne

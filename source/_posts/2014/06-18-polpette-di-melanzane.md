@@ -1,5 +1,5 @@
 ---
-title: Polpette di Melanzane
+title: Polpette di Melanzane vegane
 date: 2014-06-18
 tags:
 - melanzane

@@ -1,5 +1,5 @@
 ---
-title: "Muffin alle Mandorle con Cuore di Cioccolato"
+title: "Muffin vegani alle Mandorle con Cuore di Cioccolato"
 date: 2015-05-10
 tags:
 - muffin

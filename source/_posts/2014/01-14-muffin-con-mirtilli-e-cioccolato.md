@@ -1,5 +1,5 @@
 ---
-title: Muffin con Mirtilli e Cioccolato
+title: Muffin vegani con Mirtilli e Cioccolato
 date: 2014-01-14
 tags:
 - muffin

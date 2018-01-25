@@ -1,5 +1,5 @@
 ---
-title: Cinnamon and Vanilla Rolls
+title: Cinnamon and Vanilla Rolls vegani
 date: 2014-11-21
 tags:
 - panificati

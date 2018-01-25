@@ -1,5 +1,5 @@
 ---
-title: "Ciambella Arancia e Cranberries"
+title: "Ciambella vegana Arancia e Cranberries"
 date: 2016-12-12
 tags:
 - arance

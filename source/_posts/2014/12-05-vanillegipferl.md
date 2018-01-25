@@ -1,5 +1,5 @@
 ---
-title: Vanillegipferl
+title: Vanillegipferl vegani
 date: 2014-12-05
 tags:
 - biscotti

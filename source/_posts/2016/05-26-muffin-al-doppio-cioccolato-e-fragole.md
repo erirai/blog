@@ -1,5 +1,5 @@
 ---
-title: "Muffin al Doppio Cioccolato e Fragole"
+title: "Muffin vegani al Doppio Cioccolato e Fragole"
 date: 2016-05-26
 tags:
 - muffin

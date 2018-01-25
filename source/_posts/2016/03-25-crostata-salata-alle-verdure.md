@@ -1,5 +1,5 @@
 ---
-title: "Crostata Salata alle Verdure"
+title: "Crostata Salata vegana alle Verdure"
 date: 2016-03-25
 tags:
 - torta salata

@@ -1,5 +1,5 @@
 ---
-title: "Schoko-Zucchini-Kuchen"
+title: "veganer Schoko-Zucchini-Kuchen"
 date: 2017-04-28
 tags:
 - torta

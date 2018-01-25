@@ -1,5 +1,5 @@
 ---
-title: "Torta Soffice al Rabarbaro Affogato"
+title: "Torta Soffice vegana al Rabarbaro Affogato"
 date: 2016-04-25
 tags:
 - torta

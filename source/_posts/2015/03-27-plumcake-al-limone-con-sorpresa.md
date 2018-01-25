@@ -1,5 +1,5 @@
 ---
-title: Plumcake al Limone con Sorpresa
+title: Plumcake vegano al Limone con Sorpresa
 date: 2015-03-27
 tags:
 - dolci

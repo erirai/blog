@@ -1,5 +1,5 @@
 ---
-title: "Torta Gelato CoccoCiocco"
+title: "Torta Gelato CoccoCiocco vegana"
 date: 2015-08-01
 tags:
 - torta

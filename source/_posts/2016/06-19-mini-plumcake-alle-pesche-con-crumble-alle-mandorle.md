@@ -1,5 +1,5 @@
 ---
-title: "Mini-Plumcake alle Pesche con Crumble alle Mandorle"
+title: "Mini-Plumcake vegani alle Pesche con Crumble alle Mandorle"
 date: 2016-06-16
 tags:
 - muffin

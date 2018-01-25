@@ -1,5 +1,5 @@
 ---
-title: "Torta di Pere alla Cannella con Frutti di Bosco Autunnali"
+title: "Torta di Pere alla Cannella vegana con Frutti di Bosco Autunnali"
 date: 2015-10-08
 tags:
 - dolci
