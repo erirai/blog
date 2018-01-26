@@ -100,9 +100,15 @@ Pizza kurz auskühlen lassen, dann auf ein Auskühlgitter stürzen und Backpapie
 ![](../2015-11-20-pizza-con-radicchio-pere-e-gorgonzola/girata.jpg "frangipani © Erica")
 
 Pizza in Stücke schneiden, Gorgonzolastücke darüber verteilen sowie auch gehackte Walnüsse und frischen Radicchio. Zum Schluss mit etwas Olivenöl beträufeln.
-![](../2015-11-20-pizza-con-radicchio-pere-e-gorgonzola/risultato.jpg "frangipani © Erica")
+![](../2015-11-20-pizza-con-radicchio-pere-e-gorgonzola/risultato1.jpg "frangipani © Erica")
 
+![](../2015-11-20-pizza-con-radicchio-pere-e-gorgonzola/risultato2.jpg "frangipani © Erica")
 
+![](../2015-11-20-pizza-con-radicchio-pere-e-gorgonzola/risultato3.jpg "frangipani © Erica")
+
+![](../2015-11-20-pizza-con-radicchio-pere-e-gorgonzola/risultato4.jpg "frangipani © Erica")
+
+![](../2015-11-20-pizza-con-radicchio-pere-e-gorgonzola/risultato5.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

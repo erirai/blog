@@ -1,5 +1,5 @@
 ---
-title: Chiacchiere
+title: Chiacchiere di Carnevale fritte e al forno
 date: 2014-02-28
 tags:
 - dolci
@@ -14,7 +14,7 @@ lang: it
 
 > Grazie Lucia per questa fantastica ricetta!
 
-Quando ancora lavoravo, Lucia nel periodo di carnevale ci portava sempre queste fantastiche Chiacchiere e non solo... Dato che ora non lavoro più, tocca a me farle! 
+Chiacchiere di Carnevale fritte e al forno, voi quale preferite? Quando ancora lavoravo, Lucia nel periodo di carnevale ci portava sempre queste fantastiche Chiacchiere e non solo... Dato che ora non lavoro più, tocca a me farle! Io le preferisco più cicciotte e morbide, ma voi naturalmente le potete farle più sottili... Per me vincono quelle fritte, sono più gustose. Quelle al forno però non sono per niente male, sembrano dei biscotti...
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
@@ -48,7 +48,7 @@ Quando ancora lavoravo, Lucia nel periodo di carnevale ci portava sempre queste 
           </tr>
           <tr>
             <td>5 cucchiai</td>
-            <td>vino bianco</td>
+            <td>vino bianco o Martini</td>
           </tr>
           <tr>
             <td>4 cucchiai</td>
@@ -90,7 +90,21 @@ Fate riscaldare l'olio in una padella, quando avrà la temperatura giusta mettet
 ![](fritte.jpg "frangipani © Erica")
 
 Quando si saranno raffreddate cospargetele con abbondante zucchero a velo e mangiatele subito!
-![](risultato.jpg "frangipani © Erica")
+![](risultato1.jpg "frangipani © Erica")
+
+![](risultato2.jpg "frangipani © Erica")
+
+![](risultato3.jpg "frangipani © Erica")
+
+![](risultato4.jpg "frangipani © Erica")
+
+Per la versione al forno dopo che avrete tagliato dei rettangoli, metteteli su di una leccarda con sotto della carta forno e spennellateli completamente con olio di semi. Infornateli nel forno preriscaldato statico a 190°C per 8min. Prima di servirli spolverateli con dello zucchero a velo.
+![](risultato5.jpg "frangipani © Erica")
+
+![](risultato6.jpg "frangipani © Erica")
+
+![](risultato7.jpg "frangipani © Erica")
+
 
 
 <h3>

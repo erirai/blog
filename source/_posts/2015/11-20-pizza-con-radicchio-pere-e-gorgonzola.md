@@ -101,7 +101,15 @@ Fatela raffreddare qualche attimo, poi scaravoltatela e togliete la carta forno.
 ![](girata.jpg "frangipani © Erica")
 
 Tagliate la pizza a spicchi, mettete qualche cubetto di Gorgonzola (se volete potete anche sciogliere il Gorgonzola in un pentolino e poi versarlo sulla pizza, così come ha fatto Bonci), le noci tritate e un po' di radicchio tagliato a listarelle. Finite con un filo d'olio evo.
-![](risultato.jpg "frangipani © Erica")
+![](risultato1.jpg "frangipani © Erica")
+
+![](risultato2.jpg "frangipani © Erica")
+
+![](risultato3.jpg "frangipani © Erica")
+
+![](risultato4.jpg "frangipani © Erica")
+
+![](risultato5.jpg "frangipani © Erica")
 
 
 
