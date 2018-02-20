@@ -3,7 +3,7 @@ title: "Pasta al Cavolfiore Piccante"
 date: 2016-11-16
 tags:
 - primi
-- cavolfiore
+- cavolo
 - pasta
 - pomodori
 - vegan

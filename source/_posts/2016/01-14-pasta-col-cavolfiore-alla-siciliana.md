@@ -3,7 +3,7 @@ title: "Pasta col Cavolfiore alla Siciliana"
 date: 2016-01-14
 tags:
 - primi
-- cavolfiore
+- cavolo
 - vegan
 categories:
 - Salato

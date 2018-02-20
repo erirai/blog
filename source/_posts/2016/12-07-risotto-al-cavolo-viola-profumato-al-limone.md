@@ -5,7 +5,7 @@ tags:
 - primi
 - riso
 - limone
-- cavolo viola
+- cavolo
 - vegan
 categories:
 - Salato

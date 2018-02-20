@@ -3,7 +3,7 @@ title: "Pasta mit scharfem Blumenkohl"
 date: 2016-11-16
 tags:
 - primi
-- cavolfiore
+- cavolo
 - pasta
 - pomodori
 - vegan
