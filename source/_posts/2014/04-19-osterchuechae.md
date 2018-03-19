@@ -1,5 +1,5 @@
 ---
-title: "Osterchuechä"
+title: "Osterkuchen"
 date: 2014-04-19
 tags:
 - pasqua
