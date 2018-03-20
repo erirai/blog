@@ -37,6 +37,10 @@ Cremiger Karottenkuchen, zart im Geschmack und zergeht auf der Zunge! Ostern kom
             <td>Orange Saft und Abrieb</td>
           </tr>
           <tr>
+            <td>2</td>
+            <td>Eier</td>
+          </tr>
+          <tr>
             <td>120gr</td>
             <td>Mehl</td>
           </tr>

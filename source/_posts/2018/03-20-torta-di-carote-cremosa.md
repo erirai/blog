@@ -37,6 +37,10 @@ Torta di Carote Cremosa dal gusto molto delicato che si scioglie in bocca! Pasqu
             <td>arancia scorza e succo</td>
           </tr>
           <tr>
+            <td>2</td>
+            <td>uova</td>
+          </tr>
+          <tr>
             <td>120gr</td>
             <td>farina</td>
           </tr>
