@@ -7,6 +7,7 @@ tags:
 - fagiolini
 - patate
 - cipolle
+- glutenfree
 - vegan
 categories:
 - Salato

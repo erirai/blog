@@ -4,7 +4,7 @@ date: 2018-01-25
 tags:
 - piatto unico
 - crespelle
-- antipasto
+- antipasti
 categories:
 - Salato
 - "Piatti Unici"

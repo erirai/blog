@@ -2,7 +2,7 @@
 title: Brioches ripiene vegane
 date: 2014-08-01
 tags:
-- brioches
+- brioche
 - colazione
 - vegan
 categories:

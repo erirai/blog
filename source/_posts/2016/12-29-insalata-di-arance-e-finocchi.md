@@ -6,6 +6,7 @@ tags:
 - arance
 - finocchi
 - natale
+- glutenfree
 - vegan
 categories:
 - Salato

@@ -6,6 +6,7 @@ tags:
 - fagioli
 - cavolo
 - zuppa
+- glutenfree
 - vegan
 categories:
 - Salato

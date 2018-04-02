@@ -5,6 +5,7 @@ tags:
 - ceci
 - piatto unico
 - aperitivo
+- glutenfree
 - vegan
 categories:
 - Salato

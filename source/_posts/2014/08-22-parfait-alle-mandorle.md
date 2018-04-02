@@ -4,6 +4,7 @@ date: 2014-08-22
 tags:
 - mandorle
 - gelato
+- glutenfree
 - vegan
 categories:
 - Dolce

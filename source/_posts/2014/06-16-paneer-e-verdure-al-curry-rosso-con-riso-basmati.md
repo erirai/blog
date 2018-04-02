@@ -98,16 +98,6 @@ Poco prima che il riso basmati è pronto aggiungete il paneer alle verdure, deve
 Potete servire il riso e la verdura separatamente o mischiare il tutto direttamente nella padella, come preferite.
 ![](risultato.jpg "frangipani © Erica")
 
-
-<h3>
-  <font color="#FFCC00">
-    <i class="fa fa-lightbulb-o"></i>
-  </font> P.S.
-</h3>
-
-Il paneer l'ho trovato in supermercato, ma sicuramente si trova anche nei negozi bio. Praticamente si può usare come il Tofu, solo che non è vegano, ma latto-vegetariano (dato l'assenza del caglio).
-
-
 <h4>Buon appetito
   <font color="red">
     <i class="fa fa-smile-o"></i>

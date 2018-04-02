@@ -5,6 +5,7 @@ tags:
 - lenticchie
 - legumi
 - zuppa
+- glutenfree
 - vegan
 categories:
 - Salato

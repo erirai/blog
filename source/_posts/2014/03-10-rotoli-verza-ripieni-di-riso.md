@@ -3,6 +3,7 @@ title: Rotoli di Verza ripieni di Riso
 date: 2014-03-10
 tags:
 - piatto unico
+- glutenfree
 - riso
 - verza
 categories:

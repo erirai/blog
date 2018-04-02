@@ -6,6 +6,7 @@ tags:
 - riso
 - zucchine
 - pomodori
+- glutenfree
 - vegan
 categories:
 - Salato

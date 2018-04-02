@@ -3,9 +3,9 @@ title: Torroncini al Cioccolato
 date: 2014-10-18
 tags:
 - cioccolato
-- nutella
 - nocciole
 - torrone
+- glutenfree
 - natale
 categories:
 - Dolce

@@ -6,6 +6,7 @@ tags:
 - zucchine
 - secondi
 - contorno
+- glutenfree
 categories:
 - Salato
 - "Secondi Piatti e Contorni"

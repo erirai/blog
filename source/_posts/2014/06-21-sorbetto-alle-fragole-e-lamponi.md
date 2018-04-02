@@ -5,6 +5,7 @@ tags:
 - sorbetto
 - lamponi
 - fragole
+- glutenfree
 - vegan
 categories:
 - Dolce

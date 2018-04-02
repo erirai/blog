@@ -3,7 +3,6 @@ title: "Cornettini ripieni di Philadelphia, Erbe Aromatiche e Pomodori Secchi"
 date: 2015-08-01
 tags:
 - pasta sfoglia
-- philadelphia
 - erbe aromatiche
 - pomodori secchi
 - aperitivo

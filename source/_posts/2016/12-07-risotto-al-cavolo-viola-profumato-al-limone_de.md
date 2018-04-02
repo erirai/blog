@@ -6,6 +6,7 @@ tags:
 - riso
 - limone
 - cavolo
+- glutenfree
 - vegan
 categories:
 - Salato

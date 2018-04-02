@@ -5,6 +5,7 @@ tags:
 - gelato
 - dolci
 - mandorle
+- glutenfree
 - vegan
 categories:
 - Dolce

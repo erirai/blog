@@ -1,5 +1,5 @@
 ---
-title: Crostata Salata con Zucchine, Patate e Pomodori
+title: Torta Salata con Zucchine, Patate e Pomodori
 date: 2014-07-25
 tags:
 - torta salata
@@ -15,7 +15,7 @@ lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
-Oggi ho preparato questa buonissima crostata salata che a vederla sembra difficile preparare ma alla fine l'ho preparata subitissimo! Questa crostata salata è perfetta da portare ad un picnic o come aperitivo da spizzicare... Noi l'abbiamo mangiata fredda ed era buonissima!
+Oggi ho preparato questa buonissima torta salata che a vederla sembra difficile preparare ma alla fine l'ho preparata subitissimo! Questa torta salata è perfetta da portare ad un picnic o come aperitivo da spizzicare... Noi l'abbiamo mangiata fredda ed era buonissima!
 
 
 <div id="wrapper" style="text-align: center">
