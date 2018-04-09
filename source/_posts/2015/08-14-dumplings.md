@@ -5,7 +5,7 @@ tags:
 - prugne
 - patate
 - dolci
-- frittelline
+- frittelle
 - vegan
 categories:
 - Dolce
