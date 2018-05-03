@@ -1,5 +1,5 @@
 ---
-title: Cornettini con fiocchi di latte e marmellata
+title: Cornetti con fiocchi di latte e marmellata
 date: 2014-12-16
 tags:
 - biscotti
@@ -12,7 +12,7 @@ lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
-Questi biscotti sono una cosa fenomenale. Il problema è che caldi sono la fine del mondo, quindi la tentazione di mangiarli appena sfornati è molto grande. L'impasto è facilissimo, la cosa che ha bisogno di tempo è proprio il formare i cornettini...
+Questi biscotti sono una cosa fenomenale. Il problema è che caldi sono la fine del mondo, quindi la tentazione di mangiarli appena sfornati è molto grande. L'impasto è facilissimo, la cosa che ha bisogno di tempo è proprio il formare i cornetti...
 
 
 <div id="wrapper" style="text-align: center">
