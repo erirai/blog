@@ -12,7 +12,8 @@
     "static": "hexo server --static",
     "deploy": "rm -rf public && hexo deploy --generate",
     "publish": "hexo deploy",
-    "finish": "npm run push && npm run deploy"
+    "finish": "npm run push && npm run deploy",
+    "clean": "rm -rf node_modules && rm -f package-lock.json && npm i"
   },
   "hexo": {
     "version": "3.3.8"

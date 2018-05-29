@@ -1,5 +1,5 @@
 ---
-title: "Frühling-Pastasalat"
+title: "Frühlings-Pastasalat"
 date: 2017-05-03
 tags:
 - pasta  

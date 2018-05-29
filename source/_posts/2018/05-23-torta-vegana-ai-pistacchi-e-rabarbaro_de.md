@@ -11,7 +11,7 @@ categories:
 - Dolce
 - Torte
 label: 2018-05-23-torta-vegana-ai-pistacchi-e-rabarbaro
-lang: de 
+lang: de
 ---
 ![](../2018-05-23-torta-vegana-ai-pistacchi-e-rabarbaro/header.jpg "frangipani © Erica")
 
