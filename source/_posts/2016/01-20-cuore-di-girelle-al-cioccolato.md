@@ -1,5 +1,5 @@
 ---
-title: "Cuore di Girelle al Cioccolato"
+title: "Girelle di Pane al Cioccolato"
 date: 2016-01-20
 tags:
 - panificati

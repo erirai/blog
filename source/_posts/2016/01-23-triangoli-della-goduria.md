@@ -1,5 +1,5 @@
 ---
-title: "Triangoli della Goduria"
+title: "Triangoli di Pasta Fillo farciti con Spinaci e Crescenza"
 date: 2016-01-23
 tags:
 - piatto unico

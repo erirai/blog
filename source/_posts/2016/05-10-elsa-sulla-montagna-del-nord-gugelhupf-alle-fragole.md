@@ -1,5 +1,5 @@
 ---
-title: "Elsa sulla Montagna del Nord (Gugelhupf alle Fragole)"
+title: "Ciambella con Ricotta e Fragole profumato alla Vaniglia"
 date: 2016-05-10
 tags:
 - dolci

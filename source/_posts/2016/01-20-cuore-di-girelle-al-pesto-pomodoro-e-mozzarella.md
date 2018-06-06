@@ -1,5 +1,5 @@
 ---
-title: "Cuore di Girelle al Pesto, Pomodoro e Mozzarella"
+title: "Girelle di Pane al Pesto, Pomodoro e Mozzarella"
 date: 2016-01-20
 tags:
 - panificati

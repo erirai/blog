@@ -112,6 +112,8 @@ Ich hatte Lust auf Cheesecake. Punkt. Und wenn ich auf etwas spezielles Lust hab
   </font> Zubereitung
 </h3>
 
+{% youtube ctaKRxIU-C8 %}
+
 Als erstes den Boden für die Cheesecake vorbereiten. Dafür die Butterkekse in den Blitzhacker geben bis diese sandig werden, danach alles in eine Schüssel geben. Die Butter schmelzen lassen, zu den Keksen geben und alles vermischen. Nehmt eine runde 20cm Springform, belegt den Boden mit Backpapier und bestreicht die Wände mit Butter. Gebt die Keksmasse in die Springform und drückt alles mit den Händen gut an, bis alles fest ist. Danach auf die Seite legen.
 ![](../2016-08-10-no-bake-cheesecake-ai-lamponi-e-pistacchi/base.jpg "frangipani © Erica")
 
@@ -131,9 +133,6 @@ In einer separaten Schüssel Frischkäse, Puderzucker und Vanilleextrakt mit dem
 ![](../2016-08-10-no-bake-cheesecake-ai-lamponi-e-pistacchi/compostopistacchi.jpg "frangipani © Erica")
 
 Die Springform aus dem Kühlschrank nehmen und vorsichtig die Pistazienfüllung dazu geben. Die beiden Füllung müssen sich nicht zusammen vermischen, sie müssen getrannt bleiben.
-
-{% youtube ctaKRxIU-C8 %}
-
 ![](../2016-08-10-no-bake-cheesecake-ai-lamponi-e-pistacchi/teglia2.jpg "frangipani © Erica")
 
 Nun könnt ihr die Cheesecake für 3-4 Stunden in den Gefrierschrank legen. Falls sie länger drin bleibt, wir es eine Eistorte. Nach 3-4 Stunden ist sie perfekt und kann sofort gegessen werden, wenn sie länger drind ist, dann könnt ihr sie als Eistorte geniessen oder ihr lasst die Cheesecake etwa 20 Minuten bei Raumtemperatur und sie wird sofort wieder cremig, ist natürlich auf von der Wärme abhängig.

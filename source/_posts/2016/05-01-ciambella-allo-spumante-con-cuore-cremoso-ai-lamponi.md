@@ -16,7 +16,7 @@ lang: it
 
 > Buon 1° Maggio a tutti!
 
-Quando vado in cerca di ricette o ispirazioni, spesso navigo anche sui siti tedeschi. Un sito che mi piace molto è il Foogblog di Trickytine, da dove ho anche preso questa ricetta (<a href="http://trickytine.com/super-saftiger-sektruehrkuchen-mit-fruchtigem-himbeerkaesekern/" target="_blank">trickytine.com</a>). Quando ho visto su Instagram l'immagine di questa torta, me ne sono innamorata. Sta sera andiamo a cena da mia sorella che mio cognato oggi festeggia la Pasqua, quindi ho preparato il dolce per l'occasione. Essendo un dolce nuovo, che non avevo ancora fatto prima, ho dovuto provarne un pezzetto. Ragazzi, non saprei come descriverla! Era ancora tiepida e io ADORO le torte tiepide, il gusto della mandorla, il cuore cremoso ai lamponi... Maaamma che buona! A proposito di Mamma, è una torta perfetta per la Festa della Mamma!
+Quando vado in cerca di ricette o ispirazioni, spesso navigo anche sui siti tedeschi. Un sito che mi piace molto è il Foogblog di Trickytine, da dove ho anche preso questa ricetta <a href="http://trickytine.com/super-saftiger-sektruehrkuchen-mit-fruchtigem-himbeerkaesekern/" target="_blank">trickytine.com</a>. Quando ho visto su Instagram l'immagine di questa torta, me ne sono innamorata. Sta sera andiamo a cena da mia sorella che mio cognato oggi festeggia la Pasqua, quindi ho preparato il dolce per l'occasione. Essendo un dolce nuovo, che non avevo ancora fatto prima, ho dovuto provarne un pezzetto. Ragazzi, non saprei come descriverla! Era ancora tiepida e io ADORO le torte tiepide, il gusto della mandorla, il cuore cremoso ai lamponi... Maaamma che buona! A proposito di Mamma, è una torta perfetta per la Festa della Mamma!
 
 
 <div id="wrapper" style="text-align: center">

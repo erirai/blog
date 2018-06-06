@@ -9,7 +9,7 @@ tags:
 - festa del papà
 categories:
 - Dolce
-- Torte
+- "Crostate, Tartes..."
 lang: it
 ---
 ![](header.jpg "frangipani © Erica")

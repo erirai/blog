@@ -112,6 +112,8 @@ Avevo voglia di una Cheesecake. Punto. E quando ho voglia di qualcosa in partico
   </font> Preparazione
 </h3>
 
+{% youtube ctaKRxIU-C8 %}
+
 Per prima cosa preparate la base per la Cheesecake. Frullate i biscotti riducendoli in polvere. Poi aggiungete il burro fuso e amalgamate il tutto. Prendete una teglia rotonda a cerniera da 20cm, coprite il fondo con della carta forno e imburrate i bordi. Mettete i biscotti sbriciolati nella teglia e con la mano schiacchiate bene, compattando la base. Poi mettete da parte.
 ![](base.jpg "frangipani © Erica")
 
@@ -131,9 +133,6 @@ A parte, in un'altra ciotola, mettete il formaggio spalmabile, lo zucchero a vel
 ![](compostopistacchi.jpg "frangipani © Erica")
 
 Tirate fuori dal frigo la teglia e aggiungete molto delicatamente la farcia ai pistacchi. Le due farcie non si devono mischiare, devono rimanere separate.
-
-{% youtube ctaKRxIU-C8 %}
-
 ![](teglia2.jpg "frangipani © Erica")
 
 A questo punto mettete la Cheesecake in congelatore per 3-4 ore. Se la lasciate di più diventerà un semifreddo e non sarà più morbida. Dopo 3-4 ore è perfetta da mangiare subito, se sta più di 4 ore la mangiate come semifreddo o la lasciate per una ventina di minuti a temperatura ambiente e diventerà subito bella morbida, natrualmente dipende anche dal caldo che c'è!

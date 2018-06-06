@@ -1,5 +1,5 @@
 ---
-title: "Pagnotta Semibianca"
+title: "Pane (ricetta base)"
 date: 2016-01-20
 tags:
 - panificati
@@ -24,7 +24,7 @@ Ieri sera ho preparato l'impasto per il pane però con pochissimo lievito. Così
           </tr>
           <tr>
             <td>1kg</td>
-            <td>farina semibianca</td>
+            <td>farina</td>
           </tr>
           <tr>
             <td>5 cucchiaini</td>
