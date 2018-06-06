@@ -13,9 +13,7 @@ lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
-> Grazie Betty (<a href="http://laveganasiciliana.blogspot.ch" target="_blank">http://laveganasiciliana.blogspot.ch</a>) per questa meravigliosa ricetta!
-
-Tramite Instagram ho trovato il Blog di Betty "La Vegana Siciliana" e devo dire che ha veramente delle belle ricette. Oggi ho voluto provare questo: il parfait alle mandorle (<a href="http://laveganasiciliana.blogspot.ch/2014/08/parfait-di-mandorle.html" target="_blank">http://laveganasiciliana.blogspot.ch/2014/08/parfait-di-mandorle.html</a>). Dal gusto mi ricorda tantissimo le torte gelato che spesso mangiamo da noi in Sicilia. Si prepara veramente molto velocemente ed è buonissimo.
+Tramite Instagram ho trovato il Blog di Betty <a href="http://laveganasiciliana.blogspot.ch/2014/08/parfait-di-mandorle.html" target="_blank">La Vegana Siciliana</a> e devo dire che ha veramente delle belle ricette. Oggi ho voluto provare questo: il parfait alle mandorle. Dal gusto mi ricorda tantissimo le torte gelato che spesso mangiamo da noi in Sicilia. Si prepara veramente molto velocemente ed è buonissimo.
 
 
 <div id="wrapper" style="text-align: center">

@@ -1,5 +1,5 @@
 ---
-title: Alberelli di Natale al Pistacchio
+title: Frollini al Pistacchio
 date: 2014-11-26
 tags:
 - biscotti

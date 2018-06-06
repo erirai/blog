@@ -1,5 +1,5 @@
 ---
-title: Torta Baffo
+title: Torta vegana al Cioccolato a forma di Baffo
 date: 2014-11-13
 tags:
 - dolci

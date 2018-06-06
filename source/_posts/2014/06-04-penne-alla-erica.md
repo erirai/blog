@@ -1,5 +1,5 @@
 ---
-title: Penne alla Erica
+title: Penne con Peperoni e Fragoline
 date: 2014-06-04
 tags:
 - pasta

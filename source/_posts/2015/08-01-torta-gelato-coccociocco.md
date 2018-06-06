@@ -1,5 +1,5 @@
 ---
-title: "Torta Gelato CoccoCiocco vegana"
+title: "Torta Gelato vegana al Cocco e Cioccolato"
 date: 2015-08-01
 tags:
 - torta

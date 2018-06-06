@@ -1,5 +1,5 @@
 ---
-title: Gugl alle More e Philadelphia
+title: Mini Gugelhupf alle More e Philadelphia
 date: 2014-07-18
 tags:
 - san valentino

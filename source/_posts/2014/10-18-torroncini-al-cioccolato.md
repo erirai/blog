@@ -1,5 +1,5 @@
 ---
-title: Torroncini al Cioccolato
+title: Torroncini al Cioccolato (Torrone dei Morti)
 date: 2014-10-18
 tags:
 - cioccolato

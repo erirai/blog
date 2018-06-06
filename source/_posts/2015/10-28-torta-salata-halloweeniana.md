@@ -1,5 +1,5 @@
 ---
-title: "Torta Salata Halloweeniana"
+title: "Torta Salata per Halloween"
 date: 2015-10-28
 tags:
 - torta salata

@@ -1,5 +1,5 @@
 ---
-title: "Torta Croccamorbidosa al Limone farcita con Crema al Mascarpone"
+title: "Torta al Limone farcita con Crema al Mascarpone"
 date: 2015-04-17
 tags:
 - torta
