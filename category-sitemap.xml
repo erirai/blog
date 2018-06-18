@@ -63,13 +63,6 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/categories/Salato/Primi-Piatti/</loc>
-        <lastmod>2018-06-05T13:37:08.545Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://frangipani.raiano.ch/categories/Dolce/Dolci-al-cucchiaio-Gelati/</loc>
         <lastmod>2018-06-05T13:52:08.545Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -112,13 +105,6 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/categories/Salato/</loc>
-        <lastmod>2018-06-06T12:28:18.868Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://frangipani.raiano.ch/categories/Salato/Aperitivi/</loc>
         <lastmod>2018-06-06T12:28:18.868Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -126,22 +112,36 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/categories/Dolce/Torte/</loc>
-        <lastmod>2018-06-06T12:40:17.309Z</lastmod>
+        <loc>http://frangipani.raiano.ch/categories/Dolce/Crostate-Tartes/</loc>
+        <lastmod>2018-06-06T12:53:33.922Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://frangipani.raiano.ch/categories/Dolce/</loc>
-        <lastmod>2018-06-06T12:53:33.922Z</lastmod>
+        <lastmod>2018-06-13T13:39:11.661Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/categories/Dolce/Crostate-Tartes/</loc>
-        <lastmod>2018-06-06T12:53:33.922Z</lastmod>
+        <loc>http://frangipani.raiano.ch/categories/Dolce/Torte/</loc>
+        <lastmod>2018-06-13T13:39:11.661Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/categories/Salato/</loc>
+        <lastmod>2018-06-18T15:52:42.844Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/categories/Salato/Primi-Piatti/</loc>
+        <lastmod>2018-06-18T15:52:42.844Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
