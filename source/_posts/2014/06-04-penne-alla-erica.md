@@ -1,5 +1,5 @@
 ---
-title: Penne con Peperoni e Fragoline
+title: "Pasta con Peperoni e Fragole"
 date: 2014-06-04
 tags:
 - pasta
@@ -10,13 +10,14 @@ tags:
 categories:
 - Salato
 - "Primi Piatti"
+label: 2014-06-04-pasta-con-peperoni-e-fragole
 lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
 > Grazie Nonno Alfredo per le buonissime fragoline di bosco!
 
-Questa ricetta è nata tanti anni fa per caso, così non sapendo cosa cucinare... Avevo preparato un sughetto con pomodori e peperoni, ma volevo metterci qualcosa di diverso ed ho visto una bottiglia di fragolino aperta in frigo... Beh, sicuramente non ci starà male, ho pensato! Ed è nata la mia ricetta... 
+La ricetta della Pasta con Peperoni e Fragole è nata tanti anni fa per caso, così non sapendo cosa cucinare... Avevo preparato un sughetto con pomodori e peperoni, ma volevo metterci qualcosa di diverso ed ho visto una bottiglia di fragolino aperta in frigo... Beh, sicuramente non ci starà male, ho pensato! Ed è nata la mia ricetta... 
 
 
 <div id="wrapper" style="text-align: center">
@@ -43,7 +44,7 @@ Questa ricetta è nata tanti anni fa per caso, così non sapendo cosa cucinare..
           </tr>
           <tr>
             <td>1 manciata</td>
-            <td>fragoline di bosco</td>
+            <td>fragoline di bosco o fragole</td>
           </tr>
           <tr>
             <td>400gr</td>
@@ -80,14 +81,23 @@ Questa ricetta è nata tanti anni fa per caso, così non sapendo cosa cucinare..
   </font> Preparazione
 </h3>
 
-Tagliate finemente lo scalogno ed il peperone e lavate le fragoline. 
-![](ingredienti.jpg "frangipani © Erica")
-
-Poi mettete a soffriggere lo scalogno con poco olio ed un pizzico di sale. Quando sarà ben dorato, aggiungete il peperone tagliato a pezzetti e fate soffriggere per qualche minuto, poi sfumate con il vino o con il fragolino. Ora tocca all'ingrediente segreto, aggiungete le fragoline e poi i pelati. Se c'è bisogno aggiungete un po' d'acqua. Finite con qualche fogliolina di basilico, una spolverata di paprica in polvere e aggiustate di sale. Fate cucinare il sughetto a fuoco basso per mezz'oretta.
-![](sughetto.jpg "frangipani © Erica")
+Tagliate finemente lo scalogno ed il peperone e lavate le fragoline. Poi mettete a soffriggere lo scalogno con poco olio ed un pizzico di sale. Quando sarà ben dorato, aggiungete il peperone tagliato a pezzetti e fate soffriggere per qualche minuto, poi sfumate con il vino o con il fragolino. Ora tocca all'ingrediente segreto, aggiungete le fragoline e poi i pelati. Se c'è bisogno aggiungete un po' d'acqua. Finite con qualche fogliolina di basilico, una spolverata di paprica in polvere e aggiustate di sale. Fate cucinare il sughetto a fuoco basso per mezz'oretta.
+<p>
+  <div style="width: 100%; margin-bottom: ">
+    <img style="float: left; width: 49%; margin-right: 1%" src="ingredienti.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="sughetto.jpg" alt="" title="frangipani © Erica" />
+    <div style="clear: both"></div>
+  </div>
+</p>
 
 Quando la pasta è cotta, scolatela e versatela nella padella con il sughetto, mescolate bene e servite la pasta!
-![](risultato.jpg "frangipani © Erica")
+![](risultato1.jpg "frangipani © Erica")
+
+![](risultato3.jpg "frangipani © Erica")
+
+![](risultato4.jpg "frangipani © Erica")
+
+![](risultato5.jpg "frangipani © Erica")
 
 
 <h3>
