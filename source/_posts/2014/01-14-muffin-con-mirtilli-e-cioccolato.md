@@ -10,13 +10,14 @@ tags:
 categories:
 - Dolce
 - "Muffin, Cupcakes, Cake Pops..."
-lang: it
+label: 2014-01-14-muffin-vegani-con-mirtilli-e-cioccolato
+lang: it 
 ---
 ![](header.jpg "frangipani © Erica")
 
 > Grazie Mamma per la ricetta!
 
-Avevo voglia di qualcosa di dolce ma avevo poco tempo e mi è venuta in mente la ricetta di questi muffin vegani che mi ha dato mia mamma. Si fanno in pochissimo tempo, dato che non c'è bisogno di sbattere uova, poi avevo anche i mirtilli freschi... quindi mi sono messa all'opera! Vi assicuro che sono veramente buonissimi e leggerissimi (a parte il cioccolato), provateli! 
+Muffin vegani con Mirtilli e Cioccolato, i Muffin perfetti per la colazione! Avevo voglia di qualcosa di dolce ma avevo poco tempo e mi è venuta in mente la ricetta di questi muffin vegani che mi ha dato mia mamma. Si fanno in pochissimo tempo, dato che non c'è bisogno di sbattere uova, poi avevo anche i mirtilli freschi... quindi mi sono messa all'opera! Vi assicuro che sono veramente buonissimi e leggerissimi (a parte il cioccolato), provateli! 
 
 
 <div id="wrapper" style="text-align: center">
@@ -38,7 +39,7 @@ Avevo voglia di qualcosa di dolce ma avevo poco tempo e mi è venuta in mente la
             <td>zucchero di canna</td>
           </tr>
           <tr>
-            <td>1 bustina</td>
+            <td>1/2 bustina</td>
             <td>lievito per dolci</td>
           </tr>
           <tr>
@@ -51,7 +52,7 @@ Avevo voglia di qualcosa di dolce ma avevo poco tempo e mi è venuta in mente la
           </tr>
           <tr>
             <td>250ml</td>
-            <td>latte di soia o di riso</td>
+            <td>latte vegetale</td>
           </tr>
           <tr>
             <td>100ml</td>
@@ -59,7 +60,7 @@ Avevo voglia di qualcosa di dolce ma avevo poco tempo e mi è venuta in mente la
           </tr>
           <tr>
             <td>120gr</td>
-            <td>mirtilli</td>
+            <td>mirtilli freschi</td>
           </tr>
           <tr>
             <td>100gr</td>
@@ -80,25 +81,29 @@ Avevo voglia di qualcosa di dolce ma avevo poco tempo e mi è venuta in mente la
   </font> Preparazione
 </h3>
 
-Mettete in una ciotola la farina, la fecola di patate, lo zucchero di canna, il lievito, lo zucchero vanigliato ed un pizzico di sale e mescolate tutto.
-![](asciutti.jpg "frangipani © Erica")
-
-Aggiungete poi il latte di soia o di riso e l'olio e mescolate bene con un cucchiaio di legno e poi aggiungete i mirtilli ed il cioccolato a pezzetti.
+Mettete in una ciotola la farina, la fecola di patate, lo zucchero di canna, il lievito, lo zucchero vanigliato ed un pizzico di sale e mescolate tutto. Aggiungete poi il latte vegetale e l'olio e mescolate bene con un cucchiaio di legno e poi aggiungete i mirtilli ed il cioccolato a pezzetti.
 ![](impasto.jpg "frangipani © Erica")
 
-Mettete l'impasto nelle formine da muffin ed infornate a 200°C per ca. 20min (mi raccomando fate sempre la prova con lo stecchino), poi sfornateli e fateli raffreddare.
-![](risultato.jpg "frangipani © Erica")
+Riempite i pirottini per Muffin massimo fino a 3/4 ed infornate a 200°C statico per ca. 20min (mi raccomando fate sempre la prova stecchino), poi sfornateli e fateli raffreddare nella teglia stessa.
+![](risultato1.jpg "frangipani © Erica")
 
+![](risultato2.jpg "frangipani © Erica")
 
-<h3>
-  <font color="#FFCC00">
-    <i class="fa fa-lightbulb-o"></i>
-  </font> P.S.
-</h3>
+![](risultato3.jpg "frangipani © Erica")
 
+![](risultato4.jpg "frangipani © Erica")
 
-Se non avete i mirtilli potete usare anche dei ribes, lamponi o anche le more. Nei negozi specializzati potete trovare anche del cioccolato bianco vegano che ci sta benissimo, sempre se li volete fare al 100% vegani, se no prendete il cioccolato che più vi piace. Potete anche sostituire il latte di soia o di riso con del latte normale. Io vi ho scritto la ricetta vegana, voi naturalmente fatela come più vi piace.
-Un piccolo consiglio: cercate di usare il più possibile zucchero grezzo che è molto più sano dello zucchero raffinato. Usate anche lo zucchero vanigliato e non la vanillina. La vanillina è un prodotto sintetico, che non ha niente a che fare con la vaniglia! 
+![](risultato5.jpg "frangipani © Erica")
+
+![](risultato6.jpg "frangipani © Erica")
+
+![](risultato7.jpg "frangipani © Erica")
+
+![](risultato8.jpg "frangipani © Erica")
+
+![](risultato9.jpg "frangipani © Erica")
+
+![](risultato10.jpg "frangipani © Erica") 
 
 <h4>Buon appetito
   <font color="red">
