@@ -42,13 +42,6 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/categories/Salato/Piatti-Unici/</loc>
-        <lastmod>2018-05-15T12:56:50.754Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://frangipani.raiano.ch/categories/Salato/Secondi-Piatti-e-Contorni/</loc>
         <lastmod>2018-06-05T12:43:28.123Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -105,13 +98,6 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/categories/Salato/</loc>
-        <lastmod>2018-06-25T14:15:01.697Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://frangipani.raiano.ch/categories/Salato/Torte-salate-Muffin-salati/</loc>
         <lastmod>2018-06-25T14:15:01.697Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -142,6 +128,20 @@
     <url>
         <loc>http://frangipani.raiano.ch/categories/Dolce/Torte/</loc>
         <lastmod>2018-07-06T15:02:10.725Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/categories/Salato/</loc>
+        <lastmod>2018-07-12T08:41:03.463Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/categories/Salato/Piatti-Unici/</loc>
+        <lastmod>2018-07-12T08:41:03.463Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
