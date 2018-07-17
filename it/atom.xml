@@ -4,7 +4,7 @@
   
   <link href="http://frangipani.raiano.ch/it/atom.xml" rel="self"/>
   <link href="http://frangipani.raiano.ch/"/>
-  <updated>2018-07-12T08:38:38.097Z</updated>
+  <updated>2018-07-15T20:29:34.899Z</updated>
   <id>http://frangipani.raiano.ch/</id>
   
   <author>
@@ -13,6 +13,92 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title xml:lang="it">Pasta con Pomodoro fresco</title>
+    <link href="http://frangipani.raiano.ch/2018-07-17-pasta-con-pomodoro-fresco/"/>
+    <id>http://frangipani.raiano.ch/2018-07-17-pasta-con-pomodoro-fresco/</id>
+    <published>2018-07-16T22:00:00.000Z</published>
+    <updated>2018-07-15T20:29:34.899Z</updated>
+    <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Pasta con Pomodoro fresco, una ricetta velocissima con pochissimi ingredienti che tutti abbiamo sempre in casa! In estate quando ci sono i pomodori buoni, preferisco in gran lunga la pasta col pomodoro fresco, in inverno naturalmente preferisco il sugo. È una delle mie ricette salva cena/pranzo preferite sia per la sua bontà ma anche per la sua facilità e semplicità! Pochissimi ma buoni ingredienti, non c&amp;#39;è bisogno d&amp;#39;altro... &lt;/p&gt;
+&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
+  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
+    &lt;div class=&quot;ingredients&quot;&gt;
+      &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
+      &lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td&gt;320gr&lt;/td&gt;
+            &lt;td&gt;pasta corta&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td&gt;4&lt;/td&gt;
+            &lt;td&gt;pomodori ramati&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td&gt;qb&lt;/td&gt;
+            &lt;td&gt;basilico&lt;/td&gt;
+         &lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td&gt;qb&lt;/td&gt;
+            &lt;td&gt;olio evo&lt;/td&gt;
+         &lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td&gt;qb&lt;/td&gt;
+            &lt;td&gt;sale&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;
+      &lt;br&gt;&lt;br&gt;
+      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot;&gt;per 4 persone&lt;/i&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h3&gt;
+  &lt;font color=&quot;grey&quot;&gt;
+    &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt; Preparazione
+&lt;/h3&gt;
+
+&lt;p&gt;Mettete una pentola con abbondante acqua sui fornelli e accendete. Lavate i pomodori, togliete il picciolo e intagliate una croce sotto il pomodoro. Fate sbollentare i pomodori finché vedrete che la pellicina inizia a staccarsi. Togliete i pomodori fuori dall&amp;#39;acqua, pelateli, tagliateli a pezzettini piccoli e schiacciateli, poi condite con sale, olio e basilico.
+&lt;img src=&quot;pomodoro.jpg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Appena l&amp;#39;acqua dove avete sbollentato i pomodori bolle, buttate la pasta e salate. Quando la pasta sarà cotta, scolatela e conditela con i pomodori.
+&lt;img src=&quot;risultato1.jpg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;risultato2.jpg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;risultato3.jpg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;risultato4.jpg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;risultato5.jpg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;risultato6.jpg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;h4&gt;Buon appetito
+  &lt;font color=&quot;red&quot;&gt;
+    &lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt;
+&lt;/h4&gt;
+</content>
+    <summary type="html" xml:lang="it">
+    
+      &lt;p&gt;&lt;img src=&quot;header.jpg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Pasta con Pomodoro fresco, una ricetta velocissima con pochissimi ingredi
+    
+    </summary>
+    
+      <category term="Salato" scheme="http://frangipani.raiano.ch/categories/Salato/"/>
+    
+      <category term="Primi Piatti" scheme="http://frangipani.raiano.ch/categories/Salato/Primi-Piatti/"/>
+    
+    
+      <category term="vegan" scheme="http://frangipani.raiano.ch/tags/vegan/"/>
+    
+      <category term="primi" scheme="http://frangipani.raiano.ch/tags/primi/"/>
+    
+      <category term="pasta" scheme="http://frangipani.raiano.ch/tags/pasta/"/>
+    
+      <category term="pomodoro" scheme="http://frangipani.raiano.ch/tags/pomodoro/"/>
+    
+  </entry>
   
   <entry>
     <title xml:lang="it">Insalata di Riso Nero con Zucchine, Pomodori Secchi e Feta</title>
@@ -2332,111 +2418,6 @@
       <category term="brioche" scheme="http://frangipani.raiano.ch/tags/brioche/"/>
     
       <category term="ricotta" scheme="http://frangipani.raiano.ch/tags/ricotta/"/>
-    
-  </entry>
-  
-  <entry>
-    <title xml:lang="it">Zuppa di Fagioli e Cavolo Nero</title>
-    <link href="http://frangipani.raiano.ch/2018-02-23-zuppa-di-fagioli-e-cavolo-nero/"/>
-    <id>http://frangipani.raiano.ch/2018-02-23-zuppa-di-fagioli-e-cavolo-nero/</id>
-    <published>2018-02-22T23:00:00.000Z</published>
-    <updated>2018-04-02T20:44:32.248Z</updated>
-    <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Zuppa di Fagioli e Cavolo Nero, proprio quello che ci vuole per riscaldarci bene! Invece di arrivare la primavera, qui è arrivato un freddo gelido orrendo, bruttissimo da chiudersi dentro e andare in letargo. I segnali che preannunciano la primavera ci sono... bucaneve dappertutto, qui e la qualche primula, i boccioli dei narcisi, le foglie dei tulipani ma nessun tipo di temperature miti in vista. Zero! Anzi, prossima settimana arriva pure il freddo polare, vedete voi! Ma non lo so io, quest&amp;#39;anno l&amp;#39;inverno ce lo sta proprio facendo pesare di brutto... L&amp;#39;altro giorno al supermercato c&amp;#39;erano già gli asparagi fini (quelli spagnoli) e vi devo ammettere che ero molto, ma molto tentata. Ma non li ho presi, almeno marzo lo facciamo arrivare, no? Accanto agli asparagi c&amp;#39;era il cavolo nero, che purtroppo non si trova molto facilmente e l&amp;#39;ho preso. Ho pensato subito alla zuppa di fagioli e cavolo nero... Comunque oggi volevo postare la ricetta della torta di mele e marzapane (che forse alcuni di voi hanno visto nelle stories), avevo pure scritto tutto il post, fatto le foto ecc... Ma quando l&amp;#39;ho provata non mi è piaciuta, nella mia mente doveva avere un&amp;#39;altro gusto. Che delusione! Eh niente, oggi vi beccate questa bella zuppa!&lt;/p&gt;
-&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
-  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
-    &lt;div class=&quot;ingredients&quot;&gt;
-      &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
-      &lt;table&gt;
-        &lt;tbody&gt;
-          &lt;tr&gt;
-            &lt;td&gt;1&lt;/td&gt;
-            &lt;td&gt;spicchio d&amp;#39;aglio&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td&gt;1&lt;/td&gt;
-            &lt;td&gt;carota&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td&gt;1 mazzo&lt;/td&gt;
-            &lt;td&gt;cavolo nero&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td&gt;2 cucchiai&lt;/td&gt;
-            &lt;td&gt;concentrato di pomodoro&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td&gt;500gr&lt;/td&gt;
-            &lt;td&gt;fagioli bianchi già lessati&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td&gt;qb&lt;/td&gt;
-            &lt;td&gt;brodo vegetale&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td&gt;qb&lt;/td&gt;
-            &lt;td&gt;foglie di alloro&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td&gt;qb&lt;/td&gt;
-            &lt;td&gt;sale&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td&gt;qb&lt;/td&gt;
-            &lt;td&gt;olio evo&lt;/td&gt;
-          &lt;/tr&gt;
-        &lt;/tbody&gt;
-      &lt;/table&gt;
-      &lt;br&gt;&lt;br&gt;
-      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot;&gt;per 4 persone&lt;/i&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;h3&gt;
-  &lt;font color=&quot;grey&quot;&gt;
-    &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt; Preparazione
-&lt;/h3&gt;
-
-&lt;p&gt;Pelate la carota e tagliatela a pezzettini piccoli. In una casseruola fate soffriggere l&amp;#39;aglio intero con un filo d&amp;#39;olio evo ed un pizzico di sale. Aggiungete le carote e fatele soffriggere un attimino. A questo punto aggiungete anche il cavolo nero lavato e tagliato a pezzetti e la foglia di alloro. Fate insaporire un attimo, coprite con del brodo vegetale ed aggiungete anche il concentrato di pomodoro. Mescolate bene e fate appassire il cavolo nero. A questo punto aggiungete anche i fagioli bianchi già lessati (se usate quelli in scatola, lavateli bene prima). 
-&lt;img src=&quot;casseruola.jpg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Continuate la cottura, finché il tutto si sarà ben insaporito, eliminate l&amp;#39;aglio e salate. Impiattate e finite con un filo d&amp;#39;olio evo.
-&lt;img src=&quot;risultato1.jpg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;risultato2.jpg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;risultato3.jpg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;risultato4.jpg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;risultato5.jpg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;h4&gt;Buon appetito
-  &lt;font color=&quot;red&quot;&gt;
-    &lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt;
-&lt;/h4&gt;
-</content>
-    <summary type="html" xml:lang="it">
-    
-      &lt;p&gt;&lt;img src=&quot;header.jpg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Zuppa di Fagioli e Cavolo Nero, proprio quello che ci vuole per riscaldar
-    
-    </summary>
-    
-      <category term="Salato" scheme="http://frangipani.raiano.ch/categories/Salato/"/>
-    
-      <category term="Piatti Unici" scheme="http://frangipani.raiano.ch/categories/Salato/Piatti-Unici/"/>
-    
-    
-      <category term="glutenfree" scheme="http://frangipani.raiano.ch/tags/glutenfree/"/>
-    
-      <category term="vegan" scheme="http://frangipani.raiano.ch/tags/vegan/"/>
-    
-      <category term="primi" scheme="http://frangipani.raiano.ch/tags/primi/"/>
-    
-      <category term="fagioli" scheme="http://frangipani.raiano.ch/tags/fagioli/"/>
-    
-      <category term="cavolo" scheme="http://frangipani.raiano.ch/tags/cavolo/"/>
-    
-      <category term="zuppa" scheme="http://frangipani.raiano.ch/tags/zuppa/"/>
     
   </entry>
   
