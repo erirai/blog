@@ -9,11 +9,12 @@ tags:
 categories:
 - Dolce
 - "Crostate, Tartes..."
+label: 2014-03-07-strudel-ai-mirtilli
 lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
-Sempre nello stesso libro di ricette dove ho trovato la pasta sfoglia ripiena di pomodori secchi e carciofina ho visto questa ricetta. L'immagine di questo strudel mi sorrideva e mi diceva "mangiami, mangiami"! 
+Strudel ai Mirtilli, un dolce da preparare all'ultimo minuto, per ospiti improvvisi o per voglie improvvise! Sempre nello stesso libro di ricette dove ho trovato la pasta sfoglia ripiena di pomodori secchi e carciofina ho visto questa ricetta. L'immagine di questo strudel mi sorrideva e mi diceva "mangiami, mangiami"! 
 
 
 <div id="wrapper" style="text-align: center">
@@ -64,20 +65,26 @@ Sempre nello stesso libro di ricette dove ho trovato la pasta sfoglia ripiena di
   </font> Preparazione
 </h3>
 
-Lavate i mirtilli e metteteli in una coppa, aggiungete lo zucchero, l'amido di mais ed il succo di limone e mescolate bene. A parte in un pentolino fate sciogliere la margarina.
+Lavate i mirtilli e metteteli in una coppa, aggiungete lo zucchero, l'amido di mais ed il succo di limone e mescolate bene.
 ![](mirtilli.jpg "frangipani © Erica")
 
-Ora preparate la pasta fillo. Mettete un panno umido sul piano di lavoro, poi sopra un foglio di carta forno. Iniziate mettendo due fogli di pasta fillo sulla carta forno, sovrapponendoli in mezzo. Spennelate i due fogli di pasta fillo con la margarina, poi sopra altri due fogli di pasta fillo, di nuovo la margarina... finché avrete finito.
-![](fillo.jpg "frangipani © Erica")
+Ora preparate la pasta fillo. Mettete un panno umido sul piano di lavoro, poi sopra un foglio di carta forno. Iniziate mettendo due fogli di pasta fillo sulla carta forno, sovrapponendoli in mezzo. Spennelate i due fogli di pasta fillo con la margarina sciolta, poi sopra altri due fogli di pasta fillo, di nuovo la margarina... finché avrete finito. Mettete i mirtilli nella parte bassa della pasta fillo.
+<p>
+  <div style="width: 100%; margin-bottom: ">
+    <img style="float: left; width: 49%; margin-right: 1%" src="fillo.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="riempito.jpg" alt="" title="frangipani © Erica" />
+    <div style="clear: both"></div>
+  </div>
+</p>
 
-Mettete i mirtilli nella parte bassa della pasta fillo.
-![](riempito.jpg "frangipani © Erica")
-
-Chiudete prima da sotto, poi i lati.
-![](chiudere.jpg "frangipani © Erica")
-
-Finite di chiudere lo strudel da sopra e spennelatelo con il resto della margarina.
-![](chiuso.jpg "frangipani © Erica")
+Chiudete prima da sotto, poi i lati. Finite di chiudere lo strudel da sopra e spennelatelo con il resto della margarina.
+<p>
+  <div style="width: 100%; margin-bottom: ">
+    <img style="float: left; width: 49%; margin-right: 1%" src="chiudere.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="chiuso.jpg" alt="" title="frangipani © Erica" />
+    <div style="clear: both"></div>
+  </div>
+</p>
 
 Mettetelo sulla teglia e infronate lo strudel a 190°C (ventilato) per ca. 15min. Può essere che un po' di succo fuoriesca...
 ![](sfornato.jpg "frangipani © Erica")
