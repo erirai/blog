@@ -82,7 +82,7 @@ Diese Vollkorn-Crêpe ohne Eier mit Rucola, Parmesan und Walnüssen habe ich vor
 Für die Crêpes Mehle, Natron und Salz in einer Schüssel mischen. Öl und Milch dazu geben und rühren, bis der Teig schön glatt und klumpenfrei ist.
 ![](../2018-01-25-crepes-integrali-senza-uova-con-rucola-parmigiano-e-noci/pastella.jpg "frangipani © Erica")
 
-Eine leicht gefettete Crêpes-Pfanne aufwärmen, dann eine Suppenkelle Teig in die Pfanne geben und mit dem Crêpes-Spatel den Teig dünn verteilen, oder einfach mit rotierenden Bewegungen.
+Eine leicht gefettete Crêpes-Pfanne aufwärmen, dann eine Suppenkelle Teig in die Pfanne geben und mit dem Crêpes-Spatel den Teig dünn verteilen oder einfach mit rotierenden Bewegungen.
 ![](../2018-01-25-crepes-integrali-senza-uova-con-rucola-parmigiano-e-noci/padella.jpg "frangipani © Erica")
 
 Sobald sich die Crêpe am Rande löst und unten schön goldbraun ist, kann sie gewendet werden. Nun auf der anderen Seite goldbraun werden lassen. Weiter machen, bis der Teig aufgebraucht ist.

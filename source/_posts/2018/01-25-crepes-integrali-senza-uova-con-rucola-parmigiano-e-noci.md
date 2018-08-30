@@ -85,7 +85,7 @@ Per le Crêpes mettete le farine, il bicarbonato ed il sale in una coppa e mesco
 Riscaldate una padellina per Crêpes leggermente unta, poi versateci un mestolo di pastella e livellate bene con l'apposito attrezzino o facendo roteare la padella.
 ![](padella.jpg "frangipani © Erica")
 
-Quando inizia a staccarsi ai bordi ed avrà preso un bel colore, giratela e finite di cuocerla. Continuate fino ad esaurimento della pastella.
+Quando inizia a staccarsi dai bordi ed avrà preso un bel colore, giratela e finite di cuocerla. Continuate fino ad esaurimento della pastella.
 ![](crepes.jpg "frangipani © Erica")
 
 Prendete una Crêpe e mettetela di nuovo nella padella calda. Copritela con del parmigiano grattugiato al momento e fatelo sciogliere leggermente. 
