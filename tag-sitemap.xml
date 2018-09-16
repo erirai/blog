@@ -1052,13 +1052,6 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/tags/cioccolato/</loc>
-        <lastmod>2018-06-28T13:37:04.081Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://frangipani.raiano.ch/tags/muffin/</loc>
         <lastmod>2018-06-28T13:37:04.081Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1081,13 +1074,6 @@
 
     <url>
         <loc>http://frangipani.raiano.ch/tags/pistacchi/</loc>
-        <lastmod>2018-07-06T14:52:54.322Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/cheesecake/</loc>
         <lastmod>2018-07-06T14:52:54.322Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -1248,13 +1234,6 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/tags/dolci/</loc>
-        <lastmod>2018-09-12T14:12:26.390Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://frangipani.raiano.ch/tags/crostata/</loc>
         <lastmod>2018-09-12T14:12:26.390Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1292,6 +1271,27 @@
     <url>
         <loc>http://frangipani.raiano.ch/tags/frutti-di-bosco/</loc>
         <lastmod>2018-09-12T14:12:26.390Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/dolci/</loc>
+        <lastmod>2018-09-16T12:39:35.707Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/cioccolato/</loc>
+        <lastmod>2018-09-16T12:39:35.707Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/cheesecake/</loc>
+        <lastmod>2018-09-16T12:39:35.707Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
