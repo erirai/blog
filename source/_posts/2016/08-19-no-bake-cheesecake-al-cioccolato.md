@@ -63,7 +63,7 @@ Uuups, I did it again! Eh si, sarò ripetitiva, ma ho rifatto una no bake Cheese
         </tbody>
       </table>
       <br></br>
-      <i class="pull-right" style="font-size: 80%;">per una Cheesecake da 20cm</i>
+      <i class="pull-right" style="font-size: 80%;">per una Cheesecake da 18-20cm</i>
     </div>
   </div>
 </div>
@@ -80,17 +80,13 @@ Per prima cosa preparate la base per la Cheesecake. Frullate i biscotti riducend
 
 Poi aggiungete il burro fuso e amalgamate il tutto. Prendete una teglia rotonda a cerniera da 20cm, coprite il fondo con della carta forno e imburrate i bordi. Mettete i biscotti sbriciolati nella teglia e con la mano schiacchiate bene, compattando la base e formando anche un bordino. Poi mettetela in frigo.
 
-Preparate una classica Ganache: mettete a riscaldare la panna in un pentolino e portatela quasi ad ebollizione. Nel frattempo sminuzzate il cioccolato e mettetelo in una coppa. Poi versate la panna bollente nella coppa con il cioccolato.
-![](panna.jpg "frangipani © Erica")
-
-Aspettate qualche secondo, poi iniziate a mescolare finché il cioccolato non sarà completamente sciolto e avrete un composto liscio e lucido, la Ganache. Poi mettetela da parte e fatela raffreddare, ma non in frigo.
+Preparate una classica Ganache: mettete a riscaldare la panna in un pentolino e portatela quasi ad ebollizione. Nel frattempo sminuzzate il cioccolato e mettetelo in una coppa. Poi versate la panna bollente nella coppa con il cioccolato. Aspettate qualche secondo, poi iniziate a mescolare finché il cioccolato non sarà completamente sciolto e avrete un composto liscio e lucido, la Ganache. Poi mettetela da parte e fatela intiepidire un attimino.
 ![](ganache.jpg "frangipani © Erica")
 
-In un'altra coppa mettete il mascarpone, il formaggio spalmabile e lo zucchero a velo. Con le fruste a mano amalgamate il tutto, finché sarà bello cremoso. Poi aggiungete la Ganache fredda e amalgamate bene. Versate il composto nella teglia con la base di biscotti e livellate bene.
+In un'altra coppa mettete il mascarpone, il formaggio spalmabile e lo zucchero a velo. Con le fruste a mano amalgamate il tutto, finché sarà bello cremoso. Poi aggiungete la Ganache e amalgamate bene. Versate il composto nella teglia con la base di biscotti e livellate bene.
+![](teglia.jpg "frangipani © Erica")
 
 {% youtube fFUNYbheu30 %}
-
-![](teglia.jpg "frangipani © Erica")
 
 A questo punto mettete la Cheesecake in frigo per 3-4 ore, ancora meglio per tutta la notte. Prima di servirla, mettete una bella spolverata di cacao amaro e mangiatela bella fredda!
 ![](risultato1.jpg "frangipani © Erica")
@@ -98,6 +94,20 @@ A questo punto mettete la Cheesecake in frigo per 3-4 ore, ancora meglio per tut
 ![](risultato2.jpg "frangipani © Erica")
 
 ![](risultato3.jpg "frangipani © Erica")
+
+![](risultato4.jpg "frangipani © Erica")
+
+![](risultato5.jpg "frangipani © Erica")
+
+![](risultato6.jpg "frangipani © Erica")
+
+![](risultato7.jpg "frangipani © Erica")
+
+![](risultato8.jpg "frangipani © Erica")
+
+![](risultato9.jpg "frangipani © Erica")
+
+
 
 <h4>Buon appetito
   <font color="red">

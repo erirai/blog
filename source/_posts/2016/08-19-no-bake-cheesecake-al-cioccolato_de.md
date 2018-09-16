@@ -64,7 +64,7 @@ Uuups, I did it again! Naja, ich wiederhohle mich, aber ich habe nochmals eine n
         </tbody>
       </table>
       <br></br>
-      <i class="pull-right" style="font-size: 80%;">für eine 20cm Cheesecake </i>
+      <i class="pull-right" style="font-size: 80%;">für eine 18-20cm Cheesecake </i>
     </div>
   </div>
 </div>
@@ -81,17 +81,13 @@ Als erstes den Boden für die Cheesecake vorbereiten. Dafür die Butterkekse in 
 
 Die Butter schmelzen lassen, zu den Keksen geben und alles vermischen. Nehmt eine runde 20cm Springform, belegt den Boden mit Backpapier und bestreicht die Wände mit Butter. Gebt die Keksmasse in die Springform und drückt alles mit den Händen gut an, bis alles fest ist, macht auch einen kleinen rand. Danach in den Kühlschrank stellen. 
 
-Bereitet nun eine klassische Ganache vor: wärmt die Sahne auf, bis sie fast kocht. In der Zwischenzeit die Schokolade hacken und in eine schüssel geben. Nun die heisse Sahne über die Schokolade giessen.
-![](../2016-08-19-no-bake-cheesecake-al-cioccolato/panna.jpg "frangipani © Erica")
-
-Wartet einige Sekunden, dann könnt ihr alles gut verrühren bis die ganze Schokolade geschmolzen ist und ihr eine schöne glatte, glänzende Masse habt, die Ganache. Stellt die Ganache auf die Seite und lasst diese auskühlen, aber nicht im Kühlschrank.
+Bereitet nun eine klassische Ganache vor: wärmt die Sahne auf, bis sie fast kocht. In der Zwischenzeit die Schokolade hacken und in eine schüssel geben. Nun die heisse Sahne über die Schokolade giessen. Wartet einige Sekunden, dann könnt ihr alles gut verrühren bis die ganze Schokolade geschmolzen ist und ihr eine schöne glatte, glänzende Masse habt, die Ganache. Stellt die Ganache auf die Seite und lasst diese etwas auskühlen.
 ![](../2016-08-19-no-bake-cheesecake-al-cioccolato/ganache.jpg "frangipani © Erica")
 
 In einer separaten Schüssel Mascarpone, Frischkäse und Puderzucker cremig schlagen. Dann die Ganache dazu geben und gut vermischen. Gebt die Schokofüllung in die Springform mit dem Keksboden und streicht alles glatt.
+![](../2016-08-19-no-bake-cheesecake-al-cioccolato/teglia.jpg "frangipani © Erica")
 
 {% youtube fFUNYbheu30 %}
-
-![](../2016-08-19-no-bake-cheesecake-al-cioccolato/teglia.jpg "frangipani © Erica")
 
 Jetzt kommt die Cheesecake für 3-4 Stunden in den Kühlschrank, noch besser für die ganze Nacht. Zum Schluss noch viel Kakaopulver drüber streuen und kalt servieren.
 ![](../2016-08-19-no-bake-cheesecake-al-cioccolato/risultato1.jpg "frangipani © Erica")
@@ -99,6 +95,18 @@ Jetzt kommt die Cheesecake für 3-4 Stunden in den Kühlschrank, noch besser fü
 ![](../2016-08-19-no-bake-cheesecake-al-cioccolato/risultato2.jpg "frangipani © Erica")
 
 ![](../2016-08-19-no-bake-cheesecake-al-cioccolato/risultato3.jpg "frangipani © Erica")
+
+![](../2016-08-19-no-bake-cheesecake-al-cioccolato/risultato4.jpg "frangipani © Erica")
+
+![](../2016-08-19-no-bake-cheesecake-al-cioccolato/risultato5.jpg "frangipani © Erica")
+
+![](../2016-08-19-no-bake-cheesecake-al-cioccolato/risultato6.jpg "frangipani © Erica")
+
+![](../2016-08-19-no-bake-cheesecake-al-cioccolato/risultato7.jpg "frangipani © Erica")
+
+![](../2016-08-19-no-bake-cheesecake-al-cioccolato/risultato8.jpg "frangipani © Erica")
+
+![](../2016-08-19-no-bake-cheesecake-al-cioccolato/risultato9.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">
