@@ -55,7 +55,7 @@ Bruschetta ai Funghi, un ottimo antipasto veloce e gustoso da preparare durante 
   </font> Preparazione
 </h3>
 
-Pulite i funghi e se c'è bisogno tagliateli a pezzetti più piccoli. In una padella fate soffriggere uno spicchio d'aglio con un pochettino d'olio ed un pizzico di sale, poi aggiungete i funghi e fateli saltare per qualche minuto. Appena i fughi saranno cotti, togliete dai fornelli, eliminate l'aglio e salate.
+Pulite i funghi e se c'è bisogno tagliateli a pezzetti più piccoli. In una padella fate soffriggere uno spicchio d'aglio con un pochettino d'olio ed un pizzico di sale, poi aggiungete i funghi e fateli saltare per qualche minuto. Appena i funghi saranno cotti, togliete dai fornelli, eliminate l'aglio e salate.
 ![](funghi.jpg "frangipani © Erica")
 
 Tagliate il pane a fette e tostatelo nel forno, nella padella o nel tostapane. Mettete un filo d'olio sulle fette di pane tostato, coprite con i funghi e finite con del prezzemolo spezzettato.
