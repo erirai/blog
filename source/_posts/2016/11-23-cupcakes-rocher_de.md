@@ -63,7 +63,7 @@ Die Idee für den Rocher-Geschmack, ist mir aber während der Werbung gekommen. 
             <td>Sonnenblumenöl</td>
           </tr>
           <tr>
-            <td>150gr</td>
+            <td>180gr</td>
             <td>Haselnussmilch</td>
           </tr>
           <tr>

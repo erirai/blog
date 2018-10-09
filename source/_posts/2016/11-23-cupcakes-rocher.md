@@ -63,7 +63,7 @@ L'idea del gusto Rocher però, mi è venuta mentre guardavo la loro pubblicità.
             <td>olio di semi</td>
           </tr>
           <tr>
-            <td>150gr</td>
+            <td>180gr</td>
             <td>latte alla nocciola</td>
           </tr>
           <tr>
