@@ -1213,21 +1213,7 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/tags/mele/</loc>
-        <lastmod>2018-10-08T14:18:18.437Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://frangipani.raiano.ch/tags/nocciole/</loc>
-        <lastmod>2018-10-08T14:18:18.437Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/vegan/</loc>
         <lastmod>2018-10-08T14:18:18.437Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -1269,20 +1255,6 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/tags/dolci/</loc>
-        <lastmod>2018-10-17T19:33:26.983Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/cioccolato/</loc>
-        <lastmod>2018-10-17T19:33:26.983Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://frangipani.raiano.ch/tags/festa-del-papa/</loc>
         <lastmod>2018-10-17T19:33:26.983Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1292,6 +1264,34 @@
     <url>
         <loc>http://frangipani.raiano.ch/tags/tarte/</loc>
         <lastmod>2018-10-17T19:33:26.983Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/dolci/</loc>
+        <lastmod>2018-10-22T19:06:36.824Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/cioccolato/</loc>
+        <lastmod>2018-10-22T19:06:36.824Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/mele/</loc>
+        <lastmod>2018-10-22T19:06:36.824Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/vegan/</loc>
+        <lastmod>2018-10-22T19:06:36.824Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
