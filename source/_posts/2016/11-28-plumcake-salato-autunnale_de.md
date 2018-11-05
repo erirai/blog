@@ -1,5 +1,5 @@
 ---
-title: "Herzhafter Herbst-Plumcake"
+title: "Herzhafter Herbstkuchen"
 date: 2016-11-28
 tags:
 - torta salata
@@ -15,7 +15,7 @@ lang: de
 
 Der November ist ein bisschen so... die Gedanken bereits in weihnachtlicher Stimmung aber noch zu früh um mit weihnachtlichen Rezepten zu beginnen. Das mag ich gar nicht! Ich weiss, diesen Monat waren die Rezepte nicht wirklich toll, ich hatte eine kleine Kochkrise, es fehlten mir einfach die Ideen. Auch wenn es im Moment eine grosse Auswahl an Gemüse und Früchte gibt, aber ja. Aber endlich ist der Monat vorbei und wir können uns voll und ganz auf Weihnachten konzentrieren. Ich habe bereits das ganze Haus dekoriert, den Adventskranz gemacht und nun geniesse ich alle Lichter, Kerzen und Düfte!
 
-Ich weiss nicht wie es euch geht, aber mit dieser Kälte habe ich extrem Lust auf Suppen. Ich liebe Suppen, ich könnte jeden Tag davon essen. Leider mögen die anderen drei Suppe nicht so sehr wie ich, darum muss ich oft neben Suppe noch etwas anderes vorbereiten. Dieses Mal wollte ich nicht Brot dazu servieren, wie es sonst üblich ist. Sondern etwas spezielleres, ein herzhafter Herbst-Plumcake. Im Kühlschrank hatte ich noch Kürbis und Federkohl, habe eine Kartoffel und eine Süsskartoffel dazu gegeben, Käse schadet nie und für das gewisse etwas noch etwas Curry. Falls ihr kein Federkohl habt, geht Spinat genau so gut oder ihr könnt das Blattgemüse ganz lassen, aber es passt ganz gut dazu.
+Ich weiss nicht wie es euch geht, aber mit dieser Kälte habe ich extrem Lust auf Suppen. Ich liebe Suppen, ich könnte jeden Tag davon essen. Leider mögen die anderen drei Suppe nicht so sehr wie ich, darum muss ich oft neben Suppe noch etwas anderes vorbereiten. Dieses Mal wollte ich nicht Brot dazu servieren, wie es sonst üblich ist. Sondern etwas spezielleres, ein herzhafter Herbstkuchen. Im Kühlschrank hatte ich noch Kürbis und Federkohl, habe eine Kartoffel und eine Süsskartoffel dazu gegeben, Käse schadet nie und für das gewisse etwas noch etwas Curry. Falls ihr kein Federkohl habt, geht Spinat genau so gut oder ihr könnt das Blattgemüse ganz lassen, aber es passt ganz gut dazu.
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
@@ -102,7 +102,7 @@ Mehl, Kartoffelstärke, Backpulver und 1 Teelöffel Salz in eine Schüssel geben
 Nun das Currygemüse und den gewürfelten Käse unterrühren.
 ![](../2016-11-28-plumcake-salato-autunnale/impasto2.jpg "frangipani © Erica")
 
-Gebt nun die Hälfte des Teiges in eine bebutterte und bemehlte Plumcakeform. Nun etwas vom Federkohl darüber verteilen.
+Gebt nun die Hälfte des Teiges in eine bebutterte und bemehlte Kastenform. Nun etwas vom Federkohl darüber verteilen.
 ![](../2016-11-28-plumcake-salato-autunnale/primostrato.jpg "frangipani © Erica")
 
 Jetzt mit dem restlichen Teig bedecken und wenn ihr möchtet kommt zum Schluss nochmals etwas Federkohl drauf.
@@ -110,7 +110,7 @@ Jetzt mit dem restlichen Teig bedecken und wenn ihr möchtet kommt zum Schluss n
 
 {% youtube -8RGMYryMxM %}
 
-Dieser Plumcake kommt für ca. 45min in den vorgeheizten Ofen bei 180°C Umluft, macht immer die Stäbchenprobe. Lasst den Plumcake etwas auskühlen, dann könnt ihr ihn aus der Form nehmen. Dieser Plumcake kann warm oder kalt gegessen werden.
+Dieser herzhafte Kuchen kommt für ca. 45min in den vorgeheizten Ofen bei 180°C Umluft, macht immer die Stäbchenprobe. Lasst den Kuchen etwas auskühlen, dann könnt ihr ihn aus der Form nehmen. Dieser herzhafte Kuchen kann warm oder kalt gegessen werden.
 ![](../2016-11-28-plumcake-salato-autunnale/risultato1.jpg "frangipani © Erica")
 
 ![](../2016-11-28-plumcake-salato-autunnale/risultato2.jpg "frangipani © Erica")

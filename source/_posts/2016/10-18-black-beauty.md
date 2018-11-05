@@ -105,7 +105,7 @@ Poi aggiungete la farina di semi di lino (se non trovate la farina di semi di li
 A questo punto aggiungete gli ingredienti asciutti alternando con il latte di mandorla. Mescolate bene e finite aggiungendo 100gr di cioccolato tagliato a pezzettini.
 ![](impasto.jpg "frangipani © Erica")
 
-Versate l'impasto nello stampo da Chiffon Cake da 18cm leggermente imburrto ed infarinato (o in uno stampo per ciambelle).
+Versate l'impasto nello stampo da Chiffon Cake da 18cm leggermente imburrato ed infarinato (o in uno stampo per ciambelle).
 ![](teglia.jpg "frangipani © Erica")
 
 Infornate nel forno preriscaldato a 150°C statico per 1ora e 20min. Mi raccomando fate la prova stecchino.

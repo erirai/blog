@@ -74,7 +74,7 @@ Mio marito domani fa il compleanno e mi ha chiesto di preparargli tre torta da p
   </font> Preparazione
 </h3>
 
-Il procedimento è facilissimo: mettete tutti gli ingredienti in una ciotola e sbattete il tutto con le fruste elettriche o nella planetaria.
+Il procedimento è facilissimo: mettete tutti gli ingredienti, tranne l'ananas, in una ciotola e sbattete il tutto con le fruste elettriche o nella planetaria.
 ![](tazza.jpg "frangipani © Erica")
 
 ![](impasto.jpg "frangipani © Erica")
