@@ -1,5 +1,5 @@
 ---
-title: "Cacoccili Rrustuti"
+title: "Cacoccili Rrustuti (Carciofi arrostiti)"
 date: 2016-01-11
 tags:
 - secondi
