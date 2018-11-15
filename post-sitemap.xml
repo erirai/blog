@@ -7,6 +7,62 @@
     </url>
 
     <url>
+        <loc>http://frangipani.raiano.ch/2018-11-16-torta-soffice-con-melograno-de/</loc>
+        <lastmod>2018-11-12T15:21:46.088Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/2018-11-16-torta-soffice-con-melograno/</loc>
+        <lastmod>2018-11-12T15:09:12.620Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/2014-04-19-osterchuechae/</loc>
+        <lastmod>2018-11-09T14:53:06.441Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/2013-12-09-spitzbuebe/</loc>
+        <lastmod>2018-11-09T14:49:47.760Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/2013-10-26-brownies/</loc>
+        <lastmod>2018-11-09T14:47:43.012Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/2013-12-06-treccia-russa/</loc>
+        <lastmod>2018-11-09T14:43:26.443Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/2013-12-05-mailanderli/</loc>
+        <lastmod>2018-11-09T14:34:13.717Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://frangipani.raiano.ch/2016-01-11-cacoccili-rrustuti/</loc>
         <lastmod>2018-11-07T14:35:05.917Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1361,14 +1417,6 @@
     <url>
         <loc>http://frangipani.raiano.ch/2018-03-20-torta-di-carote-cremosa/</loc>
         <lastmod>2018-03-20T10:03:54.182Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/2014-04-19-osterchuechae/</loc>
-        <lastmod>2018-03-15T13:59:57.071Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -2735,14 +2783,6 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/2013-10-26-brownies/</loc>
-        <lastmod>2017-08-20T12:10:57.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>http://frangipani.raiano.ch/2013-10-31-halloween-cupcakes/</loc>
         <lastmod>2017-08-20T12:10:57.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -2759,22 +2799,6 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/2013-12-05-mailanderli/</loc>
-        <lastmod>2017-08-20T12:10:57.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/2013-12-06-treccia-russa/</loc>
-        <lastmod>2017-08-20T12:10:57.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>http://frangipani.raiano.ch/2013-12-09-dischetti-al-cioccolato-immersi-nel-cioccolato/</loc>
         <lastmod>2017-08-20T12:10:57.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -2784,14 +2808,6 @@
 
     <url>
         <loc>http://frangipani.raiano.ch/2013-12-09-anelli-al-limone/</loc>
-        <lastmod>2017-08-20T12:10:57.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/2013-12-09-spitzbuebe/</loc>
         <lastmod>2017-08-20T12:10:57.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
