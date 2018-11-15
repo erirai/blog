@@ -86,7 +86,7 @@ Oggi ho fatto questa Osterchuechä (Torta di Pasqua) che qui in Svizzera si fa p
           </tr>
           <tr>
             <td>3 cucchiai</td>
-            <td>uvetta</td>
+            <td>uvetta (facoltativa)</td>
           </tr>
           <tr>
             <td>3</td>
@@ -126,17 +126,9 @@ Fate raffreddare la torta direttamente nella teglia in modo che il ripieno si ra
 ![](sfornata.jpg "frangipani © Erica")
 
 La torta viene servita semplicemente con una bella spolverata di zucchero a velo e se si vuole qualche ovetto di zucchero, poi ogni uno la decora come vuole!
-![](risultato.jpg "frangipani © Erica")
+![](risultato1.jpg "frangipani © Erica")
 
-
-<h3>
-  <font color="#FFCC00">
-    <i class="fa fa-lightbulb-o"></i>
-  </font> P.S.
-</h3>
-
-
-Allora l'uvetta ed io abbiamo fatto un patto: io non la considero proprio e lei mi lascia in pace! Proprio non riesco a mangiarla... Non la metto mai, ma l'ho scritta nella ricetta perché nell'originale la mettono. Se a voi piace la mettete se no, come faccio io, lasciatela stare.
+![](risultato2.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

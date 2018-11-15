@@ -76,10 +76,12 @@ Prima d'infornare i Mailänderli, prendete il tuorlo che avevate messo da parte,
 
 ![](crudi.jpg "frangipani © Erica")
 
-Infornate i Mailänderli nel forno preriscaldato a 180°C per ca 13min.
-![](sfornati.jpg "frangipani © Erica")
+Infornate i Mailänderli nel forno preriscaldato a 180°C per ca 13min, poi passateli su di una griglia e fateli raffreddare.
+![](risultato1.jpg "frangipani © Erica")
 
-![](risultato.jpg "frangipani © Erica")
+![](risultato2.jpg "frangipani © Erica")
+
+![](risultato3.jpg "frangipani © Erica")
 
 
 <h3>

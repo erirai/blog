@@ -1,5 +1,5 @@
 ---
-title: Spitzbuebe
+title: Biscotti Occhio di Bue (Spitzbuebe)
 date: 2013-12-09
 tags:
 - pasta frolla
@@ -55,7 +55,7 @@ Ecco la seconda parte dei biscotti di natale... oggi ne ho fatti tre tipi. Quest
           </tr>
           <tr>
             <td>qb</td>
-            <td>marmellata di ciliegie</td>
+            <td>marmellata di ciliegie (o quella che preferite)</td>
           </tr>
           <tr>      
             <td>qb</td>
@@ -91,17 +91,9 @@ Quando saranno freddi, prendete la marmella, spalmatela su di un biscotto e poi 
 ![](chiusi.jpg "frangipani © Erica")
 
 Per finire una bella spolverata di zucchero a velo.
-![](risultato.jpg "frangipani © Erica")
+![](risultato1.jpg "frangipani © Erica")
 
-
-<h3>
-  <font color="#FFCC00">
-    <i class="fa fa-lightbulb-o"></i>
-  </font> P.S.
-</h3>
-
-
-Usate la marmellata che più vi piace, io preferisco quella di ciliegie. Con la nutella sono anche molto buoni o anche con della crema di pistacchio...
+![](risultato2.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">
