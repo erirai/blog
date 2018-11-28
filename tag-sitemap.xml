@@ -982,13 +982,6 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/tags/crostata/</loc>
-        <lastmod>2018-09-12T14:12:26.390Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://frangipani.raiano.ch/tags/ribes/</loc>
         <lastmod>2018-09-12T14:12:26.390Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1213,13 +1206,6 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/tags/natale/</loc>
-        <lastmod>2018-11-09T14:49:47.760Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://frangipani.raiano.ch/tags/biscotti/</loc>
         <lastmod>2018-11-09T14:49:47.760Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1255,13 +1241,6 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/tags/dolci/</loc>
-        <lastmod>2018-11-12T15:21:46.088Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://frangipani.raiano.ch/tags/torta/</loc>
         <lastmod>2018-11-12T15:21:46.088Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1290,13 +1269,6 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/tags/vegan/</loc>
-        <lastmod>2018-11-25T19:31:26.670Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://frangipani.raiano.ch/tags/patate/</loc>
         <lastmod>2018-11-25T19:31:26.670Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1306,6 +1278,34 @@
     <url>
         <loc>http://frangipani.raiano.ch/tags/pane/</loc>
         <lastmod>2018-11-25T19:31:26.670Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/natale/</loc>
+        <lastmod>2018-11-28T16:15:11.563Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/dolci/</loc>
+        <lastmod>2018-11-28T16:15:11.563Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/crostata/</loc>
+        <lastmod>2018-11-28T16:15:11.563Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/vegan/</loc>
+        <lastmod>2018-11-28T16:15:11.563Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
