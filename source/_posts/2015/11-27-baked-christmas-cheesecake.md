@@ -136,6 +136,24 @@ A qesto punto infornate la torta nel forno preriscaldato a 160°C ventilato per 
 
 ![](risultato2.jpg "frangipani © Erica")
 
+![](risultato3.jpg "frangipani © Erica")
+
+![](risultato4.jpg "frangipani © Erica")
+
+![](risultato5.jpg "frangipani © Erica")
+
+![](risultato6.jpg "frangipani © Erica")
+
+![](risultato7.jpg "frangipani © Erica")
+
+![](risultato8.jpg "frangipani © Erica")
+
+![](risultato9.jpg "frangipani © Erica")
+
+![](risultato10.jpg "frangipani © Erica")
+
+![](risultato11.jpg "frangipani © Erica")
+
 
 <h3>
   <font color="#FFCC00">

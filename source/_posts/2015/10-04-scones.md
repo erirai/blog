@@ -63,7 +63,7 @@ Sta mattina mi sono svegliata presto, anzi il nostro piccolo Bombolone ci ha sve
   </font> Preparazione
 </h3>
 
-Mettete la farina, lo zucchero, il lievito ed il sale in una coppa, mescolate con un cucchiaio. Aggingete la margarina morbida e iniziate ad impastare, poi aggiungete il latte e continuate ad impastare finché avrete un impasto omogeneo e bello elastico.
+Mettete la farina, lo zucchero, il lievito, la vaniglia ed il sale in una coppa, mescolate con un cucchiaio. Aggiungete la margarina morbida e iniziate ad impastare, poi aggiungete il latte e continuate ad impastare finché avrete un impasto omogeneo e bello elastico.
 ![](impasto.jpg "frangipani © Erica")
 
 Passate l'impasto su di un piano di lavoro infarinato e con un mattarello stendetelo fino ad uno spessore di 1.5cm. Prendete un coppapasta di un diametro di ca. 3-4cm e ricavatene tanti dischetti. Ricompattate l'impasto e ristendetelo finché avrete esaurito tutto l'impasto.
