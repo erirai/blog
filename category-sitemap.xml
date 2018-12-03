@@ -14,20 +14,6 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/categories/Dolce/Colazione/</loc>
-        <lastmod>2018-04-02T20:49:26.655Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/categories/Dolce/Piccola-Pasticceria/</loc>
-        <lastmod>2018-06-05T13:55:55.620Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://frangipani.raiano.ch/categories/Salato/Aperitivi/</loc>
         <lastmod>2018-06-06T12:28:18.868Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -133,15 +119,29 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/categories/Dolce/</loc>
-        <lastmod>2018-11-28T16:15:11.563Z</lastmod>
+        <loc>http://frangipani.raiano.ch/categories/Dolce/Crostate-Tartes/</loc>
+        <lastmod>2018-11-29T16:22:17.538Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/categories/Dolce/Crostate-Tartes/</loc>
-        <lastmod>2018-11-28T16:15:11.563Z</lastmod>
+        <loc>http://frangipani.raiano.ch/categories/Dolce/Piccola-Pasticceria/</loc>
+        <lastmod>2018-12-03T14:01:15.870Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/categories/Dolce/</loc>
+        <lastmod>2018-12-03T16:06:51.756Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/categories/Dolce/Colazione/</loc>
+        <lastmod>2018-12-03T16:06:51.756Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
