@@ -7,6 +7,14 @@
     </url>
 
     <url>
+        <loc>http://frangipani.raiano.ch/2014-12-06-grittibaenz/</loc>
+        <lastmod>2018-12-05T18:51:34.085Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://frangipani.raiano.ch/2015-10-04-scones/</loc>
         <lastmod>2018-12-03T16:06:51.756Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -3112,14 +3120,6 @@
 
     <url>
         <loc>http://frangipani.raiano.ch/2014-12-04-frollini-all-arancia/</loc>
-        <lastmod>2017-08-20T12:10:57.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/2014-12-06-grittibaenz/</loc>
         <lastmod>2017-08-20T12:10:57.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
