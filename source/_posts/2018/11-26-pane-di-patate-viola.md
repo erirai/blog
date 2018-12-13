@@ -3,6 +3,7 @@ title: "Pane di Patate Viola"
 date: 2018-11-26
 tags:
 - pane
+- panificati
 - patate
 - vegan
 categories:
