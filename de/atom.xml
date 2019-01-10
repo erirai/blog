@@ -124,9 +124,9 @@ Erica&lt;/p&gt;
       <category term="Piccola Pasticceria" scheme="http://frangipani.raiano.ch/categories/Dolce/Piccola-Pasticceria/"/>
     
     
-      <category term="natale" scheme="http://frangipani.raiano.ch/tags/natale/"/>
-    
       <category term="dolci" scheme="http://frangipani.raiano.ch/tags/dolci/"/>
+    
+      <category term="natale" scheme="http://frangipani.raiano.ch/tags/natale/"/>
     
       <category term="vegan" scheme="http://frangipani.raiano.ch/tags/vegan/"/>
     
@@ -204,11 +204,11 @@ Erica&lt;/p&gt;
       <category term="Antipasti" scheme="http://frangipani.raiano.ch/categories/Salato/Antipasti/"/>
     
     
-      <category term="natale" scheme="http://frangipani.raiano.ch/tags/natale/"/>
+      <category term="arance" scheme="http://frangipani.raiano.ch/tags/arance/"/>
     
       <category term="glutenfree" scheme="http://frangipani.raiano.ch/tags/glutenfree/"/>
     
-      <category term="arance" scheme="http://frangipani.raiano.ch/tags/arance/"/>
+      <category term="natale" scheme="http://frangipani.raiano.ch/tags/natale/"/>
     
       <category term="vegan" scheme="http://frangipani.raiano.ch/tags/vegan/"/>
     
@@ -335,9 +335,9 @@ Erica&lt;/p&gt;
       <category term="Muffin, Cupcakes, Cake Pops..." scheme="http://frangipani.raiano.ch/categories/Dolce/Muffin-Cupcakes-Cake-Pops/"/>
     
     
-      <category term="natale" scheme="http://frangipani.raiano.ch/tags/natale/"/>
-    
       <category term="dolci" scheme="http://frangipani.raiano.ch/tags/dolci/"/>
+    
+      <category term="natale" scheme="http://frangipani.raiano.ch/tags/natale/"/>
     
       <category term="cupcakes" scheme="http://frangipani.raiano.ch/tags/cupcakes/"/>
     
@@ -480,13 +480,13 @@ Erica&lt;/p&gt;
       <category term="Piccola Pasticceria" scheme="http://frangipani.raiano.ch/categories/Dolce/Piccola-Pasticceria/"/>
     
     
-      <category term="natale" scheme="http://frangipani.raiano.ch/tags/natale/"/>
-    
-      <category term="piccola pasticceria" scheme="http://frangipani.raiano.ch/tags/piccola-pasticceria/"/>
+      <category term="dolci" scheme="http://frangipani.raiano.ch/tags/dolci/"/>
     
       <category term="biscotti" scheme="http://frangipani.raiano.ch/tags/biscotti/"/>
     
-      <category term="dolci" scheme="http://frangipani.raiano.ch/tags/dolci/"/>
+      <category term="natale" scheme="http://frangipani.raiano.ch/tags/natale/"/>
+    
+      <category term="piccola pasticceria" scheme="http://frangipani.raiano.ch/tags/piccola-pasticceria/"/>
     
   </entry>
   
@@ -913,13 +913,13 @@ Erica&lt;/p&gt;
     
       <category term="dolci" scheme="http://frangipani.raiano.ch/tags/dolci/"/>
     
+      <category term="torta" scheme="http://frangipani.raiano.ch/tags/torta/"/>
+    
       <category term="cioccolato" scheme="http://frangipani.raiano.ch/tags/cioccolato/"/>
     
       <category term="vegan" scheme="http://frangipani.raiano.ch/tags/vegan/"/>
     
       <category term="festa del papà" scheme="http://frangipani.raiano.ch/tags/festa-del-papa/"/>
-    
-      <category term="torta" scheme="http://frangipani.raiano.ch/tags/torta/"/>
     
       <category term="pere" scheme="http://frangipani.raiano.ch/tags/pere/"/>
     
@@ -1332,13 +1332,13 @@ Erica&lt;/p&gt;
     
       <category term="dolci" scheme="http://frangipani.raiano.ch/tags/dolci/"/>
     
+      <category term="torta" scheme="http://frangipani.raiano.ch/tags/torta/"/>
+    
       <category term="mele" scheme="http://frangipani.raiano.ch/tags/mele/"/>
     
       <category term="nocciole" scheme="http://frangipani.raiano.ch/tags/nocciole/"/>
     
       <category term="vegan" scheme="http://frangipani.raiano.ch/tags/vegan/"/>
-    
-      <category term="torta" scheme="http://frangipani.raiano.ch/tags/torta/"/>
     
   </entry>
   
@@ -1536,9 +1536,9 @@ Erica&lt;/p&gt;
     
       <category term="dolci" scheme="http://frangipani.raiano.ch/tags/dolci/"/>
     
-      <category term="mele" scheme="http://frangipani.raiano.ch/tags/mele/"/>
-    
       <category term="torta" scheme="http://frangipani.raiano.ch/tags/torta/"/>
+    
+      <category term="mele" scheme="http://frangipani.raiano.ch/tags/mele/"/>
     
   </entry>
   
@@ -1643,9 +1643,9 @@ Erica&lt;/p&gt;
     
       <category term="dolci" scheme="http://frangipani.raiano.ch/tags/dolci/"/>
     
-      <category term="cioccolato" scheme="http://frangipani.raiano.ch/tags/cioccolato/"/>
-    
       <category term="torta" scheme="http://frangipani.raiano.ch/tags/torta/"/>
+    
+      <category term="cioccolato" scheme="http://frangipani.raiano.ch/tags/cioccolato/"/>
     
       <category term="ricotta" scheme="http://frangipani.raiano.ch/tags/ricotta/"/>
     
@@ -1854,13 +1854,13 @@ Erica&lt;/p&gt;
       <category term="Crostate, Tartes..." scheme="http://frangipani.raiano.ch/categories/Dolce/Crostate-Tartes/"/>
     
     
-      <category term="dolci" scheme="http://frangipani.raiano.ch/tags/dolci/"/>
-    
       <category term="lamponi" scheme="http://frangipani.raiano.ch/tags/lamponi/"/>
     
-      <category term="crostata" scheme="http://frangipani.raiano.ch/tags/crostata/"/>
+      <category term="dolci" scheme="http://frangipani.raiano.ch/tags/dolci/"/>
     
       <category term="torta" scheme="http://frangipani.raiano.ch/tags/torta/"/>
+    
+      <category term="crostata" scheme="http://frangipani.raiano.ch/tags/crostata/"/>
     
       <category term="ribes" scheme="http://frangipani.raiano.ch/tags/ribes/"/>
     
@@ -2189,9 +2189,9 @@ Erica&lt;/p&gt;
     
       <category term="dolci" scheme="http://frangipani.raiano.ch/tags/dolci/"/>
     
-      <category term="vegan" scheme="http://frangipani.raiano.ch/tags/vegan/"/>
-    
       <category term="torta" scheme="http://frangipani.raiano.ch/tags/torta/"/>
+    
+      <category term="vegan" scheme="http://frangipani.raiano.ch/tags/vegan/"/>
     
       <category term="prugne" scheme="http://frangipani.raiano.ch/tags/prugne/"/>
     

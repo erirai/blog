@@ -646,6 +646,13 @@
     </url>
 
     <url>
+        <loc>http://frangipani.raiano.ch/tags/fagioli/</loc>
+        <lastmod>2018-04-02T20:44:39.151Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://frangipani.raiano.ch/tags/cavolo/</loc>
         <lastmod>2018-04-02T20:44:39.151Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -654,13 +661,6 @@
 
     <url>
         <loc>http://frangipani.raiano.ch/tags/zuppa/</loc>
-        <lastmod>2018-04-02T20:44:39.151Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/fagioli/</loc>
         <lastmod>2018-04-02T20:44:39.151Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -1199,14 +1199,14 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/tags/piccola-pasticceria/</loc>
+        <loc>http://frangipani.raiano.ch/tags/biscotti/</loc>
         <lastmod>2018-12-03T14:01:15.870Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/tags/biscotti/</loc>
+        <loc>http://frangipani.raiano.ch/tags/piccola-pasticceria/</loc>
         <lastmod>2018-12-03T14:01:15.870Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -1234,14 +1234,14 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/tags/glutenfree/</loc>
+        <loc>http://frangipani.raiano.ch/tags/arance/</loc>
         <lastmod>2018-12-13T15:36:32.306Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/tags/arance/</loc>
+        <loc>http://frangipani.raiano.ch/tags/glutenfree/</loc>
         <lastmod>2018-12-13T15:36:32.306Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -1283,14 +1283,14 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/tags/natale/</loc>
+        <loc>http://frangipani.raiano.ch/tags/dolci/</loc>
         <lastmod>2018-12-19T14:44:18.624Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/tags/dolci/</loc>
+        <loc>http://frangipani.raiano.ch/tags/natale/</loc>
         <lastmod>2018-12-19T14:44:18.624Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
