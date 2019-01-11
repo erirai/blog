@@ -12,7 +12,7 @@ lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
-Durante la costruzione del tunnel del Gottardo i lavoratori italiani importarono la pasta in Svizzera. Gli svizzeri subito usarono la pasta mischiandola con i prodotti del posto, patate, formaggio, cipolle ecc. E questo è il risultato: Älplermagronen (Maccheroni degli Alpini). È una pietanza molto nutriente e facile da trasportare... Beh diciamo la verità è molto pesante ma buona! Non provate a farla in estate che è troppo pesante, infatti si trova solo in inverno...
+Älplermagronen, perfetti da mangiare durante una giornata passata nella neve. Riscaldano, confortano e riempiono il pancino. Durante la costruzione del tunnel del Gottardo i lavoratori italiani importarono la pasta in Svizzera. Gli svizzeri subito usarono la pasta mischiandola con i prodotti del posto, patate, formaggio, cipolle ecc. E questo è il risultato: Älplermagronen (Maccheroni degli Alpini). È una pietanza molto nutriente e facile da trasportare... Beh diciamo la verità è molto pesante ma buona! Non provate a farla in estate che è troppo pesante, infatti si trova solo in inverno... Per completezza devo dirvi, che spesso vengono accompagnati da una mousse di mele (mele cotte frullate) per sgrassare, tanto per intenderci. Ma questo non fa per me. Preferisco mangiarli, gustandoli con tutta la sua grassezza!
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
@@ -25,15 +25,15 @@ Durante la costruzione del tunnel del Gottardo i lavoratori italiani importarono
             <td>patate a pasta dura</td>
           </tr>
           <tr>
-            <td>400gr</td>
-            <td>Penne o Maccheroni</td>
+            <td>350gr</td>
+            <td>pasta corta piccolina</td>
           </tr>
           <tr>
             <td>250gr</td>
             <td>formaggio di montagna grattugiato grossolanamente</td>
           </tr>
           <tr>
-            <td>1dl</td>
+            <td>2dl</td>
             <td>panna</td>
           </tr>
           <tr>
@@ -55,6 +55,7 @@ Durante la costruzione del tunnel del Gottardo i lavoratori italiani importarono
         </tbody>
       </table>
       <br></br>
+      <i class="pull-right" style="font-size: 80%;">per 4 persone</i>
     </div>
   </div>
 </div>
@@ -66,21 +67,34 @@ Durante la costruzione del tunnel del Gottardo i lavoratori italiani importarono
   </font> Preparazione
 </h3>
 
-Le dosi di questa ricetta sono per 4 persone, mettete la quantità di pasta che normalmente fate.
-Pelate e tagliate le patate a dadini e cucinateli in abbondante acqua bollente, quando le patate sono quasi cotte, aggiungete nella stessa pentola la pasta e fatela cucinare. Nel frattempo grattugiate grossolanamente il formaggio di montagna, deve essere un formaggio a pasta dura e puzzolente (gli svizzeri sono bravi a fare formaggio puzzolente, ma buono). Tagliate la cipolla e fatela soffriggere con poco olio, dopo che sarà dorata aggiungete la panna, fate sobbollire per qualche minuto, salate, pepate, aggiungete la noce moscata e togliete dai fornelli. Quando la pasta e le patate sono cotte, scolate il tutto. Imburrate una pirofila mettete la metà della pasta e patate, coprite con la metà del formaggio, poi il resto della pasta e di nuovo il formaggio. Finite versando sopra alla pasta la panna. 
-![](pirofila.jpg "frangipani © Erica")
+Pelate e tagliate le patate a dadini e cucinateli in abbondante acqua bollente, quando le patate sono quasi cotte, aggiungete nella stessa pentola la pasta e fatela cucinare, salate. Tagliate la cipolla e fatela soffriggere con poco olio, dopo che sarà dorata aggiungete la panna, fate sobbollire per qualche minuto, salate, pepate, aggiungete la noce moscata e togliete dai fornelli. Aggiungete la metà del formaggio grattugiato nella panna e amalgamate bene. Quando la pasta e le patate sono cotte, scolate il tutto.
+<p>
+  <div style="width: 100%; margin-bottom: ">
+    <img style="float: left; width: 49%; margin-right: 1%" src="panna.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="pasta.jpg" alt="" title="frangipani © Erica" />
+    <div style="clear: both"></div>
+  </div>
+</p>
 
-Se preparate gli Älplermagronen subito prima di mangiarli, a questo punto basta metterli in formo ventilato a 200°C per pochi minuti, giusto per fare sciogliere bene il formaggio. Se invece li preparate prima, infornateli a 200°C (ventilato) per 15-20min. Quando sono pronti, sfornateli e mangateli caldissimi!
-![](risultato.jpg "frangipani © Erica")
+Mescolate la pasta insieme alla panna. Imburrate una pirofila mettete la metà della pasta, coprite con la metà del formaggio rimasto, poi il resto della pasta e finite con il formaggio rimasto.
+![](teglia.jpg "frangipani © Erica")
 
+Infornate gli Älplermagronen a 200°C ventilato per 15-20min. Quando sono pronti, sfornateli e mangateli caldissimi!
+![](risultato1.jpg "frangipani © Erica")
 
-<h3>
-  <font color="#FFCC00">
-    <i class="fa fa-lightbulb-o"></i>
-  </font> P.S.
-</h3>
+![](risultato2.jpg "frangipani © Erica")
 
-Gli Älplermagronen qui in Svizzera vengono accompagnati da una composta di mele. Lo so gli svizzeri hanno dei gusti molto strani... Quando faccio questi pasticci con panna e formaggio, preferisco usare della pasta più piccola, tipo i Piccolini della Barilla.
+![](risultato3.jpg "frangipani © Erica")
+
+![](risultato4.jpg "frangipani © Erica")
+
+![](risultato5.jpg "frangipani © Erica")
+
+![](risultato6.jpg "frangipani © Erica")
+
+![](risultato7.jpg "frangipani © Erica")
+
+![](risultato8.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">
