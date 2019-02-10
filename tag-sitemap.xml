@@ -919,13 +919,6 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/tags/lamponi/</loc>
-        <lastmod>2018-09-12T14:12:26.390Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://frangipani.raiano.ch/tags/ribes/</loc>
         <lastmod>2018-09-12T14:12:26.390Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -984,13 +977,6 @@
     <url>
         <loc>http://frangipani.raiano.ch/tags/funghi/</loc>
         <lastmod>2018-10-10T13:29:51.753Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/festa-della-mamma/</loc>
-        <lastmod>2018-10-10T13:57:12.330Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -1129,13 +1115,6 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/tags/cheesecake/</loc>
-        <lastmod>2018-11-29T16:22:17.538Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://frangipani.raiano.ch/tags/biscotti/</loc>
         <lastmod>2018-12-03T14:01:15.870Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1248,20 +1227,6 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/tags/torta/</loc>
-        <lastmod>2019-01-14T14:39:41.931Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/dolci/</loc>
-        <lastmod>2019-01-28T15:10:10.651Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://frangipani.raiano.ch/tags/cioccolato/</loc>
         <lastmod>2019-01-28T15:10:10.651Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1290,13 +1255,6 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/tags/san-valentino/</loc>
-        <lastmod>2019-02-04T20:04:13.946Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://frangipani.raiano.ch/tags/pomodori-secchi/</loc>
         <lastmod>2019-02-04T20:04:13.946Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1306,6 +1264,48 @@
     <url>
         <loc>http://frangipani.raiano.ch/tags/pasta-sfoglia/</loc>
         <lastmod>2019-02-04T20:04:13.946Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/lamponi/</loc>
+        <lastmod>2019-02-10T14:45:21.119Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/dolci/</loc>
+        <lastmod>2019-02-10T14:45:21.119Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/festa-della-mamma/</loc>
+        <lastmod>2019-02-10T14:45:21.119Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/torta/</loc>
+        <lastmod>2019-02-10T14:45:21.119Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/san-valentino/</loc>
+        <lastmod>2019-02-10T14:45:21.119Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/cheesecake/</loc>
+        <lastmod>2019-02-10T14:45:21.119Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
