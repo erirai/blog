@@ -499,13 +499,6 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/tags/carote/</loc>
-        <lastmod>2018-03-26T19:20:44.892Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://frangipani.raiano.ch/tags/manioca/</loc>
         <lastmod>2018-04-02T19:43:21.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -620,13 +613,6 @@
     <url>
         <loc>http://frangipani.raiano.ch/tags/broccoli/</loc>
         <lastmod>2018-04-02T20:42:19.352Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/muffin-salati/</loc>
-        <lastmod>2018-04-02T20:44:05.776Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -1220,13 +1206,6 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/tags/aperitivo/</loc>
-        <lastmod>2019-02-04T20:04:13.946Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://frangipani.raiano.ch/tags/pomodori-secchi/</loc>
         <lastmod>2019-02-04T20:04:13.946Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1297,15 +1276,36 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/tags/vegan/</loc>
+        <loc>http://frangipani.raiano.ch/tags/carnevale/</loc>
         <lastmod>2019-02-25T15:28:53.461Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/tags/carnevale/</loc>
-        <lastmod>2019-02-25T15:28:53.461Z</lastmod>
+        <loc>http://frangipani.raiano.ch/tags/aperitivo/</loc>
+        <lastmod>2019-03-17T20:45:17.725Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/vegan/</loc>
+        <lastmod>2019-03-17T20:45:17.725Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/muffin-salati/</loc>
+        <lastmod>2019-03-17T20:45:17.725Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/carote/</loc>
+        <lastmod>2019-03-17T20:45:17.725Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
