@@ -1,9 +1,10 @@
 ---
-title: "Herzhaft gefüllte Brioche"
+title: "veganer herzhafter Hefekranz gefüllt mit Krautstiel und Kartoffeln"
 date: 2016-09-26
 tags:
 - panificati
 - vegan
+- pasqua
 categories:
 - Salato
 - Panificati
@@ -91,31 +92,35 @@ Nun zum Rezept... mit herzhaften Brioches könnt ihr immer einen guten Eindruck 
   </font> Preparazione
 </h3>
 
-Hefe und Zucker in der lauwarmen Milch einrühren und Öl dazu geben. In einer separaten Schüssel die beiden Mehlsorten und das Salz mischen, dann das Milchgemisch zufügen und mit einem Holzlöffel kurz mischen. Nun das Ganze auf die Arbeitsfläche geben und so lange kneten bis der Teig glatt und geschmeidig ist.
-![](../2016-09-26-pan-brioche-farcito/impasto.jpg "frangipani © Erica")
-
-Den Teig in eine grosse Schüssel geben, gut zudecken und 4 Stunden aufgehen lassen. Falls ihr nicht so viel Zeit habt für das Aufgehen, einfach die Menge der Hefe erhöhen.
+Hefe und Zucker in der lauwarmen Milch einrühren und Öl dazu geben. In einer separaten Schüssel die beiden Mehlsorten und das Salz mischen, dann das Milchgemisch zufügen und mit einem Holzlöffel kurz mischen. Nun das Ganze auf die Arbeitsfläche geben und so lange kneten bis der Teig glatt und geschmeidig ist. Den Teig in eine grosse Schüssel geben, gut zudecken und 4 Stunden aufgehen lassen. Falls ihr nicht so viel Zeit habt für das Aufgehen, einfach die Menge der Hefe erhöhen.
 ![](../2016-09-26-pan-brioche-farcito/impastolievitato.jpg "frangipani © Erica")
 
-Kartoffeln in kochendem Wasser garen und den Magold ebenfalls in kochendem Salzwasser blanchieren.
-![](../2016-09-26-pan-brioche-farcito/costeepatate.jpg "frangipani © Erica")
+Kartoffeln in kochendem Wasser garen und den Magold ebenfalls in kochendem Salzwasser blanchieren. Die Kartoffeln pellen und in Scheiben schneiden, dann die Oliven entkernen.
+<p>
+  <div style="width: 100%; margin-bottom: ">
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2016-09-26-pan-brioche-farcito/costeepatate.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2016-09-26-pan-brioche-farcito/farcia.jpg" alt="" title="frangipani © Erica" />
+    <div style="clear: both"></div>
+  </div>
+</p>
 
-Die Kartoffeln pellen und in Scheiben schneiden, dann die Oliven entkernen.
-![](../2016-09-26-pan-brioche-farcito/farcia.jpg "frangipani © Erica")
+Nehmt den aufgegangenen Teig und rollt diesen mit einem Nudelholz zu einem Rechteck aus. Nun kann das Ganze befüllt werden. Lasst ca. 15cm Teig frei, dann kommt zuerst eine Schicht Mangold, dann die schwarzen Oliven und zum Schluss die Kartoffeln und etwas Olivenöl.
+<p>
+  <div style="width: 100%; margin-bottom: ">
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2016-09-26-pan-brioche-farcito/impastosteso.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2016-09-26-pan-brioche-farcito/farcire.jpg" alt="" title="frangipani © Erica" />
+    <div style="clear: both"></div>
+  </div>
+</p>
 
-Nehmt den aufgegangenen Teig und rollt diesen mit einem Nudelholz zu einem Rechteck aus.
-![](../2016-09-26-pan-brioche-farcito/impastosteso.jpg "frangipani © Erica")
-
-Nun kann das Ganze befüllt werden. Lasst ca. 15cm Teig frei, dann kommt zuerst eine Schicht Mangold, dann die schwarzen Oliven und zum Schluss die Kartoffeln und etwas Olivenöl.
-![](../2016-09-26-pan-brioche-farcito/farcire.jpg "frangipani © Erica")
-
-Das Ganze vorsichtig aufrollen.
-![](../2016-09-26-pan-brioche-farcito/arrotolare.jpg "frangipani © Erica")
-
-Für die Verzierung den vorigen Teig in Streifen schneiden und kleine Kordeln formen. Diese dann auf die Rolle legen.
-![](../2016-09-26-pan-brioche-farcito/intrecciare.jpg "frangipani © Erica")
-
-![](../2016-09-26-pan-brioche-farcito/panbrioche.jpg "frangipani © Erica")
+Das Ganze vorsichtig aufrollen. Für die Verzierung den vorigen Teig in Streifen schneiden und kleine Kordeln formen. Diese dann auf die Rolle legen.
+<p>
+  <div style="width: 100%; margin-bottom: ">
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2016-09-26-pan-brioche-farcito/arrotolare.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2016-09-26-pan-brioche-farcito/intrecciare.jpg" alt="" title="frangipani © Erica" />
+    <div style="clear: both"></div>
+  </div>
+</p>
 
 Backblech einbuttern und Briocherolle hineinlegen. Alles gut zudecken und für eine Stunde aufgehen lassen.
 ![](../2016-09-26-pan-brioche-farcito/teglia.jpg "frangipani © Erica")

@@ -1,9 +1,10 @@
 ---
-title: "Pan Brioche farcito"
+title: "Pan Brioche vegano farcito con Coste e Patate"
 date: 2016-09-26
 tags:
 - panificati
 - vegan
+- pasqua
 categories:
 - Salato
 - Panificati
@@ -31,7 +32,7 @@ Parliamo della ricetta... Con i Pan Brioches potete fare sempre bella figura, se
           </tr>
           <tr>
             <td>250gr</td>
-            <td>farina 0</td>
+            <td>farina 00</td>
           </tr>
           <tr>
             <td>1 cucchiaino</td>
@@ -91,31 +92,35 @@ Parliamo della ricetta... Con i Pan Brioches potete fare sempre bella figura, se
   </font> Preparazione
 </h3>
 
-Riscaldate leggermente il latte, poi unite il lievito e lo zucchero e fateli sciogliere. Aggiungete l'olio, mescolate e mettete da perte. In una coppa capiente mettete le due farine ed il sale, mescolate e aggiungete il latte che avevate messo da parte. Date una breve mescolata con un cucchiaio di legno, poi passate il tutto su di un piano di lavoro e impastate finché avrete un'impasto bello liscio ed elastico.
-![](impasto.jpg "frangipani © Erica")
-
-A questo punto mettete l'impasto in una coppa bella grande, coprite bene e fate lievitare per 4 ore. Se non avete tutto questo tempo, aumentate le dosi del lievito.
+Riscaldate leggermente il latte, poi unite il lievito e lo zucchero e fateli sciogliere. Aggiungete l'olio, mescolate e mettete da perte. In una coppa capiente mettete le due farine ed il sale, mescolate e aggiungete il latte che avevate messo da parte. Date una breve mescolata con un cucchiaio di legno, poi passate il tutto su di un piano di lavoro e impastate finché avrete un'impasto bello liscio ed elastico. A questo punto mettete l'impasto in una coppa bella grande, coprite bene e fate lievitare per 4 ore. Se non avete tutto questo tempo, aumentate le dosi del lievito.
 ![](impastolievitato.jpg "frangipani © Erica")
 
-Fate bollire le patate e sbollentate le coste in abbondante acqua salata.
-![](costeepatate.jpg "frangipani © Erica")
+Fate bollire le patate e sbollentate le coste in abbondante acqua salata. Pelate le patate poi tagliatele a fette e denocciolate le olive nere.
+<p>
+  <div style="width: 100%; margin-bottom: ">
+    <img style="float: left; width: 49%; margin-right: 1%" src="costeepatate.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="farcia.jpg" alt="" title="frangipani © Erica" />
+    <div style="clear: both"></div>
+  </div>
+</p>
 
-Pelate le patate poi tagliatele a fette e denocciolate le olive nere.
-![](farcia.jpg "frangipani © Erica")
+Prendete l'impasto lievitato e con un mattarello stendetelo formando un rettangolo. Iniziate a farcire il Pan Brioche. Lasciate circa 15cm d'impasto scoperti poi fate prima uno strato di coste, poi mettete le olive nere, coprite con le patate e mettete un filo d'olio evo.
+<p>
+  <div style="width: 100%; margin-bottom: ">
+    <img style="float: left; width: 49%; margin-right: 1%" src="impastosteso.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="farcire.jpg" alt="" title="frangipani © Erica" />
+    <div style="clear: both"></div>
+  </div>
+</p>
 
-Prendete l'impasto lievitato e con un mattarello stendetelo formando un rettangolo.
-![](impastosteso.jpg "frangipani © Erica")
-
-Iniziate a farcire il Pan Brioche. Lasciate circa 15cm d'impasto scoperti poi fate prima uno strato di coste, poi mettete le olive nere, coprite con le patate e mettete un filo d'olio evo.
-![](farcire.jpg "frangipani © Erica")
-
-Arrotolate il tutto molto delicatamente.
-![](arrotolare.jpg "frangipani © Erica")
-
-Per decorare il Pan Brioche, tagliate a strisce l'impasto rimasto scoperto e formate dei cordoncini. Poi sistemateli sul Pan Brioche.
-![](intrecciare.jpg "frangipani © Erica")
-
-![](panbrioche.jpg "frangipani © Erica")
+Arrotolate il tutto molto delicatamente. Per decorare il Pan Brioche, tagliate a strisce l'impasto rimasto scoperto e formate dei cordoncini. Poi sistemateli sul Pan Brioche.
+<p>
+  <div style="width: 100%; margin-bottom: ">
+    <img style="float: left; width: 49%; margin-right: 1%" src="arrotolare.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="intrecciare.jpg" alt="" title="frangipani © Erica" />
+    <div style="clear: both"></div>
+  </div>
+</p>
 
 Mettete il rotolo in un teglia imburrata, coprite e fate lievitare per un'ora.
 ![](teglia.jpg "frangipani © Erica")
