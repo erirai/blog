@@ -702,13 +702,6 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/tags/cocco/</loc>
-        <lastmod>2018-06-05T14:29:58.749Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://frangipani.raiano.ch/tags/yogurt/</loc>
         <lastmod>2018-06-05T14:32:27.741Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1045,20 +1038,6 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/tags/biscotti/</loc>
-        <lastmod>2018-12-03T14:01:15.870Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/piccola-pasticceria/</loc>
-        <lastmod>2018-12-03T14:01:15.870Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://frangipani.raiano.ch/tags/pasta-lievita/</loc>
         <lastmod>2018-12-05T18:51:34.085Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1068,13 +1047,6 @@
     <url>
         <loc>http://frangipani.raiano.ch/tags/cupcakes/</loc>
         <lastmod>2018-12-10T14:23:37.624Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/glutenfree/</loc>
-        <lastmod>2018-12-13T15:36:32.306Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -1241,13 +1213,6 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/tags/dolci/</loc>
-        <lastmod>2019-03-18T14:16:09.168Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://frangipani.raiano.ch/tags/festa-del-papa/</loc>
         <lastmod>2019-03-18T14:16:09.168Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1304,8 +1269,43 @@
     </url>
 
     <url>
+        <loc>http://frangipani.raiano.ch/tags/dolci/</loc>
+        <lastmod>2019-04-01T19:20:08.071Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/glutenfree/</loc>
+        <lastmod>2019-04-01T19:20:08.071Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/biscotti/</loc>
+        <lastmod>2019-04-01T19:20:08.071Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://frangipani.raiano.ch/tags/pasqua/</loc>
-        <lastmod>2019-03-25T14:32:21.529Z</lastmod>
+        <lastmod>2019-04-01T19:20:08.071Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/cocco/</loc>
+        <lastmod>2019-04-01T19:20:08.071Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/piccola-pasticceria/</loc>
+        <lastmod>2019-04-01T19:20:08.071Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
