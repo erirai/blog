@@ -98,13 +98,6 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/categories/Dolce/Muffin-Cupcakes-Cake-Pops/</loc>
-        <lastmod>2019-02-25T15:28:53.461Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://frangipani.raiano.ch/categories/Dolce/Torte-salate-Muffin-salati/</loc>
         <lastmod>2019-03-17T20:45:17.725Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -140,15 +133,22 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/categories/Dolce/</loc>
+        <loc>http://frangipani.raiano.ch/categories/Dolce/Piccola-Pasticceria/</loc>
         <lastmod>2019-04-10T14:05:38.849Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/categories/Dolce/Piccola-Pasticceria/</loc>
-        <lastmod>2019-04-10T14:05:38.849Z</lastmod>
+        <loc>http://frangipani.raiano.ch/categories/Dolce/</loc>
+        <lastmod>2019-04-28T14:44:32.920Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/categories/Dolce/Muffin-Cupcakes-Cake-Pops/</loc>
+        <lastmod>2019-04-28T14:44:32.920Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
