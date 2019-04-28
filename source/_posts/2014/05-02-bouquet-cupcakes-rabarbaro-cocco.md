@@ -154,7 +154,7 @@ Continuate finché avrete coperto tutto il muffin.
 
 Comunque su Youtube trovate tantissimi video dove vedete come si fa, io per completezza ho provato a spiegarvi come funziona.
 
-Ecco il bouquet di rose copleto, pronto da mangiare!
+Ecco il bouquet di rose completo, pronto da mangiare!
 ![](risultato.jpg "frangipani © Erica")
 
 
