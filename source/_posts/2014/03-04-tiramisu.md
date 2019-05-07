@@ -4,7 +4,7 @@ date: 2014-03-04
 tags:
 - dolci
 - mascarpone
-- caffé
+- caffe
 - dolci al cucchiaio
 categories:
 - Dolce
