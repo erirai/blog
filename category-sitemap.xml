@@ -84,13 +84,6 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/categories/Dolce/Torte/</loc>
-        <lastmod>2019-03-18T14:16:09.168Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://frangipani.raiano.ch/categories/Salato/Panificati/</loc>
         <lastmod>2019-03-25T14:32:21.529Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -119,13 +112,6 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/categories/Dolce/</loc>
-        <lastmod>2019-05-03T15:00:45.728Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://frangipani.raiano.ch/categories/Dolce/Dolci-al-cucchiaio-Gelati/</loc>
         <lastmod>2019-05-03T15:00:45.728Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -149,6 +135,20 @@
     <url>
         <loc>http://frangipani.raiano.ch/categories/Salato/Secondi-Piatti-e-Contorni/</loc>
         <lastmod>2019-05-07T19:01:03.847Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/categories/Dolce/</loc>
+        <lastmod>2019-05-13T19:45:32.872Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/categories/Dolce/Torte/</loc>
+        <lastmod>2019-05-13T19:45:32.872Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
