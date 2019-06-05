@@ -12,7 +12,7 @@ tags:
 categories:
 - Salato
 - "Secondi Piatti e Contorni"
-label: 2019-06-06-fiori-di-zucca-farciti-con-patate-ed-erbette-aromatiche
+label: 2019-06-06-fiori-di-zucca-farciti-con-patate-ed-erbe-aromatiche
 lang: it 
 ---
 ![](header.jpeg "frangipani © Erica")
