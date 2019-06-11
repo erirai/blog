@@ -1,5 +1,6 @@
 ---
 title: Erdbeer-Holunderblüten-Konfitüre
+date: 2019-06-12
 tags:
 - conserve
 - fragole
