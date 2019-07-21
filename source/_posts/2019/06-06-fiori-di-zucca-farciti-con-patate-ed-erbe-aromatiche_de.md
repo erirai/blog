@@ -1,5 +1,5 @@
 ---
-title: Kürbisblüten gefüllt mit Kartoffeln und Kräutern
+title: "Kürbisblüten gefüllt mit Kartoffeln und Kräutern"
 date: 2019-06-06
 tags:
 - antipasti

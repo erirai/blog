@@ -1,5 +1,5 @@
 ---
-title: Fiori di Zucca farciti con Patate ed Erbette Aromatiche
+title: "Fiori di Zucca farciti con Patate ed Erbette Aromatiche"
 date: 2019-06-06
 tags:
 - antipasti

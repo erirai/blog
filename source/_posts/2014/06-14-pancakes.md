@@ -1,5 +1,5 @@
 ---
-title: Pancakes vegani
+title: Pancake vegani
 date: 2014-06-14
 tags:
 - colazione
@@ -11,7 +11,7 @@ lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
-Ci sono mio cognato e mia sorella da noi e stiamo aspettando l'inizio della partita dell'Italia e mi era anche venuta voglia di Pancakes, quindi cosa ho fatto? Giusto! Ho preparato i Pancakes, che per essere sincera non avevo mai fatto... Poi mio cognato si è anche sacrificato e si è mangiato la torre di Pancakes che ho preparato per la foto finale!
+Ci sono mio cognato e mia sorella da noi e stiamo aspettando l'inizio della partita dell'Italia e mi era anche venuta voglia di Pancake, quindi cosa ho fatto? Giusto! Ho preparato i Pancake, che per essere sincera non avevo mai fatto... Poi mio cognato si è anche sacrificato e si è mangiato la torre di Pancake che ho preparato per la foto finale!
 
 
 <div id="wrapper" style="text-align: center">
@@ -55,7 +55,7 @@ Ci sono mio cognato e mia sorella da noi e stiamo aspettando l'inizio della part
         </tbody>
       </table>
       <br></br>
-      <i class="pull-right" style="font-size: 80%;">per ca. 18 pancakes</i>
+      <i class="pull-right" style="font-size: 80%;">per ca. 18 pancake</i>
     </div>
   </div>
 </div>
@@ -76,7 +76,6 @@ Prendete una padellina e strofinate la superfice con pochissimo olio di cocco, a
 Aspettate che si cucinano anche dall'altro lato e poi metteteli in un piatto.
 ![](girati.jpg "frangipani © Erica")
 
-
 ![](pronti.jpg "frangipani © Erica")
 
 Il classico è servirli con lo sciroppo d'acero ma vi assicuro che sono buonissimi anche con dello zucchero e cannella, della marmellata, del burro di arachidi o semplicemente con la Nutella.
@@ -89,7 +88,7 @@ Il classico è servirli con lo sciroppo d'acero ma vi assicuro che sono buonissi
   </font> P.S.
 </h3>
 
-Naturalmente potete prendere anche il latte normale al posto del latte di riso. I pancakes sono buonissimi soprattutto per colazione accompagnati con della buona frutta...
+Naturalmente potete prendere anche il latte normale al posto del latte di riso. I pancake sono buonissimi soprattutto per colazione accompagnati con della buona frutta...
 
 <h4>Buon appetito
   <font color="red">

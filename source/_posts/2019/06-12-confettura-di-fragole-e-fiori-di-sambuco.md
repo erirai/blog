@@ -1,5 +1,5 @@
 ---
-title: Confettura di Fragole e Fiori di Sambuco
+title: "Confettura di Fragole e Fiori di Sambuco"
 date: 2019-06-12
 tags:
 - conserve

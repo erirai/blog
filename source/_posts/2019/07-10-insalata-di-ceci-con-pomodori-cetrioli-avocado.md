@@ -1,5 +1,5 @@
 ---
-title: Insalata di Ceci con Pomodori, Cetrioli e Avocado
+title: "Insalata di Ceci con Pomodori, Cetrioli e Avocado"
 date: 2019-07-10
 tags:
 - insalata

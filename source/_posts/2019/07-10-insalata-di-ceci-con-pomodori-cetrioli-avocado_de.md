@@ -1,5 +1,5 @@
 ---
-title: Kichererbsensalat mit Tomaten, Gurken und Avocado
+title: "Kichererbsensalat mit Tomaten, Gurken und Avocado"
 date: 2019-07-10
 tags:
 - insalata

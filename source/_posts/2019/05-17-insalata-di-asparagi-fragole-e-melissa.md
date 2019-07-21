@@ -1,5 +1,5 @@
 ---
-title: Insalata di Asparagi, Fragole e Melissa
+title: "Insalata di Asparagi, Fragole e Melissa"
 date: 2019-05-17
 tags:
 - antipasti
