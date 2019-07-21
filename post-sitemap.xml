@@ -7,8 +7,32 @@
     </url>
 
     <url>
+        <loc>http://frangipani.raiano.ch/2019-07-22-pancake-ai-mirtilli-de/</loc>
+        <lastmod>2019-07-21T15:19:09.753Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/2019-07-22-pancake-ai-mirtilli/</loc>
+        <lastmod>2019-07-21T15:11:09.210Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/2014-06-14-pancakes/</loc>
+        <lastmod>2019-07-17T13:08:06.034Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://frangipani.raiano.ch/2019-07-10-insalata-di-ceci-con-pomodori-cetrioli-avocado-de/</loc>
-        <lastmod>2019-07-09T19:44:01.797Z</lastmod>
+        <lastmod>2019-07-17T13:03:55.262Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -16,7 +40,55 @@
 
     <url>
         <loc>http://frangipani.raiano.ch/2019-07-10-insalata-di-ceci-con-pomodori-cetrioli-avocado/</loc>
-        <lastmod>2019-07-09T19:25:35.249Z</lastmod>
+        <lastmod>2019-07-17T13:03:50.017Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/2019-06-12-confettura-di-fragole-e-fiori-di-sambuco-de/</loc>
+        <lastmod>2019-07-17T13:03:36.006Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/2019-06-12-confettura-di-fragole-e-fiori-di-sambuco/</loc>
+        <lastmod>2019-07-17T13:03:27.774Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/2019-06-06-fiori-di-zucca-farciti-con-patate-ed-erbe-aromatiche-de/</loc>
+        <lastmod>2019-07-17T13:03:18.839Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/2019-06-06-fiori-di-zucca-farciti-con-patate-ed-erbe-aromatiche/</loc>
+        <lastmod>2019-07-17T13:03:13.087Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/2019-05-17-insalata-di-asparagi-fragole-e-melissa-de/</loc>
+        <lastmod>2019-07-17T13:03:03.983Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/2019-05-17-insalata-di-asparagi-fragole-e-melissa/</loc>
+        <lastmod>2019-07-17T13:02:55.151Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -49,54 +121,6 @@
     <url>
         <loc>http://frangipani.raiano.ch/2019-06-21-galette-integrale-con-pesto-pomodori-e-feta/</loc>
         <lastmod>2019-06-20T19:38:01.504Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/2019-06-12-confettura-di-fragole-e-fiori-di-sambuco/</loc>
-        <lastmod>2019-06-11T20:29:57.195Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/2019-06-12-confettura-di-fragole-e-fiori-di-sambuco-de/</loc>
-        <lastmod>2019-06-11T20:29:53.267Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/2019-06-06-fiori-di-zucca-farciti-con-patate-ed-erbe-aromatiche/</loc>
-        <lastmod>2019-06-05T19:02:00.646Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/2019-06-06-fiori-di-zucca-farciti-con-patate-ed-erbe-aromatiche-de/</loc>
-        <lastmod>2019-06-05T13:34:40.584Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/2019-05-17-insalata-di-asparagi-fragole-e-melissa-de/</loc>
-        <lastmod>2019-05-16T18:57:13.793Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/2019-05-17-insalata-di-asparagi-fragole-e-melissa/</loc>
-        <lastmod>2019-05-16T18:53:50.747Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -2089,14 +2113,6 @@
     <url>
         <loc>http://frangipani.raiano.ch/2014-05-29-muffin-alle-mandorle-ripieni-di-fragole-e-rabarbaro/</loc>
         <lastmod>2018-01-23T15:15:07.112Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/2014-06-14-pancakes/</loc>
-        <lastmod>2018-01-23T15:14:47.327Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
