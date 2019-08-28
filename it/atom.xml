@@ -4,7 +4,7 @@
   
   <link href="http://frangipani.raiano.ch/it/atom.xml" rel="self"/>
   <link href="http://frangipani.raiano.ch/"/>
-  <updated>2019-08-21T13:14:08.203Z</updated>
+  <updated>2019-08-28T19:35:12.768Z</updated>
   <id>http://frangipani.raiano.ch/</id>
   
   <author>
@@ -13,6 +13,136 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title xml:lang="it">Pane farcito con Parmigiana di Melanzane</title>
+    <link href="http://frangipani.raiano.ch/2019-08-29-pane-farcito-con-parmigiana-di-melanzane/"/>
+    <id>http://frangipani.raiano.ch/2019-08-29-pane-farcito-con-parmigiana-di-melanzane/</id>
+    <published>2019-08-28T22:00:00.000Z</published>
+    <updated>2019-08-28T19:35:12.768Z</updated>
+    <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Ciao ciao Agosto...&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Pane farcito con Parmigiana di Melanzane. Una ricetta che vi risolverà un sacco di problemi! Meraviglioso da portare ad un picnic, per un buffet, per un viaggio e perché no, anche come contorno. Secondo me, la parmigiana di melanzane mangiata in un panino è la fine del mondo. Preparandola già nel pane è ancora più buona, perché il pane prende tutto il gusto della parmigiana. Mamma quanto era buona! Le melanzane io le ho cotte al forno, ma ovviamante le potete anche friggere. Beh che dirvi... Agosto sta finendo, domenica sarà già il 1° settembre. Mi piace settembre! E poi zucché a gogò, olé...&lt;/p&gt;
+&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
+  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
+    &lt;div class=&quot;ingredients&quot;&gt;
+      &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
+      &lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;&lt;br&gt;            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Impasto per pane&lt;/b&gt;&lt;/td&gt;
+          &lt;/tr&gt;&lt;br&gt;          &lt;tr&gt;
+            &lt;td&gt;500gr&lt;/td&gt;
+            &lt;td&gt;farina&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td&gt;2 cucchiaini&lt;/td&gt;
+            &lt;td&gt;sale&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td&gt;250ml&lt;/td&gt;
+            &lt;td&gt;acqua&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td&gt;1gr&lt;/td&gt;
+            &lt;td&gt;lievito fresco&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr style=&quot;height: 15px;&quot;&gt;&lt;/tr&gt;
+          &lt;tr&gt;&lt;br&gt;            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Parmigiana di Melanzane&lt;/b&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td&gt;2&lt;/td&gt;
+            &lt;td&gt;melanzane nere grandi&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td&gt;1 bottiglia (ca. 700gr)&lt;/td&gt;
+            &lt;td&gt;passata di pomodoro&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td&gt;1&lt;/td&gt;
+            &lt;td&gt;cipolla piccolina&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td&gt;qb&lt;/td&gt;
+            &lt;td&gt;olio evo&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td&gt;qb&lt;/td&gt;
+            &lt;td&gt;sale&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td&gt;ca. 300gr&lt;/td&gt;
+            &lt;td&gt;mozzarella&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td&gt;qb&lt;/td&gt;
+            &lt;td&gt;parmigiano grattugiato&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td&gt;qb&lt;/td&gt;
+            &lt;td&gt;basilico fresco&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;
+      &lt;br&gt;&lt;br&gt;
+      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot;&gt;per una tortiera da 24cm&lt;/i&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h3&gt;
+  &lt;font color=&quot;grey&quot;&gt;
+    &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt; Preparazione
+&lt;/h3&gt;
+
+&lt;p&gt;Mettete la farina ed il sale nella planetaria. Fate sciogliere il lievito nell&amp;#39;acqua tiepida, poi versatela nella farina, mescolate un attimo e fate impastare il tutto finché l&amp;#39;impasto non si staccherà dalle pareti della ciotola. Fate lievitare per 8 ore o per tutta la notte. Ovviamente se non avete tutto questo tempo, aumentate le dosi del lievito. &lt;/p&gt;
+&lt;p&gt;Vi consiglio di preparare la salsa al pomodoro il giorno prima, così risulterà più densa. Dunque, fate soffriggere la cipolla tagliata finemente con un po&amp;#39; di olio ed un pizzico di sale, aggiungete la passata di pomodoro, un pochettino d&amp;#39;acqua e qualche foglia di basilico e fate andare a tempertura bassa finché si sarà addensato. Alla fine salate e tenete in frigo fino al giorno dopo.&lt;/p&gt;
+&lt;p&gt;Lavate le melanzane e tagliatele a fettine sottili da ca. 5mm. Coprite una leccarda con della carta forno, mettete un filo d&amp;#39;olio e fate uno strato di melanzane. Salatele e mettete un filo d&amp;#39;olio. Cuocete le melanzane nel forno preriscaldato a 190°C ventilato per 15min, a metà cottura giratele e salate di nuovo. Ovviamente potete anche friggerle.
+&lt;img src=&quot;farcia.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Passato il tempo della lievitazione, prendete l&amp;#39;impasto e dividetelo in due parti, una leggermente più grande dell&amp;#39;altra. Prendete la parte più grande e stendetela con le mani formando un disco, aiutatevi con un po&amp;#39; di farina. Ricoprite una teglia a cerniera da 24cm (con della carta forno sulla base) con l&amp;#39;impasto steso, alzando bene i bordi. Adesso iniziate ad assemblare la parmigiana sopra l&amp;#39;impasto: mettete prima uno strato di melanzane, poi salsa al pomodoro, mozzarella, parmigiano, basilico fresco e di nuovo melanzane, poi salsa ecc. Continuate finché avrete finito tutte le melanzane.
+&lt;img src=&quot;farcire.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;A questo punto stendete l&amp;#39;impasto rimasto formando un disco. Appoggiatelo sulle melanzane e sigillate bene i bordi. Fate un buchino al centro e fate lievitare per un&amp;#39;oretta.
+&lt;img src=&quot;teglia.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Infornate il pane farcito con parmigiana di melanzane nel forno preriscaldato a 200°C statico per mezz&amp;#39;oretta o almeno finché avrà un bel colorito. Aspettate un attimino, togliete l&amp;#39;anello esterno e fate intiepidire il tutto prima di tagliarlo.
+&lt;img src=&quot;risultato1.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;risultato2.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;risultato3.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;risultato4.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;risultato5.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;risultato6.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;risultato7.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;risultato8.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;risultato9.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;h4&gt;Buon appetito
+  &lt;font color=&quot;red&quot;&gt;
+    &lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt;
+&lt;/h4&gt;</content>
+    <summary type="html" xml:lang="it">
+    
+      &lt;p&gt;&lt;img src=&quot;header.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Ciao ciao Agosto...&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Pane farcito con Parm
+    
+    </summary>
+    
+      <category term="Salato" scheme="http://frangipani.raiano.ch/categories/Salato/"/>
+    
+      <category term="Panificati" scheme="http://frangipani.raiano.ch/categories/Salato/Panificati/"/>
+    
+    
+      <category term="panificati" scheme="http://frangipani.raiano.ch/tags/panificati/"/>
+    
+      <category term="melanzane" scheme="http://frangipani.raiano.ch/tags/melanzane/"/>
+    
+      <category term="pane" scheme="http://frangipani.raiano.ch/tags/pane/"/>
+    
+  </entry>
   
   <entry>
     <title xml:lang="it">Zuppa di Pomodori arrosto</title>
@@ -222,9 +352,9 @@ Siamo felici anche per te, perché non vedevi l’ora di iniziare e far vedere a
       <category term="Colazione" scheme="http://frangipani.raiano.ch/categories/Dolce/Colazione/"/>
     
     
-      <category term="colazione" scheme="http://frangipani.raiano.ch/tags/colazione/"/>
-    
       <category term="mirtilli" scheme="http://frangipani.raiano.ch/tags/mirtilli/"/>
+    
+      <category term="colazione" scheme="http://frangipani.raiano.ch/tags/colazione/"/>
     
   </entry>
   
@@ -311,13 +441,13 @@ Per noi venerdì alle ore 11:50 inizieranno le vacanze estive! Spegnamo la svegl
     
       <category term="vegan" scheme="http://frangipani.raiano.ch/tags/vegan/"/>
     
-      <category term="avocado" scheme="http://frangipani.raiano.ch/tags/avocado/"/>
-    
       <category term="piatto unico" scheme="http://frangipani.raiano.ch/tags/piatto-unico/"/>
     
-      <category term="contorno" scheme="http://frangipani.raiano.ch/tags/contorno/"/>
-    
       <category term="pomodori" scheme="http://frangipani.raiano.ch/tags/pomodori/"/>
+    
+      <category term="avocado" scheme="http://frangipani.raiano.ch/tags/avocado/"/>
+    
+      <category term="contorno" scheme="http://frangipani.raiano.ch/tags/contorno/"/>
     
       <category term="ceci" scheme="http://frangipani.raiano.ch/tags/ceci/"/>
     
@@ -590,11 +720,11 @@ Buon inizio estate a voi e il primo che si lamenta del caldo, lo metto a dieta! 
     
       <category term="vegan" scheme="http://frangipani.raiano.ch/tags/vegan/"/>
     
-      <category term="pesto" scheme="http://frangipani.raiano.ch/tags/pesto/"/>
-    
       <category term="torta salata" scheme="http://frangipani.raiano.ch/tags/torta-salata/"/>
     
       <category term="pomodori" scheme="http://frangipani.raiano.ch/tags/pomodori/"/>
+    
+      <category term="pesto" scheme="http://frangipani.raiano.ch/tags/pesto/"/>
     
       <category term="feta" scheme="http://frangipani.raiano.ch/tags/feta/"/>
     
@@ -682,15 +812,15 @@ Riempite la marmellata ancora calda nei vasetti precedentemente sterilizzati aiu
       <category term="Conserve" scheme="http://frangipani.raiano.ch/categories/Dolce/Conserve/"/>
     
     
+      <category term="conserve" scheme="http://frangipani.raiano.ch/tags/conserve/"/>
+    
       <category term="vegan" scheme="http://frangipani.raiano.ch/tags/vegan/"/>
     
       <category term="fragole" scheme="http://frangipani.raiano.ch/tags/fragole/"/>
     
-      <category term="conserve" scheme="http://frangipani.raiano.ch/tags/conserve/"/>
+      <category term="fiori di sambuco" scheme="http://frangipani.raiano.ch/tags/fiori-di-sambuco/"/>
     
       <category term="marmellata" scheme="http://frangipani.raiano.ch/tags/marmellata/"/>
-    
-      <category term="fiori di sambuco" scheme="http://frangipani.raiano.ch/tags/fiori-di-sambuco/"/>
     
   </entry>
   
@@ -795,9 +925,9 @@ Riempite la marmellata ancora calda nei vasetti precedentemente sterilizzati aiu
     
       <category term="vegan" scheme="http://frangipani.raiano.ch/tags/vegan/"/>
     
-      <category term="fiori di zucca" scheme="http://frangipani.raiano.ch/tags/fiori-di-zucca/"/>
-    
       <category term="patate" scheme="http://frangipani.raiano.ch/tags/patate/"/>
+    
+      <category term="fiori di zucca" scheme="http://frangipani.raiano.ch/tags/fiori-di-zucca/"/>
     
       <category term="erbe aromatiche" scheme="http://frangipani.raiano.ch/tags/erbe-aromatiche/"/>
     
@@ -1050,9 +1180,9 @@ Continua così, sempre rispettando i tuoi tempi, rispettando ogni essere vivente
     
       <category term="vegan" scheme="http://frangipani.raiano.ch/tags/vegan/"/>
     
-      <category term="cioccolato bianco" scheme="http://frangipani.raiano.ch/tags/cioccolato-bianco/"/>
-    
       <category term="torta" scheme="http://frangipani.raiano.ch/tags/torta/"/>
+    
+      <category term="cioccolato bianco" scheme="http://frangipani.raiano.ch/tags/cioccolato-bianco/"/>
     
       <category term="rabarbaro" scheme="http://frangipani.raiano.ch/tags/rabarbaro/"/>
     
@@ -1277,11 +1407,11 @@ Continua così, sempre rispettando i tuoi tempi, rispettando ogni essere vivente
     
       <category term="torta" scheme="http://frangipani.raiano.ch/tags/torta/"/>
     
+      <category term="rabarbaro" scheme="http://frangipani.raiano.ch/tags/rabarbaro/"/>
+    
       <category term="crumble" scheme="http://frangipani.raiano.ch/tags/crumble/"/>
     
       <category term="piccola pasticceria" scheme="http://frangipani.raiano.ch/tags/piccola-pasticceria/"/>
-    
-      <category term="rabarbaro" scheme="http://frangipani.raiano.ch/tags/rabarbaro/"/>
     
   </entry>
   
@@ -1366,13 +1496,13 @@ Continua così, sempre rispettando i tuoi tempi, rispettando ogni essere vivente
     
       <category term="dolci" scheme="http://frangipani.raiano.ch/tags/dolci/"/>
     
-      <category term="glutenfree" scheme="http://frangipani.raiano.ch/tags/glutenfree/"/>
-    
       <category term="biscotti" scheme="http://frangipani.raiano.ch/tags/biscotti/"/>
     
-      <category term="cocco" scheme="http://frangipani.raiano.ch/tags/cocco/"/>
+      <category term="glutenfree" scheme="http://frangipani.raiano.ch/tags/glutenfree/"/>
     
       <category term="pasqua" scheme="http://frangipani.raiano.ch/tags/pasqua/"/>
+    
+      <category term="cocco" scheme="http://frangipani.raiano.ch/tags/cocco/"/>
     
       <category term="piccola pasticceria" scheme="http://frangipani.raiano.ch/tags/piccola-pasticceria/"/>
     
@@ -1517,9 +1647,9 @@ Continua così, sempre rispettando i tuoi tempi, rispettando ogni essere vivente
     
       <category term="pasqua" scheme="http://frangipani.raiano.ch/tags/pasqua/"/>
     
-      <category term="spinaci" scheme="http://frangipani.raiano.ch/tags/spinaci/"/>
-    
       <category term="pomodori" scheme="http://frangipani.raiano.ch/tags/pomodori/"/>
+    
+      <category term="spinaci" scheme="http://frangipani.raiano.ch/tags/spinaci/"/>
     
   </entry>
   
@@ -1787,9 +1917,9 @@ Continua così, sempre rispettando i tuoi tempi, rispettando ogni essere vivente
     
       <category term="dolci" scheme="http://frangipani.raiano.ch/tags/dolci/"/>
     
-      <category term="vegan" scheme="http://frangipani.raiano.ch/tags/vegan/"/>
-    
       <category term="muffin" scheme="http://frangipani.raiano.ch/tags/muffin/"/>
+    
+      <category term="vegan" scheme="http://frangipani.raiano.ch/tags/vegan/"/>
     
       <category term="carnevale" scheme="http://frangipani.raiano.ch/tags/carnevale/"/>
     
@@ -2265,124 +2395,6 @@ Ti amo Scha!&lt;/p&gt;
       <category term="san valentino" scheme="http://frangipani.raiano.ch/tags/san-valentino/"/>
     
       <category term="dolci al cucchiaio" scheme="http://frangipani.raiano.ch/tags/dolci-al-cucchiaio/"/>
-    
-  </entry>
-  
-  <entry>
-    <title xml:lang="it">Pan d&#39;Arancio</title>
-    <link href="http://frangipani.raiano.ch/2019-01-15-pan-darancio/"/>
-    <id>http://frangipani.raiano.ch/2019-01-15-pan-darancio/</id>
-    <published>2019-01-14T23:00:00.000Z</published>
-    <updated>2019-01-14T14:27:13.555Z</updated>
-    <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Benvenuto 2019 e buon anno a voi!&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Pan d&amp;#39;Arancio, un dolce soffice e umido che sa di arance, che sa di sicilia, che sa di buono. Un dolce per ripartire con gusto, per sfruttare al massimo le arance, per fare scorta di vitamina C che l&amp;#39;inverno è lungo... Ho scoperto questo dolce l&amp;#39;anno scorso sul Blog di &lt;a href=&quot;https://www.mumcakefrelis.it/2018/03/pan-darancio-ricetta-siciliana.html&quot; target=&quot;_blank&quot;&gt;Mum Cake Frelis&lt;/a&gt; e l&amp;#39;ho annotato nel mio libretto per ricordarmi di farlo dopo le feste. Non conoscevo questo dolce ed è un dolce siciliano! Ma l&amp;#39;utilizzo dell&amp;#39;arancia intera nell&amp;#39;impasto mi piace troppo. Poi Lisa ha aggiunto anche la farina di mandorle ed ha sostituito il latte con il succo d&amp;#39;arancia, ottimo! Utilizzando le arance intere con tutta la scorza, è importantissimo usare arance bio non trattate, mi raccomando. Ormai mi sono abituata a prendere tutti gli agrumi bio, dato che uso molto spesso la scorza. Così sto tranquilla. Potete usare anche altri agrumi o addirittura mischiarli, rispettando le dosi naturalmente.&lt;/p&gt;
-&lt;p&gt;Ma ditemi un po&amp;#39;, come avete passato le feste? Noi purtoppo siamo stati malaticci, di nuovo! Sono quattro anni che durante le feste di natale almeno qualcuno si ammala. C&amp;#39;era mia cugina qui, venuta dalla Sicilia, e non me la sono neanche potuta godere per bene. Almeno i giorni di festa siamo riusciti a stare insieme, mangiando, ridendo e parlando... Un nuovo anno è iniziato e col nuovo anno ci sono anche i nuovi buoni propositi o quelli non realizzati e ripresi... Come l&amp;#39;anno scorso, vorrei scriverli nero su bianco ed eccoli qui:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Devo bere ogni giorno 2 litri di acqua: penso che qui non ci sia niente da aggiungere!&lt;/li&gt;
-&lt;li&gt;Vorrei dedicarmi un po&amp;#39; di più ai dolci per la colazione: questo è uno dei buoni propositi dell&amp;#39;anno scorso. Non sono riuscita a realizzarlo l&amp;#39;anno scorso, ma ci tengo molto. Quindi lo riprendo quest&amp;#39;anno.&lt;/li&gt;
-&lt;li&gt;Voglio provare diversi tipi di pane con diversi tipi di farina e fare il lievito madre: anche questo è dell&amp;#39;anno scorso e lo riprendo ben volentieri, sperando di riuscirci.&lt;/li&gt;
-&lt;li&gt;Vorrei diminuire il consumo/utilizzo della plastica: i buoni propositi non dovrebbero essere utili solo per noi, non pensiamo sempre in piccolo, ma pensiamo anche a quello o a chi ci circonda. Con piccoli accorgimenti si può evitare questo inutile spreco di plastica!&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;E quali sono i vostri buoni propositi per quest&amp;#39;anno?&lt;/p&gt;
-&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
-  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
-    &lt;div class=&quot;ingredients&quot;&gt;
-      &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
-      &lt;table&gt;
-        &lt;tbody&gt;
-          
-          &lt;tr&gt;
-            &lt;td&gt;1 (ca. 300gr)&lt;/td&gt;
-            &lt;td&gt;arancia bio non trattata&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td&gt;250gr&lt;/td&gt;
-            &lt;td&gt;zucchero&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td&gt;3&lt;/td&gt;
-            &lt;td&gt;uova&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td&gt;100ml&lt;/td&gt;
-            &lt;td&gt;olio di semi&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td&gt;100ml&lt;/td&gt;
-            &lt;td&gt;spremuta d&amp;#39;arancia fresca&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td&gt;1 pizzico&lt;/td&gt;
-            &lt;td&gt;sale&lt;/td&gt;
-           &lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td&gt;250gr&lt;/td&gt;
-            &lt;td&gt;farina&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td&gt;50gr&lt;/td&gt;
-            &lt;td&gt;farina di mandorle&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td&gt;1 bustina&lt;/td&gt;
-            &lt;td&gt;lievito per dolci&lt;/td&gt;
-          &lt;/tr&gt;
-        &lt;/tbody&gt;
-      &lt;/table&gt;
-      &lt;br&gt;&lt;br&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;h3&gt;
-  &lt;font color=&quot;grey&quot;&gt;
-    &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt; Preparazione
-&lt;/h3&gt;
-
-&lt;p&gt;Lavate l&amp;#39;arancia e tagliatela a pezzetti (eliminate i semini), poi frullatela così con tutta la buccia finché diventerà bella cremosa e senza pezzetti. A parte montate lo zucchero con le uova finché il composto sarà bello gonfio e chiaro. Sempre mescolando, aggiungete a filo l&amp;#39;olio, poi la spremuta d&amp;#39;arancia e l&amp;#39;arancia frullata. In una coppetta a parte mischiate il sale, la farina, la farina di mandorle ed il lievito. Setacciate il miscuglio con la farina, poi poco alla volta a mano incorporatelo al composto con le uova con un movimento dall&amp;#39;alto verso il basso. Versate l&amp;#39;impasto in una teglia (per ciambelle, tonda o da plumcake) imburrata ed infarinata.
-&lt;img src=&quot;teglia.jpg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Infornate il Pan d&amp;#39;Arancio nel forno preriscaldato statico a 180°C per ca. 45min, fate sempre la prova stecchino. Fate raffreddare bene la torta, poi toglietela dallo stampo. Vi consiglio di spalmare sulle fette del Pan d&amp;#39;Arancio la marmellata, confettura o addirittura la crema di pistacchio!
-&lt;img src=&quot;risultato1.jpg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;risultato2.jpg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;risultato3.jpg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;risultato4.jpg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;risultato5.jpg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;risultato6.jpg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;risultato7.jpg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;risultato8.jpg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;risultato9.jpg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;risultato10.jpg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;h4&gt;Buon appetito
-  &lt;font color=&quot;red&quot;&gt;
-    &lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt;
-&lt;/h4&gt;
-</content>
-    <summary type="html" xml:lang="it">
-    
-      &lt;p&gt;&lt;img src=&quot;header.jpg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Benvenuto 2019 e buon anno a voi!&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Pan d&amp;#3
-    
-    </summary>
-    
-      <category term="Dolce" scheme="http://frangipani.raiano.ch/categories/Dolce/"/>
-    
-      <category term="Torte" scheme="http://frangipani.raiano.ch/categories/Dolce/Torte/"/>
-    
-    
-      <category term="dolci" scheme="http://frangipani.raiano.ch/tags/dolci/"/>
-    
-      <category term="torta" scheme="http://frangipani.raiano.ch/tags/torta/"/>
-    
-      <category term="arance" scheme="http://frangipani.raiano.ch/tags/arance/"/>
     
   </entry>
   
