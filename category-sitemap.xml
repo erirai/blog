@@ -9,14 +9,28 @@
 
     <url>
         <loc>http://frangipani.raiano.ch/categories/Dolce/Crostate-Tartes/</loc>
-        <lastmod>2019-09-02T18:03:06.564Z</lastmod>
+        <lastmod>2019-09-05T18:45:19.776Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://frangipani.raiano.ch/categories/Dolce/</loc>
-        <lastmod>2019-09-02T18:03:06.564Z</lastmod>
+        <lastmod>2019-09-05T18:45:19.776Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/categories/Z-Ambiente/Consigli-Green/</loc>
+        <lastmod>2019-09-05T09:29:07.728Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/categories/Z-Ambiente/</loc>
+        <lastmod>2019-09-05T09:29:07.728Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
