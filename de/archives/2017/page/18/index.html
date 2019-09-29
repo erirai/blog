@@ -64,20 +64,21 @@ if (window.location.hostname.search('localhost') === -1) {
 
 	ga('create', 'UA-42950201-2', 'auto');
 	ga('send', 'pageview');
+	ga('set', 'anonymizeIp', true);
 }
 </script>
     
     
 
 
-    <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
-    <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css">
+    <script src="//cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
     <script>
       window.addEventListener("load", function(){
       window.cookieconsent.initialise({
         content: {
           header: "Cookies werden auf der Website verwendet!",
-          message: "Diese Website verwendet Cookies, um sicherzustellen, dass Sie die beste Erfahrung auf dieser Website erhalten.",
+          message: "Diese Website verwendet Cookies, um sicherzustellen, dass Sie die beste Erfahrung auf dieser Website erhalten und Werbeanzeigen zu plazieren, diese zu messen und die Sicherheit für unsere Besucher zu steigern. Durch das Navigieren in dem Blog oder das Klicken innerhalb des Blogs, stimmst Du der Sammlung von Informationen mittels Cookies auf diesem Blogs zu.",
           dismiss: "Verstanden!",
           allow: "Cookies zulassen",
           deny: "Verweigern",
