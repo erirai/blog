@@ -54,7 +54,7 @@ Nessuno è perfetto e nessuno si aspetta una spesa perfetta completamente senza 
 ![](green6.jpeg "frangipani © Erica")
 
 <h4>Grazie per l'aiuto...
-  <font color="red">
+  <font color="green">
     <i class="fa fa-smile-o"></i>
   </font>
 </h4>

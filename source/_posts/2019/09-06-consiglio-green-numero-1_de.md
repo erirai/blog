@@ -54,7 +54,7 @@ Niemand ist perfekt und niemand erwartet einen perfekten Einkauf ganz ohne Plast
 ![](../2019-09-06-consiglio-green-numero-1/green6.jpeg "frangipani © Erica")
 
 <h4>Danke für eure Hilfe...
-  <font color="red">
+  <font color="green">
     <i class="fa fa-smile-o"></i>
   </font>
 </h4>
