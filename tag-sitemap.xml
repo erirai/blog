@@ -3,6 +3,20 @@
 
 
     <url>
+        <loc>http://frangipani.raiano.ch/tags/colazione/</loc>
+        <lastmod>2019-10-17T21:03:37.228Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/mele/</loc>
+        <lastmod>2019-10-17T21:03:37.228Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://frangipani.raiano.ch/tags/no-waste/</loc>
         <lastmod>2019-10-03T20:31:25.088Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -173,13 +187,6 @@
     <url>
         <loc>http://frangipani.raiano.ch/tags/crumble/</loc>
         <lastmod>2019-08-21T08:32:09.307Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/colazione/</loc>
-        <lastmod>2019-07-21T15:19:09.753Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -460,13 +467,6 @@
     <url>
         <loc>http://frangipani.raiano.ch/tags/carnevale/</loc>
         <lastmod>2019-02-25T15:28:53.461Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/mele/</loc>
-        <lastmod>2019-02-18T14:44:19.429Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
