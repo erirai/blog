@@ -57,49 +57,22 @@
     
     
         <script type="text/javascript">
-if (window.location.hostname.search('localhost') === -1) {
-	(function(i,s,o,g,r,a,m) {i['GoogleAnalyticsObject']=r;i[r]=i[r]||function() {
-	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+// if (window.location.hostname.search('localhost') === -1) {
+// 	(function(i,s,o,g,r,a,m) {i['GoogleAnalyticsObject']=r;i[r]=i[r]||function() {
+// 	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+// 	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+// 	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-	ga('create', 'UA-42950201-2', 'auto');
-	ga('send', 'pageview');
-	ga('set', 'anonymizeIp', true);
-}
+// 	ga('create', 'UA-42950201-2', 'auto');
+// 	ga('send', 'pageview');
+// 	ga('set', 'anonymizeIp', true);
+// }
 </script>
     
     
 
 
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css">
-    <script src="//cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
-    <script>
-      window.addEventListener("load", function(){
-      window.cookieconsent.initialise({
-        content: {
-          header: "Cookies werden auf der Website verwendet!",
-          message: "Diese Website verwendet Cookies, um sicherzustellen, dass Sie die beste Erfahrung auf dieser Website erhalten und Werbeanzeigen zu plazieren, diese zu messen und die Sicherheit für unsere Besucher zu steigern. Durch das Navigieren in dem Blog oder das Klicken innerhalb des Blogs, stimmst Du der Sammlung von Informationen mittels Cookies auf diesem Blogs zu.",
-          dismiss: "Verstanden!",
-          allow: "Cookies zulassen",
-          deny: "Verweigern",
-          link: "Erfahren Sie mehr",
-          href: 'http://cookiesandyou.com',
-          close: '&#x274c;',
-        },
-        "palette": {
-          "popup": {
-            "background": "#61d0c5",
-            "text": "#069494"
-          },
-          "button": {
-            "background": "#FF9F4C",
-            "text": "#ffffff"
-          }
-        },
-        "theme": "edgeless"
-      })});
-    </script>
     <style>
       body {
         cursor: url(data:image/svg+xml;utf8;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiIHdpZHRoPSIxM3B4IiBoZWlnaHQ9IjIxcHgiIHZpZXdCb3g9IjAgMCAxMyAyMSIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMTMgMjE7IiB4bWw6c3BhY2U9InByZXNlcnZlIj48Zz48Zz48cGF0aCBzdHlsZT0ic3Ryb2tlOiNGRkZGRkY7c3Ryb2tlLXdpZHRoOjAuODU7c3Ryb2tlLW1pdGVybGltaXQ6MTA7IiBkPSJNMTAuOCwxNy4zYzAuNiwwLjYsMS4yLDEuMywxLjMsMS42YzAuMywwLjYtMC4xLDEuMy0wLjksMS42Yy0wLjgsMC4zLTEuNywwLTItMC42Yy0wLjItMC4zLTAuMy0xLjItMC40LTEuOWMwLjMtMC4xLDAuNi0wLjEsMS0wLjJDMTAuMiwxNy42LDEwLjUsMTcuNSwxMC44LDE3LjN6Ii8+PC9nPjxnPjxwYXRoIHN0eWxlPSJzdHJva2U6I0ZGRkZGRjtzdHJva2Utd2lkdGg6MC44NTtzdHJva2UtbWl0ZXJsaW1pdDoxMDsiIGQ9Ik0zLjcsMS4yQzMuOSwxLjQsNCwyLjEsNC4xLDIuN0MzLjcsMi44LDMuMywyLjksMi45LDNjLTAuNCwwLjEtMC43LDAuMy0xLDAuNEMxLjQsMi45LDEsMi4zLDAuOCwyLjFDMC42LDEuNSwxLDAuOCwxLjgsMC41QzIuNiwwLjIsMy40LDAuNSwzLjcsMS4yeiIvPjwvZz48Zz48cGF0aCBzdHlsZT0ic3Ryb2tlOiNGRkZGRkY7c3Ryb2tlLXdpZHRoOjAuODU7c3Ryb2tlLW1pdGVybGltaXQ6MTA7IiBkPSJNMy4xLDMuM0M0LjMsMi45LDUuNiwzLDUuOCwzLjVsNS45LDEyLjNjMC4yLDAuNS0wLjYsMS4yLTEuOSwxLjZjLTEuMywwLjQtMi41LDAuMy0yLjctMC4xTDEuMiw0LjlDMSw0LjQsMS44LDMuNywzLjEsMy4zeiIvPjwvZz48L2c+PC9zdmc+),auto!important
@@ -1131,8 +1104,6 @@ if (window.location.hostname.search('localhost') === -1) {
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2019-07-22-pancake-ai-mirtilli-de/">0</span>
-    
 </span>
 
     
@@ -1296,8 +1267,6 @@ Super fluffige, super saftige und super leckere Heidelbeerpfannkuchen zum Geburt
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2019-10-18-pancake-alle-mele-de/">0</span>
     
 </span>
 
@@ -1754,8 +1723,6 @@ Apfel-Zimt-Pancakes, fluffig und duftend, perfekt für das Herbstfrühstück! Da
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-10-12-pumpkin-spice-latte-de/">0</span>
     
 </span>
 
@@ -2260,8 +2227,6 @@ Hand nach oben wer Starbucks mag? Ich, ich, ich! Ja, auch ich mag die verschiede
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-02-07-girelle-vegan-ai-lamponi-de/">0</span>
-    
 </span>
 
     
@@ -2426,8 +2391,6 @@ Ich brauchte ein paar Ideen für das Valentinsfrühstück. In diesen Fällen ist
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-03-17-ciambelle-vegan-di-patate-cotte-al-forno-de/">0</span>
     
 </span>
 
@@ -2668,8 +2631,6 @@ Alles Liebe zum Geburtstag Ladan! Wir kennen uns schon seit mehr als 10 Jahren, 
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-05-09-focaccia-dolce-al-rabarbaro-de/">0</span>
-    
 </span>
 
     
@@ -2874,8 +2835,6 @@ Nachdem ich etwas Osterschokolade verbraucht habe (also, etwas ist ein wenig unt
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-07-25-granola-al-cacao-con-fragole-e-lamponi-de/">0</span>
     
 </span>
 
@@ -3221,8 +3180,6 @@ Ja, am Samstag war ich dran... Ich habe die 30 Jahre erreicht! Totale Krise! Bin
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-11-02-berliner-vegani-al-forno-de/">0</span>
-    
 </span>
 
     
@@ -3284,8 +3241,6 @@ Vor einiger Zeit habe ich dank Instagram Meine Backbox entdeckt. Alle zwei Monat
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-10-30-pumpkin-cinnamon-rolls-de/">0</span>
     
 </span>
 
@@ -3443,8 +3398,6 @@ Morgen ist Halloween und damit endet auch der Monat Oktober... Dieser Monat ist 
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-12-20-granola-natalizia-de/">0</span>
     
 </span>
 
@@ -3668,8 +3621,6 @@ Ich beende das Jahr 2017 mit dem Rezept der Christmas Granola... Mit all dem Ess
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-03-01-pan-brioche-alla-ricotta-profumato-alla-vaniglia-de/">0</span>
     
 </span>
 
@@ -4279,8 +4230,6 @@ Ricotta-Brioche mit Vanilleduft, fluffig wie ein Wölkchen und erstaundlich leck
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-12-20-scones-vegani-con-cranberries-profumati-all-arancia-de/">0</span>
-    
 </span>
 
     
@@ -4804,8 +4753,6 @@ Vegane Scones mit Cranberries und Orangenduft, für ein Sternenfrühstück. Sie 
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2019-02-05-cuori-di-sfoglia-con-pesto-rosso-de/">0</span>
-    
 </span>
 
     
@@ -4934,8 +4881,6 @@ Blättertieg-Herzen mit rotem Pesto, ein perfekter Aperitif zum Valentinstag. Ih
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2019-03-18-muffin-salati-alle-carote-vegani-con-insalata-di-spinaci-mele-nocciole-de/">0</span>
     
 </span>
 
@@ -5519,8 +5464,6 @@ Herzhafte vegane Karotten-Muffins mit Spinat-Apfel-Haselnuss-Salat für ein leic
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-08-31-plumcake-salato-estivo-de/">0</span>
-    
 </span>
 
     
@@ -5754,8 +5697,6 @@ Auf Wiedersehen August, wir sehen uns nächstes Jahr wieder! August ist ein komi
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-10-14-panelle-de/">0</span>
     
 </span>
 
@@ -5993,8 +5934,6 @@ Was ist das eigentlich? Panelle sind kleine Bratlinge aus Kichererbsenmehl, eine
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-11-28-plumcake-salato-autunnale-de/">0</span>
-    
 </span>
 
     
@@ -6126,8 +6065,6 @@ Der November ist ein bisschen so... die Gedanken bereits in weihnachtlicher Stim
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-12-22-stelline-di-sfoglia-de/">0</span>
     
 </span>
 
@@ -6526,8 +6463,6 @@ Ich weiss nicht wie es euch geht, aber zum Apéro serviere ich nicht so gerne Er
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-04-04-torta-di-carote-salata-de/">0</span>
-    
 </span>
 
     
@@ -6635,8 +6570,6 @@ Heute zeige ich euch einen herzhaften Kuchen für Ostern oder für den Ostermont
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-04-21-torta-salata-con-carciofi-e-patate-de/">0</span>
     
 </span>
 
@@ -6766,8 +6699,6 @@ Vor ein paar Wochen hatte ich etwas vorige Zeit um einige Blogs anzuschauen, wel
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-05-12-panini-veloci-allo-yogurt-de/">0</span>
     
 </span>
 
@@ -6902,8 +6833,6 @@ Also, meine Tochter liebt Sandwiches! Jedes Mal wenn sie Brot isst, macht sie ei
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-06-27-tarte-tatin-integrale-con-carote-novelle-e-cipollotti-de/">0</span>
     
 </span>
 
@@ -7257,8 +7186,6 @@ Vor ca. zwei Monaten, habe ich ein paar Kochhefte meiner Mutter ausgeliehen. Ich
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-10-20-ossa-di-sfoglia-per-halloween-de/">0</span>
-    
 </span>
 
     
@@ -7341,8 +7268,6 @@ Ich liebe Halloween und ich glaube, dass ich das auch meine Tocher weitergegeben
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-10-24-mummie-e-pizzette-veloci-per-halloween-de/">0</span>
     
 </span>
 
@@ -7463,8 +7388,6 @@ Und hier ist das zweite Halloween-Snack-Rezept. Es ist ein ganz einfacher und sc
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-12-07-sfoglia-natalizia-ripiena-di-brie-e-cranberries-de/">0</span>
     
 </span>
 
@@ -7822,8 +7745,6 @@ Heute schlage ich euch ein ganz schnelles aber seeehr schmackhaftes Rezept für 
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-04-10-frittata-al-forno-con-verdure-e-feta-de/">0</span>
     
 </span>
 
@@ -8996,8 +8917,6 @@ Ofen-Frittata mit Gemüse und Fetakäse, zusammen mit einer Scheibe Brot essen u
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2019-05-17-insalata-di-asparagi-fragole-e-melissa-de/">0</span>
-    
 </span>
 
     
@@ -9066,8 +8985,6 @@ Spargel-Erdbeersalat mit Zitronenmelisse, das ist der perfekte Zeitpunkt um dies
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2019-06-06-fiori-di-zucca-farciti-con-patate-ed-erbe-aromatiche-de/">0</span>
     
 </span>
 
@@ -9835,8 +9752,6 @@ Kürbisblüten gefüllt mit Kartoffeln und Kräutern, eine delikate Vorspeise od
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-11-07-flaedlisuppe-de/">0</span>
-    
 </span>
 
     
@@ -10088,8 +10003,6 @@ Dieses Rezept errinnert mich an eine sehr spezielle Person, Santina! Als wir noc
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-12-29-insalata-di-arance-e-finocchi-de/">0</span>
-    
 </span>
 
     
@@ -10254,8 +10167,6 @@ Für spezielle Anlässe darf die Vorspeise nicht fehlen! Da der erste Gang bei u
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-02-01-cous-cous-con-avocado-e-salsa-rosa-de/">0</span>
     
 </span>
 
@@ -10648,8 +10559,6 @@ Endlich hat der letzte Wintermonat begonnen, der Januar wollte einfach nicht vor
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-05-12-panini-veloci-allo-yogurt-de/">0</span>
     
 </span>
 
@@ -11346,8 +11255,6 @@ Also, meine Tochter liebt Sandwiches! Jedes Mal wenn sie Brot isst, macht sie ei
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-01-25-crepes-integrali-senza-uova-con-rucola-parmigiano-e-noci-de/">0</span>
-    
 </span>
 
     
@@ -11558,8 +11465,6 @@ Diese Vollkorn-Crêpe ohne Eier mit Rucola, Parmesan und Walnüssen habe ich vor
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-04-10-frittata-al-forno-con-verdure-e-feta-de/">0</span>
     
 </span>
 
@@ -11884,8 +11789,6 @@ Ofen-Frittata mit Gemüse und Fetakäse, zusammen mit einer Scheibe Brot essen u
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-09-20-bruschetta-ai-funghi-de/">0</span>
-    
 </span>
 
     
@@ -12111,8 +12014,6 @@ Bruschetta mit Pilzen, eine hervorragende herbstliche Vorspeise die schnell vorb
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-12-14-carpaccio-di-barbabietola-con-arance-de/">0</span>
-    
 </span>
 
     
@@ -12332,8 +12233,6 @@ Rote Bete Carpaccio mit Orangen für eine leichte, einfache und leckere festlich
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2014-06-04-penne-alla-erica-de/">0</span>
     
 </span>
 
@@ -13214,8 +13113,6 @@ Das Rezept dieser Pasta mit Paprika und Erdbeeren ist vor vielen Jahren ganz per
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-08-04-gnocchi-al-basilico-con-crema-di-peperoni-de/">0</span>
-    
 </span>
 
     
@@ -13283,8 +13180,6 @@ Heute hatte ich richtig Lust etwas spezielles, etwas neues zu kochen. Ich habe i
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-08-15-lasagna-estiva-de/">0</span>
     
 </span>
 
@@ -13494,8 +13389,6 @@ In Italien feiert man heute &quot;Ferragosto&quot;, alle sind am Strand oder in 
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-09-21-tagliolini-con-finferli-de/">0</span>
     
 </span>
 
@@ -13792,8 +13685,6 @@ Für den Herbstbeginn durfte ein Pilzgericht nicht fehlen... Genaugesagt ein Ger
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-11-16-pasta-al-cavolfiore-piccante-de/">0</span>
-    
 </span>
 
     
@@ -13927,8 +13818,6 @@ Ach ist das kalt... Der Herbst ist schon vorbei und der Winter hat begonnen! Die
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-12-07-risotto-al-cavolo-viola-profumato-al-limone-de/">0</span>
-    
 </span>
 
     
@@ -14008,8 +13897,6 @@ Ihr glaubt es nicht, aber ich habe schon alle Weihnachtsgeschenke! Haha so ein S
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-12-15-timballo-di-rigatoni-de/">0</span>
     
 </span>
 
@@ -14100,8 +13987,6 @@ Heute probieren wir ein Rezept für Weihnachten! Das wichtigste für mich ist, d
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-12-27-risotto-all-arancia-de/">0</span>
-    
 </span>
 
     
@@ -14176,8 +14061,6 @@ Vor zwei Jahren habe ich zum ersten Mal diesen Risotto gemacht und es war sofort
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-01-04-fregola-con-carciofi-e-pomodori-de/">0</span>
-    
 </span>
 
     
@@ -14243,8 +14126,6 @@ Ich hoffe, ihr seid gut ins Jahr 2017 gerutscht! Wir hatten eine gemütliche Sil
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-01-11-spaghetti-allo-zafferano-con-romanesco-de/">0</span>
     
 </span>
 
@@ -14321,8 +14202,6 @@ Kennt ihr diese Gerichte, die man schnell schnell vorbereitet, weil man wieder e
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-01-20-pasta-con-fagioli-e-patate-de/">0</span>
     
 </span>
 
@@ -14506,8 +14385,6 @@ Es ist so kalt, es schneit, es ist alles weiss... wunderschön! Ich muss aber sa
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-03-01-lasagne-al-pesto-de/">0</span>
-    
 </span>
 
     
@@ -14599,8 +14476,6 @@ Passiert euch auch, dass ihr etwas bestimmtes kochen möchtet, dann geht ihr ein
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-03-20-pasta-primavera-de/">0</span>
     
 </span>
 
@@ -14809,8 +14684,6 @@ Letzte Woche konnte ich endlich die Winterjacken auf die Seite legen, nicht vers
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-04-24-risotto-agli-asparagi-profumato-al-limone-de/">0</span>
-    
 </span>
 
     
@@ -14888,8 +14761,6 @@ Leider mache ich nicht so viele Gerichte mit Reis... Ich weiss gar nicht wieso, 
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-05-03-insalata-di-pasta-primaverile-de/">0</span>
     
 </span>
 
@@ -14990,8 +14861,6 @@ Könnt ihr euch an die Ruote Pasta erinnern? Ich hatte sie seit Jahren nicht meh
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-06-01-pasta-con-pomodori-secchi-e-fiori-di-zucca-de/">0</span>
     
 </span>
 
@@ -15231,8 +15100,6 @@ Entschuldigt die lange Abwesenheit, wir waren bei den Verwandten in Sizilien... 
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-08-18-linguine-con-pesto-all-eoliana-de/">0</span>
-    
 </span>
 
     
@@ -15327,8 +15194,6 @@ Im Mai, als wir in Sizilien waren, hat meine Cousine Pasta mit diesem Pesto nach
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-08-31-risotto-al-pomodoro-con-verdure-alle-erbe-aromatiche-de/">0</span>
     
 </span>
 
@@ -15766,8 +15631,6 @@ Naja, auch dieses Jahr geht der Sommer langsam zu Ende... Seit ein paar Tagen is
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-02-01-reginette-con-pesto-di-noci-e-ricotta-e-radicchio-croccante-de/">0</span>
-    
 </span>
 
     
@@ -15867,8 +15730,6 @@ Reginette mit Ricotta-Walnuss-Pesto und knackigem Radicchio, ein super leckeres 
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-02-20-pasta-con-broccoli-de/">0</span>
-    
 </span>
 
     
@@ -15929,8 +15790,6 @@ Pasta mit Broccoli ist einer dieser Gerichte, von dem ich nie genug haben kann. 
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-02-23-zuppa-di-fagioli-e-cavolo-nero-de/">0</span>
     
 </span>
 
@@ -16278,8 +16137,6 @@ Schwarzkohl-Bohnen-Suppe, genau das, was wir mit dieser Kälte brauchen! Eigentl
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-07-17-pasta-con-pomodoro-fresco-de/">0</span>
-    
 </span>
 
     
@@ -16364,8 +16221,6 @@ Pasta mit frischen Tomaten, ein super schnelles Rezept mit wenigen Zutaten, welc
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-08-30-crepes-farcite-con-verdure-estive-e-feta-de/">0</span>
     
 </span>
 
@@ -18588,8 +18443,6 @@ Gefüllte Crêpes mit Sommergemüse und Feta, ein perfektes Gericht, um Gemüse 
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-04-11-frittata-di-agretti-senza-uova-de/">0</span>
-    
 </span>
 
     
@@ -18809,8 +18662,6 @@ In ein paar Tagen feiern wir nicht nur Ostern, sondern auch ein spezieller Gebur
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-06-14-friggitelli-in-padella-de/">0</span>
     
 </span>
 
@@ -19726,8 +19577,6 @@ Diese langen grünen Paprikaschoten in der Bratpfanne sind einfach himmlisch. Da
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-06-06-feta-e-pomodorini-al-forno-con-capperi-e-olive-de/">0</span>
     
 </span>
 
@@ -20750,8 +20599,6 @@ Gebackener Feta mit Tomaten, Kapern und Oliven, ein schnelles Essen mit wenigen 
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2019-05-08-asparagi-in-padella-al-limone-de/">0</span>
-    
 </span>
 
     
@@ -20851,8 +20698,6 @@ Gebratene Spargeln mit Zitrone, eine leichte und schnelle Beilage um diese genia
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2019-06-06-fiori-di-zucca-farciti-con-patate-ed-erbe-aromatiche-de/">0</span>
-    
 </span>
 
     
@@ -20947,8 +20792,6 @@ Kürbisblüten gefüllt mit Kartoffeln und Kräutern, eine delikate Vorspeise od
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2019-07-10-insalata-di-ceci-con-pomodori-cetrioli-avocado-de/">0</span>
     
 </span>
 
@@ -21113,8 +20956,6 @@ Kichererbsensalat mit Tomaten, Gurken und Avocado ein sehr gesunder, vollwertige
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2019-09-26-zucca-funghi-pomodori-al-forno-de/">0</span>
     
 </span>
 
@@ -21486,8 +21327,6 @@ Kürbis, Pilze und Tomaten im Ofen, eine einfache, aromatische und vegane herbst
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-09-14-zucca-al-forno-con-cipolle-in-agrodolce-de/">0</span>
     
 </span>
 
@@ -22533,8 +22372,6 @@ Ich glaube ich glaube der Herbst kommt... und da beginnen wir auch mit den erste
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-07-04-insalata-di-patate-e-fagiolini-de/">0</span>
-    
 </span>
 
     
@@ -22659,8 +22496,6 @@ Dieser Salat bedeutet für mich SOMMER! Dieses Gericht ist so einfach, hat aber 
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-08-01-insalata-con-pesche-lamponi-e-feta-de/">0</span>
-    
 </span>
 
     
@@ -22722,8 +22557,6 @@ Diesen Salat mit Pfirsich, Himbeeren und Fetakäse wollte ich schon seit langer 
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-08-09-insalata-di-anguria-e-feta-de/">0</span>
     
 </span>
 
@@ -22883,8 +22716,6 @@ Im Sommer essen wir sehr viel Wassermelone, aber ich hab sie nie anderes als pur
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-09-19-zucca-spaghetti-con-sugo-al-pomodoro-de/">0</span>
     
 </span>
 
@@ -23111,8 +22942,6 @@ Tadaaa, beginnen wir mit dem ersten Kürbisrezept. Heute gibt es aber einen spez
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-11-14-baked-potatoes-al-forno-con-creme-fraiche-de/">0</span>
-    
 </span>
 
     
@@ -23272,8 +23101,6 @@ Dieses Rezept könnte euch das Mittag- oder Abendessen retten, wenn ihr nicht wi
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-01-17-rosti-muffins-de/">0</span>
     
 </span>
 
@@ -23541,8 +23368,6 @@ Mögt ihr Rösti? Ich sehr, leider muss ich aber noch etwas üben für das Origi
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-04-10-frittata-al-forno-con-verdure-e-feta-de/">0</span>
     
 </span>
 
@@ -23910,8 +23735,6 @@ Ofen-Frittata mit Gemüse und Fetakäse, zusammen mit einer Scheibe Brot essen u
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-10-04-zucca-al-forno-con-formaggio-feta-e-salvia-de/">0</span>
-    
 </span>
 
     
@@ -24048,8 +23871,6 @@ Ofenkürbis mit Fetakäse und Salbei, eine leckere Beilage, die ohne grossen Auf
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-11-20-barbabietola-al-cartoccio-con-erbette-e-sale-grosso-de/">0</span>
     
 </span>
 
@@ -24873,8 +24694,6 @@ Gebackene rote Bete in Folie mit Kräutern und grobem Salz als Beilage oder zur 
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2019-07-10-insalata-di-ceci-con-pomodori-cetrioli-avocado-de/">0</span>
-    
 </span>
 
     
@@ -24969,8 +24788,6 @@ Kichererbsensalat mit Tomaten, Gurken und Avocado ein sehr gesunder, vollwertige
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2019-08-22-zuppa-di-pomodori-arrosto-de/">0</span>
     
 </span>
 
@@ -25305,8 +25122,6 @@ Geröstete Tomatensuppe für diese Spätsommertage, die sehr nach Herbst riechen
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-08-21-zuppa-di-verdure-estive-grigliate-con-riso-basmati-de/">0</span>
-    
 </span>
 
     
@@ -25433,8 +25248,6 @@ In den letzten Tagen gab es ein echt übler Temperatursturz! Ich musste die Lang
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-09-06-peperoni-ripieni-di-cous-cous-de/">0</span>
     
 </span>
 
@@ -25601,8 +25414,6 @@ Mit dem Beginn des Monats September, wollte ich eigentlich mit herbstlichen Reze
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-10-07-zucca-al-forno-con-riso-rosso-de/">0</span>
-    
 </span>
 
     
@@ -25691,8 +25502,6 @@ Jaaaaaa, Halloween kommt näher, juhuuu! Ich freue mich so drauf, ich kann es ka
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-10-14-panelle-de/">0</span>
     
 </span>
 
@@ -25848,8 +25657,6 @@ Was ist das eigentlich? Panelle sind kleine Bratlinge aus Kichererbsenmehl, eine
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-11-07-flaedlisuppe-de/">0</span>
     
 </span>
 
@@ -27125,8 +26932,6 @@ Dieses Rezept errinnert mich an eine sehr spezielle Person, Santina! Als wir noc
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-01-10-vellutata-arancione-e-scones-salati-con-spinaci-e-feta-de/">0</span>
-    
 </span>
 
     
@@ -27250,8 +27055,6 @@ Wie wäre es, wenn wir das neue Jahr mit dieser Orangen Cremesuppe und herzhafte
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-01-25-crepes-integrali-senza-uova-con-rucola-parmigiano-e-noci-de/">0</span>
     
 </span>
 
@@ -27520,8 +27323,6 @@ Diese Vollkorn-Crêpe ohne Eier mit Rucola, Parmesan und Walnüssen habe ich vor
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-05-08-patate-dolci-cotte-al-forno-con-pomodori-e-cetrioli-de/">0</span>
-    
 </span>
 
     
@@ -27619,8 +27420,6 @@ Gebackene Süsskartoffeln mit Tomaten und Gurken, ein leckeres und gesundes komp
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-06-06-feta-e-pomodorini-al-forno-con-capperi-e-olive-de/">0</span>
     
 </span>
 
@@ -27740,8 +27539,6 @@ Gebackener Feta mit Tomaten, Kapern und Oliven, ein schnelles Essen mit wenigen 
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-07-12-insalata-di-riso-nero-con-zucchine-pomodori-secchi-e-feta-de/">0</span>
     
 </span>
 
@@ -27945,8 +27742,6 @@ Schwarzer Reissalat mit Zucchini, getrockneten Tomaten und Feta ein buntes, fris
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-10-12-panino-con-funghi-pleurotus-grigliati-e-raclette-de/">0</span>
     
 </span>
 
@@ -28575,8 +28370,6 @@ Brötchen mit gegrillten Austernpilzen und Raclette, denn selbst wenn wir wenig 
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2015-11-20-pizza-con-radicchio-pere-e-gorgonzola-de/">0</span>
-    
 </span>
 
     
@@ -28737,8 +28530,6 @@ Vor einiger Zeit habe ich dieses Rezept im Fernseher gesehen. Beim Anblick diese
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2019-03-28-treccia-salata-farcita-con-salsa-al-pomodoro-spinaci-mozzarella-de/">0</span>
     
 </span>
 
@@ -29012,8 +28803,6 @@ Herzhafter Hefezopf gefüllt mit Tomatensauce, Spinat und Mozzarella, schön flu
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2019-08-29-pane-farcito-con-parmigiana-di-melanzane-de/">0</span>
     
 </span>
 
@@ -29294,8 +29083,6 @@ Brot gefüllt mit Auberginen, Tomatensauce und Mozzarella. Ein Rezept, das viele
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-08-08-focaccia-in-padella-de/">0</span>
-    
 </span>
 
     
@@ -29408,8 +29195,6 @@ Heute ist wirklich ein schöner Tag, das bedeutet wenig Zeit zum Kochen aber der
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-08-25-pane-con-pomodori-secchi-in-casseruola-de/">0</span>
     
 </span>
 
@@ -29581,8 +29366,6 @@ Ich habe schon lange kein Brot mehr gebacken, ist ja kein Wunder, wenn es warm i
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-09-26-pan-brioche-farcito-de/">0</span>
     
 </span>
 
@@ -29791,8 +29574,6 @@ Ich hab euch noch gar nicht von Fabulousity.it erzählt! Fabulousity ist eine Pl
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-10-28-panini-alla-zucca-de/">0</span>
     
 </span>
 
@@ -30162,8 +29943,6 @@ Brot backen, das möchte ich perfektionieren! Brot sollte, meiner Meinung nach, 
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-01-26-pane-ai-semi-oleosi-de/">0</span>
-    
 </span>
 
     
@@ -30283,8 +30062,6 @@ Vor ein Paar Wochen, haben mich die Instamamme gefragt, ob ich zusammen mit ande
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-02-17-pane-farcito-con-verdura-e-feta-de/">0</span>
-    
 </span>
 
     
@@ -30400,8 +30177,6 @@ Folgende Situation: Ihr habt soeben gefrühstückt, ihr macht den Kühlschrank a
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-03-10-pizza-margherita-de/">0</span>
-    
 </span>
 
     
@@ -30475,8 +30250,6 @@ Ich habe schon öfters auf Instagram Fotos meiner Pizza veröffentlicht, aber ei
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-03-17-ciambelle-vegan-di-patate-cotte-al-forno-de/">0</span>
     
 </span>
 
@@ -30717,8 +30490,6 @@ Alles Liebe zum Geburtstag Ladan! Wir kennen uns schon seit mehr als 10 Jahren, 
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-05-09-focaccia-dolce-al-rabarbaro-de/">0</span>
-    
 </span>
 
     
@@ -30785,8 +30556,6 @@ Nachdem ich etwas Osterschokolade verbraucht habe (also, etwas ist ein wenig unt
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-05-12-panini-veloci-allo-yogurt-de/">0</span>
     
 </span>
 
@@ -31270,8 +31039,6 @@ Also, meine Tochter liebt Sandwiches! Jedes Mal wenn sie Brot isst, macht sie ei
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-11-02-berliner-vegani-al-forno-de/">0</span>
-    
 </span>
 
     
@@ -31335,8 +31102,6 @@ Vor einiger Zeit habe ich dank Instagram Meine Backbox entdeckt. Alle zwei Monat
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-10-30-pumpkin-cinnamon-rolls-de/">0</span>
     
 </span>
 
@@ -31487,8 +31252,6 @@ Morgen ist Halloween und damit endet auch der Monat Oktober... Dieser Monat ist 
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-12-14-pandoro-facile-de/">0</span>
     
 </span>
 
@@ -31719,8 +31482,6 @@ Letztes Jahr habe ich den einfachen Panettone von Chiarapassion gebacken und es 
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-03-01-pan-brioche-alla-ricotta-profumato-alla-vaniglia-de/">0</span>
-    
 </span>
 
     
@@ -31823,8 +31584,6 @@ Ricotta-Brioche mit Vanilleduft, fluffig wie ein Wölkchen und erstaundlich leck
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-03-22-focaccia-farcita-con-farinata-e-scarola-de/">0</span>
     
 </span>
 
@@ -32322,8 +32081,6 @@ Focaccia gefüllt mit Kichererbsen Omelette und Endivie, achtung hohes Suchtpote
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-11-26-pane-di-patate-viola-de/">0</span>
-    
 </span>
 
     
@@ -32678,8 +32435,6 @@ Violettes Kartoffelbrot mit schöner Farbe und herrlichem Duft. In Wirklichkeit 
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2014-10-31-treccia-salata-ripiena-di-zucca-e-patate-de/">0</span>
     
 </span>
 
@@ -33170,8 +32925,6 @@ Heute gibt es eine Kürbisoverdose! Wir haben einen grossen Kürbis gekauft und 
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2019-06-21-galette-integrale-con-pesto-pomodori-e-feta-de/">0</span>
-    
 </span>
 
     
@@ -33633,8 +33386,6 @@ Vollkorn-Galette mit Pesto, Tomaten und Feta... perfekt, um meine Lieblingsjahre
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-08-31-plumcake-salato-estivo-de/">0</span>
-    
 </span>
 
     
@@ -33921,8 +33672,6 @@ Auf Wiedersehen August, wir sehen uns nächstes Jahr wieder! August ist ein komi
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-10-26-galette-integrale-alla-zucca-con-feta-e-miele-de/">0</span>
-    
 </span>
 
     
@@ -34103,8 +33852,6 @@ Nach der superschokoladigen Black Beauty und den Kürbisgnocchi mit Gorgonzolasa
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-11-28-plumcake-salato-autunnale-de/">0</span>
     
 </span>
 
@@ -34559,8 +34306,6 @@ Der November ist ein bisschen so... die Gedanken bereits in weihnachtlicher Stim
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-03-28-sfoglia-con-asparagi-e-insalata-di-radicchio-e-mango-de/">0</span>
-    
 </span>
 
     
@@ -34631,8 +34376,6 @@ In etwas mehr als zwei Wochen ist schon Ostern, darum werden die nächsten Rezep
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-04-04-torta-di-carote-salata-de/">0</span>
     
 </span>
 
@@ -34743,8 +34486,6 @@ Heute zeige ich euch einen herzhaften Kuchen für Ostern oder für den Ostermont
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-04-21-torta-salata-con-carciofi-e-patate-de/">0</span>
     
 </span>
 
@@ -34958,8 +34699,6 @@ Vor ein paar Wochen hatte ich etwas vorige Zeit um einige Blogs anzuschauen, wel
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-06-27-tarte-tatin-integrale-con-carote-novelle-e-cipollotti-de/">0</span>
     
 </span>
 
@@ -35714,8 +35453,6 @@ Vor ca. zwei Monaten, habe ich ein paar Kochhefte meiner Mutter ausgeliehen. Ich
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-03-22-focaccia-farcita-con-farinata-e-scarola-de/">0</span>
-    
 </span>
 
     
@@ -35921,8 +35658,6 @@ Focaccia gefüllt mit Kichererbsen Omelette und Endivie, achtung hohes Suchtpote
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-06-26-torta-salata-con-erbette-e-ricotta-de/">0</span>
     
 </span>
 
@@ -36858,8 +36593,6 @@ Ricotta-Kräuter-Quiche, ausgezeichnet sowohl kalt als auch warm und perfekt, um
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2019-03-18-muffin-salati-alle-carote-vegani-con-insalata-di-spinaci-mele-nocciole-de/">0</span>
     
 </span>
 
@@ -38980,8 +38713,6 @@ Herzhafte vegane Karotten-Muffins mit Spinat-Apfel-Haselnuss-Salat für ein leic
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-01-17-rosti-muffins-de/">0</span>
-    
 </span>
 
     
@@ -40302,8 +40033,6 @@ Mögt ihr Rösti? Ich sehr, leider muss ich aber noch etwas üben für das Origi
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2019-04-02-nidi-di-biscotti-al-cocco-de/">0</span>
-    
 </span>
 
     
@@ -41258,8 +40987,6 @@ Kokosmakronen-Nestchen, gemacht aus nur drei Zutaten, schön als Tischkarte mit 
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-12-01-biscotti-matcha-e-zenzero-de/">0</span>
-    
 </span>
 
     
@@ -41367,8 +41094,6 @@ Vor zwei Jahren war ich an einem veganen Backkurs. Dort haben wir ganz viele lec
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-12-20-sprinkle-cookies-de/">0</span>
     
 </span>
 
@@ -42248,8 +41973,6 @@ An Halloween, habe ich für die Arbeitskollegen meiner Schwester Cupcakes geback
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-09-28-biscotti-vegan-con-frutta-secca-e-cioccolato-bianco-de/">0</span>
-    
 </span>
 
     
@@ -42327,8 +42050,6 @@ Wie hat bei euch der Herbst begonnen? Hier ein Traum... Wir stehen mit dem Nebel
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-10-05-vegan-brownies-alla-zucca-e-cioccolato-de/">0</span>
     
 </span>
 
@@ -42790,8 +42511,6 @@ Oktober bedeutet für mich Kürbis, darum werde ich euch viele Kürbisrezepte ze
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-03-27-biscotti-vegani-alle-carote-de/">0</span>
-    
 </span>
 
     
@@ -42917,8 +42636,6 @@ Vegane Karotten-Plätzchen, perfekt zum Frühstück oder als Snack. Ohne Butter,
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-05-04-cornetti-ripieni-di-rabarbaro-e-crema-frangipane-de/">0</span>
     
 </span>
 
@@ -43365,8 +43082,6 @@ Rhabarber-Frangipane-Hörnchen, um die Rhabarber-Saison einzuläuten, die ich so
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-12-04-mini-tortine-multigusto-de/">0</span>
-    
 </span>
 
     
@@ -43552,8 +43267,6 @@ Mini Küchlein mit verschiedenen Geschmäcken, ein einzelner Teig, drei verschie
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2014-01-28-torta-di-zucchine-de/">0</span>
     
 </span>
 
@@ -43927,8 +43640,6 @@ Zucchinikuchen, ein einfacher und guter Kuchen. Dank den Zucchini im Inneren, bl
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2015-11-13-vermicelles-cake-de/">0</span>
-    
 </span>
 
     
@@ -44058,8 +43769,6 @@ Als ich noch arbeitete, brachte meine liebe Freundin Lucia im Herbst immer diese
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2019-01-15-pan-darancio-de/">0</span>
-    
 </span>
 
     
@@ -44125,8 +43834,6 @@ Sizilianischer Orangenkuchen, ein fluffiger und saftiger Kuchen, der nach Orange
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2019-02-19-torta-soffice-alle-mele-de/">0</span>
     
 </span>
 
@@ -44197,8 +43904,6 @@ Fluffiger Apfelkuchen... hoch, fluffig und voller Äpfel! Delikat im Geschmack m
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2019-02-11-cheesecake-ai-lamponi-de/">0</span>
     
 </span>
 
@@ -44306,8 +44011,6 @@ Himbeer-Cheesecake für alle Liebhaber delikater und cremiger Desserts... Zum Va
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2019-04-10-quadrotti-al-rabarbaro-con-crumble-alla-menta-de/">0</span>
-    
 </span>
 
     
@@ -44391,8 +44094,6 @@ Rhabarber-Blechkuchen mit Minze-Crumble... geschmeidig, schmelzend, knusprig, sa
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2019-05-14-torta-all-acqua-con-rabarbaro-e-cioccolato-bianco-de/">0</span>
     
 </span>
 
@@ -44542,8 +44243,6 @@ Wasserkuchen mit Rhabarber und weisser Schokolade, ein perfektes Gleichgewicht z
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2019-07-02-rotolo-di-meringa-farcito-con-crema-al-mascarpone-e-fragole-de/">0</span>
-    
 </span>
 
     
@@ -44652,8 +44351,6 @@ Meringue-Rolle mit Mascarpone-Crème und Erdbeeren, ein leichtes und frisches W�
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2019-09-03-torta-di-more-e-pere-de/">0</span>
-    
 </span>
 
     
@@ -44759,8 +44456,6 @@ Brombeer-Birnen-Kuchen, mürbe mit einer fruchtigen und köstlichen Füllung! Di
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2019-10-23-torta-brownie-per-Halloween-de/">0</span>
     
 </span>
 
@@ -44938,8 +44633,6 @@ Brownie-Kuchen für Halloween, super schokoladig, schmilzt auf der Zunge und ist
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-08-02-ciambella-variegata-alle-more-de/">0</span>
     
 </span>
 
@@ -45194,8 +44887,6 @@ Willkommen August, aber vor allem willkommen deutschsprechende Blogleser! Ab heu
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-09-24-torta-cioccolato-e-pere-de/">0</span>
-    
 </span>
 
     
@@ -45279,8 +44970,6 @@ Mit dem Herbstbeginn werden auch unsere Desserts knuddeliger, deftiger und die K
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-09-16-torta-soffice-con-gocce-di-cioccolato-de/">0</span>
-    
 </span>
 
     
@@ -45333,8 +45022,6 @@ Passiert es euch auch, dass ihr manchmal ganz plötzlich Lust auf einen einfache
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-10-04-banana-bread-de/">0</span>
     
 </span>
 
@@ -45419,8 +45106,6 @@ Wie oft ist es euch schon passiert, dass ihr Bananen gekauft habt und diese schw
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-10-10-fluffosa-alla-zucca-e-spezie-de/">0</span>
     
 </span>
 
@@ -45516,8 +45201,6 @@ Der letzte Chiffon Cake ist schon lange her. Aber welchen mache ich jetzt? Im Bu
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-10-18-black-beauty-de/">0</span>
     
 </span>
 
@@ -45632,8 +45315,6 @@ Heute blasen wir 3 Kerzen aus, denn mein Blog wird heute 3 Jahre alt! Dieser Blo
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-10-30-mudcake-con-chantilly-al-mascarpone-de/">0</span>
     
 </span>
 
@@ -45752,8 +45433,6 @@ Wir haben gestern Abend bereits Halloween gefeiert, darum gibt es den Halloween-
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-11-18-fluffosa-alla-frutta-secca-con-caramello-croccante-de/">0</span>
     
 </span>
 
@@ -45890,8 +45569,6 @@ Mein Pappi hat letzten Sonntag sein 57. Geburtstag gefeiert. Ein paar Wochen dav
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-12-12-ciambella-arancia-e-cranberries-de/">0</span>
     
 </span>
 
@@ -46055,8 +45732,6 @@ Dieses Jahr wollen die guten Orangen einfach nicht in unsere Läden, ich kann es
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-01-18-torta-rovesciata-alle-arance-vegan-de/">0</span>
-    
 </span>
 
     
@@ -46128,8 +45803,6 @@ Nach all diesen Weihnachtssüssigkeiten mussten wir eine Pause einlegen. Wir hat
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-01-23-torta-di-mele-cremosa-vegan-de/">0</span>
     
 </span>
 
@@ -46206,8 +45879,6 @@ Gestern waren wir in einem Wasserpark hier in der Nähe, die Kleinen hatten rich
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-01-30-caprese-al-cioccolato-de/">0</span>
     
 </span>
 
@@ -46301,8 +45972,6 @@ Habt ihr auch das Gefühl, dass der Monat Januar einfach nicht enden wollte? Es 
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-02-13-ciambella-al-triplo-cioccolato-de/">0</span>
     
 </span>
 
@@ -46410,8 +46079,6 @@ Eigentlich wollte ich vor dem Valentinstag keine süssen Rezepte mehr posten, je
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-03-06-torta-mimosa-al-limone-con-chantilly-al-mascarpone-de/">0</span>
     
 </span>
 
@@ -46523,8 +46190,6 @@ Letzten Freitag hat mich meine Cousine besucht. Sie ist nach dem Mittag gekommen
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-03-23-quadrotti-ai-frutti-di-bosco-de/">0</span>
     
 </span>
 
@@ -46651,8 +46316,6 @@ Eigentlich wollte ich einen Zitronen Chiffon Cake letzten Sonntag zum Vatertag b
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-04-07-torta-di-carote-con-crema-al-pistacchio-de/">0</span>
-    
 </span>
 
     
@@ -46715,8 +46378,6 @@ Nach dem herzhaften Carrot Cake vom letzten Montag, gibt es heute einen süssen 
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-04-19-torta-al-cioccolato-due-ingredienti-de/">0</span>
     
 </span>
 
@@ -46823,8 +46484,6 @@ Wie waren eure Ostertage? Bei uns alles gut! Wir wollten am Ostersonntag die Eie
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-04-28-torta-al-cioccolato-e-zucchine-de/">0</span>
     
 </span>
 
@@ -46946,8 +46605,6 @@ Ich hatte euch noch einen Kuchen für den Abbau vom Schokovorrat versprochen... 
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-06-08-torta-all-acqua-con-fragole-e-cioccolato-de/">0</span>
     
 </span>
 
@@ -47081,8 +46738,6 @@ Hallo Zusammen! Diesen Kuchen hatte ich schon vor unseren Ferien gebacken, ich w
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-07-10-torta-soffice-alle-pesche-de/">0</span>
-    
 </span>
 
     
@@ -47143,8 +46798,6 @@ Ist der Pfirsichduft nicht herrlich? Sobald die Pfirsichsaison begonnen hat, hab
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-07-19-torta-con-crema-al-formaggio-e-lamponi-de/">0</span>
     
 </span>
 
@@ -47219,8 +46872,6 @@ Ich war auf Pinterest auf der Suche nach einfachen Frisuren und wieso auch immer
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-07-28-fluffosa-al-cioccolato-de/">0</span>
     
 </span>
 
@@ -47332,8 +46983,6 @@ Eigentlich waren zwei erfrischende Desserts geplant gewesen, doch diese Woche ha
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-08-21-torta-7-vasetti-ai-frutti-di-bosco-de/">0</span>
     
 </span>
 
@@ -47479,8 +47128,6 @@ Heute ist ein ganz spezieller Tag... Unsere Tochter geht zum ersten Mal in den K
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-09-22-sbriciolata-con-crema-di-nocciole-ricotta-e-pere-de/">0</span>
-    
 </span>
 
     
@@ -47615,8 +47262,6 @@ Heute beginnt ganz offiziell der Herbst! Endlich... Am Dienstag musste Mein Mann
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-10-18-ciambella-alla-zucca-con-cuore-cremoso-alla-cannella-de/">0</span>
     
 </span>
 
@@ -47872,8 +47517,6 @@ Ja ja, genau vor 4 Jahren habe ich auf dem Blog mein erstes Rezept veröffentlic
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-01-23-fluffosa-variegata-al-cacao-e-arancia-de/">0</span>
-    
 </span>
 
     
@@ -48042,8 +47685,6 @@ Ich muss euch eine kleine Geschichte über diesen Kakao-Orangen-Marmor-Chiffon C
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-03-09-torta-vegana-all-arancia-con-gocce-di-cioccolato-de/">0</span>
-    
 </span>
 
     
@@ -48115,8 +47756,6 @@ Veganer Orangenkuchen mit Schokostückchen, im Nu vorbereitet und gefällt Gross
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-03-14-torta-tiramisu-de/">0</span>
-    
 </span>
 
     
@@ -48178,8 +47817,6 @@ Tiramisu-Torte, eine ausgezeichnete Alternative zum klassischen Tiramisù, perfe
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-03-20-torta-di-carote-cremosa-de/">0</span>
     
 </span>
 
@@ -48302,8 +47939,6 @@ Cremiger Karottenkuchen, zart im Geschmack und zergeht auf der Zunge! Ostern kom
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-04-17-torta-alle-fragole-con-crema-chantilly-de/">0</span>
-    
 </span>
 
     
@@ -48414,8 +48049,6 @@ Erdbeertorte mit Vanillecreme, ein Klassiker der schweizer Konditorei. In der Sc
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-05-23-torta-vegana-ai-pistacchi-e-rabarbaro-de/">0</span>
-    
 </span>
 
     
@@ -48476,8 +48109,6 @@ Veganer Pistazien-Rhabarber-Kuchen, ein super leckeres und saftiges Dessert! Abe
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-05-30-torta-al-latte-caldo-e-caffe-de/">0</span>
     
 </span>
 
@@ -48559,8 +48190,6 @@ Hot Milk Cake mit Kaffee, ein perfekter Frühstückskuchen der unbedingt in den 
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-06-21-torta-vegana-al-limone-con-frutta-estiva-e-semi-di-papavero-de/">0</span>
-    
 </span>
 
     
@@ -48637,8 +48266,6 @@ Veganer Zitronenkuchen mit Sommerfrüchten und Mohnsamen, ein leichter, frischer
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-07-04-sbriciolata-alle-pesche-con-rosmarino-de/">0</span>
     
 </span>
 
@@ -48749,8 +48376,6 @@ Pfirsich-Streuselkuchen mit Rosmarin, hört sich seltsam an, aber ich versichere
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-08-24-torta-vegana-allo-yogurt-con-prugne-e-cannella-de/">0</span>
-    
 </span>
 
     
@@ -48852,8 +48477,6 @@ Veganer Joghurtkuchen mit Zwetschgen und Zimt, aber er könnte auch Spätsommer-
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-09-13-crostata-con-frutti-di-bosco-e-crema-di-ricotta-de/">0</span>
-    
 </span>
 
     
@@ -48930,8 +48553,6 @@ Beeren-Quark-Tarte... Mürbeteig, Beeren und Quark. Muss man da noch etwas ergä
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-09-26-torta-di-ricotta-con-gocce-di-cioccolato-de/">0</span>
-    
 </span>
 
     
@@ -48991,8 +48612,6 @@ Ricottakuchen mit Schokostückchen, ein einfacher Kuchen mit wenigen aber guten 
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-10-01-torta-di-mele-succosa-e-cremosa-de/">0</span>
     
 </span>
 
@@ -49116,8 +48735,6 @@ Saftiger und cremiger Apfelkuchen... Saftig, weil er voller Apfelstücke ist. Cr
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-11-06-fluffosa-vegana-con-pere-e-cioccolato-de/">0</span>
-    
 </span>
 
     
@@ -49184,8 +48801,6 @@ Veganer Chiffon Cake mit Birnen und Schokolade, um den November willkommen zu he
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-10-10-torta-rustica-vegana-alle-nocciole-e-mele-de/">0</span>
-    
 </span>
 
     
@@ -49240,8 +48855,6 @@ Rustikaler veganer Kuchen mit Haselnüssen und Äpfeln, ein herbstlicher Kuchen 
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-11-16-torta-soffice-con-melograno-de/">0</span>
     
 </span>
 
@@ -49412,8 +49025,6 @@ Blechkuchen mit Granatapfel, ideal für den z&#39;Vieri oder zusammen mit einem 
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2013-11-10-sfoglia-di-mele-con-crema-alla-vaniglia-de/">0</span>
     
 </span>
 
@@ -50202,8 +49813,6 @@ Immer am 10. jedes Monats backe ich einen Kuchen um den Monatstag unserer Tochte
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2019-09-03-torta-di-more-e-pere-de/">0</span>
-    
 </span>
 
     
@@ -50548,8 +50157,6 @@ Brombeer-Birnen-Kuchen, mürbe mit einer fruchtigen und köstlichen Füllung! Di
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-08-28-galette-alle-pesche-e-frutti-rossi-de/">0</span>
     
 </span>
 
@@ -50916,8 +50523,6 @@ Das Ende des Sommers kommt immer näher... auch wenn es gerade sehr heiss ist! V
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-11-11-frolla-con-crema-alla-vaniglia-e-mele-de/">0</span>
     
 </span>
 
@@ -51891,8 +51496,6 @@ Ach, nach der Zeitumstellung wird es Abends, nein Nachmittags sehr früh dunkel 
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-09-13-crostata-di-mele-prugne-e-cannella-de/">0</span>
-    
 </span>
 
     
@@ -52070,8 +51673,6 @@ Habt ihr auch ein Dessert, dass ihr sehr gerne mögt aber aus unerklärlichen Gr
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-10-13-crostata-al-cioccolato-di-ernst-knam-de/">0</span>
-    
 </span>
 
     
@@ -52193,8 +51794,6 @@ Ich erzähle euch eine kleine Geschichte... Vor ein paar Wochen hat mir meine Sc
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-11-20-linzertorte-vegana-de/">0</span>
     
 </span>
 
@@ -52431,8 +52030,6 @@ Ich weiss, ich weiss es ist noch etwas früh für weihnachtliche Desserts... Dar
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-02-16-crostata-di-frolla-montata-e-cioccolato-kinder-de/">0</span>
     
 </span>
 
@@ -52878,8 +52475,6 @@ Der Mürbeteigkuchen mit kinder Schokolade ist die Antwort, wenn ihr nicht wisst
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-09-13-crostata-con-frutti-di-bosco-e-crema-di-ricotta-de/">0</span>
     
 </span>
 
@@ -57582,8 +57177,6 @@ Beeren-Quark-Tarte... Mürbeteig, Beeren und Quark. Muss man da noch etwas ergä
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-09-09-berry-pie-de/">0</span>
-    
 </span>
 
     
@@ -59380,8 +58973,6 @@ Alles Gute zum Geburtstag Samy, auch du näherst dich den 30! Dieser Kuchen ist 
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-04-24-cream-tart-al-limone-de/">0</span>
-    
 </span>
 
     
@@ -59743,8 +59334,6 @@ Zitronen Cream Tart... frisch, cremig, mürbe, beeindruckend und einfach! Es hat
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-10-18-cream-tart-al-cacao-de/">0</span>
     
 </span>
 
@@ -60136,8 +59725,6 @@ Kakao-Cream Tart um 5 Jahre meines Blogs zu feiern! Ein super einfaches Dessert 
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2014-08-24-crumble-di-prugne-de/">0</span>
     
 </span>
 
@@ -60559,8 +60146,6 @@ Vor ein paar Tagen habe ich eine wunderschöne neue Kuchenform gekauft und wollt
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2019-04-10-quadrotti-al-rabarbaro-con-crumble-alla-menta-de/">0</span>
     
 </span>
 
@@ -62127,8 +61712,6 @@ Rhabarber-Blechkuchen mit Minze-Crumble... geschmeidig, schmelzend, knusprig, sa
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-06-22-crumble-di-ciliegie-e-fragole-de/">0</span>
-    
 </span>
 
     
@@ -63069,8 +62652,6 @@ Mürbeteig und gekochte Früchte, das Traumpaar! Der Mürbeteig- und Früchteduf
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-07-04-sbriciolata-alle-pesche-con-rosmarino-de/">0</span>
-    
 </span>
 
     
@@ -63546,8 +63127,6 @@ Pfirsich-Streuselkuchen mit Rosmarin, hört sich seltsam an, aber ich versichere
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2014-03-07-strudel-ai-mirtilli-de/">0</span>
     
 </span>
 
@@ -67329,8 +66908,6 @@ Heidelbeer-Strudel, ein Dessert, welches in letzter Minute gemacht werden kann. 
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2019-02-11-cheesecake-ai-lamponi-de/">0</span>
-    
 </span>
 
     
@@ -67864,8 +67441,6 @@ Himbeer-Cheesecake für alle Liebhaber delikater und cremiger Desserts... Zum Va
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-08-10-no-bake-cheesecake-ai-lamponi-e-pistacchi-de/">0</span>
-    
 </span>
 
     
@@ -67924,8 +67499,6 @@ Ich hatte Lust auf Cheesecake. Punkt. Und wenn ich auf etwas spezielles Lust hab
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-08-19-no-bake-cheesecake-al-cioccolato-de/">0</span>
     
 </span>
 
@@ -68051,8 +67624,6 @@ Uuups, I did it again! Naja, ich wiederhohle mich, aber ich habe nochmals eine n
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-09-03-no-bake-cheesecake-al-limone-de/">0</span>
     
 </span>
 
@@ -69171,8 +68742,6 @@ Diesen Post widme ich Dir. Vor 5 Jahren hast du vor dem Altar auf mich gewartet 
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-07-19-torta-con-crema-al-formaggio-e-lamponi-de/">0</span>
-    
 </span>
 
     
@@ -69601,8 +69170,6 @@ Ich war auf Pinterest auf der Suche nach einfachen Frisuren und wieso auch immer
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-12-01-cheesecake-all-arancia-con-salsa-mou-e-noci-pecan-de/">0</span>
     
 </span>
 
@@ -72724,8 +72291,6 @@ Juhuuuuuu im Hause Raiano hat die Weihnachtszeit offiziell begonnen! Meine Tocht
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-09-05-cobbler-di-more-de/">0</span>
-    
 </span>
 
     
@@ -73864,8 +73429,6 @@ Ist auch bei euch der Herbst eingetroffen? Hier definitv ja, und wie! Am letzten
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2014-01-14-muffin-con-mirtilli-e-cioccolato-de/">0</span>
-    
 </span>
 
     
@@ -74359,8 +73922,6 @@ Vegane Muffins mit Heidelbeeren und Schokolade, die perfekten Frühstücks-Muffi
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2019-02-26-ciambelle-vegane-di-carnevale-de/">0</span>
-    
 </span>
 
     
@@ -74696,8 +74257,6 @@ Vegane Fasnacht-Donuts, schön farbenfroh und ideal mit den Kindern zu backen. P
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2019-09-12-tortine-alle-carote-con-composta-di-prugne-alla-cannella-de/">0</span>
     
 </span>
 
@@ -75322,8 +74881,6 @@ Karottenküchlein mit Zwetschgen-Zimt-Kompott, ein saisonales Dessert, einfach, 
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-11-03-muffin-cuor-di-mela-de/">0</span>
-    
 </span>
 
     
@@ -75453,8 +75010,6 @@ Halloween ist vorbei, nun kann ich endlich den Korb voller Äpfel vom Baum meine
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-11-23-cupcakes-rocher-de/">0</span>
     
 </span>
 
@@ -75813,8 +75368,6 @@ Mein Mann wollte etwas Süsses für&#39;s Büro. Er wollte aber etwas mit dem Lo
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-02-24-muffin-vegani-cioccolato-e-pera-de/">0</span>
     
 </span>
 
@@ -77416,8 +76969,6 @@ Und mit diesem Rezept verabschiede ich mich vom Monat Februar... Dieser Monat en
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-12-12-muffin-vegani-al-panpepato-de/">0</span>
     
 </span>
 
@@ -88153,8 +87704,6 @@ Vegane Lebkuchen-Muffins, um Ihre Liebsten zu überraschen. Sie sind fluffig, ha
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2019-07-02-rotolo-di-meringa-farcito-con-crema-al-mascarpone-e-fragole-de/">0</span>
-    
 </span>
 
     
@@ -93067,8 +92616,6 @@ Meringue-Rolle mit Mascarpone-Crème und Erdbeeren, ein leichtes und frisches W�
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-08-25-granita-alle-mandorle-de/">0</span>
-    
 </span>
 
     
@@ -93886,8 +93433,6 @@ Wenn ihr das Wort &quot;Granita&quot; hört, an was denkt ihr? Welche Geschmacks
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-07-24-zuccotto-di-gelato-alla-vaniglia-con-lamponi-e-meringhe-de/">0</span>
     
 </span>
 
@@ -110134,8 +109679,6 @@ Himbeer-Vanilleeis-Kuppeltorte mit Baisers, ein perfekter Nachtisch für heisse 
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-01-30-frittelle-di-ricotta-e-mele-de/">0</span>
-    
 </span>
 
     
@@ -114730,8 +114273,6 @@ An Fastnachten gehört frittiertes Gebäck einfach dazu, so wie diese Ricotta-Ap
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2019-04-02-nidi-di-biscotti-al-cocco-de/">0</span>
-    
 </span>
 
     
@@ -114797,8 +114338,6 @@ Kokosmakronen-Nestchen, gemacht aus nur drei Zutaten, schön als Tischkarte mit 
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2019-04-10-quadrotti-al-rabarbaro-con-crumble-alla-menta-de/">0</span>
     
 </span>
 
@@ -116106,8 +115645,6 @@ Rhabarber-Blechkuchen mit Minze-Crumble... geschmeidig, schmelzend, knusprig, sa
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-03-23-quadrotti-ai-frutti-di-bosco-de/">0</span>
-    
 </span>
 
     
@@ -116168,8 +115705,6 @@ Eigentlich wollte ich einen Zitronen Chiffon Cake letzten Sonntag zum Vatertag b
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-03-31-uova-di-cioccolato-e-riso-soffiato-de/">0</span>
     
 </span>
 
@@ -117637,8 +117172,6 @@ Hier sind wir wieder und beginnen wir mit der ersten Ostersüssigkeit. Wir begin
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-12-04-mini-tortine-multigusto-de/">0</span>
-    
 </span>
 
     
@@ -118400,8 +117933,6 @@ Mini Küchlein mit verschiedenen Geschmäcken, ein einzelner Teig, drei verschie
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2019-06-12-confettura-di-fragole-e-fiori-di-sambuco-de/">0</span>
-    
 </span>
 
     
@@ -118972,8 +118503,6 @@ Erdbeer-Holunderblüten-Konfitüre, die beste Erdbeerkonfitüre der Welt. Diese 
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-09-30-marmellata-di-zucca-de/">0</span>
     
 </span>
 
@@ -120919,8 +120448,6 @@ Während einem Chat mit meinen Fabulous-Freunden, kamen wir zum Thema Kürbisse 
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-09-05-mele-essiccate-alla-cannella-de/">0</span>
     
 </span>
 
@@ -123302,8 +122829,6 @@ Getrocknete Zimt-Apfelringe ohne Dörrgerät zubereitet. Sie sind ein guter und 
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-06-19-te-freddo-al-rabarbaro-e-lamponi-de/">0</span>
     
 </span>
 
@@ -129152,8 +128677,6 @@ Dieses Jahr habe ich leider sehr wenig Rhabarber benutzt und das geht gar nicht!
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-10-12-pumpkin-spice-latte-de/">0</span>
-    
 </span>
 
     
@@ -134651,8 +134174,6 @@ Hand nach oben wer Starbucks mag? Ich, ich, ich! Ja, auch ich mag die verschiede
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2014-01-14-muffin-con-mirtilli-e-cioccolato-de/">0</span>
-    
 </span>
 
     
@@ -134740,8 +134261,6 @@ Vegane Muffins mit Heidelbeeren und Schokolade, die perfekten Frühstücks-Muffi
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2014-03-07-strudel-ai-mirtilli-de/">0</span>
-    
 </span>
 
     
@@ -134822,8 +134341,6 @@ Heidelbeer-Strudel, ein Dessert, welches in letzter Minute gemacht werden kann. 
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2014-06-04-penne-alla-erica-de/">0</span>
     
 </span>
 
@@ -134945,8 +134462,6 @@ Das Rezept dieser Pasta mit Paprika und Erdbeeren ist vor vielen Jahren ganz per
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2014-08-24-crumble-di-prugne-de/">0</span>
-    
 </span>
 
     
@@ -135017,8 +134532,6 @@ Vor ein paar Tagen habe ich eine wunderschöne neue Kuchenform gekauft und wollt
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2014-10-31-treccia-salata-ripiena-di-zucca-e-patate-de/">0</span>
     
 </span>
 
@@ -135307,8 +134820,6 @@ Heute gibt es eine Kürbisoverdose! Wir haben einen grossen Kürbis gekauft und 
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2019-02-05-cuori-di-sfoglia-con-pesto-rosso-de/">0</span>
-    
 </span>
 
     
@@ -135401,8 +134912,6 @@ Blättertieg-Herzen mit rotem Pesto, ein perfekter Aperitif zum Valentinstag. Ih
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2019-02-26-ciambelle-vegane-di-carnevale-de/">0</span>
-    
 </span>
 
     
@@ -135480,8 +134989,6 @@ Vegane Fasnacht-Donuts, schön farbenfroh und ideal mit den Kindern zu backen. P
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2019-03-28-treccia-salata-farcita-con-salsa-al-pomodoro-spinaci-mozzarella-de/">0</span>
-    
 </span>
 
     
@@ -135543,8 +135050,6 @@ Herzhafter Hefezopf gefüllt mit Tomatensauce, Spinat und Mozzarella, schön flu
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2019-03-18-muffin-salati-alle-carote-vegani-con-insalata-di-spinaci-mele-nocciole-de/">0</span>
     
 </span>
 
@@ -135643,8 +135148,6 @@ Herzhafte vegane Karotten-Muffins mit Spinat-Apfel-Haselnuss-Salat für ein leic
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2019-05-08-asparagi-in-padella-al-limone-de/">0</span>
-    
 </span>
 
     
@@ -135708,8 +135211,6 @@ Gebratene Spargeln mit Zitrone, eine leichte und schnelle Beilage um diese genia
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2019-05-14-torta-all-acqua-con-rabarbaro-e-cioccolato-bianco-de/">0</span>
-    
 </span>
 
     
@@ -135768,8 +135269,6 @@ Wasserkuchen mit Rhabarber und weisser Schokolade, ein perfektes Gleichgewicht z
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2019-05-17-insalata-di-asparagi-fragole-e-melissa-de/">0</span>
     
 </span>
 
@@ -135840,8 +135339,6 @@ Spargel-Erdbeersalat mit Zitronenmelisse, das ist der perfekte Zeitpunkt um dies
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2019-06-06-fiori-di-zucca-farciti-con-patate-ed-erbe-aromatiche-de/">0</span>
-    
 </span>
 
     
@@ -135905,8 +135402,6 @@ Kürbisblüten gefüllt mit Kartoffeln und Kräutern, eine delikate Vorspeise od
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2019-06-12-confettura-di-fragole-e-fiori-di-sambuco-de/">0</span>
-    
 </span>
 
     
@@ -135963,8 +135458,6 @@ Erdbeer-Holunderblüten-Konfitüre, die beste Erdbeerkonfitüre der Welt. Diese 
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2019-06-21-galette-integrale-con-pesto-pomodori-e-feta-de/">0</span>
     
 </span>
 
@@ -136039,8 +135532,6 @@ Vollkorn-Galette mit Pesto, Tomaten und Feta... perfekt, um meine Lieblingsjahre
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2019-07-10-insalata-di-ceci-con-pomodori-cetrioli-avocado-de/">0</span>
     
 </span>
 
@@ -136136,8 +135627,6 @@ Kichererbsensalat mit Tomaten, Gurken und Avocado ein sehr gesunder, vollwertige
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2019-08-22-zuppa-di-pomodori-arrosto-de/">0</span>
     
 </span>
 
@@ -136249,8 +135738,6 @@ Geröstete Tomatensuppe für diese Spätsommertage, die sehr nach Herbst riechen
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2019-09-26-zucca-funghi-pomodori-al-forno-de/">0</span>
     
 </span>
 
@@ -136452,8 +135939,6 @@ Kürbis, Pilze und Tomaten im Ofen, eine einfache, aromatische und vegane herbst
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-08-02-ciambella-variegata-alle-more-de/">0</span>
-    
 </span>
 
     
@@ -136508,8 +135993,6 @@ Willkommen August, aber vor allem willkommen deutschsprechende Blogleser! Ab heu
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-08-04-gnocchi-al-basilico-con-crema-di-peperoni-de/">0</span>
     
 </span>
 
@@ -136620,8 +136103,6 @@ Heute hatte ich richtig Lust etwas spezielles, etwas neues zu kochen. Ich habe i
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-08-21-zuppa-di-verdure-estive-grigliate-con-riso-basmati-de/">0</span>
-    
 </span>
 
     
@@ -136695,8 +136176,6 @@ In den letzten Tagen gab es ein echt übler Temperatursturz! Ich musste die Lang
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-08-25-pane-con-pomodori-secchi-in-casseruola-de/">0</span>
-    
 </span>
 
     
@@ -136762,8 +136241,6 @@ Ich habe schon lange kein Brot mehr gebacken, ist ja kein Wunder, wenn es warm i
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-08-28-galette-alle-pesche-e-frutti-rossi-de/">0</span>
-    
 </span>
 
     
@@ -136822,8 +136299,6 @@ Das Ende des Sommers kommt immer näher... auch wenn es gerade sehr heiss ist! V
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-08-31-plumcake-salato-estivo-de/">0</span>
     
 </span>
 
@@ -136897,8 +136372,6 @@ Auf Wiedersehen August, wir sehen uns nächstes Jahr wieder! August ist ein komi
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-09-06-peperoni-ripieni-di-cous-cous-de/">0</span>
-    
 </span>
 
     
@@ -136957,8 +136430,6 @@ Mit dem Beginn des Monats September, wollte ich eigentlich mit herbstlichen Reze
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-09-09-berry-pie-de/">0</span>
     
 </span>
 
@@ -137021,8 +136492,6 @@ Alles Gute zum Geburtstag Samy, auch du näherst dich den 30! Dieser Kuchen ist 
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-09-14-zucca-al-forno-con-cipolle-in-agrodolce-de/">0</span>
     
 </span>
 
@@ -137092,8 +136561,6 @@ Ich glaube ich glaube der Herbst kommt... und da beginnen wir auch mit den erste
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-09-21-tagliolini-con-finferli-de/">0</span>
-    
 </span>
 
     
@@ -137155,8 +136622,6 @@ Für den Herbstbeginn durfte ein Pilzgericht nicht fehlen... Genaugesagt ein Ger
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-09-24-torta-cioccolato-e-pere-de/">0</span>
-    
 </span>
 
     
@@ -137215,8 +136680,6 @@ Mit dem Herbstbeginn werden auch unsere Desserts knuddeliger, deftiger und die K
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-09-26-pan-brioche-farcito-de/">0</span>
     
 </span>
 
@@ -137295,8 +136758,6 @@ Ich hab euch noch gar nicht von Fabulousity.it erzählt! Fabulousity ist eine Pl
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-10-04-banana-bread-de/">0</span>
-    
 </span>
 
     
@@ -137362,8 +136823,6 @@ Wie oft ist es euch schon passiert, dass ihr Bananen gekauft habt und diese schw
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-10-07-zucca-al-forno-con-riso-rosso-de/">0</span>
-    
 </span>
 
     
@@ -137428,8 +136887,6 @@ Jaaaaaa, Halloween kommt näher, juhuuu! Ich freue mich so drauf, ich kann es ka
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-10-10-fluffosa-alla-zucca-e-spezie-de/">0</span>
     
 </span>
 
@@ -137507,8 +136964,6 @@ Der letzte Chiffon Cake ist schon lange her. Aber welchen mache ich jetzt? Im Bu
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-10-14-panelle-de/">0</span>
-    
 </span>
 
     
@@ -137574,8 +137029,6 @@ Was ist das eigentlich? Panelle sind kleine Bratlinge aus Kichererbsenmehl, eine
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-10-18-black-beauty-de/">0</span>
     
 </span>
 
@@ -137676,8 +137129,6 @@ Heute blasen wir 3 Kerzen aus, denn mein Blog wird heute 3 Jahre alt! Dieser Blo
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-10-28-panini-alla-zucca-de/">0</span>
-    
 </span>
 
     
@@ -137760,8 +137211,6 @@ Brot backen, das möchte ich perfektionieren! Brot sollte, meiner Meinung nach, 
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-11-03-muffin-cuor-di-mela-de/">0</span>
-    
 </span>
 
     
@@ -137841,8 +137290,6 @@ Halloween ist vorbei, nun kann ich endlich den Korb voller Äpfel vom Baum meine
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-11-16-pasta-al-cavolfiore-piccante-de/">0</span>
     
 </span>
 
@@ -137947,8 +137394,6 @@ Ach ist das kalt... Der Herbst ist schon vorbei und der Winter hat begonnen! Die
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-11-28-plumcake-salato-autunnale-de/">0</span>
-    
 </span>
 
     
@@ -138016,8 +137461,6 @@ Der November ist ein bisschen so... die Gedanken bereits in weihnachtlicher Stim
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-12-01-biscotti-matcha-e-zenzero-de/">0</span>
-    
 </span>
 
     
@@ -138076,8 +137519,6 @@ Vor zwei Jahren war ich an einem veganen Backkurs. Dort haben wir ganz viele lec
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-12-07-risotto-al-cavolo-viola-profumato-al-limone-de/">0</span>
     
 </span>
 
@@ -138143,8 +137584,6 @@ Ihr glaubt es nicht, aber ich habe schon alle Weihnachtsgeschenke! Haha so ein S
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-12-12-ciambella-arancia-e-cranberries-de/">0</span>
     
 </span>
 
@@ -138250,8 +137689,6 @@ Dieses Jahr wollen die guten Orangen einfach nicht in unsere Läden, ich kann es
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-12-27-risotto-all-arancia-de/">0</span>
-    
 </span>
 
     
@@ -138312,8 +137749,6 @@ Vor zwei Jahren habe ich zum ersten Mal diesen Risotto gemacht und es war sofort
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2016-12-29-insalata-di-arance-e-finocchi-de/">0</span>
     
 </span>
 
@@ -138376,8 +137811,6 @@ Für spezielle Anlässe darf die Vorspeise nicht fehlen! Da der erste Gang bei u
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-01-04-fregola-con-carciofi-e-pomodori-de/">0</span>
     
 </span>
 
@@ -138444,8 +137877,6 @@ Ich hoffe, ihr seid gut ins Jahr 2017 gerutscht! Wir hatten eine gemütliche Sil
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-01-11-spaghetti-allo-zafferano-con-romanesco-de/">0</span>
     
 </span>
 
@@ -138514,8 +137945,6 @@ Kennt ihr diese Gerichte, die man schnell schnell vorbereitet, weil man wieder e
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-01-18-torta-rovesciata-alle-arance-vegan-de/">0</span>
-    
 </span>
 
     
@@ -138568,8 +137997,6 @@ Nach all diesen Weihnachtssüssigkeiten mussten wir eine Pause einlegen. Wir hat
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-01-20-pasta-con-fagioli-e-patate-de/">0</span>
     
 </span>
 
@@ -138640,8 +138067,6 @@ Es ist so kalt, es schneit, es ist alles weiss... wunderschön! Ich muss aber sa
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-01-23-torta-di-mele-cremosa-vegan-de/">0</span>
-    
 </span>
 
     
@@ -138698,8 +138123,6 @@ Gestern waren wir in einem Wasserpark hier in der Nähe, die Kleinen hatten rich
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-01-26-pane-ai-semi-oleosi-de/">0</span>
     
 </span>
 
@@ -138775,8 +138198,6 @@ Vor ein Paar Wochen, haben mich die Instamamme gefragt, ob ich zusammen mit ande
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-02-01-cous-cous-con-avocado-e-salsa-rosa-de/">0</span>
-    
 </span>
 
     
@@ -138848,8 +138269,6 @@ Endlich hat der letzte Wintermonat begonnen, der Januar wollte einfach nicht vor
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-02-07-girelle-vegan-ai-lamponi-de/">0</span>
     
 </span>
 
@@ -138934,8 +138353,6 @@ Ich brauchte ein paar Ideen für das Valentinsfrühstück. In diesen Fällen ist
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-02-21-zuppa-di-lenticchie-de/">0</span>
-    
 </span>
 
     
@@ -139000,8 +138417,6 @@ Sobald man von Comfort Food spricht, muss ich sofort an diese Linsensuppe denken
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-02-24-muffin-vegani-cioccolato-e-pera-de/">0</span>
     
 </span>
 
@@ -139097,8 +138512,6 @@ Und mit diesem Rezept verabschiede ich mich vom Monat Februar... Dieser Monat en
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-03-20-pasta-primavera-de/">0</span>
-    
 </span>
 
     
@@ -139166,8 +138579,6 @@ Letzte Woche konnte ich endlich die Winterjacken auf die Seite legen, nicht vers
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-03-17-ciambelle-vegan-di-patate-cotte-al-forno-de/">0</span>
     
 </span>
 
@@ -139245,8 +138656,6 @@ Alles Liebe zum Geburtstag Ladan! Wir kennen uns schon seit mehr als 10 Jahren, 
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-03-31-uova-di-cioccolato-e-riso-soffiato-de/">0</span>
     
 </span>
 
@@ -139346,8 +138755,6 @@ Hier sind wir wieder und beginnen wir mit der ersten Ostersüssigkeit. Wir begin
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-04-11-frittata-di-agretti-senza-uova-de/">0</span>
     
 </span>
 
@@ -139458,8 +138865,6 @@ In ein paar Tagen feiern wir nicht nur Ostern, sondern auch ein spezieller Gebur
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-04-24-risotto-agli-asparagi-profumato-al-limone-de/">0</span>
-    
 </span>
 
     
@@ -139529,8 +138934,6 @@ Leider mache ich nicht so viele Gerichte mit Reis... Ich weiss gar nicht wieso, 
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-04-28-torta-al-cioccolato-e-zucchine-de/">0</span>
-    
 </span>
 
     
@@ -139589,8 +138992,6 @@ Ich hatte euch noch einen Kuchen für den Abbau vom Schokovorrat versprochen... 
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-05-03-insalata-di-pasta-primaverile-de/">0</span>
     
 </span>
 
@@ -139661,8 +139062,6 @@ Könnt ihr euch an die Ruote Pasta erinnern? Ich hatte sie seit Jahren nicht meh
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-05-09-focaccia-dolce-al-rabarbaro-de/">0</span>
     
 </span>
 
@@ -139735,8 +139134,6 @@ Nachdem ich etwas Osterschokolade verbraucht habe (also, etwas ist ein wenig unt
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-06-01-pasta-con-pomodori-secchi-e-fiori-di-zucca-de/">0</span>
     
 </span>
 
@@ -139812,8 +139209,6 @@ Entschuldigt die lange Abwesenheit, wir waren bei den Verwandten in Sizilien... 
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-06-08-torta-all-acqua-con-fragole-e-cioccolato-de/">0</span>
-    
 </span>
 
     
@@ -139870,8 +139265,6 @@ Hallo Zusammen! Diesen Kuchen hatte ich schon vor unseren Ferien gebacken, ich w
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-06-14-friggitelli-in-padella-de/">0</span>
     
 </span>
 
@@ -139945,8 +139338,6 @@ Diese langen grünen Paprikaschoten in der Bratpfanne sind einfach himmlisch. Da
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-06-22-crumble-di-ciliegie-e-fragole-de/">0</span>
-    
 </span>
 
     
@@ -140012,8 +139403,6 @@ Mürbeteig und gekochte Früchte, das Traumpaar! Der Mürbeteig- und Früchteduf
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-06-27-tarte-tatin-integrale-con-carote-novelle-e-cipollotti-de/">0</span>
-    
 </span>
 
     
@@ -140074,8 +139463,6 @@ Vor ca. zwei Monaten, habe ich ein paar Kochhefte meiner Mutter ausgeliehen. Ich
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-07-04-insalata-di-patate-e-fagiolini-de/">0</span>
     
 </span>
 
@@ -140166,8 +139553,6 @@ Dieser Salat bedeutet für mich SOMMER! Dieses Gericht ist so einfach, hat aber 
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-07-25-granola-al-cacao-con-fragole-e-lamponi-de/">0</span>
     
 </span>
 
@@ -140279,8 +139664,6 @@ Ja, am Samstag war ich dran... Ich habe die 30 Jahre erreicht! Totale Krise! Bin
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-08-18-linguine-con-pesto-all-eoliana-de/">0</span>
-    
 </span>
 
     
@@ -140363,8 +139746,6 @@ Im Mai, als wir in Sizilien waren, hat meine Cousine Pasta mit diesem Pesto nach
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-08-25-granita-alle-mandorle-de/">0</span>
-    
 </span>
 
     
@@ -140423,8 +139804,6 @@ Wenn ihr das Wort &quot;Granita&quot; hört, an was denkt ihr? Welche Geschmacks
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-08-31-risotto-al-pomodoro-con-verdure-alle-erbe-aromatiche-de/">0</span>
     
 </span>
 
@@ -140528,8 +139907,6 @@ Naja, auch dieses Jahr geht der Sommer langsam zu Ende... Seit ein paar Tagen is
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-09-19-zucca-spaghetti-con-sugo-al-pomodoro-de/">0</span>
-    
 </span>
 
     
@@ -140612,8 +139989,6 @@ Tadaaa, beginnen wir mit dem ersten Kürbisrezept. Heute gibt es aber einen spez
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-09-28-biscotti-vegan-con-frutta-secca-e-cioccolato-bianco-de/">0</span>
-    
 </span>
 
     
@@ -140668,8 +140043,6 @@ Wie hat bei euch der Herbst begonnen? Hier ein Traum... Wir stehen mit dem Nebel
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-10-02-pasta-con-finferli-e-panna-vegan-de/">0</span>
     
 </span>
 
@@ -140743,8 +140116,6 @@ Beginnen wir den Oktober mit einem Pilzrezept, auch wenn wir nicht grosse Pilzli
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-10-05-vegan-brownies-alla-zucca-e-cioccolato-de/">0</span>
-    
 </span>
 
     
@@ -140801,8 +140172,6 @@ Oktober bedeutet für mich Kürbis, darum werde ich euch viele Kürbisrezepte ze
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-10-10-fettuccine-con-crema-di-zucca-de/">0</span>
     
 </span>
 
@@ -140915,8 +140284,6 @@ Am Montag haben die Herbstferien begonnen. Die ersten zwei Kindergartenmonate si
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-11-02-berliner-vegani-al-forno-de/">0</span>
-    
 </span>
 
     
@@ -140984,8 +140351,6 @@ Vor einiger Zeit habe ich dank Instagram Meine Backbox entdeckt. Alle zwei Monat
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-10-30-pumpkin-cinnamon-rolls-de/">0</span>
     
 </span>
 
@@ -141070,8 +140435,6 @@ Morgen ist Halloween und damit endet auch der Monat Oktober... Dieser Monat ist 
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-11-20-linzertorte-vegana-de/">0</span>
     
 </span>
 
@@ -141165,8 +140528,6 @@ Ich weiss, ich weiss es ist noch etwas früh für weihnachtliche Desserts... Dar
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-12-12-paccheri-risottati-con-pomodorini-capperi-e-olive-de/">0</span>
-    
 </span>
 
     
@@ -141243,8 +140604,6 @@ Vor ein paar Tagen habe ich ein Rezept ausprobiert, welches mit Zutaten aus der 
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2017-12-20-granola-natalizia-de/">0</span>
-    
 </span>
 
     
@@ -141304,8 +140663,6 @@ Ich beende das Jahr 2017 mit dem Rezept der Christmas Granola... Mit all dem Ess
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-01-10-vellutata-arancione-e-scones-salati-con-spinaci-e-feta-de/">0</span>
     
 </span>
 
@@ -141470,8 +140827,6 @@ Wie wäre es, wenn wir das neue Jahr mit dieser Orangen Cremesuppe und herzhafte
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-02-20-pasta-con-broccoli-de/">0</span>
-    
 </span>
 
     
@@ -141536,8 +140891,6 @@ Pasta mit Broccoli ist einer dieser Gerichte, von dem ich nie genug haben kann. 
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-02-23-zuppa-di-fagioli-e-cavolo-nero-de/">0</span>
     
 </span>
 
@@ -141607,8 +140960,6 @@ Schwarzkohl-Bohnen-Suppe, genau das, was wir mit dieser Kälte brauchen! Eigentl
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-03-09-torta-vegana-all-arancia-con-gocce-di-cioccolato-de/">0</span>
     
 </span>
 
@@ -141725,8 +141076,6 @@ Veganer Orangenkuchen mit Schokostückchen, im Nu vorbereitet und gefällt Gross
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-03-22-focaccia-farcita-con-farinata-e-scarola-de/">0</span>
     
 </span>
 
@@ -141854,8 +141203,6 @@ Focaccia gefüllt mit Kichererbsen Omelette und Endivie, achtung hohes Suchtpote
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-05-08-patate-dolci-cotte-al-forno-con-pomodori-e-cetrioli-de/">0</span>
-    
 </span>
 
     
@@ -141973,8 +141320,6 @@ Gebackene Süsskartoffeln mit Tomaten und Gurken, ein leckeres und gesundes komp
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-06-21-torta-vegana-al-limone-con-frutta-estiva-e-semi-di-papavero-de/">0</span>
-    
 </span>
 
     
@@ -142086,8 +141431,6 @@ Veganer Zitronenkuchen mit Sommerfrüchten und Mohnsamen, ein leichter, frischer
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-07-17-pasta-con-pomodoro-fresco-de/">0</span>
-    
 </span>
 
     
@@ -142163,8 +141506,6 @@ Pasta mit frischen Tomaten, ein super schnelles Rezept mit wenigen Zutaten, welc
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-08-24-torta-vegana-allo-yogurt-con-prugne-e-cannella-de/">0</span>
     
 </span>
 
@@ -142248,8 +141589,6 @@ Veganer Joghurtkuchen mit Zwetschgen und Zimt, aber er könnte auch Spätsommer-
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-09-05-mele-essiccate-alla-cannella-de/">0</span>
-    
 </span>
 
     
@@ -142327,8 +141666,6 @@ Getrocknete Zimt-Apfelringe ohne Dörrgerät zubereitet. Sie sind ein guter und 
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-09-20-bruschetta-ai-funghi-de/">0</span>
     
 </span>
 
@@ -142462,8 +141799,6 @@ Bruschetta mit Pilzen, eine hervorragende herbstliche Vorspeise die schnell vorb
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-10-24-mele-al-cioccolato-per-halloween-de/">0</span>
-    
 </span>
 
     
@@ -142518,8 +141853,6 @@ Schokoäpfel für Halloween, für diejenigen, die gemeinsam mit den Kleinen eine
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-11-06-fluffosa-vegana-con-pere-e-cioccolato-de/">0</span>
     
 </span>
 
@@ -142588,8 +141921,6 @@ Veganer Chiffon Cake mit Birnen und Schokolade, um den November willkommen zu he
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-10-10-torta-rustica-vegana-alle-nocciole-e-mele-de/">0</span>
     
 </span>
 
@@ -142661,8 +141992,6 @@ Rustikaler veganer Kuchen mit Haselnüssen und Äpfeln, ein herbstlicher Kuchen 
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-11-20-barbabietola-al-cartoccio-con-erbette-e-sale-grosso-de/">0</span>
-    
 </span>
 
     
@@ -142721,8 +142050,6 @@ Gebackene rote Bete in Folie mit Kräutern und grobem Salz als Beilage oder zur 
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-11-26-pane-di-patate-viola-de/">0</span>
     
 </span>
 
@@ -142807,8 +142134,6 @@ Violettes Kartoffelbrot mit schöner Farbe und herrlichem Duft. In Wirklichkeit 
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-12-14-carpaccio-di-barbabietola-con-arance-de/">0</span>
-    
 </span>
 
     
@@ -142876,8 +142201,6 @@ Rote Bete Carpaccio mit Orangen für eine leichte, einfache und leckere festlich
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-12-12-muffin-vegani-al-panpepato-de/">0</span>
-    
 </span>
 
     
@@ -142932,8 +142255,6 @@ Vegane Lebkuchen-Muffins, um Ihre Liebsten zu überraschen. Sie sind fluffig, ha
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-12-20-scones-vegani-con-cranberries-profumati-all-arancia-de/">0</span>
     
 </span>
 
@@ -143273,7 +142594,7 @@ Vegane Scones mit Cranberries und Orangenduft, für ein Sternenfrühstück. Sie 
 
             
         
-        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!--<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>-->
         <!-- sidebar -->
         <ins class="adsbygoogle"
              style="display:block"
@@ -143303,7 +142624,7 @@ Vegane Scones mit Cranberries und Orangenduft, für ein Sternenfrühstück. Sie 
                   <p>Powered by <a href="//hexo.io/" target="_blank">Hexo</a>. Original theme by <a href="//github.com/ppoffice" target="_blank">PPOffice</a></p>
                 </div>
                 <div class="adsense" style="margin-top: 20px; margin-left: 10px; padding-left: 10px; float:right; margin-right: -30px;">
-                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!--<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>-->
                     <!-- footer -->
                     <ins class="adsbygoogle"
                         style="display:inline-block;width:320px;height:100px"
@@ -143319,23 +142640,6 @@ Vegane Scones mit Cranberries und Orangenduft, für ein Sternenfrühstück. Sie 
 </footer>
 
         
-    
-    <script>
-    var disqus_shortname = 'frangipani';
-    
-    
-    var disqus_url = 'http://frangipani.raiano.ch/groups-de.html';
-    
-    (function() {
-    var dsq = document.createElement('script');
-    dsq.type = 'text/javascript';
-    dsq.async = true;
-    dsq.src = '//' + disqus_shortname + '.disqus.com/count.js';
-    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-    </script>
-
-
 
     
         <script src="/libs/lightgallery/js/lightgallery.min.js"></script>
@@ -143356,6 +142660,101 @@ Vegane Scones mit Cranberries und Orangenduft, für ein Sternenfrühstück. Sie 
 
 <!--<script src="/js/snoweffect.js"></script>-->
 
+
+<script src="//cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
+<script>
+    function downloadGoogleAdsenseJSAtOnload() {
+        var element = document.createElement("script");
+        element.src = "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js";
+        document.body.appendChild(element);
+    }
+    function enableCookies() {
+        if (window.location.hostname.search('localhost') === -1) {
+            // analytics
+            (function(i,s,o,g,r,a,m) {i['GoogleAnalyticsObject']=r;i[r]=i[r]||function() {
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-42950201-2', 'auto');
+            ga('send', 'pageview');
+            ga('set', 'anonymizeIp', true);
+
+            // adsense
+            downloadGoogleAdsenseJSAtOnload();
+        }
+    }
+    function disableCookies() {
+        var cookies = document.cookie.split(";");
+        for (var i = 0; i < cookies.length; i++) {
+            var cookie = cookies[i];
+            var eqPos = cookie.indexOf("=");
+            var name = eqPos > -1 ? cookie.substr(0, eqPos) : cookie;
+            document.cookie = name + "=;expires=Thu, 01 Jan 1970 00:00:00 GMT";
+        }
+    }
+    window.addEventListener("load", function(){
+        window.cookieconsent.initialise({
+            "palette": {
+            "popup": {
+                "background": "#61d0c5",
+                "text": "#069494"
+            },
+            "button": {
+                "background": "#FF9F4C",
+                "text": "#ffffff"
+            }
+            },
+            "theme": "edgeless",
+            "type": "opt-in",
+            "content": {
+                header: "Cookies werden auf der Website verwendet!",
+                message: "Diese Website verwendet Cookies, um sicherzustellen, dass Sie die beste Erfahrung auf dieser Website erhalten und Werbeanzeigen zu plazieren, diese zu messen und die Sicherheit für unsere Besucher zu steigern. Durch das Navigieren in dem Blog oder das Klicken innerhalb des Blogs, stimmst Du der Sammlung von Informationen mittels Cookies auf diesem Blogs zu.",
+                dismiss: "Verstanden!",
+                allow: "Zulassen",
+                deny: "Verweigern",
+                link: "Erfahren Sie mehr",
+                href: 'http://cookiesandyou.com',
+                close: '&#x274c;',
+            },
+            onInitialise: function (status) {
+                var type = this.options.type;
+                var didConsent = this.hasConsented();
+                if (type == 'opt-in' && didConsent) {
+                    // enable cookies
+                    enableCookies();
+                }
+                if (type == 'opt-out' && !didConsent) {
+                    // disable cookies
+                    disableCookies();
+                }
+            },
+            onStatusChange: function(status, chosenBefore) {
+                var type = this.options.type;
+                var didConsent = this.hasConsented();
+                if (type == 'opt-in' && didConsent) {
+                    // enable cookies
+                    enableCookies();
+                }
+                if (type == 'opt-out' && !didConsent) {
+                    // disable cookies
+                    disableCookies();
+                }
+            },
+            onRevokeChoice: function() {
+                var type = this.options.type;
+                if (type == 'opt-in') {
+                    // disable cookies
+                    disableCookies();
+                }
+                if (type == 'opt-out') {
+                    // enable cookies
+                    enableCookies();
+                }
+            }
+        });
+    });
+</script>
     </div>
     <!--<div id="flake">❄</div>-->
 </body>

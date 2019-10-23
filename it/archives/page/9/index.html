@@ -56,49 +56,22 @@
     
     
         <script type="text/javascript">
-if (window.location.hostname.search('localhost') === -1) {
-	(function(i,s,o,g,r,a,m) {i['GoogleAnalyticsObject']=r;i[r]=i[r]||function() {
-	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+// if (window.location.hostname.search('localhost') === -1) {
+// 	(function(i,s,o,g,r,a,m) {i['GoogleAnalyticsObject']=r;i[r]=i[r]||function() {
+// 	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+// 	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+// 	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-	ga('create', 'UA-42950201-2', 'auto');
-	ga('send', 'pageview');
-	ga('set', 'anonymizeIp', true);
-}
+// 	ga('create', 'UA-42950201-2', 'auto');
+// 	ga('send', 'pageview');
+// 	ga('set', 'anonymizeIp', true);
+// }
 </script>
     
     
 
 
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css">
-    <script src="//cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
-    <script>
-      window.addEventListener("load", function(){
-      window.cookieconsent.initialise({
-        content: {
-          header: "Cookies utilizzati sul sito web!",
-          message: "Questo sito Web utilizza i cookie per assicurarti di ottenere l&#39;esperienza migliore su questo sito web e per pubblicare annunci pubblicitari, misurarli e aumentare la sicurezza dei visitatori. Navigando nel blog o facendo clic all&#39;interno del blog, accetti la raccolta di informazioni attraverso i cookie su questo blog.",
-          dismiss: "Capito!",
-          allow: "Consenti i cookie",
-          deny: "Declino",
-          link: "Per saperne di più",
-          href: 'http://cookiesandyou.com',
-          close: '&#x274c;',
-        },
-        "palette": {
-          "popup": {
-            "background": "#61d0c5",
-            "text": "#069494"
-          },
-          "button": {
-            "background": "#FF9F4C",
-            "text": "#ffffff"
-          }
-        },
-        "theme": "edgeless"
-      })});
-    </script>
     <style>
       body {
         cursor: url(data:image/svg+xml;utf8;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiIHdpZHRoPSIxM3B4IiBoZWlnaHQ9IjIxcHgiIHZpZXdCb3g9IjAgMCAxMyAyMSIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMTMgMjE7IiB4bWw6c3BhY2U9InByZXNlcnZlIj48Zz48Zz48cGF0aCBzdHlsZT0ic3Ryb2tlOiNGRkZGRkY7c3Ryb2tlLXdpZHRoOjAuODU7c3Ryb2tlLW1pdGVybGltaXQ6MTA7IiBkPSJNMTAuOCwxNy4zYzAuNiwwLjYsMS4yLDEuMywxLjMsMS42YzAuMywwLjYtMC4xLDEuMy0wLjksMS42Yy0wLjgsMC4zLTEuNywwLTItMC42Yy0wLjItMC4zLTAuMy0xLjItMC40LTEuOWMwLjMtMC4xLDAuNi0wLjEsMS0wLjJDMTAuMiwxNy42LDEwLjUsMTcuNSwxMC44LDE3LjN6Ii8+PC9nPjxnPjxwYXRoIHN0eWxlPSJzdHJva2U6I0ZGRkZGRjtzdHJva2Utd2lkdGg6MC44NTtzdHJva2UtbWl0ZXJsaW1pdDoxMDsiIGQ9Ik0zLjcsMS4yQzMuOSwxLjQsNCwyLjEsNC4xLDIuN0MzLjcsMi44LDMuMywyLjksMi45LDNjLTAuNCwwLjEtMC43LDAuMy0xLDAuNEMxLjQsMi45LDEsMi4zLDAuOCwyLjFDMC42LDEuNSwxLDAuOCwxLjgsMC41QzIuNiwwLjIsMy40LDAuNSwzLjcsMS4yeiIvPjwvZz48Zz48cGF0aCBzdHlsZT0ic3Ryb2tlOiNGRkZGRkY7c3Ryb2tlLXdpZHRoOjAuODU7c3Ryb2tlLW1pdGVybGltaXQ6MTA7IiBkPSJNMy4xLDMuM0M0LjMsMi45LDUuNiwzLDUuOCwzLjVsNS45LDEyLjNjMC4yLDAuNS0wLjYsMS4yLTEuOSwxLjZjLTEuMywwLjQtMi41LDAuMy0yLjctMC4xTDEuMiw0LjlDMSw0LjQsMS44LDMuNywzLjEsMy4zeiIvPjwvZz48L2c+PC9zdmc+),auto!important
@@ -322,8 +295,6 @@ if (window.location.hostname.search('localhost') === -1) {
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-11-26-pane-di-patate-viola/">0</span>
-    
 </span>
 
     
@@ -376,8 +347,6 @@ Pane di Patate Viola, dal colore ed il profumo molto invitante. In realtà non �
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-11-20-barbabietola-al-cartoccio-con-erbette-e-sale-grosso/">0</span>
     
 </span>
 
@@ -433,8 +402,6 @@ Barbabietola al Cartoccio con Erbette e Sale Grosso da servire come contorno o p
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-11-16-torta-soffice-con-melograno/">0</span>
-    
 </span>
 
     
@@ -484,8 +451,6 @@ Torta soffice con Melograno, ottima per la merenda o da gustare insieme a un buo
         
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
-    
-        <span class="disqus-comment-count" data-disqus-identifier="" data-disqus-url="http://frangipani.raiano.ch/2018-11-06-fluffosa-vegana-con-pere-e-cioccolato/">0</span>
     
 </span>
 
@@ -826,7 +791,7 @@ Fluffosa vegana con Pere e Cioccolato per dare il benvenuto al mese di Novembre!
 
             
         
-        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!--<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>-->
         <!-- sidebar -->
         <ins class="adsbygoogle"
              style="display:block"
@@ -856,7 +821,7 @@ Fluffosa vegana con Pere e Cioccolato per dare il benvenuto al mese di Novembre!
                   <p>Powered by <a href="//hexo.io/" target="_blank">Hexo</a>. Original theme by <a href="//github.com/ppoffice" target="_blank">PPOffice</a></p>
                 </div>
                 <div class="adsense" style="margin-top: 20px; margin-left: 10px; padding-left: 10px; float:right; margin-right: -30px;">
-                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!--<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>-->
                     <!-- footer -->
                     <ins class="adsbygoogle"
                         style="display:inline-block;width:320px;height:100px"
@@ -872,21 +837,6 @@ Fluffosa vegana con Pere e Cioccolato per dare il benvenuto al mese di Novembre!
 </footer>
 
         
-    
-    <script>
-    var disqus_shortname = 'frangipani';
-    
-    
-    (function() {
-    var dsq = document.createElement('script');
-    dsq.type = 'text/javascript';
-    dsq.async = true;
-    dsq.src = '//' + disqus_shortname + '.disqus.com/count.js';
-    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-    </script>
-
-
 
     
         <script src="/libs/lightgallery/js/lightgallery.min.js"></script>
@@ -907,6 +857,101 @@ Fluffosa vegana con Pere e Cioccolato per dare il benvenuto al mese di Novembre!
 
 <!--<script src="/js/snoweffect.js"></script>-->
 
+
+<script src="//cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
+<script>
+    function downloadGoogleAdsenseJSAtOnload() {
+        var element = document.createElement("script");
+        element.src = "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js";
+        document.body.appendChild(element);
+    }
+    function enableCookies() {
+        if (window.location.hostname.search('localhost') === -1) {
+            // analytics
+            (function(i,s,o,g,r,a,m) {i['GoogleAnalyticsObject']=r;i[r]=i[r]||function() {
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-42950201-2', 'auto');
+            ga('send', 'pageview');
+            ga('set', 'anonymizeIp', true);
+
+            // adsense
+            downloadGoogleAdsenseJSAtOnload();
+        }
+    }
+    function disableCookies() {
+        var cookies = document.cookie.split(";");
+        for (var i = 0; i < cookies.length; i++) {
+            var cookie = cookies[i];
+            var eqPos = cookie.indexOf("=");
+            var name = eqPos > -1 ? cookie.substr(0, eqPos) : cookie;
+            document.cookie = name + "=;expires=Thu, 01 Jan 1970 00:00:00 GMT";
+        }
+    }
+    window.addEventListener("load", function(){
+        window.cookieconsent.initialise({
+            "palette": {
+            "popup": {
+                "background": "#61d0c5",
+                "text": "#069494"
+            },
+            "button": {
+                "background": "#FF9F4C",
+                "text": "#ffffff"
+            }
+            },
+            "theme": "edgeless",
+            "type": "opt-in",
+            "content": {
+                header: "Cookies utilizzati sul sito web!",
+                message: "Questo sito Web utilizza i cookie per assicurarti di ottenere l&#39;esperienza migliore su questo sito web e per pubblicare annunci pubblicitari, misurarli e aumentare la sicurezza dei visitatori. Navigando nel blog o facendo clic all&#39;interno del blog, accetti la raccolta di informazioni attraverso i cookie su questo blog.",
+                dismiss: "Capito!",
+                allow: "Consenti",
+                deny: "Declino",
+                link: "Per saperne di più",
+                href: 'http://cookiesandyou.com',
+                close: '&#x274c;',
+            },
+            onInitialise: function (status) {
+                var type = this.options.type;
+                var didConsent = this.hasConsented();
+                if (type == 'opt-in' && didConsent) {
+                    // enable cookies
+                    enableCookies();
+                }
+                if (type == 'opt-out' && !didConsent) {
+                    // disable cookies
+                    disableCookies();
+                }
+            },
+            onStatusChange: function(status, chosenBefore) {
+                var type = this.options.type;
+                var didConsent = this.hasConsented();
+                if (type == 'opt-in' && didConsent) {
+                    // enable cookies
+                    enableCookies();
+                }
+                if (type == 'opt-out' && !didConsent) {
+                    // disable cookies
+                    disableCookies();
+                }
+            },
+            onRevokeChoice: function() {
+                var type = this.options.type;
+                if (type == 'opt-in') {
+                    // disable cookies
+                    disableCookies();
+                }
+                if (type == 'opt-out') {
+                    // enable cookies
+                    enableCookies();
+                }
+            }
+        });
+    });
+</script>
     </div>
     <!--<div id="flake">❄</div>-->
 </body>
