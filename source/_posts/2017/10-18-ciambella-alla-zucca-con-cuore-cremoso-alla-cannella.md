@@ -107,7 +107,7 @@ Mio marito qualche settimana fa mi ha fatto notare, che l'ultima videoricetta l'
 Per prima cosa preparate il cuore cremoso alla cannella. In una ciotola mettete il formaggio spalmabile e lo zucchero e mescolate. Aggiungete la farina, mescolate e poi incorporate bene anche l'uovo. Alla fine aggiungete la cannella a piacere e mettete da parte.
 ![](cremadiformaggio.jpg "frangipani © Erica")
 
-Dunque per l'impasto mettete la purea di zucca in una ciotola e aggiungete le uova, poi l'olio di semi e come ultimo ingrediente liquido il latte. A parte mescolate la farina con il bicarbonato, il lievito ed il sale, poi aggiungetelo piano piano nella coppa con il composto di zucca sempre mescolando. Dovrete ottenere un composto liscio ed omogeneo.
+Dunque per l'impasto mettete la purea di zucca in una ciotola e aggiungete le uova, poi l'olio di semi e come ultimo ingrediente liquido il latte. Adesso aggiungete lo zucchero e mescolate. A parte mescolate la farina con il bicarbonato, il lievito ed il sale, poi aggiungetelo piano piano nella coppa con il composto di zucca sempre mescolando. Dovrete ottenere un composto liscio ed omogeneo.
 ![](impasto.jpg "frangipani © Erica")
 
 Versate metà impasto nello stampo per ciambelle imburrato ed infarinato. Poi tutto attorno al centro dell'impasto distribuiteci la crema al formaggio.

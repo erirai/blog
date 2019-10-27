@@ -107,7 +107,7 @@ Vor ein paar Wochen, hat mein Mann mich darauf aufmerksam gemacht, dass ich scho
 Als erstes die Frischkäse-Füllung vorbereiten. In einer Schüssel Frischkäse und Zucker zusammen vermengen, dann Mehl dazu geben und weiter rühren. Ei dazu geben und komplett einarbeiten, zum Schluss noch Zimt unterheben und auf die Seite legen.
 ![](../2017-10-18-ciambella-alla-zucca-con-cuore-cremoso-alla-cannella/cremadiformaggio.jpg "frangipani © Erica")
 
-Nun zum Kürbis-Kuchenteig: Kürbispüree in eine Schüssel geben und mit den Eiern verrühren, dann Öl dazu geben und als letzte flüssige Zutat die Milch. In einer separaten Schüssel Mehl, Natron, Backpulver und Salz mischen, dann nach und nach zum Kürbisgemisch geben und schön glatt rühren.
+Nun zum Kürbis-Kuchenteig: Kürbispüree in eine Schüssel geben und mit den Eiern verrühren, dann Öl dazu geben und als letzte flüssige Zutat die Milch. Nun den Zucker dazu geben und gut rühren. In einer separaten Schüssel Mehl, Natron, Backpulver und Salz mischen, dann nach und nach zum Kürbisgemisch geben und schön glatt rühren.
 ![](../2017-10-18-ciambella-alla-zucca-con-cuore-cremoso-alla-cannella/impasto.jpg "frangipani © Erica")
 
 Die Hälfte des Teiges in eine bebutterte und bemehlte Gugelhupfform geben. Dann rundherum die Frischkäsecreme in der Mitte des Teiges verteilen.
