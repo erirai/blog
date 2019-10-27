@@ -1049,6 +1049,26 @@ code {
   border: 9px solid transparent;
   border-right-color: #82b965;
 }
+.article-summary .article-summary-inner .thumbnail .green-flag {
+  right: 0;
+  top: 15px;
+  color: #fff;
+  font-size: 12px;
+  padding: 2px 7px;
+  line-height: 19px;
+  position: absolute;
+  display: inline-block;
+  background-color: #008000;
+}
+.article-summary .article-summary-inner .thumbnail .green-flag:before {
+  top: 3px;
+  left: -16px;
+  content: '';
+  position: absolute;
+  display: inline-block;
+  border: 9px solid transparent;
+  border-right-color: #008000;
+}
 .article-summary .article-summary-inner .thumbnail .thumbnail-image {
   display: block;
   position: absolute;
