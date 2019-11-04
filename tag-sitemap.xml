@@ -3,6 +3,27 @@
 
 
     <url>
+        <loc>http://frangipani.raiano.ch/tags/no-waste/</loc>
+        <lastmod>2019-11-04T19:58:46.516Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/plasticfree/</loc>
+        <lastmod>2019-11-04T19:58:46.516Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/consigli-green/</loc>
+        <lastmod>2019-11-04T19:58:46.516Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://frangipani.raiano.ch/tags/zucca/</loc>
         <lastmod>2019-10-27T14:11:12.584Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -47,27 +68,6 @@
     <url>
         <loc>http://frangipani.raiano.ch/tags/mele/</loc>
         <lastmod>2019-10-17T21:03:37.228Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/no-waste/</loc>
-        <lastmod>2019-10-03T20:31:25.088Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/plasticfree/</loc>
-        <lastmod>2019-10-03T20:31:25.088Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/consigli-green/</loc>
-        <lastmod>2019-10-03T20:31:25.088Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

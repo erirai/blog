@@ -8,6 +8,20 @@
     </url>
 
     <url>
+        <loc>http://frangipani.raiano.ch/categories/Z-Ambiente/Consigli-Green/</loc>
+        <lastmod>2019-11-04T19:58:46.516Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/categories/Z-Ambiente/</loc>
+        <lastmod>2019-11-04T19:58:46.516Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://frangipani.raiano.ch/categories/Dolce/Torte/</loc>
         <lastmod>2019-10-27T14:11:12.584Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -24,20 +38,6 @@
     <url>
         <loc>http://frangipani.raiano.ch/categories/Dolce/Colazione/</loc>
         <lastmod>2019-10-17T21:03:37.228Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/categories/Z-Ambiente/Consigli-Green/</loc>
-        <lastmod>2019-10-03T20:31:25.088Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/categories/Z-Ambiente/</loc>
-        <lastmod>2019-10-03T20:31:25.088Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
