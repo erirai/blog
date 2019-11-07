@@ -1,5 +1,5 @@
 ---
-title: "Green Tip Nummer 2: Trinkflasche immer mitnehmen"
+title: "Green Tip Nummer 3: Trinkflasche immer mitnehmen"
 date: 2019-11-08
 tags:
 - consigli green
@@ -18,7 +18,7 @@ lang: de
   </font> Warum sollte ich das tun?
 </h3>
 
-TRINKFLASCHE IMMER MITNEHMEN, das ist mein dritter Green Tip! Stellt euch vor, wie viele Plastikflaschen wir mit einer Trinkflasche einsparen können... Wie oft kommt es vor, dass wir unterwegs sind, Durst bekommen und etwas zum trinken kaufen. Wir trinken es aus und werfen die Flasche weg. Sehr unnötig muss ich sagen, nicht? Oder bevor wir zur Arbeit gehen, nehmen wir uns einen Coffee to go und werfen am Ende den Becher (innen plastifiziert) und den Deckel auch aus Plastik weg. Auch das ist unnötig, nicht wahr? Ganz zu schweigen davon, dass im Sommer kalte Getränke in Plastikflaschen sofort warm werden. Und im Winter kühlen heisse Getränke in Einwegbechern sofort ab.
+TRINKFLASCHE IMMER MITNEHMEN, das ist mein dritter Green Tip! Stellt euch vor, wie viele Plastikflaschen wir mit einer Trinkflasche einsparen können... Wie oft kommt es vor, dass wir unterwegs sind, Durst bekommen und etwas zum trinken kaufen. Wir trinken es aus und werfen die Flasche weg. Sehr unnötig muss ich sagen, nicht? Oder bevor wir zur Arbeit gehen, nehmen wir uns einen Coffee to go und werfen am Ende den Becher (innen mit Plastikschicht) und den Deckel auch aus Plastik weg. Auch das ist unnötig, nicht wahr? Ganz zu schweigen davon, dass im Sommer kalte Getränke in Plastikflaschen sofort warm werden. Und im Winter kühlen heisse Getränke in Einwegbechern sofort ab.
 ![](../2019-11-08-consiglio-green-numero-3/green4.jpeg "frangipani © Erica")
 
 <h3>
@@ -26,7 +26,7 @@ TRINKFLASCHE IMMER MITNEHMEN, das ist mein dritter Green Tip! Stellt euch vor, w
 	</font> Wie mache ich das?
 </h3>
 
-Investiert in eine gute Thermosflasche, möglicherweise nicht aus Plastik, und packt sie in eure Tasche. Bevor ihr ausser Haus geht, befüllt sie mit Wasser, Kaffee, Milchkaffe, Tee usw. Auf diese Weise habt ihr immer etwas zum trinken dabei und die Getränke bleiben stundenlang kalt oder warm! Ansonsten nehmt die leere Flasche mit und füllt sie bei Bedarf auf.
+Investiert in eine gute Thermosflasche, möglicherweise nicht aus Plastik, und packt sie in eure Tasche. Bevor ihr ausser Haus geht, füllt sie mit Wasser, Kaffee, Milchkaffe, Tee usw. Auf diese Weise habt ihr immer etwas zum trinken dabei und die Getränke bleiben stundenlang kalt oder warm! Ansonsten nehmt die leere Flasche mit und füllt sie bei Bedarf auf.
 <br />
 Ihr könnt dasselbe für eure Kinder tun. Lasst sie die Flasche auswählen, damit sie sie mit Vergnügen überall mitnehmen, in den Kindergarten, in die Schule oder zum Sport.
 <br />
