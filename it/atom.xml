@@ -123,13 +123,13 @@ Passato il tempo necessario, prendete il panetto e stendetelo, aiutandovi con de
       <category term="Crostate, Tartes..." scheme="http://frangipani.raiano.ch/categories/Dolce/Crostate-Tartes/"/>
     
     
-      <category term="dolci" scheme="http://frangipani.raiano.ch/tags/dolci/"/>
-    
-      <category term="crostata" scheme="http://frangipani.raiano.ch/tags/crostata/"/>
+      <category term="natale" scheme="http://frangipani.raiano.ch/tags/natale/"/>
     
       <category term="cioccolato" scheme="http://frangipani.raiano.ch/tags/cioccolato/"/>
     
-      <category term="natale" scheme="http://frangipani.raiano.ch/tags/natale/"/>
+      <category term="dolci" scheme="http://frangipani.raiano.ch/tags/dolci/"/>
+    
+      <category term="crostata" scheme="http://frangipani.raiano.ch/tags/crostata/"/>
     
       <category term="tarte" scheme="http://frangipani.raiano.ch/tags/tarte/"/>
     
@@ -504,11 +504,11 @@ E comunque, se ci abituiamo a portarci sempre dietro la borraccia, comprare le b
       <category term="Torte" scheme="http://frangipani.raiano.ch/categories/Dolce/Torte/"/>
     
     
+      <category term="cioccolato" scheme="http://frangipani.raiano.ch/tags/cioccolato/"/>
+    
       <category term="dolci" scheme="http://frangipani.raiano.ch/tags/dolci/"/>
     
       <category term="halloween" scheme="http://frangipani.raiano.ch/tags/halloween/"/>
-    
-      <category term="cioccolato" scheme="http://frangipani.raiano.ch/tags/cioccolato/"/>
     
       <category term="torta" scheme="http://frangipani.raiano.ch/tags/torta/"/>
     
@@ -1611,9 +1611,9 @@ Per noi venerdì alle ore 11:50 inizieranno le vacanze estive! Spegnamo la svegl
     
       <category term="contorno" scheme="http://frangipani.raiano.ch/tags/contorno/"/>
     
-      <category term="insalata" scheme="http://frangipani.raiano.ch/tags/insalata/"/>
-    
       <category term="ceci" scheme="http://frangipani.raiano.ch/tags/ceci/"/>
+    
+      <category term="insalata" scheme="http://frangipani.raiano.ch/tags/insalata/"/>
     
       <category term="cetrioli" scheme="http://frangipani.raiano.ch/tags/cetrioli/"/>
     
@@ -1736,9 +1736,9 @@ Per noi venerdì alle ore 11:50 inizieranno le vacanze estive! Spegnamo la svegl
       <category term="Dolci al cucchiaio, Gelati..." scheme="http://frangipani.raiano.ch/categories/Dolce/Dolci-al-cucchiaio-Gelati/"/>
     
     
-      <category term="glutenfree" scheme="http://frangipani.raiano.ch/tags/glutenfree/"/>
-    
       <category term="dolci" scheme="http://frangipani.raiano.ch/tags/dolci/"/>
+    
+      <category term="glutenfree" scheme="http://frangipani.raiano.ch/tags/glutenfree/"/>
     
       <category term="torta" scheme="http://frangipani.raiano.ch/tags/torta/"/>
     
