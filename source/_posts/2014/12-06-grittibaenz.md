@@ -38,7 +38,7 @@ Nella tradizione svizzera ogni anno il 6 dicembre San Nicolao viene a trovare i 
             <td>zucchero</td>
           </tr>
           <tr>
-            <td>1/2</td>
+            <td>1/2 bustina</td>
             <td>lievito di birra secco</td>
           </tr>
           <tr>
