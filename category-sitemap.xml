@@ -8,14 +8,21 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/categories/Dolce/Panificati/</loc>
-        <lastmod>2019-12-04T15:42:14.851Z</lastmod>
+        <loc>http://frangipani.raiano.ch/categories/Dolce/Bevande/</loc>
+        <lastmod>2019-12-11T19:58:52.443Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://frangipani.raiano.ch/categories/Dolce/</loc>
+        <lastmod>2019-12-11T19:58:52.443Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/categories/Dolce/Panificati/</loc>
         <lastmod>2019-12-04T15:42:14.851Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -150,13 +157,6 @@
     <url>
         <loc>http://frangipani.raiano.ch/categories/Salato/Primi-Piatti/</loc>
         <lastmod>2019-01-11T15:03:13.778Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/categories/Dolce/Bevande/</loc>
-        <lastmod>2018-10-04T08:25:35.822Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
