@@ -8,6 +8,34 @@
     </url>
 
     <url>
+        <loc>http://frangipani.raiano.ch/categories/Salato/Secondi-Piatti-e-Contorni/</loc>
+        <lastmod>2020-01-09T09:49:21.952Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/categories/Salato/</loc>
+        <lastmod>2020-01-09T09:49:21.952Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/categories/Z-Ambiente/Consigli-Green/</loc>
+        <lastmod>2020-01-09T09:48:31.844Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/categories/Z-Ambiente/</loc>
+        <lastmod>2020-01-09T09:48:31.844Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://frangipani.raiano.ch/categories/Dolce/Bevande/</loc>
         <lastmod>2019-12-11T19:58:52.443Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -29,20 +57,6 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/categories/Z-Ambiente/Consigli-Green/</loc>
-        <lastmod>2019-12-04T13:51:55.639Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/categories/Z-Ambiente/</loc>
-        <lastmod>2019-12-04T13:51:55.639Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://frangipani.raiano.ch/categories/Dolce/Crostate-Tartes/</loc>
         <lastmod>2019-11-26T20:36:00.381Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -52,20 +66,6 @@
     <url>
         <loc>http://frangipani.raiano.ch/categories/Dolce/Torte/</loc>
         <lastmod>2019-11-19T16:56:55.430Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/categories/Salato/Secondi-Piatti-e-Contorni/</loc>
-        <lastmod>2019-11-12T16:05:50.361Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/categories/Salato/</loc>
-        <lastmod>2019-11-12T16:05:50.361Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
