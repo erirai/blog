@@ -78,7 +78,7 @@ Ist auch bei euch der Herbst eingetroffen? Hier definitv ja, und wie! Am letzten
   </font> Zubereitung
 </h3>
 
-Butter und Zucker mit dem Handmixer verrühren bis es hell wird, dann Ei unterrühren bis es vollständig eingearbeitet ist. Nun Mehl, Backpulver, Salz und Vanille dazu geben und nochmals mixer. Das Resultat ist ähnlich wie Mürbeteig, nur viel weicher. In einer anderen Schüssel Brombeeren, Zucker und Zitronensaft mischen und in die Kuchenform geben. Teig vorsichtig mit einem Löffel über die Brombeeren streichen.
+Butter und Zucker mit dem Handmixer verrühren bis es hell wird, dann Ei unterrühren bis es vollständig eingearbeitet ist. Nun Mehl, Backpulver, Salz und Vanille dazu geben und nochmals mixen. Das Resultat ist ähnlich wie Mürbeteig, nur viel weicher. In einer anderen Schüssel Brombeeren, Zucker und Zitronensaft mischen und in die Kuchenform geben. Teig vorsichtig mit einem Löffel über die Brombeeren streichen.
 ![](../2017-09-05-cobbler-di-more/teglia.jpg "frangipani © Erica")
 
 Der Cobbler kommt für ca. 40min in den vorgeheizten Ofen bei 190°C Ober- und Unterhitze. Es soll schön goldbraun werden, darf aber nicht anbrennen. Er sollte noch schön warm gegessen werden... Einfach so oder mit Vanilleeis... wie ihr es am liebsten habt. Aber auch kalt ist es sehr lecker!
