@@ -8,6 +8,20 @@
     </url>
 
     <url>
+        <loc>http://frangipani.raiano.ch/categories/Dolce/Crostate-Tartes/</loc>
+        <lastmod>2020-01-15T15:30:28.985Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/categories/Dolce/</loc>
+        <lastmod>2020-01-15T15:30:28.985Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://frangipani.raiano.ch/categories/Salato/Secondi-Piatti-e-Contorni/</loc>
         <lastmod>2020-01-09T09:49:21.952Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -43,22 +57,8 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/categories/Dolce/</loc>
-        <lastmod>2019-12-11T19:58:52.443Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://frangipani.raiano.ch/categories/Dolce/Panificati/</loc>
         <lastmod>2019-12-04T15:42:14.851Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/categories/Dolce/Crostate-Tartes/</loc>
-        <lastmod>2019-11-26T20:36:00.381Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

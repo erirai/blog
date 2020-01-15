@@ -3,6 +3,41 @@
 
 
     <url>
+        <loc>http://frangipani.raiano.ch/tags/inverno/</loc>
+        <lastmod>2020-01-15T15:30:28.985Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/cobbler/</loc>
+        <lastmod>2020-01-15T15:30:28.985Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/autunno/</loc>
+        <lastmod>2020-01-15T15:30:28.985Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/dolci/</loc>
+        <lastmod>2020-01-15T15:30:28.985Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/more/</loc>
+        <lastmod>2020-01-15T14:02:32.347Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://frangipani.raiano.ch/tags/cavolo/</loc>
         <lastmod>2020-01-09T09:49:21.952Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -108,21 +143,7 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/tags/dolci/</loc>
-        <lastmod>2019-11-26T20:36:00.381Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://frangipani.raiano.ch/tags/dolce/</loc>
-        <lastmod>2019-11-19T16:56:55.430Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/autunno/</loc>
         <lastmod>2019-11-19T16:56:55.430Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -208,13 +229,6 @@
     <url>
         <loc>http://frangipani.raiano.ch/tags/muffin/</loc>
         <lastmod>2019-09-11T14:21:30.639Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/more/</loc>
-        <lastmod>2019-09-05T18:45:19.776Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -1076,13 +1090,6 @@
     <url>
         <loc>http://frangipani.raiano.ch/tags/swiss-cake-festival/</loc>
         <lastmod>2017-10-22T15:28:40.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/cobbler/</loc>
-        <lastmod>2017-09-04T07:50:14.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
