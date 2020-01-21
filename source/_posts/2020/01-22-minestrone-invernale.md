@@ -19,7 +19,7 @@ Fortunatamente è tutta verdura che mi piace molto, il cavolo nero addirittura l
 <br />
 Mettete la verdura che volete o quello che avete in frigo. Ogni stagione ha il suo minestrone, cambia la verdura ma il procedimento è sempre lo stesso.
 <br />
-Non buttate gli scarti delle verdure (buccia delle carote, patate e zucca, le parti legnose dei cavoli, le foglie esterne della verza e del cavolo cappuccio, la parte verde del porro ecc). Potete metterli in un sacchettino, anzi meglio in un contenitore, e lo mettete in congelatore. Man mano aggiugete altri scarti e con questi scarti potete fare un ottimo brodo, un brodo senza sprechi...
+Non buttate gli scarti delle verdure (buccia delle carote, patate e zucca, le parti legnose dei cavoli, le foglie esterne della verza e del cavolo cappuccio, la parte verde del porro ecc). Potete metterli in un sacchettino, anzi meglio in un contenitore, e li mettete in congelatore. Man mano aggiungete altri scarti e con questi scarti potete fare un ottimo brodo, un brodo senza sprechi...
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">

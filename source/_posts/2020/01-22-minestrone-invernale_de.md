@@ -19,7 +19,7 @@ Zum Glück mag ich praktisch jedes Gemüse, das Palmkohl kommt sogar aus unserem
 <br />
 Man kann selbstverständlich das Gemüse nehmen, dass man möchte oder sich im Kühlschrank befindet. Jede Jahreszeit hat den eigenen Minestrone, es ändern sich die Gemüsesorten, jedoch nicht die Zubereitung.
 <br />
-Werft die Gemüseresten nicht weg (Karotten-, Kartoffel- und Kürbisschalen, die holzigen Stellen des Kohls, die äusseren Blätter der Kohlsorten, den grünen Teil des Lauchs usw.). Man kann sie in eine Tüte oder besser in einen Behälter geben und in den Gefrierschrank stellen. Fügt nach und nach weitere Reste hinzu, und mit diesen Resten könnt ihr eine hervorragende Brühe herstellen, eine Brühe ohne Verschwendung...
+Werft die Gemüseabfälle nicht weg (Karotten-, Kartoffel- und Kürbisschalen, die holzigen Stellen des Kohls, die äusseren Blätter der Kohlsorten, den grünen Teil des Lauchs usw.). Man kann sie in eine Tüte oder besser in einen Behälter geben und in den Gefrierschrank stellen. Fügt nach und nach weitere Abfälle hinzu, und mit diesen Abfällen könnt ihr eine hervorragende Brühe kochen, eine Brühe ohne Verschwendung...
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
