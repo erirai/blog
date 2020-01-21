@@ -4,7 +4,21 @@
 
     <url>
         <loc>http://frangipani.raiano.ch/tags/inverno/</loc>
-        <lastmod>2020-01-15T15:30:28.985Z</lastmod>
+        <lastmod>2020-01-21T17:31:51.595Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/piatto-unico/</loc>
+        <lastmod>2020-01-21T17:31:51.595Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/vegan/</loc>
+        <lastmod>2020-01-21T17:31:51.595Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -46,13 +60,6 @@
 
     <url>
         <loc>http://frangipani.raiano.ch/tags/contorno/</loc>
-        <lastmod>2020-01-09T09:49:21.952Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/vegan/</loc>
         <lastmod>2020-01-09T09:49:21.952Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -256,13 +263,6 @@
 
     <url>
         <loc>http://frangipani.raiano.ch/tags/antipasto/</loc>
-        <lastmod>2019-08-21T13:22:51.117Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/piatto-unico/</loc>
         <lastmod>2019-08-21T13:22:51.117Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
