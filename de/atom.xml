@@ -4,7 +4,7 @@
   
   <link href="http://frangipani.raiano.ch/de/atom.xml" rel="self"/>
   <link href="http://frangipani.raiano.ch/"/>
-  <updated>2020-01-21T17:31:51.595Z</updated>
+  <updated>2020-01-21T19:24:02.006Z</updated>
   <id>http://frangipani.raiano.ch/</id>
   
   <author>
@@ -19,7 +19,7 @@
     <link href="http://frangipani.raiano.ch/2020-01-22-minestrone-invernale-de/"/>
     <id>http://frangipani.raiano.ch/2020-01-22-minestrone-invernale-de/</id>
     <published>2020-01-21T23:00:00.000Z</published>
-    <updated>2020-01-21T17:31:51.595Z</updated>
+    <updated>2020-01-21T19:24:02.006Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2020-01-22-minestrone-invernale/header.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Ein guter &lt;strong&gt;Winter-Minestrone&lt;/strong&gt;, um diese eisigen Tage aufzuwärmen! Nichts wärmt mehr als Brühe... Damit man im Winter gegen die ganzen Viren ankämpfen kann, ist es sehr wichtig, auch viel Gemüse zu essen. Aber in den Monaten Januar und Februar ist es überhaupt nicht einfach. Das regionale und saisonale Gemüse ist nicht viel, es gibt sehr wenig Auswahl. Fast alle aktuellen saisonalen Schweizer Gemüsesorten sind in dieser Zutatenliste enthalten. Und genau in diesen zwei Monaten muss ich sehr kämpfen, denn ich freue mich jetzt schon auf den Frühling, um mehr Auswahl zu haben.
 &lt;br&gt;
@@ -27,7 +27,7 @@ Zum Glück mag ich praktisch jedes Gemüse, das Palmkohl kommt sogar aus unserem
 &lt;br&gt;
 Man kann selbstverständlich das Gemüse nehmen, dass man möchte oder sich im Kühlschrank befindet. Jede Jahreszeit hat den eigenen Minestrone, es ändern sich die Gemüsesorten, jedoch nicht die Zubereitung.
 &lt;br&gt;
-Werft die Gemüseresten nicht weg (Karotten-, Kartoffel- und Kürbisschalen, die holzigen Stellen des Kohls, die äusseren Blätter der Kohlsorten, den grünen Teil des Lauchs usw.). Man kann sie in eine Tüte oder besser in einen Behälter geben und in den Gefrierschrank stellen. Fügt nach und nach weitere Reste hinzu, und mit diesen Resten könnt ihr eine hervorragende Brühe herstellen, eine Brühe ohne Verschwendung...&lt;/p&gt;
+Werft die Gemüseabfälle nicht weg (Karotten-, Kartoffel- und Kürbisschalen, die holzigen Stellen des Kohls, die äusseren Blätter der Kohlsorten, den grünen Teil des Lauchs usw.). Man kann sie in eine Tüte oder besser in einen Behälter geben und in den Gefrierschrank stellen. Fügt nach und nach weitere Abfälle hinzu, und mit diesen Abfällen könnt ihr eine hervorragende Brühe kochen, eine Brühe ohne Verschwendung...&lt;/p&gt;
 &lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
   &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
     &lt;div class=&quot;ingredients&quot;&gt;
@@ -260,9 +260,9 @@ Butter und Zucker mit dem Handmixer verrühren bis es hell wird, dann Ei unterr�
     
       <category term="dolci" scheme="http://frangipani.raiano.ch/tags/dolci/"/>
     
-      <category term="autunno" scheme="http://frangipani.raiano.ch/tags/autunno/"/>
-    
       <category term="cobbler" scheme="http://frangipani.raiano.ch/tags/cobbler/"/>
+    
+      <category term="autunno" scheme="http://frangipani.raiano.ch/tags/autunno/"/>
     
       <category term="inverno" scheme="http://frangipani.raiano.ch/tags/inverno/"/>
     
@@ -495,13 +495,13 @@ GUT MISCHEN UND UNTER STÄNDIGEM RÜHREN, SO LANGE KÖCHELN LASSEN, BIS DIE HEIS
       <category term="Bevande" scheme="http://frangipani.raiano.ch/categories/Dolce/Bevande/"/>
     
     
-      <category term="natale" scheme="http://frangipani.raiano.ch/tags/natale/"/>
-    
-      <category term="diy" scheme="http://frangipani.raiano.ch/tags/diy/"/>
-    
       <category term="cioccolato" scheme="http://frangipani.raiano.ch/tags/cioccolato/"/>
     
+      <category term="natale" scheme="http://frangipani.raiano.ch/tags/natale/"/>
+    
       <category term="bevande" scheme="http://frangipani.raiano.ch/tags/bevande/"/>
+    
+      <category term="diy" scheme="http://frangipani.raiano.ch/tags/diy/"/>
     
   </entry>
   
@@ -740,13 +740,13 @@ Nun den Teig aus dem Kühlschrank nehmen, Arbeitsfläche mit Mehl bestäuben und
       <category term="Crostate, Tartes..." scheme="http://frangipani.raiano.ch/categories/Dolce/Crostate-Tartes/"/>
     
     
-      <category term="natale" scheme="http://frangipani.raiano.ch/tags/natale/"/>
-    
-      <category term="cioccolato" scheme="http://frangipani.raiano.ch/tags/cioccolato/"/>
-    
       <category term="dolci" scheme="http://frangipani.raiano.ch/tags/dolci/"/>
     
       <category term="crostata" scheme="http://frangipani.raiano.ch/tags/crostata/"/>
+    
+      <category term="cioccolato" scheme="http://frangipani.raiano.ch/tags/cioccolato/"/>
+    
+      <category term="natale" scheme="http://frangipani.raiano.ch/tags/natale/"/>
     
       <category term="tarte" scheme="http://frangipani.raiano.ch/tags/tarte/"/>
     
@@ -1118,9 +1118,9 @@ Und wenn wir uns daran gewöhnen immer unsere Trinkflasche mit uns zu tragen, wi
       <category term="Torte" scheme="http://frangipani.raiano.ch/categories/Dolce/Torte/"/>
     
     
-      <category term="cioccolato" scheme="http://frangipani.raiano.ch/tags/cioccolato/"/>
-    
       <category term="dolci" scheme="http://frangipani.raiano.ch/tags/dolci/"/>
+    
+      <category term="cioccolato" scheme="http://frangipani.raiano.ch/tags/cioccolato/"/>
     
       <category term="halloween" scheme="http://frangipani.raiano.ch/tags/halloween/"/>
     
@@ -1404,11 +1404,11 @@ Werft die Papierservietten oder das Küchenpapier, das ihr bereits zu Hause oder
     
       <category term="funghi" scheme="http://frangipani.raiano.ch/tags/funghi/"/>
     
-      <category term="contorno" scheme="http://frangipani.raiano.ch/tags/contorno/"/>
+      <category term="pomodori" scheme="http://frangipani.raiano.ch/tags/pomodori/"/>
     
       <category term="zucca" scheme="http://frangipani.raiano.ch/tags/zucca/"/>
     
-      <category term="pomodori" scheme="http://frangipani.raiano.ch/tags/pomodori/"/>
+      <category term="contorno" scheme="http://frangipani.raiano.ch/tags/contorno/"/>
     
   </entry>
   
@@ -1546,11 +1546,11 @@ Küchlein auskühlen lassen, bevor sie aus der Backform genommen werden, dann de
     
       <category term="muffin" scheme="http://frangipani.raiano.ch/tags/muffin/"/>
     
-      <category term="carote" scheme="http://frangipani.raiano.ch/tags/carote/"/>
-    
       <category term="prugne" scheme="http://frangipani.raiano.ch/tags/prugne/"/>
     
       <category term="cannella" scheme="http://frangipani.raiano.ch/tags/cannella/"/>
+    
+      <category term="carote" scheme="http://frangipani.raiano.ch/tags/carote/"/>
     
       <category term="lactosefree" scheme="http://frangipani.raiano.ch/tags/lactosefree/"/>
     
@@ -1775,9 +1775,9 @@ Auguri a noi! Ti amo tanto!&lt;/p&gt;
     
       <category term="torta" scheme="http://frangipani.raiano.ch/tags/torta/"/>
     
-      <category term="pere" scheme="http://frangipani.raiano.ch/tags/pere/"/>
-    
       <category term="more" scheme="http://frangipani.raiano.ch/tags/more/"/>
+    
+      <category term="pere" scheme="http://frangipani.raiano.ch/tags/pere/"/>
     
   </entry>
   
@@ -2116,9 +2116,9 @@ Wir freuen uns auch für dich, denn du konntest es kaum erwarten mit dem Kinderg
       <category term="Colazione" scheme="http://frangipani.raiano.ch/categories/Dolce/Colazione/"/>
     
     
-      <category term="colazione" scheme="http://frangipani.raiano.ch/tags/colazione/"/>
-    
       <category term="mirtilli" scheme="http://frangipani.raiano.ch/tags/mirtilli/"/>
+    
+      <category term="colazione" scheme="http://frangipani.raiano.ch/tags/colazione/"/>
     
   </entry>
   
@@ -2205,13 +2205,13 @@ Für uns beginnen am Freitag um 11:50 Uhr die Sommerferien! Wir schalten den Wec
     
       <category term="vegan" scheme="http://frangipani.raiano.ch/tags/vegan/"/>
     
-      <category term="avocado" scheme="http://frangipani.raiano.ch/tags/avocado/"/>
-    
       <category term="piatto unico" scheme="http://frangipani.raiano.ch/tags/piatto-unico/"/>
     
-      <category term="contorno" scheme="http://frangipani.raiano.ch/tags/contorno/"/>
-    
       <category term="pomodori" scheme="http://frangipani.raiano.ch/tags/pomodori/"/>
+    
+      <category term="avocado" scheme="http://frangipani.raiano.ch/tags/avocado/"/>
+    
+      <category term="contorno" scheme="http://frangipani.raiano.ch/tags/contorno/"/>
     
       <category term="ceci" scheme="http://frangipani.raiano.ch/tags/ceci/"/>
     
