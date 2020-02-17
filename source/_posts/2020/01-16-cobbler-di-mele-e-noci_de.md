@@ -18,7 +18,7 @@ Apfel-Baumnuss-Cobbler, weil ein heisser Cobbler immer gut tut, vor allem bei di
 <br />
 Kennt ihr Cobbler? Vor einiger Zeit habe ich meinen ersten Cobbler gebacken und zwar mit <a href="https://frangipani.raiano.ch/2017-09-05-cobbler-di-more-de/" target="_blank">Brombeeren</a>, himmlisch! Zu Beginn wollte ich eigentlich einen Apfel-Crumble backen, im letzten Moment habe ich mich aber umentschieden. Glaubt ihr es mir, dass ich noch nie einen simplen Apfel-Crumble gebacken habe? Naja, mein Mann sagt mir immer wieder, dass ich komisch bin, darum überrascht mich das nicht. 
 <br />
-Als ich dann las, welche Zutaten im Warenkorb der 10. Foodie Challenge, organisiert von <a href="https://www.foodblogs-schweiz.ch" target="_blank">Foodblogs Schweiz</a>, zu verfügung stehen, dachte ich mir, es wäre Zeit einen Apfel-Crumble zu backen, aber ich muss es wieder verschieben...
+Als ich dann las, welche Zutaten im Warenkorb der 10. Foodie Challenge, organisiert von <a href="https://www.foodblogs-schweiz.ch" target="_blank">Foodblogs Schweiz</a>, zur Verfügung stehen, dachte ich mir, es wäre Zeit einen Apfel-Crumble zu backen, aber ich muss es wieder verschieben...
 
 <a href="https://www.foodblogs-schweiz.ch/challenge/" target="_blank" rel="noreferrer noopener">
 <img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2020/01/Challenge-Banner.png" alt="Foodblogs Schweiz Challenge" class="wp-image-452"></a>
