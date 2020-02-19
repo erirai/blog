@@ -1,5 +1,5 @@
 ---
-title: "Ricotta-Apfel-Puffer"
+title: "Ricotta-Apfel-Krapfen"
 date: 2018-01-30
 tags:
 - carnevale
@@ -15,7 +15,7 @@ lang: de
 ---
 ![](../2018-01-30-frittelle-di-ricotta-e-mele/header.jpg "frangipani © Erica")
 
-An Fastnachten gehört frittiertes Gebäck einfach dazu, so wie diese Ricotta-Apfel-Puffer. Diese sind auch ganz einfach, alles in einer Schüssel mischen und dann frittieren. Schön fluffig und saftig, eine nach der anderen! Für das Aroma habe ich Zitronenabrieb genommen, ihr könnt aber auch Zimt nehmen. Äpfel und Zimt ist immer eine gute Kombi. Oder auch Rosinen, wer das mag. Ich nicht! Sie sind super zum z'Vieri, ab und zu darf man... Fastnachten ist ja ein Fest. Wie ihr sicher schon wisst, versuche ich alles, was eigentlich frittiert werden sollte, im Ofen zu backen, aber in diesem Falle passt es einfach. Einige Dinge müssen einfach frittiert werden. Punkt. Habt ihr schon mit dem Frittieren begonnen?
+An Fastnachten gehört frittiertes Gebäck einfach dazu, so wie diese Ricotta-Apfel-Krapfen. Diese sind auch ganz einfach, alles in einer Schüssel mischen und dann frittieren. Schön fluffig und saftig, einer nach dem anderen! Für das Aroma habe ich Zitronenabrieb genommen, ihr könnt aber auch Zimt nehmen. Äpfel und Zimt ist immer eine gute Kombi. Oder auch Rosinen, wer das mag. Ich nicht! Sie sind super zum z'Vieri, ab und zu darf man... Fastnachten ist ja ein Fest. Wie ihr sicher schon wisst, versuche ich alles, was eigentlich frittiert werden sollte, im Ofen zu backen, aber in diesem Falle passt es einfach. Einige Dinge müssen einfach frittiert werden. Punkt. Habt ihr schon mit dem Frittieren begonnen?
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
@@ -80,7 +80,7 @@ Alle Zutaten von der Ricotta bis zum Zitronenabrieb in eine Schüssel geben und 
 Öl zum frittieren aufwärmen, dann mit Hilfe von zwei Esslöffeln Kugeln formen und vorischtig dierekt ins heisse Öl geben. So lange frittieren, bis sie eine schöne groldbraune Farbe haben.
 ![](../2018-01-30-frittelle-di-ricotta-e-mele/friggere.jpg "frangipani © Erica")
 
-Puffer auf Küchenpapier legen, damit das überschüssige Öl absorbiert wird, dann in Zucker wälzen.
+Krapfen auf Küchenpapier legen, damit das überschüssige Öl absorbiert wird, dann in Zucker wälzen.
 ![](../2018-01-30-frittelle-di-ricotta-e-mele/carta.jpg "frangipani © Erica")
 
 Sofort essen, warm sind sie am besten...
