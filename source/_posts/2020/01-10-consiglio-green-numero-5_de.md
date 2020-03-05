@@ -85,7 +85,7 @@ Ich benutze die Bienenwachstücher schon seit einem Jahr und könnte nicht mehr 
   </div>
 </p>
 
-<h4>Grazie per l'aiuto...
+<h4>Danke für eure Hilfe...
   <font color="green">
     <i class="fa fa-smile-o"></i>
   </font>

@@ -162,7 +162,7 @@ Orchideenblüten sind sooo schön. Wenn ihr den richtigen Standort gefunden habt
   </div>
 </p>
 
-<h4>Grazie per l'aiuto...
+<h4>Danke für eure Hilfe...
   <font color="green">
     <i class="fa fa-smile-o"></i>
   </font>
