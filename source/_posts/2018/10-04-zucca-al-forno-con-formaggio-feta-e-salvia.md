@@ -62,7 +62,7 @@ Zucca al Forno con Formaggio Feta e Salvia, un ottimo contorno che si prepara se
 
 Pulite la zucca e tagliatela a spicchi spessi 1-2cm. Condite la zucca con olio, sale e salvia e mescolate tutto con le mani. Adagiate la zucca in una teglia con sotto della carta forno e aggiungete anche uno spicchio d'aglio in camicia schiacciato. Infornate nel forno preriscaldato a 180°C ventilato per 20-30min o almeno finché sarà cotta, dipende dal tipo di zucca. Eliminate l'aglio, sbriciolate il Formaggio Feta sulla zucca e rimettete in forno per 5min.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="teglia1.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="teglia2.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

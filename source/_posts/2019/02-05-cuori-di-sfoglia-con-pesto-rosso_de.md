@@ -64,7 +64,7 @@ Gaia ist diese und nächste Woche im Urlaub, kein Kindergarten. Alle gehen in di
 
 Getrocknete Tomaten, Pinienkerne, Basilikum und Olivenöl zusammen pürieren. Mit Olivenöl oder Wasser aushelfen, bis das Pesto gut streichfähig ist. Pesto auf eine Hälfte des Blätterteiges streichen. Mit der anderen Hälfte abdecken und mit einem Schneidrad oder Messer 1.5cm dicke Streifen schneiden.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2019-02-05-cuori-di-sfoglia-con-pesto-rosso/pesto.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2019-02-05-cuori-di-sfoglia-con-pesto-rosso/tagliato.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

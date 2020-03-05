@@ -110,7 +110,7 @@ Karotten waschen, schälen und fein reiben, auf die Seite legen. Mit dem Handmix
 <br />
 Küchlein auskühlen lassen, bevor sie aus der Backform genommen werden, dann den Zwetschgen-Zimt-Kompott vorbereiten. Zwetschgen waschen, entkernen, vierteln und in ein Kochtopf geben. Wenig Zucker, Zitronensaft, Zimt (ich Zimtstange) und einen Schluck Wasser dazu geben. Nun auf mittlerer Stufe so lange köcheln lassen, bis das Kompott beginnt am Kochtopfboden zu kleben.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2019-09-12-tortine-alle-carote-con-composta-di-prugne-alla-cannella/tortine.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2019-09-12-tortine-alle-carote-con-composta-di-prugne-alla-cannella/composta.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

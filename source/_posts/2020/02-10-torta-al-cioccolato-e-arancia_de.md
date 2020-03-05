@@ -104,7 +104,7 @@ Kuchen für 55-60min im vorgeheizten Ofen bei 170°C Ober- und Unterhitze backen
 <br />
 Kuchen etwas auskühlen lassen, bevor er aus der Form gestürzt wird. Sobald der Kuchen komplett ausgekühlt ist, geschmolzene dunkle oder Ruby Schokolade auf den Kuchen verteilen.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2020-02-10-torta-al-cioccolato-e-arancia/risultato1.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2020-02-10-torta-al-cioccolato-e-arancia/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -114,7 +114,7 @@ Kuchen etwas auskühlen lassen, bevor er aus der Form gestürzt wird. Sobald der
 ![](../2020-02-10-torta-al-cioccolato-e-arancia/risultato3.jpeg "frangipani © Erica")
 
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2020-02-10-torta-al-cioccolato-e-arancia/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2020-02-10-torta-al-cioccolato-e-arancia/risultato5.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -124,7 +124,7 @@ Kuchen etwas auskühlen lassen, bevor er aus der Form gestürzt wird. Sobald der
 ![](../2020-02-10-torta-al-cioccolato-e-arancia/risultato6.jpeg "frangipani © Erica")
 
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2020-02-10-torta-al-cioccolato-e-arancia/risultato7.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2020-02-10-torta-al-cioccolato-e-arancia/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

@@ -78,7 +78,7 @@ Ich wünsche euch ein schönes Osterfest, verbringt nicht zu viel Zeit in der K�
 
 Karotte schälen und in Stücke schneiden, dann zusammen mit dem Öl und Wasser pürieren. In einer Schüssel die restlichen Zutaten vermengen, dann die pürierte Karotte dazu geben und kneten. Falls der Teig zu trocken ist, einfach noch etwas Wasser dazu geben. Teig mit dem Wallholz 5mm dick auswallen und Plätzchen ausstechen.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2018-03-27-biscotti-vegani-alle-carote/impasto.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2018-03-27-biscotti-vegani-alle-carote/biscotti.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

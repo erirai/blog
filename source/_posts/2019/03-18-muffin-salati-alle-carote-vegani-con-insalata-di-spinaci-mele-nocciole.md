@@ -121,7 +121,7 @@ Lavate e pelate le carote, poi tagliatele a pezzettini. Lavate anche il porro e 
 
 Mescolate la farina e la fecola di patate setacciate, il lievito, mezzo cucchiaino di sale e le erbette aromatiche fresche o essiccate. Poi aggiungete il latte e l'olio e amalgamate il tutto. Unite le carote all'impasto e mescolate. Ungete degli stampini (o usate quelli in carta) e riempiteli fino a 3/4 con l'impasto. Distribuite sull'impasto il sesamo.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="carote.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

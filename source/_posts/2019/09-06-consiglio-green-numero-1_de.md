@@ -29,7 +29,7 @@ Die andere Sache ist, dass wir in Supermärkten leider das ganze Jahr über alle
 
 Es ist eigentlich ganz einfach... Kauft euch ein paar Stoffbeutel und steckt sie in eure Tasche. Sie wiegen nichts. Wenn ihr Obst und Gemüse kauft, verwendet diese Stoffbeutel, ohne Plastiktüten mitzunehmen. Meine habe ich vor langer Zeit im Supermarkt gekauft, mittlerweile findet man sie überall. Ich gehe schon seit einer Weile auf den Wochenmarkt, weil es dort viel weniger Plastik hat! Ich gebe den Bauern die Stoffbeutel, sie füllen sie auf und am Ende geben sie mir sehr oft auch einen Rabatt, um das Gewicht der Beutel zu kompensieren, das eigentlich gleich 0 ist. Es ist offensichtlich, dass die Beeren nicht in lose verkauft werden können, aber in diesem Fall zieht den Karton dem Kunststoff vor. Eine andere sehr bequeme Sache, die ich immer auf den Wochenmarkt mitnehme, ist meine geliebte Weidentasche. Ich habe sie vor Jahren gekauft, eigentlich verwende ich sie auch als Strandtasche. Da wir aber einmal im Jahr das Meer sehen, nutze ich sie den Rest des Jahres für den Wochenmarkt. Sie ist sehr leicht, sie hat die perfekte Form, um nicht alles zu zerdrücken und sie ist auch wunderschön!
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2019-09-06-consiglio-green-numero-1/green2.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2019-09-06-consiglio-green-numero-1/green3.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -38,7 +38,7 @@ Es ist eigentlich ganz einfach... Kauft euch ein paar Stoffbeutel und steckt sie
 
 Nach den Tipps zur Vermeidung von Plastik gibt es hier noch eine wichtige Sache... Kauft saisonal ein! Wenn wir leckere Früchte und leckeres Gemüse essen wollen, ist es angebracht, das zu kaufen, was gerade wächst. Ich weiss, dass diese Sache im Winter sehr schwierig ist und ich habe sehr Mühe damit. Aber es lohnt sich, es wenigstens zu versuchen. Und wenn wir ab und zu doch etwas kaufen, passiert nichts! Aber es sollte eine Ausnahme bleiben. Wir haben die Möglichkeit, Konserven herzustellen oder zu kaufen. Dies sind meine <a href="https://frangipani.raiano.ch/it/categories/Dolce/Conserve/" target="_blank">süssen Konserven</a> und das meine <a href="https://frangipani.raiano.ch/it/categories/Salato/Conserve/" target="_blank">herzhaften Konserven</a>... Im Internet findet man viele Saisonkalender für Obst und Gemüse. Ich empfehle euch, es von Zeit zu Zeit anzuschauen, mit der Zeit wisst ihr auswendig, was wann zu finden ist... Und auf dem Markt ist es viel einfacher, dort ist hauptsächlich saisonales zu finden!
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2019-09-06-consiglio-green-numero-1/green4.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2019-09-06-consiglio-green-numero-1/green5.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

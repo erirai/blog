@@ -100,7 +100,7 @@ Ho fatto un cuore da circa 30x30cm, più un'altra piccola Cream Tart con le due 
 
 Per prima cosa preparate la pasta frolla morbida. Mettete tutti gli ingredienti in una ciotola e impastate finché avrete un panetto liscio ed omogeneo. Schiacciatelo bene, poi avvolgetelo con della pellicola trasparente e fatelo riposare in frigo per almeno due orette. Passato il tempo necessario, prendete metà impasto e stendetelo tra due fogli di carta forno infarinati fino ad uno spessore di 5mm. Togliete il foglio di carta superiore e ritagliate la sagoma formando un anello a forma di cuore (o altro). Lasciate il cuore sul foglio di carta forno ed eliminate i resti tutt'attorno. Il cuore centrale lo potete lasciare intero e cuocerlo a parte per fare una Cream Tart più piccolina. Bucherellate tutto il cuore e mettetelo con la carta forno su di una leccarda. Cuocete nel forno preriscaldato a 160°C ventilato per 15min. Dovrà appena dorarsi. Lasciate raffreddare completamente il biscotto prima di toccarlo. Fate la stessa cosa con l'altra metà dell'impasto.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="teglia.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="biscotto.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -112,7 +112,7 @@ Preparate la Camy Cream. Mettete tutti gli ingredienti ben freddi nella planetar
 
 Adagiate un biscotto su di un piatto da portata. Mettete la Camy Cream in un sac à poche con bocchetta tonda e liscia e formate tanti ciuffi regolari coprendo tutto il biscotto. Poi appoggiateci sopra delicatamente il secondo biscotto e coprite anche questo con ciuffi di Camy Cream.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="creamtart1.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="creamtart2.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

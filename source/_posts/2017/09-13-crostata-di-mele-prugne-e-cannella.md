@@ -84,7 +84,7 @@ Anche voi avete un dolce che vi piace tanto tanto ma che per inspiegabili motivi
 
 Preparate la pastella mescolando a mano Quark (o ricotta), uovo, farina, zucchero, sale, cannella e vaniglia e mettete da parte. Rivestite una teglia grande o 4-6 monoporzioni con la pasta sfoglia tenendo di sotto la carta forno. Bucherellate il fondo e cospargete con le mandorle o le nocciole macinate. Sbucciate le mele, togliete il torsolo e taglitele a fettine. Eliminate il nocciolo delle prugne e tagliate anche queste a fettine. Distribuite le fettine di mela e di prugne sul fondo della teglia, mischiandole o separandole, come preferite. Versate la pastella sulla frutta e distribuite bene.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="pastellamele.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="pastellaprugne.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

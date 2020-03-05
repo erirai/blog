@@ -86,7 +86,7 @@ Mettete la farina, la purea di barbabietola ed il sale nella planetaria (o sul p
 
 Ungete le vostre mani e con le punte delle dita, fate dei buchi nell'impasto. Pelate le patate e tagliatele finemente a rondelle, distribuitele sull'impasto, poi mettete un bel filo d'olio, salate (meglio se con sale al rosmarino) e aggiungete anche qualche rametto di rosmarino.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="impasto.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -95,7 +95,7 @@ Ungete le vostre mani e con le punte delle dita, fate dei buchi nell'impasto. Pe
 
 Infornate nel forno preriscaldato a 200°C statico, spruzzate un pochettino d'acqua nel forno e fate cuocere per 20-30min circa.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -105,7 +105,7 @@ Infornate nel forno preriscaldato a 200°C statico, spruzzate un pochettino d'ac
 ![](risultato3.jpeg "frangipani © Erica")
 
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -113,7 +113,7 @@ Infornate nel forno preriscaldato a 200°C statico, spruzzate un pochettino d'ac
 </p>
 
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -121,7 +121,7 @@ Infornate nel forno preriscaldato a 200°C statico, spruzzate un pochettino d'ac
 </p>
 
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

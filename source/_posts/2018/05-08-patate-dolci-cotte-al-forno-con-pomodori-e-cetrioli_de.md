@@ -62,7 +62,7 @@ Gebackene Süsskartoffeln mit Tomaten und Gurken, ein leckeres und gesundes komp
 
 Süsskartoffeln gut waschen und trocknen. Mit einer Gabel gut verlöchern und auf ein mit Backpapier belegtes Blech legen. Süsskartoffeln für ca. 1h im vorgeheizten Ofen bei 200°C Umluft backen oder so lange bis sie gar sind. Sie sind gar, sobald man einfach mit der Gabel einstechen kann. Dann der länge nach halbieren, salzen und mit Öl betreufeln.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2018-05-08-patate-dolci-cotte-al-forno-con-pomodori-e-cetrioli/teglia.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2018-05-08-patate-dolci-cotte-al-forno-con-pomodori-e-cetrioli/patatedolci.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

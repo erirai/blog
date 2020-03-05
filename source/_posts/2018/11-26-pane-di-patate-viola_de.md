@@ -73,7 +73,7 @@ Violettes Kartoffelbrot mit schöner Farbe und herrlichem Duft. In Wirklichkeit 
 
 Kartoffeln in Salzwasser so lange kochen, bis sie gar sind. Wasser abgiessen, Kartoffeln pellen und durch die Kartoffelpresse geben, Butter untermischen und auf die Seite legen. Mehl, Salz und Kümmel in die Küchenmaschine geben und vermengen. Hefe im Wasser auflösen, Ahornsirup dazu geben und ebenfalls in die Küchenmaschine giessen, sowie auch die Kartoffeln. Teig so lange kneten, bis er sich vom Schüsselrand löst. Abdecken und die ganze Nacht aufgehen lassen (falls ihr nicht so viel Zeit habt, 10gr statt 3gr Hefe nehmen und 3h aufgehen lassen). 
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2018-11-26-pane-di-patate-viola/patate.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2018-11-26-pane-di-patate-viola/impasto.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

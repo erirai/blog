@@ -99,7 +99,7 @@ Pulite gli asparagi e tagliateli a pezzetti. Pelate la carota e con un pelapatat
 
 Mettete uova, yogurt greco, parmigiano grattugiato, prezzemolo, sale e pepe in una coppa e mescolate bene. Mettete le verdure cotte in una teglia (22-22cm) ricoperta con della carta forno e coprite con il miscuglio di uova. Sbriciolateci sopra il formaggio Feta, poi mettete qui e la anche i pomodorini interi.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="verdure.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

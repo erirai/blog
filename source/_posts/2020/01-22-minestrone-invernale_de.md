@@ -90,7 +90,7 @@ Nun alles köcheln lassen, bis das Gemüse gar ist. Sobald das Gemüse fast durc
 ![](../2020-01-22-minestrone-invernale/risultato1.jpeg "frangipani © Erica")
 
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2020-01-22-minestrone-invernale/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2020-01-22-minestrone-invernale/risultato3.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

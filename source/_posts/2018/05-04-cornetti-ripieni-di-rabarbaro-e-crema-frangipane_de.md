@@ -104,7 +104,7 @@ Für den Teig alle Zutaten in eine Schüssel geben und mit den kalten Händen ra
 
 Rhabarber waschen und rüsten, dann in 5cm grosse Stücke schneiden, ihr braucht 36 Stück. Rhabarber in eine Schüssel geben, Zucker und Zitronensaft dazu geben, mischen und ebenfalls 4h im Kühlschrank ruhen lassen.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2018-05-04-cornetti-ripieni-di-rabarbaro-e-crema-frangipane/impasto.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2018-05-04-cornetti-ripieni-di-rabarbaro-e-crema-frangipane/rabarbaro.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -115,7 +115,7 @@ Für die Frangipane Creme alle Zutaten in eine Schüssel geben und vermengen. Di
 
 Die Arbeitsfläche gut bemehlen, dann eines der drei Teige aus dem Kühlschrank nehmen. Teig mit einem Wallholz bis zu einem Durchmessen von ca. 26cm auswallen und in 12 Stücke (Dreiecke) aufteilen. Am Fuss des Dreiecks ein kleiner Schnitt machen, dann einen Teelöffel Frangipane Creme und ein Stückchen Rhabarber drauf legen (Rhabarbersaft nicht wegleeren). Dreiecke zu Hörnchen rollen, dabei etwas an der Spitze ziehen, damit die Hörnchen schöner werden. Hörnchen auf ein mit Backpapier belegtes Blech legen. Das selbe mit dem restlichen Teig machen.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2018-05-04-cornetti-ripieni-di-rabarbaro-e-crema-frangipane/cornetti.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2018-05-04-cornetti-ripieni-di-rabarbaro-e-crema-frangipane/teglia.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

@@ -56,7 +56,7 @@ Letzten Sonntag bin ich 31 Jahre alt geworden. Ähm, ich weiss immer noch nicht,
 
 Vanilleeis schmelzen lassen bis es cremig ist (nicht flüssig). Die Hälfte des Eises mit den Himbeeren und den zerkrümelten Baisers und Keksen mischen. Die Halbkugelform mit Frischhaltefolie bedecken, dann ca. ¾ der Himbeer-Eis-Masse in die Form geben und zu einer 1.5cm dicken Schicht streichen. Das Vanilleeis dazu geben, dabei ein Loch in der Mitte lassen. Die restliche Himbeer-Eis-Masse einfüllen, glatt streichen und zudecken.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2018-07-24-zuccotto-di-gelato-alla-vaniglia-con-lamponi-e-meringhe/guscio.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2018-07-24-zuccotto-di-gelato-alla-vaniglia-con-lamponi-e-meringhe/zuccotto.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

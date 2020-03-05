@@ -86,7 +86,7 @@ Mehl, Randenpüree und Salz in die Küchenmaschine geben (man kann alles auch vo
 
 Hände gut ölen, dann mit den Fingerspitzen, Löcher in den Teig drücken. Kartoffeln schälen und in dünne Scheiben schneiden. Kartoffelscheiben auf den Teig verteilen, etwas Öl darüber träufeln, salzen, besser mit Rosmarinsalz, und noch ein paar Rosmarinzweige darüber verteilen. 
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2020-02-18-focaccia-di-barbabietola-con-patate/impasto.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2020-02-18-focaccia-di-barbabietola-con-patate/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -95,7 +95,7 @@ Hände gut ölen, dann mit den Fingerspitzen, Löcher in den Teig drücken. Kart
 
 Die Randen-Focaccia kommt für 20-30min im vogeheizten Ofen bei 200°C Ober- und Unterhitze, am Anfang etwas Wasser in den Ofen spritzen.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2020-02-18-focaccia-di-barbabietola-con-patate/risultato1.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2020-02-18-focaccia-di-barbabietola-con-patate/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -105,7 +105,7 @@ Die Randen-Focaccia kommt für 20-30min im vogeheizten Ofen bei 200°C Ober- und
 ![](../2020-02-18-focaccia-di-barbabietola-con-patate/risultato3.jpeg "frangipani © Erica")
 
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2020-02-18-focaccia-di-barbabietola-con-patate/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2020-02-18-focaccia-di-barbabietola-con-patate/risultato5.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -113,7 +113,7 @@ Die Randen-Focaccia kommt für 20-30min im vogeheizten Ofen bei 200°C Ober- und
 </p>
 
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2020-02-18-focaccia-di-barbabietola-con-patate/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2020-02-18-focaccia-di-barbabietola-con-patate/risultato7.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -121,7 +121,7 @@ Die Randen-Focaccia kommt für 20-30min im vogeheizten Ofen bei 200°C Ober- und
 </p>
 
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2020-02-18-focaccia-di-barbabietola-con-patate/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2020-02-18-focaccia-di-barbabietola-con-patate/risultato9.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

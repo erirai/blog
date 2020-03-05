@@ -87,7 +87,7 @@ Portate l'olio per friggere a temperatura, poi con l'aiuto di due cucchiai forma
 <br />
 Servitele subito, calde sono ancora più buone...
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -97,7 +97,7 @@ Servitele subito, calde sono ancora più buone...
 ![](risultato3.jpeg "frangipani © Erica")
 
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

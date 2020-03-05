@@ -99,7 +99,7 @@ Spargeln putzen und in Stücke schneiden. Karotte schälen und mit dem Kartoffel
 
 Eier, Joghurt, Parmesankäse, Petersilie, Salz und Pfeffer in eine Schüssel geben und gut verrühren. Das gekochte Gemüse in eine mit Backpapier belegte Backform (22x22cm) verteilen und mit dem Eigemisch bedecken. Darüber den Fetakäse zerbröseln und hie und da die ganzen Cherry Tomaten verteilen.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2018-04-10-frittata-al-forno-con-verdure-e-feta/verdure.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2018-04-10-frittata-al-forno-con-verdure-e-feta/teglia.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

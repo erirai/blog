@@ -20,7 +20,7 @@ Das ist absolut meine Lieblingstorte!!!
 Hochzeitstorten, da bekommt man gleich wieder Lust nochmals zu heiraten!
 
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2017-10-22-swiss-cake-festival-2017/tortenuziali1.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2017-10-22-swiss-cake-festival-2017/tortenuziali2.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -30,7 +30,7 @@ Hochzeitstorten, da bekommt man gleich wieder Lust nochmals zu heiraten!
 Diese Torten zum Thema "Film & Hollywood" waren einfach genial, jede einzigartig und mit sehr viel Liebe zum Detail...
 
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2017-10-22-swiss-cake-festival-2017/tortefilm1.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2017-10-22-swiss-cake-festival-2017/tortefilm2.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -40,7 +40,7 @@ Diese Torten zum Thema "Film & Hollywood" waren einfach genial, jede einzigartig
 Und schaut diese Zuckerskulpturen an... Ich hoffe nur, dass diese gut aufbewahrt werden, wäre sonst sooo schade!
 
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2017-10-22-swiss-cake-festival-2017/zucchero1.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2017-10-22-swiss-cake-festival-2017/zucchero2.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

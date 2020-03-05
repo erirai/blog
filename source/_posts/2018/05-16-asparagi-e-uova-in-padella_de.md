@@ -17,7 +17,7 @@ Spargeln und Eier in der Bratpfanne, eine schnelle, leckere und gesunde Mahlzeit
 
 Da ist noch etwas, dass ich euch erzählen möchte... Letzten Donnerstag, haben wir den 5. Geburtstag unserer Tochter "gefeiert". Am Vortag hatte ich den Kuchen gemacht, der sehr schwer geworden ist, wir sollten etwa 20 Personen sein.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2018-05-16-asparagi-e-uova-in-padella/tortagaia.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2018-05-16-asparagi-e-uova-in-padella/tortagaia_dentro.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

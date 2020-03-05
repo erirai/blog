@@ -113,7 +113,7 @@ Birnen waschen, schälen, Kerngehäuse entfernen und in kleine Würfel schneiden
 
 Das grössere Stück Mürbeteig aus dem Kühlschrank nehmen und zwischen zwei Blätter Backpapier auswallen, bis es einen Durchmesser von 20cm hat. Ein 18cm rundes Backblech mit nassem und ausgewringtem Backpapier belegen, dann mit dem ausgewallten Mürbeteig belegen. Den Kuchenboden mit den zerkrümelten Keksen belegen (diese werden die Flüssigkeit der Füllung aufsaugen).
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2019-09-03-torta-di-more-e-pere/peremore.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2019-09-03-torta-di-more-e-pere/biscotti.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -122,7 +122,7 @@ Das grössere Stück Mürbeteig aus dem Kühlschrank nehmen und zwischen zwei Bl
 
 Das Birnen-Brombeergemisch auf die Kekse verteilen, dabei nicht zu viel Flüssigkeit mitnehmen. Die zweite Teighälfte zwischen zwei Blätter Backpapier auswallen, bis es einen Durchmesser von 18cm hat. Den ausgewallten Teig auf die Füllung legen und den Rand gut versiegeln. Die Oberfläche mit Milch bepinseln und zuletzt den Zucker darüber verteilen.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2019-09-03-torta-di-more-e-pere/farcia.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2019-09-03-torta-di-more-e-pere/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

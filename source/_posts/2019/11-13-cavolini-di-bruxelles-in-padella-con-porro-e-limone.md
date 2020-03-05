@@ -58,7 +58,7 @@ Nel cestino della Foodie Challenge mensile di novembre, organizzata da <a href="
 
 Pulite i cavolini togliendo le foglioline esterne, poi tagliateli a metà o in 4. Tagliate a rondelle anche il porro, poi fatelo soffriggere in una padella con un filo d'olio ed un pizzico di sale. Aggiungete un pochettino d'acqua e fatelo ammorbidire. A questo punto aggiungete i cavolini e due fettine di limone tagliate a metà. Aggiungete anche il succo di mezzo limone e un po' d'acqua. Coprite con un coperchio e fate andare finché i cavolini non saranno cotti, se c'è bisogno aggiungete ancora acqua. 
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="porro.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="padella.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

@@ -113,7 +113,7 @@ Il giorno dopo prendete l'impasto, non vi servirà tutto per una teglia da 18-20
 
 Mentre la focaccia sta lievitando, versate il composto per la farinata in una teglia dallo stesso diametro ricoperta con della carta forno oleata. Cuocete la farinata nel forno preriscaldato a 220°C ventilato per mezz'oretta o almeno finché avrà preso un bel colore.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="farinatateglia.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="farinata.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

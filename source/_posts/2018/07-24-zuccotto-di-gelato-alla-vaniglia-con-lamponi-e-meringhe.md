@@ -56,7 +56,7 @@ Domenica scorsa ho compiuto 31 anni. Mmà, ancora non so come sia possibile, ma 
 
 Fate sciogliere il gelato finché sarà cremoso ma non liquido. Mischiate la metà del gelato con i lamponi, le meringhe ed i biscotti sbriciolati. Ricoprite una forma da zuccotto con della pellicola e prendete più o meno ¾ del gelato con i lamponi e fate uno strato da circa 1.5cm. Aggiungete il gelato alla vaniglia, spalmatelo bene lasciando un buco al centro. Riempite il buco con il restante gelato con i lamponi. Livellate bene e coprite.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="guscio.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="zuccotto.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

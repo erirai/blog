@@ -91,7 +91,7 @@ Veganer Pistazien-Rhabarber-Kuchen, ein super leckeres und saftiges Dessert! Abe
 
 Rhabarber waschen und rüsten, dann in 1cm grosse Stücke schneiden, einige davon etwas länger schneiden als Deko. Rhabarber in eine Schüssel geben, Zucker und Zitronensaft dazu geben, mischen und auf die Seite legen. In einer separaten Schüssel alle Zutaten vom Mehl bis zum Salz vermengen. Falls ihr keine gemahlenen Pistazien findet, einfach ungesalzene Pistazien und einen Esslöffel Puderzucker Mixer mahlen. Dann Essig, Sonnenblumenöl und Milch dazu geben. Gut mischen, falls der Teig zu trocken ist, einfach noch etwas Milch dazu geben. Zum Schluss den Rhabarber und den -saft unterheben, dabei die längeren Stücke auf die Seite legen. Teig in eine bebutterte und bemehlte Backform giessen und darauf die langen Rhabarberstücke verteilen.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2018-05-23-torta-vegana-ai-pistacchi-e-rabarbaro/rabarbaro.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2018-05-23-torta-vegana-ai-pistacchi-e-rabarbaro/teglia.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

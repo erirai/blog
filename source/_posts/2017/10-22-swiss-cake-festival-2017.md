@@ -20,7 +20,7 @@ E questa è la mia preferita in A S S O L U T O!!!
 Queste sono torte nuziali... quasi quasi ti viene voglia di sposarti di nuovo!
 
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="tortenuziali1.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="tortenuziali2.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -30,7 +30,7 @@ Queste sono torte nuziali... quasi quasi ti viene voglia di sposarti di nuovo!
 Queste meraviglie sono tutte dedicate al Tema "Film & Hollywood"... Erano tutte diverse e curate nel minimo dettaglio!
 
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="tortefilm1.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="tortefilm2.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -40,7 +40,7 @@ Queste meraviglie sono tutte dedicate al Tema "Film & Hollywood"... Erano tutte 
 Poi guardate queste sculture fatte interamente in zucchero... Spero solo che tengono per lungo tempo perché sono meravigliose!
 
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="zucchero1.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="zucchero2.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

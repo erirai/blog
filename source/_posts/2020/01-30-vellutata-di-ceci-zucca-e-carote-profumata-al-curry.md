@@ -78,7 +78,7 @@ Aggiungete il cumino e/o il curry e fate andare finché tutto sarà cotto. Frull
 <br />
 Prendete dei semini oleosi e fateli tostare in padella. Mettete la vellutata in un piatto, aggiungete un filo d'olio e guarnite con i semi oleosi tostati e germogli freschi.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -86,7 +86,7 @@ Prendete dei semini oleosi e fateli tostare in padella. Mettete la vellutata in 
 </p>
 
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

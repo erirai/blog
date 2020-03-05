@@ -83,7 +83,7 @@ A proposito, cos'è per voi l'estate? Cosa vi piace fare durante l'estate? Io ci
 
 Spremete i due limoni in un recipiente graduato, poi aggiugete l'acqua fino ad arrivare a 375ml. Fate sciogliere lo zucchero nell'acqua e limone, poi aggiungete l'olio e mescolate. In una coppa a parte mettete la farina, il lievito per dolci, la scorza dei due limoni, il sale ed i semi di papavero, mescolate e aggiungete anche il miscuglio liquido. Amalgamate bene il tutto con le fruste a mano, poi incorporate delicatamente la frutta tagliata a pezzettini. Versate l'impasto nella teglia precedentemente imburrata ed infarinata.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="impasto.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

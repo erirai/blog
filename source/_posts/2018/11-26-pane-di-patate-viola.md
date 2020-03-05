@@ -74,7 +74,7 @@ Pane di Patate Viola, dal colore ed il profumo molto invitante. In realtà non �
 
 Fate bollire le patate in acqua leggermente salata finché saranno cotte. Scolatele, sbucciatele e passatele nello schiacciapatate. Aggiungete il burro, mescolate e tenete da parte. Mettete farina, sale e cumino nella planetaria e date una mescolata. Fate sciogliere il lievito nell'acqua, aggiungete anche lo sciroppo d'acero e versate nella planetaria aggiungendo anche le patate. Impastate finché l'impasto non si staccherà dalle pareti della ciotola. Coprite e fate lievitare per tutta la notte (se non avete tutto questo tempo, usate 10gr di lievito al posto di 3gr e fate lievitare per 3 orette). 
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="patate.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="impasto.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

@@ -20,7 +20,7 @@ lang: it
 Qualche tempo fa ho scoperto tramite Instagram <a href="https://meinebackbox.de" target="_blank">Meine Backbox</a>. Ogni due mesi "Meine Backbox" manda un pacchetto pieno di prodotti per la pasticceria... Si possono scegliere diversi tipi di abbonamenti o anche ordinarne solo una. Il contenuto è sempre una sorpresa, ma qualcosina la svelano. Questa cosa mi ha incuriosita tantissimo, quindi ho contattato Jenny e lei è stata così gentile a mandarmi una Backbox per provarla. Fine Settembre mi arriva un bel pacchetto pieno di prodotti...
 
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="meinebackbox.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="magazin.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

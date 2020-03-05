@@ -17,7 +17,7 @@ Asparagi e Uova in Padella, un piatto veloce, buono e sano che accompagnato con 
 
 Ah, c'è un'altra cosa che vorrei raccontarvi... Giovedì scorso mia figlia ha "festeggiato" il suo 5° compleanno! Il giorno prima avevo preparato una torta che pesava un accidente, dovevamo essere una ventina di persone. 
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="tortagaia.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="tortagaia_dentro.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

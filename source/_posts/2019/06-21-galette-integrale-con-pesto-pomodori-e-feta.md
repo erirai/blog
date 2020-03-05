@@ -105,7 +105,7 @@ Buon inizio estate a voi e il primo che si lamenta del caldo, lo metto a dieta! 
 
 Preparate l'impasto per la Galette: Mettete le farine, il bicarbonato ed il sale in una coppa e mescolate. In un'altra coppetta mettete l'olio di semi, l'olio evo e l'acqua. Versate gli ingredienti liquidi a filo nella farina e iniziate ad impastare. Continuate ad impastare finché avrete un panetto liscio ed elastico, poi coprite e fate riposare per 20min. Nel frattempo preparate il pesto: lavate il basilico e frullate le foglie del basilico con del parmigiano grattugiato, pinoli, olio evo, un pizzico di sale e un goccio d'acqua. Riprendete l'impasto e stendetelo tra due fogli di carta. Poi mettete l'impasto steso su di una leccarda con sotto della carta forno e spalmateci sopra 3/4 del pesto lasciando un bordo di circa 4cm. Tagliate a fette i pomodori e adagiateli sulla Galette alternando i colori, salate i pomodori e ripiegate in dentro il bordo.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="pesto.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

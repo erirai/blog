@@ -103,7 +103,7 @@ Alle Zutaten für den Mürbeteig von Hand rasch zu einem glatten Teig kneten. Te
 
 Für die Quarkcreme alle Zutaten, ausser den Beeren, mit dem Handmixer gut vermengen. Beeren waschen und trocknen. Belegte Tarteform aus dem Kühlschrank nehmen, Boden verlöchern und mit den Beeren belegen. Quarkcreme darüber giessen und etwas schwenken damit sich alles gut verteilt.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2018-09-13-crostata-con-frutti-di-bosco-e-crema-di-ricotta/fruttidibosco.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2018-09-13-crostata-con-frutti-di-bosco-e-crema-di-ricotta/teglia.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

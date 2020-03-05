@@ -85,7 +85,7 @@ Erica
 
 Eiweiss vom Eigelb trennen und Eiweiss mit einer Prise Salz steif schlagen, nach ein paar Sekunden Zucker einrieseln lassen und weiter rühren bis die Masse schön steif ist. In einer separaten Schüssel, mit dem Schwingbesen, die Eigelbe aufschlagen. Die lauwarme geschmolzene Butter dazu geben, sowie auch die Milch, und weiter rühren bis die Masse schön hell ist. Nun das Mehl gemischt mit dem Backpulver, alles gesiebt, dazu geben und alles gut rühren bis der Teig schön glatt ist. Zuletzt den Eischnee nach und nach vorsichtig unterheben. Äpfel schälen, in dünne Scheiben schneiden und das Kerngehäuse in der Mitte entfernen. Apfelscheiben in eine Schüssel geben, etwas Zimt darüber streuen und gut misschen.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2019-10-18-pancake-alle-mele/impasto.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2019-10-18-pancake-alle-mele/mele.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

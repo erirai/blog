@@ -97,7 +97,7 @@ Riscaldate leggermente il latte, poi unite il lievito e lo zucchero e fateli sci
 
 Fate bollire le patate e sbollentate le coste in abbondante acqua salata. Pelate le patate poi tagliatele a fette e denocciolate le olive nere.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="costeepatate.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="farcia.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -106,7 +106,7 @@ Fate bollire le patate e sbollentate le coste in abbondante acqua salata. Pelate
 
 Prendete l'impasto lievitato e con un mattarello stendetelo formando un rettangolo. Iniziate a farcire il Pan Brioche. Lasciate circa 15cm d'impasto scoperti poi fate prima uno strato di coste, poi mettete le olive nere, coprite con le patate e mettete un filo d'olio evo.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="impastosteso.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="farcire.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -115,7 +115,7 @@ Prendete l'impasto lievitato e con un mattarello stendetelo formando un rettango
 
 Arrotolate il tutto molto delicatamente. Per decorare il Pan Brioche, tagliate a strisce l'impasto rimasto scoperto e formate dei cordoncini. Poi sistemateli sul Pan Brioche.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="arrotolare.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="intrecciare.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

@@ -101,7 +101,7 @@ Glücklicherweise ist der Blog genauso alt wie meine Tochter, also erinnere ich 
 
 Als erstes den weichen Mürbeteig vorbereiten. Dafür alle Zutaten in eine Schüssel geben und rasch zu einem glatten Teig kneten. Mürbeteig flachdrücken, in Frischhaltefolie einwickeln und mind. 2h im Kühlschrank ruhen lassen. Sobald die Ruhezeit vorbei ist, Teig zwischen zwei bemehlte Blätter Backpapier 5mm dick auswallen. Das obere Blatt entfernen und mit der Schablone die Formen ausschneiden, in meinem Fall die Nummer 5. Lasst die Formen auf dem Backpapier und entfernt den rundum überschüssigen Teig. Die Formen gut mit einer Gabel löchern und samt Backpapier auf ein Backblech legen. Formen für 15min im vorgeheizten Ofen bei 160°C Umluft backen, es muss ganz leicht goldbraun werden. Formen vollständig auskühlen lassen, bevor ihr sie anfasst. Falls nicht beide Formen auf dem Backblech Platz haben, einfach eine aufs Mal backen.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2018-10-18-cream-tart-al-cacao/teglia.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2018-10-18-cream-tart-al-cacao/biscotto.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

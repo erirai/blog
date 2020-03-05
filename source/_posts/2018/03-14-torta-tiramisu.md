@@ -124,7 +124,7 @@ Per la crema al mascarpone fate sciogliere in un pentolino lo zucchero con l'acq
 
 Tagliate a metà il bisquit e appoggiate un disco su di un piatto da portata, poi bagnatelo molto bene con il caffé mischiato al rum. Spalmateci sopra la metà della crema al mascarpone e coprite con il secondo disco. Bagnate anche il secondo disco con il caffé e finite con la crema al mascarpone. Mettete in frigo per almeno 5-6 ore, meglio per tutta la notte.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="farcire.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="pronta.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

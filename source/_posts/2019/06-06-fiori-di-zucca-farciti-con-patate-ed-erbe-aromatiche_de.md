@@ -77,7 +77,7 @@ Kartoffeln in genügend Wasser kochen bis sie gar sind, dann schälen und durch 
 
 Den Stempel der Kürbisblüten entfernen, einen gehäuften Esslöffel der Kartoffelmasse nehmen und einen ovalen Knödel formen. Die Kürbisblüten mit den Kartoffelknödel füllen und die Blüten verschliessen.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2019-06-06-fiori-di-zucca-farciti-con-patate-ed-erbe-aromatiche/farcire1.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2019-06-06-fiori-di-zucca-farciti-con-patate-ed-erbe-aromatiche/farcire2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

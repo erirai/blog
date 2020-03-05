@@ -29,7 +29,7 @@ L'altra questione è che purtroppo nei supermercati troviamo tutto, tutto l'anno
 
 In realtà è facilissimo... Compratevi dei sacchettini di stoffa e metteteli in borsa. Non pesano niente. Quando andate a comprare frutta e verdura usate quei sacchettini, senza prendere i sacchettini di plastica. I miei li ho comprati tanto tempo fa al supermercato, ormai qui in Svizzera si trovano dappertutto. In Italia so che la cosa è leggermente più complicata, per una questione di igene, dicono. Dunque, due sono le cose: o ve ne fregate e usate lo stesso i sacchettini di stoffa o andate al mercato. Io da un po' preferisco andare al mercato, perché li la plastica è molto meno presente. Do i sacchettini ai contadini, loro li riepiono e alla fine, molto spesso, mi fanno pure lo sconticino per togliere il peso dei sacchetti che in realtà è pari a 0. Poi è ovvio che i frutti di bosco non si possono vendere sfusi, ma in questo caso preferite la scatolina di cartone a quella di plastica. Un'altra cosa comodissima che mi porto sempre quando vado al mercato, è la mia amata borsa in vimini. L'avevo presa anni fa, in realtà la uso anche come borsa mare. Ma, siccome noi vediamo il mare una volta all'anno, la uso il resto dell'anno per il mercato. È leggerissima, ha la forma perfetta per non schiacciare tutto ed è pure bella!
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="green2.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="green3.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -38,7 +38,7 @@ In realtà è facilissimo... Compratevi dei sacchettini di stoffa e metteteli in
 
 Ecco, dopo i consigli come evitare la plastica c'è un'altra cosa importante... Seguire la stagione di frutta e verdura! Se vogliamo mangiare cose buone, è giusto comprare quello che cresce in questo momento. Lo so che questa cosa in inverno è difficilissima, anche io faccio molta fatica. Ma provarci ne vale la pena. E se ogni tanto sgarriamo, non succede nulla! Ma dovrebbe rimanere un'eccezione. Abbiamo la possibilità di fare o comprare le conserve. Queste sono le mie <a href="https://frangipani.raiano.ch/it/categories/Dolce/Conserve/" target="_blank">conserve dolci</a> e queste le <a href="https://frangipani.raiano.ch/it/categories/Salato/Conserve/" target="_blank">conserve salate</a>... Nel web trovate anche tante tabelle con la frutta e verdura di stagione. Vi consiglio di guardarla di tanto in tanto, col tempo saprete e memoria cosa trovare quando... E al mercato è molto più facile trovare prevalentemente cose di stagione!
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="green4.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="green5.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

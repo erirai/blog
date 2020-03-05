@@ -70,7 +70,7 @@ Heidelbeeren waschen und in eine Schüssel geben. Zucker, Maizena und Zitronensa
 
 Ein feuchtes Tuch auf die Arbeitsfläche legen, darüber Backpapier. Zwei Blätter Filloteig auf das Backpapier legen, überlappend in der Mitte. Das ganze mit flüssiger Margarine bepinseln, dann nochmals zwei Blätter Filloteig und Margarine. So lange weiter machen, bis der Filloteig fertig ist. Die Heidelbeeren auf der unteren Hälfte verteilen.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2014-03-07-strudel-ai-mirtilli/fillo.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2014-03-07-strudel-ai-mirtilli/riempito.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -79,7 +79,7 @@ Ein feuchtes Tuch auf die Arbeitsfläche legen, darüber Backpapier. Zwei Blätt
 
 Zuerst von unten verschliessen, dann die Seiten, zuletzt von oben. Den Strudel mit der restlichen Margarine bepinseln.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2014-03-07-strudel-ai-mirtilli/chiudere.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2014-03-07-strudel-ai-mirtilli/chiuso.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

@@ -124,7 +124,7 @@ Für die Mascarponecreme in einem Kochtopf auf mittlerer Hitze Zucker zusammen m
 
 Bisquit längs halbieren und die untere Hälfte auf den Servierteller legen. Bisquitboden gut mit dem Kaffee-Rum-Gemisch befeuchten, dann die Hälfte der Mascarponecreme darüber verteilen. Nun den zweiten Bisquitboden darauf legen, wieder mit dem Kaffee-Rum-Gemisch befeuchten und die restliche Mascarponecreme darüber streichen. Torte für 5-6 Stunden im Kühlschrank ruhen lassen, besser noch über Nacht.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2018-03-14-torta-tiramisu/farcire.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2018-03-14-torta-tiramisu/pronta.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

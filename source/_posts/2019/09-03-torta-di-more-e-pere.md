@@ -113,7 +113,7 @@ Lavate e pelate le pere, eliminate la parte centrale e tagliatele a cubetti. Met
 
 Prendete il panetto di frolla più grande e stendetelo tra due fogli di carta forno formando un disco da 20cm. Rivestite una teglia tonda da 18cm con della carta forno bagnata e strizzata, poi ricoprite con la pasta frolla. Distribuite sul fondo i biscotti ridotti in polvere (assorbiranno i liquidi della frutta).
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="peremore.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="biscotti.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -122,7 +122,7 @@ Prendete il panetto di frolla più grande e stendetelo tra due fogli di carta fo
 
 Aggiungete la frutta, attenzione a non prendere troppo succo. Poi stendete il secondo panetto tra due fogli di carta forno formando un disco da 18cm. Appoggiate il disco sulla frutta e sigillate bene tutto il bordo. Spennellate la superficie con del latte e finite con una spolverata di zucchero.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="farcia.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

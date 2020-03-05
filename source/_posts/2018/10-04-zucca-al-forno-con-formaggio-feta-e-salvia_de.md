@@ -62,7 +62,7 @@ Ofenkürbis mit Fetakäse und Salbei, eine leckere Beilage, die ohne grossen Auf
 
 Kürbis rüsten und in 1-2cm dicke Schnitze schneiden. Diese mit Olivenöl, Salz und Salbei würzen und mit den Händen gut vermengen. Kürbisschnitze auf einem mit Backpapier belegtes Blech verteilen und eine ganze zerdrückte Knoblauchzehe dazu legen. Kürbis für 20-30min im vorgeheizten Ofen bei 180°C Umluft backen oder so lange bis der Kürbis gar ist, ist von der Sorte abhängig. Knoblauchzehe entfernen, Fetakäse darüber zerkrümeln und für weitere 5min im Ofen backen.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2018-10-04-zucca-al-forno-con-formaggio-feta-e-salvia/teglia1.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2018-10-04-zucca-al-forno-con-formaggio-feta-e-salvia/teglia2.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

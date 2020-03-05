@@ -22,7 +22,7 @@ Letzten Freitag haben wir deinen Geburtstag gefeiert, Gaia. 6 Jahre sind etwas B
 Mach weiter so, respektiere dein Tempo, respektiere jedes Lebewesen, das dich umgibt, respektiere unsere Erde, respektiere Gaia... TVB
 
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2019-05-14-torta-all-acqua-con-rabarbaro-e-cioccolato-bianco/tortagaia1.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2019-05-14-torta-all-acqua-con-rabarbaro-e-cioccolato-bianco/tortagaia2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -30,7 +30,7 @@ Mach weiter so, respektiere dein Tempo, respektiere jedes Lebewesen, das dich um
 </p>
 
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2019-05-14-torta-all-acqua-con-rabarbaro-e-cioccolato-bianco/tortagaia3.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2019-05-14-torta-all-acqua-con-rabarbaro-e-cioccolato-bianco/tortagaia4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -38,7 +38,7 @@ Mach weiter so, respektiere dein Tempo, respektiere jedes Lebewesen, das dich um
 </p>
 
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2019-05-14-torta-all-acqua-con-rabarbaro-e-cioccolato-bianco/tortagaia5.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2019-05-14-torta-all-acqua-con-rabarbaro-e-cioccolato-bianco/tortagaia6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -47,7 +47,7 @@ Mach weiter so, respektiere dein Tempo, respektiere jedes Lebewesen, das dich um
 
 Na ja, gestern haben wir sogar eine Kindergeburtstagsparty mit insgesamt 9 Kindern überstanden! Es ist gut gelaufen... Wir haben viele Spiele gespielt, sie hatten Spass. Die Party war mit Einhörnern und Regenbogen (es tat mir ein bisschen leid für die anwesenden Jungs, ich habe versucht, ein wenig Blau in dieses Pink-Overload zu stecken)... Ich wollte einen runden Schokoladenkuchen machen und ihn mit einem Smarties-Regenbogen und Marshmallows-Wolken dekorieren, sehr simpel. Aber dann schickte mir meine Schwester Bilder von Yogurt Bars und ich fragte Gaia, was sie bevorzugte. Ja, sie hat sich für die Yogurt Bar entschieden... Also habe ich jedem Kind etwas Naturjoghurt in die Schälchen gegeben und sie haben die Toppings selbst hinzugefügt, was sie wollten: Granola, Früchte, M&Ms... und dazu gab es auch Waffeln, die habe ich als "Torte" benutzt, um die Kerzen auszublasen.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2019-05-14-torta-all-acqua-con-rabarbaro-e-cioccolato-bianco/tortagaia7.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2019-05-14-torta-all-acqua-con-rabarbaro-e-cioccolato-bianco/tortagaia8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -55,7 +55,7 @@ Na ja, gestern haben wir sogar eine Kindergeburtstagsparty mit insgesamt 9 Kinde
 </p>
 
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2019-05-14-torta-all-acqua-con-rabarbaro-e-cioccolato-bianco/tortagaia9.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2019-05-14-torta-all-acqua-con-rabarbaro-e-cioccolato-bianco/tortagaia10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -63,7 +63,7 @@ Na ja, gestern haben wir sogar eine Kindergeburtstagsparty mit insgesamt 9 Kinde
 </p>
 
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2019-05-14-torta-all-acqua-con-rabarbaro-e-cioccolato-bianco/tortagaia11.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2019-05-14-torta-all-acqua-con-rabarbaro-e-cioccolato-bianco/tortagaia12.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

@@ -85,7 +85,7 @@ Erica
 
 Separate gli albumi dai tuorli e iniziate a montare gli albumi con un pizzico di sale, poi aggiungete lo zucchero e continuate a montare finché gli albumi saranno belli sodi e fermi. In una coppa a parte, con la frusta a mano, sbattete i tuorli. Aggiungete il burro fuso tiepido ed il latte e continuate a mescolare finché il composto sarà bello chiaro. A questo punto aggiungete la farina ed il lievito setacciati e amalgamate bene. Per ultimo aggiungete con un movimento dall'alto verso il basso gli albumi, facendo attenzione a non farli smontare. Sbucciate le mele, tagliatele a fette sottili ed eliminate la parte centrale. Mettete le fette di mela in una coppa, aggiugete una spolverata di cannella e mescolate bene.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="impasto.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="mele.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

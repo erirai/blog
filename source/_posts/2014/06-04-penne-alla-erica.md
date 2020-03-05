@@ -83,7 +83,7 @@ La ricetta della Pasta con Peperoni e Fragole è nata tanti anni fa per caso, co
 
 Tagliate finemente lo scalogno ed il peperone e lavate le fragoline. Poi mettete a soffriggere lo scalogno con poco olio ed un pizzico di sale. Quando sarà ben dorato, aggiungete il peperone tagliato a pezzetti e fate soffriggere per qualche minuto, poi sfumate con il vino o con il fragolino. Ora tocca all'ingrediente segreto, aggiungete le fragoline e poi i pelati. Se c'è bisogno aggiungete un po' d'acqua. Finite con qualche fogliolina di basilico, una spolverata di paprica in polvere e aggiustate di sale. Fate cucinare il sughetto a fuoco basso per mezz'oretta.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="ingredienti.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="sughetto.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

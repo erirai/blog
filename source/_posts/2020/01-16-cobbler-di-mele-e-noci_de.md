@@ -100,7 +100,7 @@ Baumnüsse aufknacken, mit einem Messer grob hacken und für ein paar Minuten im
 <br />
 Butter und Zucker mit dem Handmixer verrühren bis es hell wird, dann Ei unterrühren bis es vollständig eingearbeitet ist. Nun Mehl, Backpulver, Salz und Vanille dazu geben und nochmals mixen. Das Resultat ist ähnlich wie Mürbeteig, nur viel weicher. Teig vorsichtig mit einem Löffel über die Äpfel streichen und die gerösteten Baumnüsse darüber verteilen.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2020-01-16-cobbler-di-mele-e-noci/mele.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2020-01-16-cobbler-di-mele-e-noci/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -117,7 +117,7 @@ Der Cobbler kommt für ca. 35-40min in den vorgeheizten Ofen bei 190°C Ober- un
 ![](../2020-01-16-cobbler-di-mele-e-noci/risultato4.jpeg "frangipani © Erica")
 
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2020-01-16-cobbler-di-mele-e-noci/risultato5.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2020-01-16-cobbler-di-mele-e-noci/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

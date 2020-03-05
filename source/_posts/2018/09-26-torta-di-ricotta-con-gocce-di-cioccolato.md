@@ -72,7 +72,7 @@ Torta di Ricotta con Gocce di Cioccolato, un dolce semplicissimo con pochi ma bu
 
 Separate i tuorli dagli albumi e montate i tuorli con lo zucchero a velo finché saranno belli gonfi e chiari. Aggiungete la ricotta e le gocce di cioccolato e mescolate ancora. Montate a neve gli albumi con un pizzico di sale, appena inizia a rassodarsi aggiungete poco a poco lo zucchero semolato e continuate a montare finché il composto di albumi sarà fermo e lucido. Aggiungete al composto con la ricotta gli albumi montati e la farina formando dei strati e incorporate delicatamente con un movimento dall'alto verso il basso. Distribuite le mandorle macinate nella teglia con la base ricoperta con della carta forno ed i lati imburrati ed infarinati poi versate l'impasto nella teglia.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="impasto.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

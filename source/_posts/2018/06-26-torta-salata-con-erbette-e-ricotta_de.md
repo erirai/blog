@@ -67,7 +67,7 @@ Ricotta-Kräuter-Quiche, ausgezeichnet sowohl kalt als auch warm und perfekt, um
 
 Kräuter waschen und trocken tupfen, dann mit dem Messer fein hacken und auf die Seite legen. In einer Schüssel Eier, Ricotta (abgetropft), Salz, Pfeffer und etwas Olivenöl vermengen. Die gehackten Kräuter dazugeben und gut rühren. Backblech (rund oder rechteckig) mit dem Blätterteig belegen, Backpapier darunter lassen, mit dem Ricotta-Kräuter-Gemisch füllen und Ränder ausbessern.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2018-06-26-torta-salata-con-erbette-e-ricotta/erbette.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2018-06-26-torta-salata-con-erbette-e-ricotta/teglia.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

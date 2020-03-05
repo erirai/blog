@@ -22,7 +22,7 @@ Venerdì scorso abbiamo festeggiato il tuo compleanno, Gaia. 6 anni è un po’ 
 Continua così, sempre rispettando i tuoi tempi, rispettando ogni essere vivente che ti sta attorno, rispettando la nostra Terra, rispettando Gaia… TVB
 
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="tortagaia1.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="tortagaia2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -30,7 +30,7 @@ Continua così, sempre rispettando i tuoi tempi, rispettando ogni essere vivente
 </p>
 
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="tortagaia3.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="tortagaia4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -38,7 +38,7 @@ Continua così, sempre rispettando i tuoi tempi, rispettando ogni essere vivente
 </p>
 
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="tortagaia5.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="tortagaia6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -47,7 +47,7 @@ Continua così, sempre rispettando i tuoi tempi, rispettando ogni essere vivente
 
 Beh, ieri siamo pure sopravvissuti ad una festa in casa con 9 bambini in totale! È andata bene... Abbiamo fatto tanti giochini, si sono divertiti. La festa era unicornesca e arcobalenesca (mi dispiaceva un pochettino per i maschietti presenti, ho provato a mettere un po' di azzurro in quel overload di fucsia)... Avevo intenzione di fare una torta al cioccolato rotonda e decorarla con un arcobaleno di Smarties e delle nuvolette fatte di Marshmallows, molto semplice. Poi però mia sorella mi ha mandato delle immagini di Yogurt bars e ho domandato a Gaia. Ebbene sì, ha scelto la Yogurt bar... Quindi ho messo ad ogni bambino dello yogurt naturale nelle coppette e loro hanno aggiunto i toppings che preferivano: granola, frutta,  M&M's... In più ho fatto anche le Wafels, che ho usato come "torta" per soffiare le candeline. 
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="tortagaia7.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="tortagaia8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -55,7 +55,7 @@ Beh, ieri siamo pure sopravvissuti ad una festa in casa con 9 bambini in totale!
 </p>
 
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="tortagaia9.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="tortagaia10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -63,7 +63,7 @@ Beh, ieri siamo pure sopravvissuti ad una festa in casa con 9 bambini in totale!
 </p>
 
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="tortagaia11.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="tortagaia12.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

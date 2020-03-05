@@ -72,7 +72,7 @@ Ricottakuchen mit Schokostückchen, ein einfacher Kuchen mit wenigen aber guten 
 
 Eigelbe und Eiweisse trennen und erstere zusammen mit dem Puderzucker hellschaumig schlagen. Ricotta und Schokolade dazu geben und weiterrühren. Eiweisse mit einer Prise Salz steifschlagen, sobald die Masse etwas fest wird, Kristallzucker nach und nach dazu geben und weiterschlagen bis die Masse fest ist und glänzt. Eischnee und Mehl schichtweise auf die Ricottamasse geben, dann vorsichtig unterheben. Den Boden der Backform mit Backpapier belegen und den Rand bebuttern und bemehlen, dann die gemahlenen Mandeln auf den Boden der Backform verteilen. Den Teig regelmässig in die Backform verteilen.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2018-09-26-torta-di-ricotta-con-gocce-di-cioccolato/impasto.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2018-09-26-torta-di-ricotta-con-gocce-di-cioccolato/teglia.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

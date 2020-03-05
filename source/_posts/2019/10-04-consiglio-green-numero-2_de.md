@@ -39,7 +39,7 @@ Nichts einfacheres als das! Ersetzt Papierservietten durch Stoffservietten. Habt
 
 Wascht die Servietten beim Waschen einfach mit. Kauft sonst Servietten in dunklen Farben oder mit Mustern, damit die Flecken nicht so sehr sichtbar sind. Aber auch wenn, spielt dies absolut keine Rolle! Wir sind in der Familie und Dinge müssen benutzt werden. Meine Kinder bekleckern sich mit Tomatensauce und Pesto recht stark und die Servietten sind immer noch präsentabel.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2019-10-04-consiglio-green-numero-2/green2.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2019-10-04-consiglio-green-numero-2/green5.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

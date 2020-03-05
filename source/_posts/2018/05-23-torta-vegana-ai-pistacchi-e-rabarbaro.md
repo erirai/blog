@@ -91,7 +91,7 @@ Torta vegana ai Pistacchi e Rabarbaro, un dolce gustosissimo e succoso! Ma nient
 
 Lavate il rabarbaro, tagliate le due estremità e togliete la pellicina esterna ed i filamenti. Dunque tagliatelo a pezzetti da 1cm, più qualche pezzetto più lungo come decorazione. Mettete il rabarbaro in una ciotola e aggiungete 2 cucchiai di zucchero ed il succo di limone. Mescolate e tenete da parte. In una ciotola a parte mettete tutti gli ingredienti dalla farina fino al sale e mescolateli. Se non trovate la farina di pistacchi, frullate i pistacchi non salati con un cucchiaio di zucchero a velo. Poi aggiungete l'aceto, l'olio ed il latte. Mescolate bene, se l'impasto risulterà troppo duro, aggiungete altro latte. Alla fine aggiungete i pezzi di rabarbaro ed anche il succo filtrato, tenendo da parte i pezzi più lunghi. Versate l'impasto in una teglia precedentemente imburrata ed infarinata e finite adagiandoci sopra i pezzi di rabarbaro.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="rabarbaro.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

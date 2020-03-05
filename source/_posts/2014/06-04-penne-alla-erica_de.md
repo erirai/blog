@@ -82,7 +82,7 @@ Das Rezept dieser Pasta mit Paprika und Erdbeeren ist vor vielen Jahren ganz per
 
 Schalotte und Paprika fein schneiden, Erdbeeren waschen. Schalotte in einer Bratpfanne mit etwas Olivenöl und Salz brutzeln lassen. Nun Paprika dazu geben und ein paar Minuten mitrösten, dann mit Rotwein oder Fragolino ablöschen. Nun kommen die Erdbeeren und die Dosentomaten dazu. Wenn nötig etwas Wasser dazu geben, sowie Paprikapulver und Basilikum und salzen. Sosse auf kleiner Stufe eine halbe Stunde köcheln lassen.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2014-06-04-penne-alla-erica/ingredienti.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2014-06-04-penne-alla-erica/sughetto.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

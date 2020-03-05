@@ -114,7 +114,7 @@ Am Folgetag den Focacciateig nehmen, ihr braucht nicht alles für eine 18-20cm F
 Während die Focaccia aufgeht, die Kichererbsen Omelette vorbereiten. Blech mit dem selben Durchmesser mit Backpapier belegen und ölen. Kichererbsenteig dazu geben. 
 Die Omelette für ca. eine halbe Stunde bei 220°C Umluft backen oder bis die Oberfläche schön goldbraun ist.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2018-03-22-focaccia-farcita-con-farinata-e-scarola/farinatateglia.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2018-03-22-focaccia-farcita-con-farinata-e-scarola/farinata.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

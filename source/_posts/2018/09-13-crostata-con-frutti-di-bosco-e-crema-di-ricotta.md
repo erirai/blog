@@ -103,7 +103,7 @@ Impastate velocemente tutti gli ingredienti per la pasta frolla con le mani finc
 
 Per la crema di ricotta mescolate tutti gli ingredienti, tranne i frutti di bosco, con le fruste elettriche. Lavate i frutti di bosco ed asciugateli. Uscite la frolla rivestita con la frolla dal frigo, bucherellate la base e coprite con i frutti di bosco. A questo punto versateci sopra la crema di ricotta sbattendo leggermente la teglia per distribuire bene il tutto.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="fruttidibosco.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

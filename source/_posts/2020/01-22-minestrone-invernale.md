@@ -90,7 +90,7 @@ Mettete sui fuochi e fate cuocere il tutto. Quando la verdura sarà quasi cotta,
 ![](risultato1.jpeg "frangipani © Erica")
 
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

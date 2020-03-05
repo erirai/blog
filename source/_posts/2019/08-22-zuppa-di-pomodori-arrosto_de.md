@@ -73,7 +73,7 @@ Wir freuen uns auch für dich, denn du konntest es kaum erwarten mit dem Kinderg
 
 Tomaten waschen, bei den grösseren Tomaten den Blattstiel entfernen und alles in eine ofenfeste Form geben. Oregano und Thymian, die feingeschnittene Zwiebel und die leicht zerdrückten Knoblauchzehen dazu geben. Dann noch Öl dazu und salzen. Die Tomaten kommen für 45min in den vorgeheizten Ofen bei 190°C Umluft, ab und zu rühren.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2019-08-22-zuppa-di-pomodori-arrosto/pomodori.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2019-08-22-zuppa-di-pomodori-arrosto/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

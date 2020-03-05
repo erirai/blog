@@ -32,7 +32,7 @@ Die Brötchen, die wir selbst für das Mittagessen vorbereitet haben, werden in 
 <br />
 Ich könnte da noch weiter machen, aber ich denke, dass der Gedanke angekommen ist. Was passiert danach mit der Frischhaltefolie? Klar, sie wird weggeschmissen! Ab und zu ist Frischhaltefolie nützlich, aber in den meisten Fällen kann sie mit etwas nachhaltigerem ersetzt werden, ohne dass Abfall entsteht.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2020-01-10-consiglio-green-numero-5/green1.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2020-01-10-consiglio-green-numero-5/green2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -58,7 +58,7 @@ Nachdem man die Tücher gebraucht hat, kann man sie mit kaltem Wasser (max. lauw
 <br />
 Man kann sie nicht mit Fleisch oder Fisch verwenden. Halten bis zu einem Jahr, oder länger, wenn man sie nicht oft braucht. Man merkt es, wenn es Zeit ist sie zu ersetzen.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2020-01-10-consiglio-green-numero-5/green3.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2020-01-10-consiglio-green-numero-5/green4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -78,7 +78,7 @@ Die Tücher sind nicht für den Gefrierschrank geeignet, da sonst das Wachs brö
 <br />
 Ich benutze die Bienenwachstücher schon seit einem Jahr und könnte nicht mehr darauf verzichten. Die Frischhaltefolie benutze ich fast nicht mehr! Versucht es auch...
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2020-01-10-consiglio-green-numero-5/green5.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2020-01-10-consiglio-green-numero-5/green6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

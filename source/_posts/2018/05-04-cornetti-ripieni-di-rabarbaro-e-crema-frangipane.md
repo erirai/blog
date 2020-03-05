@@ -104,7 +104,7 @@ Preparate l'impasto: mettete tutti gli ingredienti in una ciotola e con le mani 
 
 Lavate il rabarbaro, tagliate le due estremità e togliete la pellicina esterna ed i filamenti. Dunque tagliatelo a pezzetti da 5cm, ne serviranno 36 pezzi. Mettete il rabarbaro in una ciotola e aggiungete lo zucchero ed il succo di limone. Mescolate e lasciate in frigo anche questo per almeno 4 ore.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="impasto.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="rabarbaro.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -115,7 +115,7 @@ Preparate la crema Frangipane. Mettete tutti gli ingredienti in una ciotola e am
 
 Infarinate bene il piano di lavoro e uscite dal frigo uno dei tre panetti. Stendetelo con un mattarello fino ad un diametro di 26cm circa. Poi suddividetelo in 12 spicchi e fate un taglietto alla base di ogni spicchio. Sempre alla base mettete un cucchiaino di crema Frangipane e sopra ci adagiate un pezzo di rabarbaro (non buttate via il succo del rabarbaro). Iniziate ad arrotolare e tirate delicatamente la punta per allungarla, in questo modo il cornetto sarà più carino. Mettete i cornetti su di una teglia ricoperta con della carta forno. Ripetete con gli altri due panetti.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="cornetti.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

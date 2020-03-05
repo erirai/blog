@@ -97,7 +97,7 @@ Hefe und Zucker in der lauwarmen Milch einrühren und Öl dazu geben. In einer s
 
 Kartoffeln in kochendem Wasser garen und den Magold ebenfalls in kochendem Salzwasser blanchieren. Die Kartoffeln pellen und in Scheiben schneiden, dann die Oliven entkernen.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2016-09-26-pan-brioche-farcito/costeepatate.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2016-09-26-pan-brioche-farcito/farcia.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -106,7 +106,7 @@ Kartoffeln in kochendem Wasser garen und den Magold ebenfalls in kochendem Salzw
 
 Nehmt den aufgegangenen Teig und rollt diesen mit einem Nudelholz zu einem Rechteck aus. Nun kann das Ganze befüllt werden. Lasst ca. 15cm Teig frei, dann kommt zuerst eine Schicht Mangold, dann die schwarzen Oliven und zum Schluss die Kartoffeln und etwas Olivenöl.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2016-09-26-pan-brioche-farcito/impastosteso.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2016-09-26-pan-brioche-farcito/farcire.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -115,7 +115,7 @@ Nehmt den aufgegangenen Teig und rollt diesen mit einem Nudelholz zu einem Recht
 
 Das Ganze vorsichtig aufrollen. Für die Verzierung den vorigen Teig in Streifen schneiden und kleine Kordeln formen. Diese dann auf die Rolle legen.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2016-09-26-pan-brioche-farcito/arrotolare.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2016-09-26-pan-brioche-farcito/intrecciare.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

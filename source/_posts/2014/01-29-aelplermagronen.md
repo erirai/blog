@@ -69,7 +69,7 @@ lang: it
 
 Pelate e tagliate le patate a dadini e cucinateli in abbondante acqua bollente, quando le patate sono quasi cotte, aggiungete nella stessa pentola la pasta e fatela cucinare, salate. Tagliate la cipolla e fatela soffriggere con poco olio, dopo che sarà dorata aggiungete la panna, fate sobbollire per qualche minuto, salate, pepate, aggiungete la noce moscata e togliete dai fornelli. Aggiungete la metà del formaggio grattugiato nella panna e amalgamate bene. Quando la pasta e le patate sono cotte, scolate il tutto.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="panna.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="pasta.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

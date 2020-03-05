@@ -67,7 +67,7 @@ Torta Salata con Erbette e Ricotta, ottima sia fredda che calda e perfetta per s
 
 Lavate le erbette aromatiche, asciugatele e tritatele con un coltello, mettete da parte. In una coppa mescolate le uova, la ricotta sgocciolata, sale, pepe e un filo d'olio. Aggiungete anche le erbette tritate e amalgamate. Rivestite una teglia (rotonda o rettangolare) con la pasta sfoglia lasciando la carta di sotto, versateci sopra il ripieno e aggiustate i bordi.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="erbette.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

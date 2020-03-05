@@ -87,7 +87,7 @@ Alle Zutaten (ausser Öl und Kristallzucker) in eine Schüssel geben und alles g
 <br />
 Sofort essen, warm sind sie am besten...
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2020-02-20-frittelle-di-ricotta-all-arancia/risultato1.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2020-02-20-frittelle-di-ricotta-all-arancia/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -97,7 +97,7 @@ Sofort essen, warm sind sie am besten...
 ![](../2020-02-20-frittelle-di-ricotta-all-arancia/risultato3.jpeg "frangipani © Erica")
 
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2020-02-20-frittelle-di-ricotta-all-arancia/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2020-02-20-frittelle-di-ricotta-all-arancia/risultato5.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

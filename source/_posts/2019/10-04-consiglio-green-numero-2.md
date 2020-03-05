@@ -39,7 +39,7 @@ Niente di più facile! Sostituite i tovaglioli di carta con quelli di stoffa. Li
 
 Poi quando lavate, lavate anche i tovaglioli di stoffa. Magari comprate tovaglioli di colori scuri o con delle fantasie, così le macchie non si vedranno tanto. Ma anche se, non importa! Siamo in famiglia e le cose vanno usate. I miei bimbi con il sugo e con il pesto si sporcano tantissimo e i tovaglioli di stoffa sono ancora ben presentabili. 
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="green2.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="green5.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

@@ -100,7 +100,7 @@ Infornate la treccia a 220°C statico per mezz'oretta. A metà cottura uscite la
 
 Inoltre abbiamo mangiato dei panini a forma di zucca, la vellutata di zucca e la stemperata d'aceto che ha fatto mia mamma.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="pagnotte1.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="pagnotte2.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -108,7 +108,7 @@ Inoltre abbiamo mangiato dei panini a forma di zucca, la vellutata di zucca e la
 </p>
 
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="vellutata.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="stemperata.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

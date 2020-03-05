@@ -32,7 +32,7 @@ Ihr könnt dasselbe für eure Kinder tun. Lasst sie die Flasche auswählen, dami
 <br />
 Es gibt sie in allen möglichen Varianten! Bunt, einfarbig, aus Alu, Glas, mit oder ohne Trinkschnabel... Sie sind nicht billig, aber die Investition lohnt sich. Ansonsten, lasst euch eine schenken. Abends einfach abspülen und trocknen lassen. Am nächsten Morgen ist sie wieder einsatzbereit.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2019-11-08-consiglio-green-numero-3/green1.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2019-11-08-consiglio-green-numero-3/green2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

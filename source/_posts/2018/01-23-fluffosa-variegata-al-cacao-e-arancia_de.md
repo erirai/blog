@@ -141,7 +141,7 @@ Eine Fragen an euch: Wenn ihr einen Chiffon Cake mit vier Eiern in der kleinen B
 Ihr müsst beide Teige separat vorbereiten, das Vorgehen ist bei beiden gleicht. Eiweiss vom Eigelb trennen und Eiweiss zusammen mit 2 Tropfen Zitronensaft steif schlagen. In einer separaten Schüssel Eigelb zusammen mit allen flüssigen Zutaten mit dem Handmixer verquirlen. Dann alle trockenen Zutaten, alles gesiebt, dazu geben und nochmals gut mixen bis der Teig schön glatt und geschmeidig ist. Nun nach und nach Eiweiss vorsichtig unterheben.
 
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2018-01-23-fluffosa-variegata-al-cacao-e-arancia/impastoarancia.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2018-01-23-fluffosa-variegata-al-cacao-e-arancia/impastocacao.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

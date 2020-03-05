@@ -100,7 +100,7 @@ Mit dieser Menge, kann man ein Herz von etwa 30x30cm, plus eine weitere kleine C
 
 Als erstes den weichen Mürbeteig vorbereiten. Dafür alle Zutaten in eine Schüssel geben und rasch zu einem glatten Teig kneten. Mürbeteig flachdrücken, in Frischhaltefolie einwickeln und mind. 2h im Kühlschrank ruhen lassen. Sobald die Ruhezeit vorbei ist, Teig halbieren und zwischen zwei bemehlte Blätter Backpapier 5mm dick auswallen. Das obere Blatt entfernen und mit der Schablone den herzförmigen Ring (oder anderes) ausschneiden. Lasst das Herz auf dem Backpapier und entfernt den rundum überschüssigen Teig. Das Herz in der Mitte, könnt ihr vorsichtig ganz rausnehmen und separat backen. Damit könnt ihr eine zweite kleine Cream Tart machen. Den Herzring gut mit einer Gabel löchern und samt Backpapier auf ein Backblech legen. Herz für 15min im vorgeheizten Ofen bei 160°C Umluft backen, es muss ganz leicht goldbraun werden. Herze vollständig auskühlen lassen, bevor ihr sie anfasst. Macht das selbe, mit der zweiten Teighälfte.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2018-04-24-cream-tart-al-limone/teglia.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2018-04-24-cream-tart-al-limone/biscotto.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -112,7 +112,7 @@ Nun die Camy Cream vorbereiten. Alle kalten Zutaten in die Küchenmaschine geben
 
 Ein Herzring auf den Servierteller legen. Die Camy Cream in den Spritzbeutel mit runder und glatter Lochtülle geben. Nun das Herz mit Camy Cream-Tuffs bedecken. Das zweite Herz vorsichtig auf die Creme legen und auch dieses mit Camy Cream-Tuffs bedecken.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2018-04-24-cream-tart-al-limone/creamtart1.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2018-04-24-cream-tart-al-limone/creamtart2.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

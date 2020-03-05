@@ -32,7 +32,7 @@ Potete fare la stessa cosa per i vostri bimbi. Fate scegliere a loro la borracci
 <br />
 Ci sono di tutti i tipi! Colorate, monocromatiche, in alluminio, di vetro, con o senza beccuccio... Non costano poco, ma ne vale l'investizione. Altrimeni ve la fate regalare. La sera, semplicemente la sciacquate e la fate asciugare. La mattina dopo è pronta per essere riadoperata.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="green1.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="green2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

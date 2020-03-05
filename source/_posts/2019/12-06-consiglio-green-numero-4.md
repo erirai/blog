@@ -48,7 +48,7 @@ Ormai preferisco in gran lunga preparare regali fatti in casa. Tantissime cose l
 <br />
 <a href="https://frangipani.raiano.ch/2015-12-13-cioccolata-calda-fatta-in-casa/" target="_blank">Cioccolata Calda</a>
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 32%; margin-right: 1%;" src="green1.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="green2.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 32%; margin-left: 1%;" src="green3.jpeg" alt="" title="frangipani © Erica" />
@@ -56,7 +56,7 @@ Ormai preferisco in gran lunga preparare regali fatti in casa. Tantissime cose l
   </div>
 </p>
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 32%; margin-right: 1%;" src="green4.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="green5.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 32%; margin-left: 1%;" src="green6.jpeg" alt="" title="frangipani © Erica" />
@@ -92,7 +92,7 @@ Evitiamo anche di buttare il cibo. Non dobbiamo esagerare con il mangiare, che t
 <br />
 Quanto riguarda il menù di Natale, se non riuscite a fare tutto il menù con ingredienti di stagione, iniziate almeno con una portata.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 32%; margin-right: 1%;" src="green7.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="green8.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 32%; margin-left: 1%;" src="green9.jpeg" alt="" title="frangipani © Erica" />
@@ -100,7 +100,7 @@ Quanto riguarda il menù di Natale, se non riuscite a fare tutto il menù con in
   </div>
 </p>
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 32%; margin-right: 1%;" src="green10.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="green11.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 32%; margin-left: 1%;" src="green12.jpeg" alt="" title="frangipani © Erica" />

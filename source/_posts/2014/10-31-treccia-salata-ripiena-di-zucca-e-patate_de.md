@@ -100,7 +100,7 @@ Der Strudel kommt für eine halbe Stunde in den vorgeheizten Ofen bei 220°C Obe
 
 Dazu gab es Brötchen in Kürbisform, Kürbissuppe und frittierte Kürbisschnitze mit süss-sauer Zwiebeln von meiner Mamma.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2014-10-31-treccia-salata-ripiena-di-zucca-e-patate/pagnotte1.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2014-10-31-treccia-salata-ripiena-di-zucca-e-patate/pagnotte2.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -108,7 +108,7 @@ Dazu gab es Brötchen in Kürbisform, Kürbissuppe und frittierte Kürbisschnitz
 </p>
 
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2014-10-31-treccia-salata-ripiena-di-zucca-e-patate/vellutata.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2014-10-31-treccia-salata-ripiena-di-zucca-e-patate/stemperata.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

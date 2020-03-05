@@ -73,7 +73,7 @@ Siamo felici anche per te, perché non vedevi l’ora di iniziare e far vedere a
 
 Lavate i pomodori, eliminate il picciolo dei pomodori grandi e metteteli in una pirofila. Aggiungete l'origano ed il timo, la cipolla tagliata finemente e l'aglio leggermente schiacciato. Poi un po' di olio e salate. Infornate i pomodori nel forno preriscaldato a 190°C ventilato per 45min, mescolando di tanto in tanto.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="pomodori.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

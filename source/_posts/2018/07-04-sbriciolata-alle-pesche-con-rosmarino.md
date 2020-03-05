@@ -99,7 +99,7 @@ Sbriciolata alle Pesche con Rosmarino, potrebbe sembrare strano ma vi assicuro c
 
 Per prima cosa preparate il Crumble: mettete tutti gli ingredienti in una coppa e impastate con le punte delle dita riducendo l'impasto in briciole, poi mettete in frigo. Per l'impasto mettete tutti gli ingredienti (tranne le pesche) in una coppa e con le fruste elettriche mescolate finché sarà bello liscio.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="crumble.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="impasto.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -108,7 +108,7 @@ Per prima cosa preparate il Crumble: mettete tutti gli ingredienti in una coppa 
 
 Versate l'impasto in una teglia imburrata ed infarinata e livellate bene. Sopra mettete le pesche pelate e tagliate a pezzettini. Finite coprendo il tutto con il Crumble.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="pesche.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

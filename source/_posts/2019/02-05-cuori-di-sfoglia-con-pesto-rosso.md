@@ -64,7 +64,7 @@ Gaia questa e la prossima settimana è in ferie, niente asilo. Tutti partono per
 
 Frullate i pomodori secchi, i pinoli, il basilico e l'olio. Per renderla spalmabile regolatevi con l'olio o con l'acqua. Spalmate il pesto rosso su una metà della pasta sfoglia. Ricoprite con l'altra metà e poi con una rotellina o con il coltello tagliate delle strisce da 1.5cm.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="pesto.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="tagliato.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

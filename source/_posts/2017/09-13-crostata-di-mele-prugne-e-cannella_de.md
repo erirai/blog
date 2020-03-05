@@ -84,7 +84,7 @@ Habt ihr auch ein Dessert, dass ihr sehr gerne mögt aber aus unerklärlichen Gr
 
 Für den Guss Quark, Ei, Mehl, Zucker, Salz, Zimt und Vanille zusammen verrühren und auf die Seite legen. Backblech mit dem ausgewallten Blätterteig belegen (Backpapier darunter lassen). Den Boden mit einer Gabel verlöchern und mit den gemahlenen Mandeln oder Haselnüssen belegen. Äpfel schälen, Kerngehäuse entfernen und in Scheiben schneiden. Zwetschgen entkernen und ebenfalls in Scheiben schneiden. Apfel- und Zwetschgenscheiben gemischt oder separat auf dem Wähenboden verteilen und mit dem Guss bedecken.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2017-09-13-crostata-di-mele-prugne-e-cannella/pastellamele.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2017-09-13-crostata-di-mele-prugne-e-cannella/pastellaprugne.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

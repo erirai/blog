@@ -121,7 +121,7 @@ Karotten waschen und schälen, dann in kleine Stücke schneiden. Lauch ebenfalls
 
 Mehl, Kartoffelstärke (beides gesiebt), Backpulver, halber Teelöffel Salz und Kräuter in einer Schüssel mischen. Milch und Sonnenblumenöl dazu geben und gut rühren. Nun die Karotten unterheben. Muffinblech etwas ölen (oder Papierförmchen verwenden) und bis zu 3/4 mit dem Teig füllen. Darüber Sesam verteilen.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2019-03-18-muffin-salati-alle-carote-vegani-con-insalata-di-spinaci-mele-nocciole/carote.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2019-03-18-muffin-salati-alle-carote-vegani-con-insalata-di-spinaci-mele-nocciole/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

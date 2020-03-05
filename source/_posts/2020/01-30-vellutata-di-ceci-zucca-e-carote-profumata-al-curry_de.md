@@ -78,7 +78,7 @@ Nun Kümmel und/oder Curry dazu geben und weiter köcheln lassen, bis alles gar 
 <br />
 Mischung aus Kerne in einer Bratpfanne kurz anrösten. Suppe in den Teller geben, einen Schuss Olivenöl darüber und mit den Kernen und Sprossen belegen.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2020-01-30-vellutata-di-ceci-zucca-e-carote-profumata-al-curry/risultato1.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2020-01-30-vellutata-di-ceci-zucca-e-carote-profumata-al-curry/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -86,7 +86,7 @@ Mischung aus Kerne in einer Bratpfanne kurz anrösten. Suppe in den Teller geben
 </p>
 
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2020-01-30-vellutata-di-ceci-zucca-e-carote-profumata-al-curry/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2020-01-30-vellutata-di-ceci-zucca-e-carote-profumata-al-curry/risultato5.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

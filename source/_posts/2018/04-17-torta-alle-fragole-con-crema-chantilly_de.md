@@ -115,7 +115,7 @@ Bisquit für ca. 20-25min im vorgeheizten Ofen bei 190°C Ober- und Unterhitze b
 
 Für die Vanillecreme Milch mit der Vanilleschote aufwärmen. In einer separaten Schüssel Eigelb mit dem Zucker hellschaumig schlagen, dann Mehl dazu geben und weiterrühren. Nun Milch vorsichtig dazu leeren und nochmals gut rühren. Alles wieder in den Kochtopf leeren und auf mittlerer Stufe unter ständigem Rühren köcheln lassen, bis die Creme eindickt. Creme in eine Schüssel geben, Klarsichtfolie direkt auf die Creme legen und komplett auskühlen lassen. Sobald sie kalt ist, Sahne steif schlagen und vorsichtig unter die Vanillecreme heben.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2018-04-17-torta-alle-fragole-con-crema-chantilly/cremapasticcera.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2018-04-17-torta-alle-fragole-con-crema-chantilly/chantilly.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

@@ -140,7 +140,7 @@ Ho una domanda per voi: Quando fate una Fluffosa con 4 uova nella teglia piccoli
 
 Dovrete preparare i due impasti separatemente, il procedimento è lo stesso per tutti e due. Separate gli albumi dai tuorli e montate a neve gli albumi con due gocce di succo di limone, mettete da parte. Nella coppa con i tuorli aggiungete gli ingredienti liquidi. Con le fruste elettriche mescolate finché tutto sarà perfettamente amalgamato. Poi aggiungete tutti gli ingredienti asciutti, tutto precedentemente setacciato. A questo punto continuate a mescolare con le fruste elettriche per qualche minuto, finché avrete una cremina bella liscia. Adesso aggiungete un po' alla volta gli albumi montati a neve e incoropateli aiutandovi con una spatola. Come al solito con un movimento dall'alto verso il basso, facendo attenzione a non far smontare gli albumi.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="impastoarancia.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="impastocacao.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

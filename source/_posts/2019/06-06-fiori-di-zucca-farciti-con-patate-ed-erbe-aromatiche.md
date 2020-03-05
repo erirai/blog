@@ -77,7 +77,7 @@ Bollite le patate in abbondante acqua finché saranno cotte, pelatele e passatel
 
 Eliminate il pistillo dei fiori di zucca, poi prendete un cucchiaio colmo del composto di patate e formate una polpetta ovale. Farcite i fiori con le polpette di patate e chiudete i petali.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="farcire1.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="farcire2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

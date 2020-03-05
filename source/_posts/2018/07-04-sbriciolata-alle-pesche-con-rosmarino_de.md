@@ -99,7 +99,7 @@ Pfirsich-Streuselkuchen mit Rosmarin, hört sich seltsam an, aber ich versichere
 
 Zuerst die Streusel vorbereiten, dafür alle Zutaten in eine Schüssel geben und mit den Fingerspitzen krümelig verkneten, dann im Kühlschrank ruhen lassen. Für den Teig alle Zutaten in eine Schüssel geben und mit dem Mixer verrühren bis der Teig schön glatt ist.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2018-07-04-sbriciolata-alle-pesche-con-rosmarino/crumble.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2018-07-04-sbriciolata-alle-pesche-con-rosmarino/impasto.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -108,7 +108,7 @@ Zuerst die Streusel vorbereiten, dafür alle Zutaten in eine Schüssel geben und
 
 Teig in eine bebutterte und bemehlte Backform geben und glattstreichen. Darüber die geschälten und in Stücke geschnittenen Pfirsiche verteilen und zuletzt mit den Streuseln bedecken.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2018-07-04-sbriciolata-alle-pesche-con-rosmarino/pesche.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2018-07-04-sbriciolata-alle-pesche-con-rosmarino/teglia.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

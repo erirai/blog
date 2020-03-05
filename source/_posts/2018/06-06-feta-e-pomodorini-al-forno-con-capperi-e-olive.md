@@ -65,7 +65,7 @@ Feta e Pomodorini al forno con Capperi e Olive per un pranzo o una cena veloce d
 
 Lavate i pomodorini e tagliateli a metà. Metteteli in una pirofila insieme alle erbette aromatiche e l'aglio in camicia, salate leggermente e aggiungete un filo d'olio evo. Infornate nel forno preriscaldato a 180°C ventilato per 20min. Tirate fuori dal forno i pomodorini, prendete il formaggio Feta, adagiatelo intero sopra i pomodorini e aggiungete anche i capperi dissalati, le olive e ancora un pochettino d'olio evo.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="pomodori.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

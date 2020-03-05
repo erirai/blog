@@ -49,7 +49,7 @@ Mittlerweile bevorzuge ich es, selbstgemachte Geschenke vorzubereiten. Vieles ka
 <br />
 <a href="https://frangipani.raiano.ch/2015-12-13-cioccolata-calda-fatta-in-casa/" target="_blank">Heisse Schokolade</a>
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 32%; margin-right: 1%;" src="../2019-12-06-consiglio-green-numero-4/green1.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="../2019-12-06-consiglio-green-numero-4/green2.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 32%; margin-left: 1%;" src="../2019-12-06-consiglio-green-numero-4/green3.jpeg" alt="" title="frangipani © Erica" />
@@ -57,7 +57,7 @@ Mittlerweile bevorzuge ich es, selbstgemachte Geschenke vorzubereiten. Vieles ka
   </div>
 </p>
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 32%; margin-right: 1%;" src="../2019-12-06-consiglio-green-numero-4/green4.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="../2019-12-06-consiglio-green-numero-4/green5.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 32%; margin-left: 1%;" src="../2019-12-06-consiglio-green-numero-4/green6.jpeg" alt="" title="frangipani © Erica" />
@@ -93,7 +93,7 @@ Es ist sehr schwierig, unsere Gewohnheiten von einem Tag zum anderen zu ändern,
 <br />
 Wenn ihr das Weihnachtsmenü nicht ganz mit saisonalen Zutaten zubereiten könnt, beginnt mit mindestens einem Gang.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 32%; margin-right: 1%;" src="../2019-12-06-consiglio-green-numero-4/green7.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="../2019-12-06-consiglio-green-numero-4/green8.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 32%; margin-left: 1%;" src="../2019-12-06-consiglio-green-numero-4/green9.jpeg" alt="" title="frangipani © Erica" />
@@ -101,7 +101,7 @@ Wenn ihr das Weihnachtsmenü nicht ganz mit saisonalen Zutaten zubereiten könnt
   </div>
 </p>
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 32%; margin-right: 1%;" src="../2019-12-06-consiglio-green-numero-4/green10.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="../2019-12-06-consiglio-green-numero-4/green11.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 32%; margin-left: 1%;" src="../2019-12-06-consiglio-green-numero-4/green12.jpeg" alt="" title="frangipani © Erica" />

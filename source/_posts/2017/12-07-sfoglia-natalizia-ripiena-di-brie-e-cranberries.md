@@ -52,7 +52,7 @@ Oggi vi propongo una ricetta veloce veloce ma mooolto sfiziosa per l'aperitivo d
 
 Segnate un cerchio al centro del disco di pasta sfoglia aiutandovi con una coppetta. Con un coltello ben affilato dividete il cerchio centrale in 8 spicchi.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="cerchio.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="stella.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -61,7 +61,7 @@ Segnate un cerchio al centro del disco di pasta sfoglia aiutandovi con una coppe
 
 Spalmate la marmellata di cranberries attorno al cerchio centrale. La quantità della marmellata dipende dai vostri gusti. Più ne mettete, più sarà dolce. Poi adagiate le fette di Brie tutto attorno. Chiudete attaccando gli spicchi centrali sulla parte esterna.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="chiudere.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

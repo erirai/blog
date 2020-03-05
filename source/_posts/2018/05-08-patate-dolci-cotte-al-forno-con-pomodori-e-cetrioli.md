@@ -63,7 +63,7 @@ Patate Dolci cotte al forno con Pomodori e Cetrioli, un piatto unico gustoso e s
 
 Lavate bene le patate dolci, poi asciugatele. Bucherellatele con una forchetta e mettetele su di una teglia con sotto un foglio di carta forno. Infornate nel forno preriscaldato a 200°C ventilato per un'oretta o finché saranno cotte. Saranno cotte quando con una forchetta potete infilzarle con facilità, come le patate. Poi tagliatele a metà, salate e mettete un filo d'olio.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="teglia.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="patatedolci.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

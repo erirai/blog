@@ -78,7 +78,7 @@ Vi auguro una bellissima Pasqua, non passate troppo tempo in cucina e mangiate s
 
 Mettete le carote pulite e a pezzettoni, l'olio e l'acqua nel mixer e frullate bene. In una coppa mettete il resto degli ingredienti e mescolateli, poi aggiungete la carota frullata ed iniziate ad impastare. Se non si compatta, aggiungete altra acqua e formate un panetto. Con un mattarello stendete il panetto fino ad uno spessore di 5mm e con le formine adatte formate i biscotti. 
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="impasto.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="biscotti.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

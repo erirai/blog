@@ -70,7 +70,7 @@ Lavate i mirtilli e metteteli in una coppa, aggiungete lo zucchero, l'amido di m
 
 Ora preparate la pasta fillo. Mettete un panno umido sul piano di lavoro, poi sopra un foglio di carta forno. Iniziate mettendo due fogli di pasta fillo sulla carta forno, sovrapponendoli in mezzo. Spennelate i due fogli di pasta fillo con la margarina sciolta, poi sopra altri due fogli di pasta fillo, di nuovo la margarina... finché avrete finito. Mettete i mirtilli nella parte bassa della pasta fillo.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="fillo.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="riempito.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -79,7 +79,7 @@ Ora preparate la pasta fillo. Mettete un panno umido sul piano di lavoro, poi so
 
 Chiudete prima da sotto, poi i lati. Finite di chiudere lo strudel da sopra e spennelatelo con il resto della margarina.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="chiudere.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="chiuso.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

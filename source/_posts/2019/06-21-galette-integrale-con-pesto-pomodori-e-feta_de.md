@@ -106,7 +106,7 @@ Ich wünsche euch ein schöner Sommerbeginn und der erste, der sich über die Hi
 Den Galette-Teig vorbereiten: Mehl, Natron und Salz in einer grossen Schüssel vermengen. In einer separaten Schüssel Sonnenblumenöl, Olivenöl und Wasser geben und langsam ins Mehlgemisch giessen. Teig gut kneten bis er geschmeidig und elastisch ist. Gut zugedeckt 20min ruhen lassen. Pesto vorbereiten: Basilikum waschen, dann Basilikumblätter, geriebenen Parmesankäse, Pinienkerne, Olivenöl, Salz und einen Schluck Wasser gut pürieren. 
 Galetteteig zwischen zwei Blätter Backpapier auswallen, dann 3/4 vom Pesto darüber verteilen, dabei einen Rand von ca. 4cm belassen. Tomaten in Scheiben schneiden und abwechselnd auf dem Pesto verteilen, Tomaten salzen und Ränder einschlagen.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2019-06-21-galette-integrale-con-pesto-pomodori-e-feta/pesto.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2019-06-21-galette-integrale-con-pesto-pomodori-e-feta/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

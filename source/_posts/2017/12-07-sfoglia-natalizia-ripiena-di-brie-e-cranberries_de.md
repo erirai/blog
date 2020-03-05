@@ -52,7 +52,7 @@ Heute schlage ich euch ein ganz schnelles aber seeehr schmackhaftes Rezept für 
 
 In der Mitte der Blätterteigscheibe einen Kreis drucken, mit Hilfe eines Schüsselchen. Mit einem scharfen Messer, den Kreis in 8 Stücke aufteilen.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2017-12-07-sfoglia-natalizia-ripiena-di-brie-e-cranberries/cerchio.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2017-12-07-sfoglia-natalizia-ripiena-di-brie-e-cranberries/stella.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -61,7 +61,7 @@ In der Mitte der Blätterteigscheibe einen Kreis drucken, mit Hilfe eines Schüs
 
 Cranberry Marmelade um den mittleren Kreis verteilen. Die Menge hängt von eurem Geschmack ab. Je mehr Marmelade, umso süsser wird der Blätterteig. Dann darauf die Käsestücke verteilen. Verschliesst alles, indem ihr ein Stück von der Mitte auf den äusseren Blätterteig legt.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2017-12-07-sfoglia-natalizia-ripiena-di-brie-e-cranberries/chiudere.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2017-12-07-sfoglia-natalizia-ripiena-di-brie-e-cranberries/teglia.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

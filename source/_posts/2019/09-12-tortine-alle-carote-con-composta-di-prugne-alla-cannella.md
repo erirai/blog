@@ -110,7 +110,7 @@ Lavate e pelate le carote, poi grattugiatele finemente e mettetele da parte. Con
 <br />
 Fate raffreddare le tortine prima di uscirle dalla teglia, poi preparate la composta. Lavate le prugne e privatele del nocciolo. Tagliatele in 4 e mettetele in un pentolino. Aggiungete poco zucchero, succo di limone, la cannella (io stecca di cannella) e un goccio d'acqua. Fate cuocere a temperatura media, finché vedrete che la composta inizia ad attaccarsi sul fondo.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="tortine.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="composta.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

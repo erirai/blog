@@ -83,7 +83,7 @@ Apropos, was ist Sommer für dich? Was machst du gerne im Sommer? Ich habe ein w
 
 Saft der beiden Zitronen im Messbecher geben, dann mit Wasser bis auf 375ml auffüllen. Zucker im Zitronenwasser auflösen, dann Sonnenblumenöl dazu geben und mischen. In einer separaten Schüssel Mehl, Backpulver, Zitronenabrieb, Salz und Mohnsamen vermengen, dann das flüssige Gemisch beigeben und alles mit einem Schwingbesen vermengen bis der Teig schön glatt ist. Dann die Früchte, in kleine Stücke geschnitten, vorsichtig unterheben. Teig in die bebutterte und bemehlte Form giessen.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2018-06-21-torta-vegana-al-limone-con-frutta-estiva-e-semi-di-papavero/impasto.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2018-06-21-torta-vegana-al-limone-con-frutta-estiva-e-semi-di-papavero/teglia.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

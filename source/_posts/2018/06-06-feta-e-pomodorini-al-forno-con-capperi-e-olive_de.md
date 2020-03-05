@@ -65,7 +65,7 @@ Gebackener Feta mit Tomaten, Kapern und Oliven, ein schnelles Essen mit wenigen 
 
 Tomaten waschen und halbieren. Tomaten zusammen mit den Kräutern und Knoblauch in eine Ofenform geben, leicht salzen und etwas Olivenöl darüber träufeln. Dann für 20min im vorgeheizten Ofen bei 180°C Umluft backen. Aus dem Ofen nehmen, Fetakäse ganz auf die Tomaten legen, die entsalzenen Kapern und Oliven darüber streuen und nochmals mit Olivenöl beträufeln.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2018-06-06-feta-e-pomodorini-al-forno-con-capperi-e-olive/pomodori.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2018-06-06-feta-e-pomodorini-al-forno-con-capperi-e-olive/teglia.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

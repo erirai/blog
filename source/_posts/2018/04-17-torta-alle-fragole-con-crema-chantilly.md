@@ -114,7 +114,7 @@ Infornate il bisquit nel forno preriscaldato a 190°C statico per circa 20-25min
 
 Per la crema Chantilly riscaldate il latte insieme alla bacca di vaniglia tagliata a metà. A parte montate i tuorli insieme allo zucchero finché saranno belli gonfi e spumosi, poi aggiungete la farina e continuate a mescolare. Dunque sempre mescolando versate il latte a filo nel composto con le uova, poi versate il tutto di nuovo nel pentolino. A temperatura moderata e sempre mescolando, portate ad ebollizione la crema e cuocetela finché si sarà addensata. Versate la crema in una pirofila e coprite con la pellicola a contatto. Fatela raffreddare completamente. Quando sarà completamente fredda, montate molto bene la panna ed incorporatela alla crema pasticcera con un movimento dall'alto verso il basso.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="cremapasticcera.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="chantilly.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

@@ -104,7 +104,7 @@ Infornate nel forno preriscaldato statico a 170°C per 55-60min, mi raccomando f
 <br />
 Fate intiepidire la torta prima di uscirla dallo stampo. Una volta fredda, fate sciogliere a Bagnomaria il cioccoalto Ruby o quello fondete e fatelo colare sulla torta.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -114,7 +114,7 @@ Fate intiepidire la torta prima di uscirla dallo stampo. Una volta fredda, fate 
 ![](risultato3.jpeg "frangipani © Erica")
 
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
@@ -124,7 +124,7 @@ Fate intiepidire la torta prima di uscirla dallo stampo. Una volta fredda, fate 
 ![](risultato6.jpeg "frangipani © Erica")
 
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

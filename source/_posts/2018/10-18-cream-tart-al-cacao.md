@@ -102,7 +102,7 @@ Come ogni anno, il 18 Ottobre, colgo l'occasione per ringraziare ogni uno di voi
 
 Per prima cosa preparate la pasta frolla morbida. Mettete tutti gli ingredienti in una ciotola e impastate finché avrete un panetto liscio ed omogeneo. Schiacciatelo bene, poi avvolgetelo con della pellicola trasparente e fatelo riposare in frigo per almeno due orette. Passato il tempo necessario, prendete l'impasto e stendetelo tra due fogli di carta forno infarinati fino ad uno spessore di 5mm. Togliete il foglio di carta superiore e ritagliate le sagome che volete, nel mio caso il 5. Lasciate le forme ritagliate sul foglio di carta forno ed eliminate i resti tutt'attorno. Bucherellate tutte le forme e mettetele con la carta forno su di una leccarda. Cuocete nel forno preriscaldato a 160°C ventilato per 15min. Dovranno appena dorarsi. Lasciate raffreddare completamente il biscotto prima di toccarlo. Se non avete posto per tutte e due le sagome su di una teglia, cuocete in due volte.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="teglia.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="biscotto.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

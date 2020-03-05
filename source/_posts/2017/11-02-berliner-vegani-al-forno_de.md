@@ -20,7 +20,7 @@ lang: de
 Vor einiger Zeit habe ich dank Instagram <a href="https://meinebackbox.de" target="_blank">Meine Backbox</a> entdeckt. Alle zwei Monate schickt "Meine Backbox" ein Paket voller Produkte für das Backen... Es gibt verschiedene Abos, man kann aber auch nur einzelne Boxen bestellen. Der Inhalt ist immer eine Überraschung, aber ein klein wenig verraten sie. Ich war total neugierig, darum habe ich Jenny kontaktiert und sie war so freundlich und hat mir eine Testbox gesandt. Ende September bekomme ich ein Packet voller Überraschungen...
 
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2017-11-02-berliner-vegani-al-forno/meinebackbox.jpg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2017-11-02-berliner-vegani-al-forno/magazin.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>

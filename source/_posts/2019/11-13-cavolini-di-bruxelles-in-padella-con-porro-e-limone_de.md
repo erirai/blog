@@ -58,7 +58,7 @@ Im November-Warenkorb der Foodie Challenge, organisiert von <a href="https://www
 
 Rosenkohl rüsten, dann halbieren oder vierteln. Lauch in dünne Scheiben schneiden und in einer Bratpfanne mit etwas Öl und Salz anrösten. Ein bisschen Wasser dazu geben und etwas weichkochen. Nun Rosenkohl und zwei halbierte Zitronenscheiben dazu geben. Saft einer halben Zitrone und ein wenig Wasser dazu geben. Mit einem Deckel zudecken und so lange köcheln lassen, bis der Rosenkohl gar ist, wenn nötig mehr Wasser dazu geben.
 <p>
-  <div style="width: 100%; margin-bottom: ">
+  <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2019-11-13-cavolini-di-bruxelles-in-padella-con-porro-e-limone/porro.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 49%; margin-left: 1%" src="../2019-11-13-cavolini-di-bruxelles-in-padella-con-porro-e-limone/padella.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
