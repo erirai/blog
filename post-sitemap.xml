@@ -9,7 +9,15 @@
 
     <url>
         <loc>http://frangipani.raiano.ch/2020-03-06-consiglio-green-numero-6-de/</loc>
-        <lastmod>2020-03-05T14:16:16.437Z</lastmod>
+        <lastmod>2020-03-05T16:06:08.834Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/2020-01-10-consiglio-green-numero-5-de/</loc>
+        <lastmod>2020-03-05T16:06:02.958Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -665,14 +673,6 @@
 
     <url>
         <loc>http://frangipani.raiano.ch/2020-01-10-consiglio-green-numero-5/</loc>
-        <lastmod>2020-03-04T17:02:07.013Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/2020-01-10-consiglio-green-numero-5-de/</loc>
         <lastmod>2020-03-04T17:02:07.013Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
