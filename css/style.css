@@ -2330,3 +2330,7 @@ i.icon:before {
   top: -50px;
   z-index: 1000;
 }
+.caption-group {
+  text-align: center;
+  display: inline-block;
+}
