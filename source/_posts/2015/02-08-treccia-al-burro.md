@@ -38,7 +38,7 @@ Noi ogni domenica a colazione mangiamo una bella treccia al burro. Per questa do
             <td>zucchero</td>
           </tr>
           <tr>
-            <td>15gr</td>
+            <td>2gr</td>
             <td>lievito fresco</td>
           </tr>
           <tr>
@@ -67,7 +67,7 @@ Noi ogni domenica a colazione mangiamo una bella treccia al burro. Per questa do
 Mettete nella planetaria la farina, il sale e lo zucchero. Poi fate riscaldare leggermente il latte, aggiungete il lievito e fatelo sciogliere. Aggiungete anche la margarina al latte e poi fate partire la planetaria. Versate il composto di latte, lievito e margarina alla farina e lasciate impastare finché l'impasto non si staccherà dalle pareti. Mettete un po' di farina su di un piano di lavoro e lavorate ancora l'impasto per qualche minuto a mano. Potete fare tutto completamente a mano se volete.
 ![](impasto.jpg "frangipani © Erica")
 
-Mettete l'impasto in una coppa abbastanza grande e coprite bene con una coperta. Mettete a lievitare il tutto per due orette o almeno finché non avrà raddoppiato il suo volume. Poi dividete l'impasto in due e formate due salsicciotti e fate una croce.
+Mettete l'impasto in una coppa abbastanza grande e coprite bene con una coperta. Mettete a lievitare il tutto per 8 ore o almeno finché non avrà raddoppiato il suo volume. Poi dividete l'impasto in due e formate due salsicciotti e fate una croce.
 ![](treccia1.jpg "frangipani © Erica")
 
 Adesso iniziate ad intrecciare la treccia. In Internet trovate sicuramente anche come si fa...
