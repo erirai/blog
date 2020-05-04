@@ -41,7 +41,7 @@ Das Brot vom Bäcker um die Ecke, war eines dieser Dinge, die ich vor ein paar W
           </tr>
           <tr>
             <td>1 Teelöffel</td>
-            <td>Honig</td>
+            <td>Honig oder Agavendicksaft</td>
           </tr>
           <tr>
             <td>qs</td>

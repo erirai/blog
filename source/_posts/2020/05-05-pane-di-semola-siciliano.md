@@ -41,7 +41,7 @@ Il pane del fornaio dietro casa, era una di quelle cose che avrei mangiato molto
           </tr>
           <tr>
             <td>1 cucchiaino</td>
-            <td>miele</td>
+            <td>miele o sciorippo d'agave</td>
           </tr>
           <tr>
             <td>qb</td>
