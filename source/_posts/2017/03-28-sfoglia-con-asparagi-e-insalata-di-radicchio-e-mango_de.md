@@ -1,5 +1,5 @@
 ---
-title: "Spargel-Blätterteig-Tarte und Mango-Radicchio Salat"
+title: "Spargel-Ricotta-Tarte und Mango-Radicchio Salat"
 date: 2017-03-28
 tags:
 - pasta sfoglia 
