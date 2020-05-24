@@ -1,5 +1,5 @@
 ---
-title: "Sfoglia con Asparagi e Ricotta Insalata di Radicchio e Mango"
+title: "Sfoglia con Asparagi e Ricotta e Insalata di Radicchio e Mango"
 date: 2017-03-28
 tags:
 - pasta sfoglia 
