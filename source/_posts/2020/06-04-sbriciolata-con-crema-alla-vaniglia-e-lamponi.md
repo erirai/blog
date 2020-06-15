@@ -8,7 +8,7 @@ tags:
 categories:
 - Dolce
 - Torte
-label: 2020-sbriciolata-con-crema-alla-vaniglia-e-lamponi
+label: 2020-06-04-sbriciolata-con-crema-alla-vaniglia-e-lamponi
 lang: it 
 ---
 ![](header.jpeg "frangipani © Erica")
@@ -17,7 +17,7 @@ lang: it
 <br />
 Avevo troppa voglia di una Sbriciolata, ma inizialmente volevo farla con la crema alla vaniglia e pezzetti di cioccolato, per smaltire il cioccolato di Pasqua (sì, ho ancora qualche coniglietto di cioccolato). Poi però mi sono ricordata che devo svuotare il congelatore per fare posto alle bontà che stanno per arrivare. Quindi ho messo i lamponi al posto del cioccolato. Erano gli ultimi lamponi (comprati). Prossimo mese poi andiamo a raccoglierli per fare la mia confettura preferita e per congelarli...
 <br />
-Questa Sbriciolta con Crema alla Vaniglia e Lamponi è libidinosa. È sparita in un attimo! Boh, non lo so. Sarà perché ho un debole per la frolla, per la crema alla vaniglia e per i lamponi, ma era uno spettacolo! E secondo me con il cioccolato al posto dei lamponi, sarà pure ottima...
+Questa Sbriciolta con Crema alla Vaniglia e Lamponi è libidinosa. È sparita in un attimo! Boh, n-06-0on lo so. Sarà perché ho un debole per la frolla, per la crema alla vaniglia e per i lamponi, ma era uno spettacolo! E secondo me con il cioccolato al posto dei lamponi, sarà pure ottima...
 
 Mentre scrivevo che prossimo mese andremo a raccogliere i lamponi, mi sono resa conto che l'estate sta arrivando. Siamo a Giugno e mancano meno di tre settimane all'inizio dell'estate... Abbiamo passato praticamente una stagione intera, la primavera, in quarantena e siamo passati direttamente dall'inverno all'estate. Un bel salto direi.
 <br />
