@@ -3,22 +3,29 @@
 
 
     <url>
-        <loc>http://frangipani.raiano.ch/tags/pane/</loc>
-        <lastmod>2020-06-15T19:11:18.990Z</lastmod>
+        <loc>http://frangipani.raiano.ch/tags/estate/</loc>
+        <lastmod>2020-06-23T09:22:03.149Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/primi/</loc>
+        <lastmod>2020-06-23T09:22:03.149Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://frangipani.raiano.ch/tags/vegan/</loc>
-        <lastmod>2020-06-15T19:11:18.990Z</lastmod>
+        <lastmod>2020-06-23T09:22:03.149Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/tags/estate/</loc>
-        <lastmod>2020-06-15T19:02:13.811Z</lastmod>
+        <loc>http://frangipani.raiano.ch/tags/pane/</loc>
+        <lastmod>2020-06-15T19:11:18.990Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -319,13 +326,6 @@
 
     <url>
         <loc>http://frangipani.raiano.ch/tags/pasta/</loc>
-        <lastmod>2020-03-04T17:02:07.951Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/primi/</loc>
         <lastmod>2020-03-04T17:02:07.951Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
