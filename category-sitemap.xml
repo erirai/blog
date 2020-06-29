@@ -8,6 +8,20 @@
     </url>
 
     <url>
+        <loc>http://frangipani.raiano.ch/categories/Dolce/Crostate-Tartes/</loc>
+        <lastmod>2020-06-29T08:59:30.348Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/categories/Dolce/</loc>
+        <lastmod>2020-06-29T08:59:30.348Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://frangipani.raiano.ch/categories/Salato/Primi-Piatti/</loc>
         <lastmod>2020-06-23T09:22:03.149Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -29,27 +43,6 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/categories/Dolce/</loc>
-        <lastmod>2020-06-15T19:11:18.990Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/categories/Dolce/Crostate-Tartes/</loc>
-        <lastmod>2020-06-15T19:02:13.811Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/categories/Dolce/Torte/</loc>
-        <lastmod>2020-06-15T07:55:16.600Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://frangipani.raiano.ch/categories/Salato/Piatti-Unici/</loc>
         <lastmod>2020-05-24T12:04:04.476Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -59,6 +52,13 @@
     <url>
         <loc>http://frangipani.raiano.ch/categories/Salato/Torte-salate-Muffin-salati/</loc>
         <lastmod>2020-05-18T20:42:32.070Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/categories/Dolce/Torte/</loc>
+        <lastmod>2020-05-14T06:51:58.758Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
