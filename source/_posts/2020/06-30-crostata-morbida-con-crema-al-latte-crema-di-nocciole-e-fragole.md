@@ -120,7 +120,7 @@ Livellate un pochettino la base per la crostata morbida, poi mettetela sul piatt
     <div style="clear: both"></div>
   </div>
 </p>
-Adesso decorate la torta con le fragole, come piace a voi. Finite spennellando su tutte le fragole della confettura di albicocche o altra gelatina. Mettete in frigo per almeno due ore prima di servirla...
+Adesso decorate la torta con le fragole, come piace a voi. Finite spennellando su tutte le fragole della confettura di albicocche o altra gelatina. Mettete in frigo per almeno due ore prima di servirla... 
 <p>
   <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
