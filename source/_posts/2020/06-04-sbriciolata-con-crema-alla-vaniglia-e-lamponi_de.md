@@ -7,7 +7,7 @@ tags:
 - torta
 categories:
 - Dolce
-- Torte
+- "Crostate, Tartes..."
 label: 2020-06-04--sbriciolata-con-crema-alla-vaniglia-e-lamponi
 lang: de 
 ---
