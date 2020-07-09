@@ -4,7 +4,7 @@
   
   <link href="http://frangipani.raiano.ch/it/atom.xml" rel="self"/>
   <link href="http://frangipani.raiano.ch/"/>
-  <updated>2020-07-06T09:21:16.083Z</updated>
+  <updated>2020-07-06T15:02:16.352Z</updated>
   <id>http://frangipani.raiano.ch/</id>
   
   <author>
@@ -19,13 +19,13 @@
     <link href="http://frangipani.raiano.ch/2020-07-07-muffin-vegani-variegati-con-ciliegie/"/>
     <id>http://frangipani.raiano.ch/2020-07-07-muffin-vegani-variegati-con-ciliegie/</id>
     <published>2020-07-06T22:00:00.000Z</published>
-    <updated>2020-07-06T09:21:16.083Z</updated>
+    <updated>2020-07-06T15:02:16.352Z</updated>
     <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Muffin vegani variegati con Ciliegie&lt;/strong&gt; perfetti per la colazione o per la merenda. Super buoni e sofficissimi, vegani e con ingredienti semplicissimi. Le ciliegie li rendono speciali, ma al posto delle ciliegie si possono mettere anche fragole, lamponi, more o mirtilli.
 &lt;br&gt;
 Inizialmente volevo fare solo l&amp;#39;impasto bianco alla vaniglia, mentre li preparavo però, mi è venuto il colpo di fulmine e in una parte ho aggiunto anche il cacao amaro. E così sono nati questi Muffin vegani variegati con ciliegie.
 &lt;br&gt;
-Le ciliegie le ha portate il nonno di mio marito, raccolte dal loro giardino. È già il secondo saccheto che porta. Con il primo ho fatto la confettura. Con il secondo ho fatto questi muffin, un po&amp;#39; le abbiamo mangiate e qualcuna l&amp;#39;ho congelata perché vorrei provare a fare una confettura Tuttifrutti con ciliegie, frutti di bosco, albicocche e pesche... &lt;/p&gt;
+Le ciliegie le ha portate il nonno di mio marito, raccolte dal loro giardino. È già il secondo sacchetto che porta. Con il primo ho fatto la confettura. Con il secondo ho fatto questi muffin, un po&amp;#39; le abbiamo mangiate e qualcuna l&amp;#39;ho congelata perché vorrei provare a fare una confettura Tuttifrutti con ciliegie, frutti di bosco, albicocche e pesche... &lt;/p&gt;
 &lt;p&gt;È iniziata l&amp;#39;ultima settimana di scuola prima delle vacanze estive. E sì, sono più che pronta per le vacanze. Non vedo l&amp;#39;ora di spegnere la sveglia, di fare colazione con calma, di goderci le giornate senza orari fissi...&lt;/p&gt;
 &lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
   &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
@@ -142,9 +142,9 @@ Mettete un cucchiaino di tutti e due gli impasti in ogni pirottino e con uno ste
     
       <category term="dolci" scheme="http://frangipani.raiano.ch/tags/dolci/"/>
     
-      <category term="vegan" scheme="http://frangipani.raiano.ch/tags/vegan/"/>
-    
       <category term="muffin" scheme="http://frangipani.raiano.ch/tags/muffin/"/>
+    
+      <category term="vegan" scheme="http://frangipani.raiano.ch/tags/vegan/"/>
     
       <category term="estate" scheme="http://frangipani.raiano.ch/tags/estate/"/>
     
@@ -2705,11 +2705,11 @@ Frullate con le fruste elettriche il burro insieme allo zucchero finché diventa
     
       <category term="dolci" scheme="http://frangipani.raiano.ch/tags/dolci/"/>
     
+      <category term="cobbler" scheme="http://frangipani.raiano.ch/tags/cobbler/"/>
+    
       <category term="autunno" scheme="http://frangipani.raiano.ch/tags/autunno/"/>
     
       <category term="inverno" scheme="http://frangipani.raiano.ch/tags/inverno/"/>
-    
-      <category term="cobbler" scheme="http://frangipani.raiano.ch/tags/cobbler/"/>
     
   </entry>
   
