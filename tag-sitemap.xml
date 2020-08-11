@@ -4,21 +4,35 @@
 
     <url>
         <loc>http://frangipani.raiano.ch/tags/estate/</loc>
-        <lastmod>2020-07-15T20:30:50.664Z</lastmod>
+        <lastmod>2020-08-11T17:42:33.972Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/gelato/</loc>
+        <lastmod>2020-08-11T17:42:33.972Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/dolci/</loc>
+        <lastmod>2020-08-11T17:42:33.972Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://frangipani.raiano.ch/tags/vegan/</loc>
-        <lastmod>2020-07-15T20:30:50.664Z</lastmod>
+        <lastmod>2020-07-15T20:36:17.683Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://frangipani.raiano.ch/tags/aperitivo/</loc>
-        <lastmod>2020-07-15T20:30:50.664Z</lastmod>
+        <lastmod>2020-07-15T20:36:17.683Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -32,13 +46,6 @@
 
     <url>
         <loc>http://frangipani.raiano.ch/tags/ribes/</loc>
-        <lastmod>2020-07-09T09:42:23.978Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/dolci/</loc>
         <lastmod>2020-07-09T09:42:23.978Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -472,21 +479,14 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/tags/gelato/</loc>
-        <lastmod>2020-03-04T17:02:07.331Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/antipasto/</loc>
+        <loc>http://frangipani.raiano.ch/tags/patate-dolci/</loc>
         <lastmod>2020-03-04T17:02:07.295Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/tags/patate-dolci/</loc>
+        <loc>http://frangipani.raiano.ch/tags/antipasto/</loc>
         <lastmod>2020-03-04T17:02:07.295Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
