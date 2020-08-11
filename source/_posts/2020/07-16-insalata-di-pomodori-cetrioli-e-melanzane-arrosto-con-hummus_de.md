@@ -15,7 +15,7 @@ lang: de
 
 **Tomaten-Gurken-Salat mit gerösteten Auberginen und Hummus** etwas vom Leckersten, dass ihr je essen werdet! Man nennt das auch "Loaded Hummus" und ich finde der Name passt perfekt, weil es nichts anderes ist, als beladener Hummus... In meinem Fall mit einem sommerlichen Salat. Aber die Varianten sind da unendlich, einfach das verwenden, was die verschiedenen Saisons uns schenken.
 <br />
-Ich habe mich ja schon mehrmals als Hummus-Addicted bekannt und vor einiger Zeit, während ich auf Pinterest nach Inspiration suchte, sah ich Fotos von Loaded Hummus. Diese tolle Sache, wurde sofort in meinem Hirn gespeichert und endlich habe ich es zubereitet! Dieses Gericht könnte zusammen mit Krackers ein Apéro sein, eine Beilage oder eine leichtes Mittag- oder Abendessen...
+Ich habe mich ja schon mehrmals als Hummus-Addicted bekannt und vor einiger Zeit, während ich auf Pinterest nach Inspiration suchte, sah ich Fotos von Loaded Hummus. Diese tolle Sache, wurde sofort in meinem Hirn gespeichert und endlich habe ich es zubereitet! Dieses Gericht könnte zusammen mit Krackers ein Apéro sein, eine Beilage oder ein leichtes Mittag- oder Abendessen...
 <br />
 Diesen Tomaten-Gurken-Salat mit gerösteten Auberginen und Hummus habe ich für die 16. Foodie Challenge organisiert von <a href="https://www.foodblogs-schweiz.ch" target="_blank">Foodblogs Schweiz</a> zubereitet, da das Thema SOMMERSALATE war. Und ich finde, dass es perfekt passt!
 
