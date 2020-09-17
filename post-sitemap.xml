@@ -8,6 +8,22 @@
     </url>
 
     <url>
+        <loc>http://frangipani.raiano.ch/2020-09-17-insalata-di-lenticchie-con-verdure-di-stagione-de/</loc>
+        <lastmod>2020-09-17T09:00:51.220Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/2020-09-17-insalata-di-lenticchie-con-verdure-di-stagione/</loc>
+        <lastmod>2020-09-17T08:53:06.611Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://frangipani.raiano.ch/2020-09-15-torta-allo-yogurt-con-zafferano-e-uva-de/</loc>
         <lastmod>2020-09-14T10:02:03.153Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -4512,14 +4528,6 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/2015-12-20-cornetti-sfogliati-veloci/</loc>
-        <lastmod>2017-08-20T12:10:57.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>http://frangipani.raiano.ch/2015-12-21-sidro-di-mele-speziato/</loc>
         <lastmod>2017-08-20T12:10:57.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -4529,6 +4537,14 @@
 
     <url>
         <loc>http://frangipani.raiano.ch/2015-12-25-timballo-di-pasta-in-crosta/</loc>
+        <lastmod>2017-08-20T12:10:57.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/2015-12-20-cornetti-sfogliati-veloci/</loc>
         <lastmod>2017-08-20T12:10:57.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>

@@ -8,6 +8,20 @@
     </url>
 
     <url>
+        <loc>http://frangipani.raiano.ch/categories/Salato/Piatti-Unici/</loc>
+        <lastmod>2020-09-17T09:00:51.220Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/categories/Salato/</loc>
+        <lastmod>2020-09-17T09:00:51.220Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://frangipani.raiano.ch/categories/Dolce/Torte/</loc>
         <lastmod>2020-09-14T10:02:03.153Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -30,13 +44,6 @@
 
     <url>
         <loc>http://frangipani.raiano.ch/categories/Salato/Aperitivi/</loc>
-        <lastmod>2020-07-15T20:36:17.683Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/categories/Salato/</loc>
         <lastmod>2020-07-15T20:36:17.683Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -66,13 +73,6 @@
     <url>
         <loc>http://frangipani.raiano.ch/categories/Dolce/Panificati/</loc>
         <lastmod>2020-06-15T19:11:18.990Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/categories/Salato/Piatti-Unici/</loc>
-        <lastmod>2020-05-24T12:04:04.476Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
