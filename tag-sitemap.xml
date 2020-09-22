@@ -4,34 +4,34 @@
 
     <url>
         <loc>http://frangipani.raiano.ch/tags/autunno/</loc>
-        <lastmod>2020-09-17T09:00:51.220Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/estate/</loc>
-        <lastmod>2020-09-17T09:00:51.220Z</lastmod>
+        <lastmod>2020-09-22T10:16:50.387Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://frangipani.raiano.ch/tags/contorno/</loc>
-        <lastmod>2020-09-17T09:00:51.220Z</lastmod>
+        <lastmod>2020-09-22T10:16:50.387Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://frangipani.raiano.ch/tags/piatto-unico/</loc>
-        <lastmod>2020-09-17T09:00:51.220Z</lastmod>
+        <lastmod>2020-09-22T10:16:50.387Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://frangipani.raiano.ch/tags/vegan/</loc>
+        <lastmod>2020-09-22T10:16:50.387Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/estate/</loc>
         <lastmod>2020-09-17T09:00:51.220Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -486,14 +486,14 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/tags/antipasto/</loc>
+        <loc>http://frangipani.raiano.ch/tags/patate-dolci/</loc>
         <lastmod>2020-03-04T17:02:07.295Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/tags/patate-dolci/</loc>
+        <loc>http://frangipani.raiano.ch/tags/antipasto/</loc>
         <lastmod>2020-03-04T17:02:07.295Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -1200,14 +1200,14 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/tags/cornetti-sfogliati/</loc>
+        <loc>http://frangipani.raiano.ch/tags/sidro-di-mele/</loc>
         <lastmod>2017-08-20T12:10:57.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/tags/sidro-di-mele/</loc>
+        <loc>http://frangipani.raiano.ch/tags/cornetti-sfogliati/</loc>
         <lastmod>2017-08-20T12:10:57.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
