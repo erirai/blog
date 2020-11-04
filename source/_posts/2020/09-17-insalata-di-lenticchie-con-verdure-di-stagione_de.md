@@ -7,7 +7,6 @@ tags:
 - autunno
 - piatto unico
 - contorno
-- vegan
 categories:
 - Salato
 - "Piatti Unici"
