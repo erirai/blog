@@ -14,9 +14,9 @@ lang: de
 ---
 ![](../2020-11-19-girelle-soffici-alle-nocciole/header.jpeg "frangipani © Erica")
 
-**Fluffige Nussschnecken** die fluffigsten Nussschnecken, die ihr je essen werdet! Sie haben eine schöne cremige Nussfüllung und der Hefeteig ist spektakulär fluffig. Dann alles abgerundet mit einer frischen Glasur mit Zitronensaft, die, glaubt es mir, den Unterschied macht!
+**Fluffige Nussschnecken** die fluffigsten Nussschnecken, die ich je gegessen habe! Sie haben eine tolle cremige Nussfüllung und der Hefeteig ist spektakulär luftig. Dann alles abgerundet von einer frischen Glasur mit Zitronensaft, die, glaubt es mir, den Unterschied macht!
 <br />
-Im Laufe der Jahre habe ich etwas Wichtiges über Nussschnecken, Cinnamon Rolls usw. gelernt... Entweder sie sind schön, perfekt, rund, symmetrisch, ohne Füllung, die herauskommt, ABER nicht so fluffig und mit einem guten Geschmack. Dann gibt es solche, die etwas unschön sind, die in die Höhe aufgehen, ein wenig schief, ABER weich wie ein Wölckchen und unglaublich lecker! Ich habe mich für eine Seite entschieden... aussen unschön, innen aber spektakulär! Auf welcher Seite bist du?
+Im Laufe der Jahre habe ich etwas Wichtiges über Nussschnecken, Cinnamon Rolls usw. gelernt... Entweder sie sind schön, perfekt, rund, symmetrisch, ohne Füllung, die herauskommt, ABER nicht so fluffig und mit einem guten Geschmack. Dann gibt es solche, die etwas unschön sind, die in die Höhe aufgehen, ein wenig schief, ABER luftig wie ein Wölkchen und unglaublich lecker! Ich habe mich für eine Seite entschieden... aussen unschön, innen aber spektakulär! Auf welcher Seite bist du?
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
