@@ -85,7 +85,7 @@ Wusstet ihr, dass heute ein besonderer Tag ist? Ja, genau vor 12 Jahren, haben m
   </font> Zubereitung
 </h3>
 
-Für den Mürbeteig Mehl, gemahlene Mandeln und Haselnüsse, gemahlene Gewürznelken, Zimt, brauner Zucker, Salz und Zitronenabrieb in einer Schüssel vermengen. Margarine und in kleines bisschen pflanzliche Milch dazu geben und kneten. Falls sich der Teig nicht bindet, einfach nochmals ein klein wenig Milch dazu geben. Kugel formen, in Klarsichtfolie einwickeln und eine halbe Stunde im Kühlschrank ruhen lassen.
+Für den Mürbeteig Mehl, gemahlene Mandeln und Haselnüsse, gemahlene Gewürznelken, Zimt, brauner Zucker, Salz und Zitronenabrieb in einer Schüssel vermengen. Margarine und ein kleines bisschen pflanzliche Milch dazu geben und kneten. Falls sich der Teig nicht bindet, einfach nochmals ein klein wenig Milch dazu geben. Kugel formen, in Klarsichtfolie einwickeln und eine halbe Stunde im Kühlschrank ruhen lassen.
 
 Etwas weniger als die Hälfte vom Teig auswallen und nur den Boden der mit Backpapier belegten Backform damit belegen. Wenn der Teig weich genug ist, könnt ihr diesen mit den Händen direkt in der Backform flach drücken. Dann mit etwas Teig Rollen formen und rundherum verteilen, sodass ein Rand entsteht. Mit einer Gabel den Rand etwas andrücken und Löcher in den Boden stechen.
 ![](../2017-11-20-linzertorte-vegana/bordo.jpg "frangipani © Erica")
