@@ -4,7 +4,7 @@
   
   <link href="http://frangipani.raiano.ch/it/atom.xml" rel="self"/>
   <link href="http://frangipani.raiano.ch/"/>
-  <updated>2020-11-24T10:26:19.867Z</updated>
+  <updated>2020-11-24T15:47:06.434Z</updated>
   <id>http://frangipani.raiano.ch/</id>
   
   <author>
@@ -19,9 +19,9 @@
     <link href="http://frangipani.raiano.ch/2020-11-25-biscotti-linzer-vegani/"/>
     <id>http://frangipani.raiano.ch/2020-11-25-biscotti-linzer-vegani/</id>
     <published>2020-11-24T23:00:00.000Z</published>
-    <updated>2020-11-24T10:26:19.867Z</updated>
+    <updated>2020-11-24T15:47:06.434Z</updated>
     <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Biscotti Linzer vegani&lt;/strong&gt; dei biscotti friabli, fruttati, speziati, super buoni che sanno di Natale! Non sono dei classici biscotti, vengono cotti un po&amp;#39; tipo crostata e poi tagliati a cubetti. Dei biscotti veloci diciamo, come i &lt;a href=&quot;https://frangipani.raiano.ch/2013-10-26-brownies/&quot; target=&quot;_blank&quot;&gt;Brownies&lt;/a&gt;. Per i biscotti Linzer, ma anche per la &lt;a href=&quot;https://frangipani.raiano.ch/2017-11-20-linzertorte-vegana/&quot; target=&quot;_blank&quot;&gt;Linzer Torte&lt;/a&gt;, mi piace usare la confettura di ribes rossi, perché è più agra e contrasta benissimo la frolla alle nocciole e mandorle. Ma potete usare ogni tipo di confettura, vi consiglio però una confettura di frutti rossi e senza semini.
+&lt;p&gt;&lt;strong&gt;Biscotti Linzer vegani&lt;/strong&gt; dei biscotti friabili, fruttati, speziati, super buoni che sanno di Natale! Non sono dei classici biscotti, vengono cotti un po&amp;#39; tipo crostata e poi tagliati a cubetti. Dei biscotti veloci diciamo, come i &lt;a href=&quot;https://frangipani.raiano.ch/2013-10-26-brownies/&quot; target=&quot;_blank&quot;&gt;Brownies&lt;/a&gt;. Per i biscotti Linzer, ma anche per la &lt;a href=&quot;https://frangipani.raiano.ch/2017-11-20-linzertorte-vegana/&quot; target=&quot;_blank&quot;&gt;Linzer Torte&lt;/a&gt;, mi piace usare la confettura di ribes rossi, perché è più agra e contrasta benissimo la frolla alle nocciole e mandorle. Ma potete usare ogni tipo di confettura, vi consiglio però una confettura di frutti rossi e senza semini.
 &lt;br&gt;
 In realtà volevo fare questi &lt;strong&gt;Biscotti Linzer vegani&lt;/strong&gt; a forma di biscotti, come i &lt;a href=&quot;https://frangipani.raiano.ch/2013-12-09-spitzbuebe/&quot; target=&quot;_blank&quot;&gt;Biscotti Occhio di Bue (Spitzbuebe)&lt;/a&gt;, poi però ho visto questa versione a cubetti e ho preferito farli così. La mia ricetta è senza uova e vegana (se usate la margarina al posto del burro) quindi è un po&amp;#39; briciolosa quando si lavora l&amp;#39;impasto, ma il gusto finale è impeccabile.&lt;/p&gt;
 &lt;p&gt;Ieri e l&amp;#39;altro ieri ho decorato casa, ho fatto con calma. Normalmente addobbo tutto il weekend del primo avvento, quest&amp;#39;anno però ho voluto fare prima, così magari sabato avremo tempo per fare i biscotti...&lt;/p&gt;
@@ -133,7 +133,7 @@ In realtà volevo fare questi &lt;strong&gt;Biscotti Linzer vegani&lt;/strong&gt
     <summary type="html" xml:lang="it">
     
       &lt;p&gt;&lt;img src=&quot;header.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Biscotti Linzer vegani&lt;/strong&gt; dei biscotti friabli, fruttati, spe
+&lt;p&gt;&lt;strong&gt;Biscotti Linzer vegani&lt;/strong&gt; dei biscotti friabili, fruttati, sp
     
     </summary>
     
@@ -304,11 +304,11 @@ Prendete l&amp;#39;impasto e aiutandovi con un mattarello stendetelo formando un
       <category term="Panificati" scheme="http://frangipani.raiano.ch/categories/Dolce/Panificati/"/>
     
     
+      <category term="autunno" scheme="http://frangipani.raiano.ch/tags/autunno/"/>
+    
       <category term="natale" scheme="http://frangipani.raiano.ch/tags/natale/"/>
     
       <category term="panificati" scheme="http://frangipani.raiano.ch/tags/panificati/"/>
-    
-      <category term="autunno" scheme="http://frangipani.raiano.ch/tags/autunno/"/>
     
       <category term="inverno" scheme="http://frangipani.raiano.ch/tags/inverno/"/>
     
@@ -735,9 +735,9 @@ Se volete farli vegani e non trovate il cioccolato bianco vegano, potete usare q
     
       <category term="dolci" scheme="http://frangipani.raiano.ch/tags/dolci/"/>
     
-      <category term="halloween" scheme="http://frangipani.raiano.ch/tags/halloween/"/>
-    
       <category term="autunno" scheme="http://frangipani.raiano.ch/tags/autunno/"/>
+    
+      <category term="halloween" scheme="http://frangipani.raiano.ch/tags/halloween/"/>
     
       <category term="vegan" scheme="http://frangipani.raiano.ch/tags/vegan/"/>
     
@@ -920,9 +920,9 @@ Abbassate la temperatura del forno a 180°C, versate la farcia alla zucca nella 
       <category term="Crostate, Tartes..." scheme="http://frangipani.raiano.ch/categories/Dolce/Crostate-Tartes/"/>
     
     
-      <category term="halloween" scheme="http://frangipani.raiano.ch/tags/halloween/"/>
-    
       <category term="autunno" scheme="http://frangipani.raiano.ch/tags/autunno/"/>
+    
+      <category term="halloween" scheme="http://frangipani.raiano.ch/tags/halloween/"/>
     
   </entry>
   
@@ -1222,9 +1222,9 @@ Prendete una cucchiaiata dell&amp;#39;impasto e fate circa 25 palline dalla gran
     
       <category term="dolci" scheme="http://frangipani.raiano.ch/tags/dolci/"/>
     
-      <category term="biscotti" scheme="http://frangipani.raiano.ch/tags/biscotti/"/>
-    
       <category term="autunno" scheme="http://frangipani.raiano.ch/tags/autunno/"/>
+    
+      <category term="biscotti" scheme="http://frangipani.raiano.ch/tags/biscotti/"/>
     
   </entry>
   

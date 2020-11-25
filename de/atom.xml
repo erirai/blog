@@ -4,7 +4,7 @@
   
   <link href="http://frangipani.raiano.ch/de/atom.xml" rel="self"/>
   <link href="http://frangipani.raiano.ch/"/>
-  <updated>2020-11-24T10:34:07.602Z</updated>
+  <updated>2020-11-24T15:52:23.078Z</updated>
   <id>http://frangipani.raiano.ch/</id>
   
   <author>
@@ -19,9 +19,9 @@
     <link href="http://frangipani.raiano.ch/2020-11-25-biscotti-linzer-vegani-de/"/>
     <id>http://frangipani.raiano.ch/2020-11-25-biscotti-linzer-vegani-de/</id>
     <published>2020-11-24T23:00:00.000Z</published>
-    <updated>2020-11-24T10:34:07.602Z</updated>
+    <updated>2020-11-24T15:52:23.078Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2020-11-25-biscotti-linzer-vegani/header.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;vegane Linzer Kekse&lt;/strong&gt; mürbe, fruchtig, würzig, super leckere Kekse, die nach Weihnachten schmecken! Sie sind keine klassischen Kekse, sie werden ein bisschen wie eine Tarte gebacken und dann in Würfel geschnitten. Schnelle Guezli, sage ich denen, wie &lt;a href=&quot;https://frangipani.raiano.ch/2013-10-26-brownies/&quot; target=&quot;_blank&quot;&gt;Brownies&lt;/a&gt;. Für Linzer Kekse, aber auch für die &lt;a href=&quot;https://frangipani.raiano.ch/2017-11-20-linzertorte-vegana-de//&quot; target=&quot;_blank&quot;&gt;Linzer Torte&lt;/a&gt;, verwende ich gerne Johannisbeerenkonfitüre, weil sie sauer ist und ein sehr guter Kontrast zum Nussmürbeteig ist. Ihr könnt aber jede Art von Konfitüre verwenden, aber ich empfehle eine rote Fruchtmarmelade ohne Kerne.
+&lt;p&gt;&lt;strong&gt;Vegane Linzer Kekse&lt;/strong&gt; mürbe, fruchtig, würzig, super leckere Kekse, die nach Weihnachten schmecken! Sie sind keine klassischen Kekse, sie werden ein bisschen wie eine Tarte gebacken und dann in Würfel geschnitten. Schnelle Guezli, sage ich denen, wie &lt;a href=&quot;https://frangipani.raiano.ch/2013-10-26-brownies/&quot; target=&quot;_blank&quot;&gt;Brownies&lt;/a&gt;. Für Linzer Kekse, aber auch für die &lt;a href=&quot;https://frangipani.raiano.ch/2017-11-20-linzertorte-vegana-de//&quot; target=&quot;_blank&quot;&gt;Linzer Torte&lt;/a&gt;, verwende ich gerne Johannisbeerenkonfitüre, weil sie sauer ist und ein sehr guter Kontrast zum Nussmürbeteig ist. Ihr könnt aber jede Art von Konfitüre verwenden, aber ich empfehle eine rote Fruchtmarmelade ohne Kerne.
 &lt;br&gt;
 Eigentlich wollte ich diese &lt;strong&gt;veganen Linzer Kekse&lt;/strong&gt; wie die &lt;a href=&quot;https://frangipani.raiano.ch/2013-12-09-spitzbuebe/&quot; target=&quot;_blank&quot;&gt;Spitzbuben&lt;/a&gt; machen, aber dann habe ich diese Version in Würfeln gesehen und es vorgezogen, sie so zu machen. Mein Rezept ist ohne Eier und vegan (wenn ihr Margarine anstelle von Butter verwendet), daher ist der Teig bei der Verarbeitung etwas bröckelig, aber der Endgeschmack ist einwandfrei.&lt;/p&gt;
 &lt;p&gt;Gestern und vorgestern habe ich die ganze Wohnung dekoriert, in aller Ruhe. Normalerweise, dekoriere ich alles am Wochenende vom ersten Advent, dieses Jahr wollte ich aber etwas früher damit anfangen, so haben wir am Samstag vielleicht Zeit Guezli zu backen...&lt;/p&gt;
@@ -133,7 +133,7 @@ Eigentlich wollte ich diese &lt;strong&gt;veganen Linzer Kekse&lt;/strong&gt; wi
     <summary type="html" xml:lang="de">
     
       &lt;p&gt;&lt;img src=&quot;../2020-11-25-biscotti-linzer-vegani/header.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;vegane Linzer Kekse&lt;/strong&gt; m
+&lt;p&gt;&lt;strong&gt;Vegane Linzer Kekse&lt;/strong&gt; m
     
     </summary>
     
@@ -304,11 +304,11 @@ Mit Hilfe von einem Wallholz, den Teig zu einem Rechteck auswallen. Darauf die F
       <category term="Panificati" scheme="http://frangipani.raiano.ch/categories/Dolce/Panificati/"/>
     
     
+      <category term="autunno" scheme="http://frangipani.raiano.ch/tags/autunno/"/>
+    
       <category term="natale" scheme="http://frangipani.raiano.ch/tags/natale/"/>
     
       <category term="panificati" scheme="http://frangipani.raiano.ch/tags/panificati/"/>
-    
-      <category term="autunno" scheme="http://frangipani.raiano.ch/tags/autunno/"/>
     
       <category term="inverno" scheme="http://frangipani.raiano.ch/tags/inverno/"/>
     
@@ -736,9 +736,9 @@ Wenn ihr sie vegan machen möchtet und keine vegane weisse Schokolade findet, k�
     
       <category term="dolci" scheme="http://frangipani.raiano.ch/tags/dolci/"/>
     
-      <category term="halloween" scheme="http://frangipani.raiano.ch/tags/halloween/"/>
-    
       <category term="autunno" scheme="http://frangipani.raiano.ch/tags/autunno/"/>
+    
+      <category term="halloween" scheme="http://frangipani.raiano.ch/tags/halloween/"/>
     
       <category term="vegan" scheme="http://frangipani.raiano.ch/tags/vegan/"/>
     
@@ -921,9 +921,9 @@ Temperatur auf 180°C senken, Füllung in die Backform geben, Ränder wieder mit
       <category term="Crostate, Tartes..." scheme="http://frangipani.raiano.ch/categories/Dolce/Crostate-Tartes/"/>
     
     
-      <category term="halloween" scheme="http://frangipani.raiano.ch/tags/halloween/"/>
-    
       <category term="autunno" scheme="http://frangipani.raiano.ch/tags/autunno/"/>
+    
+      <category term="halloween" scheme="http://frangipani.raiano.ch/tags/halloween/"/>
     
   </entry>
   
@@ -1222,9 +1222,9 @@ Je einen Esslöffel vom Teig nehmen und kleine baumnussgrosse Kugeln formen, dan
     
       <category term="dolci" scheme="http://frangipani.raiano.ch/tags/dolci/"/>
     
-      <category term="biscotti" scheme="http://frangipani.raiano.ch/tags/biscotti/"/>
-    
       <category term="autunno" scheme="http://frangipani.raiano.ch/tags/autunno/"/>
+    
+      <category term="biscotti" scheme="http://frangipani.raiano.ch/tags/biscotti/"/>
     
   </entry>
   
