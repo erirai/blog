@@ -21,51 +21,51 @@ Gestern und vorgestern habe ich die ganze Wohnung dekoriert, in aller Ruhe. Norm
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <div class="ingredients-title">Zutaten</div>
-           <table>
+      <table>
         <tbody>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>300gr</td>
             <td>Mehl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>110gr</td>
             <td>gemahlene Mandeln</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>110gr</td>
             <td>gemahlene Haselnüsse</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Prise</td>
             <td>Gewürznelkenpulver</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Teelöffel</td>
             <td>Zimt</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>180gr</td>
             <td>brauner Zucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Prise</td>
             <td>Salz</td>
-           </tr>
-          <tr>
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Zitronenabrieb</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>225gr</td>
             <td>Margarine oder Butter</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2-3 Esslöffel</td>
             <td>pflanzliche Milch</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>ca. 300gr</td>
             <td>Johannisbeerenkonfitüre</td>
           </tr>

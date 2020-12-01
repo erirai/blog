@@ -20,62 +20,62 @@ Negli anni ho imparato una cosa importante sulle girelle alle nocciole, cinnamon
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
-          <tr>          
+          <tr>
             <td colspan="2"><b>Pasta lievita</b></td>
           </tr>      
-          <tr>        
+          <tr itemprop="recipeIngredient">        
             <td>250gr</td>
             <td>farina forte</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>35gr</td>
             <td>zucchero</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 cucchiaino</td>
             <td>sale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100ml</td>
             <td>latte</td>
           </tr>      
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>20gr</td>
             <td>burro</td>
           </tr>
-          <tr> 
+          <tr itemprop="recipeIngredient"> 
             <td>1gr</td>
             <td>lievito fresco</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>uovo piccolino</td>
           </tr>
           <tr style="height: 15px;"></tr>
-          <tr>          
+          <tr>
             <td colspan="2"><b>Ripieno</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>125gr</td>
             <td>nocciole e/o mandorle macinate</td>
           </tr>
-          <tr>      
+          <tr itemprop="recipeIngredient">      
             <td>50gr</td>
             <td>zucchero</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2</td>
             <td>limone solo la scorza</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>70ml</td>
             <td>panna fresca o latte</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2 cucchiai</td>
             <td>confettura</td>
           </tr>
@@ -83,22 +83,22 @@ Negli anni ho imparato una cosa importante sulle girelle alle nocciole, cinnamon
           <tr>          
             <td colspan="2"><b>Glassa</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>50gr</td>
             <td>zucchero a velo</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2 cucchiaio</td>
             <td>acqua</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2 cucchiai</td>
             <td>succo di limone</td>
           </tr>
         </tbody>
       </table>
       <br></br>
-      <i class="pull-right" style="font-size: 80%;">per 8 girelle</i>
+      <i class="pull-right" style="font-size: 80%;" itemprop="recipeYield">per 8 girelle</i>
     </div>
   </div>
 </div>

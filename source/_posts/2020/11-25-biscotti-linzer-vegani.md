@@ -21,51 +21,51 @@ Ieri e l'altro ieri ho decorato casa, ho fatto con calma. Normalmente addobbo tu
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <div class="ingredients-title">Ingredienti</div>
-           <table>
+      <table>
         <tbody>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>300gr</td>
             <td>farina</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>110gr</td>
             <td>mandorle macinate</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>110gr</td>
             <td>nocciole macinate</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 pizzico</td>
             <td>chiodi di garofano in polvere</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 cucchiaino</td>
             <td>cannella</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>180gr</td>
             <td>zucchero di canna</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 pizzico</td>
             <td>sale</td>
-           </tr>
-          <tr>
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>scorza di limone</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>225gr</td>
             <td>margarina o burro</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2-3 cucchiai</td>
             <td>latte vegetale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>ca. 300gr</td>
             <td>confettura di ribes rossi</td>
           </tr>

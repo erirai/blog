@@ -20,85 +20,85 @@ Im Laufe der Jahre habe ich etwas Wichtiges über Nussschnecken, Cinnamon Rolls 
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
-          <tr>          
+          <tr>
             <td colspan="2"><b>Hefeteig</b></td>
-          </tr>      
-          <tr>        
+          </tr>
+          <tr itemprop="recipeIngredient">  
             <td>250gr</td>
             <td>Halbweissmehl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>35gr</td>
             <td>Zucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Teelöffel</td>
             <td>Salz</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100ml</td>
             <td>Milch</td>
-          </tr>      
-          <tr>
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>20gr</td>
             <td>Butter</td>
           </tr>
-          <tr> 
+          <tr itemprop="recipeIngredient"> 
             <td>1gr</td>
             <td>frische Hefe</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>kleines Ei</td>
           </tr>
           <tr style="height: 15px;"></tr>
-          <tr>          
+          <tr>
             <td colspan="2"><b>Füllung</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>125gr</td>
             <td>gemahlene Haselnüsse und/oder Mandeln</td>
           </tr>
-          <tr>      
+          <tr itemprop="recipeIngredient">
             <td>50gr</td>
             <td>Zucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2</td>
             <td>Zitrone nur Abrieb</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>70ml</td>
             <td>Sahne oder Milch</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2 Esslöffel</td>
             <td>Konfitüre</td>
           </tr>
           <tr style="height: 15px;"></tr>
-          <tr>          
+          <tr>
             <td colspan="2"><b>Glasur</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>50gr</td>
             <td>Puderzucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2 Esslöffel</td>
             <td>Wasser</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2 Esslöffel</td>
             <td>Zitronensaft</td>
           </tr>
         </tbody>
       </table>
       <br></br>
-      <i class="pull-right" style="font-size: 80%;">für 8 Nussschnecken</i>
+      <i class="pull-right" style="font-size: 80%;" itemprop="recipeYield">für 8 Nussschnecken</i>
     </div>
   </div>
 </div>
