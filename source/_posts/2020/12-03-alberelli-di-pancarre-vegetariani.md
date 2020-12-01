@@ -23,6 +23,7 @@ Lunedì ho impacchettato tutti i regali e prossima settimana, se tutto va bene, 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Alberelli di Pancarré vegetariani</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

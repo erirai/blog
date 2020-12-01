@@ -21,6 +21,7 @@ Im Laufe der Jahre habe ich etwas Wichtiges über Nussschnecken, Cinnamon Rolls 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Fluffige Nussschnecken</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

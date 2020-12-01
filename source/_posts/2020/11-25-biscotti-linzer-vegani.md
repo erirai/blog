@@ -22,6 +22,7 @@ Ieri e l'altro ieri ho decorato casa, ho fatto con calma. Normalmente addobbo tu
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Biscotti Linzer vegani</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

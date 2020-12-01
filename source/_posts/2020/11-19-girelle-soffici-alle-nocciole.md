@@ -21,6 +21,7 @@ Negli anni ho imparato una cosa importante sulle girelle alle nocciole, cinnamon
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Girelle soffici alle Nocciole</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

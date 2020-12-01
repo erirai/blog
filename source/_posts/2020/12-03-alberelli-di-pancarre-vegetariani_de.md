@@ -23,6 +23,7 @@ Am Montag habe ich alle Geschenke eingepackt und nächste Woche werden wir sie h
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Vegetarische Toastbrot-Bäumchen</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

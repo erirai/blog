@@ -22,6 +22,7 @@ Gestern und vorgestern habe ich die ganze Wohnung dekoriert, in aller Ruhe. Norm
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Vegane Linzer Kekse</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
