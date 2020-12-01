@@ -4,7 +4,7 @@
   
   <link href="http://frangipani.raiano.ch/de/atom.xml" rel="self"/>
   <link href="http://frangipani.raiano.ch/"/>
-  <updated>2020-12-01T13:14:29.812Z</updated>
+  <updated>2020-12-01T13:52:01.424Z</updated>
   <id>http://frangipani.raiano.ch/</id>
   
   <author>
@@ -19,7 +19,7 @@
     <link href="http://frangipani.raiano.ch/2020-12-03-alberelli-di-pancarre-vegetariani-de/"/>
     <id>http://frangipani.raiano.ch/2020-12-03-alberelli-di-pancarre-vegetariani-de/</id>
     <published>2020-12-02T23:00:00.000Z</published>
-    <updated>2020-12-01T13:11:02.438Z</updated>
+    <updated>2020-12-01T13:50:55.290Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2020-12-03-alberelli-di-pancarre-vegetariani/header.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Vegetarische Toastbrot-Bäumchen&lt;/strong&gt; ein köstlicher und schneller Weihnachts-Aperitif. Alles was ihr braucht ist Toastbrot und Aufstriche wie grünes Pesto, rotes Pesto, Olivenaufstrich, Hummus, Babaganoush, Frischkäse.. was auch immer ihr am liebsten mögt. Ihr könnt alles fertig kaufen oder zu Hause selbst vorbereiten, je nachdem, wie viel Zeit ihr habt. Bitte werft die Reste vom Toastbrot nicht weg, ihr könnt damit Croûtons für die Suppe machen oder sie für Fleisch-/Gemüsebällchen verwenden.
 &lt;br&gt;
@@ -30,6 +30,7 @@ Am Montag habe ich alle Geschenke eingepackt und nächste Woche werden wir sie h
 &lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
   &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
     &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
+      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Vegetarische Toastbrot-Bäumchen&lt;/span&gt;
       &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
       &lt;table&gt;
         &lt;tbody&gt;
@@ -111,7 +112,7 @@ Am Montag habe ich alle Geschenke eingepackt und nächste Woche werden wir sie h
     <link href="http://frangipani.raiano.ch/2020-11-25-biscotti-linzer-vegani-de/"/>
     <id>http://frangipani.raiano.ch/2020-11-25-biscotti-linzer-vegani-de/</id>
     <published>2020-11-24T23:00:00.000Z</published>
-    <updated>2020-12-01T13:12:12.311Z</updated>
+    <updated>2020-12-01T13:51:24.625Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2020-11-25-biscotti-linzer-vegani/header.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Vegane Linzer Kekse&lt;/strong&gt; mürbe, fruchtig, würzig, super leckere Kekse, die nach Weihnachten schmecken! Sie sind keine klassischen Kekse, sie werden ein bisschen wie eine Tarte gebacken und dann in Würfel geschnitten. Schnelle Guezli, sage ich denen, wie &lt;a href=&quot;https://frangipani.raiano.ch/2013-10-26-brownies/&quot; target=&quot;_blank&quot;&gt;Brownies&lt;/a&gt;. Für Linzer Kekse, aber auch für die &lt;a href=&quot;https://frangipani.raiano.ch/2017-11-20-linzertorte-vegana-de//&quot; target=&quot;_blank&quot;&gt;Linzer Torte&lt;/a&gt;, verwende ich gerne Johannisbeerenkonfitüre, weil sie sauer ist und ein sehr guter Kontrast zum Nussmürbeteig ist. Ihr könnt aber jede Art von Konfitüre verwenden, aber ich empfehle eine rote Fruchtmarmelade ohne Kerne.
 &lt;br&gt;
@@ -120,6 +121,7 @@ Eigentlich wollte ich diese &lt;strong&gt;veganen Linzer Kekse&lt;/strong&gt; wi
 &lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
   &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
     &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
+      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Vegane Linzer Kekse&lt;/span&gt;
       &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
       &lt;table&gt;
         &lt;tbody&gt;
@@ -247,7 +249,7 @@ Eigentlich wollte ich diese &lt;strong&gt;veganen Linzer Kekse&lt;/strong&gt; wi
     <link href="http://frangipani.raiano.ch/2020-11-19-girelle-soffici-alle-nocciole-de/"/>
     <id>http://frangipani.raiano.ch/2020-11-19-girelle-soffici-alle-nocciole-de/</id>
     <published>2020-11-18T23:00:00.000Z</published>
-    <updated>2020-12-01T13:14:29.812Z</updated>
+    <updated>2020-12-01T13:52:01.424Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2020-11-19-girelle-soffici-alle-nocciole/header.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Fluffige Nussschnecken&lt;/strong&gt; die fluffigsten Nussschnecken, die ich je gegessen habe! Sie haben eine tolle cremige Nussfüllung und der Hefeteig ist spektakulär luftig. Dann alles abgerundet von einer frischen Glasur mit Zitronensaft, die, glaubt es mir, den Unterschied macht!
 &lt;br&gt;
@@ -255,6 +257,7 @@ Im Laufe der Jahre habe ich etwas Wichtiges über Nussschnecken, Cinnamon Rolls 
 &lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
   &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
     &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
+      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Fluffige Nussschnecken&lt;/span&gt;
       &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
       &lt;table&gt;
         &lt;tbody&gt;

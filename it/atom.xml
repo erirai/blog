@@ -4,7 +4,7 @@
   
   <link href="http://frangipani.raiano.ch/it/atom.xml" rel="self"/>
   <link href="http://frangipani.raiano.ch/"/>
-  <updated>2020-12-01T13:09:45.360Z</updated>
+  <updated>2020-12-01T13:51:41.896Z</updated>
   <id>http://frangipani.raiano.ch/</id>
   
   <author>
@@ -19,7 +19,7 @@
     <link href="http://frangipani.raiano.ch/2020-12-03-alberelli-di-pancarre-vegetariani/"/>
     <id>http://frangipani.raiano.ch/2020-12-03-alberelli-di-pancarre-vegetariani/</id>
     <published>2020-12-02T23:00:00.000Z</published>
-    <updated>2020-12-01T13:05:39.210Z</updated>
+    <updated>2020-12-01T13:50:34.489Z</updated>
     <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Alberelli di Pancarré vegetariani&lt;/strong&gt; un aperitivo natalizio sfizioso e veloce. Vi serve solo del Pancarré e delle creme spalmabili come pesto verde, pesto rosso, paté di olive, Hummus, Babaganoush, formaggio spalmabile... quello che più vi piace. Potete comprare già tutto pronto o farlo in casa, dipende dal tempo che avete. Mi raccomando, non buttate via gli scarti del Pancarré, potete farci dei crostini per la zuppa o usarli per le polpette.
 &lt;br&gt;
@@ -30,6 +30,7 @@ Lunedì ho impacchettato tutti i regali e prossima settimana, se tutto va bene, 
 &lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
   &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
     &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
+      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Alberelli di Pancarré vegetariani&lt;/span&gt;
       &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
       &lt;table&gt;
         &lt;tbody&gt;
@@ -112,7 +113,7 @@ Lunedì ho impacchettato tutti i regali e prossima settimana, se tutto va bene, 
     <link href="http://frangipani.raiano.ch/2020-11-25-biscotti-linzer-vegani/"/>
     <id>http://frangipani.raiano.ch/2020-11-25-biscotti-linzer-vegani/</id>
     <published>2020-11-24T23:00:00.000Z</published>
-    <updated>2020-12-01T13:09:45.360Z</updated>
+    <updated>2020-12-01T13:51:11.145Z</updated>
     <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Biscotti Linzer vegani&lt;/strong&gt; dei biscotti friabili, fruttati, speziati, super buoni che sanno di Natale! Non sono dei classici biscotti, vengono cotti un po&amp;#39; tipo crostata e poi tagliati a cubetti. Dei biscotti veloci diciamo, come i &lt;a href=&quot;https://frangipani.raiano.ch/2013-10-26-brownies/&quot; target=&quot;_blank&quot;&gt;Brownies&lt;/a&gt;. Per i biscotti Linzer, ma anche per la &lt;a href=&quot;https://frangipani.raiano.ch/2017-11-20-linzertorte-vegana/&quot; target=&quot;_blank&quot;&gt;Linzer Torte&lt;/a&gt;, mi piace usare la confettura di ribes rossi, perché è più agra e contrasta benissimo la frolla alle nocciole e mandorle. Ma potete usare ogni tipo di confettura, vi consiglio però una confettura di frutti rossi e senza semini.
 &lt;br&gt;
@@ -121,6 +122,7 @@ In realtà volevo fare questi &lt;strong&gt;Biscotti Linzer vegani&lt;/strong&gt
 &lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
   &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
     &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
+      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Biscotti Linzer vegani&lt;/span&gt;
       &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
       &lt;table&gt;
         &lt;tbody&gt;
@@ -248,7 +250,7 @@ In realtà volevo fare questi &lt;strong&gt;Biscotti Linzer vegani&lt;/strong&gt
     <link href="http://frangipani.raiano.ch/2020-11-19-girelle-soffici-alle-nocciole/"/>
     <id>http://frangipani.raiano.ch/2020-11-19-girelle-soffici-alle-nocciole/</id>
     <published>2020-11-18T23:00:00.000Z</published>
-    <updated>2020-12-01T13:00:47.623Z</updated>
+    <updated>2020-12-01T13:51:41.896Z</updated>
     <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Girelle soffici alle Nocciole&lt;/strong&gt; le girelle alle nocciole più soffici che ho mai mangiato! Hanno un ripieno alle nocciole (e mandorle) bello cremoso e la pasta lievita è di una sofficità spettacolare. Poi il tutto arrotondato da una glassa fresca con succo di limone, che credetemi, fa la differenza!
 &lt;br&gt;
@@ -256,6 +258,7 @@ Negli anni ho imparato una cosa importante sulle girelle alle nocciole, cinnamon
 &lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
   &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
     &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
+      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Girelle soffici alle Nocciole&lt;/span&gt;
       &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
       &lt;table&gt;
         &lt;tbody&gt;
