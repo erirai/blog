@@ -8,14 +8,35 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/categories/Dolce/Panificati/</loc>
-        <lastmod>2020-12-01T13:52:01.424Z</lastmod>
+        <loc>http://frangipani.raiano.ch/categories/Salato/Aperitivi/</loc>
+        <lastmod>2020-12-13T19:05:05.528Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/categories/Salato/</loc>
+        <lastmod>2020-12-13T19:05:05.528Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/categories/Dolce/Dolci-al-cucchiaio-Gelati/</loc>
+        <lastmod>2020-12-10T10:06:05.833Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://frangipani.raiano.ch/categories/Dolce/</loc>
+        <lastmod>2020-12-10T10:06:05.833Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/categories/Dolce/Panificati/</loc>
         <lastmod>2020-12-01T13:52:01.424Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -24,20 +45,6 @@
     <url>
         <loc>http://frangipani.raiano.ch/categories/Dolce/Biscotti/</loc>
         <lastmod>2020-12-01T13:51:24.625Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/categories/Salato/Aperitivi/</loc>
-        <lastmod>2020-12-01T13:50:55.290Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/categories/Salato/</loc>
-        <lastmod>2020-12-01T13:50:55.290Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -80,13 +87,6 @@
     <url>
         <loc>http://frangipani.raiano.ch/categories/Dolce/Torte/</loc>
         <lastmod>2020-09-14T10:02:03.153Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/categories/Dolce/Dolci-al-cucchiaio-Gelati/</loc>
-        <lastmod>2020-08-11T17:42:33.972Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

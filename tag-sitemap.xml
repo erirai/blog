@@ -3,28 +3,49 @@
 
 
     <url>
-        <loc>http://frangipani.raiano.ch/tags/inverno/</loc>
-        <lastmod>2020-12-01T13:52:01.424Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/panificati/</loc>
-        <lastmod>2020-12-01T13:52:01.424Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://frangipani.raiano.ch/tags/natale/</loc>
-        <lastmod>2020-12-01T13:52:01.424Z</lastmod>
+        <lastmod>2020-12-13T19:05:05.528Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/aperitivo/</loc>
+        <lastmod>2020-12-13T19:05:05.528Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/inverno/</loc>
+        <lastmod>2020-12-10T10:06:05.833Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/dolce-al-cucchiaio/</loc>
+        <lastmod>2020-12-10T10:06:05.833Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/glutenfree/</loc>
+        <lastmod>2020-12-10T10:06:05.833Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://frangipani.raiano.ch/tags/autunno/</loc>
+        <lastmod>2020-12-10T10:06:05.833Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/panificati/</loc>
         <lastmod>2020-12-01T13:52:01.424Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -40,13 +61,6 @@
     <url>
         <loc>http://frangipani.raiano.ch/tags/biscotti/</loc>
         <lastmod>2020-12-01T13:51:24.625Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/aperitivo/</loc>
-        <lastmod>2020-12-01T13:50:55.290Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -333,13 +347,6 @@
 
     <url>
         <loc>http://frangipani.raiano.ch/tags/crumble/</loc>
-        <lastmod>2020-03-04T17:02:07.971Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/glutenfree/</loc>
         <lastmod>2020-03-04T17:02:07.971Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -698,13 +705,6 @@
     <url>
         <loc>http://frangipani.raiano.ch/tags/conserve/</loc>
         <lastmod>2019-07-17T13:03:36.006Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/dolce-al-cucchiaio/</loc>
-        <lastmod>2019-07-01T13:16:49.130Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
