@@ -1,5 +1,5 @@
 ---
-title: "Alberelli di Pancarré vegetariani"
+title: "Alberelli di Pancarrè vegetariani"
 date: 2020-12-03
 tags:
 - natale
