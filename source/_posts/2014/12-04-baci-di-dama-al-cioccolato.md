@@ -5,8 +5,6 @@ tags:
 - san valentino
 - festa del papà
 - biscotti
-- cioccolato
-- mandorle
 - vegan
 - natale
 categories:
@@ -14,7 +12,7 @@ categories:
 - Biscotti
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](header.jpeg "frangipani © Erica")
 
 E finiamo la sessione di biscotti di oggi con un classico: Baci di Dama! Sono troppo buoni e la cioccolosità è anche stata approvata da mio marito. Mamma che buoni...
 
@@ -79,21 +77,46 @@ E finiamo la sessione di biscotti di oggi con un classico: Baci di Dama! Sono tr
   </font> Preparazione
 </h3>
 
-Mettete tutti gli ingredienti asciutti in una ciotola e mescolate il tutto con la frusta a mano, poi aggiungete la margarina e impastate velocemente con le mani finché avrete un panetto omogeneo. Per facilitarvi il porzionamento vi consiglio di formare un salsicciotto, avvolgetelo con della pellicola trasparente e mettete in frigo per almeno un'ora (lo so l'aspetto non è il massimo).
-![](impasto.jpg "frangipani © Erica")
+Mettete tutti gli ingredienti asciutti in una ciotola e mescolate il tutto con la frusta a mano, poi aggiungete la margarina e impastate velocemente con le mani finché avrete un panetto omogeneo. Per facilitarvi il porzionamento formate un salsicciotto o un rettangolo, avvolgetelo con della pellicola trasparente e mettete in frigo per almeno un'ora (lo so l'aspetto non è il massimo).
+<br />
+Dopo un'ora uscite l'impasto dal frigo tagliate dei pezzetti da 8gr e formate delle palline. È un po' una scocciatura pesare tutte le palline ma solo in questo modo avrete dei Baci di Dama tutti uguali. Mettete le palline su di una teglia con sotto della carta forno.
+<p>
+  <div style="width: 100%; margin-bottom: 0">
+    <img style="float: left; width: 49%; margin-right: 1%" src="impasto.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpg" alt="" title="frangipani © Erica" />
+    <div style="clear: both"></div>
+  </div>
+</p>
 
-Dopo un'ora uscite il salsicciotto dal frigo tagliate dei pezzetti da 8gr e formate delle palline. Lo so è un po' una scocciatura pesare tutte le palline ma solo in questo modo avrete dei Baci di Dama tutti uguali. Mettete le palline su di una teglia con sotto della carta forno.
-![](teglia.jpg "frangipani © Erica")
-
-Ora mettete la teglia con le palline in frigo per una mezz'oretta e poi infornateli nel forno preriscaldato a 160°C per 20min.
-![](sfornati.jpg "frangipani © Erica")
-
-Quando i biscotti saranno completamente freddi fate sciogliere a Bagnomaria il cioccolato fondente e mettete sulla metà dei biscotti un po' di cioccolato sciolto.
-![](farcire.jpg "frangipani © Erica")
+Ora mettete la teglia con le palline in frigo per mezz'oretta e poi infornateli nel forno preriscaldato a 160°C ventilato per 20min.
+<br />
+Quando i biscotti saranno completamente freddi fate sciogliere a Bagnomaria il cioccolato fondente e mettete su metà dei biscotti un po' di cioccolato sciolto.
+<p>
+  <div style="width: 100%; margin-bottom: 0">
+    <img style="float: left; width: 49%; margin-right: 1%" src="sfornati.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="farcire.jpg" alt="" title="frangipani © Erica" />
+    <div style="clear: both"></div>
+  </div>
+</p>
 
 A questo punto fate rassodare un pochettino il cioccolato, in modo che non esca tutto dai lati. Dopo qualche minuto ricoprite con un altro biscotto solamente appoggiandolo, senza premere. Fate in modo che siano tutti belli dritti e mettete in frigo per fare asciugare velocemente il cioccolato.
-![](risultato.jpg "frangipani © Erica")
+<p>
+  <div style="width: 100%; margin-bottom: 0">
+    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <div style="clear: both"></div>
+  </div>
+</p>
 
+![](risultato3.jpeg "frangipani © Erica")
+
+<p>
+  <div style="width: 100%; margin-bottom: 0">
+    <img style="float: left; width: 49%; margin-right: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <div style="clear: both"></div>
+  </div>
+</p>
 
 <h4>Buon appetito
   <font color="red">

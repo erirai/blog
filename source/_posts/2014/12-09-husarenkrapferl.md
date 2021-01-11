@@ -1,9 +1,8 @@
 ---
-title: Husarenkrapferl vegani
+title: Husarenkrapfen vegani
 date: 2014-12-09
 tags:
 - biscotti
-- pasta frolla
 - vegan
 - natale
 categories:
@@ -11,9 +10,9 @@ categories:
 - Biscotti
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](header.jpeg "frangipani © Erica")
 
-Mia sorella ed io oggi abbiamo fatto questi buonissimi biscotti vegan. Io ho preparato l'impasto ed il resto lo ha fatto mia sorella... Abbiamo seguito la ricetta ma vedendo il risultato, secondo noi c'è qualcosa da migliorare per la prossima volta! Non per il gusto, che erano una favola, più per l'aspetto...
+Mia sorella ed io oggi abbiamo fatto questi buonissimi Husarenkrapfen vegani. Io ho preparato l'impasto ed il resto lo ha fatto mia sorella... Abbiamo seguito la ricetta ma vedendo il risultato, secondo noi c'è qualcosa da migliorare per la prossima volta! Non per il gusto, che erano una favola, più per l'aspetto...
 
 
 <div id="wrapper" style="text-align: center">
@@ -77,16 +76,37 @@ Mia sorella ed io oggi abbiamo fatto questi buonissimi biscotti vegan. Io ho pre
 </h3>
 
 Mettete tutti gli ingredienti tranne la marmellata in una ciotola e impastate velocemente con le mani finché avrete un panetto omogeneo. Formate dei salsicciotti di una grossezza di ca. 3cm e avvolgeteli con della pellicola trasparente e mettete in frigo per almeno un'ora.
-![](impasto.jpg "frangipani © Erica")
-
-Passata l'ora prendete il panetto e tagliate dei pezzi da ca. 3cm. Secondo la ricetta adesso vanno messi direttamente così sulla teglia (come vedete sulla foto), ma secondo noi è meglio fare una pallina, metterla sulla teglia con sotto della carta forno e schiacciarla leggermente. L'aspetto sicuramente sarà più carino. Poi con la punta del manico di un cucchiaio di legno, quello per cucinare, fate un buco senza però arrivare fino a sotto. Poi infornateli nel forno preriscaldato a 170°C statico per 12min. Questi biscotti non devono prendere troppo colore...
-![](teglia.jpg "frangipani © Erica")
+<br />
+Passata l'ora prendete l'impasto e tagliate dei pezzi da ca. 3cm. Formate una pallina e mettetela sulla teglia con sotto della carta forno e schiacciarla leggermente. Poi con la punta del manico di un cucchiaio di legno, quello per cucinare, fate un buco senza però arrivare fino a sotto. Poi infornateli nel forno preriscaldato a 170°C statico per 12min. Questi biscotti non devono prendere troppo colore...
+<p>
+  <div style="width: 100%; margin-bottom: 0">
+    <img style="float: left; width: 49%; margin-right: 1%" src="impasto.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpg" alt="" title="frangipani © Erica" />
+    <div style="clear: both"></div>
+  </div>
+</p>
 
 Mentre i biscotti sono in forno, mettete un po' di marmellata in un pentolino e fatela sciogliere un po'. Appena sfornate i biscotti riempite il buchino con la marmellata aiutandovi con un cucchiaino.
 ![](marmellata.jpg "frangipani © Erica")
 
 Poi fate raffreddare completamente i biscotti su di una griglia e magnateli!
-![](risultato.jpg "frangipani © Erica")
+<p>
+  <div style="width: 100%; margin-bottom: 0">
+    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <div style="clear: both"></div>
+  </div>
+</p>
+
+<p>
+  <div style="width: 100%; margin-bottom: 0">
+    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <div style="clear: both"></div>
+  </div>
+</p>
+
+![](risultato5.jpeg "frangipani © Erica")
 
 
 <h4>Buon appetito
