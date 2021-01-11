@@ -8,6 +8,27 @@
     </url>
 
     <url>
+        <loc>http://frangipani.raiano.ch/categories/Dolce/Torte/</loc>
+        <lastmod>2021-01-11T10:08:48.340Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/categories/Dolce/</loc>
+        <lastmod>2021-01-11T10:08:48.340Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/categories/Dolce/Biscotti/</loc>
+        <lastmod>2020-12-15T17:22:53.134Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://frangipani.raiano.ch/categories/Salato/Aperitivi/</loc>
         <lastmod>2020-12-13T19:05:05.528Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -29,22 +50,8 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/categories/Dolce/</loc>
-        <lastmod>2020-12-10T10:06:05.833Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://frangipani.raiano.ch/categories/Dolce/Panificati/</loc>
         <lastmod>2020-12-01T13:52:01.424Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/categories/Dolce/Biscotti/</loc>
-        <lastmod>2020-12-01T13:51:24.625Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -80,13 +87,6 @@
     <url>
         <loc>http://frangipani.raiano.ch/categories/Salato/Secondi-Piatti-e-Contorni/</loc>
         <lastmod>2020-09-22T10:16:50.387Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/categories/Dolce/Torte/</loc>
-        <lastmod>2020-09-14T10:02:03.153Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
