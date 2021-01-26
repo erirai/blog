@@ -1,5 +1,5 @@
 ---
-title: "Risotto al Cavolo Viola profumato al Limone"
+title: "Risotto al Cavolo Rosso profumato al Limone"
 date: 2016-12-07
 tags:
 - primi
@@ -18,7 +18,7 @@ lang: it
 
 Non ci crederete, ma ho già preso tutti i regali di natale! Haha che secchiona che sono! Con figli non sai mai cosa può succedere, quindi per non disperarmi all'ultimo momento ho già fatto tutto e adesso devo solo impaccottare tutto (come dice mio marito). Infatti i miei due piccolini si sono raffreddati, nasino che cola, tossina, ma per fortuna niente di che, il solito raffreddore prenatalizio...
 
-Parliamo della ricetta... Qualche annetto fa ho scoperto il cavolo viola. Qui si usa molto soprattutto in questo periodo. Viene servito come contorno, semplicemente stufato in padella con mele e cannella e vi dico che è proprio ottimo! Adoro il colore del cavolo viola e col risotto è meraviglioso. Un risotto dal colore viola che profuma di limone, mmm. Aggiungendo il limone al cavolo viola non avrete solo un risotto ancora più buono, ma favorirete l'assimilazione del ferro. Provatelo, è veremente buono!
+Parliamo della ricetta... Qualche annetto fa ho scoperto il cavolo rosso. Qui si usa molto soprattutto in questo periodo. Viene servito come contorno, semplicemente stufato in padella con mele e cannella e vi dico che è proprio ottimo! Adoro il colore del cavolo rosso e col risotto è meraviglioso. Un risotto dal colore viola che profuma di limone, mmm. Aggiungendo il limone al cavolo rosso non avrete solo un risotto ancora più buono, ma favorirete l'assimilazione del ferro. Provatelo, è veremente buono!
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
@@ -36,7 +36,7 @@ Parliamo della ricetta... Qualche annetto fa ho scoperto il cavolo viola. Qui si
           </tr>
           <tr>
             <td>1/2</td>
-            <td>cavolo viola</td>
+            <td>cavolo rosso</td>
           </tr>
           <tr>
             <td>1</td>
@@ -65,7 +65,7 @@ Parliamo della ricetta... Qualche annetto fa ho scoperto il cavolo viola. Qui si
   </font> Preparazione
 </h3>
 
-Tagliate a metà il cavolo viola, eliminate una o due foglie esterne, dipende da quanto è fresco, e togliete la parte centrale dura. Poi tagliatelo a striscioline. Tagliate finemente lo scalogno e fatelo rosolare con un filo d'olio evo ed un pizzico di sale direttamente nella padella dove cuocerete il risotto (io uso una padella antiaderente dai bordi alti). Poi aggiungete il cavolo viola e fate rosolare un attimino. 
+Tagliate a metà il cavolo rosso, eliminate una o due foglie esterne, dipende da quanto è fresco, e togliete la parte centrale dura. Poi tagliatelo a striscioline. Tagliate finemente lo scalogno e fatelo rosolare con un filo d'olio evo ed un pizzico di sale direttamente nella padella dove cuocerete il risotto (io uso una padella antiaderente dai bordi alti). Poi aggiungete il cavolo rosso e fate rosolare un attimino. 
 ![](cavolo1.jpg "frangipani © Erica")
 
 Sfumate con il succo di un limone, vedrete che il cavolo cambierà colore.
