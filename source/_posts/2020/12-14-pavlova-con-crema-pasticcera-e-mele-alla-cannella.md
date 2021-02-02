@@ -82,7 +82,7 @@ Vi auguro un sereno Natale e un 2021 migliore... Addio Gigante Buono, è stato u
           </tr>
           <tr itemprop="recipeIngredient">
             <td>20gr</td>
-            <td>fecola di patate o amido di riso</td>
+            <td>fecola di patate o amido di mais</td>
           </tr>
           <tr itemprop="recipeIngredient">
             <td>1 pizzico</td>
