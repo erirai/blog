@@ -20,7 +20,7 @@ Ich liebe diese Desserts, die sehr einfach zuzubereiten sind, aber eine grosse W
 <br />
 In der Camy Cream habe ich auch Orangenabrieb hinzufügen, weil dieser in diesem Fall besser zu dem leichten Kakaogeschmack passt, den man im Chiffon Cake schmeckt. Wenn ihr möchtet, könnt ihr der Camy Cream auch einige Schokoladenstückchen hinzufügen, um einen knusprigen Touch zu haben. Mein Mann nahm sogar ein Stück von diesem Kuchen und verteilte Haselnusscrème darauf. Er nennt sie, als guter Informatiker, Upgrades.
 
-Ich wünsche euch einen schönen Valentinstag! Aber bitte, seid jeden Tag nett... Blumen, eine Schachtel Pralinen, ein kleines Geschenk, ein Brief sind auch das ganze Jahr über erlaubt. Nur am 14. Februar an unsere Liebsten zu denken und den Rest des Jahres sie zu vergessen, macht keinen Sinn. Diese alltäglichen Gestern der Zuneigung machen immer Freude... 
+Ich wünsche euch einen schönen Valentinstag! Aber bitte, seid jeden Tag nett... Blumen, eine Schachtel Pralinen, ein kleines Geschenk, ein Brief sind auch das ganze Jahr über erlaubt. Nur am 14. Februar an unsere Liebsten zu denken und den Rest des Jahres sie zu vergessen, macht keinen Sinn. Diese alltäglichen Gesten der Zuneigung machen immer Freude... 
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
