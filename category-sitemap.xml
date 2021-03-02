@@ -8,6 +8,20 @@
     </url>
 
     <url>
+        <loc>http://frangipani.raiano.ch/categories/Dolce/Piccola-Pasticceria/</loc>
+        <lastmod>2021-03-02T19:59:11.462Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/categories/Dolce/</loc>
+        <lastmod>2021-03-02T19:59:11.462Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://frangipani.raiano.ch/categories/Salato/Secondi-Piatti-e-Contorni/</loc>
         <lastmod>2021-02-23T16:54:24.682Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -30,13 +44,6 @@
 
     <url>
         <loc>http://frangipani.raiano.ch/categories/Dolce/Torte/</loc>
-        <lastmod>2021-02-09T20:23:39.165Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/categories/Dolce/</loc>
         <lastmod>2021-02-09T20:23:39.165Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -129,13 +136,6 @@
     <url>
         <loc>http://frangipani.raiano.ch/categories/Dolce/Torte-salate-Muffin-salati/</loc>
         <lastmod>2020-03-04T17:02:07.295Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/categories/Dolce/Piccola-Pasticceria/</loc>
-        <lastmod>2020-03-04T17:02:07.014Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
