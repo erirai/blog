@@ -152,7 +152,7 @@ Sulla carta forno disegnate un cerchio da circa 20cm di diametro. Girate il fogl
   </div>
 </p>
 
-Infornate la Pavlova nel forno preriscaldato a 160°C ventilato, dopo 10min abbassate la temperatura a 150°C e cuocete per altri 40-50min. Non aprite il forno durante la cottura, per nessuno motivo. Una volta cotta, fatela raffreddare nel forno leggermente aperto.
+Infornate la Pavlova nel forno preriscaldato a 160°C ventilato, dopo 10min abbassate la temperatura a 150°C e cuocete per altri 40-50min. Non aprite il forno durante la cottura, per nessun motivo. Una volta cotta, fatela raffreddare nel forno leggermente aperto.
 ![](pavlova.jpeg "frangipani © Erica")
 
 Mentre la Pavlova cuoce, preparate la crema pasticcera. In una coppa mescolate i tuorli con lo zucchero e l'amido o la fecola finché avrete un composto bello liscio. A parte portate quasi a bollore il latte con la stecca di vaniglia precedentemente aperta, poi sempre mescolando, versate il latte bollente nella coppa con i tuorli. Mescolate bene e versate il tutto di nuovo nella pentola e a temperatura moderata e sempre mescolando, cuocete finché si sarà addensata. Versate la crema pasticcera in una coppa, coprite con la pellicola a contatto e fate raffreddare.
