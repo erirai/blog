@@ -9,7 +9,7 @@ tags:
 categories:
 - Salato
 - Aperitivi
-label: 2021-03-17-panini-di-Pasta-Brioche-farciti-con-crema-di-formaggio-funghi-e-aglio-orsino
+label: 2021-03-17-panini-di-pasta-brioche-farciti-con-crema-di-formaggio-funghi-e-aglio-orsino
 lang: it 
 ---
 ![](header.jpeg "frangipani © Erica")
