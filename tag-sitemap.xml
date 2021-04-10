@@ -3,6 +3,27 @@
 
 
     <url>
+        <loc>http://frangipani.raiano.ch/tags/miele/</loc>
+        <lastmod>2021-04-10T15:47:38.175Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/vegan/</loc>
+        <lastmod>2021-04-10T15:47:38.175Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/conserve/</loc>
+        <lastmod>2021-04-10T15:47:38.175Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://frangipani.raiano.ch/tags/marmellata/</loc>
         <lastmod>2021-03-21T17:33:42.541Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -11,20 +32,6 @@
 
     <url>
         <loc>http://frangipani.raiano.ch/tags/pasqua/</loc>
-        <lastmod>2021-03-21T17:33:42.541Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/vegan/</loc>
-        <lastmod>2021-03-21T17:33:42.541Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/conserve/</loc>
         <lastmod>2021-03-21T17:33:42.541Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
