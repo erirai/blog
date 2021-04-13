@@ -48,8 +48,8 @@ Wenn ihr ein schönes Blumenfeld findet, empfehle ich euch, es zu versuchen, wei
             <td>Zucker</td>
           </tr>
           <tr itemprop="recipeIngredient">
-            <td>2</td>
-            <td>Zitronen</td>
+            <td>1</td>
+            <td>Zitrone</td>
           </tr>
         </tbody>
       </table>
