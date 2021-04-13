@@ -75,7 +75,7 @@ Mettete i fiori (precedentemente delicatamente sciacquati), il succo dei limoni 
   </div>
 </p>
 
-Passato il tempo necessario, filtrate l'acqua aiutandovi con un panno. Strizzate bene i fiori per far uscire più acqua possibile. Misurate la quantità d'acqua e aggiungete la stessa quantità di zucchero (se avete 900ml d'acqua, aggiungete 900g di zucchero). Mettete il tutto di nuovo sul fuoco e fate cuocere a fiamma dolce finché lo scirippo non si sarà addensato. Cuocete finché avrà la consistenza che vi piace (dovrebbe avere la consistenza del miele liquido).
+Passato il tempo necessario, filtrate l'acqua aiutandovi con un panno. Strizzate bene i fiori per far uscire più acqua possibile. Misurate la quantità d'acqua e aggiungete la stessa quantità di zucchero (se avete 900ml d'acqua, aggiungete 900g di zucchero). Mettete il tutto di nuovo sul fuoco e fate cuocere a fiamma dolce finché lo scirippo non si sarà addensato e ridotto a meno della metà. Ogni tanto mescolate, ma fate attenzione perché fa la schiuma e va cotto a bassa temperatura, altrimenti si brucia e diventa amaro. Per vedere se ha la consistenza giusta (come il miele), prendete un cucchiaino dello scirippo, lo mettete su di un piattino e lo fate raffeddare in frigo. Se una volta freddo avrà la consistenza del miele, potete togliere dai fornelli.
 <p>
   <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="scirippo.jpeg" alt="" title="frangipani © Erica" />

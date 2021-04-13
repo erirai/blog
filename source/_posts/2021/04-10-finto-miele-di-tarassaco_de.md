@@ -75,7 +75,7 @@ Blüten (vorher vorsichtig abgespühlt), Zitronensaft und Wasser in einen grosse
   </div>
 </p>
 
-Nun das Wasser mit Hilfe von einem Tuch filtern. Die Blüten gut zerdrücken, damit so viel Wasser wie möglich rauskommt. Die Menge des Wassers messen, dann die gleiche Menge Zucker dazu geben (wenn ihr 900ml Wasser habt, gebt 900g Zucker dazu). Nun den Sirup auf kleiner Stufe so lange köcheln lassen, bis er eingedickt ist. So lange, bis er die Gewünschte Konsistenz hat (sollte die Konsistenz von flüssigem Honig haben).
+Nun das Wasser mit Hilfe von einem Tuch filtern. Die Blüten gut zerdrücken, damit so viel Wasser wie möglich rauskommt. Die Menge des Wassers messen, dann die gleiche Menge Zucker dazu geben (wenn ihr 900ml Wasser habt, gebt 900g Zucker dazu). Nun den Sirup auf kleiner Stufe so lange köcheln lassen, bis er auf weniger als die Hälfte eingegangen ist. Ab und zu rühren, aber achtung, es entsteht Schaum und unbedingt auf kleiner Stufe köcheln lassen, sonst verbrennt er und wird bitter. Um zu kontrollieren, ob er die richtige Konsistenz hat (wie Honig), einfach einen Teelöffel vom Sirup auf einen Teller geben und im Kühlschrank auskühlen lassen. Wenn er kalt die richtige Konsistenz hat, dann ist der Honig bereit.
 <p>
   <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2021-04-10-finto-miele-di-tarassaco/scirippo.jpeg" alt="" title="frangipani © Erica" />
