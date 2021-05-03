@@ -4,7 +4,7 @@
   
   <link href="http://frangipani.raiano.ch/de/atom.xml" rel="self"/>
   <link href="http://frangipani.raiano.ch/"/>
-  <updated>2021-04-13T19:55:36.967Z</updated>
+  <updated>2021-05-03T20:04:49.158Z</updated>
   <id>http://frangipani.raiano.ch/</id>
   
   <author>
@@ -13,6 +13,166 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title xml:lang="de">Rhabarberkuchen mit Ruby Schokolade</title>
+    <link href="http://frangipani.raiano.ch/2021-05-04-torta-morbida-con-rabarbaro-e-cioccolato-ruby-de/"/>
+    <id>http://frangipani.raiano.ch/2021-05-04-torta-morbida-con-rabarbaro-e-cioccolato-ruby-de/</id>
+    <published>2021-05-03T22:00:00.000Z</published>
+    <updated>2021-05-03T20:04:49.158Z</updated>
+    <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2021-05-04-torta-morbida-con-rabarbaro-e-cioccolato-ruby/header.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rhabarberkuchen mit Ruby Schokolade&lt;/strong&gt; ein sehr einfacher und bescheidener Kuchen, aber mit einem so unglaublich tollen Geschmack! Ich liebe Rhabarber und in Kombination mit Ruby Schokolade ist es ein Traum. Aber wenn ihr keine Ruby Schokolade habt, könnt ihr auch weisse Schokolade verwenden (keine Milch- oder dunkle Schokolade, sie passt nicht). Es ist meiner Meinung nach, auch ein perfekter Kuchen für den Muttertag, nicht?&lt;/p&gt;
+&lt;p&gt;Es gibt auch eine Variante mit &lt;a href=&quot;https://frangipani.raiano.ch/2015-05-01-torta-morbida-alle-fragole/&quot; target=&quot;_blank&quot;&gt;Erdbeeren&lt;/a&gt;, die sehr sehr lecker ist, aber eigentlich kann man alle Früchte verwenden oder die Schokolade mit Nüssen ersetzen. Es ist praktisch ein Basisteig, der nach Belieben aufgepeppt werden kann!&lt;/p&gt;
+&lt;p&gt;Ich muss euch etwas gestehen. Ja, weil uns Foodbloggern nicht jedes Rezept gelingt, wir müssen dieser Idee entgegentreten... Dies ist das dritte neue Rezept, das ich mit Rhabarber zubereitet habe. Die ersten beiden waren ein totaler Fail. Das erste Rezept war ein Rhabarber-Quark-Strudel, der beim Backen vollständig auseinanderbrach. Die ganze Füllung kam heraus und ich mochte den Strudelteig nicht. Das zweite Rezept war ein Hefekranz mit Rhabarber und Vanillecreme. Nichts, in der Mitte blieb er roh und auch dieser ist wieso auch immer auseinander gefallen.
+&lt;br&gt;
+Ich bekam riesige Selbstzweifel. Ich weiss nicht warum, aber nichts schien mir mehr zu gelingen. Zum Glück gelang mir dieser &lt;strong&gt;Rhabarberkuchen mit Ruby Schokolade&lt;/strong&gt; recht gut und wurde sehr geschätzt.&lt;/p&gt;
+&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
+  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
+    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
+      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Rhabarberkuchen mit Ruby Schokolade&lt;/span&gt;
+      &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
+      &lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1-2 Stangen&lt;/td&gt;
+            &lt;td&gt;Rhabarber&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;2 Esslöffel&lt;/td&gt;
+            &lt;td&gt;Zucker&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1/2&lt;/td&gt;
+            &lt;td&gt;Zitrone&lt;/td&gt;
+          &lt;/tr&gt;
+            &lt;td&gt;85gr&lt;/td&gt;
+            &lt;td&gt;Butter&lt;/td&gt;
+          
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;120gr&lt;/td&gt;
+            &lt;td&gt;Zucker&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 Prise&lt;/td&gt;
+            &lt;td&gt;Salz&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1&lt;/td&gt;
+            &lt;td&gt;Ei&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;125gr&lt;/td&gt;
+            &lt;td&gt;Milch&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qs&lt;/td&gt;
+            &lt;td&gt;Vanilleessenz&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;180gr&lt;/td&gt;
+            &lt;td&gt;Mehl&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;2 Teelöffel&lt;/td&gt;
+            &lt;td&gt;Backpulver&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;100gr&lt;/td&gt;
+            &lt;td&gt;Ruby Schokolade Tropfen (oder Stückchen)&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;
+      &lt;br&gt;&lt;br&gt;
+      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot; itemprop=&quot;recipeYield&quot;&gt;für eine 20-22cm Backform&lt;/i&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h3&gt;
+  &lt;font color=&quot;grey&quot;&gt;
+    &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt; Zubereitung
+&lt;/h3&gt;
+
+&lt;p&gt;Rhabarber rüsten und in dünne Scheiben schneiden. In eine kleine Schüssel geben, Zucker und Zitronensaft dazu geben. Mischen und im Kühlschrank ziehen lassen.
+&lt;br&gt;
+Mit dem Handrührgerät Butter, Zucker und Salz schön schaumig rühren, dann das Ei und die Milch dazu geben und weiterrühren. Mehl und Backpulver, gesiebt, dazu geben und gut vermengen. Nun den Zitronenabrieb und die Ruby Schokolade unterheben.
+&lt;br&gt;
+Den Teig in eine bebutterte und bemehlte 20-22cm Backform geben. Etwas glattstreichen und den Rhabarber, samt Saft, über den Teig verteilen.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2021-05-04-torta-morbida-con-rabarbaro-e-cioccolato-ruby/impasto.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2021-05-04-torta-morbida-con-rabarbaro-e-cioccolato-ruby/teglia.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Den Kuchen für 10min im vorgeheizten Ofen bei 180°C Umluft backen, dann Ofentemperatur auf 160°C senken und für weitere 45min backen. Immer Stäbchenprobe machen. Kuchen etwas auskühlen lassen, bevor er angeschnitten wird...&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2021-05-04-torta-morbida-con-rabarbaro-e-cioccolato-ruby/risultato1.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2021-05-04-torta-morbida-con-rabarbaro-e-cioccolato-ruby/risultato2.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2021-05-04-torta-morbida-con-rabarbaro-e-cioccolato-ruby/risultato3.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2021-05-04-torta-morbida-con-rabarbaro-e-cioccolato-ruby/risultato4.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2021-05-04-torta-morbida-con-rabarbaro-e-cioccolato-ruby/risultato5.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2021-05-04-torta-morbida-con-rabarbaro-e-cioccolato-ruby/risultato6.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2021-05-04-torta-morbida-con-rabarbaro-e-cioccolato-ruby/risultato7.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2021-05-04-torta-morbida-con-rabarbaro-e-cioccolato-ruby/risultato8.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2021-05-04-torta-morbida-con-rabarbaro-e-cioccolato-ruby/risultato9.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2021-05-04-torta-morbida-con-rabarbaro-e-cioccolato-ruby/risultato10.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h4&gt;Buon appetito
+  &lt;font color=&quot;red&quot;&gt;
+    &lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt;
+&lt;/h4&gt;</content>
+    <summary type="html" xml:lang="de">
+    
+      &lt;p&gt;&lt;img src=&quot;../2021-05-04-torta-morbida-con-rabarbaro-e-cioccolato-ruby/header.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rhabarb
+    
+    </summary>
+    
+      <category term="Dolce" scheme="http://frangipani.raiano.ch/categories/Dolce/"/>
+    
+      <category term="Torte" scheme="http://frangipani.raiano.ch/categories/Dolce/Torte/"/>
+    
+    
+      <category term="festa della mamma" scheme="http://frangipani.raiano.ch/tags/festa-della-mamma/"/>
+    
+      <category term="dolce" scheme="http://frangipani.raiano.ch/tags/dolce/"/>
+    
+      <category term="primavera" scheme="http://frangipani.raiano.ch/tags/primavera/"/>
+    
+  </entry>
   
   <entry>
     <title xml:lang="de">Löwenzahnhonig</title>
@@ -2909,119 +3069,6 @@ Je einen Esslöffel vom Teig nehmen und kleine baumnussgrosse Kugeln formen, dan
       <category term="dolci" scheme="http://frangipani.raiano.ch/tags/dolci/"/>
     
       <category term="biscotti" scheme="http://frangipani.raiano.ch/tags/biscotti/"/>
-    
-      <category term="autunno" scheme="http://frangipani.raiano.ch/tags/autunno/"/>
-    
-  </entry>
-  
-  <entry>
-    <title xml:lang="de">Panierte Steinpilze</title>
-    <link href="http://frangipani.raiano.ch/2020-09-22-funghi-porcini-impanati-de/"/>
-    <id>http://frangipani.raiano.ch/2020-09-22-funghi-porcini-impanati-de/</id>
-    <published>2020-09-21T22:00:00.000Z</published>
-    <updated>2020-09-22T10:16:50.387Z</updated>
-    <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2020-09-22-funghi-porcini-impanati/header.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Panierte Steinpilze&lt;/strong&gt; eine andere Art, Pilze zuzubereiten. Knusprig und weich und super lecker! Man isst einer nach dem anderen... Hervorragend für ein Sandwich oder als Beilage.
-&lt;br&gt;
-Diese Steinpilze hat uns der Grossvater meines Mannes gebracht, der in dieser Zeit oft Pilze sammeln geht. Letzte Woche sind wir mit ihm in den Wald gegangen... wir haben viele Hallimasch und zwei Steinpilze gefunden. Einer fand sogar Gaias beste Freundin und dachte, es sei ein Stein! Und als wir zurück wollten, stellten wir fest, dass wir das Auto verloren hatten. Wir sind weit in den Wald gegangen und haben dann wahrscheinlich den falschen Weg genommen, um zurückzukehren. Der Wald war nicht sehr gross, er war schmal und lang, aber ringsum gab es viele kleine Wege. Ich war sehr gelassen, sowie auch Gaias Freundin und Gioele. Mein Mann fand es jedoch nicht so toll, Gaia war wie immer besorgt und der Grossvater meines Mannes akzeptierte nicht die Tatsache, dass er sich verirrt hatte... Wir fanden jedoch das Auto, es reichte, die Hauptstrasse hinunter zu laufen, von wo wir mit dem Auto gekommen waren, aber niemand hörte mir zu! Nun, eine weitere lustige Geschichte, und es war auch interessant zu sehen, wie Menschen in einer unangenehmen Situation verschieden reagieren...
-&lt;br&gt;
-Im Herbst essen wir öfters Pilze... Den Rest des Jahres nehme ich praktisch nur die Champignons. In dieser Zeit nehme ich jedoch gerne Steinpilze, Austernpilze, Kräuterseitlinge und Eierschwämme. Ich mag keine Pilze, die nach dem Kochen schleimig werden, aber im Allgemeinen vertraue ich ihnen nicht sehr. Esst ihr sie das ganze Jahr über? Und wie bereitet ihr sie am liebste vor?&lt;/p&gt;
-&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
-  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
-    &lt;div class=&quot;ingredients&quot;&gt;
-      &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
-      &lt;table&gt;
-        &lt;tbody&gt;
-          &lt;tr&gt;&lt;br&gt;            &lt;td&gt;Steinpilze&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td&gt;Eier&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td&gt;Paniermehl&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td&gt;getrocknete Kräuter&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td&gt;Parmesankäse&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td&gt;Öl zum frittieren&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td&gt;Salz&lt;/td&gt;
-          &lt;/tr&gt;
-        &lt;/tbody&gt;
-      &lt;/table&gt;
-      &lt;br&gt;&lt;br&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;h3&gt;
-  &lt;font color=&quot;grey&quot;&gt;
-    &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt; Zubereitung
-&lt;/h3&gt;
-
-&lt;p&gt;Steinpilze putzen ohne sie zu waschen, wenn nötig, den grünlichen Schwamm entfernen, dann senkrecht in 5mm dicke Scheiben schneiden.
-&lt;br&gt;
-In einer kleinen Schüssel 1-2 Eier aufschlagen (ist von der Menge der Pilze abhängig), in einem Teller das Paniermehl, die getrockneten Kräuter und etwas geriebenen Parmesankäse (wenn gewünscht) mischen.
-&lt;br&gt;
-Eine Pilzscheibe aufs Mal zuerst im Ei tunken und dann in der Paniermehlmischung wenden. Nun die panierten Pilzscheiben, bei mittlerer Hitze, in einer Bratpfanne mit etwas Öl beidseitig braten.
-&lt;img src=&quot;../2020-09-22-funghi-porcini-impanati/padella.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Sie sollten schön goldbraun gebraten werden. Dann auf Haushaltspapier legen und salzen.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2020-09-22-funghi-porcini-impanati/risultato1.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2020-09-22-funghi-porcini-impanati/risultato2.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../2020-09-22-funghi-porcini-impanati/risultato3.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2020-09-22-funghi-porcini-impanati/risultato4.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2020-09-22-funghi-porcini-impanati/risultato5.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2020-09-22-funghi-porcini-impanati/risultato6.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2020-09-22-funghi-porcini-impanati/risultato7.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../2020-09-22-funghi-porcini-impanati/risultato9.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;h4&gt;Buon appetito
-  &lt;font color=&quot;red&quot;&gt;
-    &lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt;
-&lt;/h4&gt;</content>
-    <summary type="html" xml:lang="de">
-    
-      &lt;p&gt;&lt;img src=&quot;../2020-09-22-funghi-porcini-impanati/header.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Panierte Steinpilze&lt;/strong&gt; 
-    
-    </summary>
-    
-      <category term="Salato" scheme="http://frangipani.raiano.ch/categories/Salato/"/>
-    
-      <category term="Secondi Piatti e Contorni" scheme="http://frangipani.raiano.ch/categories/Salato/Secondi-Piatti-e-Contorni/"/>
-    
-    
-      <category term="vegan" scheme="http://frangipani.raiano.ch/tags/vegan/"/>
-    
-      <category term="piatto unico" scheme="http://frangipani.raiano.ch/tags/piatto-unico/"/>
-    
-      <category term="contorno" scheme="http://frangipani.raiano.ch/tags/contorno/"/>
     
       <category term="autunno" scheme="http://frangipani.raiano.ch/tags/autunno/"/>
     

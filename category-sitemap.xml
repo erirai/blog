@@ -8,14 +8,21 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/categories/Dolce/Conserve/</loc>
-        <lastmod>2021-04-13T19:55:36.967Z</lastmod>
+        <loc>http://frangipani.raiano.ch/categories/Dolce/Torte/</loc>
+        <lastmod>2021-05-03T20:04:49.158Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://frangipani.raiano.ch/categories/Dolce/</loc>
+        <lastmod>2021-05-03T20:04:49.158Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/categories/Dolce/Conserve/</loc>
         <lastmod>2021-04-13T19:55:36.967Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -59,13 +66,6 @@
     <url>
         <loc>http://frangipani.raiano.ch/categories/Salato/Torte-salate-Muffin-salati/</loc>
         <lastmod>2021-02-17T20:21:37.529Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/categories/Dolce/Torte/</loc>
-        <lastmod>2021-02-09T20:23:39.165Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

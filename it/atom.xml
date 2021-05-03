@@ -4,7 +4,7 @@
   
   <link href="http://frangipani.raiano.ch/it/atom.xml" rel="self"/>
   <link href="http://frangipani.raiano.ch/"/>
-  <updated>2021-04-13T19:55:06.713Z</updated>
+  <updated>2021-05-03T19:46:22.690Z</updated>
   <id>http://frangipani.raiano.ch/</id>
   
   <author>
@@ -13,6 +13,167 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title xml:lang="it">Torta morbida con Rabarbaro e Cioccolato Ruby</title>
+    <link href="http://frangipani.raiano.ch/2021-05-04-torta-morbida-con-rabarbaro-e-cioccolato-ruby/"/>
+    <id>http://frangipani.raiano.ch/2021-05-04-torta-morbida-con-rabarbaro-e-cioccolato-ruby/</id>
+    <published>2021-05-03T22:00:00.000Z</published>
+    <updated>2021-05-03T19:46:22.690Z</updated>
+    <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Torta morbida con Rabarbaro e Cioccolato Ruby&lt;/strong&gt; una torta facilissima e semplicissima ma di un gusto così buono che non sembra vero! Amo il rabarbaro e in combinazione con il cioccolato ruby è un sogno. Se però non avete il cioccolato ruby, potete usare benissimo anche il cioccolato bianco (non quello al latte o quello fondente, non ci sta). In più mi sembra un ottimo dolce da preparare per la Festa della Mamma, no?
+&lt;br&gt;
+C&amp;#39;è anche la versione con le &lt;a href=&quot;https://frangipani.raiano.ch/2015-05-01-torta-morbida-alle-fragole/&quot; target=&quot;_blank&quot;&gt;Fragole&lt;/a&gt; che è veramente buona, ma effettivamente potete usare ogni tipo di frutta o al posto del cioccolato usare la frutta secca. Praticamente è un impasto base che può essere arricchito a piacere!&lt;/p&gt;
+&lt;p&gt;Devo confessarvi qualcosa. Sì, perché a noi Foodblogger non riesce ogni ricetta, sfatiamo questo mito... Questa è la terza nuova ricetta che ho preparato con il rabarbaro. Le prime due sono state un totale fallimento. La prima ricetta era uno strudel di rabarbaro e quark che in cottura si è spaccato completamente. È uscito tutto il ripieno e in più la pasta strudel non mi piaceva. La seconda ricetta era una ciambella di Pan Brioche farcita con rabarbaro e crema alla vaniglia. Niente, al centro è rimasto crudo, in più anche questo si era spaccato e addio ripieno.
+&lt;br&gt;
+Devo ammettere che mi era venuta un&amp;#39;insicurezza terribile. Non so perché, ma sembrava non riuscirmi più niente. Per fortuna però, questa &lt;strong&gt;Torta morbida con Rabarbaro e Cioccolato Ruby&lt;/strong&gt; mi è venuta bene ed è stata gradita molto.&lt;/p&gt;
+&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
+  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
+    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
+      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Torta morbida con Rabarbaro e Cioccolato Ruby&lt;/span&gt;
+      &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
+      &lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1-2 stecche&lt;/td&gt;
+            &lt;td&gt;rabarbaro&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;2 cucchiai&lt;/td&gt;
+            &lt;td&gt;zucchero&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1/2&lt;/td&gt;
+            &lt;td&gt;limone&lt;/td&gt;
+          &lt;/tr&gt;
+            &lt;td&gt;85gr&lt;/td&gt;
+            &lt;td&gt;burro&lt;/td&gt;
+          
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;120gr&lt;/td&gt;
+            &lt;td&gt;zucchero&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 pizzico&lt;/td&gt;
+            &lt;td&gt;sale&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1&lt;/td&gt;
+            &lt;td&gt;uovo&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;125gr&lt;/td&gt;
+            &lt;td&gt;latte&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qb&lt;/td&gt;
+            &lt;td&gt;essenza di vaniglia&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;180gr&lt;/td&gt;
+            &lt;td&gt;farina&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;2 cucchiaini&lt;/td&gt;
+            &lt;td&gt;lievito per dolci&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;100gr&lt;/td&gt;
+            &lt;td&gt;gocce di cioccolato ruby (o a pezzettini)&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;
+      &lt;br&gt;&lt;br&gt;
+      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot; itemprop=&quot;recipeYield&quot;&gt;per una tortiera da 20-22cm&lt;/i&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h3&gt;
+  &lt;font color=&quot;grey&quot;&gt;
+    &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt; Preparazione
+&lt;/h3&gt;
+
+&lt;p&gt;Lavate e pelate il rabarbaro, poi tagliatelo a fettine sottili. Mettetelo in una coppetta, aggiungete lo zucchero e il succo di limone. Mescolate e lasciate macerare in frigo.
+&lt;br&gt;
+Lavorate con le fruste elettriche il burro, lo zucchero e un pizzico di sale, poi unite l&amp;#39;uovo, il latte e la vaniglia e continuate a mescolare. Aggiungete la farina setacciata con il lievito e amalgamate bene. A questo punto aggiungete la scorza di limone e il cioccolato ruby, mescolate bene.
+&lt;br&gt;
+Versate l&amp;#39;impasto in uno stampo da 20-22cm precedentemente imburrato ed infarinato. Livellate un po&amp;#39;, distribuiteci sopra il rabarbaro con tutto il succo.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;impasto.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;teglia.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Infornate la torta nel forno preriscaldato a 180°C ventilato per 10min, poi abbassate a 160°C e continuate la cottura per altri 45min. Mi raccomando fate sempre la prova stecchino. Fatela intiepidire prima di tagliarla...&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato1.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato2.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato3.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato4.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato5.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato6.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato7.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato8.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato9.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato10.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h4&gt;Buon appetito
+  &lt;font color=&quot;red&quot;&gt;
+    &lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt;
+&lt;/h4&gt;</content>
+    <summary type="html" xml:lang="it">
+    
+      &lt;p&gt;&lt;img src=&quot;header.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Torta morbida con Rabarbaro e Cioccolato Ruby&lt;/strong&gt; una torta fa
+    
+    </summary>
+    
+      <category term="Dolce" scheme="http://frangipani.raiano.ch/categories/Dolce/"/>
+    
+      <category term="Torte" scheme="http://frangipani.raiano.ch/categories/Dolce/Torte/"/>
+    
+    
+      <category term="festa della mamma" scheme="http://frangipani.raiano.ch/tags/festa-della-mamma/"/>
+    
+      <category term="dolce" scheme="http://frangipani.raiano.ch/tags/dolce/"/>
+    
+      <category term="primavera" scheme="http://frangipani.raiano.ch/tags/primavera/"/>
+    
+  </entry>
   
   <entry>
     <title xml:lang="it">Finto Miele di Tarassaco</title>
@@ -2907,119 +3068,6 @@ Prendete una cucchiaiata dell&amp;#39;impasto e fate circa 25 palline dalla gran
       <category term="dolci" scheme="http://frangipani.raiano.ch/tags/dolci/"/>
     
       <category term="biscotti" scheme="http://frangipani.raiano.ch/tags/biscotti/"/>
-    
-      <category term="autunno" scheme="http://frangipani.raiano.ch/tags/autunno/"/>
-    
-  </entry>
-  
-  <entry>
-    <title xml:lang="it">Funghi Porcini impanati</title>
-    <link href="http://frangipani.raiano.ch/2020-09-22-funghi-porcini-impanati/"/>
-    <id>http://frangipani.raiano.ch/2020-09-22-funghi-porcini-impanati/</id>
-    <published>2020-09-21T22:00:00.000Z</published>
-    <updated>2020-09-22T10:00:38.885Z</updated>
-    <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Funghi Porcini impanati&lt;/strong&gt; un modo diverso per preparare i funghi. Croccanti e morbidi e super golosi! Sono uno tira l&amp;#39;altro... Ottimi da mettere nel panino o come contorno.
-&lt;br&gt;
-Questi funghi porcini ce li ha portati il nonno di mio marito, che in questo periodo va spesso a funghi. Settimana scorsa siamo stati proprio con lui a funghi... abbiamo trovato un sacco di chiodini e due porcini. Uno addirittura lo ha trovato la BFF di Gaia, pensando fosse una pietra però! E quando volevamo tornare indietro ci siamo accorti di aver perso la macchina. Ci siamo addentrati parecchio nel bosco e poi probabilmente abbiamo preso la stradina sbagliata per ritornare. Il bosco li non era vastissimo, era stretto e lungo, ma tutto attorno aveva un sacco di stradine. Io ero tranquillissima e lo era anche l&amp;#39;amica di Gaia e Gioele. Mio marito però non si dava pace, Gaia al suo solito aveva l&amp;#39;ansia e il nonno di mio marito non accettava il fatto di essersi perso... Comunqe la macchina l&amp;#39;abbiamo ritrovata, bastava scendere la strada principale, da dove eravamo saliti in macchina, ma non mi dava ascolto nessuno! Beh, un&amp;#39;altra storia divertente da raccontare ed è stato anche interessante vedere come reagiscono le persone di fronte ad una situazione di disagio...
-&lt;br&gt;
-I funghi noi comunque li mangiamo più che altro in autunno... Il resto dell&amp;#39;anno prendo praticamente solo i Champignons. In questo periodo però mi piace prendere i porcini, i pleurotus, i cardoncelli e i galletti. Non mi piacciono i funghi che diventano viscidi una volta cotti ma in generale non mi fido tantissimo. Voi li mangiate tutto l&amp;#39;anno? E come vi piace prepararli? &lt;/p&gt;
-&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
-  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
-    &lt;div class=&quot;ingredients&quot;&gt;
-      &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
-      &lt;table&gt;
-        &lt;tbody&gt;
-          &lt;tr&gt;&lt;br&gt;            &lt;td&gt;funghi porcini&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td&gt;uova&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td&gt;pangrattato&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td&gt;erbette aromatiche essiccate&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td&gt;parmigiano&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td&gt;olio per friggere&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td&gt;sale&lt;/td&gt;
-          &lt;/tr&gt;
-        &lt;/tbody&gt;
-      &lt;/table&gt;
-      &lt;br&gt;&lt;br&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;h3&gt;
-  &lt;font color=&quot;grey&quot;&gt;
-    &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt; Preparazione
-&lt;/h3&gt;
-
-&lt;p&gt;Pulite i porcini senza lavarli però, se necessario eliminate la spugna verdina, poi tagliateli verticalmente a fette da circa 5mm.
-&lt;br&gt;
-In una coppetta sbattete uno o due uova (dipende dalle quantità dei funghi), in un piatto mettete il pangrattato, le erbette aromatiche essiccate e se volete anche un pochettino di parmigiano grattugiato.
-&lt;br&gt;
-Prendete una fetta di porcino alla volta e passatela prima nell&amp;#39;uovo e poi nel pangrattato. A questo punto friggete i funghi, a temperatura moderata, da entrambi i lati in una padella con appena un filo d&amp;#39;olio. 
-&lt;img src=&quot;padella.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Dovranno essere belli dorati. Poi metteteli su un foglio di carta da cucina e salateli.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato1.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato2.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;risultato3.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato4.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato5.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato6.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato7.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;risultato9.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;h4&gt;Buon appetito
-  &lt;font color=&quot;red&quot;&gt;
-    &lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt;
-&lt;/h4&gt;</content>
-    <summary type="html" xml:lang="it">
-    
-      &lt;p&gt;&lt;img src=&quot;header.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Funghi Porcini impanati&lt;/strong&gt; un modo diverso per preparare i fu
-    
-    </summary>
-    
-      <category term="Salato" scheme="http://frangipani.raiano.ch/categories/Salato/"/>
-    
-      <category term="Secondi Piatti e Contorni" scheme="http://frangipani.raiano.ch/categories/Salato/Secondi-Piatti-e-Contorni/"/>
-    
-    
-      <category term="vegan" scheme="http://frangipani.raiano.ch/tags/vegan/"/>
-    
-      <category term="piatto unico" scheme="http://frangipani.raiano.ch/tags/piatto-unico/"/>
-    
-      <category term="contorno" scheme="http://frangipani.raiano.ch/tags/contorno/"/>
     
       <category term="autunno" scheme="http://frangipani.raiano.ch/tags/autunno/"/>
     
