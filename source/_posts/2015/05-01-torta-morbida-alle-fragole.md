@@ -80,7 +80,7 @@ Ero alla ricerca di una torta da fare per la Festa della Mamma, solo che poi mi 
   </font> Preparazione
 </h3>
 
-Lavorate con le fruste elettriche lo zucchero insieme al burro, poi unite l'uovo ed il latte e continuate a mescolare. Aggiungete il sale, la vaniglia e la farina setacciata con il lievito e amalgamate bene.
+Lavorate con le fruste elettriche lo zucchero insieme al burro, poi unite l'uovo e il latte e continuate a mescolare. Aggiungete il sale, la vaniglia e la farina setacciata con il lievito e amalgamate bene.
 ![](impasto.jpg "frangipani © Erica")
 
 Versate l'impasto in uno stampo da 22cm precedentemente imburrato ed infarinato (o ancora meglio una teglia a forma di cuore). Livellate un po', mettete sopra le fragole tagliate a metà e cospargete con due cucchiai di zucchero di canna.
