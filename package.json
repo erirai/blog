@@ -16,28 +16,28 @@
     "clean": "rm -rf node_modules && rm -f package-lock.json && npm i"
   },
   "hexo": {
-    "version": "3.9.0"
+    "version": "5.4.0"
   },
   "dependencies": {
     "deepmerge": "^1.3.2",
-    "hexo": "3.9.0",
-    "hexo-auto-canonical": "^0.1.0",
+    "hexo": "5.4.0",
+    "hexo-auto-canonical": "^0.1.1",
     "hexo-browsersync": "^0.3.0",
-    "hexo-deployer-git": "^0.3.1",
+    "hexo-deployer-git": "^3.0.0",
     "hexo-generator-cname": "^0.3.0",
-    "hexo-generator-json-content": "^3.0.1",
+    "hexo-generator-json-content": "^4.2.3",
     "hexo-generator-multilingual-archive": "^0.2.0",
     "hexo-generator-multilingual-category": "^0.3.2",
     "hexo-generator-multilingual-feed": "^1.2.2",
     "hexo-generator-multilingual-index": "erirai/hexo-generator-multilingual-index",
     "hexo-generator-robotstxt": "^0.2.0",
-    "hexo-generator-search": "^2.0.0",
-    "hexo-generator-seo-friendly-sitemap": "0.0.25",
-    "hexo-generator-tag": "^0.2.0",
+    "hexo-generator-search": "^2.4.1",
+    "hexo-generator-seo-friendly-sitemap": "0.2.1",
+    "hexo-generator-tag": "^1.0.0",
     "hexo-multilingual": "^0.6.0",
-    "hexo-renderer-ejs": "^0.3.0",
-    "hexo-renderer-marked": "^0.3.0",
-    "hexo-renderer-stylus": "0.3.3",
-    "hexo-server": "^0.2.0"
+    "hexo-renderer-ejs": "^1.0.0",
+    "hexo-renderer-marked": "^4.0.0",
+    "hexo-renderer-stylus": "^2.0.1",
+    "hexo-server": "^2.0.0"
   }
 }
