@@ -3,6 +3,27 @@
 
 
     <url>
+        <loc>http://frangipani.raiano.ch/tags/primavera/</loc>
+        <lastmod>2021-05-11T15:33:35.995Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/contorno/</loc>
+        <lastmod>2021-05-11T15:33:35.995Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/vegan/</loc>
+        <lastmod>2021-05-11T15:33:35.995Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://frangipani.raiano.ch/tags/panificati/</loc>
         <lastmod>2021-05-10T20:13:53.666Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -33,13 +54,6 @@
     <url>
         <loc>http://frangipani.raiano.ch/tags/dolci/</loc>
         <lastmod>2021-05-10T20:13:53.666Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/primavera/</loc>
-        <lastmod>2021-05-03T20:04:49.158Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -81,13 +95,6 @@
 
     <url>
         <loc>http://frangipani.raiano.ch/tags/miele/</loc>
-        <lastmod>2021-04-13T19:55:36.967Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/vegan/</loc>
         <lastmod>2021-04-13T19:55:36.967Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -152,13 +159,6 @@
     <url>
         <loc>http://frangipani.raiano.ch/tags/piccola-pasticceria/</loc>
         <lastmod>2021-03-02T19:59:11.462Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/contorno/</loc>
-        <lastmod>2021-02-23T16:54:24.682Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
