@@ -4,7 +4,28 @@
 
     <url>
         <loc>http://frangipani.raiano.ch/tags/primavera/</loc>
-        <lastmod>2021-05-16T18:59:35.464Z</lastmod>
+        <lastmod>2021-05-31T19:35:22.524Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/secondi/</loc>
+        <lastmod>2021-05-31T19:35:22.524Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/asparagi/</loc>
+        <lastmod>2021-05-31T19:35:22.524Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/aperitivo/</loc>
+        <lastmod>2021-05-31T19:35:22.524Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -124,13 +145,6 @@
     <url>
         <loc>http://frangipani.raiano.ch/tags/pasqua/</loc>
         <lastmod>2021-03-21T17:33:42.541Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/aperitivo/</loc>
-        <lastmod>2021-03-16T14:54:10.427Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -325,13 +339,6 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/tags/asparagi/</loc>
-        <lastmod>2020-05-18T20:42:32.070Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://frangipani.raiano.ch/tags/colazione/</loc>
         <lastmod>2020-04-05T12:26:01.694Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -410,13 +417,6 @@
 
     <url>
         <loc>http://frangipani.raiano.ch/tags/pomodori/</loc>
-        <lastmod>2020-03-04T17:02:07.971Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/secondi/</loc>
         <lastmod>2020-03-04T17:02:07.971Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
