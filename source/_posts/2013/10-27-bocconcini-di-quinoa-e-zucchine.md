@@ -1,58 +1,63 @@
 ---
-title: Bocconcini di Quinoa e Zucchine
+title: Polpette di Quinoa e Zucchine
 date: 2013-10-27
 tags:
 - quinoa
-- aperitivo
 - glutenfree
 - zucchine
+- estate
 categories:
 - Salato
 - Aperitivi
+label: 2013-10-27-bocconcini-di-quinoa-e-zucchine
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](header.jpeg "frangipani © Erica")
 
-Volevo fare qualcosa con la quinoa e ho pasticciato un po' in cucina... Sono veramente buonissimi, si fanno in un attimo. Oltretutto la quinoa è ricca di minerali e vitamine!
+**Polpette di Quinoa e Zucchine** un modo per variare un po' la nostra dieta. Molto gustose, croccanti e allo stesso momento morbide, con un tocco di freschezza dato dallo zenzero.
+<br />
+Volevo fare qualcosa con la quinoa e ho pasticciato un po' in cucina... Sono veramente buonissimi, si fanno in un attimo.
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Polpette di Quinoa e Zucchine</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
-          <tr>
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>150gr</td>
             <td>quinoa</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>zucchina media</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>uovo</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>50gr</td>
             <td>parmigiano grattugiato</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>zenzero</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>sale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>pepe</td>
           </tr>
         </tbody>
       </table>
       <br></br>
-      <i class="pull-right" style="font-size: 80%;">per ca. 30 bocconcini</i>
+      <i class="pull-right" style="font-size: 80%;" itemprop="recipeYield">per circa 30 polpette</i>
     </div>
   </div>
 </div>
@@ -64,23 +69,30 @@ Volevo fare qualcosa con la quinoa e ho pasticciato un po' in cucina... Sono ver
   </font> Preparazione
 </h3>
 
-Sciacquate la quinoa sotto l'acqua fredda, dopo mettete la quinoa in una pentola con il doppio dell'acqua, aggiungete del sale e fatela cucinare come indicato sulla confezione (più o meno per 15min). Quando è pronta scolate l'acqua in eccesso e mettete da parte.
+Sciacquate la quinoa sotto l'acqua fredda, dopo mettete la quinoa in una pentola con il doppio dell'acqua (o brodo vegetale), aggiungete del sale e fatela cucinare come indicato sulla confezione (più o meno per 15min). Quando è pronta scolate l'acqua in eccesso e mettete da parte.
 
-Lavate e grattugiate le zucchine in una ciotla. Tagliate un pezzettino di zenzero, lavatelo, pelatelo e poi grattugiatelo ed aggiungetelo alle zucchine. Mi raccomando, lo zenzero ha un gusto molto forte, quindi ne basta pochissimo... poi dipende come vi piace! Aggiungete il parmigiano grattugiato e l'uovo. Aggiustate di sale e pepe e aggiungete la qiunoa. Impastate velocemente il tutto finché risulterà compatto. Prendete delle formine piccole da muffin e adagiatele su di una teglia. Riempite le formine con l'impasto e schiacciate bene
-![](crudi.jpg "frangipani © Erica")
+Lavate e grattugiate le zucchine in una ciotla. Tagliate un pezzettino di zenzero, lavatelo, pelatelo e poi grattugiatelo ed aggiungetelo alle zucchine. Mi raccomando, lo zenzero ha un gusto molto forte, quindi ne basta pochissimo... poi dipende come vi piace! Aggiungete il parmigiano grattugiato e l'uovo. Aggiustate di sale e pepe e aggiungete la qiunoa. Impastate velocemente il tutto finché risulterà compatto. Formate delle palline, io mi sono aiutata con il porzionatore per gelato (lo spallinatore, per intenderci) e appoggiatele su di una teglia con sotto della carta forno.
+![](teglia.jpeg "frangipani © Erica")
 
-Infornate i bocconcini nel forno ventilato a 160°C per ca. 20min o statico a 180°C per 25min.
-![](risultato.jpg "frangipani © Erica")
+Coprite con un filo d'olio poi infornate le polpette di Quinoa e Zucchine nel forno preriscaldato a 160°C ventilato per circa 25min. Fatele riposare un attimino prima di staccarle dalla teglia. Io li ho serviti con una salsa allo yogurt fatta con yogurt naturale, erbette aromatiche, succo di limone, olio, aglio e sale.
+<p>
+  <div style="width: 100%; margin-bottom: 0">
+    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <div style="clear: both"></div>
+  </div>
+</p>
 
+![](risultato3.jpeg "frangipani © Erica")
 
-<h3>
-  <font color="#FFCC00">
-    <i class="fa fa-lightbulb-o"></i>
-  </font> P.S.
-</h3>
+<p>
+  <div style="width: 100%; margin-bottom: 0">
+    <img style="float: left; width: 49%; margin-right: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <div style="clear: both"></div>
+  </div>
+</p>
 
-
-La quinoa si trova in ogni supermercato e si può fare anche in tanti altri modi... anche come il Cous Cous!
 
 <h4>Buon appetito
   <font color="red">
