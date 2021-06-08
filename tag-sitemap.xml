@@ -3,8 +3,50 @@
 
 
     <url>
+        <loc>http://frangipani.raiano.ch/tags/estate/</loc>
+        <lastmod>2021-06-08T13:33:00.514Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/zucchine/</loc>
+        <lastmod>2021-06-08T13:33:00.514Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/quinoa/</loc>
+        <lastmod>2021-06-08T13:33:00.514Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/glutenfree/</loc>
+        <lastmod>2021-06-08T13:33:00.514Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://frangipani.raiano.ch/tags/primavera/</loc>
-        <lastmod>2021-05-31T19:35:22.524Z</lastmod>
+        <lastmod>2021-06-08T13:16:35.539Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/fiori-di-sambuco/</loc>
+        <lastmod>2021-06-08T13:16:35.539Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/sciroppo/</loc>
+        <lastmod>2021-06-08T13:16:35.539Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -32,13 +74,6 @@
 
     <url>
         <loc>http://frangipani.raiano.ch/tags/dolce/</loc>
-        <lastmod>2021-05-16T18:59:35.464Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/estate/</loc>
         <lastmod>2021-05-16T18:59:35.464Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -165,13 +200,6 @@
 
     <url>
         <loc>http://frangipani.raiano.ch/tags/autunno/</loc>
-        <lastmod>2021-03-11T16:07:48.396Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/glutenfree/</loc>
         <lastmod>2021-03-11T16:07:48.396Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -549,13 +577,6 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/tags/zucchine/</loc>
-        <lastmod>2020-03-04T17:02:07.791Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://frangipani.raiano.ch/tags/prugne/</loc>
         <lastmod>2020-03-04T17:02:07.771Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -719,13 +740,6 @@
     <url>
         <loc>http://frangipani.raiano.ch/tags/avocado/</loc>
         <lastmod>2019-07-17T13:03:55.262Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/fiori-di-sambuco/</loc>
-        <lastmod>2019-07-17T13:03:36.006Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -999,13 +1013,6 @@
     <url>
         <loc>http://frangipani.raiano.ch/tags/verza/</loc>
         <lastmod>2018-04-02T19:46:05.042Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/quinoa/</loc>
-        <lastmod>2018-04-02T19:45:12.246Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -1327,13 +1334,6 @@
 
     <url>
         <loc>http://frangipani.raiano.ch/tags/tofu/</loc>
-        <lastmod>2017-08-20T12:10:57.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/sciroppo/</loc>
         <lastmod>2017-08-20T12:10:57.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
