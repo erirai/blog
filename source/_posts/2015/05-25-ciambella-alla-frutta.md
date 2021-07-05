@@ -18,6 +18,14 @@ lang: it
 
 Avevo un bel po' di frutta che si stava rovinando e per non buttarla ho fatto questa ciambella. Praticamente è un impasto base che può essere arricchito con qualsiasi cosa... cioccolato, frutta secca, frutta fresca... tutto!
 
+La nostra piccola grande due settimane fa ha compiuto due anni e per l'occasione le ho preparato il Gâteau au Chocolat che poi ho trasformato in Timmy, la pecorella che le piace tantissimo e tutto accompagnato con dei <a href="https://frangipani.raiano.ch/2014-05-02-bouquet-cupcakes-rabarbaro-cocco/" target="_blank">Muffin al Cocco e Rabarbaro</a> tutti fioriti.
+<p>
+  <div style="width: 100%; margin-bottom: 0">
+    <img style="float: left; width: 49%; margin-right: 1%" src="tortagaia.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="muffingaia.jpg" alt="" title="frangipani © Erica" />
+    <div style="clear: both"></div>
+  </div>
+</p>
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">

@@ -14,6 +14,9 @@ lang: it
 
 Oggi vi propongo questa ricetta facilissima ma soprattutto buonissima: sono le Piadine! Nella ricetta tradizionale l'impasto delle piadine viene fatto con lo strutto, però io le faccio con la margarina. In questo modo le piadine sono vegan e ogni uno poi le condisce come vuole. Allora praticamente io ho preparato le verdure grigliate, mia sorella ha fatto le piadine, mio cognato ha cucinato le piadine e mia mamma faceva attenzione a mia figlia... Non vi dico che c'era in cucina... Ma ci siamo divertiti!
 
+Eh si, tre giorni fa mia mamma ha festeggiato il suo primo mezzo secolo... Per non far fare al lei la torta per il suo compleanno ho pensato di prepararla io. La torta è molto semplice, praticamente si prepara un Bisquit, una mousse al cioccolato bianco e poi si compone la torta, niente di che! Ma vi assicuro che era ottima! Poi va bene per ogni occasione... L'unica cosa è che ho usato i lamponi freschi anche se non si dovrebbe, dato che non è stagione, ma per una volta...
+![](tortamamma.jpg "frangipani © Erica")
+
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">

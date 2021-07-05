@@ -39,7 +39,7 @@ Mittlerweile bevorzuge ich es, selbstgemachte Geschenke vorzubereiten. Vieles ka
 <br />
 <a href="https://frangipani.raiano.ch/2015-07-12-sale-alle-erbe/" target="_blank">Kräutersalz</a>
 <br />
-<a href="https://frangipani.raiano.ch/2015-12-12-sale-al-pomodoro/" target="_blank">Tomatensalz</a>
+<a href="https://frangipani.raiano.ch/2019-12-12-preparato-per-cioccolata-calda-da-regalare-de//" target="_blank">Mischung für heisse Schokolade</a>
 <br />
 <a href="https://frangipani.raiano.ch/tags/marmellata/" target="_blank">Marmeladen und Konfitüren</a>
 <br />

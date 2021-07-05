@@ -38,7 +38,7 @@ Ormai preferisco in gran lunga preparare regali fatti in casa. Tantissime cose l
 <br />
 <a href="https://frangipani.raiano.ch/2015-07-12-sale-alle-erbe/" target="_blank">Sale alle Erbe</a>
 <br />
-<a href="https://frangipani.raiano.ch/2015-12-12-sale-al-pomodoro/" target="_blank">Sale al Pomodoro</a>
+<a href="https://frangipani.raiano.ch/2019-12-12-preparato-per-cioccolata-calda-da-regalare/" target="_blank">Preparato per Cioccolata Calda</a>
 <br />
 <a href="https://frangipani.raiano.ch/tags/marmellata/" target="_blank">Marmellate e Confetture</a>
 <br />

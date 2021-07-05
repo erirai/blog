@@ -15,7 +15,19 @@ lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
+**Muffin vegani alle Mandorle ripieni di Fragole e Rabarbaro** morbidissimi e con un cuore fruttato.
+<br />
 Era un casino di tempo che non facevo qualche dolce e dato che ci sono ancora i miei zii dall'Italia ho colto l'occasione e mi sono messa all'opera. Diciamo che ho pasticciato un po'... avevo qualcosa in mente ma nessuna ricetta, quindo ho mischiato qualche cosina e questo è il risulatato...
+
+Che emozione, nostra figlia qualche giorno fa ha fatto un anno!!! Che bello! Va matta per Minnie Mouse (lei la chiama "mimmi"), per questo abbiamo pensato di fare tutto dedicato a Minnie Mouse... una torta, dei Cupcakes e anche dei Mini Cupcakes...
+![](cupcakegaia.jpg "frangipani © Erica")
+<p>
+  <div style="width: 100%; margin-bottom: 0">
+    <img style="float: left; width: 49%; margin-right: 1%" src="tortagaia.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="miniccgaia.jpg" alt="" title="frangipani © Erica" />
+    <div style="clear: both"></div>
+  </div>
+</p>
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">

@@ -17,7 +17,24 @@ lang: it
 
 > Buona Pasqua a tutti!
 
-Oggi ho fatto questa Osterchuechä (Torta di Pasqua) che qui in Svizzera si fa per Pasqua. Praticamente è la versione svizzera della Pastiera Napoletana. È buona ma mai quanto la Pastiera, però è molto più semplice da fare! 
+Oggi ho fatto questa Osterchuechä (Torta di Pasqua) che qui in Svizzera si fa per Pasqua. Praticamente è la versione svizzera della Pastiera Napoletana. È buona ma mai quanto la Pastiera, però è molto più semplice da fare!
+
+L'altro ieri abbiamo festeggiato il compleanno di mio marito. Uff ormai ci avviciniamo ai 30!!! Il tema era il mare... Ho fatto dei Cupkaces, una torta e anche dei Mini Cupcakes e mia mamma ha fatto una bellissima torta col trucco.
+<p>
+  <div style="width: 100%; margin-bottom: 0">
+    <img style="float: left; width: 49%; margin-right: 1%" src="ccadri.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="miniccadri.jpg" alt="" title="frangipani © Erica" />
+    <div style="clear: both"></div>
+  </div>
+</p>
+
+<p>
+  <div style="width: 100%; margin-bottom: 0">
+    <img style="float: left; width: 49%; margin-right: 1%" src="tavolaadri.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="tortaadri.jpg" alt="" title="frangipani © Erica" />
+    <div style="clear: both"></div>
+  </div>
+</p>
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">

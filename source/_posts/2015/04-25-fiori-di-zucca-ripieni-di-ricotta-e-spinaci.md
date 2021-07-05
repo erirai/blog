@@ -15,6 +15,14 @@ lang: it
 
 Mio Papà mi ha portato dei buonissimi fiori di zucca e a me piace farli ripieni e poi in pastella... Dato che sto allattando cerco di evitare il fritto, quindi questa volta li ho voluti fare al forno! Allora fritti sono moooooooooolto più buoni, ma così sono una buona alternativa.
 
+Due settimane fa abbiamo festeggiato il compleanno di mio marito... Dato che la Torta Croccamorbidosa al Cioccolato ci è piaciuta tantissimo, ho pensato di modificarla leggermente e farla al limone. In più ho fatto anche dei Cupcakes al limone con un frosting al formaggio cremosissimo...
+<p>
+  <div style="width: 100%; margin-bottom: 0">
+    <img style="float: left; width: 49%; margin-right: 1%" src="ccadri.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="tortaadri.jpg" alt="" title="frangipani © Erica" />
+    <div style="clear: both"></div>
+  </div>
+</p>
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">

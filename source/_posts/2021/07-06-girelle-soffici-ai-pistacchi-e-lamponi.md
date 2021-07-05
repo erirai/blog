@@ -1,27 +1,32 @@
 ---
-title: "Girelle soffici alle Nocciole"
-date: 2020-11-19
+title: "Girelle soffici ai Pistacchi e Lamponi"
+date: 2021-07-06
 tags:
-- autunno
-- inverno
+- lamponi
+- pistacchi
+- colazione
 - panificati
-- natale
+- estate
 categories:
 - Dolce
 - Panificati
-label: 2020-11-19-girelle-soffici-alle-nocciole
+label: 2021-07-06-girelle-soffici-ai-pistacchi-e-lamponi
 lang: it 
 ---
 ![](header.jpeg "frangipani © Erica")
 
-**Girelle soffici alle Nocciole** le girelle alle nocciole più soffici che ho mai mangiato! Hanno un ripieno alle nocciole (e mandorle) bello cremoso e la pasta lievita è di una sofficità spettacolare. Poi il tutto arrotondato da una glassa fresca con succo di limone, che credetemi, fa la differenza!
+**Girelle soffici ai Pistacchi e Lamponi** una colazione estiva sofficissima e gustosissima, semplicemente favolosa. I colori parlano da se e si, ne vale la pena accendere il forno per prepararli, mi ringrazierete! Il gusto del pistacchio così buono e la succosità dei lamponi... Insieme sono un team imbattibile. Poi quella glassa fresca con succo di limone, che credetemi, fa la differenza! 
 <br />
-Negli anni ho imparato una cosa importante sulle girelle alle nocciole, cinnamon rolls e compagnia bella... O sono sono bellissime, perfette, tonde, simmetriche, senza ripieno che fuoriesce, MA non tanto soffici e dal gusto ok. Poi ci sono quelle che sono leggermente bruttine, che crescono in altezza, un po' stortine, MA di un soffice e di una bontà incredibile! Io ho scelto da che parte stare... bruttini fuori, ma spettacolari dentro! Voi da che parte state?
+Devo confessarvi, che inizialmente volevo preparare questa ricetta con il rabarbaro al posto dei lamponi, poi però tra una cosa e l'altra non ho fatto in tempo. Non mi dispiace però, sarebbero state buone anche con il rabarbaro, ma secondo me con i lamponi ancora di più.
+<br />
+Non so voi, ma i panificati io riesco a mangiarli sempre, anche con 40°C all'ombra. Mi piacciono talmente tanto che non fa differenza. Magari sì, meglio un ripieno estivo, le  <a href="https://frangipani.raiano.ch/2020-11-19-girelle-soffici-alle-nocciole/" target="_blank">Girelle alle Nocciole</a> le preferisco in autunno, inverno.
+
+E sì, benvenuto Luglio! Porti l'estate, la fine dell'anno scolastico, le vacanze, il mio compleanno e tante cose buone per il nostro pancino. Anche se al momento il tempo è assai pazzerello... spero si aggiusti presto!
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
-      <span itemprop="name" style="display:none;">Girelle soffici alle Nocciole</span>
+      <span itemprop="name" style="display:none;">Girelle soffici ai Pistacchi e Lamponi</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
@@ -62,7 +67,7 @@ Negli anni ho imparato una cosa importante sulle girelle alle nocciole, cinnamon
           </tr>
           <tr itemprop="recipeIngredient">
             <td>125gr</td>
-            <td>nocciole e/o mandorle macinate</td>
+            <td>pistacchi macinati</td>
           </tr>
           <tr itemprop="recipeIngredient">      
             <td>50gr</td>
@@ -79,6 +84,10 @@ Negli anni ho imparato una cosa importante sulle girelle alle nocciole, cinnamon
           <tr itemprop="recipeIngredient">
             <td>2 cucchiai</td>
             <td>confettura</td>
+          </tr>
+          <tr itemprop="recipeIngredient">
+            <td>200gr</td>
+            <td>lamponi</td>
           </tr>
           <tr style="height: 15px;"></tr>
           <tr>          
@@ -113,19 +122,19 @@ Negli anni ho imparato una cosa importante sulle girelle alle nocciole, cinnamon
 
 Mettete farina, zucchero e sale nella planetaria e mescolate. In un pentolino a parte, fate riscaldare leggermente il latte con il burro. Togliete dai fornelli e fate sciogliere il lievito nel latte e burro. Aggiungete anche questo nella planetaria, più l'uovo leggermente sbattuto. Fate impastare per ca. 10min a velocità media. Otterrete un impasto bello morbido, liscio e non appiccicoso. Chiudete e fate lievitare almeno 8h a temperatura ambiente o finché avrà raddoppiato il suo volume. A questo punto impastate di nuovo velocemente e fate lievitare per altre 2-3h (questo passaggio non è obbligatorio, ma renderà l'impasto ancora più soffice).
 <br />
-In una coppetta a parte preparate il ripieno, mescolando tutti gli ingredienti.
+In una coppetta a parte preparate il ripieno, mescolando tutti gli ingredienti tranne i lamponi.
 <br />
-Prendete l'impasto e aiutandovi con un mattarello stendetelo formando un rettangolo. Spalmateci sopra il ripieno, lasciando un bordo di 1cm, poi arrotolatelo iniziando dalla parte più lunga. Adesso tagliate 8 girelle, sigillate la parte laterale dove finisce l'impasto e mettetele su una teglia con sotto della carta forno. Io le ho messe lontane tra loro per averle singole... Voi potete metterle anche vicine in una teglia più piccola. Fate lievitare per 1-2h.
+Prendete l'impasto e aiutandovi con un mattarello stendetelo formando un rettangolo. Spalmateci sopra il ripieno, lasciando un bordo di 1cm, distribuite uniformemente i lamponi, poi arrotolatelo iniziando dalla parte più lunga. Adesso tagliate 8 girelle, sigillate la parte laterale dove finisce l'impasto e mettetele su una teglia con sotto della carta forno. Io le ho messe lontane tra loro per averle singole... Voi potete metterle anche vicine in una teglia più piccola. Fate lievitare per 1-2h.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 32%; margin-right: 1%;" src="rettangolo.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="rotolo.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%;" src="pistacchi.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="arrotolare.jpeg" alt="" title="frangipani © Erica" />
     <img style="float: left; width: 32%; margin-left: 1%;" src="teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-Infornate le Girelle soffici alle Nocciole nel forno preriscaldato a 190°C statico per 15min o finché avranno un bel colorito. Appena sfornate preparate la glassa, mescolando lo zucchero prima con il succo di limone e man mano aggiungete pochissima acqua alla volta, finché la glassa avrà una consistenza bella densa (più liquida è, meno bianca sarà) e glassate le girelle con un pennello o tirando dei filo con un cucchiaio, come preferite.
+Infornate le Girelle soffici ai pistacchi e lamponi nel forno preriscaldato a 190°C statico per 15min o finché avranno un bel colorito. Appena sfornate preparate la glassa, mescolando lo zucchero prima con il succo di limone e man mano aggiungete pochissima acqua alla volta, finché la glassa avrà una consistenza bella densa (più liquida è, meno bianca sarà) e glassate le girelle con un pennello o tirando dei filo con un cucchiaio, come preferite.
 <p>
   <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
@@ -134,27 +143,21 @@ Infornate le Girelle soffici alle Nocciole nel forno preriscaldato a 190°C stat
   </div>
 </p>
 
-![](risultato3.jpeg "frangipani © Erica")
-
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato6.jpeg "frangipani © Erica")
-
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
-
-![](risultato9.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

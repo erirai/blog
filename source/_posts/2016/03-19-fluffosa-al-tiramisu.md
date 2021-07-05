@@ -20,6 +20,16 @@ lang: it
 
 Oggi festeggiamo tutti i Papà! Al mio Papà come ogni anno, gli porto le rose del suo colore preferito e per mio marito, quest'anno mia figlia gli ha preparato una bella poesia... Si sta esercitando da settimane ormai! Io gli preparo una bella torta, una Fluffosa al Tiramisù o anche Chiffon Cake al Tirmisù. Il nome "Fluffosa" mi piace troppo, praticamente già dice tutto! Per questa torta c'è una ricetta di base, che poi può essere aromatizzata a piacere... Alla vaniglia, al limone, al caffé, al cioccolato, farcita, glassata, con la frutta o semplicemente con una spolverata di zucchero a velo! Per fare questa Fluffosa, servirebbe lo stampo adatto per renderla così alta è fluffosa. Potete usare anche uno stampo simile, ma il risultato non sarà lo stesso.
 
+Mamma mia... è passato già un anno! Il nostro piccolo Ometto 5 giorni fa ha festeggiato il suo primo anno di vita! Non è stato un anno facile, molto faticoso, molto stancante... ma allo stesso tempo pieno di soddisfazioni, emozioni e gioie... Quest'anno è passato così, al volo, senza neanche accorgersene! Tra poco il piccolino inizierà a camminare, a parlare... Sono così carini quando giocano insieme e si fanno delle risate! Il primo compleanno è speciale, sempre molto emozionante... non è più un baby, ma un piccolo ometto ormai! Anche se lui la torta non se la mangerà, gli ho preparato una Zebra Cake. Questa torta è facilissima da preparare ed è molto scenografica. Basta preparare due impasti, uno bianco e uno nero, poi si può farcire come si vuole. Con i ritagli della torta poi ho anche fatto dei Cake Pops, così non ho buttato niente!
+![](cpgioele.jpg "frangipani © Erica")
+<p>
+  <div style="width: 100%; margin-bottom: 0">
+    <img style="float: left; width: 49%; margin-right: 1%" src="tortagioele.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="tortagioele2.jpg" alt="" title="frangipani © Erica" />
+    <div style="clear: both"></div>
+  </div>
+</p>
+
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients">
