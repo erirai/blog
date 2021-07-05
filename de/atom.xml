@@ -4,7 +4,7 @@
   
   <link href="http://frangipani.raiano.ch/de/atom.xml" rel="self"/>
   <link href="http://frangipani.raiano.ch/"/>
-  <updated>2021-06-28T20:05:16.984Z</updated>
+  <updated>2021-07-05T15:07:44.064Z</updated>
   <id>http://frangipani.raiano.ch/</id>
   
   <author>
@@ -13,6 +13,184 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title xml:lang="de">fluffige Pistazien-Himbeer-Schnecken</title>
+    <link href="http://frangipani.raiano.ch/2021-07-06-girelle-soffici-ai-pistacchi-e-lamponi-de/"/>
+    <id>http://frangipani.raiano.ch/2021-07-06-girelle-soffici-ai-pistacchi-e-lamponi-de/</id>
+    <published>2021-07-05T22:00:00.000Z</published>
+    <updated>2021-07-05T15:07:44.064Z</updated>
+    <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2021-07-06-girelle-soffici-ai-pistacchi-e-lamponi/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fluffige Pistazien-Himbeer-Schnecken&lt;/strong&gt; ein sehr luftiges und leckeres Sommerfrühstück, einfach fabelhaft. Die Farben sprechen für sich und ja, es lohnt sich, den Ofen anzumachen, um sie zuzubereiten, ihr werdet es mir danken! Der Geschmack von Pistazien und die Saftigkeit der Himbeeren sind zusammen ein unschlagbares Team. Dann rundet diese frische Glasur mit Zitronensaft alles ab!
+&lt;br /&gt;
+Ich muss gestehen, dass ich dieses Rezept anfangs mit Rhabarber statt mit Himbeeren zubereiten wollte, aber dann hatte ich zwischendurch keine Zeit mehr. Macht mir aber nichts aus, mit Rhabarber wären sie auch gut gewesen, aber meiner Meinung nach, noch besser mit Himbeeren.
+&lt;br /&gt;
+Ich weiss nicht wie es euch geht, aber ich kann immer Hefegebäck essen, auch bei 40°C im Schatten. Ich mag sie so sehr, dass es mir keinen Unterschied macht. Vielleicht ja, besser eine Sommerfüllung, die &lt;a href=&quot;https://frangipani.raiano.ch/2020-11-19-girelle-soffici-alle-nocciole-de/&quot; target=&quot;_blank&quot;&gt;Nussschnkecken&lt;/a&gt; bevorzuge ich im Herbst, Winter.&lt;/p&gt;
+&lt;p&gt;Und ja, willkommen Juli! Du bringst den Sommer, das Ende des Schuljahres, die Ferien, meinen Geburtstag und viele gute Dinge für unseren Bauch mit. Auch wenn das Wetter im Moment sehr verrückt spielt... ich hoffe es wird bald wieder!&lt;/p&gt;
+&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
+  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
+    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
+      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;fluffige Pistazien-Himbeer-Schnecken&lt;/span&gt;
+      &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
+      &lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Hefeteig&lt;/b&gt;&lt;/td&gt;
+          &lt;/tr&gt;      
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;        
+            &lt;td&gt;250gr&lt;/td&gt;
+            &lt;td&gt;Halbweissmehl&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;35gr&lt;/td&gt;
+            &lt;td&gt;Zucker&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 Teelöffel&lt;/td&gt;
+            &lt;td&gt;Salz&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;100ml&lt;/td&gt;
+            &lt;td&gt;Milch&lt;/td&gt;
+          &lt;/tr&gt;      
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;20gr&lt;/td&gt;
+            &lt;td&gt;Butter&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt; 
+            &lt;td&gt;1gr&lt;/td&gt;
+            &lt;td&gt;frische Hefe&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1&lt;/td&gt;
+            &lt;td&gt;kleines Ei&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr style=&quot;height: 15px;&quot;&gt;&lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Füllung&lt;/b&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;125gr&lt;/td&gt;
+            &lt;td&gt;grob gemahlene Pistazien&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;      
+            &lt;td&gt;50gr&lt;/td&gt;
+            &lt;td&gt;Zucker&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1/2&lt;/td&gt;
+            &lt;td&gt;Zitrone nur Abrieb&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;70ml&lt;/td&gt;
+            &lt;td&gt;Sahne oder Milch&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;2 Esslöffel&lt;/td&gt;
+            &lt;td&gt;Konfitüre&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;200gr&lt;/td&gt;
+            &lt;td&gt;Himbeeren&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr style=&quot;height: 15px;&quot;&gt;&lt;/tr&gt;
+          &lt;tr&gt;          
+            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Glasur&lt;/b&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;50gr&lt;/td&gt;
+            &lt;td&gt;Puderzucker&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1/2 Esslöffel&lt;/td&gt;
+            &lt;td&gt;Wasser&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;2 Esslöffel&lt;/td&gt;
+            &lt;td&gt;Zitronensaft&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;
+      &lt;br&gt;&lt;/br&gt;
+      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot; itemprop=&quot;recipeYield&quot;&gt;für 8 Schnecken&lt;/i&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h3&gt;
+  &lt;font color=&quot;grey&quot;&gt;
+    &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt; Zubereitung
+&lt;/h3&gt;
+
+&lt;p&gt;Mehl, Zucker und Salz in die Küchenmaschine geben und kurz vermengen. In einem kleinen Kochtopf Milch mit der Butter etwas aufwärmen, dann vom Herd nehmen und die Hefe darin auflösen. Milchgemisch auch in die Küchenmaschine geben. Zuletzt noch das Ei zufügen. Nun für ca. 10min auf mittlerer Stufe kneten lassen. Der Teig sollte schön geschmeidig, glatt und nicht klebrig sein. Schüssel gut abdecken und für mindestens 8h bei Raumtemperatur aufgehen lassen oder bis sich sein Volumen verdoppelt hat. Nun wieder kurz kneten und nochmals 2-3h aufgehen lassen (dieser Schritt ist nicht zwingend, macht den Teig aber noch luftiger).
+&lt;br /&gt;
+In einem separaten Schüsselchen alle Zutaten, ausser Himbeeren, für die Pistazienfüllung vermengen.
+&lt;br /&gt;
+Mit Hilfe von einem Wallholz, den Teig zu einem Rechteck auswallen. Darauf die Pistazienfüllung verteilen, dabei einen Rand von 1cm frei lassen. Dann die Himbeeren regelmässig darüber verteilen. Längs den Teig aufrollen und 8 Rondellen schneiden. Die Kante, wo der Teig fertig ist, gut verschliessen, dann auf ein mit Backpapier belegtes Blech legen. Ich habe alle mit viel Abstand platziert, damit sie alle einzeln sind. Ihr könnt sie aber auch nahe beieinander hinstellen, in einem kleineren Blech. Nun 1-2h aufgehen lassen.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 32%; margin-right: 1%;&quot; src=&quot;../2021-07-06-girelle-soffici-ai-pistacchi-e-lamponi/pistacchi.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 32%; margin-right: 1%; margin-left: 1%;&quot; src=&quot;../2021-07-06-girelle-soffici-ai-pistacchi-e-lamponi/arrotolare.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 32%; margin-left: 1%;&quot; src=&quot;../2021-07-06-girelle-soffici-ai-pistacchi-e-lamponi/teglia.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Die fluffigen Pistazien-Himbeer-Schnecken für 15min im vorgeheizten Ofen bei 190°C Ober- und Unterhitze backen oder bis sie schön goldbraun gebacken sind. Sobald sie aus dem Ofen sind, die Glasur vorbereiten. Dafür Puderzucker zuerst mit Zitronensaft verrühren, dann nach und nach ganz ganz wenig Wasser dazu geben, bis es schön dickflüssig ist (je flüssiger, umso durchsichtiger wird sie sein). Die Pistazien-Himbeer-Schnecken mit einem Pinsel glasieren oder mit einem Löffel Streifen darüber giessen, wie ihr es lieber mögt.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2021-07-06-girelle-soffici-ai-pistacchi-e-lamponi/risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2021-07-06-girelle-soffici-ai-pistacchi-e-lamponi/risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2021-07-06-girelle-soffici-ai-pistacchi-e-lamponi/risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2021-07-06-girelle-soffici-ai-pistacchi-e-lamponi/risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2021-07-06-girelle-soffici-ai-pistacchi-e-lamponi/risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2021-07-06-girelle-soffici-ai-pistacchi-e-lamponi/risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h4&gt;Buon appetito
+  &lt;font color=&quot;red&quot;&gt;
+    &lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt;
+&lt;/h4&gt;</content>
+    <summary type="html" xml:lang="de">
+    
+      &lt;p&gt;&lt;img src=&quot;../2021-07-06-girelle-soffici-ai-pistacchi-e-lamponi/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fluffige Pistazien
+    
+    </summary>
+    
+      <category term="Dolce" scheme="http://frangipani.raiano.ch/categories/Dolce/"/>
+    
+      <category term="Panificati" scheme="http://frangipani.raiano.ch/categories/Dolce/Panificati/"/>
+    
+    
+      <category term="lamponi" scheme="http://frangipani.raiano.ch/tags/lamponi/"/>
+    
+      <category term="panificati" scheme="http://frangipani.raiano.ch/tags/panificati/"/>
+    
+      <category term="colazione" scheme="http://frangipani.raiano.ch/tags/colazione/"/>
+    
+      <category term="pistacchi" scheme="http://frangipani.raiano.ch/tags/pistacchi/"/>
+    
+      <category term="estate" scheme="http://frangipani.raiano.ch/tags/estate/"/>
+    
+  </entry>
   
   <entry>
     <title xml:lang="de">Blumenkohl-Salat</title>
@@ -2849,152 +3027,6 @@ Mit Hilfe von einem Wallholz, den Teig zu einem Rechteck auswallen. Darauf die F
       <category term="natale" scheme="http://frangipani.raiano.ch/tags/natale/"/>
     
       <category term="panificati" scheme="http://frangipani.raiano.ch/tags/panificati/"/>
-    
-      <category term="autunno" scheme="http://frangipani.raiano.ch/tags/autunno/"/>
-    
-      <category term="inverno" scheme="http://frangipani.raiano.ch/tags/inverno/"/>
-    
-  </entry>
-  
-  <entry>
-    <title xml:lang="de">Gemüse-Getreide-Suppe mit Kastanien</title>
-    <link href="http://frangipani.raiano.ch/2020-11-11-zuppa-di-verdure-cereali-e-castagne-de/"/>
-    <id>http://frangipani.raiano.ch/2020-11-11-zuppa-di-verdure-cereali-e-castagne-de/</id>
-    <published>2020-11-10T23:00:00.000Z</published>
-    <updated>2020-11-10T20:00:55.937Z</updated>
-    <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2020-11-11-zuppa-di-verdure-cereali-e-castagne/header.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Gemüse-Getreide-Suppe mit Kastanien&lt;/strong&gt; diese Suppe wird euch überraschen! Sie ist super reichhaltig, lecker und ihr werdet Zutaten verwenden, die ihr vielleicht in der Speisekammer habt, die ihr aber nicht oft verwendet, wie z.B. Getreidekörner. Nun, Getreide ist nicht 100% korrekt, weil ich auch Buchweizen verwendet habe, der kein Getreide ist. Aber wir haben uns verstanden. Nehmt das Gemüse, das ihr im Kühlschrank habt, vorzugsweise saisonales Gemüse. Ich empfehle eine Mischung aus Wurzel- und Blattgemüse...
-&lt;br&gt;
-Ich muss euch etwas sagen... Ich liebe Kastanien! Als ich klein war, bis ich 10 war, litt ich während dem ganzen Winter unter Husten, Ohrenschmerzen und sonstiges. Ich konnte keine Kastanien essen, weil sie mir sehr schlimme Hustenanfälle verursachten. Also musste ich jedes Jahr zuschauen, wie die anderen heisse Marroni assen. Nach der Mandeloperation war alles vorbei und ich versuchte sie wieder zu essen... was für eine Freude!
-&lt;br&gt;
-Ich liebe es, sie so zu essen, geröstet oder gekocht, aber ich benutze sie selten zum Kochen oder in Desserts (ich mag Vermicelles überhaupt nicht, nein geht nicht!). Tatsächlich habe ich in meinem Blog nur &lt;a href=&quot;https://frangipani.raiano.ch/2015-11-13-vermicelles-cake-de/&quot; target=&quot;_blank&quot;&gt;ein süsses Rezept mit Kastanien&lt;/a&gt;. Dieses Mal wollte ich jedoch versuchen, Kastanien in einem herzhaften Rezept zu verwenden, und ich muss sagen, dass es ausgezeichnet ist! Die Süsse der Kastanien passt perfekt zum Rest der Suppe...&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.foodblogs-schweiz.ch/challenge/&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;
-&lt;img src=&quot;https://www.foodblogs-schweiz.ch/wp-content/uploads/2020/10/Challenge-Banner-2.png&quot; alt=&quot;Foodblogs Schweiz Challenge&quot; class=&quot;wp-image-452&quot;&gt;&lt;/a&gt;
-Ich habe diese &lt;strong&gt;Gemüse-Getreide-Suppe mit Kastanien&lt;/strong&gt; für die 20. Foodie Challenge vorbereitet, die von &lt;a href=&quot;https://www.foodblogs-schweiz.ch&quot; target=&quot;_blank&quot;&gt;Foodblogs Schweiz&lt;/a&gt; organisiert wird. Das Thema dieser Challenge ist SUPPE. Nun, mit dieser Kälte ist es sehr passend! Ich war sehr, sehr unentschlossen, ob ich etwas cremiges, mit Brühe, mit Hülsenfrüchten oder Getreide oder mit Nudeln machen sollte...
-&lt;br&gt;
-Seit wir Vegetarier sind, haben wir begonnen, unsere Art zu essen viel mehr zu variieren. Ich benutze viel mehr Getreide und Hülsenfrüchte. Ich füge in Suppen oft sowohl Getreide als auch Hülsenfrüchte hinzu, um das Ganze abzurunden. Und ich persönlich liebe diese schönen, reichhaltigen Suppen voller Gemüsestückchen, Getreide und Hülsenfrüchte... Diese wird mit saisonalem Gemüse zubereitet, und ihr könnt zwischen Getreide und Hülsenfrüchten variieren oder beides verwenden... Ich bin gespannt, welche Suppen die anderen vorbereiten werden! Und du?&lt;/p&gt;
-&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
-  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
-    &lt;div class=&quot;ingredients&quot;&gt;
-      &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
-      &lt;table&gt;
-        &lt;tbody&gt;
-          &lt;tr&gt;&lt;br&gt;            &lt;td&gt;1&lt;/td&gt; 
-            &lt;td&gt;kleine Zwiebel&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td&gt;1 Stück&lt;/td&gt; 
-            &lt;td&gt;Lauch&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td&gt;1&lt;/td&gt; 
-            &lt;td&gt;Karotte mittelgross&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td&gt;1&lt;/td&gt; 
-            &lt;td&gt;Fenchel klein&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td&gt;1&lt;/td&gt; 
-            &lt;td&gt;Süsskartoffel klein&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td&gt;1&lt;/td&gt; 
-            &lt;td&gt;Kartoffel klein&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td&gt;3-4 Blätter&lt;/td&gt; 
-            &lt;td&gt;Feder- und/oder Palmkohl&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td&gt;1 Handvoll&lt;/td&gt;&lt;br&gt;            &lt;td&gt;Dinkel schnellkochend&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td&gt;1 Handvoll&lt;/td&gt; 
-            &lt;td&gt;Rollgerste&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td&gt;1 Handvoll&lt;/td&gt; 
-            &lt;td&gt;Buchweizen&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td&gt;2 Esslöffel&lt;/td&gt; 
-            &lt;td&gt;Tomatenmark&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td&gt;1 Handvoll&lt;/td&gt; 
-            &lt;td&gt;gekochte Kastanien&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td&gt;qs&lt;/td&gt; 
-            &lt;td&gt;Olivenöl&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td&gt;qs&lt;/td&gt; 
-            &lt;td&gt;Salz&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td&gt;qs&lt;/td&gt; 
-            &lt;td&gt;geriebenen Parmesankäse (wenn gewünscht)&lt;/td&gt;
-          &lt;/tr&gt;
-        &lt;/tbody&gt;
-      &lt;/table&gt;
-      &lt;br&gt;&lt;br&gt;
-      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot;&gt;für 4 Personen&lt;/i&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;h3&gt;
-  &lt;font color=&quot;grey&quot;&gt;
-    &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt; Zubereitung
-&lt;/h3&gt;
-
-&lt;p&gt;Spült zuerst Dinkel, Rollerste und Buchweizen aus und legt sie beiseite. Zwiebel und Lauch fein hacken. Karotte, Süsskartoffel und Kartoffel schneiden, schälen und in kleine Stücke schneiden. Fenchel waschen und kleinschneiden. Feder- und Palmkohl waschen, den zentralen Stiel entfernen und kleinschneiden.
-&lt;br&gt;
-Gebt in einen grossen Topf einen Spritzer Öl, die Zwiebel und den Lauch und röstet alles für einen Moment an. Fügt den Rest des Gemüses und zwei Esslöffel Tomatenmark hinzu, füllt es dann mit Wasser und/oder Gemüsebrühe auf. Fügt auch den Dinkel, die Rollgerste und den Buchweizen hinzu und lasst es köcheln, bis alles gar ist.
-&lt;img src=&quot;../2020-11-11-zuppa-di-verdure-cereali-e-castagne/pentola.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Teller füllen, etwas Öl hinzufügen, wenn ihr mögt noch etwas geriebenen Parmesankäse dazu und einige Kastanien darüber zerbröseln...&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2020-11-11-zuppa-di-verdure-cereali-e-castagne/risultato1.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2020-11-11-zuppa-di-verdure-cereali-e-castagne/risultato2.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../2020-11-11-zuppa-di-verdure-cereali-e-castagne/risultato3.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2020-11-11-zuppa-di-verdure-cereali-e-castagne/risultato4.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2020-11-11-zuppa-di-verdure-cereali-e-castagne/risultato5.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../2020-11-11-zuppa-di-verdure-cereali-e-castagne/risultato6.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;h4&gt;Buon appetito
-  &lt;font color=&quot;red&quot;&gt;
-    &lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt;
-&lt;/h4&gt;</content>
-    <summary type="html" xml:lang="de">
-    
-      &lt;p&gt;&lt;img src=&quot;../2020-11-11-zuppa-di-verdure-cereali-e-castagne/header.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Gemüse-Getreide-S
-    
-    </summary>
-    
-      <category term="Salato" scheme="http://frangipani.raiano.ch/categories/Salato/"/>
-    
-      <category term="Piatti Unici" scheme="http://frangipani.raiano.ch/categories/Salato/Piatti-Unici/"/>
-    
-    
-      <category term="vegan" scheme="http://frangipani.raiano.ch/tags/vegan/"/>
-    
-      <category term="piatto unico" scheme="http://frangipani.raiano.ch/tags/piatto-unico/"/>
     
       <category term="autunno" scheme="http://frangipani.raiano.ch/tags/autunno/"/>
     
