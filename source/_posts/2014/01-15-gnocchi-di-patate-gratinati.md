@@ -1,71 +1,94 @@
 ---
-title: Gnocchi di Patate Gratinati
+title: "Gnocchi di Patate Gratinati"
 date: 2014-01-15
 tags:
-- gnocchi
 - patate
 - primi
 categories:
 - Salato
 - "Primi Piatti"
+label: 2014-01-15-gnocchi-di-patate-gratinati
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](header.jpeg "frangipani © Erica")
 
-Era da molto tempo che non facevo gli gnocchi e dato che oggi avevo tempo li ho fatti. La parte importante di questa ricetta sono gli gnocchi e non il condimento, perché ogni uno li fa come più gli piacciono! Le dosi sono per 4-6 persone, dipende sempre dall'appetito...
-
+**Gnocchi di Patate Gratinati** uno dei miei comfort food preferiti. Questa è la versione dei Gnocchi un po' più elaborata, ma sono di una bontà incredibile. Ma potete fare la versione più leggera e vegana semplicemente con patate e farina.
+<br />
+Ovviamente la ricetta è quella degli Gnocchi, poi il condimento è una proposta. Sono ottimi anche semplicemente conditi con burro e salvia, con il pesto, ma anche saltati in padella con le verdure. Però gratinati con tantissimo sugo (sì, mettete tanto sugo altrimenti si appiccicano tutti) e tanta mozzarella hanno il loro perché! E poi così si possono preparare anche in anticipo...
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Gnocchi di Patate Gratinati</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
           <tr>
-            <td colspan="2"><b>Impasto</b></td>
-          </tr>
-          <tr>
+            <td colspan="2"><b>Gnocchi</b></td>
+          </tr>      
+          <tr itemprop="recipeIngredient">        
             <td>1kg</td>
             <td>patate farinose</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>800gr</td>
             <td>farina</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>200gr</td>
-            <td>margarina morbida</td>
+            <td>burro o margarina</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>4</td>
             <td>uova</td>
-          </tr>
-          <tr>
+          </tr>      
+          <tr itemprop="recipeIngredient">
             <td>300gr</td>
             <td>parmigiano grattugiato</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>qb</td>
             <td>noce moscata</td>
           </tr>
           <tr style="height: 15px;"></tr>
-          <tr>          
+          <tr>
             <td colspan="2"><b>Condimento</b></td>
           </tr>
-          <tr>
-            <td>Sugo (ca. 2-3 bottiglie)</td>
+          <tr itemprop="recipeIngredient">
+            <td>2 bottiglie grandi</td>
+            <td>passata di pomodoro</td>
           </tr>
-          <tr>      
-            <td>parmiggiano grattugiato</td>       
+          <tr itemprop="recipeIngredient">      
+            <td>1</td>
+            <td>cipolla</td>
+          </tr>
+          <tr itemprop="recipeIngredient">
+            <td>qb</td>
+            <td>olio evo</td>
+          </tr>
+          <tr itemprop="recipeIngredient">
+            <td>qb</td>
+            <td>sale</td>
+          </tr>
+          <tr itemprop="recipeIngredient">
+            <td>qb</td>
+            <td>basilico</td>
+          </tr>
+          <tr itemprop="recipeIngredient">
+            <td>qb</td>
+            <td>parmigiano grattugiato</td>
+          </tr>
+          <tr itemprop="recipeIngredient">
+            <td>qb</td>
+            <td>mozzarella</td>
           </tr>
         </tbody>
       </table>
       <br></br>
-      <i class="pull-right" style="font-size: 80%;">per 4-6 persone</i>
+      <i class="pull-right" style="font-size: 80%;" itemprop="recipeYield">per 4-6 persone</i>
     </div>
   </div>
 </div>
-
 
 <h3>
   <font color="grey">
@@ -73,41 +96,64 @@ Era da molto tempo che non facevo gli gnocchi e dato che oggi avevo tempo li ho 
   </font> Preparazione
 </h3>
 
-Preparate il sugo come lo fate voi!
-![](sugo.jpg "frangipani © Erica")
+Preparate il sugo: io faccio soffriggere la cipolla con olio e sale, verso la passata di pomodoro, allungo con l'acqua, aggiungo il basilico e faccio cuocere a temperatura mediobassa finché si sarà ben addensato e salo alla fine.
 
-Nel frattempo fate bollire le patate. Prendete delle patate grandi, così perdete meno tempo per pelarle. Quando sono cotte, scolatele, fate scorrerci sopra dell'acqua fredda e pelatele, in questo modo riesce molto meglio. Passate le patate nello schiacciapatate ed aggiungete il resto degli ingredienti. Ora impastate finché sarà tutto ben compatto.
-![](ingredienti.jpg "frangipani © Erica")
-
-![](impasto.jpg "frangipani © Erica")
-
+Nel frattempo fate bollire le patate. Prendete delle patate grandi, così perdete meno tempo per pelarle. Quando sono cotte, scolatele e pelatele. Passate le patate nello schiacciapatate e aggiungete il resto degli ingredienti. Ora impastate finché sarà tutto ben compatto.
+<br />
 Ora prendete un po' d'impasto alla volta, fate dei salsicciotti e tagliateli a tocchetti. Metteteli da parte, spolverateci sopra un po' di farina e fateli riposare un po'.
-![](tagliare.jpg "frangipani © Erica")
+<p>
+  <div style="width: 100%; margin-bottom: 0">
+    <img style="float: left; width: 32%; margin-right: 1%;" src="sugo.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="tagliare.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-left: 1%;" src="tagliati.jpg" alt="" title="frangipani © Erica" />
+    <div style="clear: both"></div>
+  </div>
+</p>
 
-![](tagliati.jpg "frangipani © Erica")
+Dopo averli fatti riposare, prendere una pentola abbastanza grande, fate bollire dell'acqua e poi salate. Prendete un po' di gnocchi alla volta e buttateli nell'acqua bollente. Quando gli gnocchi verranno a galla scolateli con una schiumarola e metteteli in una ciotola con dentro già un po' di sugo. Continuate finché avrete cotto tutti gli gnocchi. Man mano aggiungete il sugo per non farli appiccicare.
+<br />
+Adesso condite gli gnocchi con abbondante parmigiano grattugiato e aggiungete qualche pezzetto di mozzarella. Imburrate una pirofila, coprite il fondo con del sugo, aggiungete la metà degli gnocchi e formate uno strato, coprite con un pochettino di sugo e la mozzarella. Poi aggiungete il resto degli gnocchi, di nuovo sugo, mozzarella e alla fine abbondante parmigiano grattugiato.
+<p>
+  <div style="width: 100%; margin-bottom: 0">
+    <img style="float: left; width: 32%; margin-right: 1%;" src="bollire.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="cotti.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-left: 1%;" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <div style="clear: both"></div>
+  </div>
+</p>
 
-Dopo averli fatti riposare, prendere una pentola abbastanza grande, fate bollire dell'acqua e poi salate. Prendete un po' di gnocchi alla volta e buttateli nell'acqua bollente. Quando gli gnocchi verranno a galla scolateli con una schiumarola e metteteli in una ciotola con dentro già un po' di sugo. Continuate finché avrete cotto tutti gli gnocchi. È importante cucinare pochi gnocchi alla volta. Se c'è bisogno aggiungete ancora del sugo.
-![](bollire.jpg "frangipani © Erica")
+Infornate gli gnocchi coperti con un foglio di carta argentata a 200°C ventilato per ca. 25min poi togliete la carta argentata e fate dorare bene per 5-10min.
+<p>
+  <div style="width: 100%; margin-bottom: 0">
+    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <div style="clear: both"></div>
+  </div>
+</p>
 
-![](cotti.jpg "frangipani © Erica")
+<p>
+  <div style="width: 100%; margin-bottom: 0">
+    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <div style="clear: both"></div>
+  </div>
+</p>
 
-Quando avrete finito, imburrate una pirofila, coprite il fondo con del sugo, aggiungete gli gnocchi e anche del sugo e finite con una spolverata di parmiggiano grattugiato.
-![](pirofila.jpg "frangipani © Erica")
+<p>
+  <div style="width: 100%; margin-bottom: 0">
+    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <div style="clear: both"></div>
+  </div>
+</p>
 
-Infornate gli gnocchi coperti da un foglio di carta argentata a 220°C (forno statico) per ca. 25min poi togliete la carta argentata e fate dorare bene per ca. 10min.
-![](risultato.jpg "frangipani © Erica")
-
-
-<h3>
-  <font color="#FFCC00">
-    <i class="fa fa-lightbulb-o"></i>
-  </font> P.S.
-</h3>
-
-
-Gli gnocchi sono buonissimi anche conditi con del buon pesto alla genovese o semplicemente con burro e salvia. Il tutto sempra complicato ma alla fine non ci vuole molto tempo, beh dipende anche dalle quantità... 
-
-Il colore degli gnocchi dipende dal tipo di patate che prendete, quelle che ho usato io erano abbastanza gialle, quindi gli gnocchi hanno un colore giallo. Se usate le patate a pasta bianca, gli gnocchi avranno un colore più chiaro.
+<p>
+  <div style="width: 100%; margin-bottom: 0">
+    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <div style="clear: both"></div>
+  </div>
+</p>
 
 <h4>Buon appetito
   <font color="red">
