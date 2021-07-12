@@ -9,6 +9,54 @@
 
 
     <url>
+        <loc>http://frangipani.raiano.ch/2021-07-13-insalata-di-pasta-con-verdure-mediterranee-grigliate/</loc>
+        <lastmod>2021-07-12T14:07:51.894Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/2014-01-15-gnocchi-di-patate-gratinati-de/</loc>
+        <lastmod>2021-07-11T16:08:23.223Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/2021-07-13-insalata-di-pasta-con-verdure-mediterranee-grigliate-de/</loc>
+        <lastmod>2021-07-11T15:51:42.322Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/2014-01-15-gnocchi-di-patate-gratinati/</loc>
+        <lastmod>2021-07-11T15:14:31.639Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/2014-07-18-polpette-di-broccoli-con-cuore-di-mozzarella-de/</loc>
+        <lastmod>2021-07-08T09:40:55.829Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/2014-07-18-polpette-di-broccoli-con-cuore-di-mozzarella/</loc>
+        <lastmod>2021-07-08T09:33:06.403Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://frangipani.raiano.ch/2021-07-06-girelle-soffici-ai-pistacchi-e-lamponi-de/</loc>
         <lastmod>2021-07-05T15:07:44.064Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -4273,14 +4321,6 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/2014-01-15-gnocchi-di-patate-gratinati/</loc>
-        <lastmod>2017-08-20T12:10:57.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>http://frangipani.raiano.ch/2014-02-18-lasagne-bianche-con-asparagi/</loc>
         <lastmod>2017-08-20T12:10:57.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -4362,14 +4402,6 @@
 
     <url>
         <loc>http://frangipani.raiano.ch/2014-07-07-torta-salata-con-patate-cipolla-e-mozzarella-affumicata/</loc>
-        <lastmod>2017-08-20T12:10:57.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/2014-07-18-polpette-di-broccoli-con-cuore-di-mozzarella/</loc>
         <lastmod>2017-08-20T12:10:57.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
