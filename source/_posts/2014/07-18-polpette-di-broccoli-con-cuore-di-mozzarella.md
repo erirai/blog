@@ -11,7 +11,7 @@ categories:
 label: 2014-07-18-polpette-di-broccoli-con-cuore-di-mozzarella
 lang: it 
 ---
-![](header.jpg "frangipani © Erica")
+![](header.jpeg "frangipani © Erica")
 
 **Polpette di Broccoli con Cuore di Mozzarella** delle polpettine vegetariane molto sfiziose. Si sente tutto il gusto dei broccoli e dentro hanno un cuore filante di mozzarella. Perfetti come finger food, per un buffet ma anche per un pranzetto diverso.
 <br />

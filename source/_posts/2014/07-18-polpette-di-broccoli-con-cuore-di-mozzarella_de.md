@@ -11,7 +11,7 @@ categories:
 label: 2014-07-18-polpette-di-broccoli-con-cuore-di-mozzarella
 lang: de
 ---
-![](../2014-07-18-polpette-di-broccoli-con-cuore-di-mozzarella/header.jpg "frangipani © Erica")
+![](../2014-07-18-polpette-di-broccoli-con-cuore-di-mozzarella/header.jpeg "frangipani © Erica")
 
 **Brokkoli-Bällchen mit Mozzarella** vegetarische und schmackhafte Gemüsebällchen. Man schmeckt den ganzen Brokkoli und drin ein Herz aus geschmolzenen Mozzarella. Perfekt als Finger Food, für ein Buffet oder für ein etwas anderes Mittagessen.
 <br />

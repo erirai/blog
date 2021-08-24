@@ -1,79 +1,71 @@
 ---
-title: Ciambella vegana ai Frutti di Bosco
+title: "Ciambella vegana ai Frutti di Bosco"
 date: 2014-07-25
 tags:
+- estate
 - dolci
 - torta
-- ribes
-- more
-- lamponi
-- fragole
-- mirtilli
 - festa della mamma
 - vegan
 categories:
 - Dolce
 - Torte
-lang: it
+label: 2014-07-25-ciambella-vegana-ai-frutti-di-bosco
+lang: it 
 ---
-![](header.jpg "frangipani © Erica")
+![](header.jpeg "frangipani © Erica")
 
-In uno dei miei libri vegan ho trovato questa ricetta e sembrava veramente invitante... L'ho fatta in 5 minuti, veramente velocissimamente! È proprio buonissima... Poi ho approfittato, dato che per il mio compleanno non ho fatto nessun dolce, lo mangiamo oggi!
-
+**Ciambella vegana ai Frutti di Bosco** una ricetta velocissima e facilissima. In uno dei miei libri vegan ho trovato questa ricetta e sembrava veramente invitante... Però l'ho adattata un pochino, soprattutto ho ridotto tantissimo lo zucchero. L'ho fatta in 5 minuti, veramente velocissimamente! È proprio ottima, leggermente croccante di fuori ma morbidissima e succosa dentro. Poi ne ho approfittato, dato che per il mio compleanno non ho fatto nessun dolce, lo mangiamo oggi!
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Ciambella vegana ai Frutti di Bosco</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>350gr</td>
             <td>farina</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2 cucchiaini</td>
             <td>lievito per dolci</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 cucchiaino</td>
             <td>bicarbonato</td>
           </tr>
-          <tr>
-            <td>350gr</td>
+          <tr itemprop="recipeIngredient">
+            <td>200gr</td>
             <td>zucchero</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>500ml</td>
-            <td>latte di riso o soia</td>
+            <td>bevanda vegetale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>150ml</td>
             <td>olio di semi</td>
           </tr>
-          <tr>
-            <td>1 cucchiaino</td>
-            <td>vaniglia in polvere</td>
+          <tr itemprop="recipeIngredient">
+            <td>qb</td>
+            <td>estratto di vaniglia</td>
           </tr>
-          <tr>
-            <td>1 cucchiaino</td>
-            <td>concentrato di vaniglia</td>
-          </tr>
-          <tr>
             <td>1 pizzico</td>
             <td>sale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>300gr</td>
             <td>frutti di bosco misti</td>
           </tr>
         </tbody>
       </table>
       <br></br>
+      <i class="pull-right" style="font-size: 80%;" itemprop="recipeYield">per una ciambella da 20-24cm</i>
     </div>
   </div>
 </div>
-
 
 <h3>
   <font color="grey">
@@ -81,26 +73,49 @@ In uno dei miei libri vegan ho trovato questa ricetta e sembrava veramente invit
   </font> Preparazione
 </h3>
 
-Allora è veramente facilissimo: setacciate la farina, il lievito ed il bicarbonato e mettete tutto in una coppa. Poi aggiungete lo zucchero e la vaniglia in polvere, mescolate con le fruste a mano. A questo punto aggiungete il latte, l'olio, il concentrato di vaniglia, un pizzico di sale e continuate a mescolare finché si sarà amalgamato tutto, fate attenzione a togliere tutti i grumi. Finite aggiungendo i frutti di bosco e finite di mescolare con un cucchiaio.
-![](impasto.jpg "frangipani © Erica")
+Setacciate la farina, il lievito ed il bicarbonato e mettete tutto in una coppa. Poi aggiungete lo zucchero e mescolate con le fruste a mano. A questo punto aggiungete il latte, l'olio, l'estratto di vaniglia, il sale e continuate a mescolare finché si sarà amalgamato tutto, fate attenzione a togliere tutti i grumi. Finite aggiungendo i frutti di bosco e finite di mescolare con un cucchiaio. Imburrate ed infarinate una forma per ciambella da 20-24cm e riempitela con l'impasto.
+<p>
+  <div style="width: 100%; margin-bottom: 0">
+    <img style="float: left; width: 49%; margin-right: 1%" src="impasto.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <div style="clear: both"></div>
+  </div>
+</p>
 
-Imburrate e infarinate una forma da ciambella da 24cm e riempitela con l'impasto.
-![](teglia.jpg "frangipani © Erica")
-
-Poi infornatela nel forno preriscaldato (statico) a 180°C per un'ora. Fate sempre la prova stecchino per essere sicuri che sia pronta... poi sfornatela, fatela raffreddare per un po' direttamente nella forma e scaravoltatela su di una griglia per farla raffreddare completamente.
-![](sfornata.jpg "frangipani © Erica")
+Poi infornatela nel forno preriscaldato a 180°C statico per un'ora. Fate sempre la prova stecchino. Fatela raffreddare direttamente nella teglia poi scaravoltatela su di un piatto da portata.
 
 Se volete potete riempire il buco al centro con dei frutti di bosco freschi e spolverare la ciambella con dello zucchero a velo.
-![](risultato.jpg "frangipani © Erica")
+<p>
+  <div style="width: 100%; margin-bottom: 0">
+    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <div style="clear: both"></div>
+  </div>
+</p>
 
+<p>
+  <div style="width: 100%; margin-bottom: 0">
+    <img style="float: left; width: 49%; margin-right: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <div style="clear: both"></div>
+  </div>
+</p>
 
-<h3>
-  <font color="#FFCC00">
-    <i class="fa fa-lightbulb-o"></i>
-  </font> P.S.
-</h3>
+<p>
+  <div style="width: 100%; margin-bottom: 0">
+    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <div style="clear: both"></div>
+  </div>
+</p>
 
-Potete accompagnare questa ciambella anche con del buon gelato alla vaniglia o ai frutti di bosco, o anche con una cremina leggera alla vaniglia...
+<p>
+  <div style="width: 100%; margin-bottom: 0">
+    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <div style="clear: both"></div>
+  </div>
+</p>
 
 <h4>Buon appetito
   <font color="red">
