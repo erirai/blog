@@ -9,6 +9,34 @@
 
 
     <url>
+        <loc>http://frangipani.raiano.ch/categories/Dolce/Torte/</loc>
+        <lastmod>2021-08-24T19:21:15.124Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/categories/Dolce/</loc>
+        <lastmod>2021-08-24T19:21:15.124Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/categories/Salato/Secondi-Piatti-e-Contorni/</loc>
+        <lastmod>2021-08-24T13:08:46.013Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/categories/Salato/</loc>
+        <lastmod>2021-08-24T13:08:46.013Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://frangipani.raiano.ch/categories/Salato/Primi-Piatti/</loc>
         <lastmod>2021-07-12T14:07:51.894Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -16,36 +44,8 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/categories/Salato/</loc>
-        <lastmod>2021-07-12T14:07:51.894Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/categories/Salato/Secondi-Piatti-e-Contorni/</loc>
-        <lastmod>2021-07-08T09:40:55.829Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://frangipani.raiano.ch/categories/Dolce/Panificati/</loc>
         <lastmod>2021-07-05T15:07:44.064Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/categories/Dolce/</loc>
-        <lastmod>2021-07-05T15:07:44.064Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/categories/Dolce/Torte/</loc>
-        <lastmod>2021-07-05T08:34:11.095Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
