@@ -8,7 +8,7 @@ tags:
 categories:
 - Dolce
 - "Crostate, Tartes..."
-label: 2020-06-04--sbriciolata-con-crema-alla-vaniglia-e-lamponi
+label: 2020-06-04-sbriciolata-con-crema-alla-vaniglia-e-lamponi
 lang: de 
 ---
 ![](../2020-06-04-sbriciolata-con-crema-alla-vaniglia-e-lamponi/header.jpeg "frangipani © Erica")
