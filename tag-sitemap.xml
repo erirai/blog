@@ -3,15 +3,29 @@
 
 
     <url>
+        <loc>http://frangipani.raiano.ch/tags/autunno/</loc>
+        <lastmod>2021-08-31T18:39:16.386Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://frangipani.raiano.ch/tags/estate/</loc>
-        <lastmod>2021-08-24T19:21:15.124Z</lastmod>
+        <lastmod>2021-08-31T18:39:16.386Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://frangipani.raiano.ch/tags/torta/</loc>
-        <lastmod>2021-08-24T19:21:15.124Z</lastmod>
+        <lastmod>2021-08-31T18:39:16.386Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/dolci/</loc>
+        <lastmod>2021-08-31T18:39:16.386Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -25,13 +39,6 @@
 
     <url>
         <loc>http://frangipani.raiano.ch/tags/festa-della-mamma/</loc>
-        <lastmod>2021-08-24T19:21:15.124Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/dolci/</loc>
         <lastmod>2021-08-24T19:21:15.124Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -102,13 +109,6 @@
 
     <url>
         <loc>http://frangipani.raiano.ch/tags/inverno/</loc>
-        <lastmod>2021-07-05T15:02:48.887Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/autunno/</loc>
         <lastmod>2021-07-05T15:02:48.887Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
