@@ -4,7 +4,7 @@
   
   <link href="http://frangipani.raiano.ch/de/atom.xml" rel="self"/>
   <link href="http://frangipani.raiano.ch/"/>
-  <updated>2021-08-31T18:39:16.386Z</updated>
+  <updated>2021-09-15T19:00:01.109Z</updated>
   <id>http://frangipani.raiano.ch/</id>
   
   <author>
@@ -13,6 +13,147 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title xml:lang="de">Vollkorn-Beeren-Küchlein</title>
+    <link href="http://frangipani.raiano.ch/2021-09-16-mini-plumcake-integrali-con-frutti-di-bosco-de/"/>
+    <id>http://frangipani.raiano.ch/2021-09-16-mini-plumcake-integrali-con-frutti-di-bosco-de/</id>
+    <published>2021-09-15T22:00:00.000Z</published>
+    <updated>2021-09-15T19:00:01.109Z</updated>
+    <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2021-09-16-mini-plumcake-integrali-con-frutti-di-bosco/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vollkorn-Beeren-Küchlein&lt;/strong&gt; eine gesunde Zwischenmahlzeit, ohne Butter, ohne Weissmehl, mit vielen Beeren und dank dem Joghurt, schön fluffig. Ein Rezept, das sehr einfach zuzubereiten ist und sich leicht an das anpassen lässt, was ihr zu Hause habt. Äpfel, Pfirsiche, aber auch Schokolade und Walnüsse statt Beeren.
+&lt;br /&gt;
+Wer den Geschmack von Vollkorn nicht mag, kann auch halb Vollkornmehl und halb Weissmehl oder nur Weissmehl verwenden. Man kann selbstverständlich auch ein normales Muffinbackblech benutzen, nur die Form ändert sich.&lt;/p&gt;
+&lt;a href=&quot;https://www.foodblogs-schweiz.ch/challenge/&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;
+ &lt;img src=&quot;https://www.foodblogs-schweiz.ch/wp-content/uploads/2021/08/September.jpg&quot; /&gt;&lt;/a&gt;
+
+&lt;p&gt;Mit diesem Rezept nehme ich an der 28. monatlichen Foodie Challenge teil, die von &lt;a href=&quot;https://www.foodblogs-schweiz.ch&quot; target=&quot;_blank&quot;&gt;Foodblogs Schweiz&lt;/a&gt; organisiert wird. Im September-Warenkorb befinden sich: Brombeeren, Himbeeren, Zwetschgen, Zucchini, Tomaten und Auberginen. Ein wunderbarer Korb! Zuerst hatte ich überlegt, etwas Herzhaftes zu machen, vielleicht etwas brotiges mit Zucchini, Auberginen und Tomaten. Aber dann wurde mir klar, dass ich dieses Jahr wenig mit Beeren gebacken habe und darum gab es etwas mit Beeren!&lt;/p&gt;
+&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
+  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
+    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
+      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Vollkorn-Beeren-Küchlein&lt;/span&gt;
+      &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
+      &lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;     
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;        
+            &lt;td&gt;2&lt;/td&gt;
+            &lt;td&gt;Eier&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;110gr&lt;/td&gt;
+            &lt;td&gt;brauner Zucker&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 Prise&lt;/td&gt;
+            &lt;td&gt;Salz&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;160gr&lt;/td&gt;
+            &lt;td&gt;Naturjoghurt&lt;/td&gt;
+          &lt;/tr&gt;      
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;180gr&lt;/td&gt;
+            &lt;td&gt;Vollkornmehl&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt; 
+            &lt;td&gt;10gr&lt;/td&gt;
+            &lt;td&gt;Backpulver&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qs&lt;/td&gt;
+            &lt;td&gt;Vanille&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qs&lt;/td&gt;
+            &lt;td&gt;Zitronenabrieb&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;      
+            &lt;td&gt;40ml&lt;/td&gt;
+            &lt;td&gt;Sonnenblumenöl&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qs&lt;/td&gt;
+            &lt;td&gt;Beeren&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;
+      &lt;br&gt;&lt;/br&gt;
+      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot; itemprop=&quot;recipeYield&quot;&gt;für 12 kleine Küchlein&lt;/i&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3&gt;
+  &lt;font color=&quot;grey&quot;&gt;
+    &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt; Zubereitung
+&lt;/h3&gt;
+
+&lt;p&gt;Eier, Zucker und Salz hellschaumig schlagen. Joghurt dazu geben und rühren, nach und nach das Mehl gemischt mit dem Backpulver dazu geben. Nun Vanille, Zitronenabrieb und Öl hinzufügen und gut fertig rühren.
+&lt;br /&gt;
+Die Vertiefungen der Backform bis zur Hälfte füllen, die Beeren darin verteilen und dann mit dem restlichen Teig bedecken.
+&lt;img src=&quot;../2021-09-16-mini-plumcake-integrali-con-frutti-di-bosco/teglia.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Die Küchlein für 20min im vorgeheizten Ofen bei 170°C Ober- und Unterhitze backen, immer Stäbchenprobe machen. Alles komplett auskühlen lassen, bevor sie aus der Form genommen werden. &lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2021-09-16-mini-plumcake-integrali-con-frutti-di-bosco/risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2021-09-16-mini-plumcake-integrali-con-frutti-di-bosco/risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2021-09-16-mini-plumcake-integrali-con-frutti-di-bosco/risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2021-09-16-mini-plumcake-integrali-con-frutti-di-bosco/risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2021-09-16-mini-plumcake-integrali-con-frutti-di-bosco/risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2021-09-16-mini-plumcake-integrali-con-frutti-di-bosco/risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2021-09-16-mini-plumcake-integrali-con-frutti-di-bosco/risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2021-09-16-mini-plumcake-integrali-con-frutti-di-bosco/risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../2021-09-16-mini-plumcake-integrali-con-frutti-di-bosco/risultato9.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;h4&gt;Buon appetito
+  &lt;font color=&quot;red&quot;&gt;
+    &lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt;
+&lt;/h4&gt;</content>
+    <summary type="html" xml:lang="de">
+    
+      &lt;p&gt;&lt;img src=&quot;../2021-09-16-mini-plumcake-integrali-con-frutti-di-bosco/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vollkorn-Beer
+    
+    </summary>
+    
+      <category term="Dolce" scheme="http://frangipani.raiano.ch/categories/Dolce/"/>
+    
+      <category term="Muffin, Cupcakes, Cake Pops..." scheme="http://frangipani.raiano.ch/categories/Dolce/Muffin-Cupcakes-Cake-Pops/"/>
+    
+    
+      <category term="dolci" scheme="http://frangipani.raiano.ch/tags/dolci/"/>
+    
+      <category term="muffin" scheme="http://frangipani.raiano.ch/tags/muffin/"/>
+    
+      <category term="estate" scheme="http://frangipani.raiano.ch/tags/estate/"/>
+    
+      <category term="autunno" scheme="http://frangipani.raiano.ch/tags/autunno/"/>
+    
+  </entry>
   
   <entry>
     <title xml:lang="de">Zwetschgen-Streuselkuchen mit Zimtcrème</title>
@@ -2957,99 +3098,6 @@ Zeichnet auf das Backpapier einen Kreis mit einem Durchmesser von etwa 20cm. Dre
       <category term="dolce al cucchiaio" scheme="http://frangipani.raiano.ch/tags/dolce-al-cucchiaio/"/>
     
       <category term="inverno" scheme="http://frangipani.raiano.ch/tags/inverno/"/>
-    
-  </entry>
-  
-  <entry>
-    <title xml:lang="de">vegetarische Toastbrot-Bäumchen</title>
-    <link href="http://frangipani.raiano.ch/2020-12-03-alberelli-di-pancarre-vegetariani-de/"/>
-    <id>http://frangipani.raiano.ch/2020-12-03-alberelli-di-pancarre-vegetariani-de/</id>
-    <published>2020-12-02T23:00:00.000Z</published>
-    <updated>2020-12-01T13:50:55.290Z</updated>
-    <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2020-12-03-alberelli-di-pancarre-vegetariani/header.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vegetarische Toastbrot-Bäumchen&lt;/strong&gt; ein köstlicher und schneller Weihnachts-Aperitif. Alles was ihr braucht ist Toastbrot und Aufstriche wie grünes Pesto, rotes Pesto, Olivenaufstrich, Hummus, Babaganoush, Frischkäse.. was auch immer ihr am liebsten mögt. Ihr könnt alles fertig kaufen oder zu Hause selbst vorbereiten, je nachdem, wie viel Zeit ihr habt. Bitte werft die Reste vom Toastbrot nicht weg, ihr könnt damit Croûtons für die Suppe machen oder sie für Fleisch-/Gemüsebällchen verwenden.
-&lt;br&gt;
-Diesen Aperitif können Kinder sehr gut selbst vorbereiten. Es ist sehr einfach und sie helfen immer gerne in der Küche und sind sehr stolz, wenn sie das dann den Gästen präsentieren können...&lt;/p&gt;
-&lt;p&gt;Ich weiss nicht, wie dieses Weihnachten aussehen wird, ich hoffe nur, dass wir alle gesund sein werden... denn selbst wenn wir alle getrennt feiern müssen, wird niemand allein sein!
-&lt;br&gt;
-Am Montag habe ich alle Geschenke eingepackt und nächste Woche werden wir sie hoffentlich ausliefern. Ich mag es, alles im Voraus zu verteilen, da man mit den Kindern in der Schule nie weiss, was passieren könnte... Ausserdem habe ich einen Gedanken weniger und Platz im Keller gemacht!&lt;/p&gt;
-&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
-  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
-    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
-      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Vegetarische Toastbrot-Bäumchen&lt;/span&gt;
-      &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
-      &lt;table&gt;
-        &lt;tbody&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;&lt;br&gt;            &lt;td&gt;Toastbrot&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;grünes Pesto, rotes Pesto, Olivenaufstrich, Frischkäse, Hummus, Babaganoush...&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;halbreifer Käse&lt;/td&gt;
-          &lt;/tr&gt;
-        &lt;/tbody&gt;
-      &lt;/table&gt;
-      &lt;br&gt;&lt;br&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;h3&gt;
-  &lt;font color=&quot;grey&quot;&gt;
-    &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt; Zubereitung
-&lt;/h3&gt;
-
-&lt;p&gt;Es braucht 4 verschieden grosse Sternausstechformen. Die Toastbrotscheiben nehmen und Sterne ausstechen. Für ein Bäumchen braucht ihr 2 grosse Toastbrotsterne, 2 mittlere und 2 kleine. Den Käse in mindestens 5mm dicke Scheiben schneiden und noch kleinere Sterne ausstechen für die Baumspitze.
-&lt;img src=&quot;../2020-12-03-alberelli-di-pancarre-vegetariani/ingredienti.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Nun können die Sterne bestrichen werden mit Pesto, Aufstrich, Käse... was ihr wollt! Macht Sandwiches damit und nehmt 3 verschieden grosse Sternbrötchen und stellt sie aufeinander. Den Käsestern mit einem Zahnstocher aufstechen und so das Bäumchen fixieren mit dem Käsestern als Baumspitze. Im Kühlschrank aufbewahren, wenn gewünscht mit rosa Pfefferkörner dekorieren...&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2020-12-03-alberelli-di-pancarre-vegetariani/risultato1.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2020-12-03-alberelli-di-pancarre-vegetariani/risultato2.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../2020-12-03-alberelli-di-pancarre-vegetariani/risultato3.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2020-12-03-alberelli-di-pancarre-vegetariani/risultato4.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2020-12-03-alberelli-di-pancarre-vegetariani/risultato5.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2020-12-03-alberelli-di-pancarre-vegetariani/risultato6.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2020-12-03-alberelli-di-pancarre-vegetariani/risultato7.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;h4&gt;Buon appetito
-  &lt;font color=&quot;red&quot;&gt;
-    &lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt;
-&lt;/h4&gt;</content>
-    <summary type="html" xml:lang="de">
-    
-      &lt;p&gt;&lt;img src=&quot;../2020-12-03-alberelli-di-pancarre-vegetariani/header.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vegetarische Toastb
-    
-    </summary>
-    
-      <category term="Salato" scheme="http://frangipani.raiano.ch/categories/Salato/"/>
-    
-      <category term="Aperitivi" scheme="http://frangipani.raiano.ch/categories/Salato/Aperitivi/"/>
-    
-    
-      <category term="natale" scheme="http://frangipani.raiano.ch/tags/natale/"/>
-    
-      <category term="aperitivo" scheme="http://frangipani.raiano.ch/tags/aperitivo/"/>
     
   </entry>
   

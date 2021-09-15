@@ -4,27 +4,34 @@
 
     <url>
         <loc>http://frangipani.raiano.ch/tags/autunno/</loc>
-        <lastmod>2021-08-31T18:39:16.386Z</lastmod>
+        <lastmod>2021-09-15T19:00:01.109Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://frangipani.raiano.ch/tags/estate/</loc>
-        <lastmod>2021-08-31T18:39:16.386Z</lastmod>
+        <lastmod>2021-09-15T19:00:01.109Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/tags/torta/</loc>
-        <lastmod>2021-08-31T18:39:16.386Z</lastmod>
+        <loc>http://frangipani.raiano.ch/tags/muffin/</loc>
+        <lastmod>2021-09-15T19:00:01.109Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://frangipani.raiano.ch/tags/dolci/</loc>
+        <lastmod>2021-09-15T19:00:01.109Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/torta/</loc>
         <lastmod>2021-08-31T18:39:16.386Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -277,13 +284,6 @@
 
     <url>
         <loc>http://frangipani.raiano.ch/tags/rabarbaro/</loc>
-        <lastmod>2021-07-05T07:54:43.003Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/muffin/</loc>
         <lastmod>2021-07-05T07:54:43.003Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
