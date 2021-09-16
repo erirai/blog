@@ -9,6 +9,22 @@
 
 
     <url>
+        <loc>http://frangipani.raiano.ch/2017-09-05-cobbler-di-more/</loc>
+        <lastmod>2021-09-16T08:50:20.264Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/2017-09-05-cobbler-di-more-de/</loc>
+        <lastmod>2021-09-16T08:50:11.186Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://frangipani.raiano.ch/2021-09-16-mini-plumcake-integrali-con-frutti-di-bosco-de/</loc>
         <lastmod>2021-09-15T19:00:01.109Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1859,14 +1875,6 @@
     <url>
         <loc>http://frangipani.raiano.ch/2018-01-30-frittelle-di-ricotta-e-mele-de/</loc>
         <lastmod>2020-02-17T14:58:47.791Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/2017-09-05-cobbler-di-more-de/</loc>
-        <lastmod>2020-01-15T14:02:32.347Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -4107,14 +4115,6 @@
     <url>
         <loc>http://frangipani.raiano.ch/2016-09-24-torta-cioccolato-e-pere/</loc>
         <lastmod>2017-09-11T12:26:48.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/2017-09-05-cobbler-di-more/</loc>
-        <lastmod>2017-09-04T07:43:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
