@@ -9,6 +9,30 @@
 
 
     <url>
+        <loc>http://frangipani.raiano.ch/2021-10-18-crostata-di-pere-e-cioccolato-de/</loc>
+        <lastmod>2021-10-17T19:02:45.566Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/2021-10-18-crostata-di-pere-e-cioccolato/</loc>
+        <lastmod>2021-10-17T18:42:17.557Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/2013-10-31-halloween-cupcakes/</loc>
+        <lastmod>2021-10-17T16:55:28.362Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://frangipani.raiano.ch/2021-10-13-rosti-di-zucca-e-patate-con-funghi-e-panna-de/</loc>
         <lastmod>2021-10-12T16:08:22.856Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -4346,14 +4370,6 @@
 
     <url>
         <loc>http://frangipani.raiano.ch/2013-10-18-crostata-di-lamponi/</loc>
-        <lastmod>2017-08-20T12:10:57.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/2013-10-31-halloween-cupcakes/</loc>
         <lastmod>2017-08-20T12:10:57.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
