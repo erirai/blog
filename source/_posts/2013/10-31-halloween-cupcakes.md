@@ -49,7 +49,7 @@ Dolcetto o scherzetto? Mi piace troppo Halloween, peccato che qui in Svizzera no
           </tr>
           <tr>
             <td>125ml</td>
-            <td>siero di burro</td>
+            <td>latticello</td>
           </tr>
           <tr>
             <td>1 cucchiaio</td>
@@ -85,7 +85,7 @@ Dolcetto o scherzetto? Mi piace troppo Halloween, peccato che qui in Svizzera no
           </tr>
           <tr>
             <td>Marmellata di lamponi</td>
-            <td></td>    
+            <td>qb</td>    
           </tr>
         </tbody>
       </table>
