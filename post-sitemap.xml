@@ -9,6 +9,22 @@
 
 
     <url>
+        <loc>http://frangipani.raiano.ch/2013-10-31-halloween-cupcakes-de/</loc>
+        <lastmod>2021-10-26T13:08:09.571Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/2013-10-31-halloween-cupcakes/</loc>
+        <lastmod>2021-10-26T13:01:38.025Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://frangipani.raiano.ch/2021-10-18-crostata-di-pere-e-cioccolato-de/</loc>
         <lastmod>2021-10-17T19:02:45.566Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -19,14 +35,6 @@
     <url>
         <loc>http://frangipani.raiano.ch/2021-10-18-crostata-di-pere-e-cioccolato/</loc>
         <lastmod>2021-10-17T18:42:17.557Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/2013-10-31-halloween-cupcakes/</loc>
-        <lastmod>2021-10-17T16:55:28.362Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
