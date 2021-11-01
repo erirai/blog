@@ -1,5 +1,5 @@
 ---
-title: Brownies
+title: "Brownies"
 date: 2013-10-26
 tags:
 - cioccolato
@@ -10,61 +10,68 @@ tags:
 categories:
 - Dolce
 - Biscotti
+label: 2013-10-26-brownies
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](header.jpeg "frangipani © Erica")
 
-Avevo voglia di qualcosa di cioccolatoso dato che quà è iniziato definitivamente l'autunno. Non è per qualcosa ma non ho mai mangiato Brownies così buoni come questi!
+**Brownies** super cioccolatosi con le noci. Belli morbidi e umidi all'interno, così come i Brownies devono essere. Non è per qualcosa, ma non ho mai mangiato Brownies così buoni come questi! A me piace aggiungere le noci per dare quel tocco croccante, ma anche perché noci e cioccolato stanno benissimo insieme. Ma penso che ci starebbero bene anche le noci Pecan.
+<br />
+Appena inizia a fare freschetto mi viene voglia di Brownies. In estate non li faccio mai, ma appena arriva l'autunno e l'arietta inizia a farsi più freschetta, taaac.
+<br />
+Questa ricetta è vecchissima ed è quella che fa sempre mia Mamma. Non ho neanche provato a farne altre, perché questa è perfetta e se si parla di Brownies, io penso sempre e solo a questi. Lo so che mezzo chilo di cioccolato potrebbe sembrare esagerato, ma credetemi se vi dico che ne vale assolutamente la pena!
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Brownies</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
-          <tr>
+          </tr>      
+          <tr itemprop="recipeIngredient">        
             <td>300gr</td>
             <td>cioccolato fondente</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>200gr</td>
             <td>cioccolato al latte</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>200gr</td>
-            <td>burro o margarina</td>
+            <td>burro</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100gr</td>
             <td>farina</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>200gr</td>
             <td>zucchero</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>4</td>
             <td>uova</td>
           </tr>
-          <tr>
-            <td>2 bustine</td>
-            <td>zucchero vanigliato</td>
-          </tr>
-          <tr>
-            <td>200gr</td>
-            <td>noci sgusciate</td>
-          </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">        
             <td>qb</td>
-            <td>sale</td>
+            <td>vaniglia</td>
+          </tr>
+          <tr itemprop="recipeIngredient">
+            <td>1 pizzico</td>
+            <td>sale</td> 
+          </tr>
+          <tr itemprop="recipeIngredient">
+            <td>200gr</td>
+            <td>noci sgusciate (facoltativo)</td>
           </tr>
         </tbody>
       </table>
       <br></br>
+      <i class="pull-right" style="font-size: 80%;" itemprop="recipeYield">per una teglia da 27x38cm</i>
     </div>
   </div>
 </div>
-
 
 <h3>
   <font color="grey">
@@ -72,12 +79,26 @@ Avevo voglia di qualcosa di cioccolatoso dato che quà è iniziato definitivamen
   </font> Preparazione
 </h3>
 
-Mettete tutto il cioccolato ed il burro a sciogliere a bagnomaria. Nel frattempo mettete in una ciotola la farina, lo zucchero, lo zucchero vanigliato, le uova ed un pizzico di sale e mescolate il tutto con il mixer o con la planetaria per 10min. Quando il cioccolato sarà sciolto aggiungegelo all'impasto e mescolate ancora per 5min. Fate le noci a pezzettini (io lo faccio con il batticarne) ed aggiungeteli all'impasto e mescolate a mano. Prendete una teglia da 27x38cm metteteci un foglio di carta forno e versateci tendo l'impasto. Infornate nel forno preriscaldato a 200°C per 30min. Quando saranno freddi tagliateli a cubetti e cospargeteli di zucchero a velo.
-![](risultato1.jpg "frangipani © Erica")
+Mettete tutto il cioccolato ed il burro a sciogliere a bagnomaria. Nel frattempo mettete in una ciotola farina, zucchero, vaniglia, uova ed un pizzico di sale e mescolate il tutto con il mixer o nella planetaria finché il composto sarà bello chiaro e gonfio. Quando il cioccolato sarà sciolto aggiungetelo al composto con le uova e mescolate ancora per 1min. Tritate grossolanamente le noci e aggiungetele all'impasto e incorporatele a mano con una spatola. Prendete una teglia da 27x38cm ricoperta da carta forno, versateci l'impasto e livellate bene.
+<br />
+Infornate nel forno preriscaldato a 180°C ventilato per 25-30min. Dovrete vedere sulla superficie quella pellicina tipica dei Brownies. Quando saranno freddi tagliateli a cubetti e conservateli in un contenitore di latta o di vetro.
+<p>
+  <div style="width: 100%; margin-bottom: 0">
+    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <div style="clear: both"></div>
+  </div>
+</p>
 
-![](risultato2.jpg "frangipani © Erica")
+<p>
+  <div style="width: 100%; margin-bottom: 0">
+    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <div style="clear: both"></div>
+  </div>
+</p>
 
-![](risultato3.jpg "frangipani © Erica")
+![](risultato5.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">
