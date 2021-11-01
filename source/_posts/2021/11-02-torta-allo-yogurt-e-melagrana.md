@@ -19,7 +19,7 @@ Ho preparato questa torta qualche settimana fa, per merenda dopo una passeggiata
 <br />
 Come ispirazione ho usato la ricetta della mia <a href="https://frangipani.raiano.ch/2019-02-19-torta-soffice-alle-mele/" target="_blank">Torta soffice alle mele</a> che adoro follemente! Ma avevo in testa anche questa <a href="https://frangipani.raiano.ch/2018-11-16-torta-soffice-con-melograno/" target="_blank">Torta soffice con melagrana</a> con quei chicchi dal colore stupendo.
 
-Eh niente, siamo arrivati a novembre. Dovrei scrivere qualcosa tipo: Benvenuto Novembre. NO! Chi mi segue o legge da un po' sa che novembre non è prorio il mio mese preferito, anzi. Per niente. Finito ottobre passerei subito a dicembre. Dedicherò le prossime settimane proprio al natale, nel senso che vorrei prendere e preparare già tutti i regali, comprare le candele per la corona d'avvento, scrivere i post con le ricette natalizie. In questo modo avrò dicembre libero per godermi l'atmosfera natalizia senza dover correre a destra e sinistra.
+Eh niente, siamo arrivati a novembre. Dovrei scrivere qualcosa tipo: Benvenuto Novembre. NO! Chi mi segue o legge da un po' sa che novembre non è proprio il mio mese preferito, anzi. Per niente. Finito ottobre passerei subito a dicembre. Dedicherò le prossime settimane proprio al natale, nel senso che vorrei prendere e preparare già tutti i regali, comprare le candele per la corona d'avvento, scrivere i post con le ricette natalizie. In questo modo avrò dicembre libero per godermi l'atmosfera natalizia senza dover correre a destra e sinistra.
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
