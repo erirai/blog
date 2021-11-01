@@ -4,7 +4,7 @@
   
   <link href="http://frangipani.raiano.ch/de/atom.xml" rel="self"/>
   <link href="http://frangipani.raiano.ch/"/>
-  <updated>2021-10-17T19:02:45.566Z</updated>
+  <updated>2021-10-27T09:37:13.239Z</updated>
   <id>http://frangipani.raiano.ch/</id>
   
   <author>
@@ -13,6 +13,141 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title xml:lang="de">Granatapfel-Joghurtkuchen</title>
+    <link href="http://frangipani.raiano.ch/2021-11-02-torta-allo-yogurt-e-melagrana-de/"/>
+    <id>http://frangipani.raiano.ch/2021-11-02-torta-allo-yogurt-e-melagrana-de/</id>
+    <published>2021-11-01T23:00:00.000Z</published>
+    <updated>2021-10-27T09:37:13.239Z</updated>
+    <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2021-11-02-torta-allo-yogurt-e-melagrana/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Granatapfel-Joghurtkuchen&lt;/strong&gt; sehr fluffig, weich, lecker und voller saftiger Granatapfelkörner, welche nein, nicht stören! Beim Backen werden die Kerne weich und geben die richtige knusprige Note.&lt;/p&gt;
+&lt;p&gt;Ich habe diesen Kuchen vor ein paar Wochen für den z&amp;#39;Vieri, nach einem Spaziergang mit meiner Familie gebacken. Auch weil mein Schwager mir viele Granatäpfel mitgebracht hatte, die gegessen werden mussten. Sie waren grossartig, süss und saftig. Der Kuchen hat sehr geschmeckt und niemand hat sich über die Kerne beschwert, ganz im Gegenteil. Wir alle bemerkten, dass die Samen beim Backen weicher wurden, aber doch knusprig blieben.
+&lt;br /&gt;
+Als Inspiration habe ich das Rezept von meinem &lt;a href=&quot;https://frangipani.raiano.ch/2019-02-19-torta-soffice-alle-mele-de/&quot; target=&quot;_blank&quot;&gt;fluffigen Apfelkuchen&lt;/a&gt; verwendet, den ich wahnsinnig liebe! Aber auch diesen &lt;a href=&quot;https://frangipani.raiano.ch/2018-11-16-torta-soffice-con-melograno-de/&quot; target=&quot;_blank&quot;&gt;Blechkuchen mit Granatapfel&lt;/a&gt; hatte ich im Hinterkopf, mit diesen wunderschönen farbigen Körner.&lt;/p&gt;
+&lt;p&gt;Ja nichts, wir sind im November angekommen. Ich sollte etwas schreiben wie: Willkommen November. NEIN! Wer mir folgt oder schon länger liest, weiss, dass der November nicht mein Lieblingsmonat ist, ganz im Gegenteil. Überhaupt nicht. Nach Oktober würde ich direkt zum Dezember übergehen. Ich werde die nächsten Wochen den Weihnachtsvorbereitungen widmen, im Sinne, dass ich schon alle Geschenke kaufen und vorbereiten möchte, Kerzen für den Adventskranz kaufen und die Posts mit Weihnachtsrezepten schreiben. So habe ich den Dezember frei, um die Weihnachtsstimmung zu geniessen, ohne nach links und rechts laufen zu müssen.&lt;/p&gt;
+&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
+  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
+    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
+      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Granatapfel-Joghurtkuchen&lt;/span&gt;
+      &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
+      &lt;table&gt;
+        &lt;tbody&gt;
+          &lt;/tr&gt;      
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;        
+            &lt;td&gt;3&lt;/td&gt;
+            &lt;td&gt;Eier&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;150gr&lt;/td&gt;
+            &lt;td&gt;Muscovado oder brauner Zucker&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qs&lt;/td&gt;
+            &lt;td&gt;Vanille&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 Prise&lt;/td&gt;
+            &lt;td&gt;Salz&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;180gr&lt;/td&gt;
+            &lt;td&gt;Naturjoghurt ungezuckert&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;120gr&lt;/td&gt;
+            &lt;td&gt;Sonnenblumenöl&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;        
+            &lt;td&gt;250gr&lt;/td&gt;
+            &lt;td&gt;Mehl&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1/2 Päckchen&lt;/td&gt;
+            &lt;td&gt;Backpulver&lt;/td&gt; 
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1&lt;/td&gt;
+            &lt;td&gt;mittelgrossen Granatapfel&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qs&lt;/td&gt;
+            &lt;td&gt;Hagelzucker&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;
+      &lt;br&gt;&lt;/br&gt;
+      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot; itemprop=&quot;recipeYield&quot;&gt;für eine 18-22cm runde Backform&lt;/i&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3&gt;
+  &lt;font color=&quot;grey&quot;&gt;
+    &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt; Zubereitung
+&lt;/h3&gt;
+
+&lt;p&gt;Eier, Zucker, Vanille und Salz in die Küchenmaschine geben und so lange rühren bis die Masse hellschaumig geworden ist. Weiterrühren und Öl sowie den Joghurt dazu geben. Mehl und Backpulver sieben und unterrühren. Zum Schluss kommen noch die Granatapfelkerne dazu (ein Paar auf die Seite legen) und mit einem Kochlöffel vermengen. Dieser Teig kommt in eine runde eingebutterte und bemehlte Backform (ich habe eine 20cm Backform genommen), dann noch die restlichen Granatapfelkerne und etwas Hagelzucker darüber verteilen.
+&lt;img src=&quot;../2021-11-02-torta-allo-yogurt-e-melagrana/teglia.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Der Kuchen kommt für ca. 50-60min in den vorgeheizten Ofen bei 180°C Ober- und Unterhitze. Immer die Stäbchenprobe machen! Je kleiner die Form ist, umso länger dauert es, bis der Kuchen durch ist... Leicht auskühlen lassen, bevor sie angeschnitten wird.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2021-11-02-torta-allo-yogurt-e-melagrana/risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2021-11-02-torta-allo-yogurt-e-melagrana/risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2021-11-02-torta-allo-yogurt-e-melagrana/risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2021-11-02-torta-allo-yogurt-e-melagrana/risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2021-11-02-torta-allo-yogurt-e-melagrana/risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2021-11-02-torta-allo-yogurt-e-melagrana/risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2021-11-02-torta-allo-yogurt-e-melagrana/risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2021-11-02-torta-allo-yogurt-e-melagrana/risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+
+&lt;h4&gt;Buon appetito
+  &lt;font color=&quot;red&quot;&gt;
+    &lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt;
+&lt;/h4&gt;</content>
+    <summary type="html" xml:lang="de">
+    
+      &lt;p&gt;&lt;img src=&quot;../2021-11-02-torta-allo-yogurt-e-melagrana/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Granatapfel-Joghurtkuchen&lt;/
+    
+    </summary>
+    
+      <category term="Dolce" scheme="http://frangipani.raiano.ch/categories/Dolce/"/>
+    
+      <category term="Torte" scheme="http://frangipani.raiano.ch/categories/Dolce/Torte/"/>
+    
+    
+      <category term="dolci" scheme="http://frangipani.raiano.ch/tags/dolci/"/>
+    
+      <category term="autunno" scheme="http://frangipani.raiano.ch/tags/autunno/"/>
+    
+      <category term="melagrana" scheme="http://frangipani.raiano.ch/tags/melagrana/"/>
+    
+  </entry>
   
   <entry>
     <title xml:lang="de">Birnen-Schokolade-Mürbeteigtarte</title>
@@ -2886,194 +3021,6 @@ Papierförmchen in die Muffinform geben oder eine Silikonform benutzen und die F
       <category term="muffin salati" scheme="http://frangipani.raiano.ch/tags/muffin-salati/"/>
     
       <category term="antipasto" scheme="http://frangipani.raiano.ch/tags/antipasto/"/>
-    
-  </entry>
-  
-  <entry>
-    <title xml:lang="de">Red Velvet Chiffon Cake gefüllt mit Mascarponecrème</title>
-    <link href="http://frangipani.raiano.ch/2021-02-09-fluffosa-red-velvet-farcita-con-camy-cream-de/"/>
-    <id>http://frangipani.raiano.ch/2021-02-09-fluffosa-red-velvet-farcita-con-camy-cream-de/</id>
-    <published>2021-02-08T23:00:00.000Z</published>
-    <updated>2021-02-09T20:23:39.165Z</updated>
-    <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2021-02-09-fluffosa-red-velvet-farcita-con-camy-cream/header.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Red Velvet Chiffon Cake gefüllt mit Mascarponecrème&lt;/strong&gt;, ein Klassiker, leicht überarbeitet, der das perfekte Dessert für Valentinstag oder Weihnachten ist. Der Red Velvet Chiffon Cake, fluffig wie ein Wölkchen, rot und mit zartem Geschmack, gefüllt mit einer wunderbaren Mascarponecrème (Camy Cream), der einfachsten Crème überhaupt!
-&lt;br&gt;
-Ich liebe diese Desserts, die sehr einfach zuzubereiten sind, aber eine grosse Wirkung haben! Und das ist so eine Torte. Das Schöne am Chiffon Cake ist, dass er auch in einer normalen Backform gemacht werden kann. Mit diesen Mengen, ist auch eine runde 18-20cm Backform oder eine Bundtcakeform von 20-22cm gut. Diese Backformen müssen jedoch bebuttert und bemehlt werden. Der Effekt wird jedoch nicht der gleiche sein. Wenn ihr die Chiffon Cake-Backform verwendet, wird der Kuchen höher und fluffiger, gerade weil die Form gestürzt wird und so bleibt, bis er vollständig kalt ist, ein bisschen wie beim Panettone und der Colomba.
-&lt;br&gt;
-In der Camy Cream habe ich auch Orangenabrieb hinzufügen, weil dieser in diesem Fall besser zu dem leichten Kakaogeschmack passt, den man im Chiffon Cake schmeckt. Wenn ihr möchtet, könnt ihr der Camy Cream auch einige Schokoladenstückchen hinzufügen, um einen knusprigen Touch zu haben. Mein Mann nahm sogar ein Stück von diesem Kuchen und verteilte Haselnusscrème darauf. Er nennt sie, als guter Informatiker, Upgrades.&lt;/p&gt;
-&lt;p&gt;Ich wünsche euch einen schönen Valentinstag! Aber bitte, seid jeden Tag nett... Blumen, eine Schachtel Pralinen, ein kleines Geschenk, ein Brief sind auch das ganze Jahr über erlaubt. Nur am 14. Februar an unsere Liebsten zu denken und den Rest des Jahres sie zu vergessen, macht keinen Sinn. Diese alltäglichen Gesten der Zuneigung machen immer Freude... &lt;/p&gt;
-&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
-  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
-    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
-      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Red Velvet Chiffon Cake gefüllt mit Mascarponecrème&lt;/span&gt;
-      &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
-      &lt;table&gt;
-        &lt;tbody&gt;
-          
-          &lt;tr style=&quot;height: 15px;&quot;&gt;&lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Red Velvet Chiffon Cake&lt;/b&gt;&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;3&lt;/td&gt;
-            &lt;td&gt;Eier&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;2 Tropfen&lt;/td&gt;
-            &lt;td&gt;Zitronensaft&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;150gr&lt;/td&gt;
-            &lt;td&gt;Mehl&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;10gr&lt;/td&gt;
-            &lt;td&gt;Kakaopulver&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;150gr&lt;/td&gt;
-            &lt;td&gt;Zucker&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;7gr&lt;/td&gt;
-            &lt;td&gt;Backpulver&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 Prise&lt;/td&gt;
-            &lt;td&gt;Salz&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;65ml&lt;/td&gt;
-            &lt;td&gt;Sonnenblumenöl&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;150ml&lt;/td&gt;
-            &lt;td&gt;Wasser&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qs&lt;/td&gt;
-            &lt;td&gt;rote Lebensmittelfarbe&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr style=&quot;height: 15px;&quot;&gt;&lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Mascaraponecrème&lt;/b&gt;&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;250gr&lt;/td&gt;
-            &lt;td&gt;Mascarpone&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;&lt;br&gt;            &lt;td&gt;125gr&lt;/td&gt;
-            &lt;td&gt;Vollrahm&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;90gr&lt;/td&gt;
-            &lt;td&gt;gesüsste Kondensmilch&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qs&lt;/td&gt;
-            &lt;td&gt;Orangenabrieb&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qs&lt;/td&gt;
-            &lt;td&gt;Vanilleessenz&lt;/td&gt;
-          &lt;/tr&gt;
-        &lt;/tbody&gt;
-      &lt;/table&gt;
-      &lt;br&gt;&lt;br&gt;
-      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot; itemprop=&quot;recipeYield&quot;&gt;für eine 18cm Chiffon Cake Backform&lt;/i&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;h3&gt;
-  &lt;font color=&quot;grey&quot;&gt;
-    &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt; Zubereitung
-&lt;/h3&gt;
-
-&lt;p&gt;Eiweiss vom Eigelb trennen und Eiweiss zusammen mit 2 Tropfen Zitronensaft steif schlagen. In einer separaten Schüssel Eigelb zusammen mit Sonnenblumenöl und Wasser mit dem Handmixer verquirlen. Nun den Zucker dazu geben und alles gut rühren. Dann Mehl, Kakaopulver, Backpulver und Salz, alles gesiebt, dazu geben und nochmals gut mixen bis der Teig schön glatt und geschmeidig ist. Lebensmittelfarbe dazu geben und gut vermengen. Nun nach und nach Eiweiss vorsichtig unterheben. Den Teig in die Backform geben, OHNE diese zu bebuttern oder bemehlen.
-&lt;br&gt;
-Den Red Velvet Chiffon Cake kommt für 70-75min in den vorgeheizten Ofen bei 160°C Ober- und Unterhitze. Macht wie immer die Stäbchenprobe. Sobald ihr den Kuchen aus dem Ofen herausgenommen habt, die Backform stürzen und so auskühlen lassen bis der Kuchen von alleine aus der Form fällt. Das kann einige Stunden dauern. Falls der Kuchen nicht von alleine aus der Form fällt, kann sie von Hand gelöst werden.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 32%; margin-right: 1%;&quot; src=&quot;../2021-02-09-fluffosa-red-velvet-farcita-con-camy-cream/impasto.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
-    &lt;img style=&quot;float: left; width: 32%; margin-right: 1%; margin-left: 1%;&quot; src=&quot;../2021-02-09-fluffosa-red-velvet-farcita-con-camy-cream/teglia.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
-    &lt;img style=&quot;float: left; width: 32%; margin-left: 1%;&quot; src=&quot;../2021-02-09-fluffosa-red-velvet-farcita-con-camy-cream/tegliagirata.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;In der Zwischenzeit die Mascarponecrème zubereiten. Alle Zutaten dafür, kalt aus dem Kühlschrank, in die Küchenmaschine geben und so lange rühren, bis die Creme schön steif geworden ist (wenn die Schüssel und der Schneebesen auch kalt sind, geht es noch schneller). Mascarponecrème für 2h im Kühlschrank ruhen lassen.
-&lt;br&gt;
-Nun den Chiffon Cake waagrecht in 3 gleich dicke Scheiben schneiden. Die Mascarponecrème in ein Spritzbeutel mit glatter, runder Tülle geben. Nehmt die erste Scheibe und setzt sie auf einen Servierteller, dann bedeckt die Schnittfläche mit Crème-Tuffs. Die mittlere Scheibe vorsichtig darauf legen und wieder mit Crème-Tuffs bedecken. Die letzte Scheibe darauf legen und mit den Crème-Tuffs fertigstellen.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 32%; margin-right: 1%;&quot; src=&quot;../2021-02-09-fluffosa-red-velvet-farcita-con-camy-cream/camycream.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
-    &lt;img style=&quot;float: left; width: 32%; margin-right: 1%; margin-left: 1%;&quot; src=&quot;../2021-02-09-fluffosa-red-velvet-farcita-con-camy-cream/fluffosa.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
-    &lt;img style=&quot;float: left; width: 32%; margin-left: 1%;&quot; src=&quot;../2021-02-09-fluffosa-red-velvet-farcita-con-camy-cream/farcire.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Den Red Velvet Chiffon Cake mit Mascarponecrème eine Stunde im Kühlschrank ruhen lassen! Dann im Kühlschrank aufbewahren, falls etwas übrig bleibt...&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2021-02-09-fluffosa-red-velvet-farcita-con-camy-cream/risultato1.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2021-02-09-fluffosa-red-velvet-farcita-con-camy-cream/risultato2.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2021-02-09-fluffosa-red-velvet-farcita-con-camy-cream/risultato3.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2021-02-09-fluffosa-red-velvet-farcita-con-camy-cream/risultato4.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2021-02-09-fluffosa-red-velvet-farcita-con-camy-cream/risultato5.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2021-02-09-fluffosa-red-velvet-farcita-con-camy-cream/risultato6.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2021-02-09-fluffosa-red-velvet-farcita-con-camy-cream/risultato7.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2021-02-09-fluffosa-red-velvet-farcita-con-camy-cream/risultato8.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../2021-02-09-fluffosa-red-velvet-farcita-con-camy-cream/risultato9.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;h4&gt;Buon appetito
-  &lt;font color=&quot;red&quot;&gt;
-    &lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt;
-&lt;/h4&gt;</content>
-    <summary type="html" xml:lang="de">
-    
-      &lt;p&gt;&lt;img src=&quot;../2021-02-09-fluffosa-red-velvet-farcita-con-camy-cream/header.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Red Velvet
-    
-    </summary>
-    
-      <category term="Dolce" scheme="http://frangipani.raiano.ch/categories/Dolce/"/>
-    
-      <category term="Torte" scheme="http://frangipani.raiano.ch/categories/Dolce/Torte/"/>
-    
-    
-      <category term="natale" scheme="http://frangipani.raiano.ch/tags/natale/"/>
-    
-      <category term="torta" scheme="http://frangipani.raiano.ch/tags/torta/"/>
-    
-      <category term="san valentino" scheme="http://frangipani.raiano.ch/tags/san-valentino/"/>
-    
-      <category term="dolce" scheme="http://frangipani.raiano.ch/tags/dolce/"/>
     
   </entry>
   

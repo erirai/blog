@@ -9,14 +9,28 @@
 
 
     <url>
-        <loc>http://frangipani.raiano.ch/categories/Dolce/Muffin-Cupcakes-Cake-Pops/</loc>
-        <lastmod>2021-10-26T13:08:09.571Z</lastmod>
+        <loc>http://frangipani.raiano.ch/categories/Dolce/Torte/</loc>
+        <lastmod>2021-11-01T13:54:18.409Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://frangipani.raiano.ch/categories/Dolce/</loc>
+        <lastmod>2021-11-01T13:54:18.409Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/categories/Dolce/Biscotti/</loc>
+        <lastmod>2021-11-01T10:47:30.529Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/categories/Dolce/Muffin-Cupcakes-Cake-Pops/</loc>
         <lastmod>2021-10-26T13:08:09.571Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -39,20 +53,6 @@
     <url>
         <loc>http://frangipani.raiano.ch/categories/Salato/</loc>
         <lastmod>2021-10-12T16:08:22.856Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/categories/Dolce/Biscotti/</loc>
-        <lastmod>2021-09-28T14:07:53.921Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/categories/Dolce/Torte/</loc>
-        <lastmod>2021-08-24T19:21:15.124Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
