@@ -9,6 +9,54 @@
 
 
     <url>
+        <loc>http://frangipani.raiano.ch/2014-03-04-tiramisu-de/</loc>
+        <lastmod>2021-11-02T14:07:01.281Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/2014-03-04-tiramisu/</loc>
+        <lastmod>2021-11-02T14:00:13.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/2015-07-12-sale-alle-erbe-de/</loc>
+        <lastmod>2021-11-02T13:55:34.449Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/2015-07-12-sale-alle-erbe/</loc>
+        <lastmod>2021-11-02T13:54:53.098Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/2018-03-14-torta-tiramisu-de/</loc>
+        <lastmod>2021-11-02T13:29:36.093Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/2018-03-14-torta-tiramisu/</loc>
+        <lastmod>2021-11-02T11:04:53.647Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://frangipani.raiano.ch/2021-11-02-torta-allo-yogurt-e-melagrana/</loc>
         <lastmod>2021-11-01T16:48:06.327Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1633,22 +1681,6 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/2018-03-14-torta-tiramisu/</loc>
-        <lastmod>2020-03-04T17:02:07.294Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/2018-03-14-torta-tiramisu-de/</loc>
-        <lastmod>2020-03-04T17:02:07.294Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>http://frangipani.raiano.ch/2018-03-22-focaccia-farcita-con-farinata-e-scarola-de/</loc>
         <lastmod>2020-03-04T17:02:07.294Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -2227,14 +2259,6 @@
     <url>
         <loc>http://frangipani.raiano.ch/2019-05-08-asparagi-in-padella-al-limone/</loc>
         <lastmod>2019-05-07T18:55:49.271Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/2014-03-04-tiramisu/</loc>
-        <lastmod>2019-05-03T15:00:45.728Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -4690,14 +4714,6 @@
 
     <url>
         <loc>http://frangipani.raiano.ch/2015-07-11-zucchine-in-agrodolce/</loc>
-        <lastmod>2017-08-20T12:10:57.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/2015-07-12-sale-alle-erbe/</loc>
         <lastmod>2017-08-20T12:10:57.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
