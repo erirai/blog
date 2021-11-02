@@ -9,6 +9,30 @@
 
 
     <url>
+        <loc>http://frangipani.raiano.ch/2021-11-02-torta-allo-yogurt-e-melagrana-de/</loc>
+        <lastmod>2021-11-02T15:21:31.648Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/2021-11-02-torta-allo-yogurt-e-melagrana/</loc>
+        <lastmod>2021-11-02T15:20:31.841Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/2015-07-12-sale-alle-erbe-de/</loc>
+        <lastmod>2021-11-02T14:48:18.938Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://frangipani.raiano.ch/2014-03-04-tiramisu-de/</loc>
         <lastmod>2021-11-02T14:07:01.281Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -19,14 +43,6 @@
     <url>
         <loc>http://frangipani.raiano.ch/2014-03-04-tiramisu/</loc>
         <lastmod>2021-11-02T14:00:13.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/2015-07-12-sale-alle-erbe-de/</loc>
-        <lastmod>2021-11-02T13:55:34.449Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -57,14 +73,6 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/2021-11-02-torta-allo-yogurt-e-melagrana/</loc>
-        <lastmod>2021-11-01T16:48:06.327Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>http://frangipani.raiano.ch/2013-10-26-brownies-de/</loc>
         <lastmod>2021-11-01T10:47:30.529Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -75,14 +83,6 @@
     <url>
         <loc>http://frangipani.raiano.ch/2013-10-26-brownies/</loc>
         <lastmod>2021-11-01T10:43:49.343Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/2021-11-02-torta-allo-yogurt-e-melagrana-de/</loc>
-        <lastmod>2021-10-27T09:37:13.239Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 

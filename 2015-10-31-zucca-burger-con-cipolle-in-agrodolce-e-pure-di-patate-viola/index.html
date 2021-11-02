@@ -102,10 +102,56 @@
       }
     </style>
     <!--<style>
-    body {
-      cursor: url(data:image/svg+xml;utf8;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiIHdpZHRoPSI2cHgiIGhlaWdodD0iMTkuN3B4IiB2aWV3Qm94PSIwIDAgNiAxOS43IiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCA2IDE5Ljc7IiB4bWw6c3BhY2U9InByZXNlcnZlIj48Zz48Zz48cGF0aCBkPSJNMCwzLjFjMCwxLjYsMC40LDMuNSwxLDUuMWMwLjMsMC44LDAuNywxLjYsMS4xLDIuMWMwLjIsMC41LDAuNCwwLjgsMC42LDJDMi43LDEyLjksMywxOC4yLDMsMTguN2MwLDAsMCwwLjEsMCwwLjFjMCwwLjIsMCwwLjQsMC4xLDAuNmMwLjEsMC4yLDAuMiwwLjMsMC40LDAuM2MwLDAsMCwwLDAsMGMwLjIsMCwwLjMtMC4xLDAuMy0wLjJjMC4xLTAuMSwwLjEtMC4zLDAuMS0wLjVjMC0wLjEsMC0wLjEsMC0wLjJjMC0wLjctMC4yLTUuOC0wLjEtNi41YzAtMS4xLDAuNS0xLjYsMC43LTEuOGMwLDAsMCwwLDAsMEM0LjgsMTAsNSw5LjUsNS4zLDguOEM1LjgsNy40LDYuMSw1LjYsNiwzLjljMC0wLjEsMC0wLjMsMC0wLjRDNS45LDEuOCw0LjUsMC4yLDIuOCwwdjBsMCwwYzAsMCwwLDAsMCwwQzEuMS0wLjIsMCwxLjEsMCwyLjdDMCwyLjksMCwzLDAsMy4xeiBNMy42LDEwLjlDNCwxMC4xLDUuMiw3LjEsNS4xLDQuNGMwLTEuNi0wLjYtMy4yLTItNC4yQzQuNSwwLjYsNS43LDIsNS44LDMuNWMwLDAuMSwwLDAuMywwLDAuNGMwLjEsMS43LTAuMiwzLjUtMC43LDQuOUM0LjcsOS45LDQuMiwxMC43LDMuNiwxMC45eiBNMy42LDEwLjVDMy43LDkuNSwzLjgsNywzLjcsNC44QzMuNiwyLjQsMy4zLDEsMy4xLDAuNGMxLjMsMC45LDEuOCwyLjQsMS44LDMuOUM1LDYsNC42LDcuNiw0LjIsOC45QzQsOS42LDMuNywxMC4yLDMuNiwxMC41eiBNMy4yLDE4LjlDMy4yLDE4LjgsMy4yLDE4LjgsMy4yLDE4LjlsMC41LDBjMCwwLDAsMC4xLDAsMC4xYzAsMC4yLDAsMC40LDAsMC41YzAsMC4xLTAuMSwwLjItMC4yLDAuMWMtMC4xLDAtMC4yLTAuMS0wLjItMC4yQzMuMiwxOS4yLDMuMiwxOS4xLDMuMiwxOC45eiBNMy41LDE4LjZsLTAuMi03LjFsMC4yLDBsMC4yLDcuMUwzLjUsMTguNnogTTIuNiw0LjZjMC0xLjUsMC0yLjYsMC4xLTMuM2MwLjEtMC43LDAuMS0xLjEsMC4xLTEuMWwwLDBjMCwwLDAsMCwwLDBjMCwwLDAsMCwwLDBsMCwwLjFjMCwwLDAuMSwwLjQsMC4zLDEuMWMwLjIsMC44LDAuMywxLjksMC40LDMuNGMwLjEsMi43LTAuMSw1LjYtMC4yLDYuMmMtMC4xLDAtMC4xLDAtMC4yLDBjMCwwLTAuMSwwLTAuMSwwQzMsMTAuNCwyLjcsNy4zLDIuNiw0LjZ6IE0yLjksMTAuNEMyLjcsMTAsMi40LDkuNCwyLjIsOC42Yy0wLjUtMS40LTEtMy4yLTEtNC44YzAtMS41LDAuMy0yLjgsMS40LTMuNEMyLjUsMC44LDIuMywyLjIsMi40LDQuNkMyLjUsNi45LDIuNyw5LjMsMi45LDEwLjR6IE0wLjIsMy4yYzAtMC4xLDAtMC4zLDAtMC40YzAtMS41LDEtMi42LDIuMy0yLjZDMS4zLDAuOCwwLjksMi4yLDEsMy44YzAuMSwyLjgsMS41LDYuMiwxLjgsNy4xYy0wLjYtMC40LTEuMi0xLjQtMS42LTIuNkMwLjYsNi43LDAuMiw0LjcsMC4yLDMuMnoiLz48L2c+PC9nPjwvc3ZnPg==),auto!important
+        body {
+        cursor: url(data:image/svg+xml;utf8;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiIHdpZHRoPSI2cHgiIGhlaWdodD0iMTkuN3B4IiB2aWV3Qm94PSIwIDAgNiAxOS43IiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCA2IDE5Ljc7IiB4bWw6c3BhY2U9InByZXNlcnZlIj48Zz48Zz48cGF0aCBkPSJNMCwzLjFjMCwxLjYsMC40LDMuNSwxLDUuMWMwLjMsMC44LDAuNywxLjYsMS4xLDIuMWMwLjIsMC41LDAuNCwwLjgsMC42LDJDMi43LDEyLjksMywxOC4yLDMsMTguN2MwLDAsMCwwLjEsMCwwLjFjMCwwLjIsMCwwLjQsMC4xLDAuNmMwLjEsMC4yLDAuMiwwLjMsMC40LDAuM2MwLDAsMCwwLDAsMGMwLjIsMCwwLjMtMC4xLDAuMy0wLjJjMC4xLTAuMSwwLjEtMC4zLDAuMS0wLjVjMC0wLjEsMC0wLjEsMC0wLjJjMC0wLjctMC4yLTUuOC0wLjEtNi41YzAtMS4xLDAuNS0xLjYsMC43LTEuOGMwLDAsMCwwLDAsMEM0LjgsMTAsNSw5LjUsNS4zLDguOEM1LjgsNy40LDYuMSw1LjYsNiwzLjljMC0wLjEsMC0wLjMsMC0wLjRDNS45LDEuOCw0LjUsMC4yLDIuOCwwdjBsMCwwYzAsMCwwLDAsMCwwQzEuMS0wLjIsMCwxLjEsMCwyLjdDMCwyLjksMCwzLDAsMy4xeiBNMy42LDEwLjlDNCwxMC4xLDUuMiw3LjEsNS4xLDQuNGMwLTEuNi0wLjYtMy4yLTItNC4yQzQuNSwwLjYsNS43LDIsNS44LDMuNWMwLDAuMSwwLDAuMywwLDAuNGMwLjEsMS43LTAuMiwzLjUtMC43LDQuOUM0LjcsOS45LDQuMiwxMC43LDMuNiwxMC45eiBNMy42LDEwLjVDMy43LDkuNSwzLjgsNywzLjcsNC44QzMuNiwyLjQsMy4zLDEsMy4xLDAuNGMxLjMsMC45LDEuOCwyLjQsMS44LDMuOUM1LDYsNC42LDcuNiw0LjIsOC45QzQsOS42LDMuNywxMC4yLDMuNiwxMC41eiBNMy4yLDE4LjlDMy4yLDE4LjgsMy4yLDE4LjgsMy4yLDE4LjlsMC41LDBjMCwwLDAsMC4xLDAsMC4xYzAsMC4yLDAsMC40LDAsMC41YzAsMC4xLTAuMSwwLjItMC4yLDAuMWMtMC4xLDAtMC4yLTAuMS0wLjItMC4yQzMuMiwxOS4yLDMuMiwxOS4xLDMuMiwxOC45eiBNMy41LDE4LjZsLTAuMi03LjFsMC4yLDBsMC4yLDcuMUwzLjUsMTguNnogTTIuNiw0LjZjMC0xLjUsMC0yLjYsMC4xLTMuM2MwLjEtMC43LDAuMS0xLjEsMC4xLTEuMWwwLDBjMCwwLDAsMCwwLDBjMCwwLDAsMCwwLDBsMCwwLjFjMCwwLDAuMSwwLjQsMC4zLDEuMWMwLjIsMC44LDAuMywxLjksMC40LDMuNGMwLjEsMi43LTAuMSw1LjYtMC4yLDYuMmMtMC4xLDAtMC4xLDAtMC4yLDBjMCwwLTAuMSwwLTAuMSwwQzMsMTAuNCwyLjcsNy4zLDIuNiw0LjZ6IE0yLjksMTAuNEMyLjcsMTAsMi40LDkuNCwyLjIsOC42Yy0wLjUtMS40LTEtMy4yLTEtNC44YzAtMS41LDAuMy0yLjgsMS40LTMuNEMyLjUsMC44LDIuMywyLjIsMi40LDQuNkMyLjUsNi45LDIuNyw5LjMsMi45LDEwLjR6IE0wLjIsMy4yYzAtMC4xLDAtMC4zLDAtMC40YzAtMS41LDEtMi42LDIuMy0yLjZDMS4zLDAuOCwwLjksMi4yLDEsMy44YzAuMSwyLjgsMS41LDYuMiwxLjgsNy4xYy0wLjYtMC40LTEuMi0xLjQtMS42LTIuNkMwLjYsNi43LDAuMiw0LjcsMC4yLDMuMnoiLz48L2c+PC9nPjwvc3ZnPg==),auto!important
+        }
+    </style>-->
+    <script type="application/ld+json">
+{ "@context": "http://schema.org",
+  "@type": "Organization",
+  "name": "profumo di frangipani",
+  "url": "https://frangipani.raiano.ch",
+  "logo": "https://frangipani.raiano.ch/css/images/logo_web.png",
+  "sameAs": [""]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "WebSite",
+  "name": "profumo di frangipani",
+  "url": "https://frangipani.raiano.ch",
+  "logo": "https://frangipani.raiano.ch/css/images/logo_web.png"
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://frangipani.raiano.ch/2015-10-31-zucca-burger-con-cipolle-in-agrodolce-e-pure-di-patate-viola/"
+  },
+  "headline": "Zucca Burger con Cipolle in Agrodolce e Puré di Patate Viola",
+  "description": "Happy Halloween a Tutti!  I panini al latte per i burger sono pronti, adesso dobbiamo preparare solo quello che serve per farcire quei buonissimi panini. Praticamente sono delle fette di zucca impan",
+  "image": "https://frangipani.raiano.ch/2015-10-31-zucca-burger-con-cipolle-in-agrodolce-e-pure-di-patate-viola/header.jpg",  
+  "author": {
+    "@type": "Person",
+    "name": "Erica Raiano",
+    "url": "https://frangipani.raiano.ch/css/images/avatar.jpg"
+  },  
+  "publisher": {
+    "@type": "Organization",
+    "name": "profumo di frangipani",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://frangipani.raiano.ch/css/images/logo_web.png"
     }
-  </style>-->
+  },
+  "datePublished": "2015-10-30T23:00:00.000Z",
+  "dateModified": "2017-08-20T12:10:57.000Z"
+}
+</script>
 <meta name="generator" content="Hexo 5.4.0"></head>
 
 <body>
@@ -783,19 +829,35 @@
             <ul>
                 
                     <li>
-                        <a href="https://www.pinkfisch.ch" target="_blank">PinkFish</a>
+                        <a href="https://marlenessweetthings.ch" target="_blank">Marlene&#39;s Sweet Things</a>
                     </li>
                 
                     <li>
-                        <a href="http://bakeria.ch" target="_blank">Bakeria</a>
+                        <a href="https://www.dolcisseria.ch" target="_blank">Dolcisseria</a>
                     </li>
                 
                     <li>
-                        <a href="http://bellesfleurs.ch" target="_blank">Belles Fleurs</a>
+                        <a href="https://deliziedamelia.ch" target="_blank">delizie d&#39;Amelia</a>
                     </li>
                 
                     <li>
-                        <a href="http://profumodifrangipani.oreegano.com" target="_blank">Oreegano</a>
+                        <a href="https://www.valesfoodblog.ch" target="_blank">Vale&#39;s Food Blog</a>
+                    </li>
+                
+                    <li>
+                        <a href="https://steffis-chuchichistli.ch" target="_blank">Steffi&#39;s Chuchichistli</a>
+                    </li>
+                
+                    <li>
+                        <a href="https://nefwiss.ch" target="_blank">atelier nefwiss</a>
+                    </li>
+                
+                    <li>
+                        <a href="https://bakeria.ch" target="_blank">Bakeria</a>
+                    </li>
+                
+                    <li>
+                        <a href="https://www.oreegano.com/profile/profumodifrangipani/recipebook" target="_blank">Oreegano</a>
                     </li>
                 
             </ul>

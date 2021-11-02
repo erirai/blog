@@ -3,6 +3,41 @@
 
 
     <url>
+        <loc>http://frangipani.raiano.ch/tags/melagrana/</loc>
+        <lastmod>2021-11-02T15:21:31.648Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/autunno/</loc>
+        <lastmod>2021-11-02T15:21:31.648Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/dolci/</loc>
+        <lastmod>2021-11-02T15:21:31.648Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/erbe-aromatiche/</loc>
+        <lastmod>2021-11-02T14:48:18.938Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/conserve/</loc>
+        <lastmod>2021-11-02T14:48:18.938Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://frangipani.raiano.ch/tags/dolci-al-cucchiaio/</loc>
         <lastmod>2021-11-02T14:07:01.281Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -12,20 +47,6 @@
     <url>
         <loc>http://frangipani.raiano.ch/tags/caffe/</loc>
         <lastmod>2021-11-02T14:07:01.281Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/erbe-aromatiche/</loc>
-        <lastmod>2021-11-02T13:55:34.449Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/conserve/</loc>
-        <lastmod>2021-11-02T13:55:34.449Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -47,27 +68,6 @@
     <url>
         <loc>http://frangipani.raiano.ch/tags/torta/</loc>
         <lastmod>2021-11-02T13:29:36.093Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/dolci/</loc>
-        <lastmod>2021-11-02T13:29:36.093Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/melagrana/</loc>
-        <lastmod>2021-11-01T16:48:06.327Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/autunno/</loc>
-        <lastmod>2021-11-01T16:48:06.327Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
