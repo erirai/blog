@@ -1,6 +1,5 @@
 ---
 title: "Granatapfel-Joghurtkuchen"
-# description: ""
 lang: de
 
 date: 2021-11-02
@@ -12,7 +11,6 @@ categories:
   - Dolce
   - Torte
 label: 2021-11-02-torta-allo-yogurt-e-melagrana
-thumbnail: 2021-11-02-torta-allo-yogurt-e-melagrana/header.jpeg
 ---
 ![](../2021-11-02-torta-allo-yogurt-e-melagrana/header.jpeg "frangipani © Erica")
 

@@ -1,6 +1,5 @@
 ---
 title: "Torta allo Yogurt e Melagrana"
-# description: ""
 lang: it
 
 date: 2021-11-02
@@ -12,7 +11,6 @@ categories:
   - Dolce
   - Torte
 label: 2021-11-02-torta-allo-yogurt-e-melagrana
-thumbnail: 2021-11-02-torta-allo-yogurt-e-melagrana/header.jpeg
 ---
 ![](header.jpeg "frangipani © Erica")
 
