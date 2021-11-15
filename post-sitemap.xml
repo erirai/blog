@@ -9,6 +9,30 @@
 
 
     <url>
+        <loc>http://frangipani.raiano.ch/2021-11-16-gratin-di-patate-e-porri-de/</loc>
+        <lastmod>2021-11-15T10:36:36.416Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/2021-11-16-gratin-di-patate-e-porri/</loc>
+        <lastmod>2021-11-15T10:28:02.683Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/2019-12-12-preparato-per-cioccolata-calda-da-regalare-de/</loc>
+        <lastmod>2021-11-12T10:41:27.158Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://frangipani.raiano.ch/2021-11-02-torta-allo-yogurt-e-melagrana/</loc>
         <lastmod>2021-11-02T16:33:57.179Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -2011,14 +2035,6 @@
     <url>
         <loc>http://frangipani.raiano.ch/2018-01-30-frittelle-di-ricotta-e-mele-de/</loc>
         <lastmod>2020-02-17T14:58:47.791Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/2019-12-12-preparato-per-cioccolata-calda-da-regalare-de/</loc>
-        <lastmod>2019-12-11T19:58:52.443Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 

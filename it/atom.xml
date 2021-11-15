@@ -4,7 +4,7 @@
   
   <link href="http://frangipani.raiano.ch/it/atom.xml" rel="self"/>
   <link href="http://frangipani.raiano.ch/"/>
-  <updated>2021-11-02T16:33:57.179Z</updated>
+  <updated>2021-11-15T10:28:02.683Z</updated>
   <id>http://frangipani.raiano.ch/</id>
   
   <author>
@@ -13,6 +13,135 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title xml:lang="it">Gratin di Patate e Porri</title>
+    <link href="http://frangipani.raiano.ch/2021-11-16-gratin-di-patate-e-porri/"/>
+    <id>http://frangipani.raiano.ch/2021-11-16-gratin-di-patate-e-porri/</id>
+    <published>2021-11-15T23:00:00.000Z</published>
+    <updated>2021-11-15T10:28:02.683Z</updated>
+    <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Gratin di Patate e Porri&lt;/strong&gt; con formaggio Svizzero filante. Un contorno semplice, ma saporitissimo. Si può preparare in anticipo ed infornarlo quando serve, io spesso faccio così anche perché la cottura è abbastanza lunga.&lt;/p&gt;
+&lt;p&gt;Questo piatto in realtà è molto versatile, perché oltre alle patate, si possono aggiungere anche altre verdure tagliate a fettine. Come la zucca, le patate dolci, le barbabietole...&lt;/p&gt;
+&lt;p&gt;Comunque vorrei farvi notare una cosa... Nelle foto finali si vede molto bene una mia brutta abitudine. Prendo sempre, SEMPRE, pirofile o contenitori troppo piccoli o giusti giusti giusti e poi fuoriesce tutto. E dopo mi lamento sempre che ho il forno sempre sporco, chissà perchè?!&lt;/p&gt;
+&lt;a href=&quot;https://www.foodblogs-schweiz.ch/challenge/&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;
+ &lt;img src=&quot;https://www.foodblogs-schweiz.ch/wp-content/uploads/2021/10/fbs_challenge_november21.png&quot;&gt;&lt;/a&gt;
+
+&lt;p&gt;Era un sacco di tempo che non facevo il &lt;strong&gt;Gratin di Patate&lt;/strong&gt;, in realtà ero convinta di aver già messo la ricetta sul Blog. Poi quando ho letto gli ingredienti per la 30. Foodie Challenge mensile, organizzata da &lt;a href=&quot;https://www.foodblogs-schweiz.ch&quot; target=&quot;_blank&quot;&gt;Foodblogs Schweiz&lt;/a&gt;, l&amp;#39;ho preparato e finalmente ecco la ricetta. Nel cestino di questo mese infatti ci sono: mele, nocciole, aglio, patate, spinaci e porro. L&amp;#39;aglio lo uso sempre intero perché non amo particolarmente avere pezzi di aglio nel cibo, a parte il pane all&amp;#39;aglio.
+&lt;br /&gt;
+Qualche anno fa avevo fatto questa &lt;a href=&quot;https://frangipani.raiano.ch/2018-10-10-torta-rustica-vegana-alle-nocciole-e-mele/&quot; target=&quot;_blank&quot;&gt;Torta rustica vegana alle Nocciole e Mele&lt;/a&gt; che sarebbe stata perfetta per questa Challenge. E quindi ho deciso di fare il &lt;strong&gt;Gratin di Patate ma con l&amp;#39;aggiunta del porro&lt;/strong&gt; che nei mesi freddi uso molto volentieri.&lt;/p&gt;
+&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
+  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
+    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
+      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Gratin di Patate e Porri&lt;/span&gt;
+      &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
+      &lt;table&gt;
+        &lt;tbody&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1kg&lt;/td&gt;
+            &lt;td&gt;patate farinose&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1-2&lt;/td&gt;
+            &lt;td&gt;porri&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;300ml&lt;/td&gt;
+            &lt;td&gt;latte&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 cucchiaio raso&lt;/td&gt;
+            &lt;td&gt;farina&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qb&lt;/td&gt;
+            &lt;td&gt;noce moscata&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;100gr&lt;/td&gt;
+            &lt;td&gt;formaggio svizzero (o altro) grattugiato grossolanamente&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qb&lt;/td&gt;
+            &lt;td&gt;sale&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qb&lt;/td&gt;
+            &lt;td&gt;olio evo&lt;/td&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qb&lt;/td&gt;
+            &lt;td&gt;brodo vegetale&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;
+      &lt;br&gt;&lt;/br&gt;
+      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot; itemprop=&quot;recipeYield&quot;&gt;per 4 persone&lt;/i&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h3&gt;
+  &lt;font color=&quot;grey&quot;&gt;
+    &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt; Preparazione
+&lt;/h3&gt;
+
+&lt;p&gt;Pulite il porro, eliminate lo strato esterno e tagliatelo a rondele. Fatelo rosolare in una padella con un filo d&amp;#39;olio e un pizzico di sale, poi aggiungete un pochettino d&amp;#39;acqua e fatelo andare finché si sarà ammorbidito.&lt;/p&gt;
+&lt;p&gt;Preparate la besciamella: In un pentolino mettete la farina e sempre mescolando versate il latte. Accendete il fornello a temperatura media e sempre mescolando portate ad ebollizione, quando si sarà addensata sarà pronta. Aggiungete un po&amp;#39; di noce moscata, salate, aggiungete anche metà del formaggio e mescolate per farlo sciogliere.&lt;/p&gt;
+&lt;p&gt;Pelate le patate e tagliatele sottilmente, meglio aiutandovi con una mandolina. Prendete una pirofila, imburratela e sistemate le fettine di patate. Salate le patate, distribuiteci sopra il porro, versate il brodo vegetale nella pirofila fino ad arrivare ad un&amp;#39;altezza di un dito. Poi distribuite la besciamella su tutta la superficie e sbattete qualche volta la pirofila per far scendere la besciamella e finite con il resto del formaggio.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 32%; margin-right: 1%;&quot; src=&quot;patate.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 32%; margin-right: 1%; margin-left: 1%;&quot; src=&quot;besciamella.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 32%; margin-left: 1%;&quot; src=&quot;teglia.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Infornate il &lt;strong&gt;Gratin di Patate e Porri&lt;/strong&gt; coperto da un foglio di carta alluminio nel forno presiscaldato a 190°C ventilato per 60-90min. La durata della cottura dipende dalle patate, ma potete fare la prova stecchino, se entra facilmente è cotto. Cuocete gli ultimi minuti senza carta alluminio per far fare una bella crosticina...&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;risultato5.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;h4&gt;Buon appetito
+  &lt;font color=&quot;red&quot;&gt;
+    &lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt;
+&lt;/h4&gt;</content>
+    <summary type="html" xml:lang="it">
+    
+      &lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Gratin di Patate e Porri&lt;/strong&gt; con formaggio Svizzero filante. Un co
+    
+    </summary>
+    
+      <category term="Salato" scheme="http://frangipani.raiano.ch/categories/Salato/"/>
+    
+      <category term="Secondi Piatti e Contorni" scheme="http://frangipani.raiano.ch/categories/Salato/Secondi-Piatti-e-Contorni/"/>
+    
+    
+      <category term="contorno" scheme="http://frangipani.raiano.ch/tags/contorno/"/>
+    
+      <category term="autunno" scheme="http://frangipani.raiano.ch/tags/autunno/"/>
+    
+      <category term="inverno" scheme="http://frangipani.raiano.ch/tags/inverno/"/>
+    
+  </entry>
   
   <entry>
     <title xml:lang="it">Torta allo Yogurt e Melagrana</title>
@@ -2896,134 +3025,6 @@ Aggiungete un goccio d&amp;#39;acqua e infornate le verdure nel forno preriscald
       <category term="autunno" scheme="http://frangipani.raiano.ch/tags/autunno/"/>
     
       <category term="inverno" scheme="http://frangipani.raiano.ch/tags/inverno/"/>
-    
-  </entry>
-  
-  <entry>
-    <title xml:lang="it">Muffin salati di Polenta con Formaggio Svizzero e Rosmarino</title>
-    <link href="http://frangipani.raiano.ch/2021-02-18-muffin-salati-di-polenta-con-formaggio-e-rosmarino/"/>
-    <id>http://frangipani.raiano.ch/2021-02-18-muffin-salati-di-polenta-con-formaggio-e-rosmarino/</id>
-    <published>2021-02-17T23:00:00.000Z</published>
-    <updated>2021-02-17T20:12:05.887Z</updated>
-    <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Muffin salati di Polenta con Formaggio Svizzero e Rosmarino&lt;/strong&gt; croccanti fuori, morbidi e umidi all&amp;#39;interno. Hanno un po&amp;#39; la consistenza della polenta e sono veramente super buoni! È un impasto molto liquido ed è giusto così, perché c&amp;#39;è bisogno di tutto quel liquido per far cuocere la polenta. L&amp;#39;impasto dei muffin è vegano, l&amp;#39;unica cosa non vegana è il formaggio. Il formaggio è una cosa aggiunta che potete anche non mettere o sostituire. Il formaggio dà sapore e il rosmarino dona quel profumo che solo lui ha. Un&amp;#39;ottima combinazione. Io ho usato un formaggio svizzero bello saporito, voi naturalmente potete usare il formaggio che preferite, ma vi consiglio di sceglierne uno saporito.&lt;/p&gt;
-&lt;p&gt;Ho scelto di fare questa ricetta per la 22. Foodie Challenge mensile di febbraio, organizzata da &lt;a href=&quot;https://www.foodblogs-schweiz.ch&quot; target=&quot;_blank&quot;&gt;Foodblogs Schweiz&lt;/a&gt;.
-&lt;a href=&quot;https://www.foodblogs-schweiz.ch/challenge/&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;
-&lt;img src=&quot;https://www.foodblogs-schweiz.ch/wp-content/uploads/2021/02/Challenge-Banner-Feb21.png&quot; alt=&quot;Foodblogs Schweiz Challenge&quot; class=&quot;wp-image-452&quot;&gt;&lt;/a&gt;
-Nel cestino di questo mese ci sono: insalata belga, Mais (polenta, semolino, farina...), mele, cavolo riccio, rosmarino e formaggio svizzero.
-&lt;br&gt;
-Ero partita con l&amp;#39;idea di fare una torta di polenta con le mele, ma poi ho cambiato idea di colpo e ho deciso di fare questi &lt;strong&gt;Muffin salati di Polenta con Formaggio Svizzero e Rosmarino&lt;/strong&gt;. Era da troppo tempo che non facevo dei Muffin, poi ho visto anche che il rosmarino in giardino non è messo poi tanto male.
-&lt;br&gt;
-E niente, sono buonissimi! Potete mangiarli con una bella insalatona o delle verdure saltate in padella, ma sono ottimi anche per un bel Buffet (quando sarà possibile farlo) o per un picnic (quando il tempo lo permetterà).&lt;/p&gt;
-&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
-  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
-    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
-      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Muffin salati di Polenta con Formaggio e Rosmarino&lt;/span&gt;
-      &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
-      &lt;table&gt;
-        &lt;tbody&gt;
-          
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;200gr&lt;/td&gt;
-            &lt;td&gt;farina per polenta (cottura veloce)&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;150gr&lt;/td&gt;
-            &lt;td&gt;farina&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1.5 cucchiaino&lt;/td&gt;
-            &lt;td&gt;sale&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1.5 cucchiaino&lt;/td&gt;
-            &lt;td&gt;lievito istantaneo&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;125ml&lt;/td&gt;
-            &lt;td&gt;olio di semi&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;375ml&lt;/td&gt;
-            &lt;td&gt;acqua&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;100gr&lt;/td&gt;
-            &lt;td&gt;formaggio svizzero saporito (o altro)&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qb&lt;/td&gt;
-            &lt;td&gt;rosmarino&lt;/td&gt;
-          &lt;/tr&gt;
-        &lt;/tbody&gt;
-      &lt;/table&gt;
-      &lt;br&gt;&lt;br&gt;
-      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot; itemprop=&quot;recipeYield&quot;&gt;per 12 Muffin&lt;/i&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;h3&gt;
-  &lt;font color=&quot;grey&quot;&gt;
-    &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt; Preparazione
-&lt;/h3&gt;
-
-&lt;p&gt;Mettete la polenta, la farina, il sale e il lievito in un coppa e mescolate. Aggiungete l&amp;#39;olio e l&amp;#39;acqua e amalgamate bene. Aggiungete il formaggio grattugiato grossolanamente, il rosmarino tagliato molto finemente e mescolate.
-&lt;br&gt;
-Mettete i pirottini di carta nella teglia per muffin o usate uno stampo in silicone senza pirottini, poi riempite i pirottini fino a 3/4.
-&lt;img src=&quot;teglia.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Infornate i Muffin salati di Polenta con Formaggio e Rosmarino nel forno preriscaldato a 200°C statico per 40min, come sempre fate la prova stecchino. Fateli intiepidire leggermente prima di uscirli dallo stampo. 
-&lt;img src=&quot;risultato1.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato2.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato3.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;risultato4.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato5.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato6.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;risultato7.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato8.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato9.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;h4&gt;Buon appetito
-  &lt;font color=&quot;red&quot;&gt;
-    &lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt;
-&lt;/h4&gt;</content>
-    <summary type="html" xml:lang="it">
-    
-      &lt;p&gt;&lt;img src=&quot;header.jpeg&quot; alt title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Muffin salati di Polenta con Formaggio Svizzero e Rosmarino&lt;/strong
-    
-    </summary>
-    
-      <category term="Salato" scheme="http://frangipani.raiano.ch/categories/Salato/"/>
-    
-      <category term="Torte salate, Muffin salati..." scheme="http://frangipani.raiano.ch/categories/Salato/Torte-salate-Muffin-salati/"/>
-    
-    
-      <category term="vegan" scheme="http://frangipani.raiano.ch/tags/vegan/"/>
-    
-      <category term="muffin salati" scheme="http://frangipani.raiano.ch/tags/muffin-salati/"/>
-    
-      <category term="antipasto" scheme="http://frangipani.raiano.ch/tags/antipasto/"/>
     
   </entry>
   

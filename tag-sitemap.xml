@@ -3,14 +3,56 @@
 
 
     <url>
-        <loc>http://frangipani.raiano.ch/tags/melagrana/</loc>
-        <lastmod>2021-11-02T16:33:57.179Z</lastmod>
+        <loc>http://frangipani.raiano.ch/tags/inverno/</loc>
+        <lastmod>2021-11-15T10:36:36.416Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://frangipani.raiano.ch/tags/autunno/</loc>
+        <lastmod>2021-11-15T10:36:36.416Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/contorno/</loc>
+        <lastmod>2021-11-15T10:36:36.416Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/diy/</loc>
+        <lastmod>2021-11-12T10:41:27.158Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/bevande/</loc>
+        <lastmod>2021-11-12T10:41:27.158Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/natale/</loc>
+        <lastmod>2021-11-12T10:41:27.158Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/cioccolato/</loc>
+        <lastmod>2021-11-12T10:41:27.158Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/melagrana/</loc>
         <lastmod>2021-11-02T16:33:57.179Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -73,13 +115,6 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/tags/natale/</loc>
-        <lastmod>2021-11-01T10:47:30.529Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://frangipani.raiano.ch/tags/biscotti/</loc>
         <lastmod>2021-11-01T10:47:30.529Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -88,13 +123,6 @@
 
     <url>
         <loc>http://frangipani.raiano.ch/tags/noci/</loc>
-        <lastmod>2021-11-01T10:47:30.529Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/cioccolato/</loc>
         <lastmod>2021-11-01T10:47:30.529Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -117,13 +145,6 @@
     <url>
         <loc>http://frangipani.raiano.ch/tags/halloween/</loc>
         <lastmod>2021-10-26T13:08:09.571Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/inverno/</loc>
-        <lastmod>2021-10-17T19:02:45.566Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -418,13 +439,6 @@
     <url>
         <loc>http://frangipani.raiano.ch/tags/consigli-green/</loc>
         <lastmod>2021-07-05T07:15:36.089Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/contorno/</loc>
-        <lastmod>2021-06-28T20:10:00.030Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -803,20 +817,6 @@
     <url>
         <loc>http://frangipani.raiano.ch/tags/frittelle/</loc>
         <lastmod>2020-03-04T17:02:07.014Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/diy/</loc>
-        <lastmod>2019-12-11T19:58:52.443Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/bevande/</loc>
-        <lastmod>2019-12-11T19:58:52.443Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
