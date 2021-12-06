@@ -9,14 +9,21 @@
 
 
     <url>
-        <loc>http://frangipani.raiano.ch/categories/Dolce/Piccola-Pasticceria/</loc>
-        <lastmod>2021-11-30T13:15:35.604Z</lastmod>
+        <loc>http://frangipani.raiano.ch/categories/Dolce/Biscotti/</loc>
+        <lastmod>2021-12-06T19:47:29.977Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://frangipani.raiano.ch/categories/Dolce/</loc>
+        <lastmod>2021-12-06T19:47:29.977Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/categories/Dolce/Piccola-Pasticceria/</loc>
         <lastmod>2021-11-30T13:15:35.604Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -60,13 +67,6 @@
     <url>
         <loc>http://frangipani.raiano.ch/categories/Dolce/Dolci-al-cucchiaio-Gelati/</loc>
         <lastmod>2021-11-02T14:07:01.281Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/categories/Dolce/Biscotti/</loc>
-        <lastmod>2021-11-01T10:47:30.529Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
