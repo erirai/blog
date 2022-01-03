@@ -3,14 +3,56 @@
 
 
     <url>
-        <loc>http://frangipani.raiano.ch/tags/pane/</loc>
-        <lastmod>2021-12-14T20:12:16.407Z</lastmod>
+        <loc>http://frangipani.raiano.ch/tags/brioche/</loc>
+        <lastmod>2022-01-03T12:24:26.021Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://frangipani.raiano.ch/tags/natale/</loc>
+        <lastmod>2022-01-03T12:24:26.021Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/zebra-cake/</loc>
+        <lastmod>2022-01-03T09:04:11.614Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/pistacchi/</loc>
+        <lastmod>2022-01-03T09:04:11.614Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/mascarpone/</loc>
+        <lastmod>2022-01-03T09:04:11.614Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/torta/</loc>
+        <lastmod>2022-01-03T09:04:11.614Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/dolci/</loc>
+        <lastmod>2022-01-03T09:04:11.614Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/pane/</loc>
         <lastmod>2021-12-14T20:12:16.407Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -73,13 +115,6 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/tags/dolci/</loc>
-        <lastmod>2021-11-02T16:33:57.179Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://frangipani.raiano.ch/tags/erbe-aromatiche/</loc>
         <lastmod>2021-11-02T14:48:18.938Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -108,21 +143,7 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/tags/mascarpone/</loc>
-        <lastmod>2021-11-02T13:29:36.093Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://frangipani.raiano.ch/tags/festa-del-papa/</loc>
-        <lastmod>2021-11-02T13:29:36.093Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/torta/</loc>
         <lastmod>2021-11-02T13:29:36.093Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -250,13 +271,6 @@
     <url>
         <loc>http://frangipani.raiano.ch/tags/patate/</loc>
         <lastmod>2021-07-11T16:08:23.223Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/pistacchi/</loc>
-        <lastmod>2021-07-05T15:07:44.064Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -1011,13 +1025,6 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/tags/brioche/</loc>
-        <lastmod>2018-02-27T14:13:52.749Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://frangipani.raiano.ch/tags/pizza/</loc>
         <lastmod>2018-01-26T14:23:19.200Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1132,13 +1139,6 @@
     <url>
         <loc>http://frangipani.raiano.ch/tags/orzo/</loc>
         <lastmod>2017-08-20T12:15:17.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/zebra-cake/</loc>
-        <lastmod>2017-08-20T12:15:01.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

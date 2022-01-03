@@ -9,6 +9,30 @@
 
 
     <url>
+        <loc>http://frangipani.raiano.ch/2022-01-04-dreikonigskuchen-al-cioccolato/</loc>
+        <lastmod>2022-01-03T12:24:26.021Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/2022-01-04-dreikonigskuchen-al-cioccolato-de/</loc>
+        <lastmod>2022-01-03T09:57:53.415Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/2016-03-14-zebra-cake-farcita-con-crema-al-mascarpone-e-pistacchio/</loc>
+        <lastmod>2022-01-03T09:04:11.614Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://frangipani.raiano.ch/2021-12-15-ghirlanda-di-pane-con-semi-di-lino-de/</loc>
         <lastmod>2021-12-14T20:12:16.407Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -4363,14 +4387,6 @@
     <url>
         <loc>http://frangipani.raiano.ch/2016-03-05-coniglietti-soffici-al-burro/</loc>
         <lastmod>2017-08-20T12:15:04.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/2016-03-14-zebra-cake-farcita-con-crema-al-mascarpone-e-pistacchio/</loc>
-        <lastmod>2017-08-20T12:15:01.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
