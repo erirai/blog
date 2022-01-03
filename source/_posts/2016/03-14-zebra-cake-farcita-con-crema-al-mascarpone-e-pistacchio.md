@@ -12,7 +12,7 @@ categories:
 - Torte
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](tortagioele.jpg "frangipani © Erica")
 
 > Auguri Amore mio per il tuo Primo Compleanno!
 
@@ -167,7 +167,7 @@ Adesso iniziate a farcirla. Prendete una delle due creme e spalmatela sulla base
 Se andrete a ricoprire la torta con la pasta di zucchero, allora ricoprite tutta la torta con un finissimo strato di crema al mascarpone, per poi far aderire meglio la pasta di zucchero. Se no, ricoprite la torta come preferite.
 ![](ricoperta.jpg "frangipani © Erica")
 
-![](risultato.jpg "frangipani © Erica")
+![](tortagioele2.jpg "frangipani © Erica")
 
 
 Con i ritagli della della torta ho fatto anche dei Cake Pops. Prendete i resti e sbriciolateli in una coppa capiente, la crosta dura non usatela, se no i Cake Pops non terrano.
@@ -180,7 +180,7 @@ Poi prendete un po' d'impasto alla volta e formate delle palline. Prendete i bas
 ![](cpnudi.jpg "frangipani © Erica")
 
 Fate sciogliere a Bagnomaria del cioccolato bianco (o altro cioccolato), mettete il cioccolato in un bicchiere stretto e alto e immergete ogni Cake Pop alla volta nel cioccolato bianco. Sbattetelo un pochettino per far cadere il cioccolato in eccesso e decorateli a piacere.
-![](cp.jpg "frangipani © Erica")
+![](cpgioele.jpg "frangipani © Erica")
 
 
 <h4>Buon appetito
