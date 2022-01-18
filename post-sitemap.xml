@@ -9,6 +9,22 @@
 
 
     <url>
+        <loc>http://frangipani.raiano.ch/2018-02-23-zuppa-di-fagioli-e-cavolo-nero-de/</loc>
+        <lastmod>2022-01-18T20:03:31.167Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/2022-02-02-tarte-al-cioccolato-e-arancia/</loc>
+        <lastmod>2022-01-18T10:52:58.848Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://frangipani.raiano.ch/2022-01-18-spaghetti-al-pesto-di-cavolo-rosso-de/</loc>
         <lastmod>2022-01-17T19:46:54.342Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -3059,14 +3075,6 @@
     <url>
         <loc>http://frangipani.raiano.ch/2014-08-16-cupcakes-con-acqua-di-rose-e-cioccolato-bianco/</loc>
         <lastmod>2018-04-02T20:46:02.522Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/2018-02-23-zuppa-di-fagioli-e-cavolo-nero-de/</loc>
-        <lastmod>2018-04-02T20:44:39.151Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
