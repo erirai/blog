@@ -4,7 +4,21 @@
 
     <url>
         <loc>http://frangipani.raiano.ch/tags/inverno/</loc>
-        <lastmod>2022-01-18T20:03:31.167Z</lastmod>
+        <lastmod>2022-01-31T09:58:58.769Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/san-valentino/</loc>
+        <lastmod>2022-01-31T09:58:58.769Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/crostata/</loc>
+        <lastmod>2022-01-31T09:58:58.769Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -193,13 +207,6 @@
 
     <url>
         <loc>http://frangipani.raiano.ch/tags/pere/</loc>
-        <lastmod>2021-10-17T19:02:45.566Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/crostata/</loc>
         <lastmod>2021-10-17T19:02:45.566Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -537,13 +544,6 @@
     <url>
         <loc>http://frangipani.raiano.ch/tags/nocciole/</loc>
         <lastmod>2021-05-10T20:13:53.666Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/san-valentino/</loc>
-        <lastmod>2021-05-03T17:56:16.381Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
