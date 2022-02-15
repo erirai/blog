@@ -4,7 +4,7 @@
   
   <link href="http://frangipani.raiano.ch/de/atom.xml" rel="self"/>
   <link href="http://frangipani.raiano.ch/"/>
-  <updated>2022-01-31T09:58:58.769Z</updated>
+  <updated>2022-02-15T20:38:25.680Z</updated>
   <id>http://frangipani.raiano.ch/</id>
   
   <author>
@@ -13,6 +13,174 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title xml:lang="de">Gemüse-Crumble</title>
+    <link href="http://frangipani.raiano.ch/2022-02-16-crumble-di-verdure-de/"/>
+    <id>http://frangipani.raiano.ch/2022-02-16-crumble-di-verdure-de/</id>
+    <published>2022-02-15T23:00:00.000Z</published>
+    <updated>2022-02-15T20:38:25.680Z</updated>
+    <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2022-02-16-crumble-di-verdure/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Gemüse-Crumble&lt;/strong&gt; eine super leckere Beilage voller Saisongemüse. Verwendet das Gemüse, das ihr mögt oder zu Hause habt, und wenn ihr möchtet, kann es auch im Voraus zubereitet werden.
+&lt;br /&gt;
+Ich habe Lauch, Karotten, Randen (daher alles pink), Süsskartoffeln, Kürbis, Rotkohl und Rosenkohl verwendet, alles saisonal. Aber das Schöne an diesem Rezept ist, dass es zu jeder Jahreszeit zubereitet werden kann, indem man einfach das Gemüse anpasst. Ich stelle es mir im Frühling mit frischen Erbsen, Spargel, Artischocken und den ersten Zucchini vor oder im Sommer mit Auberginen, Paprika, Zucchini und Tomaten! Mmm, das ist gut!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.foodblogs-schweiz.ch/challenge/&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;&lt;img src=&quot;https://www.foodblogs-schweiz.ch/wp-content/uploads/2022/01/Februar-Challenge.png.webp&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Es schien mir auch das perfekte Rezept, um an die 32. monatliche Foodie Challenge mitzumachen, die von &lt;a href=&quot;https://www.foodblogs-schweiz.ch&quot; target=&quot;_blank&quot;&gt;Foodblogs Schweiz&lt;/a&gt; organisiert wird. Auch diesen Monat ohne Warenkorb, jedoch mit dem Thema &amp;quot;Winter Comfort Food mit saisonalen Zutaten&amp;quot;.
+&lt;br /&gt;
+Crumble ist für mich pures Comfort Food, Mürbeteig und gekochte und duftende Früchte. Mein Favorit ist der mit &lt;a href=&quot;https://frangipani.raiano.ch/2014-08-24-crumble-di-prugne-de/&quot; target=&quot;_blank&quot;&gt;Zwetschgen&lt;/a&gt;. Bisher wurde der Crumble aber immer in der süssen Variante zubereitet. Es war also an der Zeit, es in einer salzigen Alternative zuzubereiten, und es hat mir sehr geschmeckt. Mit einer Joghurtsauce gegessen ist es wirklich der Hammer!&lt;/p&gt;
+&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
+  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
+    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
+      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Gemüse-Crumble&lt;/span&gt;
+      &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
+      &lt;table&gt;
+        &lt;tbody&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1&lt;/td&gt;
+            &lt;td&gt;Lauch&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1&lt;/td&gt;
+            &lt;td&gt;Karotte gross&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1-2&lt;/td&gt;
+            &lt;td&gt;Randen roh&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1-2&lt;/td&gt;
+            &lt;td&gt;Süsskartoffeln&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 Schnitz/Stück&lt;/td&gt;
+            &lt;td&gt;Kürbis&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 Schnitz/Stück&lt;/td&gt;
+            &lt;td&gt;Rotkohl&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 Handvoll&lt;/td&gt;
+            &lt;td&gt;Rosenkohl&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qs&lt;/td&gt;
+            &lt;td&gt;Olivenöl&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qs&lt;/td&gt;
+            &lt;td&gt;Salz&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qs&lt;/td&gt;
+            &lt;td&gt;Kräuter und Gewürze&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;100gr&lt;/td&gt;
+            &lt;td&gt;Mehl&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;40gr&lt;/td&gt;
+            &lt;td&gt;geriebenen Parmesankäse&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1/2 Teelöffel&lt;/td&gt;
+            &lt;td&gt;Salz&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qs&lt;/td&gt;
+            &lt;td&gt;getrocknete Kräuter und Gewürze&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;50gr&lt;/td&gt;
+            &lt;td&gt;kalte Butter&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;
+      &lt;br&gt;&lt;/br&gt;
+      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot; itemprop=&quot;recipeYield&quot;&gt;ca. für eine 24cm Ofenform&lt;/i&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h3&gt;
+  &lt;font color=&quot;grey&quot;&gt;
+    &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt; Zubereitung
+&lt;/h3&gt;
+
+&lt;p&gt;Das gesamte Gemüse waschen und rüsten. Lauch und Karotte in Scheiben schneiden. Randen (Rote Beete), Süsskartoffeln und Kürbis in Würfel schneiden. Rotkohl (harten Strunk entfernen) in Streifen schneiden und Rosenkohl halbieren. Den Lauch in einer grossen Pfanne mit etwas Öl und einer Prise Salz anbraten, dann das restliche Gemüse hinzugeben und bei mittlerer Temperatur garen. Fügt einige frische oder getrocknete Kräuter und/oder Gewürze (für mich Paprika) und Salz hinzu. Gegebenenfalls etwas Wasser zugeben, um das Garen zu erleichtern. Das Gemüse sollte gar, aber noch knackig und nicht zu weich sein.
+&lt;br /&gt;
+Während das Gemüse gart, den Crumble zubereiten: Mehl, Parmesan, Salz, getrocknete Kräuter und Gewürze in eine Schüssel geben und vermischen. Fügt die kalte Butter in kleinen Stücken hinzu und knetet mit den Fingerspitzen, ihr müsst eine sandige, krümelige Mischung erhalten. Bis zum Bedarf im Kühlschrank lassen.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-02-16-crumble-di-verdure/verdura.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-02-16-crumble-di-verdure/crumble.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Nehmt eine Auflaufform, buttert sie und legt das Gemüse hinein. Den Crumble gleichmässig auf dem Gemüse verteilen.
+&lt;img src=&quot;../2022-02-16-crumble-di-verdure/teglia.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Den &lt;strong&gt;Gemüse-Crumble&lt;/strong&gt; im vorgeheizten Backofen bei 180°C Umluft für 30-40min backen oder bis die Oberfläche goldbraun ist. Dazu empfehle ich eine Joghurtsauce aus Joghurt, Kräutern, Paprika, Zitronensaft, Salz und Öl.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-02-16-crumble-di-verdure/risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-02-16-crumble-di-verdure/risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-02-16-crumble-di-verdure/risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-02-16-crumble-di-verdure/risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-02-16-crumble-di-verdure/risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-02-16-crumble-di-verdure/risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-02-16-crumble-di-verdure/risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-02-16-crumble-di-verdure/risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h4&gt;Buon appetito
+  &lt;font color=&quot;red&quot;&gt;
+    &lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt;
+&lt;/h4&gt;</content>
+    <summary type="html" xml:lang="de">
+    
+      &lt;p&gt;&lt;img src=&quot;../2022-02-16-crumble-di-verdure/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Gemüse-Crumble&lt;/strong&gt; eine super lec
+    
+    </summary>
+    
+      <category term="Salato" scheme="http://frangipani.raiano.ch/categories/Salato/"/>
+    
+      <category term="Secondi Piatti e Contorni" scheme="http://frangipani.raiano.ch/categories/Salato/Secondi-Piatti-e-Contorni/"/>
+    
+    
+      <category term="contorno" scheme="http://frangipani.raiano.ch/tags/contorno/"/>
+    
+      <category term="autunno" scheme="http://frangipani.raiano.ch/tags/autunno/"/>
+    
+      <category term="inverno" scheme="http://frangipani.raiano.ch/tags/inverno/"/>
+    
+  </entry>
   
   <entry>
     <title xml:lang="de">Schokolade-Orangen-Tarte</title>
@@ -2929,122 +3097,6 @@ Zuletzt die Erdbeeren klein schneiden, dann mit etwas Zitronensaft und 1-2 Essl�
       <category term="estate" scheme="http://frangipani.raiano.ch/tags/estate/"/>
     
       <category term="dolce" scheme="http://frangipani.raiano.ch/tags/dolce/"/>
-    
-      <category term="primavera" scheme="http://frangipani.raiano.ch/tags/primavera/"/>
-    
-  </entry>
-  
-  <entry>
-    <title xml:lang="de">Knusprige Spargeln mit Sesam und Joghurt-Senf-Honig-Sauce</title>
-    <link href="http://frangipani.raiano.ch/2021-05-12-asparagi-croccanti-con-sesamo-e-salsa-allo-yogurt-con-senape-miele-de/"/>
-    <id>http://frangipani.raiano.ch/2021-05-12-asparagi-croccanti-con-sesamo-e-salsa-allo-yogurt-con-senape-miele-de/</id>
-    <published>2021-05-11T22:00:00.000Z</published>
-    <updated>2021-05-11T14:58:34.314Z</updated>
-    <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2021-05-12-asparagi-croccanti-con-sesamo-e-salsa-allo-yogurt-con-senape-e-miele/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Knusprige Spargeln mit Sesam und Joghurt-Senf-Honig-Sauce&lt;/strong&gt; eine schnelle und einfache Möglichkeit, Spargel zuzubereiten. Das Ergebnis wird super sein! Knuspriger und leckerer Spargel zum Eintauchen in eine Joghurtsauce mit Senf und Honig mit einem ganz besonderen Geschmack. Zusammen sind sie eine Geschmacksexplosion!
-&lt;br /&gt;
-Sie können als Beilage, aber auch als Aperitif zubereitet werden und ich versichere euch, dass man nicht aufhören kann, davon zu essen! Ich liebe es, Spargel im Ofen oder einfach nur &lt;a href=&quot;https://frangipani.raiano.ch/2019-05-08-asparagi-in-padella-al-limone-de/&quot; target=&quot;_blank&quot;&gt;in der Bratpfanne mit Zitrone&lt;/a&gt; zu kochen. &lt;/p&gt;
-&lt;p&gt;Und auch dieses Jahr habe ich an den Geburtstagen mein Bestes gegeben. Am Montag feierte Gaia ihren 8. Geburtstag, auch wenn wir schon am Samstag ein kleines Fest gemacht haben, da das Wetter so herrlich war! Dieses Jahr war sie etwas unentschlossen über das Aussehen des Kuchens, aber als wir uns Tortenbilder anschauten, sah sie einen lila Babykraken und es wurde einen lila Babykraken! Für den Geschmack wusste sie jedoch genau, wie es sein sollte: Schokolade mit einer Heidelbeerencrème. Und dieser Wunsch wurde auch erfüllt...
-&lt;img src=&quot;../2021-05-12-asparagi-croccanti-con-sesamo-e-salsa-allo-yogurt-con-senape-e-miele/tortagaia.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Ich denke, dass wir nächstes Jahr eine Torte ohne Zuckerteig machen können, was meinst du, Fräulein?&lt;/p&gt;
-&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
-  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
-    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
-      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Knusprige Spargeln mit Sesam und Joghurt-Senf-Honig-Sauce&lt;/span&gt;
-      &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
-      &lt;table&gt;
-        &lt;tbody&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;grüne Spargeln&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;Paniermehl&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;Sesam&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;Thymian&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;griechischer oder pflanzlicher Joghurt&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;Senf&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;Honig oder Agavendicksaft&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;Zitronensaft&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;Salz&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;Olivenöl&lt;/td&gt;
-          &lt;/tr&gt;
-        &lt;/tbody&gt;
-      &lt;/table&gt;
-      &lt;br&gt;&lt;/br&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;h3&gt;
-  &lt;font color=&quot;grey&quot;&gt;
-    &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt; Zubereitung
-&lt;/h3&gt;
-
-&lt;p&gt;Sauce vorbereiten: Joghurt, nach Belieben Senf, Honig, Zitronensaft, Olivenöl und Salz in ein Schüsselchen geben und rühren, im Kühlschrank ruhen lassen.&lt;/p&gt;
-&lt;p&gt;Das holzige Ende der Spargeln entfernen, kurz waschen und leicht abtupfen. Auf ein mit Backpapier belegtes Blech legen und mit Paniermehl bestreuen. Das Blech etwas schütteln, nochmals Paniermehl verteilen und nochmals schütteln. Nun Sesam und Thymian darüber streuen, Blech schütteln, nochmals Sesam und Thymian und das letzte Mal schütteln. Leicht salzen und etwas Olivenöl darüber träufeln. &lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2021-05-12-asparagi-croccanti-con-sesamo-e-salsa-allo-yogurt-con-senape-e-miele/teglia.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2021-05-12-asparagi-croccanti-con-sesamo-e-salsa-allo-yogurt-con-senape-e-miele/salsa.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-Spargeln für 20min im vorgeheizten Ofen bei 180°C Umluft rösten, sie müssen knackig bleiben. Nochmals leicht salzen und mit der Sauce als Beilage oder Apéro servieren.
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2021-05-12-asparagi-croccanti-con-sesamo-e-salsa-allo-yogurt-con-senape-e-miele/risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2021-05-12-asparagi-croccanti-con-sesamo-e-salsa-allo-yogurt-con-senape-e-miele/risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2021-05-12-asparagi-croccanti-con-sesamo-e-salsa-allo-yogurt-con-senape-e-miele/risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2021-05-12-asparagi-croccanti-con-sesamo-e-salsa-allo-yogurt-con-senape-e-miele/risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;h4&gt;Buon appetito
-  &lt;font color=&quot;red&quot;&gt;
-    &lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt;
-&lt;/h4&gt;</content>
-    <summary type="html" xml:lang="de">
-    
-      &lt;p&gt;&lt;img src=&quot;../2021-05-12-asparagi-croccanti-con-sesamo-e-salsa-allo-yogurt-con-senape-e-miele/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="Salato" scheme="http://frangipani.raiano.ch/categories/Salato/"/>
-    
-      <category term="Secondi Piatti e Contorni" scheme="http://frangipani.raiano.ch/categories/Salato/Secondi-Piatti-e-Contorni/"/>
-    
-    
-      <category term="vegan" scheme="http://frangipani.raiano.ch/tags/vegan/"/>
-    
-      <category term="contorno" scheme="http://frangipani.raiano.ch/tags/contorno/"/>
     
       <category term="primavera" scheme="http://frangipani.raiano.ch/tags/primavera/"/>
     

@@ -4,7 +4,7 @@
   
   <link href="http://frangipani.raiano.ch/it/atom.xml" rel="self"/>
   <link href="http://frangipani.raiano.ch/"/>
-  <updated>2022-01-31T09:09:32.420Z</updated>
+  <updated>2022-02-15T20:26:36.528Z</updated>
   <id>http://frangipani.raiano.ch/</id>
   
   <author>
@@ -13,6 +13,174 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title xml:lang="it">Crumble di Verdure</title>
+    <link href="http://frangipani.raiano.ch/2022-02-16-crumble-di-verdure/"/>
+    <id>http://frangipani.raiano.ch/2022-02-16-crumble-di-verdure/</id>
+    <published>2022-02-15T23:00:00.000Z</published>
+    <updated>2022-02-15T20:26:36.528Z</updated>
+    <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Crumble di Verdure&lt;/strong&gt; un contorno super saporito pieno di verdure di stagione. Usate le verdure che volete o che avete in casa e volendo, può essere preparato anche in anticipo.
+&lt;br /&gt;
+Io ho usato porro, carote, barbabietole (per questo il tutto ha un colorito fucsia), patate dolci, zucca, cavolo rosso e cavolini di Bruxelles, tutto di stagione. Ma il bello di questa ricetta è, che si può preparare in tutte le stagioni, semplicemente adattando le verdure. Me lo immagino in primavera con piselli freschi, asparagi, carciofini e le prime zucchine o in estate con melanzane, peperoni, zucchine e pomodori! Mamma che buono!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.foodblogs-schweiz.ch/challenge/&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;&lt;img src=&quot;https://www.foodblogs-schweiz.ch/wp-content/uploads/2022/01/Februar-Challenge.png.webp&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Poi mi sembrava perfetto per partecipare alla 32. Foodie Challenge mensile organizzata da &lt;a href=&quot;https://www.foodblogs-schweiz.ch&quot; target=&quot;_blank&quot;&gt;Foodblogs Schweiz&lt;/a&gt;. Anche questo mese senza nessun cesto della spesa, invece il tema di questa Challenge è &amp;quot;Comfort Food invernale con ingredienti di stagione&amp;quot;.
+&lt;br /&gt;
+Il Crumble per me è puro Comfort Food, la pasta frolla e la frutta cotta e profumata. Il mio preferito è quello &lt;a href=&quot;https://frangipani.raiano.ch/2014-08-24-crumble-di-prugne/&quot; target=&quot;_blank&quot;&gt;con le prugne&lt;/a&gt;. Ma fin ora, il Crumble l&amp;#39;ho sempre preparato nella versione dolce. Quindi era arrivata l&amp;#39;ora di prepararlo in chiave salata e mi è piaciuto un sacco. Poi mangiato con una salsa allo yogurt è proprio il top!&lt;/p&gt;
+&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
+  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
+    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
+      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Crumble di Verdure&lt;/span&gt;
+      &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
+      &lt;table&gt;
+        &lt;tbody&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1&lt;/td&gt;
+            &lt;td&gt;porro&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1&lt;/td&gt;
+            &lt;td&gt;carota grande&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1-2&lt;/td&gt;
+            &lt;td&gt;barbabietole crude&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1-2&lt;/td&gt;
+            &lt;td&gt;patate dolci&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 spicchio/pezzo&lt;/td&gt;
+            &lt;td&gt;zucca&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 spicchio/pezzo&lt;/td&gt;
+            &lt;td&gt;cavolo rosso&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 manciata&lt;/td&gt;
+            &lt;td&gt;cavolini di Bruxelles&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qb&lt;/td&gt;
+            &lt;td&gt;olio evo&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qb&lt;/td&gt;
+            &lt;td&gt;sale&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qb&lt;/td&gt;
+            &lt;td&gt;erbette e spezie&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;100gr&lt;/td&gt;
+            &lt;td&gt;farina&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;40gr&lt;/td&gt;
+            &lt;td&gt;parmigiano grattugiato&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1/2 cucchiaino&lt;/td&gt;
+            &lt;td&gt;sale&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qb&lt;/td&gt;
+            &lt;td&gt;erbette essiccate e spezie&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;50gr&lt;/td&gt;
+            &lt;td&gt;burro freddo&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;
+      &lt;br&gt;&lt;/br&gt;
+      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot; itemprop=&quot;recipeYield&quot;&gt;per una teglia da 24cm circa&lt;/i&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h3&gt;
+  &lt;font color=&quot;grey&quot;&gt;
+    &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt; Preparazione
+&lt;/h3&gt;
+
+&lt;p&gt;Lavate e pelate tutta la verdura. Tagliate a rondelle il porro e la carota, a cubetti le barbabietole, le patate dolci e la zucca, a listarelle il cavolo viola (eliminate la parte centrale dura) e i cavolini di Bruxelles a metà. In una padella capiente fate rosolare il porro con un filo d&amp;#39;olio ed un pizzico di sale, poi aggiungete il resto delle verdure e fate andare a temperatura media. Aggiungete delle erbette aromatiche fresche o essiccate, le spezie, io ho aggiunto la paprika, ed il sale. Se c&amp;#39;è bisogno aggiungete un pochettino d&amp;#39;acqua per favorire la cottura. Le verdure dovranno essere cotte ma ancora croccanti, non scotte.
+&lt;br /&gt;
+Mentre cuoce la verdura preparate il Crumble: Mettete farina, parmigiano, sale, erbette essiccate e spezie in una ciotola e mescolate. Aggiungete il burro freddo a pezzetti e impastate sbriciolando il tutto, dovrete ottenere un composto sabbioso. Lasciate in frigo finché servirà.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;verdura.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;crumble.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Prendete una pirofila, imburratela e mettete la verdura. Sopra alla verdura distribuite uniformemente il Crumble.
+&lt;img src=&quot;teglia.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Infornate il &lt;strong&gt;Crumble di Verdure&lt;/strong&gt; nel forno preriscaldato a 180°C ventilato per 30-40min o finché la superficie sarà bella dorata. Vi consiglio di accompagnarlo con una salsa allo yogurt fatta con yogurt, erbette aromatiche, paprika, succo di limone, sale e olio.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h4&gt;Buon appetito
+  &lt;font color=&quot;red&quot;&gt;
+    &lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt;
+&lt;/h4&gt;</content>
+    <summary type="html" xml:lang="it">
+    
+      &lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Crumble di Verdure&lt;/strong&gt; un contorno super saporito pieno di verdure
+    
+    </summary>
+    
+      <category term="Salato" scheme="http://frangipani.raiano.ch/categories/Salato/"/>
+    
+      <category term="Secondi Piatti e Contorni" scheme="http://frangipani.raiano.ch/categories/Salato/Secondi-Piatti-e-Contorni/"/>
+    
+    
+      <category term="contorno" scheme="http://frangipani.raiano.ch/tags/contorno/"/>
+    
+      <category term="autunno" scheme="http://frangipani.raiano.ch/tags/autunno/"/>
+    
+      <category term="inverno" scheme="http://frangipani.raiano.ch/tags/inverno/"/>
+    
+  </entry>
   
   <entry>
     <title xml:lang="it">Tarte al Cioccolato e Arancia</title>
@@ -2932,122 +3100,6 @@ Per ultimo preparate le fragole tagliandole e pezzettini e aggiungendo 1-2 cucch
       <category term="estate" scheme="http://frangipani.raiano.ch/tags/estate/"/>
     
       <category term="dolce" scheme="http://frangipani.raiano.ch/tags/dolce/"/>
-    
-      <category term="primavera" scheme="http://frangipani.raiano.ch/tags/primavera/"/>
-    
-  </entry>
-  
-  <entry>
-    <title xml:lang="it">Asparagi Croccanti con Sesamo e Salsa allo Yogurt con Senape e Miele</title>
-    <link href="http://frangipani.raiano.ch/2021-05-12-asparagi-croccanti-con-sesamo-e-salsa-allo-yogurt-con-senape-e-miele/"/>
-    <id>http://frangipani.raiano.ch/2021-05-12-asparagi-croccanti-con-sesamo-e-salsa-allo-yogurt-con-senape-e-miele/</id>
-    <published>2021-05-11T22:00:00.000Z</published>
-    <updated>2021-05-11T15:33:35.995Z</updated>
-    <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Asparagi Croccanti con Sesamo e Salsa allo Yogurt con Senape e Miele&lt;/strong&gt; un modo facile e veloce per preparare gli asparagi. Il risultato sarà super! Degli asparagi croccanti e saporiti da inzuppare in una salsina allo yogurt con senape e miele dal gusto molto particolare. Insieme sono una bomba!
-&lt;br /&gt;
-Possono essere preparati come contorno, ma anche come aperitivo e vi assicuro che sono uno tira l&amp;#39;altro! Mi piace tantissimo cucinare gli asparagi nel forno o semplicemente in &lt;a href=&quot;https://frangipani.raiano.ch/2019-05-08-asparagi-in-padella-al-limone/&quot; target=&quot;_blank&quot;&gt;padella con il limone&lt;/a&gt;. &lt;/p&gt;
-&lt;p&gt;E anche quest&amp;#39;anno ho dato con i compleanni. Lunedì Gaia ha festeggiato il suo 8° compleanno, anche se la sua festicciola l&amp;#39;avevamo anticipata a sabato che c&amp;#39;era una giornata bellissima! Quest&amp;#39;anno era un po&amp;#39; indecisa sull&amp;#39;aspetto della torta, ma mentre guardavamo le immagini delle torte, ha visto un polipetto lilla e polipetto lilla fu! Per il gusto però sapeva esattamente come la voleva: cioccolato con una crema ai mirtilli. E anche questo desiderio è stato esaudito...
-&lt;img src=&quot;tortagaia.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Però penso che prossimo anno la possiamo finire con le torte in pasta di zucchero, che ne dici signorina?&lt;/p&gt;
-&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
-  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
-    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
-      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Asparagi Croccanti con Sesamo e Salsa allo Yogurt con Senape e Miele&lt;/span&gt;
-      &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
-      &lt;table&gt;
-        &lt;tbody&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;asparagi verdi&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;pan grattato&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;sesamo&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;timo&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;yogurt greco o vegetale&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;senape&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;miele o sciroppo d&#39;agave&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;succo di limone&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;sale&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;olio evo&lt;/td&gt;
-          &lt;/tr&gt;
-        &lt;/tbody&gt;
-      &lt;/table&gt;
-      &lt;br&gt;&lt;/br&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;h3&gt;
-  &lt;font color=&quot;grey&quot;&gt;
-    &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt; Preparazione
-&lt;/h3&gt;
-
-&lt;p&gt;Preparate la salsa: mettete lo yogurt, quanto basta di senape, miele, succo di limone, olio e sale in una coppetta e mescolate, fate riposare in frigo.&lt;/p&gt;
-&lt;p&gt;Eliminate la parte legnosa degli asparagi, lavateli e tamponateli leggermente con un panno. Metteteli in una teglia con sotto della carta forno e cospargeteli con del pan grattato. Muovete un po&amp;#39; la teglia, mettete altro pan grattato e muovete ancora. Adesso cospargete con del sesamo e del timo, muovete la teglia e ripetete. Salate leggermente e finite con un bel filo d&amp;#39;olio. &lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;teglia.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;salsa.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-
-&lt;p&gt;Infornate nel forno preriscaldato a 180°C ventilato per ca. 20min, devono risultare ancora croccanti. Salate ancora pochettino appena sfornati. Servite con la salsa come contorno o come aperitivo...&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;h4&gt;Buon appetito
-  &lt;font color=&quot;red&quot;&gt;
-    &lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt;
-&lt;/h4&gt;</content>
-    <summary type="html" xml:lang="it">
-    
-      &lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Asparagi Croccanti con Sesamo e Salsa allo Yogurt con Senape e Miele&lt;/s
-    
-    </summary>
-    
-      <category term="Salato" scheme="http://frangipani.raiano.ch/categories/Salato/"/>
-    
-      <category term="Secondi Piatti e Contorni" scheme="http://frangipani.raiano.ch/categories/Salato/Secondi-Piatti-e-Contorni/"/>
-    
-    
-      <category term="vegan" scheme="http://frangipani.raiano.ch/tags/vegan/"/>
-    
-      <category term="contorno" scheme="http://frangipani.raiano.ch/tags/contorno/"/>
     
       <category term="primavera" scheme="http://frangipani.raiano.ch/tags/primavera/"/>
     
