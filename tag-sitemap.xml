@@ -3,6 +3,20 @@
 
 
     <url>
+        <loc>http://frangipani.raiano.ch/tags/frittelle/</loc>
+        <lastmod>2022-02-21T16:04:38.946Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/carnevale/</loc>
+        <lastmod>2022-02-21T16:04:38.946Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://frangipani.raiano.ch/tags/inverno/</loc>
         <lastmod>2022-02-15T20:38:25.680Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -591,13 +605,6 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/tags/carnevale/</loc>
-        <lastmod>2021-02-01T10:08:35.909Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://frangipani.raiano.ch/tags/cavolo/</loc>
         <lastmod>2021-01-26T18:55:02.813Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -824,13 +831,6 @@
     <url>
         <loc>http://frangipani.raiano.ch/tags/mirtilli/</loc>
         <lastmod>2020-03-04T17:02:07.294Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/frittelle/</loc>
-        <lastmod>2020-03-04T17:02:07.014Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

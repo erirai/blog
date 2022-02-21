@@ -9,6 +9,22 @@
 
 
     <url>
+        <loc>http://frangipani.raiano.ch/2022-02-22-fasnachtschuechli/</loc>
+        <lastmod>2022-02-21T16:04:38.946Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/2022-02-22-fasnachtschuechli-de/</loc>
+        <lastmod>2022-02-18T16:14:39.952Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://frangipani.raiano.ch/2022-02-16-crumble-di-verdure-de/</loc>
         <lastmod>2022-02-15T20:38:25.680Z</lastmod>
         <changefreq>weekly</changefreq>
