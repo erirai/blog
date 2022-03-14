@@ -7,7 +7,7 @@ tags:
   - pane
   - natale
 categories:
-  - Dolce
+  - Salato
   - Panificati
 label: 2021-12-15-ghirlanda-di-pane-con-semi-di-lino
 ---
