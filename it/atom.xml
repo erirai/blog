@@ -4,7 +4,7 @@
   
   <link href="http://frangipani.raiano.ch/it/atom.xml" rel="self"/>
   <link href="http://frangipani.raiano.ch/"/>
-  <updated>2022-03-18T08:04:59.041Z</updated>
+  <updated>2022-03-18T08:11:26.921Z</updated>
   <id>http://frangipani.raiano.ch/</id>
   
   <author>
@@ -19,7 +19,7 @@
     <link href="http://frangipani.raiano.ch/2022-03-15-quadrotti-al-cioccolato-con-crema-al-caffe/"/>
     <id>http://frangipani.raiano.ch/2022-03-15-quadrotti-al-cioccolato-con-crema-al-caffe/</id>
     <published>2022-03-14T23:00:00.000Z</published>
-    <updated>2022-03-18T08:04:59.041Z</updated>
+    <updated>2022-03-18T08:11:26.921Z</updated>
     <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Quadrotti al Cioccolato con Crema al Caffè&lt;/strong&gt; golosissimi, super cioccolatosi e con una cremosissima crema al caffé. E anche un&amp;#39;ottima idea per la Festa del Papà, no? I dolci con il caffè vanno sempre bene per i papà, ma anche per le mamme eh! Ma ci sono eccezioni, come mio marito... Tranne il &lt;a href=&quot;https://frangipani.raiano.ch/2014-03-04-tiramisu/&quot; target=&quot;_blank&quot;&gt;Tiramisù&lt;/a&gt;, quello gli piace tantissimissimo!
 &lt;br /&gt;
@@ -28,8 +28,11 @@ Sotto c&amp;#39;è un semplice Brownie. Volevo una base molto cioccolatosa ma no
 &lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
   &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
     &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Dolce&lt;/span&gt;
       &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Quadrotti al Cioccolato con Crema al Caffè&lt;/span&gt;
       &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; src=&quot;header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Quadrotti al Cioccolato con Crema al Caffè golosissimi, super cioccolatosi e con una cremosissima crema al caffé. E anche un&#39;ottima idea per la Festa del Papà, no?&lt;/span&gt;
       &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
       &lt;table&gt;
         &lt;tbody&gt;
