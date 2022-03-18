@@ -22,7 +22,7 @@ Sie haben mir sehr geschmeckt! Also sind sie nicht sehr leicht, aber sie werden 
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Schoko-Schnitten mit Kaffee-Crème</span>
-      <img property="image" style="display:none;" src="../2022-03-15-quadrotti-al-cioccolato-con-crema-al-caffe/header.jpeg"/>
+      <img itemprop="image" style="display:none;" src="../2022-03-15-quadrotti-al-cioccolato-con-crema-al-caffe/header.jpeg"/>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
