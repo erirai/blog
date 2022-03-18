@@ -4,7 +4,7 @@
   
   <link href="http://frangipani.raiano.ch/de/atom.xml" rel="self"/>
   <link href="http://frangipani.raiano.ch/"/>
-  <updated>2022-03-18T08:11:06.556Z</updated>
+  <updated>2022-03-18T08:17:17.514Z</updated>
   <id>http://frangipani.raiano.ch/</id>
   
   <author>
@@ -19,7 +19,7 @@
     <link href="http://frangipani.raiano.ch/2022-03-15-quadrotti-al-cioccolato-con-crema-al-caffe-de/"/>
     <id>http://frangipani.raiano.ch/2022-03-15-quadrotti-al-cioccolato-con-crema-al-caffe-de/</id>
     <published>2022-03-14T23:00:00.000Z</published>
-    <updated>2022-03-18T08:11:06.556Z</updated>
+    <updated>2022-03-18T08:17:17.514Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2022-03-15-quadrotti-al-cioccolato-con-crema-al-caffe/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Schoko-Schnitten mit Kaffee-Crème&lt;/strong&gt; lecker, super schokoladig und mit einer sehr geschmeidigen Kaffee-Crème. Und auch eine tolle Idee für den Vatertag, nicht? In Italien feiern wir am 19.3. (Josefstag) den Vatertag, in der Schweiz weiss ich es ehrlichgesagt gar nicht... Desserts mit Kaffee sind immer gut für Väter, aber auch für Mütter, gäll! Aber es gibt Ausnahmen, wie bei meinem Mann... Ausser beim &lt;a href=&quot;https://frangipani.raiano.ch/2014-03-04-tiramisu-de/&quot; target=&quot;_blank&quot;&gt;Tiramisù&lt;/a&gt;, das er sehr mag!
 &lt;br /&gt;
@@ -30,7 +30,7 @@ Der Boden besteht aus einem einfachen Brownie. Ich wollte einen sehr schokoladig
     &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
       &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Süsses&lt;/span&gt;
       &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Schoko-Schnitten mit Kaffee-Crème&lt;/span&gt;
-      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; src=&quot;../2022-03-15-quadrotti-al-cioccolato-con-crema-al-caffe/header.jpeg&quot;/&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2022-03-15-quadrotti-al-cioccolato-con-crema-al-caffe/header.jpeg&quot;/&gt;
       &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
       &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Schoko-Schnitten mit Kaffee-Crème lecker, super schokoladig und mit einer sehr geschmeidigen Kaffee-Crème. Und auch eine tolle Idee für den Vatertag, nicht?&lt;/span&gt;
       &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
