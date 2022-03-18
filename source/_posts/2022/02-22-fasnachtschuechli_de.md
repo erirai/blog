@@ -22,6 +22,10 @@ Wie ich schon ein paar Mal geschrieben habe, frittiere ich nicht gerne, aber Fas
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Fasnachtschüechli</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2022-02-22-fasnachtschuechli/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Fasnachtschüechli hauchdünn, super knusprig und potentielle Suchtgefahr. Das ist ein Fasnachtsgebäck aus der schweizer Tradition und in dieser Zeit überall zu finden.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

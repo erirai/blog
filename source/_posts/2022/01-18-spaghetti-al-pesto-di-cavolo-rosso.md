@@ -27,6 +27,10 @@ Ho deciso di preparare una ricetta bella colorata perché l'inverno ha bisogno d
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Spaghetti al Pesto di Cavolo Rosso</span>
+      <span itemprop="recipeCategory" style="display:none;">Salato</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Spaghetti al Pesto di Cavolo Rosso un piatto coloratissimo e fresco. È una ricetta veloce e facile, ma tanto buona. Per via del Veganuary ho preparato il pesto senza formaggio, ma si può aggiungere del parmigiano o del pecorino a piacere.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

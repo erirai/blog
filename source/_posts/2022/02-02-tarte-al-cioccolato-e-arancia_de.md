@@ -29,6 +29,10 @@ Ich sehe viele Desserts mit Erdbeeren und Himbeeren, aber im Februar ist es einf
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Schokolade-Orangen-Tarte</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2022-02-02-tarte-al-cioccolato-e-arancia/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Schokolade-Orangen-Tarte mit der Cremigkeit der Ganache, der Frische der Orangencrème und der Knusprigkeit von Kakao-Mürbeteig. Eine Geschmacksexplosion, die perfekt miteinander harmoniert.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

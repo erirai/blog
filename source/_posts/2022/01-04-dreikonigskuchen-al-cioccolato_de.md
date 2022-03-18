@@ -32,6 +32,10 @@ Erwartungen? Nö! Inzwischen wissen wir, dass sich die Probleme mit dem neuen Ja
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Schoko-Dreikönigskuchen</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2021-01-04-dreikonigskuchen-al-cioccolato/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Schoko-Dreikönigskuchen für den Dreikönigstag. Es ist eine Variation vom klassischen <a href="https://frangipani.raiano.ch/2015-01-06-dreikoenigskuchen/" target="_blank">Dreikönigskuchen</a> den ich normalerweise vegan zubereite.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

@@ -27,6 +27,10 @@ Il Crumble per me è puro Comfort Food, la pasta frolla e la frutta cotta e prof
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Crumble di Verdure</span>
+      <span itemprop="recipeCategory" style="display:none;">Salato</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Crumble di Verdure un contorno super saporito pieno di verdure di stagione. Usate le verdure che volete o che avete in casa e volendo, può essere preparato anche in anticipo.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

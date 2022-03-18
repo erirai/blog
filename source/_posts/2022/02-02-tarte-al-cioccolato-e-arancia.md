@@ -29,6 +29,10 @@ Vedo tantissimi dolci fatti con fragole, lamponi ma febbraio non è periodo di f
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Tarte al Cioccolato e Arancia</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Tarte al Cioccolato e Arancia con la cremosità della Ganache, la freschezza dell'arancia e la croccantezza della frolla al cacao. Un'esplosione di gusti che insieme armonizzano perfettamente.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

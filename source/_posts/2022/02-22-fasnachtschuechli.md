@@ -22,6 +22,10 @@ Come ho già scritto un paio di volte, non mi piace friggere ma i dolci di carne
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Fasnachtschüechli (Frittelle di Carnevale Svizzere)</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Fasnachtschüechli (Frittelle di Carnevale Svizzere) sottilissime, croccantissime e una tira l'altra. Sono un dolce di carnevale della tradizione svizzera e in questo periodo si trovano ovunque.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

@@ -27,6 +27,10 @@ Ich habe mich entschieden, ein farbiges Rezept zuzubereiten, denn der Winter bra
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Spaghetti mit Rotkohl-Pesto</span>
+      <span itemprop="recipeCategory" style="display:none;">Herzhaftes</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2022-01-18-spahetti-al-pesto-di-cavolo-rosso/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Spaghetti mit Rotkohl-Pesto ein farbenfrohes und frisches Gericht. Es ist ein schnelles und einfaches Rezept, aber so lecker. Wegen dem Veganuary, habe ich das Pesto ohne Käse zubereitet, man kann aber nach Belieben Parmesan oder Pecorino hinzufügen.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

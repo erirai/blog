@@ -32,6 +32,10 @@ Aspettative? Naaa! Ormai sappiamo che con l'anno nuovo i problemi non si risolvo
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Dreikönigskuchen al Cioccolato</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Dreikönigskuchen al Cioccolato una ghirlanda di Pan Brioche al cacao con pezzetti di cioccolato. È una variazione del classico <a href="https://frangipani.raiano.ch/2015-01-06-dreikoenigskuchen/" target="_blank">Dreikönigskuchen</a> che io solitamente faccio nella versione vegana.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

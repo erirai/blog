@@ -27,6 +27,10 @@ Crumble ist für mich pures Comfort Food, Mürbeteig und gekochte und duftende F
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Gemüse-Crumble</span>
+      <span itemprop="recipeCategory" style="display:none;">Herzhaftes</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2022-02-16-crumble-di-verdure/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Gemüse-Crumble eine super leckere Beilage voller Saisongemüse. Verwendet das Gemüse, das ihr mögt oder zu Hause habt, und wenn ihr möchtet, kann es auch im Voraus zubereitet werden.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
