@@ -22,7 +22,7 @@ Mi sono piaciuti tantissimo! Ecco, non sono leggerissimi eh, ma vanno condivisi 
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Quadrotti al Cioccolato con Crema al Caffè</span>
-      <img property="image" style="display:none;" src="header.jpeg" alt="Quadrotti al Cioccolato con Crema al Caffè" />
+      <img property="image" style="display:none;" src="header.jpeg"/>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
