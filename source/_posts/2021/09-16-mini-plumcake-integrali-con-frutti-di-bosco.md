@@ -19,7 +19,7 @@ lang: it
 Chi non ama il gusto dell'integrale può anche fare metà farina integrale e metà farina bianca o usare solo farina bianca. Va benissimo anche la teglia per muffin, cambia solo la forma.
 
 <a href="https://www.foodblogs-schweiz.ch/challenge/" target="_blank" rel="noreferrer noopener">
- <img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2021/08/September.jpg" /></a>
+ <img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2021/08/September.jpg" class="ignore-gallery-item" /></a>
 
 Con questa ricetta partecipo anche alla 28. Foodie Challenge mensile, organizzata da <a href="https://www.foodblogs-schweiz.ch" target="_blank">Foodblogs Schweiz</a>. Nel cestino di questo mese ci sono: more, lamponi, prugne, zucchine, pomodori e melanzane. Un cestino meraviglioso! Prima avevo pensato di fare qualcosa di salato, forse qualcosa di panificato con zucchine, melanzane e pomodori. Poi però mi sono accorta che quest'anno ho fatto poco e niente con i frutti di bosco e allora frutti di bosco sia!
 

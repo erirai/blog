@@ -22,7 +22,7 @@ Il Rösti è scritto sulla mia to-cook-list ormai da anni. L'ho sempre evitato, 
 Voi avete mai mangiato il Rösti? Il classico sarebbe quello solo con le patate, ma si può fare con molte verdure, l'importante è che ci siano le patate. Amo quella crosticina croccante di fuori e l'interno bello morbido. Per me questo è un vero e prorio piatto autunnale/invernale, molto comfy.
 
 <a href="https://www.foodblogs-schweiz.ch/challenge/" target="_blank" rel="noreferrer noopener">
- <img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2021/09/Challenge-Banner-1.png"></a>
+ <img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2021/09/Challenge-Banner-1.png" class="ignore-gallery-item"></a>
 
 Con questo piatto partecipo anche alla 29. Foodie Challenge mensile, organizzata da <a href="https://www.foodblogs-schweiz.ch" target="_blank">Foodblogs Schweiz</a>. Nel cestino di questo mese ci sono: castagne, zucca, funghi, pere, noci e mele cotogne. Dunque, le mele cotogne le scartiamo subito che proprio non mi piacciono. Avrei potuto fare una torta con pere e noci, ma avevo fatto una cosa simile già per la <a href="https://frangipani.raiano.ch/2021-01-12-torta-morbida-con-fiocchi-d-avena-e-pere/" target="_blank">Foodie Challenge di Gennaio</a>. Con le castagne faccio un po' fatica ad usarle nella cucina, perché mi piacciono troppo semplicemente arrostite. Dunque sono rimasti i funghi i la zucca, gli attori principali dell'autunno. Ed ecco che sono uscita dalla mia comfort zone e ho preparato il **Rösti di Zucca e Patate con Funghi e Panna**!
 

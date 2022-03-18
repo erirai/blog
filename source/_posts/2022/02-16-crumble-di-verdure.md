@@ -17,7 +17,7 @@ lang: it
 <br />
 Io ho usato porro, carote, barbabietole (per questo il tutto ha un colorito fucsia), patate dolci, zucca, cavolo rosso e cavolini di Bruxelles, tutto di stagione. Ma il bello di questa ricetta è, che si può preparare in tutte le stagioni, semplicemente adattando le verdure. Me lo immagino in primavera con piselli freschi, asparagi, carciofini e le prime zucchine o in estate con melanzane, peperoni, zucchine e pomodori! Mamma che buono!
 
-<a href="https://www.foodblogs-schweiz.ch/challenge/" target="_blank" rel="noreferrer noopener"><img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2022/01/Februar-Challenge.png.webp" /></a>
+<a href="https://www.foodblogs-schweiz.ch/challenge/" target="_blank" rel="noreferrer noopener"><img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2022/01/Februar-Challenge.png.webp" class="ignore-gallery-item" /></a>
 
 Poi mi sembrava perfetto per partecipare alla 32. Foodie Challenge mensile organizzata da <a href="https://www.foodblogs-schweiz.ch" target="_blank">Foodblogs Schweiz</a>. Anche questo mese senza nessun cesto della spesa, invece il tema di questa Challenge è "Comfort Food invernale con ingredienti di stagione".
 <br />

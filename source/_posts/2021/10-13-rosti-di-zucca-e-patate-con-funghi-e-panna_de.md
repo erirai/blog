@@ -22,7 +22,7 @@ Rösti steht schon seit Jahren auf meiner to-cook-Liste. Ich habe es immer gemie
 Habt ihr schon einmal Rösti gegessen? Der Klassiker, wäre die nur mit Kartoffeln, geht aber mit vielen Gemüsesorten, wichtig ist, dass es Kartoffeln hat. Ich liebe diese knusprige Kruste aussen und der herrlich weiche Kern. Für mich ein echtes Herbst-/Wintergericht, richtiges Soulfood.
 
 <a href="https://www.foodblogs-schweiz.ch/challenge/" target="_blank" rel="noreferrer noopener">
- <img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2021/09/Challenge-Banner-1.png"></a>
+ <img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2021/09/Challenge-Banner-1.png" class="ignore-gallery-item"></a>
 
 Mit diesem Rezept nehme ich an der 29. monatlichen Foodie Challenge teil, die von <a href="https://www.foodblogs-schweiz.ch" target="_blank">Foodblogs Schweiz</a> organisiert wird. Im Oktober-Warenkorb befinden sich: Marroni, Kürbis, Pilze, Birnen, Baumnüsse und Quitten. Also, Quitten werden sofort beiseitegeschoben, die mag ich wirklich nicht. Ich hätte eine Torte mit Birnen und Baumnüssen backen können, aber ähnliches hatte ich schon für die <a href="https://frangipani.raiano.ch/2021-01-12-torta-morbida-con-fiocchi-d-avena-e-pere/" target="_blank">Januar Foodie Challenge</a> gebacken. Bei Kastanien finde ich es etwas schwierig, sie in der Küche zu verwenden, da ich Heissi Marroni am liebsten mag. So blieben Pilze und Kürbis, die Hauptdarsteller des Herbstes. Und so habe ich meine Komfortzone verlassen und **Kürbis-Kartoffelrösti mit Pilz-Rahmsauce** gemacht!
 

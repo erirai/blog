@@ -17,7 +17,7 @@ lang: it
 
 Mi piace tantissimo abbinare il cavolo rosso con il limone perché con l'aggiunta del limone, il cavolo rosso cambia colore e diventa tipo fucsia-lilla. A parte che ci sta bene anche come gusto... 
 
-<a href="https://www.foodblogs-schweiz.ch/challenge/" target="_blank" rel="noreferrer noopener"><img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2021/12/Veganuary-Challenge.jpg.webp" /></a>
+<a href="https://www.foodblogs-schweiz.ch/challenge/" target="_blank" rel="noreferrer noopener"><img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2021/12/Veganuary-Challenge.jpg.webp" class="ignore-gallery-item" /></a>
 
 Con questo piatto partecipo alla 31. Foodie Challenge mensile organizzata da <a href="https://www.foodblogs-schweiz.ch" target="_blank">Foodblogs Schweiz</a>. Questo mese senza nessun cesto della spesa, invece il tema di questa Challenge è "Veganuary". Possiamo preparare una ricetta vegana con prodotti di stagione.
 <br />

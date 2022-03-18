@@ -20,7 +20,7 @@ Questo piatto in realtà è molto versatile, perché oltre alle patate, si posso
 Comunque vorrei farvi notare una cosa... Nelle foto finali si vede molto bene una mia brutta abitudine. Prendo sempre, SEMPRE, pirofile o contenitori troppo piccoli o giusti giusti giusti e poi fuoriesce tutto. E dopo mi lamento sempre che ho il forno sempre sporco, chissà perchè?!
 
 <a href="https://www.foodblogs-schweiz.ch/challenge/" target="_blank" rel="noreferrer noopener">
- <img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2021/10/fbs_challenge_november21.png"></a>
+ <img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2021/10/fbs_challenge_november21.png" class="ignore-gallery-item"></a>
 
 Era un sacco di tempo che non facevo il **Gratin di Patate**, in realtà ero convinta di aver già messo la ricetta sul Blog. Poi quando ho letto gli ingredienti per la 30. Foodie Challenge mensile, organizzata da <a href="https://www.foodblogs-schweiz.ch" target="_blank">Foodblogs Schweiz</a>, l'ho preparato e finalmente ecco la ricetta. Nel cestino di questo mese infatti ci sono: mele, nocciole, aglio, patate, spinaci e porro. L'aglio lo uso sempre intero perché non amo particolarmente avere pezzi di aglio nel cibo, a parte il pane all'aglio.
 <br />

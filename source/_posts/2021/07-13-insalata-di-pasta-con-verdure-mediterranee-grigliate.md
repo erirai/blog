@@ -19,7 +19,7 @@ lang: it
 Ho usato peperoni, zucchine, melanzane e pomodori perché queste per me sono LE verdure estive per eccellenza. Però si può fare con qualsiasi tipo di verdura... usate quello che avete in frigo! Se non vi piace il formaggio Feta, potete usare anche un altro tipo di formaggio tagliato a cubetti o semplicemente la mozzarella.
 
 <a href="https://www.foodblogs-schweiz.ch/challenge/" target="_blank" rel="noreferrer noopener">
- <img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2021/06/Juli-Challenge.jpg"></a>
+ <img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2021/06/Juli-Challenge.jpg" class="ignore-gallery-item"></a>
 
 Con questo piatto partecipo anche alla 27. Foodie Challenge mensile, organizzata da <a href="https://www.foodblogs-schweiz.ch" target="_blank">Foodblogs Schweiz</a>. Nel cestino di questo mese ci sono: basilico, zucchine, pomodori, albicocche, ciliegie e lamponi. Un cestino bello ricco, non facile da decidere devo dire! Ma siccome le ultime due volte ho preparato ricette dolci, oggi vi tocca una ricetta salata...
 

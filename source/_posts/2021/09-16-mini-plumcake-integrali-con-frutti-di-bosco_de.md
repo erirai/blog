@@ -19,7 +19,7 @@ lang: de
 Wer den Geschmack von Vollkorn nicht mag, kann auch halb Vollkornmehl und halb Weissmehl oder nur Weissmehl verwenden. Man kann selbstverständlich auch ein normales Muffinbackblech benutzen, nur die Form ändert sich.
 
 <a href="https://www.foodblogs-schweiz.ch/challenge/" target="_blank" rel="noreferrer noopener">
- <img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2021/08/September.jpg" /></a>
+ <img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2021/08/September.jpg" class="ignore-gallery-item" /></a>
 
 Mit diesem Rezept nehme ich an der 28. monatlichen Foodie Challenge teil, die von <a href="https://www.foodblogs-schweiz.ch" target="_blank">Foodblogs Schweiz</a> organisiert wird. Im September-Warenkorb befinden sich: Brombeeren, Himbeeren, Zwetschgen, Zucchini, Tomaten und Auberginen. Ein wunderbarer Korb! Zuerst hatte ich überlegt, etwas Herzhaftes zu machen, vielleicht etwas brotiges mit Zucchini, Auberginen und Tomaten. Aber dann wurde mir klar, dass ich dieses Jahr wenig mit Beeren gebacken habe und darum gab es etwas mit Beeren!
 

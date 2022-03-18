@@ -17,7 +17,7 @@ lang: de
 <br />
 Ich habe Lauch, Karotten, Randen (daher alles pink), Süsskartoffeln, Kürbis, Rotkohl und Rosenkohl verwendet, alles saisonal. Aber das Schöne an diesem Rezept ist, dass es zu jeder Jahreszeit zubereitet werden kann, indem man einfach das Gemüse anpasst. Ich stelle es mir im Frühling mit frischen Erbsen, Spargel, Artischocken und den ersten Zucchini vor oder im Sommer mit Auberginen, Paprika, Zucchini und Tomaten! Mmm, das ist gut!
 
-<a href="https://www.foodblogs-schweiz.ch/challenge/" target="_blank" rel="noreferrer noopener"><img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2022/01/Februar-Challenge.png.webp" /></a>
+<a href="https://www.foodblogs-schweiz.ch/challenge/" target="_blank" rel="noreferrer noopener"><img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2022/01/Februar-Challenge.png.webp" class="ignore-gallery-item"/></a>
 
 Es schien mir auch das perfekte Rezept, um an die 32. monatliche Foodie Challenge mitzumachen, die von <a href="https://www.foodblogs-schweiz.ch" target="_blank">Foodblogs Schweiz</a> organisiert wird. Auch diesen Monat ohne Warenkorb, jedoch mit dem Thema "Winter Comfort Food mit saisonalen Zutaten".
 <br />

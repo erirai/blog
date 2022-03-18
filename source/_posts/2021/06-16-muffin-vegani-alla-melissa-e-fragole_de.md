@@ -21,7 +21,7 @@ lang: de
 Als Grundlage habe ich das Rezept vom <a href="https://frangipani.raiano.ch/2017-06-08-torta-all-acqua-con-fragole-e-cioccolato-de/" target="_blank">Wasserkuchen</a> genommen, den ich leicht angepasst habe. Ich liebe diese Muffins und es ist eine andere Möglichkeit, die Zitronenmelisse zu benutzen, die überall im Garten wächst! Ich verwende sie oft für Aufgüsse, auch kalte oder direkt im Salat. Der zitronige Geschmack gefällt mir sehr gut... Wenn ihr keine Zitronenmelisse findet, könnt ihr sie auch durch Minze, durch andere Kräutertees oder Tee ersetzen, aber auch nur Wasser verwenden.
 
 <a href="https://www.foodblogs-schweiz.ch/challenge/" target="_blank" rel="noreferrer noopener">
- <img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2021/06/fbs-juni-challenge-banner.png"></a>
+ <img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2021/06/fbs-juni-challenge-banner.png" class="ignore-gallery-item"></a>
 
 Naja, sie passen auch perfekt zur 26. monatlichen Foodie Challenge, die von <a href="https://www.foodblogs-schweiz.ch" target="_blank">Foodblogs Schweiz</a> organisiert wird. Im Juni-Warenkorb befinden sich: Erdbeeren, Zitronenmelisse, Schnittlauch, Mangold, Blattsalate und Eier.
 <br />

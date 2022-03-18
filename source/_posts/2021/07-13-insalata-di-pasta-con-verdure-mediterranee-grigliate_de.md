@@ -19,7 +19,7 @@ lang: de
 Ich habe Paprika, Zucchini, Auberginen und Tomaten verwendet, weil diese für mich DAS Sommergemüse schlechthin sind. Aber es geht mit jeder Art von Gemüse... verwendet, was im Kühlschrank ist! Wer keinen Feta-Käse mag, kann auch eine andere in Würfel geschnittene Käsesorte oder einfach Mozzarella verwenden.
 
 <a href="https://www.foodblogs-schweiz.ch/challenge/" target="_blank" rel="noreferrer noopener">
- <img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2021/06/Juli-Challenge.jpg"></a>
+ <img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2021/06/Juli-Challenge.jpg" class="ignore-gallery-item"></a>
 
 Mit diesem Rezept nehme ich an der 27. monatlichen Foodie Challenge teil, die von <a href="https://www.foodblogs-schweiz.ch" target="_blank">Foodblogs Schweiz</a> organisiert wird. Im Juli-Warenkorb befinden sich: Basilikum, Zucchetti, Tomaten, Aprikosen, Kirschen und Himbeeren. Ein prächtiger Warenkorb, gar nicht einfach sich zu entscheiden! Da aber die letzten beiden Rezepte süss waren, gibt es dieses Mal etwas herzhaftes...
 

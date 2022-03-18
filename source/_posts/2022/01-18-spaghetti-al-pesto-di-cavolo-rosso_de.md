@@ -17,7 +17,7 @@ lang: de
 
 Ich mag es Rotkohl mit Zitrone zu kombinieren, denn mit der Zugabe von Zitrone verändert Rotkohl seine Farbe und wird pink-lila. Abgesehen davon, dass es auch geschmacklich super dazu passt...
 
-<a href="https://www.foodblogs-schweiz.ch/challenge/" target="_blank" rel="noreferrer noopener"><img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2021/12/Veganuary-Challenge.jpg.webp" /></a>
+<a href="https://www.foodblogs-schweiz.ch/challenge/" target="_blank" rel="noreferrer noopener"><img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2021/12/Veganuary-Challenge.jpg.webp" class="ignore-gallery-item" /></a>
 
 Mit diesem Gericht nehme ich an der 31. monatlichen Foodie Challenge teil, organisiert von <a href="https://www.foodblogs-schweiz.ch" target="_blank">Foodblogs Schweiz</a>. Diesen Monat ohne Warenkorb, sondern das Thema dieser Challenge lautet "Veganuary". Wir können ein veganes Rezept mit saisonalen Produkten zubereiten.
 <br />

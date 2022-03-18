@@ -20,7 +20,7 @@ Dieses Gericht ist eigentlich sehr vielseitig, denn neben Kartoffeln kann man au
 Übrigens, ich möchte euch auf etwas aufmerksam machen... Auf den letzten Fotos sieht man sehr gut eine schlechte Angewohnheit von mir. Ich nehme immer, IMMER, zu kleine oder seeehr knappe Backformen oder Behälter und dann kommt alles raus. Und hinterher beschwere ich mich, dass mein Backofen immer schmutzig ist, warum wohl?!
 
 <a href="https://www.foodblogs-schweiz.ch/challenge/" target="_blank" rel="noreferrer noopener">
- <img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2021/10/fbs_challenge_november21.png"></a>
+ <img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2021/10/fbs_challenge_november21.png" class="ignore-gallery-item"></a>
 
 Es war lange her, dass ich **Kartoffelgratin** gemacht hatte, tatsächlich war ich überzeugt, dass ich das Rezept bereits auf dem Blog gepostet hatte. Als ich dann die Zutaten für die 30. Foodie Challenge sah, welche von <a href="https://www.foodblogs-schweiz.ch" target="_blank">Foodblogs Schweiz</a> organisiert wird, habe ich es vorbereitet und endlich ist das Rezept gepostet. Im November-Warenkorb befinden sich: Äpfel, Haselnüsse, Knoblauch, Kartoffeln, Spinat und Lauch. Ich verwende Knoblauch immer ganz, weil ich Knoblauchstücke in meinem Essen nicht besonders mag, abgesehen von Knoblibrot.
 <br />

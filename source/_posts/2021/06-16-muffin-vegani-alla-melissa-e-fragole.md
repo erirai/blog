@@ -21,7 +21,7 @@ lang: it
 Come base ho usato la ricetta della <a href="https://frangipani.raiano.ch/2017-06-08-torta-all-acqua-con-fragole-e-cioccolato/" target="_blank">Torta all'Acqua</a> che ho leggermente adattato. Mi sono piaciuti tantissimo ed è un altro modo per smaltire la melissa che in giardino sta crescendo dappertutto! La uso spesso per fare infusi, anche freddi o direttamente nell'insalata. Mi piace tantissimo quel suo gusto limonoso... Se non trovate la melissa, potete sostituirla anche con la menta, con altri tipi di tisane o té, ma anche usare solo l'acqua.
 
 <a href="https://www.foodblogs-schweiz.ch/challenge/" target="_blank" rel="noreferrer noopener">
- <img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2021/06/fbs-juni-challenge-banner.png"></a>
+ <img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2021/06/fbs-juni-challenge-banner.png" class="ignore-gallery-item"></a>
 
 Beh, poi ci stavano perfettamente per la 26. Foodie Challenge mensile, organizzata da <a href="https://www.foodblogs-schweiz.ch" target="_blank">Foodblogs Schweiz</a>. Nel cestino di questo mese ci sono: fragole, melissa, erba cipollina, coste (bietola), inslata e uova. 
 <br />

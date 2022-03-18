@@ -22,7 +22,7 @@ Mi sono ispirata a una ricetta trovata nell'ultima edizione (maggio/giugno 2021)
 La ricetta ha tre componenti: il guscio di frolla alle mandorle, la crema allo yogurt e menta e le fragole. Tutte e tre le componenti possono essere preparate in anticipo (le fragole non troppo in anticipo, altrimenti diventano mollicce) e sono veramente molto, molto facili da preparare! 
 
 <a href="https://www.foodblogs-schweiz.ch/challenge/" target="_blank" rel="noreferrer noopener">
-<img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2021/05/25-Foodie-Challenge-Foodblog-Schweiz.png"></a>
+<img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2021/05/25-Foodie-Challenge-Foodblog-Schweiz.png" class="ignore-gallery-item"></a>
 
 Settimana scorsa c'era anche la 25. Foodie Challenge mensile, organizzata da <a href="https://www.foodblogs-schweiz.ch" target="_blank">Foodblogs Schweiz</a> e queste tartellette calzano a pennello. Nel cestino di questo mese ci sono: fragole, menta, rabarbaro, asparagi, pomodori e lattuga. Io infatti ho scelto fragole e menta, anche se ero molto tentata di preparare una bella insalatona con la lattuga, asparagi e pomodori. La lattuga e la mia insalata preferita e poi sono arrivati anche i primi pomodori... Ma hanno vinto le fragole e la menta, che quest'anno stranamente sta ricrescendo da sola in giardino (sì, sono l'unica ad avere un giardino dove la menta non cresce bene).
 

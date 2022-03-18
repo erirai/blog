@@ -22,7 +22,7 @@ Ich wurde von einem Rezept inspiriert, das in der neuesten Ausgabe (Mai/Juni 202
 Das Rezept besteht aus drei Komponenten: die Mandel-Mürbeteigböden, die Joghurt-Minze-Crème und die Erdbeeren. Alle drei Komponenten können im Voraus zubereitet werden (Erdbeeren nicht zu früh, sonst werden sie matschig) und sind wirklich sehr, sehr einfach zuzubereiten!
 
 <a href="https://www.foodblogs-schweiz.ch/challenge/" target="_blank" rel="noreferrer noopener">
-<img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2021/05/25-Foodie-Challenge-Foodblog-Schweiz.png"></a>
+<img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2021/05/25-Foodie-Challenge-Foodblog-Schweiz.png" class="ignore-gallery-item"></a>
 
 Letzte Woche fand die 25. monatliche Foodie Challenge statt, die von <a href="https://www.foodblogs-schweiz.ch" target="_blank">Foodblogs Schweiz</a> organisiert wird und diese Tartellettes passten einfach perfekt dazu. 
 Im Mai-Warenkorb gab es: Erdbeeren, Minze, Rhabarber, Spargel, Tomaten und Lattich. Ich habe mich, offensichtlich, für Erdbeeren und Minze entschieden. Ich wäre aber nicht abgeneigt gewesen, einen leckeren Salat zuzubereiten, denn Lattich ist mein Lieblingssalat und dazu gibt es auch die ersten regionalen Tomaten... aber Erdbeeren und Minze haben gewonnen, letztere wächst dieses Jahr recht gut im Garten nach (ja, ich habe den einzigen Garten, wo Minze nicht gut wächst).
