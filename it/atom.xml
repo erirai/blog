@@ -4,7 +4,7 @@
   
   <link href="http://frangipani.raiano.ch/it/atom.xml" rel="self"/>
   <link href="http://frangipani.raiano.ch/"/>
-  <updated>2022-03-18T12:43:29.304Z</updated>
+  <updated>2022-03-18T14:06:38.431Z</updated>
   <id>http://frangipani.raiano.ch/</id>
   
   <author>
@@ -979,7 +979,7 @@ Aspettative? Naaa! Ormai sappiamo che con l&amp;#39;anno nuovo i problemi non si
     <link href="http://frangipani.raiano.ch/2021-12-15-ghirlanda-di-pane-con-semi-di-lino/"/>
     <id>http://frangipani.raiano.ch/2021-12-15-ghirlanda-di-pane-con-semi-di-lino/</id>
     <published>2021-12-14T23:00:00.000Z</published>
-    <updated>2022-03-11T14:43:28.070Z</updated>
+    <updated>2022-03-18T13:40:53.335Z</updated>
     <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ghirlanda di Pane con Semi di Lino&lt;/strong&gt; perfetta da condividere durante le festività natalizie, ma non solo. Può essere usata come centrotavola, commestibile naturalmente. Si può preparare anche in anticipo, per poi surgelarla. La sera prima che vi serve la uscite dal freezer e la mettete in frigo, poi basta passarla in forno per 10min e sarà come appena sfornata.
 &lt;br /&gt;
@@ -992,6 +992,10 @@ Tutto sommato però non è stato un anno da buttare via. Siamo stati bene, stiam
   &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
     &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
       &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;ghirlanda di Pane con Semi di Lino&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Salato&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Ghirlanda di Pane con Semi di Lino perfetta da condividere durante le festività natalizie, ma non solo. Può essere usata come centrotavola, commestibile naturalmente.&lt;/span&gt;
       &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
       &lt;table&gt;
         &lt;tbody&gt;
@@ -1109,7 +1113,7 @@ Tutto sommato però non è stato un anno da buttare via. Siamo stati bene, stiam
     <link href="http://frangipani.raiano.ch/2021-12-07-lebkuchen-traumstucke/"/>
     <id>http://frangipani.raiano.ch/2021-12-07-lebkuchen-traumstucke/</id>
     <published>2021-12-06T23:00:00.000Z</published>
-    <updated>2021-12-06T19:44:57.575Z</updated>
+    <updated>2022-03-18T13:43:19.042Z</updated>
     <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Biscotti Pezzi di Sogno al Pan di Zenzero e Arancia&lt;/strong&gt; che profumano di Natale. Preparazione facilissima e velocissima e mangiandoli si sciolgono in bocca che è una meraviglia. Sono dei biscotti di pasta frolla e si possono aromatizzare a piacere, io ho scelto le spezie Pan di Zenzero e scorza d&amp;#39;arancia. Secondo me le due cose stanno benissimo insieme, ma va benissimo anche solo uno o l&amp;#39;altro o totalmente altro. 
 &lt;br /&gt;
@@ -1120,6 +1124,10 @@ Il nome di questi biscotti deriva dal nome tedesco &amp;quot;Traumstücke&amp;qu
   &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
     &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
       &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Biscotti Pezzi di Sogno al Pan di Zenzero e Arancia&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Dolce&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Biscotti Pezzi di Sogno al Pan di Zenzero e Arancia** che profumano di Natale. Preparazione facilissima e velocissima e mangiandoli si sciolgono in bocca che è una meraviglia.&lt;/span&gt;
       &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
       &lt;table&gt;
         &lt;tbody&gt;
@@ -1255,7 +1263,7 @@ Il nome di questi biscotti deriva dal nome tedesco &amp;quot;Traumstücke&amp;qu
     <link href="http://frangipani.raiano.ch/2021-12-02-struffoli-al-forno/"/>
     <id>http://frangipani.raiano.ch/2021-12-02-struffoli-al-forno/</id>
     <published>2021-12-01T23:00:00.000Z</published>
-    <updated>2021-11-30T12:35:47.450Z</updated>
+    <updated>2022-03-18T13:44:59.519Z</updated>
     <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Struffoli al forno&lt;/strong&gt; un dolce festoso della tradizione italiana, che non può mancare sulla tavola natalizia. La versione al forno si prepara più velocemente e secondo me è altrettanto buona. In più si conservano meglio, non essendo fritti. Però, potete tranquillamente friggerli se preferite!
 &lt;br /&gt;
@@ -1273,6 +1281,10 @@ Dato che durante i giorni di festa solitamente siamo abbastanza indaffarati a pr
   &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
     &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
       &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Struffoli al forno&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Dolce&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Struffoli al forno un dolce festoso della tradizione italiana, che non può mancare sulla tavola natalizia. La versione al forno si prepara più velocemente e secondo me è altrettanto buona.&lt;/span&gt;
       &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
       &lt;table&gt;
         &lt;tbody&gt;
@@ -1424,7 +1436,7 @@ Conservati in un contenitore ermetico, tengono benissimo per qualche giorno.&lt;
     <link href="http://frangipani.raiano.ch/2021-11-16-gratin-di-patate-e-porri/"/>
     <id>http://frangipani.raiano.ch/2021-11-16-gratin-di-patate-e-porri/</id>
     <published>2021-11-15T23:00:00.000Z</published>
-    <updated>2022-03-18T08:25:14.382Z</updated>
+    <updated>2022-03-18T13:47:42.441Z</updated>
     <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Gratin di Patate e Porri&lt;/strong&gt; con formaggio Svizzero filante. Un contorno semplice, ma saporitissimo. Si può preparare in anticipo ed infornarlo quando serve, io spesso faccio così anche perché la cottura è abbastanza lunga.&lt;/p&gt;
 &lt;p&gt;Questo piatto in realtà è molto versatile, perché oltre alle patate, si possono aggiungere anche altre verdure tagliate a fettine. Come la zucca, le patate dolci, le barbabietole...&lt;/p&gt;
@@ -1439,6 +1451,10 @@ Qualche anno fa avevo fatto questa &lt;a href=&quot;https://frangipani.raiano.ch
   &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
     &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
       &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Gratin di Patate e Porri&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Salato&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Gratin di Patate e Porri con formaggio Svizzero filante. Un contorno semplice, ma saporitissimo. Si può preparare in anticipo ed infornarlo quando serve, io spesso faccio così anche perché la cottura è abbastanza lunga.&lt;/span&gt;
       &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
       &lt;table&gt;
         &lt;tbody&gt;
@@ -1553,7 +1569,7 @@ Qualche anno fa avevo fatto questa &lt;a href=&quot;https://frangipani.raiano.ch
     <link href="http://frangipani.raiano.ch/2021-11-02-torta-allo-yogurt-e-melagrana/"/>
     <id>http://frangipani.raiano.ch/2021-11-02-torta-allo-yogurt-e-melagrana/</id>
     <published>2021-11-01T23:00:00.000Z</published>
-    <updated>2021-11-02T16:33:57.179Z</updated>
+    <updated>2022-03-18T13:49:39.124Z</updated>
     <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Torta allo Yogurt e Melagrana&lt;/strong&gt; sofficissima, morbida, gustosa e piena di succosi chicchi di melagrana che no, non danno fastidio! In cottura i semini si ammorbidiscono e danno quella giusta nota croccante.&lt;/p&gt;
 &lt;p&gt;Ho preparato questa torta qualche settimana fa, per merenda dopo una passeggiata insieme alla mia family. Anche perché mio cognato mi aveva portato un bel po&amp;#39; di melagrane che andavano smaltite. Erano ottime, dolci e succose. La torta è stata molto gradita e nessuno si è lamentato dei semini, anzi. Tutti ci siamo accorti che i semini sono diventati morbidi in cottura, pur rimanendo croccanti.
@@ -1564,6 +1580,10 @@ Come ispirazione ho usato la ricetta della mia &lt;a href=&quot;https://frangipa
   &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
     &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
       &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Torta allo Yogurt e Melagrana&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Dolce&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Torta allo Yogurt e Melagrana sofficissima, morbida, gustosa e piena di succosi chicchi di melagrana che no, non danno fastidio! In cottura i semini si ammorbidiscono e danno quella giusta nota croccante.&lt;/span&gt;
       &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
       &lt;table&gt;
         &lt;tbody&gt;
@@ -1688,7 +1708,7 @@ Come ispirazione ho usato la ricetta della mia &lt;a href=&quot;https://frangipa
     <link href="http://frangipani.raiano.ch/2021-10-18-crostata-di-pere-e-cioccolato/"/>
     <id>http://frangipani.raiano.ch/2021-10-18-crostata-di-pere-e-cioccolato/</id>
     <published>2021-10-17T22:00:00.000Z</published>
-    <updated>2021-10-17T18:42:17.557Z</updated>
+    <updated>2022-03-18T13:51:09.402Z</updated>
     <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Crostata di Pere e Cioccolato&lt;/strong&gt; una crostata un po&amp;#39; diversa dal solito, ma estremamente buona! Le pere si sciolgono in bocca, il tutto accompagnato dal cioccolato fondente e da quella cremina al latte cremosissima.&lt;/p&gt;
 &lt;p&gt;Ho visto questa ricetta qualche tempo fa in qualche rivista a casa di mia mamma. Mi sono memorizzata l&amp;#39;idea e l&amp;#39;ho rifatta a modo mio. È uno spettacolo! E pensare che fino a qualche annetto fa, non avrei mai preparato un dolce con pere e cioccolato. Non amo particolarmente il connubio frutta e cioccolato, tranne fragole fresche e cioccolato. Ma pere e cioccolato sono il tooop! Soprattutto perché le pere in cottura diventano morbidissime e si amalgamano con il cioccolato... Adoro! L&amp;#39;importante è prendere delle pere che non siano troppo mature, altrimenti non reggeranno la cottura e si scioglieranno.&lt;/p&gt;
@@ -1708,6 +1728,10 @@ Erica&lt;/p&gt;
   &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
     &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
       &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Crostata di Pere e Cioccolato&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Dolce&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Crostata di Pere e Cioccolato una crostata un po&#39; diversa dal solito, ma estremamente buona! Le pere si sciolgono in bocca, il tutto accompagnato dal cioccolato fondente e da quella cremina al latte cremosissima.&lt;/span&gt;
       &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
       &lt;table&gt;
         &lt;tbody&gt;
@@ -1880,7 +1904,7 @@ Nel frattempo preparate la crema: in una coppa mettete il latte, l&amp;#39;uovo 
     <link href="http://frangipani.raiano.ch/2021-10-13-rosti-di-zucca-e-patate-con-funghi-e-panna/"/>
     <id>http://frangipani.raiano.ch/2021-10-13-rosti-di-zucca-e-patate-con-funghi-e-panna/</id>
     <published>2021-10-12T22:00:00.000Z</published>
-    <updated>2022-03-18T08:25:22.104Z</updated>
+    <updated>2022-03-18T13:52:53.518Z</updated>
     <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Rösti di Zucca e Patate con Funghi e Panna&lt;/strong&gt; un piatto della tradizione svizzera super buono! Il Rösti di Zucca e Patate morbido e croccante accompagnato da una salsa di funghi e panna. Molto spesso il classico Rösti (ma anche solo riso o tagliatelle) viene accompagnato dal Zürcher Geschnetzeltes che sarebbe una salsa fatta di carne di vitello, funghi e panna. Io, ovviamente, non ho usato la carne ed ecco un piatto vegetariano, che usando la panna vegetale, diventa vegano.&lt;/p&gt;
 &lt;p&gt;Il Rösti è scritto sulla mia to-cook-list ormai da anni. L&amp;#39;ho sempre evitato, perché ho lo stesso problema come con le frittate... mi si sfalda tutto! Però mi piace troppo e quindi ci ho riprovato. Con la padella giusta è andata. Che sollievo... Con il Rösti ci vuole pazienza. Va cotto a fiamma bassa e girato solo quando si sarà creata la crosticina, altrimenti non reggerà!
@@ -1894,6 +1918,10 @@ Voi avete mai mangiato il Rösti? Il classico sarebbe quello solo con le patate,
   &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
     &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
       &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Rösti di Zucca e Patate con Funghi e Panna&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Salato&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Rösti di Zucca e Patate con Funghi e Panna un piatto della tradizione svizzera super buono! Il Rösti di Zucca e Patate morbido e croccante accompagnato da una salsa di funghi e panna.&lt;/span&gt;
       &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
       &lt;table&gt;
         &lt;tbody&gt;
@@ -2022,7 +2050,7 @@ Voi avete mai mangiato il Rösti? Il classico sarebbe quello solo con le patate,
     <link href="http://frangipani.raiano.ch/2021-10-01-biscotti-di-pasta-frolla-al-cacao-e-alle-nocciole/"/>
     <id>http://frangipani.raiano.ch/2021-10-01-biscotti-di-pasta-frolla-al-cacao-e-alle-nocciole/</id>
     <published>2021-09-30T22:00:00.000Z</published>
-    <updated>2021-09-28T13:55:52.492Z</updated>
+    <updated>2022-03-18T13:54:44.200Z</updated>
     <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Biscotti di Pasta Frolla al Cacao e alle Nocciole&lt;/strong&gt; che sanno tanto di autunno. Friabili, gustosi e belli... una vera e proprio coccola! Perché diciamolo, i biscotti di pasta frolla sono i più buoni. Punto. Questi due tipi sono un po&amp;#39; più rustici, soprattutto quelli con le nocciole e quindi perfetti per l&amp;#39;autunno, direi.
 &lt;br /&gt;
@@ -2035,6 +2063,10 @@ Dunque ricicliamo l&amp;#39;idea per dare il benvenuto al mese di Ottobre...&lt;
   &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
     &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
       &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Biscotti di Pasta Frolla al Cacao e alle Nocciole&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Dolce&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Biscotti di Pasta Frolla al Cacao e alle Nocciole che sanno tanto di autunno. Friabili, gustosi e belli... una vera e proprio coccola! Perché diciamolo, i biscotti di pasta frolla sono i più buoni. Punto.&lt;/span&gt;
       &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
       &lt;table&gt;
         &lt;tbody&gt;
@@ -2213,7 +2245,7 @@ Conservare in un barattolo ermetico.&lt;/p&gt;
     <link href="http://frangipani.raiano.ch/2021-09-16-mini-plumcake-integrali-con-frutti-di-bosco/"/>
     <id>http://frangipani.raiano.ch/2021-09-16-mini-plumcake-integrali-con-frutti-di-bosco/</id>
     <published>2021-09-15T22:00:00.000Z</published>
-    <updated>2022-03-18T08:25:33.012Z</updated>
+    <updated>2022-03-18T13:56:16.111Z</updated>
     <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Mini Plumcake Integrali con Frutti di Bosco&lt;/strong&gt; delle merendine sane, senza burro, senza farina bianca, con tanti frutti di bosco e grazie allo yogurt belli soffici. Una ricetta facilissima da preparare e comodamente adattabile a quello che si ha in casa. Vanno bene le mele, le pesche, ma anche il cioccolato e le noci al posto dei frutti di bosco.
 &lt;br /&gt;
@@ -2226,6 +2258,10 @@ Chi non ama il gusto dell&amp;#39;integrale può anche fare metà farina integra
   &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
     &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
       &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Mini Plumcake Integrali con Frutti di Bosco&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Dolce&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Mini Plumcake Integrali con Frutti di Bosco delle merendine sane, senza burro, senza farina bianca, con tanti frutti di bosco e grazie allo yogurt belli soffici.&lt;/span&gt;
       &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
       &lt;table&gt;
         &lt;tbody&gt;
@@ -2354,7 +2390,7 @@ Riempite gli stampi (se è in silicone non c&amp;#39;è bisogno di imburrare ed 
     <link href="http://frangipani.raiano.ch/2021-09-01-sbriciolata-con-prugne-e-crema-alla-cannella/"/>
     <id>http://frangipani.raiano.ch/2021-09-01-sbriciolata-con-prugne-e-crema-alla-cannella/</id>
     <published>2021-08-31T22:00:00.000Z</published>
-    <updated>2021-08-31T16:20:39.325Z</updated>
+    <updated>2022-03-18T13:58:16.458Z</updated>
     <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Sbriciolata con Prugne e Crema alla Cannella&lt;/strong&gt; una torta che sa di tarda estate, di autunno. Dai gusti caldi e confortevoli, come le prugne cotte con la cannella. E il tutto racchiuso in un guscio di frolla sbriciolosa.
 &lt;br /&gt;
@@ -2374,6 +2410,10 @@ Avevo un desiderio per il mio compleanno: vedere mia nonna e mangiare la granita
   &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
     &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
       &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Sbriciolata con Prugne e Crema alla Cannella&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Dolce&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Sbriciolata con Prugne e Crema alla Cannella una torta che sa di tarda estate, di autunno. Dai gusti caldi e confortevoli, come le prugne cotte con la cannella. E il tutto racchiuso in un guscio di frolla sbriciolosa.&lt;/span&gt;
       &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
       &lt;table&gt;
         &lt;tbody&gt;
@@ -2557,7 +2597,7 @@ Aggiungete le nocciole e la cannella in polvere, quanto basta, al resto della fr
     <link href="http://frangipani.raiano.ch/2021-07-13-insalata-di-pasta-con-verdure-mediterranee-grigliate/"/>
     <id>http://frangipani.raiano.ch/2021-07-13-insalata-di-pasta-con-verdure-mediterranee-grigliate/</id>
     <published>2021-07-12T22:00:00.000Z</published>
-    <updated>2022-03-18T08:25:40.033Z</updated>
+    <updated>2022-03-18T14:00:32.881Z</updated>
     <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Insalata di Pasta con Verdure Mediterranee grigliate&lt;/strong&gt; un piatto completo saporito e super estivo! Pieno di verdure mediterranee estive, pieno di basilico e a chi piace, anche formaggio Feta, che io in estate mangio molto volentieri... Per un&amp;#39;insalata di pasta vegana basta non mettere il formaggio Feta o sostituirlo con del Tofu saltato in padella.
 &lt;br /&gt;
@@ -2570,6 +2610,10 @@ Ho usato peperoni, zucchine, melanzane e pomodori perché queste per me sono LE 
   &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
     &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
       &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Insalata di Pasta con Verdure Mediterranee grigliate&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Salato&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Insalata di Pasta con Verdure Mediterranee grigliate un piatto completo saporito e super estivo! Pieno di verdure mediterranee estive, pieno di basilico e a chi piace, anche formaggio Feta, che io in estate mangio molto volentieri...&lt;/span&gt;
       &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
       &lt;table&gt;
         &lt;tbody&gt;
@@ -2682,7 +2726,7 @@ Ho usato peperoni, zucchine, melanzane e pomodori perché queste per me sono LE 
     <link href="http://frangipani.raiano.ch/2021-07-06-girelle-soffici-ai-pistacchi-e-lamponi/"/>
     <id>http://frangipani.raiano.ch/2021-07-06-girelle-soffici-ai-pistacchi-e-lamponi/</id>
     <published>2021-07-05T22:00:00.000Z</published>
-    <updated>2021-07-05T15:02:31.931Z</updated>
+    <updated>2022-03-18T14:02:53.243Z</updated>
     <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Girelle soffici ai Pistacchi e Lamponi&lt;/strong&gt; una colazione estiva sofficissima e gustosissima, semplicemente favolosa. I colori parlano da se e si, ne vale la pena accendere il forno per prepararli, mi ringrazierete! Il gusto del pistacchio così buono e la succosità dei lamponi... Insieme sono un team imbattibile. Poi quella glassa fresca con succo di limone, che credetemi, fa la differenza! 
 &lt;br /&gt;
@@ -2694,6 +2738,10 @@ Non so voi, ma i panificati io riesco a mangiarli sempre, anche con 40°C all&am
   &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
     &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
       &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Girelle soffici ai Pistacchi e Lamponi&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Dolce&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Girelle soffici ai Pistacchi e Lamponi una colazione estiva sofficissima e gustosissima, semplicemente favolosa. I colori parlano da se e si, ne vale la pena accendere il forno per prepararli, mi ringrazierete!&lt;/span&gt;
       &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
       &lt;table&gt;
         &lt;tbody&gt;
@@ -2860,7 +2908,7 @@ Prendete l&amp;#39;impasto e aiutandovi con un mattarello stendetelo formando un
     <link href="http://frangipani.raiano.ch/2021-06-29-insalata-di-cavolfiore/"/>
     <id>http://frangipani.raiano.ch/2021-06-29-insalata-di-cavolfiore/</id>
     <published>2021-06-28T22:00:00.000Z</published>
-    <updated>2021-06-28T20:10:00.030Z</updated>
+    <updated>2022-03-18T14:04:48.441Z</updated>
     <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Insalata di Cavolfiore&lt;/strong&gt; un contorno leggero, fresco e facilissimo da preparare. Vi assicuro che questa insalata piace anche a chi non ama particolarmente il cavolfiore... Anche perché io dico sempre: se non ti piace qualcosa, metti tanto limone e ti piacerà. E questa cosa funziona perché la mangiamo tutti molto volentieri.
 &lt;br /&gt;
@@ -2872,6 +2920,10 @@ Che poi per moltissimo tempo, io pensavo che il cavolfiore, come anche il brocco
   &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
     &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
       &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Insalata di Cavolfiore&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Salato&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Insalata di Cavolfiore un contorno leggero, fresco e facilissimo da preparare. Vi assicuro che questa insalata piace anche a chi non ama particolarmente il cavolfiore...&lt;/span&gt;
       &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
       &lt;table&gt;
         &lt;tbody&gt;
@@ -2958,7 +3010,7 @@ Una volta freddo condite il cavolfiore con succo di limone, aglio in polvere, ol
     <link href="http://frangipani.raiano.ch/2021-06-16-muffin-vegani-alla-melissa-e-fragole/"/>
     <id>http://frangipani.raiano.ch/2021-06-16-muffin-vegani-alla-melissa-e-fragole/</id>
     <published>2021-06-15T22:00:00.000Z</published>
-    <updated>2022-03-18T08:25:46.833Z</updated>
+    <updated>2022-03-18T14:06:38.431Z</updated>
     <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Muffin vegani alla Melissa e Fragole&lt;/strong&gt; dei muffin freschi, sofficissimi, delicatissimi e profumatissimi. Hanno un leggero gusto di limone, dato dalla melissa e poi quei pezzettini di fragole che ci stanno perfettamente!
 &lt;br /&gt;
@@ -2973,6 +3025,10 @@ Purtroppo con tutta la pioggia e il poco sole che ci sono stati, c&amp;#39;è un
   &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
     &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
       &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Muffin vegani alla Melissa e Fragole&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Dolce&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Muffin vegani alla Melissa e Fragole dei muffin freschi, sofficissimi, delicatissimi e profumatissimi. Hanno un leggero gusto di limone, dato dalla melissa e poi quei pezzettini di fragole che ci stanno perfettamente!&lt;/span&gt;
       &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
       &lt;table&gt;
         &lt;tbody&gt;

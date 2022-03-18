@@ -4,7 +4,7 @@
   
   <link href="http://frangipani.raiano.ch/de/atom.xml" rel="self"/>
   <link href="http://frangipani.raiano.ch/"/>
-  <updated>2022-03-18T12:44:16.755Z</updated>
+  <updated>2022-03-18T14:11:24.872Z</updated>
   <id>http://frangipani.raiano.ch/</id>
   
   <author>
@@ -979,7 +979,7 @@ Erwartungen? Nö! Inzwischen wissen wir, dass sich die Probleme mit dem neuen Ja
     <link href="http://frangipani.raiano.ch/2021-12-15-ghirlanda-di-pane-con-semi-di-lino-de/"/>
     <id>http://frangipani.raiano.ch/2021-12-15-ghirlanda-di-pane-con-semi-di-lino-de/</id>
     <published>2021-12-14T23:00:00.000Z</published>
-    <updated>2022-03-11T14:43:20.466Z</updated>
+    <updated>2022-03-18T13:42:05.552Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2021-12-15-ghirlanda-di-pane-con-semi-di-lino/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Brotkranz mit Leinsamen&lt;/strong&gt; perfekt zum Teilen während dem Festessen, aber nicht nur. Kann als Tischdeko verwendet werden, ein essbares Herzstück. Es kann auch im Voraus zubereitet und dann eingefroren werden. Am Abend bevor es gebraucht wird, nehmt ihr es aus dem Gefrierschrank und stellt es in den Kühlschrank, dann kommt es einfach für 10 Minuten in den Ofen und es ist wie frisch gebacken.
 &lt;br /&gt;
@@ -992,6 +992,10 @@ Alles in allem war es jedoch kein schlechtes Jahr. Uns ging es gut, uns geht es 
   &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
     &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
       &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Brotkranz mit Leinsamen&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Herzhaftes&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2021-12-15-ghirlanda-di-pane-con-semi-di-lino/header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Brotkranz mit Leinsamen perfekt zum Teilen während dem Festessen, aber nicht nur. Kann als Tischdeko verwendet werden, ein essbares Herzstück. Es kann auch im Voraus zubereitet und dann eingefroren werden.&lt;/span&gt;
       &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
       &lt;table&gt;
         &lt;tbody&gt;
@@ -1109,7 +1113,7 @@ Alles in allem war es jedoch kein schlechtes Jahr. Uns ging es gut, uns geht es 
     <link href="http://frangipani.raiano.ch/2021-12-07-lebkuchen-traumstucke-de/"/>
     <id>http://frangipani.raiano.ch/2021-12-07-lebkuchen-traumstucke-de/</id>
     <published>2021-12-06T23:00:00.000Z</published>
-    <updated>2021-12-06T19:47:29.977Z</updated>
+    <updated>2022-03-18T13:46:49.310Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2021-12-07-lebkuchen-traumstucke/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Lebkuchen-Orangen-Traumstücke&lt;/strong&gt;, die nach Weichnachten duften. Die Zubereitung ist sehr einfach und schnell und beim Essen zergehen sie auf der Zunge, herrlich. Sie bestehen aus Mürbeteig und können nach Belieben gewürzt werden, ich habe mich für Lebkuchengewürz und Orange entschieden. Meiner Meinung nach passen die beiden Dinge sehr gut zusammen, aber nur das eine oder andere oder ganz etwas anderes ist auch super.
 &lt;br /&gt;
@@ -1119,6 +1123,10 @@ Das Rezept für diese Kekse wurde geboren, um Eigelbe zu verwerten. Zum Glück, 
   &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
     &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
       &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Lebkuchen-Orangen-Traumstücke&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Süsses&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2021-12-07-lebkuchen-traumstucke/header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Lebkuchen-Orangen-Traumstücke, die nach Weichnachten duften. Die Zubereitung ist sehr einfach und schnell und beim Essen zergehen sie auf der Zunge, herrlich.&lt;/span&gt;
       &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
       &lt;table&gt;
         &lt;tbody&gt;
@@ -1254,7 +1262,7 @@ Das Rezept für diese Kekse wurde geboren, um Eigelbe zu verwerten. Zum Glück, 
     <link href="http://frangipani.raiano.ch/2021-12-02-struffoli-al-forno-de/"/>
     <id>http://frangipani.raiano.ch/2021-12-02-struffoli-al-forno-de/</id>
     <published>2021-12-01T23:00:00.000Z</published>
-    <updated>2021-11-30T13:15:35.604Z</updated>
+    <updated>2022-03-18T13:46:07.521Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2021-12-02-struffoli-al-forno/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ofen-Struffoli (Italienische Honigbällchen)&lt;/strong&gt; ein festliches Weihnachtsgebäck der italienischen Tradition, das auf der Weihnachtstafel nicht fehlen darf. Die gebackene Variante ist schneller zubereitet und meiner Meinung nach genauso gut. Ausserdem halten sie sich besser, da sie nicht frittiert werden. Man kann sie selbstverständlich auch frittieren, wenn man das lieber mag!
 &lt;br /&gt;
@@ -1272,6 +1280,10 @@ Da wir vor den Feiertagen normalerweise ziemlich damit beschäftigt sind das Fes
   &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
     &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
       &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Ofen-Struffoli (Italienische Honigbällchen)&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Süsses&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2021-12-02-struffoli-al-forno/header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Ofen-Struffoli (Italienische Honigbällchen) ein festliches Weihnachtsgebäck der italienischen Tradition, das auf der Weihnachtstafel nicht fehlen darf. Die gebackene Variante ist schneller zubereitet und meiner Meinung nach genauso gut.&lt;/span&gt;
       &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
       &lt;table&gt;
         &lt;tbody&gt;
@@ -1423,7 +1435,7 @@ Luftdicht verschlossen halten sie sich sehr gut einige Tage.&lt;/p&gt;
     <link href="http://frangipani.raiano.ch/2021-11-16-gratin-di-patate-e-porri-de/"/>
     <id>http://frangipani.raiano.ch/2021-11-16-gratin-di-patate-e-porri-de/</id>
     <published>2021-11-15T23:00:00.000Z</published>
-    <updated>2022-03-18T08:25:18.828Z</updated>
+    <updated>2022-03-18T13:48:38.119Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2021-11-16-gratin-di-patate-e-porri/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Kartoffel-Lauch-Gratin&lt;/strong&gt; mit leckerem Schweizer Käse. Eine einfache aber sehr schmackhafte Beilage. Man kann es im Voraus zubereiten und bei Bedarf in den Ofen schieben, das mache ich oft, weil die Backdauer doch recht lang ist.&lt;/p&gt;
 &lt;p&gt;Dieses Gericht ist eigentlich sehr vielseitig, denn neben Kartoffeln kann man auch anderes in Scheiben geschnittenes Gemüse hinzufügen. Wie Kürbis, Süsskartoffeln, Randen...&lt;/p&gt;
@@ -1438,6 +1450,10 @@ Vor einigen Jahren habe ich diesen &lt;a href=&quot;https://frangipani.raiano.ch
   &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
     &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
       &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Kartoffel-Lauch-Gratin&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Herzhaftes&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2021-11-16-gratin-di-patate-e-porri/header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Kartoffel-Lauch-Gratin mit leckerem Schweizer Käse. Eine einfache aber sehr schmackhafte Beilage. Man kann es im Voraus zubereiten und bei Bedarf in den Ofen schieben, das mache ich oft, weil die Backdauer doch recht lang ist.&lt;/span&gt;
       &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
       &lt;table&gt;
         &lt;tbody&gt;
@@ -1551,7 +1567,7 @@ Vor einigen Jahren habe ich diesen &lt;a href=&quot;https://frangipani.raiano.ch
     <link href="http://frangipani.raiano.ch/2021-11-02-torta-allo-yogurt-e-melagrana-de/"/>
     <id>http://frangipani.raiano.ch/2021-11-02-torta-allo-yogurt-e-melagrana-de/</id>
     <published>2021-11-01T23:00:00.000Z</published>
-    <updated>2021-11-02T16:33:53.461Z</updated>
+    <updated>2022-03-18T14:10:21.311Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2021-11-02-torta-allo-yogurt-e-melagrana/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Granatapfel-Joghurtkuchen&lt;/strong&gt; sehr fluffig, weich, lecker und voller saftiger Granatapfelkörner, welche nein, nicht stören! Beim Backen werden die Kerne weich und geben die richtige knusprige Note.&lt;/p&gt;
 &lt;p&gt;Ich habe diesen Kuchen vor ein paar Wochen für den z&amp;#39;Vieri, nach einem Spaziergang mit meiner Familie gebacken. Auch weil mein Schwager mir viele Granatäpfel mitgebracht hatte, die gegessen werden mussten. Sie waren grossartig, süss und saftig. Der Kuchen hat sehr geschmeckt und niemand hat sich über die Kerne beschwert, ganz im Gegenteil. Wir alle bemerkten, dass die Samen beim Backen weicher wurden, aber doch knusprig blieben.
@@ -1562,6 +1578,10 @@ Als Inspiration habe ich das Rezept von meinem &lt;a href=&quot;https://frangipa
   &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
     &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
       &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Granatapfel-Joghurtkuchen&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Süsses&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2021-11-02-torta-allo-yogurt-e-melagrana/header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Granatapfel-Joghurtkuchen sehr fluffig, weich, lecker und voller saftiger Granatapfelkörner, welche nein, nicht stören! Beim Backen werden die Kerne weich und geben die richtige knusprige Note.&lt;/span&gt;
       &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
       &lt;table&gt;
         &lt;tbody&gt;
@@ -1686,7 +1706,7 @@ Als Inspiration habe ich das Rezept von meinem &lt;a href=&quot;https://frangipa
     <link href="http://frangipani.raiano.ch/2021-10-18-crostata-di-pere-e-cioccolato-de/"/>
     <id>http://frangipani.raiano.ch/2021-10-18-crostata-di-pere-e-cioccolato-de/</id>
     <published>2021-10-17T22:00:00.000Z</published>
-    <updated>2021-10-17T19:02:45.566Z</updated>
+    <updated>2022-03-18T14:10:27.679Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2021-10-18-crostata-di-pere-e-cioccolato/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Birnen-Schokolade-Mürbeteigtarte&lt;/strong&gt; eine etwas andere Tarte, aber extrem gut! Die Birnen zergehen auf der Zunge, alles begleitet von dunkler Schokolade und einem cremigen Guss.&lt;/p&gt;
 &lt;p&gt;Ich habe dieses Rezept vor einiger Zeit in einer Zeitschrift bei meiner Mutter gesehen. Ich habe die Idee in meinem Kopf gespeichert und auf meine Art und Weise nachgebacken. Es ist ein Traum! Wenn man bedenkt, dass ich bis vor ein paar Jahren nie ein Dessert mit Birnen und Schokolade zubereitet hätte. Ich mag die Kombination von Obst und Schokolade nicht besonders, ausser frische Erdbeeren und Schokolade. Aber Birnen und Schokolade sind der Hammer! Vor allem, weil die Birnen beim Kochen sehr weich werden und sich mit der Schokolade vermischen... Ich liebe es! Wichtig ist, nicht zu reife Birnen zu nehmen, sonst halten sie dem Kochen nicht stand und schmelzen.&lt;/p&gt;
@@ -1706,6 +1726,10 @@ Erica&lt;/p&gt;
   &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
     &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
       &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Birnen-Schokolade-Mürbeteigtarte&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Süsses&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2021-10-18-crostata-di-pere-e-cioccolato/header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Birnen-Schokolade-Mürbeteigtarte eine etwas andere Tarte, aber extrem gut! Die Birnen zergehen auf der Zunge, alles begleitet von dunkler Schokolade und einem cremigen Guss.&lt;/span&gt;
       &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
       &lt;table&gt;
         &lt;tbody&gt;
@@ -1878,7 +1902,7 @@ In der Zwischenzeit den Guss zubereiten: Milch, Ei und Eiweiss, Zucker, Mehl, Va
     <link href="http://frangipani.raiano.ch/2021-10-13-rosti-di-zucca-e-patate-con-funghi-e-panna-de/"/>
     <id>http://frangipani.raiano.ch/2021-10-13-rosti-di-zucca-e-patate-con-funghi-e-panna-de/</id>
     <published>2021-10-12T22:00:00.000Z</published>
-    <updated>2022-03-18T08:25:25.260Z</updated>
+    <updated>2022-03-18T13:54:00.141Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2021-10-13-rosti-di-zucca-e-patate-con-funghi-e-panna/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Kürbis-Kartoffelrösti mit Pilz-Rahmsauce&lt;/strong&gt; ein super leckeres traditionelles Schweizer Gericht! Die weiche und knusprige Rösti aus Kürbis und Kartoffeln, begleitet von einer Pilz-Rahmsauce. Sehr oft wird die klassische Rösti (aber auch nur Reis oder Nudeln) vom Zürcher Geschnetzeltes begleitet, einer Sauce aus Kalbfleisch, Champignons und Sahne. Ich habe natürlich kein Fleisch verwendet und so ist ein vegetarisches Gericht entstanden, das mit pflanzlicher Sahne, vegan wird.&lt;/p&gt;
 &lt;p&gt;Rösti steht schon seit Jahren auf meiner to-cook-Liste. Ich habe es immer gemieden, weil ich das gleiche Problem habe wie bei Omelettes... es fällt alles auseinander! Aber ich mag es zu sehr und so habe ich es noch einmal versucht. Mit der richtigen Pfanne klappt es. Was für eine Erleichterung... Mit Rösti braucht es Geduld, sie muss auf niedriger Stufe geröstet und darf erst gewendet werden, wenn sich unten eine Kruste gebildet hat!
@@ -1892,6 +1916,10 @@ Habt ihr schon einmal Rösti gegessen? Der Klassiker, wäre die nur mit Kartoffe
   &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
     &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
       &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Kürbis-Kartoffelrösti mit Pilz-Rahmsauce&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Herzhaftes&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2021-10-13-rosti-di-zucca-e-patate-con-funghi-e-panna/header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Kürbis-Kartoffelrösti mit Pilz-Rahmsauce ein super leckeres traditionelles Schweizer Gericht! Die weiche und knusprige Rösti aus Kürbis und Kartoffeln, begleitet von einer Pilz-Rahmsauce.&lt;/span&gt;
       &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
       &lt;table&gt;
         &lt;tbody&gt;
@@ -2020,7 +2048,7 @@ Habt ihr schon einmal Rösti gegessen? Der Klassiker, wäre die nur mit Kartoffe
     <link href="http://frangipani.raiano.ch/2021-10-01-biscotti-di-pasta-frolla-al-cacao-e-alle-nocciole-de/"/>
     <id>http://frangipani.raiano.ch/2021-10-01-biscotti-di-pasta-frolla-al-cacao-e-alle-nocciole-de/</id>
     <published>2021-09-30T22:00:00.000Z</published>
-    <updated>2021-09-28T14:07:53.921Z</updated>
+    <updated>2022-03-18T14:10:35.129Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2021-10-01-biscotti-di-pasta-frolla-al-cacao-e-alle-nocciole/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Mürbeteig-Kekse mit Kakao und Haselnüssen&lt;/strong&gt;, die so sehr nach Herbst schmecken. Mürbe, lecker und hübsch... ein wahrer Genuss! Denn seien wir ehrlich, Mürbeteig-Kekse sind die Besten. Punkt. Diese beiden Sorten sind etwas rustikaler, vor allem die mit Haselnüssen und daher perfekt für den Herbst, würde ich sagen.
 &lt;br /&gt;
@@ -2033,6 +2061,10 @@ Lasst mich also die Idee recyceln und damit den Monat Oktober willkommen zu heis
   &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
     &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
       &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Mürbeteig-Kekse mit Kakao und Haselnüssen&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Süsses&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2021-10-01-biscotti-di-pasta-frolla-al-cacao-e-alle-nocciole/header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Mürbeteig-Kekse mit Kakao und Haselnüssen, die so sehr nach Herbst schmecken. Mürbe, lecker und hübsch... ein wahrer Genuss! Denn seien wir ehrlich, Mürbeteig-Kekse sind die Besten. Punkt.&lt;/span&gt;
       &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
       &lt;table&gt;
         &lt;tbody&gt;
@@ -2211,7 +2243,7 @@ In einem luftdichten Behälter aufbewahren.&lt;/p&gt;
     <link href="http://frangipani.raiano.ch/2021-09-16-mini-plumcake-integrali-con-frutti-di-bosco-de/"/>
     <id>http://frangipani.raiano.ch/2021-09-16-mini-plumcake-integrali-con-frutti-di-bosco-de/</id>
     <published>2021-09-15T22:00:00.000Z</published>
-    <updated>2022-03-18T08:25:36.198Z</updated>
+    <updated>2022-03-18T14:10:39.207Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2021-09-16-mini-plumcake-integrali-con-frutti-di-bosco/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Vollkorn-Beeren-Küchlein&lt;/strong&gt; eine gesunde Zwischenmahlzeit, ohne Butter, ohne Weissmehl, mit vielen Beeren und dank dem Joghurt, schön fluffig. Ein Rezept, das sehr einfach zuzubereiten ist und sich leicht an das anpassen lässt, was ihr zu Hause habt. Äpfel, Pfirsiche, aber auch Schokolade und Walnüsse statt Beeren.
 &lt;br /&gt;
@@ -2224,6 +2256,10 @@ Wer den Geschmack von Vollkorn nicht mag, kann auch halb Vollkornmehl und halb W
   &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
     &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
       &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Vollkorn-Beeren-Küchlein&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Süsses&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2021-09-16-mini-plumcake-integrali-con-frutti-di-bosco/header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Vollkorn-Beeren-Küchlein eine gesunde Zwischenmahlzeit, ohne Butter, ohne Weissmehl, mit vielen Beeren und dank dem Joghurt, schön fluffig.&lt;/span&gt;
       &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
       &lt;table&gt;
         &lt;tbody&gt;
@@ -2352,7 +2388,7 @@ Die Vertiefungen der Backform bis zur Hälfte füllen, die Beeren darin verteile
     <link href="http://frangipani.raiano.ch/2021-09-01-sbriciolata-con-prugne-e-crema-alla-cannella-de/"/>
     <id>http://frangipani.raiano.ch/2021-09-01-sbriciolata-con-prugne-e-crema-alla-cannella-de/</id>
     <published>2021-08-31T22:00:00.000Z</published>
-    <updated>2021-08-31T18:39:16.386Z</updated>
+    <updated>2022-03-18T14:10:43.282Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2021-09-01-sbriciolata-con-prugne-e-crema-alla-cannella/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Zwetschgen-Streuselkuchen mit Zimtcrème&lt;/strong&gt; ein Kuchen, der nach Spätsommer, nach Herbst schmeckt. Mit warmen und wohltuhenden Aromen, wie gekochte Zimtzwetschgen. Und das alles in einer krümeligen Mürbeteighülle eingeschlossen.
 &lt;br /&gt;
@@ -2372,6 +2408,10 @@ Zu meinem Geburtstag hatte ich einen Wunsch: meine Grossmutter zu sehen und mit 
   &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
     &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
       &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Zwetschgen-Streuselkuchen mit Zimtcrème&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Süsses&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2021-09-01-sbriciolata-con-prugne-e-crema-alla-cannella/header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Zwetschgen-Streuselkuchen mit Zimtcrème ein Kuchen, der nach Spätsommer, nach Herbst schmeckt. Mit warmen und wohltuhenden Aromen, wie gekochte Zimtzwetschgen. Und das alles in einer krümeligen Mürbeteighülle eingeschlossen.&lt;/span&gt;
       &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
       &lt;table&gt;
         &lt;tbody&gt;
@@ -2554,7 +2594,7 @@ Den Streuselkuchen im vorgeheizten Ofen bei 180°C Ober- und Unterhitze für 40m
     <link href="http://frangipani.raiano.ch/2021-07-13-insalata-di-pasta-con-verdure-mediterranee-grigliate-de/"/>
     <id>http://frangipani.raiano.ch/2021-07-13-insalata-di-pasta-con-verdure-mediterranee-grigliate-de/</id>
     <published>2021-07-12T22:00:00.000Z</published>
-    <updated>2022-03-18T08:25:42.991Z</updated>
+    <updated>2022-03-18T14:01:16.262Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2021-07-13-insalata-di-pasta-con-verdure-mediterranee-grigliate/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Pastasalat mit gegrilltem mediterranem Gemüse&lt;/strong&gt; ein leckeres und sommerliches Tellergericht! Voll mit mediterranem Sommergemüse, voller Basilikum und Feta-Käse, den ich im Sommer sehr gerne esse... Für einen veganen Pastasalat einfach den Feta-Käse weglassen oder durch gebratenem Tofu ersetzen.
 &lt;br /&gt;
@@ -2567,6 +2607,10 @@ Ich habe Paprika, Zucchini, Auberginen und Tomaten verwendet, weil diese für mi
   &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
     &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
       &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Pastasalat mit gegrilltem mediterranem Gemüse&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Herzhaftes&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2021-07-13-insalata-di-pasta-con-verdure-mediterranee-grigliate/header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Pastasalat mit gegrilltem mediterranem Gemüse ein leckeres und sommerliches Tellergericht! Voll mit mediterranem Sommergemüse, voller Basilikum und Feta-Käse, den ich im Sommer sehr gerne esse...&lt;/span&gt;
       &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
       &lt;table&gt;
         &lt;tbody&gt;
@@ -2679,7 +2723,7 @@ Ich habe Paprika, Zucchini, Auberginen und Tomaten verwendet, weil diese für mi
     <link href="http://frangipani.raiano.ch/2021-07-06-girelle-soffici-ai-pistacchi-e-lamponi-de/"/>
     <id>http://frangipani.raiano.ch/2021-07-06-girelle-soffici-ai-pistacchi-e-lamponi-de/</id>
     <published>2021-07-05T22:00:00.000Z</published>
-    <updated>2021-07-05T15:07:44.064Z</updated>
+    <updated>2022-03-18T14:10:54.112Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2021-07-06-girelle-soffici-ai-pistacchi-e-lamponi/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Fluffige Pistazien-Himbeer-Schnecken&lt;/strong&gt; ein sehr luftiges und leckeres Sommerfrühstück, einfach fabelhaft. Die Farben sprechen für sich und ja, es lohnt sich, den Ofen anzumachen, um sie zuzubereiten, ihr werdet es mir danken! Der Geschmack von Pistazien und die Saftigkeit der Himbeeren sind zusammen ein unschlagbares Team. Dann rundet diese frische Glasur mit Zitronensaft alles ab!
 &lt;br /&gt;
@@ -2691,6 +2735,10 @@ Ich weiss nicht wie es euch geht, aber ich kann immer Hefegebäck essen, auch be
   &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
     &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
       &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;fluffige Pistazien-Himbeer-Schnecken&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Süsses&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2021-07-06-girelle-soffici-ai-pistacchi-e-lamponi/header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Fluffige Pistazien-Himbeer-Schnecken ein sehr luftiges und leckeres Sommerfrühstück, einfach fabelhaft. Die Farben sprechen für sich und ja, es lohnt sich, den Ofen anzumachen, um sie zuzubereiten, ihr werdet es mir danken!&lt;/span&gt;
       &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
       &lt;table&gt;
         &lt;tbody&gt;
@@ -2857,7 +2905,7 @@ Mit Hilfe von einem Wallholz, den Teig zu einem Rechteck auswallen. Darauf die P
     <link href="http://frangipani.raiano.ch/2021-06-29-insalata-di-cavolfiore-de/"/>
     <id>http://frangipani.raiano.ch/2021-06-29-insalata-di-cavolfiore-de/</id>
     <published>2021-06-28T22:00:00.000Z</published>
-    <updated>2021-06-28T20:05:16.984Z</updated>
+    <updated>2022-03-18T14:11:18.015Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2021-06-29-insalata-di-cavolfiore/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Blumenkohl-Salat&lt;/strong&gt; eine leichte, frische und einfach zuzubereitete Beilage. Ich versichere euch, dass dieser Salat auch von denen gemocht wird, die Blumenkohl nicht besonders mögen... Auch weil ich immer sage: Wenn ihr etwas nicht mögt, fügt viel Zitrone hinzu und ihr werdet es mögen. Und das funktioniert, weil wir es alle sehr gerne essen.
 &lt;br /&gt;
@@ -2868,6 +2916,10 @@ Tatsächlich habe ich den gekochten Blumenkohl einfach mit Zitronensaft, Knoblau
   &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
     &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
       &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Blumenkohl-Salat&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Herzhaftes&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2021-06-29-insalata-di-cavolfiore/header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Blumenkohl-Salat** eine leichte, frische und einfach zuzubereitete Beilage. Ich versichere euch, dass dieser Salat auch von denen gemocht wird, die Blumenkohl nicht besonders mögen...&lt;/span&gt;
       &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
       &lt;table&gt;
         &lt;tbody&gt;
@@ -2954,7 +3006,7 @@ Sobald er ausgekühlt ist, den Blumenkohl mit Zitronensaft, Knoblauchpulver, Oli
     <link href="http://frangipani.raiano.ch/2021-06-16-muffin-vegani-alla-melissa-e-fragole-de/"/>
     <id>http://frangipani.raiano.ch/2021-06-16-muffin-vegani-alla-melissa-e-fragole-de/</id>
     <published>2021-06-15T22:00:00.000Z</published>
-    <updated>2022-03-18T08:25:50.299Z</updated>
+    <updated>2022-03-18T14:11:24.872Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2021-06-16-muffin-vegani-alla-melissa-e-fragole/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Vegane Zitronenmelisse-Erdbeer-Muffins&lt;/strong&gt; sehr frische, fluffige, zarte und duftende Muffins. Sie haben einen leichten Zitronengeschmack, gegeben durch die Zitronenmelisse und dann die kleinen Erdbeerstückchen, die perfekt passen!
 &lt;br /&gt;
@@ -2969,6 +3021,10 @@ Mit all dem Regen und den wenigen Sonnenstunden, haben Beeren leider etwa zwei W
   &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
     &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
       &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;vegane Zitronenmelisse-Erdbeer-Muffins&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Süsses&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2021-06-16-muffin-vegani-alla-melissa-e-fragole/header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Vegane Zitronenmelisse-Erdbeer-Muffins sehr frische, fluffige, zarte und duftende Muffins. Sie haben einen leichten Zitronengeschmack, gegeben durch die Zitronenmelisse und dann die kleinen Erdbeerstückchen, die perfekt passen!&lt;/span&gt;
       &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
       &lt;table&gt;
         &lt;tbody&gt;
