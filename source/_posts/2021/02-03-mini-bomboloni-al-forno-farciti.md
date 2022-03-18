@@ -29,6 +29,10 @@ Poi vorrei dare il benvenuto al mese di Febbraio, l'ultimo mese invernale, che Ã
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Mini Bomboloni al forno farciti</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Mini Bomboloni al forno farciti uno dei tanti dolci di Carnevale. Delle piccole palline sofficissime di pasta lievita, farcite con della golosissima crema pasticcera alla vaniglia e al cioccolato.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

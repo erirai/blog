@@ -28,6 +28,10 @@ E benvenuto Giugno! Che bello, siamo già arrivati a Giugno e questo mese iniza 
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Pancake Salato con Asparagi cotto al forno (Dutch Baby salato)</span>
+      <span itemprop="recipeCategory" style="display:none;">Salato</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Pancake Salato con Asparagi cotto al forno (Dutch Baby salato) molto saporito e diverso dalle solite frittate. Perfetto come secondo piatto, ma anche da servire a cubetti come aperitivo. O per chi ama le colazioni salate...</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

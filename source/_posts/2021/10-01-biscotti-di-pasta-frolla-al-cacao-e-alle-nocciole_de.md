@@ -25,6 +25,10 @@ Lasst mich also die Idee recyceln und damit den Monat Oktober willkommen zu heis
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Mürbeteig-Kekse mit Kakao und Haselnüssen</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2021-10-01-biscotti-di-pasta-frolla-al-cacao-e-alle-nocciole/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Mürbeteig-Kekse mit Kakao und Haselnüssen, die so sehr nach Herbst schmecken. Mürbe, lecker und hübsch... ein wahrer Genuss! Denn seien wir ehrlich, Mürbeteig-Kekse sind die Besten. Punkt.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

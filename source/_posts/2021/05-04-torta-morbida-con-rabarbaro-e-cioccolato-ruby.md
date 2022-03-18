@@ -25,6 +25,10 @@ Devo ammettere che mi era venuta un'insicurezza terribile. Non so perché, ma se
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Torta morbida con Rabarbaro e Cioccolato Ruby</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Torta morbida con Rabarbaro e Cioccolato Ruby una torta facilissima e semplicissima ma di un gusto così buono che non sembra vero!</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

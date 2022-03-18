@@ -26,6 +26,10 @@ Wuhuuuuuuuu, ci siamo lasciati alle spalle Novembre e diamo il benvenuto a Dicem
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Biscotti Pezzi di Sogno al Pan di Zenzero e Arancia</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Biscotti Pezzi di Sogno al Pan di Zenzero e Arancia** che profumano di Natale. Preparazione facilissima e velocissima e mangiandoli si sciolgono in bocca che è una meraviglia.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

@@ -26,6 +26,10 @@ Ich wünsche euch einen schönen Valentinstag! Aber bitte, seid jeden Tag nett..
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Red Velvet Chiffon Cake gefüllt mit Mascarponecrème</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2021-02-09-fluffosa-red-velvet-farcita-con-camy-cream/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Red Velvet Chiffon Cake gefüllt mit Mascarponecrème**, ein Klassiker, leicht überarbeitet, der das perfekte Dessert für Valentinstag oder Weihnachten ist.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

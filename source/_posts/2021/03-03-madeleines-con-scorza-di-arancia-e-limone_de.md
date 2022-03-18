@@ -24,6 +24,10 @@ Und willkommen März! Was für eine Freude! Wie schön! Obwohl es noch schneien 
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Orangen-Zitronen-Madeleines</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2021-03-03-madeleines-con-scorza-di-arancia-e-limone/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Orangen-Zitronen-Madeleines schön fluffig, duftend und mit ihren charakteristischen Buckeln. Die Vorbereitung ist sehr einfach und sie sind extrem lecker.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

@@ -28,6 +28,10 @@ Und nun wünsche ich euch frohe Weihnachten, ein Weihnachtsfest voller Freude un
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Brotkranz mit Leinsamen</span>
+      <span itemprop="recipeCategory" style="display:none;">Herzhaftes</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2021-12-15-ghirlanda-di-pane-con-semi-di-lino/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Brotkranz mit Leinsamen perfekt zum Teilen während dem Festessen, aber nicht nur. Kann als Tischdeko verwendet werden, ein essbares Herzstück. Es kann auch im Voraus zubereitet und dann eingefroren werden.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

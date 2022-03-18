@@ -25,6 +25,10 @@ Ich bekam riesige Selbstzweifel. Ich weiss nicht warum, aber nichts schien mir m
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Rhabarberkuchen mit Ruby Schokolade</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2021-05-04-torta-morbida-con-rabarbaro-e-cioccolato-ruby/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Rhabarberkuchen mit Ruby Schokolade ein sehr einfacher und bescheidener Kuchen, aber mit einem so unglaublich tollen Geschmack!</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

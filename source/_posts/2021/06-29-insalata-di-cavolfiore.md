@@ -27,6 +27,10 @@ E devo dire ancora una cosa... Bentornata Estate! Felicissima di riaverti qui! F
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Insalata di Cavolfiore</span>
+      <span itemprop="recipeCategory" style="display:none;">Salato</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Insalata di Cavolfiore un contorno leggero, fresco e facilissimo da preparare. Vi assicuro che questa insalata piace anche a chi non ama particolarmente il cavolfiore...</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

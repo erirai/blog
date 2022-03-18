@@ -31,6 +31,10 @@ Mit all dem Regen und den wenigen Sonnenstunden, haben Beeren leider etwa zwei W
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">vegane Zitronenmelisse-Erdbeer-Muffins</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2021-06-16-muffin-vegani-alla-melissa-e-fragole/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Vegane Zitronenmelisse-Erdbeer-Muffins sehr frische, fluffige, zarte und duftende Muffins. Sie haben einen leichten Zitronengeschmack, gegeben durch die Zitronenmelisse und dann die kleinen Erdbeerstückchen, die perfekt passen!</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

@@ -24,6 +24,10 @@ Und mit diesem Rezept verabschiede ich mich von diesem Monat Februar, der einfac
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Ofengemüse mit Fetakäse</span>
+      <span itemprop="recipeCategory" style="display:none;">Herzhaftes</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2021-02-24-verdure-e-feta-al-forno/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Ofengemüse mit Fetakäse ein Gericht mit reichlich Gemüse und weichem und würzigem Fetakäse. Perfekt als Beilage, aber auch als Tellergericht, wenn es zusammen mit getoastetem Brot gegessen wird.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

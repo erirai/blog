@@ -28,6 +28,10 @@ Ich möchte nicht viel 2021, ehrlich gesagt habe ich nur eine Bitte, sei nicht s
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Birnen-Haferflocken-Kuchen</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2021-01-12-torta-morbida-con-fiocchi-d-avena-e-pere/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Birnen-Haferflocken-Kuchen ein herrlicher Butterkuchen, sehr weich, saftig dank der Birne und mit einem leicht knusprigen Touch, den die Haferflocken verleihen.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

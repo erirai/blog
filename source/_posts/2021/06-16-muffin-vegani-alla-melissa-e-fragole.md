@@ -31,6 +31,10 @@ Purtroppo con tutta la pioggia e il poco sole che ci sono stati, c'è un ritardo
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Muffin vegani alla Melissa e Fragole</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Muffin vegani alla Melissa e Fragole dei muffin freschi, sofficissimi, delicatissimi e profumatissimi. Hanno un leggero gusto di limone, dato dalla melissa e poi quei pezzettini di fragole che ci stanno perfettamente!</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

@@ -30,6 +30,10 @@ Ma quest'anno mi sono resa la vita più facile, ho preparato una semplice torta 
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Panini di Pasta Brioche farciti con Crema di Formaggio, Funghi e Aglio Orsino</span>
+      <span itemprop="recipeCategory" style="display:none;">Salato</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Panini di Pasta Brioche farciti con Crema di Formaggio, Funghi e Aglio Orsino un'idea sfiziosa per l'aperitivo di Pasqua o per il buffet della Pasquetta.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

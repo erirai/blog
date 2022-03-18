@@ -30,6 +30,10 @@ Qualche anno fa avevo fatto questa <a href="https://frangipani.raiano.ch/2018-10
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Gratin di Patate e Porri</span>
+      <span itemprop="recipeCategory" style="display:none;">Salato</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Gratin di Patate e Porri con formaggio Svizzero filante. Un contorno semplice, ma saporitissimo. Si può preparare in anticipo ed infornarlo quando serve, io spesso faccio così anche perché la cottura è abbastanza lunga.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

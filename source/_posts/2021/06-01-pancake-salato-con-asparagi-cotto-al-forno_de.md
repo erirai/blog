@@ -28,6 +28,10 @@ Und willkommen Juni! Wie schön, wir sind bereits im Juni angekommen und diesen 
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Herzhafter Ofen-Pancake mit Spargeln (herzhafter Dutch Baby)</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2021-06-01-pancake-salato-con-asparagi-cotto-al-forno/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Herzhafter Ofen-Pancake mit Spargeln (herzhafter Dutch Baby) sehr lecker und anders als die üblichen Omelettes. Perfekt als Beilage, aber auch als Apéro in Würfeln geschnitten. Aber auch für ein herzhaftes Frühstück, wer es mag...</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

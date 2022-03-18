@@ -27,6 +27,10 @@ Dann möchte ich den Monat Februar begrüssen, den letzten Wintermonat, der zum 
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Gefüllte Ofen-Hefeteigbällchen (Bomboloni)</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2021-02-03-mini-bomboloni-al-forno-farciti/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Gefüllte Ofen-Hefeteigbällchen (Bomboloni) eines der vielen Fasnachtsgebäcke aus der italienischen Tradition. Kleine, sehr fluffige Hefeteigbällchen, gefüllt mit köstlicher Vanille- und Schokoladencrème.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

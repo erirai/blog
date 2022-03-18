@@ -29,6 +29,10 @@ Non ti chiedo molto 2021, sinceramente ti chiedo solo di non essere peggiore del
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Torta morbida con Fiocchi d'Avena e Pere</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Torta morbida con Fiocchi d'Avena e Pere una torta bella burrosa, morbidissima, succosa grazie alla pera e con un leggero tocco croccante dato dai fiocchi d'avena.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

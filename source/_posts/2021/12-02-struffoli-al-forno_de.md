@@ -31,6 +31,10 @@ Aber ich habe dieses Rezept auch noch aus einem anderen ganz besonderen Grund vo
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Ofen-Struffoli (Italienische Honigbällchen)</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2021-12-02-struffoli-al-forno/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Ofen-Struffoli (Italienische Honigbällchen) ein festliches Weihnachtsgebäck der italienischen Tradition, das auf der Weihnachtstafel nicht fehlen darf. Die gebackene Variante ist schneller zubereitet und meiner Meinung nach genauso gut.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

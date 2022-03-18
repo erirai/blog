@@ -30,6 +30,10 @@ Settimana scorsa c'era anche la 25. Foodie Challenge mensile, organizzata da <a 
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Tartellette con Crema allo Yogurt e Menta e Fragole fresche</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Tartellette con Crema allo Yogurt e Menta e Fragole fresche un dolcetto fresco e leggero perfetto per le giornate calde. È un'esplosione di gusti...</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

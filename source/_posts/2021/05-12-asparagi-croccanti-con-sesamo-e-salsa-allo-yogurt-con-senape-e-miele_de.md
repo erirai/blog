@@ -26,6 +26,10 @@ Ich denke, dass wir nächstes Jahr eine Torte ohne Zuckerteig machen können, wa
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Knusprige Spargeln mit Sesam und Joghurt-Senf-Honig-Sauce</span>
+      <span itemprop="recipeCategory" style="display:none;">Herzhaftes</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2021-05-12-asparagi-croccanti-con-sesamo-e-salsa-allo-yogurt-con-senape-e-miele/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Knusprige Spargeln mit Sesam und Joghurt-Senf-Honig-Sauce eine schnelle und einfache Möglichkeit, Spargel zuzubereiten. Das Ergebnis wird super sein!</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

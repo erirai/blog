@@ -24,6 +24,10 @@ Wuhuuuuuuuu, wir haben den November hinter uns gelassen und können endlich den 
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Lebkuchen-Orangen-Traumstücke</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2021-12-07-lebkuchen-traumstucke/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Lebkuchen-Orangen-Traumstücke, die nach Weichnachten duften. Die Zubereitung ist sehr einfach und schnell und beim Essen zergehen sie auf der Zunge, herrlich.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

@@ -31,6 +31,10 @@ Im Mai-Warenkorb gab es: Erdbeeren, Minze, Rhabarber, Spargel, Tomaten und Latti
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Tartelettes mit Joghurt-Minze-Creme und frischen Erdbeeren</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2021-05-17-tartellette-con-crema-allo-yogurt-e-menta-e-fragole-fresche/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Tartelettes mit Joghurt-Minze-Crème und frischen Erdbeeren ein frisches und leichtes Dessert, perfekt für warme Tage. Es ist eine Geschmacksexplosion...</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

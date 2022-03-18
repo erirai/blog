@@ -24,6 +24,10 @@ E con questa ricetta saluto questo mese di Febbraio che non vuole finire. C'è s
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Verdure e Feta al forno</span>
+      <span itemprop="recipeCategory" style="display:none;">Salato</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Verdure e Feta al forno** un piatto pieno di verdure e un formaggio Feta super morbido e saporito. Ottimo da servire come contorno, ma anche come piatto unico, mangiato con del pane tostato.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

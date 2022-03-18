@@ -28,6 +28,10 @@ Und ja, sie sind sehr lecker! Ihr könnt sie mit einem feinen Salat oder Gemüse
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Polentamuffins mit Schweizer Käse und Rosmarin</span>
+      <span itemprop="recipeCategory" style="display:none;">Herzhaftes</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2021-02-18-muffin-salati-di-polenta-con-formaggio-e-rosmarino/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Herzhafte Polentamuffins mit Schweizer Käse und Rosmarin aussen schön knusprig, innen herrlich weich und saftig. Sie haben ein wenig die Konsistenz von Polenta und sind wirklich mega lecker.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

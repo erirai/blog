@@ -26,6 +26,10 @@ Però penso che prossimo anno la possiamo finire con le torte in pasta di zucche
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Asparagi Croccanti con Sesamo e Salsa allo Yogurt con Senape e Miele</span>
+      <span itemprop="recipeCategory" style="display:none;">Salato</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Asparagi Croccanti con Sesamo e Salsa allo Yogurt con Senape e Miele un modo facile e veloce per preparare gli asparagi. Il risultato sarà super!</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

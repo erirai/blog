@@ -27,6 +27,10 @@ Und ja, willkommen Juli! Du bringst den Sommer, das Ende des Schuljahres, die Fe
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">fluffige Pistazien-Himbeer-Schnecken</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2021-07-06-girelle-soffici-ai-pistacchi-e-lamponi/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Fluffige Pistazien-Himbeer-Schnecken ein sehr luftiges und leckeres Sommerfrühstück, einfach fabelhaft. Die Farben sprechen für sich und ja, es lohnt sich, den Ofen anzumachen, um sie zuzubereiten, ihr werdet es mir danken!</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

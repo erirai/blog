@@ -27,6 +27,10 @@ Mit diesem Rezept nehme ich an der 27. monatlichen Foodie Challenge teil, die vo
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Pastasalat mit gegrilltem mediterranem Gemüse</span>
+      <span itemprop="recipeCategory" style="display:none;">Herzhaftes</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2021-07-13-insalata-di-pasta-con-verdure-mediterranee-grigliate/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Pastasalat mit gegrilltem mediterranem Gemüse ein leckeres und sommerliches Tellergericht! Voll mit mediterranem Sommergemüse, voller Basilikum und Feta-Käse, den ich im Sommer sehr gerne esse...</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

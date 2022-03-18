@@ -34,6 +34,10 @@ Avevo un desiderio per il mio compleanno: vedere mia nonna e mangiare la granita
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Sbriciolata con Prugne e Crema alla Cannella</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Sbriciolata con Prugne e Crema alla Cannella una torta che sa di tarda estate, di autunno. Dai gusti caldi e confortevoli, come le prugne cotte con la cannella. E il tutto racchiuso in un guscio di frolla sbriciolosa.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

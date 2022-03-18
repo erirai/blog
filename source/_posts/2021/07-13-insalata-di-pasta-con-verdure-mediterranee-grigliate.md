@@ -27,6 +27,10 @@ Con questo piatto partecipo anche alla 27. Foodie Challenge mensile, organizzata
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Insalata di Pasta con Verdure Mediterranee grigliate</span>
+      <span itemprop="recipeCategory" style="display:none;">Salato</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Insalata di Pasta con Verdure Mediterranee grigliate un piatto completo saporito e super estivo! Pieno di verdure mediterranee estive, pieno di basilico e a chi piace, anche formaggio Feta, che io in estate mangio molto volentieri...</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

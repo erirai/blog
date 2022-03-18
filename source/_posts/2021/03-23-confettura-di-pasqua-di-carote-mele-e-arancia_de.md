@@ -26,6 +26,10 @@ Ich wünsche euch frohe Ostern! Ich weiss, dass es für viele wieder ein Osterfe
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Hasenfrühstück - Osterkonfitüre aus Karotten, Äpfeln und Orangen</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2021-03-23-confettura-di-pasqua-di-carote-mele-e-arancia/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Hasenfrühstück - Osterkonfitüre aus Karotten, Äpfeln und Orangen eine delikate Konfitüre mit einer herrlich orangenen Farbe, sowie auch eine tolle Geschenksidee für Ostern.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

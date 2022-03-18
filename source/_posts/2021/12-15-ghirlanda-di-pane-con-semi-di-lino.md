@@ -28,6 +28,10 @@ Eh niente, non mi resta che augurarvi un buon Natale, che sia un Natale pieno di
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">ghirlanda di Pane con Semi di Lino</span>
+      <span itemprop="recipeCategory" style="display:none;">Salato</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Ghirlanda di Pane con Semi di Lino perfetta da condividere durante le festività natalizie, ma non solo. Può essere usata come centrotavola, commestibile naturalmente.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

@@ -26,6 +26,10 @@ Ja nichts, wir sind im November angekommen. Ich sollte etwas schreiben wie: Will
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Granatapfel-Joghurtkuchen</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2021-11-02-torta-allo-yogurt-e-melagrana/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Granatapfel-Joghurtkuchen sehr fluffig, weich, lecker und voller saftiger Granatapfelkörner, welche nein, nicht stören! Beim Backen werden die Kerne weich und geben die richtige knusprige Note.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

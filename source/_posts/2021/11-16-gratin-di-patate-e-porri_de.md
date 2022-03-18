@@ -30,6 +30,10 @@ Vor einigen Jahren habe ich diesen <a href="https://frangipani.raiano.ch/2018-10
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Kartoffel-Lauch-Gratin</span>
+      <span itemprop="recipeCategory" style="display:none;">Herzhaftes</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2021-11-16-gratin-di-patate-e-porri/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Kartoffel-Lauch-Gratin mit leckerem Schweizer Käse. Eine einfache aber sehr schmackhafte Beilage. Man kann es im Voraus zubereiten und bei Bedarf in den Ofen schieben, das mache ich oft, weil die Backdauer doch recht lang ist.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

@@ -37,6 +37,10 @@ Erica
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Birnen-Schokolade-Mürbeteigtarte</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2021-10-18-crostata-di-pere-e-cioccolato/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Birnen-Schokolade-Mürbeteigtarte eine etwas andere Tarte, aber extrem gut! Die Birnen zergehen auf der Zunge, alles begleitet von dunkler Schokolade und einem cremigen Guss.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

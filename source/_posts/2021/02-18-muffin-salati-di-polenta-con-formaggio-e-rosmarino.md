@@ -28,6 +28,10 @@ E niente, sono buonissimi! Potete mangiarli con una bella insalatona o delle ver
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Muffin salati di Polenta con Formaggio e Rosmarino</span>
+      <span itemprop="recipeCategory" style="display:none;">Salato</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Muffin salati di Polenta con Formaggio Svizzero e Rosmarino croccanti fuori, morbidi e umidi all'interno. Hanno un po' la consistenza della polenta e sono veramente super buoni!</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

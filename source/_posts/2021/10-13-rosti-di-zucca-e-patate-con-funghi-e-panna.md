@@ -30,6 +30,10 @@ Con questo piatto partecipo anche alla 29. Foodie Challenge mensile, organizzata
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Rösti di Zucca e Patate con Funghi e Panna</span>
+      <span itemprop="recipeCategory" style="display:none;">Salato</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Rösti di Zucca e Patate con Funghi e Panna un piatto della tradizione svizzera super buono! Il Rösti di Zucca e Patate morbido e croccante accompagnato da una salsa di funghi e panna.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

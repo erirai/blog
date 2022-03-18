@@ -27,6 +27,10 @@ E sì, benvenuto Luglio! Porti l'estate, la fine dell'anno scolastico, le vacanz
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Girelle soffici ai Pistacchi e Lamponi</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Girelle soffici ai Pistacchi e Lamponi una colazione estiva sofficissima e gustosissima, semplicemente favolosa. I colori parlano da se e si, ne vale la pena accendere il forno per prepararli, mi ringrazierete!</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

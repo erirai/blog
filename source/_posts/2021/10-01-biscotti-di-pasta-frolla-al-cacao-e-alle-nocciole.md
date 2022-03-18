@@ -25,6 +25,10 @@ Dunque ricicliamo l'idea per dare il benvenuto al mese di Ottobre...
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Biscotti di Pasta Frolla al Cacao e alle Nocciole</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Biscotti di Pasta Frolla al Cacao e alle Nocciole che sanno tanto di autunno. Friabili, gustosi e belli... una vera e proprio coccola! Perché diciamolo, i biscotti di pasta frolla sono i più buoni. Punto.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

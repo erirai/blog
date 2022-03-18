@@ -27,6 +27,10 @@ Mit diesem Rezept nehme ich an der 28. monatlichen Foodie Challenge teil, die vo
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Vollkorn-Beeren-Küchlein</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2021-09-16-mini-plumcake-integrali-con-frutti-di-bosco/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Vollkorn-Beeren-Küchlein eine gesunde Zwischenmahlzeit, ohne Butter, ohne Weissmehl, mit vielen Beeren und dank dem Joghurt, schön fluffig.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

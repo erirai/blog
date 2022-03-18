@@ -32,6 +32,10 @@ Ma questa ricetta l'ho preparata anche per un altro motivo molto speciale, infat
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Struffoli al forno</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Struffoli al forno un dolce festoso della tradizione italiana, che non può mancare sulla tavola natalizia. La versione al forno si prepara più velocemente e secondo me è altrettanto buona.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

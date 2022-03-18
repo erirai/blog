@@ -30,6 +30,10 @@ Mit diesem Rezept nehme ich an der 29. monatlichen Foodie Challenge teil, die vo
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Kürbis-Kartoffelrösti mit Pilz-Rahmsauce</span>
+      <span itemprop="recipeCategory" style="display:none;">Herzhaftes</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2021-10-13-rosti-di-zucca-e-patate-con-funghi-e-panna/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Kürbis-Kartoffelrösti mit Pilz-Rahmsauce ein super leckeres traditionelles Schweizer Gericht! Die weiche und knusprige Rösti aus Kürbis und Kartoffeln, begleitet von einer Pilz-Rahmsauce.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

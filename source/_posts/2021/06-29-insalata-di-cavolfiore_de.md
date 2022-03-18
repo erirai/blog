@@ -27,6 +27,10 @@ Und ich muss noch etwas sagen... Willkommen zurück Sommer! Schön, dass du wied
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Blumenkohl-Salat</span>
+      <span itemprop="recipeCategory" style="display:none;">Herzhaftes</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2021-06-29-insalata-di-cavolfiore/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Blumenkohl-Salat** eine leichte, frische und einfach zuzubereitete Beilage. Ich versichere euch, dass dieser Salat auch von denen gemocht wird, die Blumenkohl nicht besonders mögen...</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
