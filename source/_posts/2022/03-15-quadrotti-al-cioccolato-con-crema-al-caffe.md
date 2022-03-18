@@ -21,8 +21,11 @@ Mi sono piaciuti tantissimo! Ecco, non sono leggerissimi eh, ma vanno condivisi 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
       <span itemprop="name" style="display:none;">Quadrotti al Cioccolato con Crema al Caffè</span>
       <img itemprop="image" style="display:none;" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Quadrotti al Cioccolato con Crema al Caffè golosissimi, super cioccolatosi e con una cremosissima crema al caffé. E anche un'ottima idea per la Festa del Papà, no?</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
