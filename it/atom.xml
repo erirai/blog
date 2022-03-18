@@ -4,7 +4,7 @@
   
   <link href="http://frangipani.raiano.ch/it/atom.xml" rel="self"/>
   <link href="http://frangipani.raiano.ch/"/>
-  <updated>2022-03-18T08:25:46.833Z</updated>
+  <updated>2022-03-18T12:43:29.304Z</updated>
   <id>http://frangipani.raiano.ch/</id>
   
   <author>
@@ -19,7 +19,7 @@
     <link href="http://frangipani.raiano.ch/2022-03-15-quadrotti-al-cioccolato-con-crema-al-caffe/"/>
     <id>http://frangipani.raiano.ch/2022-03-15-quadrotti-al-cioccolato-con-crema-al-caffe/</id>
     <published>2022-03-14T23:00:00.000Z</published>
-    <updated>2022-03-18T08:17:10.740Z</updated>
+    <updated>2022-03-18T12:31:53.438Z</updated>
     <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Quadrotti al Cioccolato con Crema al Caffè&lt;/strong&gt; golosissimi, super cioccolatosi e con una cremosissima crema al caffé. E anche un&amp;#39;ottima idea per la Festa del Papà, no? I dolci con il caffè vanno sempre bene per i papà, ma anche per le mamme eh! Ma ci sono eccezioni, come mio marito... Tranne il &lt;a href=&quot;https://frangipani.raiano.ch/2014-03-04-tiramisu/&quot; target=&quot;_blank&quot;&gt;Tiramisù&lt;/a&gt;, quello gli piace tantissimissimo!
 &lt;br /&gt;
@@ -28,8 +28,8 @@ Sotto c&amp;#39;è un semplice Brownie. Volevo una base molto cioccolatosa ma no
 &lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
   &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
     &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
-      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Dolce&lt;/span&gt;
       &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Quadrotti al Cioccolato con Crema al Caffè&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Dolce&lt;/span&gt;
       &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;header.jpeg&quot;/&gt;
       &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
       &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Quadrotti al Cioccolato con Crema al Caffè golosissimi, super cioccolatosi e con una cremosissima crema al caffé. E anche un&#39;ottima idea per la Festa del Papà, no?&lt;/span&gt;
@@ -195,7 +195,7 @@ Teneteli in frigo ben chiusi finché li mangerete...&lt;/p&gt;
     <link href="http://frangipani.raiano.ch/2022-02-22-fasnachtschuechli/"/>
     <id>http://frangipani.raiano.ch/2022-02-22-fasnachtschuechli/</id>
     <published>2022-02-21T23:00:00.000Z</published>
-    <updated>2022-02-21T16:04:38.946Z</updated>
+    <updated>2022-03-18T12:32:52.820Z</updated>
     <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Fasnachtschüechli (Frittelle di Carnevale Svizzere)&lt;/strong&gt; sottilissime, croccantissime e una tira l&amp;#39;altra. Sono un dolce di carnevale della tradizione svizzera e in questo periodo si trovano ovunque. L&amp;#39;impasto non contiene zucchero, quindi per dare dolcezza vengono cosparse generosamente con lo zucchero a velo.
 &lt;br /&gt;
@@ -205,6 +205,10 @@ Le mangiamo ogni anno in questo periodo, ma non le ho mai fatte in casa, pensand
   &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
     &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
       &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Fasnachtschüechli (Frittelle di Carnevale Svizzere)&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Dolce&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Fasnachtschüechli (Frittelle di Carnevale Svizzere) sottilissime, croccantissime e una tira l&#39;altra. Sono un dolce di carnevale della tradizione svizzera e in questo periodo si trovano ovunque.&lt;/span&gt;
       &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
       &lt;table&gt;
         &lt;tbody&gt;
@@ -329,7 +333,7 @@ Portate l&amp;#39;olio a 180°C in una pentola capiente (o nella friggitrice), p
     <link href="http://frangipani.raiano.ch/2022-02-16-crumble-di-verdure/"/>
     <id>http://frangipani.raiano.ch/2022-02-16-crumble-di-verdure/</id>
     <published>2022-02-15T23:00:00.000Z</published>
-    <updated>2022-03-18T08:24:36.903Z</updated>
+    <updated>2022-03-18T12:39:16.631Z</updated>
     <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Crumble di Verdure&lt;/strong&gt; un contorno super saporito pieno di verdure di stagione. Usate le verdure che volete o che avete in casa e volendo, può essere preparato anche in anticipo.
 &lt;br /&gt;
@@ -342,6 +346,10 @@ Il Crumble per me è puro Comfort Food, la pasta frolla e la frutta cotta e prof
   &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
     &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
       &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Crumble di Verdure&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Salato&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Crumble di Verdure un contorno super saporito pieno di verdure di stagione. Usate le verdure che volete o che avete in casa e volendo, può essere preparato anche in anticipo.&lt;/span&gt;
       &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
       &lt;table&gt;
         &lt;tbody&gt;
@@ -497,7 +505,7 @@ Mentre cuoce la verdura preparate il Crumble: Mettete farina, parmigiano, sale, 
     <link href="http://frangipani.raiano.ch/2022-02-02-tarte-al-cioccolato-e-arancia/"/>
     <id>http://frangipani.raiano.ch/2022-02-02-tarte-al-cioccolato-e-arancia/</id>
     <published>2022-02-01T23:00:00.000Z</published>
-    <updated>2022-01-31T09:09:32.420Z</updated>
+    <updated>2022-03-18T12:38:14.544Z</updated>
     <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Tarte al Cioccolato e Arancia&lt;/strong&gt; con la cremosità della Ganache, la freschezza dell&amp;#39;arancia e la croccantezza della frolla al cacao. Un&amp;#39;esplosione di gusti che insieme armonizzano perfettamente.
 &lt;br /&gt;
@@ -513,6 +521,10 @@ Vedo tantissimi dolci fatti con fragole, lamponi ma febbraio non è periodo di f
   &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
     &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
       &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Tarte al Cioccolato e Arancia&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Dolce&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Tarte al Cioccolato e Arancia con la cremosità della Ganache, la freschezza dell&#39;arancia e la croccantezza della frolla al cacao. Un&#39;esplosione di gusti che insieme armonizzano perfettamente.&lt;/span&gt;
       &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
       &lt;table&gt;
         &lt;tbody&gt;
@@ -693,7 +705,7 @@ Stendete l&amp;#39;impasto avanzato fino ad uno spessore di 3mm e fate dei bisco
     <link href="http://frangipani.raiano.ch/2022-01-18-spaghetti-al-pesto-di-cavolo-rosso/"/>
     <id>http://frangipani.raiano.ch/2022-01-18-spaghetti-al-pesto-di-cavolo-rosso/</id>
     <published>2022-01-17T23:00:00.000Z</published>
-    <updated>2022-03-18T08:25:02.172Z</updated>
+    <updated>2022-03-18T12:39:55.196Z</updated>
     <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Spaghetti al Pesto di Cavolo Rosso&lt;/strong&gt; un piatto coloratissimo e fresco. È una ricetta veloce e facile, ma tanto buona. Per via del Veganuary ho preparato il pesto senza formaggio, ma si può aggiungere del parmigiano o del pecorino a piacere. Per i miei gusti però non ce n&amp;#39;è bisogno. Un modo per usare il cavolo rosso in un primo piatto, dato che solitamente si prepara crudo in insalata o cotto come contorno.&lt;/p&gt;
 &lt;p&gt;Mi piace tantissimo abbinare il cavolo rosso con il limone perché con l&amp;#39;aggiunta del limone, il cavolo rosso cambia colore e diventa tipo fucsia-lilla. A parte che ci sta bene anche come gusto... &lt;/p&gt;
@@ -705,6 +717,10 @@ Ho deciso di preparare una ricetta bella colorata perché l&amp;#39;inverno ha b
   &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
     &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
       &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Spaghetti al Pesto di Cavolo Rosso&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Salato&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Spaghetti al Pesto di Cavolo Rosso un piatto coloratissimo e fresco. È una ricetta veloce e facile, ma tanto buona. Per via del Veganuary ho preparato il pesto senza formaggio, ma si può aggiungere del parmigiano o del pecorino a piacere.&lt;/span&gt;
       &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
       &lt;table&gt;
         &lt;tbody&gt;
@@ -813,7 +829,7 @@ Ho deciso di preparare una ricetta bella colorata perché l&amp;#39;inverno ha b
     <link href="http://frangipani.raiano.ch/2022-01-04-dreikonigskuchen-al-cioccolato/"/>
     <id>http://frangipani.raiano.ch/2022-01-04-dreikonigskuchen-al-cioccolato/</id>
     <published>2022-01-03T23:00:00.000Z</published>
-    <updated>2022-01-03T12:24:26.021Z</updated>
+    <updated>2022-03-18T12:43:29.304Z</updated>
     <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Dreikönigskuchen al Cioccolato&lt;/strong&gt; una ghirlanda di Pan Brioche al cacao con pezzetti di cioccolato. È una variazione del classico &lt;a href=&quot;https://frangipani.raiano.ch/2015-01-06-dreikoenigskuchen/&quot; target=&quot;_blank&quot;&gt;Dreikönigskuchen&lt;/a&gt; che io solitamente faccio nella versione vegana. In Svizzera il &lt;strong&gt;Dreikönigskuchen&lt;/strong&gt; si mangia tradizionalmente il 6 gennaio per la Giornata dei Tre Re. In una delle palline si nasconde una piccola figura di Re Magio e chi la trova potrà portare la corona per tutto il giorno. 
 &lt;br /&gt;
@@ -831,6 +847,10 @@ Aspettative? Naaa! Ormai sappiamo che con l&amp;#39;anno nuovo i problemi non si
   &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
     &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
       &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Dreikönigskuchen al Cioccolato&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Dolce&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Dreikönigskuchen al Cioccolato una ghirlanda di Pan Brioche al cacao con pezzetti di cioccolato. È una variazione del classico &lt;a href=&quot;https://frangipani.raiano.ch/2015-01-06-dreikoenigskuchen/&quot; target=&quot;_blank&quot;&gt;Dreikönigskuchen&lt;/a&gt; che io solitamente faccio nella versione vegana.&lt;/span&gt;
       &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
       &lt;table&gt;
         &lt;tbody&gt;

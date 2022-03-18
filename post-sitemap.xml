@@ -9,6 +9,102 @@
 
 
     <url>
+        <loc>http://frangipani.raiano.ch/2022-01-04-dreikonigskuchen-al-cioccolato-de/</loc>
+        <lastmod>2022-03-18T12:44:16.755Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/2022-01-04-dreikonigskuchen-al-cioccolato/</loc>
+        <lastmod>2022-03-18T12:43:29.304Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/2022-02-16-crumble-di-verdure-de/</loc>
+        <lastmod>2022-03-18T12:41:29.096Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/2022-01-18-spaghetti-al-pesto-di-cavolo-rosso-de/</loc>
+        <lastmod>2022-03-18T12:41:12.309Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/2022-01-18-spaghetti-al-pesto-di-cavolo-rosso/</loc>
+        <lastmod>2022-03-18T12:39:55.196Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/2022-02-16-crumble-di-verdure/</loc>
+        <lastmod>2022-03-18T12:39:16.631Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/2022-02-02-tarte-al-cioccolato-e-arancia-de/</loc>
+        <lastmod>2022-03-18T12:38:55.104Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/2022-02-02-tarte-al-cioccolato-e-arancia/</loc>
+        <lastmod>2022-03-18T12:38:14.544Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/2022-02-22-fasnachtschuechli-de/</loc>
+        <lastmod>2022-03-18T12:33:50.330Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/2022-02-22-fasnachtschuechli/</loc>
+        <lastmod>2022-03-18T12:32:52.820Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/2022-03-15-quadrotti-al-cioccolato-con-crema-al-caffe/</loc>
+        <lastmod>2022-03-18T12:31:53.438Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/2022-03-15-quadrotti-al-cioccolato-con-crema-al-caffe-de/</loc>
+        <lastmod>2022-03-18T12:31:47.693Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://frangipani.raiano.ch/2021-05-17-tartellette-con-crema-allo-yogurt-e-menta-e-fragole-fresche-de/</loc>
         <lastmod>2022-03-18T08:25:59.643Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -99,54 +195,6 @@
     <url>
         <loc>http://frangipani.raiano.ch/2021-11-16-gratin-di-patate-e-porri/</loc>
         <lastmod>2022-03-18T08:25:14.382Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/2022-01-18-spaghetti-al-pesto-di-cavolo-rosso-de/</loc>
-        <lastmod>2022-03-18T08:25:07.511Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/2022-01-18-spaghetti-al-pesto-di-cavolo-rosso/</loc>
-        <lastmod>2022-03-18T08:25:02.172Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/2022-02-16-crumble-di-verdure-de/</loc>
-        <lastmod>2022-03-18T08:24:56.818Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/2022-02-16-crumble-di-verdure/</loc>
-        <lastmod>2022-03-18T08:24:36.903Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/2022-03-15-quadrotti-al-cioccolato-con-crema-al-caffe-de/</loc>
-        <lastmod>2022-03-18T08:17:17.514Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/2022-03-15-quadrotti-al-cioccolato-con-crema-al-caffe/</loc>
-        <lastmod>2022-03-18T08:17:10.740Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -377,56 +425,8 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/2022-02-22-fasnachtschuechli/</loc>
-        <lastmod>2022-02-21T16:04:38.946Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/2022-02-22-fasnachtschuechli-de/</loc>
-        <lastmod>2022-02-18T16:14:39.952Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/2022-02-02-tarte-al-cioccolato-e-arancia-de/</loc>
-        <lastmod>2022-01-31T09:58:58.769Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/2022-02-02-tarte-al-cioccolato-e-arancia/</loc>
-        <lastmod>2022-01-31T09:09:32.420Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>http://frangipani.raiano.ch/2018-02-23-zuppa-di-fagioli-e-cavolo-nero-de/</loc>
         <lastmod>2022-01-18T20:03:31.167Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/2022-01-04-dreikonigskuchen-al-cioccolato/</loc>
-        <lastmod>2022-01-03T12:24:26.021Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/2022-01-04-dreikonigskuchen-al-cioccolato-de/</loc>
-        <lastmod>2022-01-03T09:57:53.415Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
