@@ -17,7 +17,7 @@ lang: it
 
 Ho scelto di fare questa ricetta per la 22. Foodie Challenge mensile di febbraio, organizzata da <a href="https://www.foodblogs-schweiz.ch" target="_blank">Foodblogs Schweiz</a>.
 <a href="https://www.foodblogs-schweiz.ch/challenge/" target="_blank" rel="noreferrer noopener">
-<img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2021/02/Challenge-Banner-Feb21.png" alt="Foodblogs Schweiz Challenge" class="wp-image-452"></a>
+<img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2021/02/Challenge-Banner-Feb21.png" alt="Foodblogs Schweiz Challenge" class="wp-image-452 ignore-gallery-item"></a>
 Nel cestino di questo mese ci sono: insalata belga, Mais (polenta, semolino, farina...), mele, cavolo riccio, rosmarino e formaggio svizzero.
 <br />
 Ero partita con l'idea di fare una torta di polenta con le mele, ma poi ho cambiato idea di colpo e ho deciso di fare questi **Muffin salati di Polenta con Formaggio Svizzero e Rosmarino**. Era da troppo tempo che non facevo dei Muffin, poi ho visto anche che il rosmarino in giardino non è messo poi tanto male.

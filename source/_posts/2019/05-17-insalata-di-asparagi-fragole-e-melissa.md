@@ -18,7 +18,7 @@ lang: it
 Insalata di Asparagi, Fragole e Melissa, questo è il periodo perfetto per gustarla! Pochissimi ingredienti, apparentemente non compatibili, che vi regaleranno una grandissima gioia al palato... La faccio ogni anno almeno una volta. Un ottimo antipasto, da preparare comodamente in anticipo o per un picnic, sperando che il tempo lo permetta! 
 
 <a href="https://www.foodblogs-schweiz.ch/challenge/" target="_blank" rel="noreferrer noopener">
-<img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2019/04/Foodblogs-Schweiz-Banner-Mai.png" alt="Foodblogs Schweiz Challenge" class="wp-image-452"/>
+<img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2019/04/Foodblogs-Schweiz-Banner-Mai.png" alt="Foodblogs Schweiz Challenge" class="wp-image-452 ignore-gallery-item"/>
 
 Nel cestino della Foodie Challenge mensile di maggio, organizzata da <a href="https://www.foodblogs-schweiz.ch" target="_blank">Foodblogs Schweiz</a>, ci sono: asparagi bianchi e verdi, fragole, spugnolo, asperula, cavolo romanesco e melissa. Siccome cerco di alternare le ricette dolci e salate, questa volta ho preparato una ricetta salata. Ho scelto asparagi verdi, fragole e melissa. Lo spugnolo non l'ho mai preparato, non so perché, ma non mi fido di quei funghi e l'asperula non la conosco proprio, dovrò rimediare!
 

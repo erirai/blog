@@ -18,7 +18,7 @@ lang: de
 Spargel-Erdbeersalat mit Zitronenmelisse, das ist der perfekte Zeitpunkt um diesen Salat zu geniessen! Wenige Zutaten, auf dem ersten Blick nicht kompatibel, welche euch eine richtige Freude für den Gaumen schenken werden... Ich bereite diesen Salat mindestens ein Mal im Jahr vor. Eine perfekte Vorspeise, die man problemlos im Voraus vorbereiten kann oder für ein Picknick, in der Hoffnung, dass das Wetter das zulässt!
 
 <a href="https://www.foodblogs-schweiz.ch/challenge/" target="_blank" rel="noreferrer noopener">
-<img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2019/04/Foodblogs-Schweiz-Banner-Mai.png" alt="Foodblogs Schweiz Challenge" class="wp-image-452"/>
+<img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2019/04/Foodblogs-Schweiz-Banner-Mai.png" alt="Foodblogs Schweiz Challenge" class="wp-image-452 ignore-gallery-item"/>
 
 Im Mai-Warenkorb der Foodie Challenge, organisiert von <a href="https://www.foodblogs-schweiz.ch" target="_blank">Foodblogs Schweiz</a>, befinden sich: grüne und weisse Spargeln, Erdbeeren, Morcheln, Waldmeister, Romanesco und Zitronenmelisse. Da es das letzte Mal etwas süsses gab, gibt es diesen Monat etwas herzhaftes. Ich habe mich für grüne Spargeln, Erdbeeren und Zitronenmelisse entschieden. Morcheln habe ich nie gegessen, ich weiss nicht warum, irgendwie traue ich diesen Pilzen nicht und Waldmeister kannte ich nicht, das muss ich nachholen!
 

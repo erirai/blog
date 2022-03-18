@@ -21,7 +21,7 @@ Kennt ihr Cobbler? Vor einiger Zeit habe ich meinen ersten Cobbler gebacken und 
 Als ich dann las, welche Zutaten im Warenkorb der 10. Foodie Challenge, organisiert von <a href="https://www.foodblogs-schweiz.ch" target="_blank">Foodblogs Schweiz</a>, zur Verfügung stehen, dachte ich mir, es wäre Zeit einen Apfel-Crumble zu backen, aber ich muss es wieder verschieben...
 
 <a href="https://www.foodblogs-schweiz.ch/challenge/" target="_blank" rel="noreferrer noopener">
-<img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2020/01/Challenge-Banner.png" alt="Foodblogs Schweiz Challenge" class="wp-image-452"></a>
+<img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2020/01/Challenge-Banner.png" alt="Foodblogs Schweiz Challenge" class="wp-image-452 ignore-gallery-item"></a>
 
 Im Januar-Warenkorb hat es: Pastinaken, Süsskartoffeln, Baumnüsse, Federkohl, Äpfel und Sellerie. Zwei Zutaten habe ich sofort gestrichen, denn ich mag weder Pastinaken noch Sellerieknollen. Selleriestangen benutze ich nur für Gemüsebrühe, sonst lasse ich es lieber. Dann sollte ich noch wählen, ob es dieses mal etwas Süsses oder etwas Herzaftes gibt, und da ich das letzte Mal <a href="https://frangipani.raiano.ch/2019-11-13-cavolini-di-bruxelles-in-padella-con-porro-e-limone-de/" target="_blank">Gebratener Rosenkohl mit Lauch und Zitrone</a> gekocht habe, sollte es dieses Mal etwas Süsses geben, sprich Apfel-Baumnuss-Cobbler.
 

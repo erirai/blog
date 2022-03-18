@@ -21,7 +21,7 @@ Conoscete il Cobbler? Ne ho fatto uno tempo fa con le <a href="https://frangipan
 Comunque, quando ho letto gli ingredienti che ci sono nel cestino della 10. Foodie Challenge mensile di gennaio, organizzata da <a href="https://www.foodblogs-schweiz.ch" target="_blank">Foodblogs Schweiz</a>, ho pensato che fosse ora di prepararlo, ma dovrò rimandare di nuovo...
 
 <a href="https://www.foodblogs-schweiz.ch/challenge/" target="_blank" rel="noreferrer noopener">
-<img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2020/01/Challenge-Banner.png" alt="Foodblogs Schweiz Challenge" class="wp-image-452"></a>
+<img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2020/01/Challenge-Banner.png" alt="Foodblogs Schweiz Challenge" class="wp-image-452 ignore-gallery-item"></a>
 
 Nel cestino, infatti, ci sono: pastinache, patate dolci, noci, cavolo riccio, mele e sedano. Due ingredienti li ho scartati subito, perché la pastinaca ed il sedanorapa non mi piacciono. Il sedano lo uso solo quando faccio il brodo, altrimenti non ne vado matta. Poi dovevo scegliere se preparare qualcosa di dolce o salato e siccome la volta scorsa ho preparato <a href="https://frangipani.raiano.ch/2019-11-13-cavolini-di-bruxelles-in-padella-con-porro-e-limone/" target="_blank">i Cavolini di Bruxelles in Padella con Porro e Limone</a>, questa volta ho scelto una ricetta dolce, ovvero il Cobbler di Mele e Noci. 
 

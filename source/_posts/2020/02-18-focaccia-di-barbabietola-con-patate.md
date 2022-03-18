@@ -18,7 +18,7 @@ lang: it
 Una delle mie focaccie preferite è quella con le patate e rosmarino. Quando ho letto il contenuto del cestino della 11. Foodie Challenge mensile di febbraio, organizzata da <a href="https://www.foodblogs-schweiz.ch" target="_blank">Foodblogs Schweiz</a>, ne ho approfittato per mettere la ricetta della focaccia di patate sul blog, ma con una versione più colorata.
 
 <a href="https://www.foodblogs-schweiz.ch/challenge/" target="_blank" rel="noreferrer noopener">
-<img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2020/02/Februar-Challenge-Foodblogs-Schweiz.png" alt="Foodblogs Schweiz Challenge" class="wp-image-452"></a>
+<img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2020/02/Februar-Challenge-Foodblogs-Schweiz.png" alt="Foodblogs Schweiz Challenge" class="wp-image-452 ignore-gallery-item"></a>
 
 Nel cestino, infatti, ci sono: patate, scorzonera, carote, barbabietola, fiocchi d'avena e semi di girasole. La scorzonera mi piace molto, ma purtroppo non la digerisco e non so perché. Le carote piano piano non le posso più vedere e con i fiocchi d'avena e i semi di girasole non sapevo cosa fare. Quindi sono rimaste le patate e la barbabietola. Ho fatto l'impasto della focaccia con la barbabietola, seguendo la ricetta dei <a href="https://frangipani.raiano.ch/2016-10-28-panini-alla-zucca/" target="_blank">Panini alla Zucca</a>.
 <br />

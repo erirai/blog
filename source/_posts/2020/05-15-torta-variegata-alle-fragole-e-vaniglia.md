@@ -23,7 +23,7 @@ La ciliegina sulla torta è la glassa! Qualche settimana fa, dalla dolcissima Ir
 Questa settimana c'è la 14. Foodie Challenge organizzata da <a href="https://www.foodblogs-schweiz.ch" target="_blank">Foodblogs Schweiz</a> con il tema TORTE.
 
 <a href="https://www.foodblogs-schweiz.ch/challenge/" target="_blank" rel="noreferrer noopener">
-<img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2020/05/Challenge-Banner1.png" alt="Foodblogs Schweiz Challenge" class="wp-image-452"></a>
+<img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2020/05/Challenge-Banner1.png" alt="Foodblogs Schweiz Challenge" class="wp-image-452 ignore-gallery-item"></a>
 
 Nessun cestino, può essere una torta, una crostata, dei muffin... però se usiamo frutta o verdura, deve essere di stagione. Come sempre ero indecisa, ma sta volta è stata tosta. Scegliere tra il rabarbaro e le fragole non è facile, ma mi frullava in testa una torta variegata con le fragole e l'ho sperimentata!
 

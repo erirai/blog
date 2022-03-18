@@ -18,7 +18,7 @@ lang: de
 Eine meiner Lieblings-Focaccie, ist diese mit Kartoffeln und Rosmarin. Nachdem ich gelesen habe, welche Zutaten im Warenkorb der 11. Foodie Challenge, organisiert von <a href="https://www.foodblogs-schweiz.ch" target="_blank">Foodblogs Schweiz</a>, zur Verfügung stehen, habe ich es mir zunutze gemacht und das Rezept der Kartoffel-Focaccia veröffentlicht, jedoch in einer etwas farbigeren Variante.
 
 <a href="https://www.foodblogs-schweiz.ch/challenge/" target="_blank" rel="noreferrer noopener">
-<img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2020/02/Februar-Challenge-Foodblogs-Schweiz.png" alt="Foodblogs Schweiz Challenge" class="wp-image-452"></a>
+<img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2020/02/Februar-Challenge-Foodblogs-Schweiz.png" alt="Foodblogs Schweiz Challenge" class="wp-image-452 ignore-gallery-item"></a>
 
 Im Februar-Warenkorb hat es: Kartoffeln, Schwarzwurzel, Karotten, Randen, Haferflocken und Sonnenblumenkerne. Schwarzwurzel mag ich sehr, jedoch vertrage ich sie nicht und ich weiss nicht warum. Karotten kann ich langsam nicht mehr sehen und mit Haferflocken und Sonnenblumenkerne, wusste ich gerade nicht, was ich damit anfangen soll. Da bleiben nur noch Kartoffeln und Randen. Ich habe den Teig für die Focaccia mit Randen gemacht, analog dem Rezept meiner <a href="https://frangipani.raiano.ch/2016-10-28-panini-alla-zucca-de/" target="_blank">Kürbisbrötchen</a>.
 <br />

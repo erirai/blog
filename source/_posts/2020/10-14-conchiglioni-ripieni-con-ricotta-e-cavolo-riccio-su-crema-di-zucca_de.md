@@ -17,7 +17,7 @@ lang: de
 Natürlich könnt ihr die Dinge auch mischen: Ricotta und Spinat mit Kürbiscreme oder Ricotta und Federkohl mit Tomatensauce... Verstanden, was ich meine?
 
 <a href="https://www.foodblogs-schweiz.ch/challenge/" target="_blank" rel="noreferrer noopener">
-<img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2020/09/Challenge-Banner.jpg" alt="Foodblogs Schweiz Challenge" class="wp-image-452"></a>
+<img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2020/09/Challenge-Banner.jpg" alt="Foodblogs Schweiz Challenge" class="wp-image-452 ignore-gallery-item"></a>
 Diese **Muschelpasta gefüllt mit Ricotta und Federkohl auf Kürbiscreme** habe ich für die 18. Foodie Challenge organisiert von <a href="https://www.foodblogs-schweiz.ch" target="_blank">Foodblogs Schweiz</a> zubereitet, mit dem Thema "Herbstschätze". Naja, musste den König des Herbstes aussuchen, den Kürbis. Ich habe auch Federkohl aus dem Garten verwendet, einer der wenigen Dinge, dass nach dem Herbstputz im Garten geblieben ist...
 
 <div id="wrapper" style="text-align: center">

@@ -18,7 +18,7 @@ lang: it
 <br />
 Mi piace usare il formaggio spalmabile per questo tipo di ripieno e dato che questa settimana c'è anche la 23. Foodie Challenge mensile di marzo, organizzata da <a href="https://www.foodblogs-schweiz.ch" target="_blank">Foodblogs Schweiz</a>, ho aggiunto funghi Champignons e aglio orsino e usato la farina di farro.
 <a href="https://www.foodblogs-schweiz.ch/challenge/" target="_blank" rel="noreferrer noopener">
-<img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2021/03/Challenge-Banner-Maerz.jpg" class="wp-image-452"></a>
+<img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2021/03/Challenge-Banner-Maerz.jpg" class="wp-image-452 ignore-gallery-item"></a>
 Nel cestino di questo mese ci sono: carote, uova, farro, Champignons, aglio orsino e mele. Alla fine ho usato i Champignons, l'aglio orsino raccolto dietro casa, le uova nell'impasto e per spennellare i panini e la farina di farro.
 
 Ah, mi stavo dimenticando... Domenica scorsa Gioele ha compiuto 6 anni e come ogni anno mi chiedono torte facili da realizzare...

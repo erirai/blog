@@ -18,7 +18,7 @@ lang: de
 Erdbeer-Holunderblüten-Konfitüre, die beste Erdbeerkonfitüre der Welt. Diese beiden Zutaten harmonieren vollkommen, der Duft ist grossartig! Der einzige Moment um diese Konfitüre vorzubereiten, ist jetzt. Denn, die Holunderblüten halten nicht lange. Ich liebe es, die kleinen duftenden Blüten auf der Brotscheibe zu sehen, herrlich! Ja, es braucht viel Geduld beim Zupfen der Blüten, aber es lohnt sich definitiv. Ihr glaubt es mir nicht? Dann probiert sie!
 
 <a href="https://www.foodblogs-schweiz.ch/challenge/" target="_blank" rel="noreferrer noopener">
-<img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2019/06/Foodblogs-Schweiz-Banner-Juni.png" alt="Foodblogs Schweiz Challenge" class="wp-image-452"/>
+<img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2019/06/Foodblogs-Schweiz-Banner-Juni.png" alt="Foodblogs Schweiz Challenge" class="wp-image-452 ignore-gallery-item"/>
 
 Im Juni-Warenkorb der Foodie Challenge, organisiert von <a href="https://www.foodblogs-schweiz.ch" target="_blank">Foodblogs Schweiz</a>, befinden sich: Frühkartoffeln, Rosmarin, Zucchini, Holunderblüten und nochmals Erdbeeren. Zu Beginn wollte ich Frühkartoffeln und Rosmarin nehmen, dann habe ich aber gesehen, dass wir im Keller nur noch 2 Konfigläser hatten und mein Herz blieb stehen! Plan- und Zutatenänderung: Erdbeeren und Holunderblüten. Mit diesen beiden Zutaten, habe ich meine Lieblings-Erdbeerkonfitüre gemacht. Ich mag Erdbeerkonfi nicht besonders, allgemein mag ich gekochte Erdbeeren nicht so sehr, aber mit den Holunderblüten ist es genial! Und mit diesem Rezept, eröffne ich die Konfi-Zubereitungssaison!
 

@@ -18,7 +18,7 @@ lang: it
 **Pavlova con Crema Pasticcera e Mele alla Cannella** un dolce al cucchiaio dalle consistenze diverse. Un guscio croccante fuori, ma morbido dentro. Una crema alla vaniglia e poi le mele alla cannella che danno quel tocco natalizio.
 <br />
 <a href="https://www.foodblogs-schweiz.ch/foodblogs-schweiz-adventskalender-2020/" target="_blank" rel="noreferrer noopener">
-<img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2020/10/Challenge-Banner-1.png" class="wp-image-452"></a>
+<img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2020/10/Challenge-Banner-1.png" class="wp-image-452 ignore-gallery-item"></a>
 
 Oggi tocca a me aprire la finestrella del calendario d'avvento organizzato da <a href="https://marlenessweetthings.ch" target="_blank">Marlene</a> per <a href="https://www.foodblogs-schweiz.ch" target="_blank">Foodblogs Schweiz</a>. Dietro la 14. finestrella si nasconde la **Pavlova con Crema Pasticcera e Mele alla Cannella**.
 <br />

@@ -17,7 +17,7 @@ lang: de
 
 Ich habe dieses Rezept für die 22. monatliche Foodie Challenge gebacken, die von <a href="https://www.foodblogs-schweiz.ch" target="_blank">Foodblogs Schweiz</a> organisiert wird.
 <a href="https://www.foodblogs-schweiz.ch/challenge/" target="_blank" rel="noreferrer noopener">
-<img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2021/02/Challenge-Banner-Feb21.png" alt="Foodblogs Schweiz Challenge" class="wp-image-452"></a>
+<img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2021/02/Challenge-Banner-Feb21.png" alt="Foodblogs Schweiz Challenge" class="wp-image-452 ignore-gallery-item"></a>
 Im Februar-Warenkorb befinden sich: Chicorée, Mais (Polentamais, Maismehl, Bramata...), Äpfel, Federkohl, Rosmarin und Schweizer Käse.
 <br />
 Eigentlich wollte ich einen Polentakuchen mit Äpfeln backen, aber dann änderte ich plötzlich meine Meinung und beschloss, diese **herzhaften Polentamuffins mit Schweizer Käse und Rosmarin** zu machen. Ich hatte zu lange schon keine Muffins gebacken, dann sah ich auch noch, dass es dem Rosmarin im Garten nicht so schlecht geht.

@@ -18,7 +18,7 @@ lang: de
 **Pavlova mit Vanillecrème und Zimtäpfeln** ein Dessert mit verschiedenen Konsistenzen. Eine Knackige Hülle mit einem weichen Kern. Eine Vanillecrème und dann die Zimtäpfel, welche dem Ganzen eine weihnachtliche Note verleihen.
 <br />
 <a href="https://www.foodblogs-schweiz.ch/foodblogs-schweiz-adventskalender-2020/" target="_blank" rel="noreferrer noopener">
-<img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2020/10/Challenge-Banner-1.png" class="wp-image-452"></a>
+<img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2020/10/Challenge-Banner-1.png" class="wp-image-452 ignore-gallery-item"></a>
 
 Heute darf ich das Törchen vom Adventskalender öffnen, welches von <a href="https://marlenessweetthings.ch" target="_blank">Marlene</a> für <a href="https://www.foodblogs-schweiz.ch" target="_blank">Foodblogs Schweiz</a> organisiert wurde. Hinter dem 14. Törchen versteckt sich eine **Pavlova mit Vanillecrème und Zimtäpfeln**.
 <br />

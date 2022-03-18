@@ -18,7 +18,7 @@ lang: it
 Confettura di Fragole e Fiori di Sambuco, la confettura di fragole più buona al mondo. Questi due ingredienti armonizzano alla perfezione, il profumo è fantastico! L'unico periodo per farla, è questo. Perché i fiori di sambuco non tengono a lungo. Adoro vedere quei piccoli fiorellini profumati sulla fetta di pane, meraviglioso! Sì, ci vuole un po' di pazienza a staccare tutti quei piccoli fiorellini bianchi, ma ne vale assolutamente la pena. Non ci credete? Allora provatela!
 
 <a href="https://www.foodblogs-schweiz.ch/challenge/" target="_blank" rel="noreferrer noopener">
-<img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2019/06/Foodblogs-Schweiz-Banner-Juni.png" alt="Foodblogs Schweiz Challenge" class="wp-image-452"/>
+<img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2019/06/Foodblogs-Schweiz-Banner-Juni.png" alt="Foodblogs Schweiz Challenge" class="wp-image-452 ignore-gallery-item"/>
 
 Nel cestino della Foodie Challenge mensile di giugno, organizzata da <a href="https://www.foodblogs-schweiz.ch" target="_blank">Foodblogs Schweiz</a>, ci sono: patate novelle, rosmarino, zucchine, fiori di sambuco e di nuovo le fragole. Inizialmente volevo prendere patate novelle e rosmarino, poi però ho notato che in cantina sono rimasti solo due vasetti di marmellata e mi è venuto un colpo! Quindi, cambio di programma e cambio di ingredienti: fragole e fiori di sambuco. Con questi due ingredienti ho preparato la mia confettura di fragole preferita. Non amo la confettura di fragole, in generale non amo le fragole cotte, ma insieme con i fiori di sambuco è fenomenale! E con questa ricetta, dichiaro ufficialmente aperta la stagione della preparazione di confetture e marmellate!
 

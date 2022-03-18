@@ -17,7 +17,7 @@ lang: it
 Ovviamente potete anche mischiare un po' le cose: Ricotta e spinaci con crema di zucca o ricotta e cavolo riccio con sugo di pomodoro... Capito il concetto? 
 
 <a href="https://www.foodblogs-schweiz.ch/challenge/" target="_blank" rel="noreferrer noopener">
-<img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2020/09/Challenge-Banner.jpg" alt="Foodblogs Schweiz Challenge" class="wp-image-452"></a>
+<img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2020/09/Challenge-Banner.jpg" alt="Foodblogs Schweiz Challenge" class="wp-image-452 ignore-gallery-item"></a>
 Questi **Conchiglioni ripieni con Ricotta e Cavolo Riccio su Crema di Zucca** li ho preparati per la 18. Foodie Challenge organizzata da <a href="https://www.foodblogs-schweiz.ch" target="_blank">Foodblogs Schweiz</a> con il tema "Tesori Autunnali". Beh, non potevo non scegliere la regina dell'autunno, la zucca. E ho utilizzato anche il cavolo riccio che abbiamo in giardino, una delle pochissime cose che sono rimaste, dopo che abbiamo tolto tutto e preparato il giardino per i mesi freddi... 
 
 <div id="wrapper" style="text-align: center">

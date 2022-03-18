@@ -23,7 +23,7 @@ Das i-Tüpfelchen ist die Couverture! Vor ein paar Wochen habe ich bei der liebe
 Diese Woche findet die 14. Foodie Challenge, organisiert von <a href="https://www.foodblogs-schweiz.ch" target="_blank">Foodblogs Schweiz</a> statt, mit dem Thema: KUCHEN.
 
 <a href="https://www.foodblogs-schweiz.ch/challenge/" target="_blank" rel="noreferrer noopener">
-<img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2020/05/Challenge-Banner1.png" alt="Foodblogs Schweiz Challenge" class="wp-image-452"></a>
+<img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2020/05/Challenge-Banner1.png" alt="Foodblogs Schweiz Challenge" class="wp-image-452 ignore-gallery-item"></a>
 
 Kein Warenkorb, es können Torten, Kuchen, Blechkuchen, Muffins usw. sein. Wenn man aber Früchte oder Gemüse benutzt, müssen diese saisonal sein. Wie immer war ich unentschlossen, aber dieses Mal war es hart. Es ist nicht einfach, sich zwischen Erdbeeren und Rhabarber entscheiden zu müssen, aber so ein Erdbeer-Marmorkuchen schwirrte in meinem Kopf und habe damit experimentiert!
 

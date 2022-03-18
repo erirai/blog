@@ -18,7 +18,7 @@ lang: de
 <br />
 Ich verwende gerne Frischkäse für diese Art von Füllungen und da diese Woche auch die 23. monatliche Foodie Challenge stattfindet, die von <a href="https://www.foodblogs-schweiz.ch" target="_blank">Foodblogs Schweiz</a> organisiert wird, habe ich Champignons und Bärlauch hinzugefügt und Dinkelmehl verwendet.
 <a href="https://www.foodblogs-schweiz.ch/challenge/" target="_blank" rel="noreferrer noopener">
-<img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2021/03/Challenge-Banner-Maerz.jpg" class="wp-image-452"></a>
+<img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2021/03/Challenge-Banner-Maerz.jpg" class="wp-image-452 ignore-gallery-item"></a>
 Im März-Warenkorb gibt es: Karotten, Eier, Dinkel, Champignons, Bärlauch und Äpfel. Schlussendlich habe ich die Champignons verwendet, den hinter dem Haus gesammelten Bärlauch, die Eier im Teig und für das Bestreichen und das Dinkelmehl.
 
 Ah, ich hätte es fast vergessen... Letzten Sonntag wurde Gioele 6 Jahre alt und wie jedes Jahr fragen sie mich nach Torten, die einfach zuzubereiten sind...

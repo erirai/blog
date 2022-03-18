@@ -23,7 +23,7 @@ Sie haben mir sehr geschmeckt! Also sind sie nicht sehr leicht, aber sie werden 
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="recipeCategory" style="display:none;">Süsses</span>
       <span itemprop="name" style="display:none;">Schoko-Schnitten mit Kaffee-Crème</span>
-      <img itemprop="image" style="display:none;" src="../2022-03-15-quadrotti-al-cioccolato-con-crema-al-caffe/header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2022-03-15-quadrotti-al-cioccolato-con-crema-al-caffe/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Schoko-Schnitten mit Kaffee-Crème lecker, super schokoladig und mit einer sehr geschmeidigen Kaffee-Crème. Und auch eine tolle Idee für den Vatertag, nicht?</span>
       <div class="ingredients-title">Zutaten</div>
