@@ -26,7 +26,12 @@ Non so cosa aspettarmi da questo mese, perché ormai non pianifico più nulla. V
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Pane al Farro con Noci</span>
+      <span itemprop="recipeCategory" style="display:none;">Salato</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Pane al Farro con Noci una pagnotta bella croccante dai profumi autunnali. Ottimo da mangiare a colazione con burro e marmellata, ma anche con del formaggio spalmabile o semi stagionato.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

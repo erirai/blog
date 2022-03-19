@@ -14,7 +14,7 @@ lang: it
 ---
 ![](header.jpeg "frangipani © Erica")
 
-Cobbler di Mele e Noci, perché un Cobbler caldo fa sempre bene, sopratutto se fa così freddo! La frutta calda, la crosticina croccante e, per i più golosi, il gelato sciolto... che volete di più?
+**Cobbler di Mele e Noci**, perché un Cobbler caldo fa sempre bene, sopratutto se fa così freddo! La frutta calda, la crosticina croccante e, per i più golosi, il gelato sciolto... che volete di più?
 <br />
 Conoscete il Cobbler? Ne ho fatto uno tempo fa con le <a href="https://frangipani.raiano.ch/2017-09-05-cobbler-di-more/" target="_blank">more</a>, divino! Inizialmente volevo fare un Crumble di Mele, ma all'ultimo momento ho cambiato idea. Ci credete che non avevo mai fatto un semplicissimo Crumble di mele? Bah, mio marito dice sempre che sono strana, quindi non mi stupisco. 
 <br />
@@ -27,7 +27,12 @@ Nel cestino, infatti, ci sono: pastinache, patate dolci, noci, cavolo riccio, me
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Cobbler di Mele e Noci</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Cobbler di Mele e Noci, perché un Cobbler caldo fa sempre bene, sopratutto se fa così freddo! La frutta calda, la crosticina croccante e, per i più golosi, il gelato sciolto...</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

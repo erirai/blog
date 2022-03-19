@@ -1,5 +1,5 @@
 ---
-title: Sfoglia di Mele con Crema alla Vaniglia
+title: "Sfoglia di Mele con Crema alla Vaniglia"
 date: 2013-11-10
 tags:
 - mele
@@ -16,12 +16,17 @@ lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
-Ogni 10 del mese faccio sempre una torta per "festeggiare" il mesiversario di nostra figlia... Per questo mese ho deciso di fare questa sfoglia di mele che è una cosa fantastica e vi assicuro che non esagero!
+Ogni 10 del mese faccio sempre una torta per "festeggiare" il mesiversario di nostra figlia... Per questo mese ho deciso di fare questa **Sfoglia di Mele con Crema alla Vaniglia** che è una cosa fantastica e vi assicuro che non esagero! Pasta sfoglia, uno strato di crema pasticcera, uno strato di mele, poi di nuovo crema pasticcera, mele e per finire una strato croccante di nocciole, che è la ciliegina sulla torta.
 
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Sfoglia di Mele con Crema alla Vaniglia</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Sfoglia di Mele con Crema alla Vaniglia goduriosissima! Pasta sfoglia, crema pasticcera, mele e nocciole...</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
@@ -51,7 +56,7 @@ Ogni 10 del mese faccio sempre una torta per "festeggiare" il mesiversario di no
           </tr>
           <tr>
             <td>100gr</td>
-            <td>noccioline o mandorle macinate</td>
+            <td>nocciole o mandorle macinate</td>
           </tr>
           <tr>
             <td>100gr</td>

@@ -21,7 +21,12 @@ Diesen Tomaten-Gurken-Salat mit gerösteten Auberginen und Hummus habe ich für 
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Tomaten-Gurken-Salat mit gerösteten Auberginen und Hummus</span>
+      <span itemprop="recipeCategory" style="display:none;">Herzhaftes</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-07-16-insalata-di-pomodori-cetrioli-e-melanzane-arrosto-con-hummus/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Tomaten-Gurken-Salat mit gerösteten Auberginen und Hummus etwas vom Leckersten, dass ihr je essen werdet! Man nennt das auch "Loaded Hummus" und ich finde der Name passt perfekt.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

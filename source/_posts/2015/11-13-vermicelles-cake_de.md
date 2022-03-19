@@ -15,12 +15,17 @@ lang: de
 
 > Buon Compleanno Papà und danke Lucia für das Rezept!
 
-Als ich noch arbeitete, brachte meine liebe Freundin Lucia im Herbst immer diesen herrlichen Kuchen. Zu Beginn wollte ich ihn gar nicht probieren, da ich Vermicelles überhaupt nicht mag. Geht gar nicht, ich liebe zwar Marroni aber Vermicelles bringe ich nicht runter! Zum Glück habe ich mich trotzdem überzeugen lassen!!! Es ist sooo lecker... richtig weich und saftig, absolut nicht trocken, einfach himmlisch. Ich konnte es kaum erwarten, dass der Herbst kommt, nur um diesen Kuchen zu backen. Kastanienpüree kann man schon fertig kaufen, normalerweise tiefgekühlt und gezuckert. Heute backe ich diesen Vermicelles-Cake zum ersten Mal für den Geburtstag meines Vaters. Ich hoffe er mag den Kuchen, sonst werde ich ihn ganz alleine verputzen...
+Als ich noch arbeitete, brachte meine liebe Freundin Lucia im Herbst immer diesen herrlichen **Vermicelles-Cake**. Zu Beginn wollte ich ihn gar nicht probieren, da ich Vermicelles überhaupt nicht mag. Geht gar nicht, ich liebe zwar Marroni aber Vermicelles bringe ich nicht runter! Zum Glück habe ich mich trotzdem überzeugen lassen!!! Es ist sooo lecker... richtig weich und saftig, absolut nicht trocken, einfach himmlisch. Ich konnte es kaum erwarten, dass der Herbst kommt, nur um diesen Kuchen zu backen. Kastanienpüree kann man schon fertig kaufen, normalerweise tiefgekühlt und gezuckert. Heute backe ich diesen Vermicelles-Cake zum ersten Mal für den Geburtstag meines Vaters. Ich hoffe er mag den Kuchen, sonst werde ich ihn ganz alleine verputzen...
 
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Vermicelles-Cake</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2015-11-13-vermicelles-cake/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Vermicelles-Cake, richtig weich und saftig, absolut nicht trocken, einfach himmlisch.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

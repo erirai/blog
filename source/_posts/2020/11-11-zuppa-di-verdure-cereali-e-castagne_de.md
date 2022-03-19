@@ -28,7 +28,12 @@ Seit wir Vegetarier sind, haben wir begonnen, unsere Art zu essen viel mehr zu v
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Gemüse-Getreide-Suppe mit Kastanien</span>
+      <span itemprop="recipeCategory" style="display:none;">Herzhaftes</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-11-11-zuppa-di-verdure-cereali-e-castagne/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Gemüse-Getreide-Suppe mit Kastanien diese Suppe wird euch überraschen! Sie ist super reichhaltig, lecker und ihr werdet Zutaten verwenden, die ihr vielleicht in der Speisekammer habt, die ihr aber nicht oft verwendet, wie z.B. Getreidekörner.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

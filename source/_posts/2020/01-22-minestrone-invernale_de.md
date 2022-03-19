@@ -23,7 +23,12 @@ Werft die Gemüseabfälle nicht weg (Karotten-, Kartoffel- und Kürbisschalen, d
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Winter-Minestrone</span>
+      <span itemprop="recipeCategory" style="display:none;">Herzhaftes</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-01-22-minestrone-invernale/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Ein guter Winter-Minestrone, um diese eisigen Tage aufzuwärmen! Nichts wärmt mehr als Brühe...</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

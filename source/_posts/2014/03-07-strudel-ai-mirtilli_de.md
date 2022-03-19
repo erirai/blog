@@ -1,5 +1,5 @@
 ---
-title: Heidelbeer-Strudel
+title: "Heidelbeer-Strudel"
 date: 2014-03-07
 tags:
 - dolci
@@ -14,12 +14,17 @@ lang: de
 ---
 ![](../2014-03-07-strudel-ai-mirtilli/header.jpg "frangipani © Erica")
 
-Heidelbeer-Strudel, ein Dessert, welches in letzter Minute gemacht werden kann. Wenn z.B. unerwartete Gäste kommen oder man plötzlich Lust auf was Süsses hat. Im selben Buch, wo ich das vorige Rezept gefunden habe, stand auch diese Köstlichkeit. Das Foto hat mich richtig angelächelt und sagte mir "iss mich, iss mich"!
+**Heidelbeer-Strudel**, ein Dessert, welches in letzter Minute gemacht werden kann. Wenn z.B. unerwartete Gäste kommen oder man plötzlich Lust auf was Süsses hat. Im selben Buch, wo ich das vorige Rezept gefunden habe, stand auch diese Köstlichkeit. Das Foto hat mich richtig angelächelt und sagte mir "iss mich, iss mich"!
 
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Heidelbeer-Strudel</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2014-03-07-strudel-ai-mirtilli/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Heidelbeer-Strudel, ein Dessert, welches in letzter Minute gemacht werden kann. Wenn z.B. unerwartete Gäste kommen oder man plötzlich Lust auf was Süsses hat.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

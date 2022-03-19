@@ -12,18 +12,20 @@ lang: de
 ---
 ![](../2014-08-18-torta-morbida-alla-nutella/header.jpeg "frangipani © Erica")
 
-> Grazie commà Dani per la ricetta!!!
-
-**Torta Morbida con Crema di Nocciole** una torta semplicissima e velocissima, ma comunque buonissima. Quelle torte da colazione che piacciono a tutti. 
+**Luftiger Kuchen mit Haselnussaufstrich** ein ganz einfacher und schneller Kuchen, aber trotzdem mega lecker. Einer dieser Frühstückskuchen, die alle mögen.
 <br />
-Al compleanno di compà Fabri, commà Dani ha preparato questa fantastica torta supermorbida e buonissimissima e naturalmente io non ho potuto fare a meno di chiederle la ricetta. Oggi, dopo mezz'anno, finalmente sono riuscita a farla... Non vi dico che profumino c'è in tutta la casa, una favola!
+Am Geburtstag von unserem Trauzeugen, hat seine Frau diesen fantastischen Kuchen gebacken. Er war herrlich luftig und so gut, da musste ich das Rezept haben. Heute, nach einem halben Jahr, habe ich es endlich geschafft den Kuchen zu backen... Der Duft in der Küche war himmlisch!
 <br />
-Secondo me al posto della Crema di Nocciole si potrebbe prendere anche della marmellata o della crema pasticcera... da provare!
+Meiner Meinung nach, kann mann statt Haselnussaufstrich auch Konfitüre oder Vanillecrème benutzen... muss ich ausprobieren!
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Luftiger Kuchen mit Haselnussaufstrich</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2014-08-18-torta-morbida-alla-nutella/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Luftiger Kuchen mit Haselnussaufstrich ein ganz einfacher und schneller Kuchen, aber trotzdem mega lecker. Einer dieser Frühstückskuchen, die alle mögen.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

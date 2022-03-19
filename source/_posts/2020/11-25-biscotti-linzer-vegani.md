@@ -23,6 +23,10 @@ Ieri e l'altro ieri ho decorato casa, ho fatto con calma. Normalmente addobbo tu
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Biscotti Linzer vegani</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Biscotti Linzer vegani dei biscotti friabili, fruttati, speziati, super buoni che sanno di Natale! Non sono dei classici biscotti, vengono cotti un po' tipo crostata e poi tagliati a cubetti.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

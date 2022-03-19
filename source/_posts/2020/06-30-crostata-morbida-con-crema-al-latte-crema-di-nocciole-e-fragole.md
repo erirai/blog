@@ -21,7 +21,12 @@ Non c'è paragone con le fragole comprate al supermercato! Ultimamente quelle ch
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Crostata Morbida con Crema al latte, Crema di Nocciole e Fragole</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Crostata Morbida con Crema al latte, Crema di Nocciole e Fragole dal gusto molto delicato e semplice, ma tanto tanto buona! Sa di biscotto, latte, cioccolato e fragole...</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

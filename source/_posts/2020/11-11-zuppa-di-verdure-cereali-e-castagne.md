@@ -28,7 +28,12 @@ Da quando siamo vegetariani, abbiamo iniziato a variare molto di più il nostro 
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Zuppa di Verdure, Cereali e Castagne</span>
+      <span itemprop="recipeCategory" style="display:none;">Salato</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Zuppa di Verdure, Cereali e Castagne questa zuppa vi sorprenderà! È bella ricca, gustosa e utilizzerete ingredienti che magari avete in dispensa, ma che non usate spesso, come i cereali.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

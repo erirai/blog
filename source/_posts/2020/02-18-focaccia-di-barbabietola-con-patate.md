@@ -26,7 +26,12 @@ Per molti mangiare la focaccia con le patate è una cosa strana, ma vi assicuro 
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Focaccia di Barbabietole con Patate e Rosmarino</span>
+      <span itemprop="recipeCategory" style="display:none;">Salato</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Focaccia di Barbabietole con Patate e Rosmarino, una focaccia bella colorata che mette allegria in tavola! La purea delle verdure nell'impasto di pane o focaccia, rende il tutto più morbido.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

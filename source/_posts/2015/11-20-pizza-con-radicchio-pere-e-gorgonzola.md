@@ -15,12 +15,17 @@ lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
-Qualche tempo fa il magnifico Bonci Bonci Bo Bo Bo ha fatto questa meravigliosa Pizza con Radicchio, Pere e Gorgonzola. Solo a guardarla mi è venuta l'acquolina in bocca. Mamma mia quanto sembrava buona! E infatti non potevo non provare a farla! Non ho potuto scrivere gli ingredienti esatti dell'impasto, quindi l'ho fatto come lo faccio io d'abitudine. Voi naturalmente l'impasto lo potete fare come siete abiutuati a farlo... Vi dico che è una vera goduria, ne vale veramente la pena. Vi do le quantità per mezzo chilo di farina, ma non vi servirà tutto l'impasto per fare la pizza, con il resto potete fare altre pizze, focaccie e pane. Se non riuscite a trovare il radicchio, potete usare senza problema anche il cicorino rosso. Pronti?
+Qualche tempo fa il magnifico Bonci Bonci Bo Bo Bo ha fatto questa meravigliosa **Pizza con Radicchio, Pere e Gorgonzola**. Solo a guardarla mi è venuta l'acquolina in bocca. Mamma mia quanto sembrava buona! E infatti non potevo non provare a farla! Non ho potuto scrivere gli ingredienti esatti dell'impasto, quindi l'ho fatto come lo faccio io d'abitudine. Voi naturalmente l'impasto lo potete fare come siete abiutuati a farlo... Vi dico che è una vera goduria, ne vale veramente la pena. Vi do le quantità per mezzo chilo di farina, ma non vi servirà tutto l'impasto per fare la pizza, con il resto potete fare altre pizze, focaccie e pane. Se non riuscite a trovare il radicchio, potete usare senza problema anche il cicorino rosso. Pronti?
 
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Pizza con Radicchio, Pere e Gorgonzola</span>
+      <span itemprop="recipeCategory" style="display:none;">Salato</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Pizza con Radicchio, Pere e Gorgonzola un esplosione di gusti autunnali!</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

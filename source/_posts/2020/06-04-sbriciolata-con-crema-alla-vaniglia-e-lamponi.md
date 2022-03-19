@@ -29,7 +29,12 @@ Magari dovrei prendere esempio da Gioele che martedì all'asilo ha raccontato ch
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Sbriciolata con Crema alla Vaniglia e Lamponi</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Sbriciolata con Crema alla Vaniglia e Lamponi iniziamo il mese di Giugno con un dolce che sa di estate! Un guscio croccante, un ripieno cremoso e la frutta che da freschezza.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

@@ -21,7 +21,12 @@ Poi mi sembra giusto dare il benvenuto all'estate con un piatto fatto con i pomo
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Pomodori ripieni di Riso Nero e Zucchine</span>
+      <span itemprop="recipeCategory" style="display:none;">Salato</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Pomodori ripieni di Riso Nero e Zucchine un piatto vegano, estivo e super leggero per iniziare al meglio la stagione più bella!</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

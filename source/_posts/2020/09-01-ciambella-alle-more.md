@@ -24,7 +24,12 @@ Ieri mattina siamo di nuovo andati a fare una bella passeggiata e c'era la nebbi
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Ciambella alle More</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Ciambella alle More un ottima torta soffice e succosa, perfetta per la colazione o la merenda. Una torta che sa di tarda estate, più sostanziosa ma con la leggerezza dei frutti di bosco.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

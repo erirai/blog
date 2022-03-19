@@ -14,7 +14,7 @@ lang: de
 ---
 ![](../2020-01-16-cobbler-di-mele-e-noci/header.jpeg "frangipani © Erica")
 
-Apfel-Baumnuss-Cobbler, weil ein heisser Cobbler immer gut tut, vor allem bei dieser Kälte! Die warmen Früchte, die Knusprige Kruste und, für die Leckermäuler unter uns, das geschmolzen Eis... was wollt ihr mehr?
+**Apfel-Baumnuss-Cobbler**, weil ein heisser Cobbler immer gut tut, vor allem bei dieser Kälte! Die warmen Früchte, die Knusprige Kruste und, für die Leckermäuler unter uns, das geschmolzen Eis... was wollt ihr mehr?
 <br />
 Kennt ihr Cobbler? Vor einiger Zeit habe ich meinen ersten Cobbler gebacken und zwar mit <a href="https://frangipani.raiano.ch/2017-09-05-cobbler-di-more-de/" target="_blank">Brombeeren</a>, himmlisch! Zu Beginn wollte ich eigentlich einen Apfel-Crumble backen, im letzten Moment habe ich mich aber umentschieden. Glaubt ihr es mir, dass ich noch nie einen simplen Apfel-Crumble gebacken habe? Naja, mein Mann sagt mir immer wieder, dass ich komisch bin, darum überrascht mich das nicht. 
 <br />
@@ -27,7 +27,12 @@ Im Januar-Warenkorb hat es: Pastinaken, Süsskartoffeln, Baumnüsse, Federkohl, 
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Apfel-Baumnuss-Cobbler</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-01-16-cobbler-di-mele-e-noci/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Apfel-Baumnuss-Cobbler, weil ein heisser Cobbler immer gut tut, vor allem bei dieser Kälte! Die warmen Früchte, die Knusprige Kruste und, für die Leckermäuler unter uns, das geschmolzen Eis...</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

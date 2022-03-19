@@ -24,6 +24,10 @@ Lunedì ho impacchettato tutti i regali e prossima settimana, se tutto va bene, 
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Alberelli di Pancarré vegetariani</span>
+      <span itemprop="recipeCategory" style="display:none;">Salato</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Alberelli di Pancarré vegetariani** un aperitivo natalizio sfizioso e veloce. Vi serve solo del Pancarré e delle creme spalmabili come pesto verde, pesto rosso, paté di olive, Hummus, Babaganoush, formaggio spalmabile...</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

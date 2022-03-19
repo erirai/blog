@@ -1,5 +1,5 @@
 ---
-title: Apfeltarte mit Vanillecreme
+title: "Apfeltarte mit Vanillecrème"
 date: 2013-11-10
 tags:
 - mele
@@ -16,12 +16,17 @@ lang: de
 ---
 ![](../2013-11-10-sfoglia-di-mele-con-crema-alla-vaniglia/header.jpg "frangipani © Erica")
 
-Immer am 10. jedes Monats backe ich einen Kuchen um den Monatstag unserer Tochter zu "feiern". Darum gab es heute diese Apfeltarte mit Vanillecreme, das ist soooooo lecker und nein, ich übertreibe nicht!
+Immer am 10. jedes Monats backe ich einen Kuchen um den Monatstag unserer Tochter zu "feiern". Darum gab es heute diese **Apfeltarte mit Vanillecreme**, das ist soooooo lecker und nein, ich übertreibe nicht! Blätterteig, eine Schicht Vanillecrème, eine Schicht Äpfel, wieder eine Schicht Vanillecrème, Äpfel und zum Schluss eine knusprige Schicht mit Haselnüssen, das i-Tüpfelchen!
 
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Apfeltarte mit Vanillecrème</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2013-11-10-sfoglia-di-mele-con-crema-alla-vaniglia/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Himmlische Apfeltarte mit Vanillecrème. Blätterteig, Vanillecrème, Äpfel und Haselnüsse.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

@@ -29,7 +29,12 @@ Vielleicht sollte ich mir ein Beispiel von Gioele nehmen, der am Dienstag im Kin
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Streuselkuchen mit Vanillecreme und Himbeeren</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-06-04-sbriciolata-con-crema-alla-vaniglia-e-lamponi/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Streuselkuchen mit Vanillecreme und Himbeeren wir beginnen den Monat Juni mit einem Dessert, das nach Sommer schmeckt! Eine knusprige Schale, eine cremige Füllung und Früchte, die Frische verleihen.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

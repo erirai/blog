@@ -26,7 +26,12 @@ Für viele ist es komisch, Focaccia mit Kartoffeln zu essen, aber ich versichere
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Randen-Focaccia mit Kartoffeln und Rosmarin</span>
+      <span itemprop="recipeCategory" style="display:none;">Herzhaftes</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-02-18-focaccia-di-barbabietola-con-patate/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Randen-Focaccia mit Kartoffeln und Rosmarin, diese farbige Focaccia bringt Freude auf den Tellern! Gemüsepüree im Brot- oder Focacciateig, macht ihn schön saftig und fluffig.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

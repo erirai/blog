@@ -25,6 +25,10 @@ Questa ricetta è vecchissima ed è quella che fa sempre mia Mamma. Non ho neanc
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Brownies</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Brownies super cioccolatosi con le noci. Belli morbidi e umidi all'interno, così come i Brownies devono essere.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

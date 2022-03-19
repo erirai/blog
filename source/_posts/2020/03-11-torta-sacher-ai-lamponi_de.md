@@ -13,7 +13,7 @@ lang: de
 ---
 ![](../2020-03-11-torta-sacher-ai-lamponi/header.jpeg "frangipani © Erica")
 
-**Himbeer-Sachertorte**, ein leicht überarbeiteter Klassiker. Der Schokoladenkuchen ist schön saftig und schokoladig und durch die Zugabe der Himbeerkonfitüre, wir das ganze noch saftiger.
+**Himbeer-Sachertorte** ein leicht überarbeiteter Klassiker. Der Schokoladenkuchen ist schön saftig und schokoladig und durch die Zugabe der Himbeerkonfitüre, wird das ganze noch saftiger.
 <br />
 Nein, es ist kein Rezept, das ich aus freiem Willen gemacht habe. Mein Mann fragte danach, nachdem er die Torte im Fernsehen bei <a href="https://www.sat1.ch/tv/das-grosse-promibacken/rezepte/staffel-4/himbeer-sachertorte" target="_blank">Das Grosse Promibacken</a> (Werbung unbezahlt, weil wir das gerne schauen) sah. Sowohl meinem Mann als auch den Kindern hat es sehr geschmeckt, auch meinen Enkelinnen. Aber es ist nichts für mich, ich mag Sachertorte im Allgemeinen nicht. Ein Post mit diesem Rezept war nicht geplant, aber da ich eines meiner letzten beiden Gläser Himbeerkonfitüre (die übrigens meine Lieblingskonfitüre ist) opfern musste, habe ich mich umentschieden. Zumindest war das Opfer nicht umsonst. Persönlich hätte ich den Kuchen, der fantastisch ist, mit einer Vanillecreme oder sogar mit Haselnusscreme gefüllt. Wenn ihr aber Sachertorten mögt, werdet ihr sie sicherlich mögen! Es ist auch eine sehr schnelle Torte, denn die Füllung ist schon fix und fertig. Ich würde sagen, auch für einen Geburtstag oder für die Teatime ist sie perfekt.
 
@@ -25,7 +25,12 @@ Hier in der Schweiz warten wir. Ja, wir warten. Die Anzahl Infizierten steit wei
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Himbeer-Sachertorte</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-03-11-torta-sacher-ai-lamponi/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Himbeer-Sachertorte ein leicht überarbeiteter Klassiker. Der Schokoladenkuchen ist schön saftig und schokoladig und durch die Zugabe der Himbeerkonfitüre, wird das ganze noch saftiger.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

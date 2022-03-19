@@ -1,5 +1,5 @@
 ---
-title: Zucchinikuchen
+title: "Zucchinikuchen"
 date: 2014-01-28
 tags:
 - dolci
@@ -15,11 +15,16 @@ lang: de
 
 > Faby, dieses Rezept ist für dich und danke Madrina für das Rezept!
 
-Zucchinikuchen, ein einfacher und guter Kuchen. Dank den Zucchini im Inneren, bleibt der Kuchen schön saftig... Vor ein paar Tagen hat mich meine Cousine nach diesem Rezept gefragt. Ehrlich gesagt, hatte ich diesen Kuchen noch nie selbst gebacken, meine Mutter hat ihn bisher immer gemacht. Nachdem sie mich an die Existenz dieses Kuchens erinnert hat, habe ich ihn sofort gebacken! Man schmeckt die Zucchini nicht, aber trotzdem geben sie dem Kuchen den charakteristischen Geschmack...
+**Zucchinikuchen**, ein einfacher und guter Kuchen. Dank den Zucchini im Inneren, bleibt der Kuchen schön saftig... Vor ein paar Tagen hat mich meine Cousine nach diesem Rezept gefragt. Ehrlich gesagt, hatte ich diesen Kuchen noch nie selbst gebacken, meine Mutter hat ihn bisher immer gemacht. Nachdem sie mich an die Existenz dieses Kuchens erinnert hat, habe ich ihn sofort gebacken! Man schmeckt die Zucchini nicht, aber trotzdem geben sie dem Kuchen den charakteristischen Geschmack...
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Zucchinikuchen</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2014-01-28-torta-di-zucchine/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Zucchinikuchen, ein einfacher und guter Kuchen. Dank den Zucchini im Inneren, bleibt der Kuchen schön saftig...</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

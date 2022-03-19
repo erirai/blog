@@ -20,7 +20,12 @@ Avevo preparato queste Frittelle dolci di Pane ad Aprile per la 13. Foodie Chall
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Frittelle dolci di Pane</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Frittelle dolci di Pane il dolce più povero del mondo... ovvero pane e zucchero!</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

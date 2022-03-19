@@ -22,7 +22,12 @@ Ich habe dieses Rezept aus dem Sweet Dreams Magazin von Mai/Juni 2020 (not spons
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Mandeltarte mit weisser Erdbeer-Ganache</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-06-16-crostata-con-crema-frangipane-e-ganache-al-cioccolato-bianco-e-fragole/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Mandeltarte mit weisser Erdbeer-Ganache mit einem zarten, süssen aber auch fruchtigen Geschmack.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

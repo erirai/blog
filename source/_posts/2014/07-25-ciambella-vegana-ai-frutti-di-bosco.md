@@ -21,6 +21,10 @@ lang: it
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Ciambella vegana ai Frutti di Bosco</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Ciambella vegana ai Frutti di Bosco una ricetta velocissima e facilissima.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

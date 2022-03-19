@@ -23,7 +23,12 @@ Non buttate gli scarti delle verdure (buccia delle carote, patate e zucca, le pa
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Minestrone Invernale</span>
+      <span itemprop="recipeCategory" style="display:none;">Salato</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Un buon Minestrone Invernale per riscaldare queste gelide giornate! Non esiste nulla che riscaldi più del brodo...</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

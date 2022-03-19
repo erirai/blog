@@ -23,7 +23,12 @@ Dieses Jahr wird Ostern ein bisschen anders sein... Jeder bei sich zu Hause. Ich
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Hot Cross Buns ohne Rosinen</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-04-03-hot-cross-buns-senza-uvetta/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Hot Cross Buns ohne Rosinen ein für das Vereinigte Königreich typisches Ostergebäck, welches traditionell am Karfreitag gegessen wird, aus diesem Grund das Kreuz auf den Brötchen. Das sind sehr luftige und duftende Brötchen.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

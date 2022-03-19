@@ -25,7 +25,12 @@ Qui in Svizzera stiamo aspettando. Sì, aspettiamo. I test positivi continuano a
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Torta Sacher ai Lamponi</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Torta Sacher ai Lamponi un classico leggermente rivisitato. La torta al cioccolato è bella umida e cioccolatosa che, con l'aggiunta della confettura di lamponi, diventa ancora più morbida.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

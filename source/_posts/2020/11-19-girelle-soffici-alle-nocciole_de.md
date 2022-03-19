@@ -22,6 +22,10 @@ Im Laufe der Jahre habe ich etwas Wichtiges über Nussschnecken, Cinnamon Rolls 
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Fluffige Nussschnecken</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-11-19-girelle-soffici-alle-nocciole/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Fluffige Nussschnecken die fluffigsten Nussschnecken, die ich je gegessen habe! Sie haben eine tolle cremige Nussfüllung und der Hefeteig ist spektakulär luftig.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

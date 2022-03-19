@@ -17,11 +17,16 @@ lang: de
 
 > Danke Nonno Alfredo für die leckeren Walderdbeeren!
 
-Das Rezept dieser Pasta mit Paprika und Erdbeeren ist vor vielen Jahren ganz per Zufall entstanden... Ich hatte eine Sosse mit Dosentomaten und Paprika gemacht, aber ich wollte etwas anderes dazu geben und im Kühlschrank hatte es eine offene Flasche Fragolino. Passt sicher gut dazu, habe ich gedacht! Und so ist dieses Rezept entstanden...
+Das Rezept dieser **Pasta mit Paprika und Erdbeeren** ist vor vielen Jahren ganz per Zufall entstanden... Ich hatte eine Sosse mit Dosentomaten und Paprika gemacht, aber ich wollte etwas anderes dazu geben und im Kühlschrank hatte es eine offene Flasche Fragolino. Passt sicher gut dazu, habe ich gedacht! Und so ist dieses Rezept entstanden...
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Pasta mit Paprika und Erdbeeren</span>
+      <span itemprop="recipeCategory" style="display:none;">Herzhaftes</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2014-06-04-penne-alla-erica/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Das Rezept dieser Pasta mit Paprika und Erdbeeren ist vor vielen Jahren ganz per Zufall entstanden...</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

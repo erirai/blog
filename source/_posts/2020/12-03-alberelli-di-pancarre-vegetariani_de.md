@@ -12,7 +12,7 @@ lang: de
 ---
 ![](../2020-12-03-alberelli-di-pancarre-vegetariani/header.jpeg "frangipani © Erica")
 
-**Vegetarische Toastbrot-Bäumchen** ein köstlicher und schneller Weihnachts-Aperitif. Alles was ihr braucht ist Toastbrot und Aufstriche wie grünes Pesto, rotes Pesto, Olivenaufstrich, Hummus, Babaganoush, Frischkäse.. was auch immer ihr am liebsten mögt. Ihr könnt alles fertig kaufen oder zu Hause selbst vorbereiten, je nachdem, wie viel Zeit ihr habt. Bitte werft die Reste vom Toastbrot nicht weg, ihr könnt damit Croûtons für die Suppe machen oder sie für Fleisch-/Gemüsebällchen verwenden.
+**Vegetarische Toastbrot-Bäumchen** ein köstlicher und schneller Weihnachts-Aperitif. Alles was ihr braucht ist Toastbrot und Aufstriche wie grünes Pesto, rotes Pesto, Olivenaufstrich, Hummus, Babaganoush, Frischkäse... was auch immer ihr am liebsten mögt. Ihr könnt alles fertig kaufen oder zu Hause selbst vorbereiten, je nachdem, wie viel Zeit ihr habt. Bitte werft die Reste vom Toastbrot nicht weg, ihr könnt damit Croûtons für die Suppe machen oder sie für Fleisch-/Gemüsebällchen verwenden.
 <br />
 Diesen Aperitif können Kinder sehr gut selbst vorbereiten. Es ist sehr einfach und sie helfen immer gerne in der Küche und sind sehr stolz, wenn sie das dann den Gästen präsentieren können...
 
@@ -24,6 +24,10 @@ Am Montag habe ich alle Geschenke eingepackt und nächste Woche werden wir sie h
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Vegetarische Toastbrot-Bäumchen</span>
+      <span itemprop="recipeCategory" style="display:none;">Herzhaftes</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-12-03-alberelli-di-pancarre-vegetariani/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Vegetarische Toastbrot-Bäumchen ein köstlicher und schneller Weihnachts-Aperitif. Alles was ihr braucht ist Toastbrot und Aufstriche wie grünes Pesto, rotes Pesto, Olivenaufstrich, Hummus, Babaganoush, Frischkäse...</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

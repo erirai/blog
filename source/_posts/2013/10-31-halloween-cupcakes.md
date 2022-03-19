@@ -23,6 +23,10 @@ Buon divertimento!
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Halloween Cupcakes - Muffin al Cacao con Crema al Mascarpone</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Halloween Cupcakes ovvero Muffin al Cacao con Crema al Mascarpone dei dolcetti spaventosi ma simpatici.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

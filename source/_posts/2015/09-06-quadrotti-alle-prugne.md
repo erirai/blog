@@ -19,7 +19,12 @@ Rieccomi qua dopo le nostre prime vacanze con i nostri due figli, la piccola ma 
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Quadrotti alle Prugne</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Quadrotti alle Prugne, hanno tutte le consistenze: sotto una pasta tipo pane bella morbida, sopra le prugne succose e per finire la granella croccante!</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

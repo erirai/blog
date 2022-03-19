@@ -1,5 +1,5 @@
 ---
-title: Whoopie Pies ai Ribes farciti con Panna e Quark
+title: "Whoopie Pies ai Ribes farciti con Panna e Quark"
 date: 2014-06-30
 tags:
 - dolci
@@ -13,12 +13,17 @@ lang: it
 ---
 ![](header.jpeg "frangipani © Erica")
 
-Sto sperimentando delle cose nuove e una delle cose che non avevo mai fatto sono i Whoopie Pies. Praticamente sono dei Sandwiches fatti con due biscotti, farciti con una crema... Vi assicuro che è facilissimo farli e sono veramente ottimi!
+Sto sperimentando delle cose nuove e una delle cose che non avevo mai fatto sono i Whoopie Pies. Questi sono dei Sandwiches fatti con due biscotti ai Ribes, farciti con una crema con panna e Quark... Vi assicuro che è facilissimo farli e sono veramente ottimi!
 
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Whoopie Pies ai Ribes farciti con Panna e Quark</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;"> Whoopie Pies ai Ribes farciti con Panna e Quark, dei Sandwiches fatti con due biscotti ai Ribes, farciti con una crema...</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

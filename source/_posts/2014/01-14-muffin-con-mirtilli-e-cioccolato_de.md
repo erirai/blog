@@ -1,5 +1,5 @@
 ---
-title: vegane Muffins mit Heidelbeeren und Schokolade
+title: "vegane Muffins mit Heidelbeeren und Schokolade"
 date: 2014-01-14
 tags:
 - muffin
@@ -17,11 +17,16 @@ lang: de
 
 > Danke Mamma für das Rezept!
 
-Vegane Muffins mit Heidelbeeren und Schokolade, die perfekten Frühstücks-Muffins! Ich hatte Lust auf etwas Süsses, hatte aber leider wenig Zeit um etwas zu backen. Da ist mir das Rezept dieser veganen Muffins eingefallen, welches ich von meiner Mutter bekommen habe. Sie sind ruckzuck gemacht, da man keine Eier aufschlagen muss, dann hatte ich auch noch frische Heidelbeeren... Ich versichere euch, die sind echt super lecker und leicht (ausser die Schokolade), probiert sie aus!
+**Vegane Muffins mit Heidelbeeren und Schokolade**, die perfekten Frühstücks-Muffins! Ich hatte Lust auf etwas Süsses, hatte aber leider wenig Zeit um etwas zu backen. Da ist mir das Rezept dieser veganen Muffins eingefallen, welches ich von meiner Mutter bekommen habe. Sie sind ruckzuck gemacht, da man keine Eier aufschlagen muss, dann hatte ich auch noch frische Heidelbeeren... Ich versichere euch, die sind echt super lecker und leicht (ausser die Schokolade), probiert sie aus!
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">vegane Muffins mit Heidelbeeren und Schokolade</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2014-01-14-muffin-con-mirtilli-e-cioccolato/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Vegane Muffins mit Heidelbeeren und Schokolade, die perfekten Frühstücks-Muffins!</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

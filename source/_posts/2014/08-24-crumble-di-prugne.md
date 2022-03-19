@@ -1,5 +1,5 @@
 ---
-title: Crumble di Prugne
+title: "Crumble di Prugne"
 date: 2014-08-24
 tags:
 - dolci
@@ -14,12 +14,17 @@ lang: it
 ---
 ![](header.jpeg "frangipani © Erica")
 
-Qualche giorno fa mi sono comprata una bellissima tortiera e volevo usarla subito. Poi mia sorella mi ha portato delle prugne, quindi abbiamo deciso di fare un Crumble di Prugne. Vi assicuro che lo abbiamo preparato in 5 minuti e vi assicuro che è buonissimo!
+Qualche giorno fa mi sono comprata una bellissima tortiera e volevo usarla subito. Poi mia sorella mi ha portato delle prugne, quindi abbiamo deciso di fare un **Crumble di Prugne**. Vi assicuro che lo abbiamo preparato in 5 minuti e vi assicuro che è buonissimo, un vero e proprio comfort food!
 
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Crumble di Prugne</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Crumble di Prugne un comfort food pazzesco!</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

@@ -46,6 +46,10 @@ Ich wünsche euch frohe Weihnachten und ein besseres neues Jahr... Lebewohl gute
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Pavlova con Crema Pasticcera e Mele alla Cannella</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-12-14-pavlova-con-crema-pasticcera-e-mele-alla-cannella/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Pavlova mit Vanillecrème und Zimtäpfeln ein Dessert mit verschiedenen Konsistenzen. Eine Knackige Hülle mit einem weichen Kern. Eine Vanillecrème und dann die Zimtäpfel, welche dem Ganzen eine weihnachtliche Note verleihen.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

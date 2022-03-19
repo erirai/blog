@@ -1,5 +1,5 @@
 ---
-title: Quinoa-Zucchini-Bällchen
+title: "Quinoa-Zucchini-Bällchen"
 date: 2013-10-27
 tags:
 - quinoa
@@ -22,6 +22,10 @@ Ich wollte etwas mit Quinoa kochen und habe in der Küche ein bisschen experimen
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Quinoa-Zucchini-Bällchen</span>
+      <span itemprop="recipeCategory" style="display:none;">Herzhaftes</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2013-10-27-bocconcini-di-quinoa-e-zucchine/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Quinoa-Zucchini-Bällchen eine Variante, um unsere Diät etwas vielfältiger zu gestalten. Sehr geschmacksvoll, knusprig aber auch gleichzeitig weich, mit einem Hauch Frische, dank dem Ingwer.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

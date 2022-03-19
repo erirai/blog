@@ -1,5 +1,5 @@
 ---
-title: Torta di Zucchine
+title: "Torta di Zucchine"
 date: 2014-01-28
 tags:
 - dolci
@@ -15,12 +15,17 @@ lang: it
 
 > Faby, questa ricetta è per te e grazie Madrina per la ricetta!
 
-Torta di Zucchine, una torta semplice e buona. Grazie alle zucchine all'interno, la torta rimane umida al punto giusto... L'altro giorno mia cugina mi ha chiesto di questa ricetta. Sinceramente non l'avevo mai fatta, l'ha sempre fatta mia mamma. Dopo che lei mi ha ricordato dell'esistenza di questa ricetta, l'ho subito fatta! Il gusto della zucchina non si sente, ma lo stesso da alla torta quel gusto caratteristico...
+**Torta di Zucchine**, una torta semplice e buona. Grazie alle zucchine all'interno, la torta rimane umida al punto giusto... L'altro giorno mia cugina mi ha chiesto di questa ricetta. Sinceramente non l'avevo mai fatta, l'ha sempre fatta mia mamma. Dopo che lei mi ha ricordato dell'esistenza di questa ricetta, l'ho subito fatta! Il gusto della zucchina non si sente, ma lo stesso da alla torta quel gusto caratteristico...
 
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Torta di Zucchine</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Torta di Zucchine, una torta semplice e buona. Grazie alle zucchine all'interno, la torta rimane umida al punto giusto...</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

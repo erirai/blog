@@ -1,5 +1,5 @@
 ---
-title: Zwetschgen-Crumble
+title: "Zwetschgen-Crumble"
 date: 2014-08-24
 tags:
 - dolci
@@ -14,12 +14,17 @@ lang: de
 ---
 ![](../2014-08-24-crumble-di-prugne/header.jpeg "frangipani © Erica")
 
-Vor ein paar Tagen habe ich eine wunderschöne neue Kuchenform gekauft und wollte sie gleich ausprobieren. Dann hat mir meine Schwester Zwetschgen gebracht, darum haben wir entschieden einen Zwetschgen-Crumble zu backen. Ich kann euch versichern, dass wir das in 5 Minuten vorbereitet haben und dass der Geschmack einfach herrlich ist!
+Vor ein paar Tagen habe ich eine wunderschöne neue Kuchenform gekauft und wollte sie gleich ausprobieren. Dann hat mir meine Schwester Zwetschgen gebracht, darum haben wir entschieden einen **Zwetschgen-Crumble** zu backen. Ich kann euch versichern, dass wir das in 5 Minuten vorbereitet haben und dass der Geschmack einfach herrlich ist, so richtiges Comfort Food!
 
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Zwetschgen-Crumble</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2014-08-24-crumble-di-prugne/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Zwetschgen-Crumble, richtiges Comfort Food!</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

@@ -21,7 +21,12 @@ Es gibt keinen Vergleich mit Erdbeeren vom Supermarkt! In letzter Zeit waren die
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Erdbeer-Obstboden mit Milchcreme und Haselnussaufstrich</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-06-30-crostata-morbida-con-crema-al-latte-crema-di-nocciole-e-fragole/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Erdbeer-Obstboden mit Milchcreme und Haselnussaufstrich mit einem sehr delikaten und bodenständigen Geschmack, aber sehr sehr gut! Es schmeckt nach Keks, Milch, Schokolade und Erdbeeren...</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

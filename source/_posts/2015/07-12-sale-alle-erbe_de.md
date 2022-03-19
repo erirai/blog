@@ -20,6 +20,10 @@ In unserem Garten wachsen Kräuter sehr gut, daher habe ich im Juni/Juli den Gar
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Kräutersalz</span>
+      <span itemprop="recipeCategory" style="display:none;">Herzhaftes</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2015-07-12-sale-alle-erbe/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Kräutersalz eine sommerliche Konserve, die sich ganz einfach zubereiten lässt und in unserer Küche nicht fehlen darf.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

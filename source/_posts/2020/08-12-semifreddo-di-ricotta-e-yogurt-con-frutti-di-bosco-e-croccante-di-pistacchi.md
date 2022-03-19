@@ -25,7 +25,12 @@ Mi sono presa una bella pausa dal Blog, infatti l'ultimo Blogpost risale a quasi
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Semifreddo di Ricotta e Yogurt (senza uova) con Frutti di Bosco e Croccante di Pistacchio</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Semifreddo di Ricotta e Yogurt (senza uova) con Frutti di Bosco e Croccante di Pistacchio un dolce fresco e leggero, perfetto per queste giornate calde.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

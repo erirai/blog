@@ -1,5 +1,5 @@
 ---
-title: Treccia Salata vegan ripiena di Zucca e Patate
+title: "Treccia Salata vegan ripiena di Zucca e Patate"
 date: 2014-10-31
 tags:
 - torta salata
@@ -18,11 +18,16 @@ lang: it
 
 > Happy Halloween a tutti!
 
-Oggi Overdose di zucca!!! Abbiamo comprato una zucca bella grande per fare tantissime pietanze tutte con la zucca. Io vi darò solo la ricetta per questa buonissima treccia salata il resto ve lo posterò un'altra volta.
+Oggi Overdose di zucca!!! Abbiamo comprato una zucca bella grande per fare tantissime pietanze tutte con la zucca. Io vi darò solo la ricetta per questa buonissima **Treccia Salata vegana ripiena di Zucca e Patate** il resto ve lo posterò un'altra volta.
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Treccia Salata vegan ripiena di Zucca e Patate</span>
+      <span itemprop="recipeCategory" style="display:none;">Salato</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Treccia Salata vegana ripiena di Zucca e Patate bella saporita e ottima per svuotare il frigo!</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

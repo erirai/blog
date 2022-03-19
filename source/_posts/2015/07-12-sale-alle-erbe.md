@@ -20,6 +20,10 @@ Nel nostro giardino le erbette aromatiche crescono molto bene, quindi a giugno/l
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Sale alle Erbe</span>
+      <span itemprop="recipeCategory" style="display:none;">Salato</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Sale alle Erbe una conserva estiva facilissima da preparare e che non può mancare nelle nostre cucine.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

@@ -24,7 +24,12 @@ Le ciliegie le ha portate il nonno di mio marito, raccolte dal loro giardino. È
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Muffin vegani variegati con Ciliegie</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Muffin vegani variegati con Ciliegie perfetti per la colazione o per la merenda. Super buoni e sofficissimi, vegani e con ingredienti semplicissimi.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

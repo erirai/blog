@@ -20,6 +20,10 @@ Ovviamente la ricetta è quella degli Gnocchi, poi il condimento è una proposta
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Gnocchi di Patate Gratinati</span>
+      <span itemprop="recipeCategory" style="display:none;">Salato</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Gnocchi di Patate Gratinati uno dei miei comfort food preferiti. Questa è la versione dei Gnocchi un po' più elaborata, ma sono di una bontà incredibile.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

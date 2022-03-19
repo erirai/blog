@@ -21,7 +21,12 @@ E anche quest'anno è arrivato Carnevale, Febbraio sta finendo finalmente... Non
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Frittelle di Ricotta all'Arancia</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Frittelle di Ricotta all'Arancia morbide, leggere e strabuone! Una tira l'altra! Sono facilissime da preparare, perché si mette tutto in una ciotola e poi si deve solo friggere.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

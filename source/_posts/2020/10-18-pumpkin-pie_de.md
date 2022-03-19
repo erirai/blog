@@ -28,7 +28,12 @@ Erica
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Pumpkin Pie (würzige Kürbistarte)</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-10-18-pumpkin-pie/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Pumpkin Pie (würzige Kürbistarte) ein Herbstklassiker, den wir heute auf der ganzen Welt essen. Eine super buttrige, knusprige und mürbe Schale und eine cremige Füllung mit einem kräftigen, süssen und würzigen Geschmack.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

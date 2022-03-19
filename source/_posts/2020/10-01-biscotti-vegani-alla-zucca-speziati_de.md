@@ -25,7 +25,12 @@ Willkommen Oktober! DER Monat des Kürbisses, der Monat, der Dunkelheit bringt, 
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Vegane würzige Kürbis-Kekse</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-10-01-biscotti-vegani-alla-zucca-speziati/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Vegane würzige Kürbis-Kekse mürbe mit einem starken und würzigen Geschmack und voll mit leckeren Schokotropfen. Perfekt um in Milch oder Tee getunkt zu werden.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

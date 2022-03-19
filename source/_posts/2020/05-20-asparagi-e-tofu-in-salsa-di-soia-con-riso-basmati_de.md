@@ -21,7 +21,12 @@ Es ist lange her, seit ich das letzte Mal Tofu gegessen habe, ich hatte aber tot
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Spargel-Tofu-Pfanne mit Sojasauce und Basmatireis</span>
+      <span itemprop="recipeCategory" style="display:none;">Herzhaftes</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-05-20-asparagi-e-tofu-in-salsa-di-soia-con-riso-basmati/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Spargel-Tofu-Pfanne mit Sojasauce und Basmatireis ein komplettes, einfaches und schnelles Tellergericht!</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

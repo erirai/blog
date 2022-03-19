@@ -16,12 +16,17 @@ lang: it
 
 > Buon Compleanno Papà e grazie Lucia per la ricetta!
 
-Quando ancora lavoravo, la mia carissima amica Lucia in autunno portava questa buonissima torta. Inizialmente non l'ho voluta provare, perché dentro c'è la purea di castagne, quella per fare i Vermicelles e io detesto i Vermicelles. Proprio non mi scendono, amo le castagne ma i Vermicelles proprio zero! Poi mi sono presa di coraggio e meno male che l'ho fatto!!! Non vi dico quanto è buona... la torta è bella soffice e per niente asciutta, è una meraviglia. Non vedevo l'ora che arrivasse l'autunno solo per questa torta. La purea di castagne la potete comprare già pronta, normalmente si trova congelata ed è già zuccherata. Oggi l'ho fatta io per la prima volta, è anche il compleanno di mio Papà. Spero che gli piaccia, se no me la pappo tutta io!
+Quando ancora lavoravo, la mia carissima amica Lucia in autunno portava questa buonissima **Torta di Castagne**. Inizialmente non l'ho voluta provare, perché dentro c'è la purea di castagne, quella per fare i Vermicelles e io detesto i Vermicelles. Proprio non mi scendono, amo le castagne ma i Vermicelles proprio zero! Poi mi sono presa di coraggio e meno male che l'ho fatto!!! Non vi dico quanto è buona... la torta è bella soffice e per niente asciutta, è una meraviglia. Non vedevo l'ora che arrivasse l'autunno solo per questa torta. La purea di castagne la potete comprare già pronta, normalmente si trova congelata ed è già zuccherata. Oggi l'ho fatta io per la prima volta, è anche il compleanno di mio Papà. Spero che gli piaccia, se no me la pappo tutta io!
 
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Torta di Castagne</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Torta di Castagne, bella soffice e per niente asciutta, è una meraviglia.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

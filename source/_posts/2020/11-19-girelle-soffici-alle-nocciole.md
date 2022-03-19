@@ -22,6 +22,10 @@ Negli anni ho imparato una cosa importante sulle girelle alle nocciole, cinnamon
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Girelle soffici alle Nocciole</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Girelle soffici alle Nocciole le girelle alle nocciole più soffici che ho mai mangiato! Hanno un ripieno alle nocciole (e mandorle) bello cremoso e la pasta lievita è di una sofficità spettacolare.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

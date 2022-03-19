@@ -20,6 +20,10 @@ Es geht hier um das Gnocchirezept, die Sauce ist ein Vorschlag. Sie schmecken au
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Überbackene Kartoffel-Gnocchi</span>
+      <span itemprop="recipeCategory" style="display:none;">Herzhaftes</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2014-01-15-gnocchi-di-patate-gratinati/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Überbackene Kartoffel-Gnocchi eines meiner liebsten Comfort Foods. Dies ist die etwas aufwändigere Version der Gnocchi, aber sie sind unglaublich gut.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

@@ -48,7 +48,12 @@ La nostra "quarantena" è iniziata a metà marzo con il compleanno di Gioele, in
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Torta variegata alle Fragole e Vaniglia</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Torta variegata alle Fragole e Vaniglia morbida, burrosa, setosa, per niente asciutta, fragolosa e poi quella glassa di cioccolato Ruby... La fine del mondo!</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

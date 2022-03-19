@@ -25,6 +25,10 @@ Dieses Rezept ist sehr alt und wird von meiner Mutter immer zubereitet. Ich habe
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Brownies</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2013-10-26-brownies/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Brownies super schokoladig und mit Baumnüssen. Innen schön weich und saftig, so wie Brownies sein müssen.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

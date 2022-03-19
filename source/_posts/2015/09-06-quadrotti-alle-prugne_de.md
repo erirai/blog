@@ -19,7 +19,12 @@ Da bin ich wieder nach den ersten Ferien, mit unseren beiden Kindern, das kleine
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Zwetschgenblechkuchen mit Streusel</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2015-09-06-quadrotti-alle-prugne/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Dieser Zwetschgenblechkuchen mit Streuseln hat mehrere Konsistenzen: unten ein fluffiger Boden, wie Brot, oben die saftigen Zwetschgen und dann die knusprigen Streusel!</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

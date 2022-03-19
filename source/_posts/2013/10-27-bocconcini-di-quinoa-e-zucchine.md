@@ -1,5 +1,5 @@
 ---
-title: Polpette di Quinoa e Zucchine
+title: "Polpette di Quinoa e Zucchine"
 date: 2013-10-27
 tags:
 - quinoa
@@ -22,6 +22,10 @@ Volevo fare qualcosa con la quinoa e ho pasticciato un po' in cucina... Sono ver
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Polpette di Quinoa e Zucchine</span>
+      <span itemprop="recipeCategory" style="display:none;">Salato</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Polpette di Quinoa e Zucchine un modo per variare un po' la nostra dieta. Molto gustose, croccanti e allo stesso momento morbide, con un tocco di freschezza dato dallo zenzero.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

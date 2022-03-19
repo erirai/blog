@@ -23,7 +23,12 @@ Januar geht bald zu Ende und genau das, ist das Schönste vom ganzen Monat! Kann
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Kichererbsen-Kürbis-Karotten-Suppe mit Curry</span>
+      <span itemprop="recipeCategory" style="display:none;">Herzhaftes</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-01-30-vellutata-di-ceci-zucca-e-carote-profumata-al-curry/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Kichererbsen-Kürbis-Karotten-Suppe mit Curry eine gesunde un nahrhafte Speise.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

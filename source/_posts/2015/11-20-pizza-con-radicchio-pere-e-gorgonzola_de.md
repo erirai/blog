@@ -15,11 +15,16 @@ lang: de
 ---
 ![](../2015-11-20-pizza-con-radicchio-pere-e-gorgonzola/header.jpg "frangipani © Erica")
 
-Vor einiger Zeit habe ich dieses Rezept im Fernseher gesehen. Beim Anblick dieser Pizza mit Radicchio, Birnen und Gorgonzola lief mir das Wasser im Mund zusammen. Das sah so lecker aus! Ich konnte nicht widerstehen und habe sie nachgebacken. Mensch ist diese Pizza gut, es lohnt sich wirklich. Ihr braucht nicht den ganzen Teig für diese Pizza, ihr könnt dann einfach andere Pizza machen, Focaccia oder Brot. Falls ihr keinen Radicchio findet, nehmt einfach etwas ähnliches wie Cicorino Rosso. Bereit?
+Vor einiger Zeit habe ich dieses Rezept im Fernseher gesehen. Beim Anblick dieser **Pizza mit Radicchio, Birnen und Gorgonzola** lief mir das Wasser im Mund zusammen. Das sah so lecker aus! Ich konnte nicht widerstehen und habe sie nachgebacken. Mensch ist diese Pizza gut, es lohnt sich wirklich. Ihr braucht nicht den ganzen Teig für diese Pizza, ihr könnt dann einfach andere Pizza machen, Focaccia oder Brot. Falls ihr keinen Radicchio findet, nehmt einfach etwas ähnliches wie Cicorino Rosso. Bereit?
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Pizza mit Radicchio, Birnen und Gorgonzola</span>
+      <span itemprop="recipeCategory" style="display:none;">Herzhaftes</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2015-11-20-pizza-con-radicchio-pere-e-gorgonzola/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Pizza mit Radicchio, Birnen und Gorgonzola eine herbstliche Geschmacksexplosion!</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

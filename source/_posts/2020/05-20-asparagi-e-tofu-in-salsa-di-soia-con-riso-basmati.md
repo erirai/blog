@@ -21,7 +21,12 @@ Era da un sacco di tempo che non mangiavo più il Tofu, ma avevo troppa voglia d
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Asparagi e Tofu in Salsa di Soia con Riso Basmati</span>
+      <span itemprop="recipeCategory" style="display:none;">Salato</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Asparagi e Tofu in Salsa di Soia con Riso Basmati un piatto unico completo, facile e veloce!</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

@@ -19,7 +19,12 @@ Il pane del fornaio dietro casa, era una di quelle cose che avrei mangiato molto
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Pane Siciliano di Semola con Sesamo</span>
+      <span itemprop="recipeCategory" style="display:none;">Salato</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Pane Siciliano di Semola con Sesamo un pane profumatissimo, pieno di gusto che sa di Sicilia! Appena sfornato, con un filo d'olio evo, un pizzico di sale e origano è il massimo.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

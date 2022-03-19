@@ -22,7 +22,12 @@ Questi **Conchiglioni ripieni con Ricotta e Cavolo Riccio su Crema di Zucca** li
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Conchiglioni ripieni con Ricotta e Cavolo Riccio su Crema di Zucca</span>
+      <span itemprop="recipeCategory" style="display:none;">Salato</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Conchiglioni ripieni con Ricotta e Cavolo Riccio su Crema di Zucca un piatto molto comfy, perfetto per queste giornate autunnali.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

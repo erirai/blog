@@ -17,12 +17,17 @@ lang: it
 
 > Grazie Nonno Alfredo per le buonissime fragoline di bosco!
 
-La ricetta della Pasta con Peperoni e Fragole è nata tanti anni fa per caso, così non sapendo cosa cucinare... Avevo preparato un sughetto con pomodori e peperoni, ma volevo metterci qualcosa di diverso ed ho visto una bottiglia di fragolino aperta in frigo... Beh, sicuramente non ci starà male, ho pensato! Ed è nata la mia ricetta... 
+La ricetta della **Pasta con Peperoni e Fragole** è nata tanti anni fa per caso, così non sapendo cosa cucinare... Avevo preparato un sughetto con pomodori e peperoni, ma volevo metterci qualcosa di diverso ed ho visto una bottiglia di fragolino aperta in frigo... Beh, sicuramente non ci starà male, ho pensato! Ed è nata la mia ricetta... 
 
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Pasta con Peperoni e Fragole</span>
+      <span itemprop="recipeCategory" style="display:none;">Salato</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">La ricetta della Pasta con Peperoni e Fragole è nata tanti anni fa per caso, così non sapendo cosa cucinare...</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

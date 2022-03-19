@@ -48,7 +48,12 @@ Unsere "Quarantäne" hat Mitte März mit dem Geburtstag von unserem Sohn begonne
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Erdbeer-Vanille-Marmorkuchen</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-05-15-torta-variegata-alle-fragole-e-vaniglia/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Erdbeer-Vanille-Marmorkuchen weich, buttrig, seidig, saftig, überhaupt nicht trocken, erdbeerig und dann diese Ruby Couverture... Traumhaft!</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

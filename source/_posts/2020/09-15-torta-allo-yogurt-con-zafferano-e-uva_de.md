@@ -21,7 +21,12 @@ Bei den aktuellen Temperaturen bräuchte man tatsächlich ein Sommerdessert, wei
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Joghurtkuchen mit Safran und Trauben</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-09-15-torta-allo-yogurt-con-zafferano-e-uva/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Joghurtkuchen mit Safran und Trauben dieser Kuchen schmeckt nach Herbst. Einfacher und bescheidener Geschmack. Der Safran passt perfekt zu Trauben, hätte ich nicht gedacht!</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

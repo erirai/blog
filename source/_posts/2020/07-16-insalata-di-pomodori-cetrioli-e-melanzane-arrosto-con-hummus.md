@@ -21,7 +21,12 @@ Ho preparato quest'Insalata di Pomodori, Cetrioli e Melanzane arrosto con Hummus
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Insalata di Pomodori, Cetrioli e Melanzane arrosto con Hummus</span>
+      <span itemprop="recipeCategory" style="display:none;">Salato</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Insalata di Pomodori, Cetrioli e Melanzane arrosto con Hummus una delle cose più buone che mangerete mai! Si può chiamare anche "Loaded Hummus" e penso che questo nome sia azzeccatissimo.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

@@ -13,11 +13,16 @@ lang: de
 ---
 ![](../2014-06-30-whoopie-pies-ai-ribes-farciti-con-panna-e-quark/header.jpeg "frangipani © Erica")
 
-Ich probiere gerade neue Rezepte aus und etwas, das ich nie zuvor gebacken hatte, sind Whoopie Pies. Das sind so eine Art Sandwiches mit Keksen, die mit einer Crème gefüllt werden... Die sind einfach vorzubereiten und richtig richtig lecker!
+Ich probiere gerade neue Rezepte aus und etwas, das ich nie zuvor gebacken hatte, sind Whoopie Pies. Das sind so eine Art Sandwiches mit Johannisbeeren-Keksen, die mit einer Quark-Sahne-Crème gefüllt werden... Die sind einfach vorzubereiten und richtig richtig lecker!
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Johannisbeeren-Whoopie Pies mit Quark-Sahne-Crème</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2014-06-30-whoopie-pies-ai-ribes-farciti-con-panna-e-quark/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Johannisbeeren-Whoopie Pies mit Quark-Sahne-Crème, eine Art Sandwiches mit Johannisbeeren-Keksen, die mit einer Quark-Sahne-Crème gefüllt werden.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

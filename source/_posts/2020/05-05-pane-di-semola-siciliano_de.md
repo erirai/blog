@@ -19,7 +19,12 @@ Das Brot vom Bäcker um die Ecke, war eines dieser Dinge, die ich vor ein paar W
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Sizilianisches Hartweizengriess-Brot mit Sesam</span>
+      <span itemprop="recipeCategory" style="display:none;">Herzhaftes</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-05-05-pane-di-semola-siciliano/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Sizilianisches Hartweizengriess-Brot mit Sesam ein Brot mit unwiderstehlichem Duft, voller Geschmack, welches nach Sizilien schmeckt! Frisch aus dem Ofen, schmeckt es am besten mit etwas Olivenöl, einer Prise Salz und Oregano.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

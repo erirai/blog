@@ -21,6 +21,10 @@ Der Brokkoliteig ist recht klebrig und weich, darum ist es sehr wichtig, dass de
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Brokkoli-Bällchen mit Mozzarella</span>
+      <span itemprop="recipeCategory" style="display:none;">Herzhaftes</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2014-07-18-polpette-di-broccoli-con-cuore-di-mozzarella/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Brokkoli-Bällchen mit Mozzarella vegetarische und schmackhafte Gemüsebällchen. Man schmeckt den ganzen Brokkoli und drin ein Herz aus geschmolzenen Mozzarella.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

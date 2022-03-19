@@ -28,7 +28,12 @@ Erica
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Pumpkin Pie (Crostata di Zucca speziata)</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Pumpkin Pie (Crostata di Zucca speziata) un classico autunnale, che ormai mangiamo in tutto il mondo. Un guscio super burroso, croccante e friabile e un ripieno cremoso dal gusto deciso, dolce e speziato.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

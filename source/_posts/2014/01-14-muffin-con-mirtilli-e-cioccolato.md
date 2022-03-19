@@ -1,5 +1,5 @@
 ---
-title: Muffin vegani con Mirtilli e Cioccolato
+title: "Muffin vegani con Mirtilli e Cioccolato"
 date: 2014-01-14
 tags:
 - muffin
@@ -17,12 +17,17 @@ lang: it
 
 > Grazie Mamma per la ricetta!
 
-Muffin vegani con Mirtilli e Cioccolato, i Muffin perfetti per la colazione! Avevo voglia di qualcosa di dolce ma avevo poco tempo e mi è venuta in mente la ricetta di questi muffin vegani che mi ha dato mia mamma. Si fanno in pochissimo tempo, dato che non c'è bisogno di sbattere uova, poi avevo anche i mirtilli freschi... quindi mi sono messa all'opera! Vi assicuro che sono veramente buonissimi e leggerissimi (a parte il cioccolato), provateli! 
+**Muffin vegani con Mirtilli e Cioccolato**, i Muffin perfetti per la colazione! Avevo voglia di qualcosa di dolce ma avevo poco tempo e mi è venuta in mente la ricetta di questi muffin vegani che mi ha dato mia mamma. Si fanno in pochissimo tempo, dato che non c'è bisogno di sbattere uova, poi avevo anche i mirtilli freschi... quindi mi sono messa all'opera! Vi assicuro che sono veramente buonissimi e leggerissimi (a parte il cioccolato), provateli! 
 
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Muffin vegani con Mirtilli e Cioccolato</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Muffin vegani con Mirtilli e Cioccolato, i Muffin perfetti per la colazione!</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

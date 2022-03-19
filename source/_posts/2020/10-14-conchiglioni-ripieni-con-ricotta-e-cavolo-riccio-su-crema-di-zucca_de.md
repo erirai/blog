@@ -22,7 +22,12 @@ Diese **Muschelpasta gefüllt mit Ricotta und Federkohl auf Kürbiscreme** habe 
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Muschelpasta gefüllt mit Ricotta und Federkohl auf Kürbiscreme</span>
+      <span itemprop="recipeCategory" style="display:none;">Herzhaftes</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-10-14-conchiglioni-ripieni-con-ricotta-e-cavolo-riccio-su-crema-di-zucca/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Muschelpasta gefüllt mit Ricotta und Federkohl auf Kürbiscreme ein sehr wärmendes Gericht, perfekt für diese Herbsttage.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

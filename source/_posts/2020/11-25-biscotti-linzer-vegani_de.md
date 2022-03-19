@@ -23,6 +23,10 @@ Gestern und vorgestern habe ich die ganze Wohnung dekoriert, in aller Ruhe. Norm
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Vegane Linzer Kekse</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-11-25-biscotti-linzer-vegani/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Vegane Linzer Kekse mürbe, fruchtig, würzig, super leckere Kekse, die nach Weihnachten schmecken! Sie sind keine klassischen Kekse, sie werden ein bisschen wie eine Tarte gebacken und dann in Würfel geschnitten.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

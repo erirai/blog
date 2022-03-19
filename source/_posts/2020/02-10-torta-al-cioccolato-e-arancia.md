@@ -24,7 +24,12 @@ Questa ricetta l'ho presa dal giornalino Sweet Dreams di Gennaio/Febbraio 2020 (
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Torta al Cioccolato e Arancia</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Torta al Cioccolato e Arancia la torta perfetta per tutti gli amanti del connubio cioccolato e arancia. Ha una consistenza setosa, scioglievole, è super cioccolatosa e quel tocco d'arancia ci sta perfettamente!</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

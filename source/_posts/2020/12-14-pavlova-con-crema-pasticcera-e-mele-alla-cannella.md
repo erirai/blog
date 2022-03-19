@@ -46,6 +46,10 @@ Vi auguro un sereno Natale e un 2021 migliore... Addio Gigante Buono, è stato u
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Pavlova con Crema Pasticcera e Mele alla Cannella</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Pavlova con Crema Pasticcera e Mele alla Cannella un dolce al cucchiaio dalle consistenze diverse. Un guscio croccante fuori, ma morbido dentro. Una crema alla vaniglia e poi le mele alla cannella che danno quel tocco natalizio.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

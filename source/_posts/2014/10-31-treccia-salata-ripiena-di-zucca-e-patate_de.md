@@ -18,11 +18,16 @@ lang: de
 
 > Happy Halloween!
 
-Heute gibt es eine Kürbisoverdose! Wir haben einen grossen Kürbis gekauft und haben damit ganz viele Kürbisgerichte gemacht. Jedoch müsst ihr euch im Moment mit dem herzhaften Strudel begnügen, die restlichen Rezepte werde ich ein anderes Mal posten.
+Heute gibt es eine Kürbisoverdose! Wir haben einen grossen Kürbis gekauft und haben damit ganz viele Kürbisgerichte gemacht. Jedoch müsst ihr euch im Moment mit dem **veganen herzhaften Strudel mit Kürbis und Kartoffeln** begnügen, die restlichen Rezepte werde ich ein anderes Mal posten.
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Veganer herzhafter Strudel mit Kürbis und Kartoffeln</span>
+      <span itemprop="recipeCategory" style="display:none;">Herzhaftes</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2014-10-31-treccia-salata-ripiena-di-zucca-e-patate/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Veganer herzhafter Strudel mit Kürbis und Kartoffeln schön schmackhaft und super um den Kühlschrank zu leeren.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

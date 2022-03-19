@@ -24,7 +24,12 @@ Die letzte Schulwoche vor Beginn der Sommerferien hat begonnen. Und ja, ich bin 
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">vegane Marmor-Muffins mit Kirschen</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-07-07-muffin-vegani-variegati-con-ciliegie/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Vegane Marmor-Muffins mit Kirschen perfekt zum Frühstück oder für zwischendurch. Super lecker und schön fluffig, vegan und mit sehr einfachen Zutaten.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>

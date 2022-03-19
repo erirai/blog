@@ -27,7 +27,12 @@ Ich weiss nicht, was ich von diesem Monat erwarten soll, weil ich einfach nichts
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Dinkelbrot mit Walnüssen</span>
+      <span itemprop="recipeCategory" style="display:none;">Herzhaftes</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-11-05-pane-al-farro-con-noci/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Dinkelbrot mit Walnüssen ein tolles knuspriges Brot mit herbstlichen Düften. Hervorragend zum Frühstück mit Butter und Marmelade, aber auch mit Frischkäse oder halb gereiftem Käse.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
