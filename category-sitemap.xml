@@ -9,57 +9,113 @@
 
 
     <url>
-        <loc>http://frangipani.raiano.ch/categories/Dolce/Torte/</loc>
-        <lastmod>2022-03-18T14:53:19.599Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/categories/Dolce/</loc>
-        <lastmod>2022-03-18T14:53:19.599Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/categories/Dolce/Panificati/</loc>
-        <lastmod>2022-03-18T14:52:13.729Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/categories/Salato/Torte-salate-Muffin-salati/</loc>
-        <lastmod>2022-03-18T14:50:01.302Z</lastmod>
+        <loc>http://frangipani.raiano.ch/categories/Salato/Panificati/</loc>
+        <lastmod>2022-03-19T21:57:53.199Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://frangipani.raiano.ch/categories/Salato/</loc>
-        <lastmod>2022-03-18T14:50:01.302Z</lastmod>
+        <lastmod>2022-03-19T21:57:53.199Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/categories/Dolce/Torte/</loc>
+        <lastmod>2022-03-19T21:55:02.258Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/categories/Dolce/</loc>
+        <lastmod>2022-03-19T21:55:02.258Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/categories/Salato/Conserve/</loc>
+        <lastmod>2022-03-19T21:48:10.615Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/categories/Salato/Torte-salate-Muffin-salati/</loc>
+        <lastmod>2022-03-19T21:44:17.073Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/categories/Dolce/Crostate-Tartes/</loc>
+        <lastmod>2022-03-19T21:40:32.967Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://frangipani.raiano.ch/categories/Salato/Secondi-Piatti-e-Contorni/</loc>
-        <lastmod>2022-03-18T14:48:50.027Z</lastmod>
+        <lastmod>2022-03-19T21:34:16.017Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/categories/Dolce/Piccola-Pasticceria/</loc>
-        <lastmod>2022-03-18T14:47:01.692Z</lastmod>
+        <loc>http://frangipani.raiano.ch/categories/Dolce/Muffin-Cupcakes-Cake-Pops/</loc>
+        <lastmod>2022-03-19T21:32:13.752Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/categories/Salato/Primi-Piatti/</loc>
+        <lastmod>2022-03-19T21:27:43.269Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/categories/Dolce/Dolci-al-cucchiaio-Gelati/</loc>
+        <lastmod>2022-03-19T21:22:02.189Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://frangipani.raiano.ch/categories/Salato/Aperitivi/</loc>
-        <lastmod>2022-03-18T14:45:45.060Z</lastmod>
+        <lastmod>2022-03-19T21:03:07.866Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/categories/Dolce/Biscotti/</loc>
+        <lastmod>2022-03-19T21:00:11.454Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/categories/Salato/Piatti-Unici/</loc>
+        <lastmod>2022-03-19T16:20:39.666Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/categories/Dolce/Piccola-Pasticceria/</loc>
+        <lastmod>2022-03-19T16:11:59.575Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/categories/Dolce/Panificati/</loc>
+        <lastmod>2022-03-19T15:58:21.906Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -67,55 +123,6 @@
     <url>
         <loc>http://frangipani.raiano.ch/categories/Dolce/Conserve/</loc>
         <lastmod>2022-03-18T14:43:59.198Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/categories/Dolce/Crostate-Tartes/</loc>
-        <lastmod>2022-03-18T14:34:13.506Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/categories/Dolce/Muffin-Cupcakes-Cake-Pops/</loc>
-        <lastmod>2022-03-18T14:11:24.872Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/categories/Dolce/Biscotti/</loc>
-        <lastmod>2022-03-18T14:10:35.129Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/categories/Salato/Primi-Piatti/</loc>
-        <lastmod>2022-03-18T14:01:16.262Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/categories/Salato/Piatti-Unici/</loc>
-        <lastmod>2022-03-18T13:54:00.141Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/categories/Salato/Panificati/</loc>
-        <lastmod>2022-03-18T13:42:05.552Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/categories/Dolce/Dolci-al-cucchiaio-Gelati/</loc>
-        <lastmod>2022-03-18T08:16:32.413Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -130,13 +137,6 @@
     <url>
         <loc>http://frangipani.raiano.ch/categories/Dolce/Bevande/</loc>
         <lastmod>2021-11-12T10:41:27.158Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/categories/Salato/Conserve/</loc>
-        <lastmod>2021-11-02T14:48:18.938Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
