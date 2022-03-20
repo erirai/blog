@@ -90,7 +90,8 @@ search:
   field: post
 
 sitemap:
-    path: sitemap.xml
+  path: sitemap.xml
+  category: false
 
 robotstxt:
   useragent: "*"
