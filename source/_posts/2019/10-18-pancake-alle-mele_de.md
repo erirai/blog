@@ -14,7 +14,7 @@ lang: de
 
 > Happy 6. Blogday Profumo di Frangipani
 
-Apfel-Zimt-Pancakes, fluffig und duftend, perfekt für das Herbstfrühstück! Das Pfannkuchenrezept ist immer dasselbe, aber in diesem Fall habe ich Äpfel und Zimt hinzugefügt. Ich mache bewusst eine ganze Apfelscheibe rein, fast wie Öpfelchüechli. Ich wollte die Äpfel absichtlich nicht reiben oder in Würfel schneiden, weil meine Kinder morgens hungrig sind und die Dinge schnell gehen müssen. Es ist ein Rezept, das ich schon lange im Kopf habe. Ich liebe Pfannkuchen, ich liebe Desserts mit Äpfeln (hier ist das Rezept für <a href="https://frangipani.raiano.ch/2014-06-14-pancakes/" target="_blank">vegane Pancakes</a> und von <a href="https://frangipani.raiano.ch/2019-07-22-pancake-ai-mirtilli-de/" target="_blank">Heidelbeerpfannkuchen</a>) und ich liebe es zu frühstücken! Und für einen besonderen Anlass ist ein besonderes Frühstück erforderlich und heute ist ein besonderer Tag. Ja, heute feiern wir den 6. Blogday von "Profumo di Frangipani". Nein, ich konnte keinen Kuchen zum Feiern backen. Letzte Woche sind wir zum Onkel meines Mannes gefahren, der in Berlin lebt. Er lebt dort seit ein paar Jahren und ist Priester. Als wir das letzte Mal in Berlin waren, war es 2007, als er Priester wurde. Wir haben Berlin zu Fuss gesehen, denn mit dem Auto ist es unmöglich. Insgesamt sind es 55.000 Schritte geworden, mit den Kindern, die sehr gut gelaufen sind, ohne sich zu beschweren. Berlin ist voller Kultur und Geschichte. In jeder Ecke gibt es ein historisches Gebäude, Mauerstücke, die eine Geschichte erzählen. Am letzten Tag hat uns der Ehemann der Cousine meines Mannes zur East Side Gallery begleitet. Er hat damals im Osten gelebt und hat alles erlebt. Er erzählte uns ein paar Dinge... Unglaubliche, absurde, interessante, traurige Dinge, die wir uns heute nicht einmal vorstellen können. Berlin, eine grosse Stadt! Voller Autos, mit grossen Gebäuden, eine lebendige Stadt, leider viele Obdachlose, seltsamen Menschen. Eine Stadt, die viel zu erzählen hat, eine Stadt, die man sehen muss!
+**Apfel-Zimt-Pancakes**, fluffig und duftend, perfekt für das Herbstfrühstück! Das Pfannkuchenrezept ist immer dasselbe, aber in diesem Fall habe ich Äpfel und Zimt hinzugefügt. Ich mache bewusst eine ganze Apfelscheibe rein, fast wie Öpfelchüechli. Ich wollte die Äpfel absichtlich nicht reiben oder in Würfel schneiden, weil meine Kinder morgens hungrig sind und die Dinge schnell gehen müssen. Es ist ein Rezept, das ich schon lange im Kopf habe. Ich liebe Pfannkuchen, ich liebe Desserts mit Äpfeln (hier ist das Rezept für <a href="https://frangipani.raiano.ch/2014-06-14-pancakes/" target="_blank">vegane Pancakes</a> und von <a href="https://frangipani.raiano.ch/2019-07-22-pancake-ai-mirtilli-de/" target="_blank">Heidelbeerpfannkuchen</a>) und ich liebe es zu frühstücken! Und für einen besonderen Anlass ist ein besonderes Frühstück erforderlich und heute ist ein besonderer Tag. Ja, heute feiern wir den 6. Blogday von "Profumo di Frangipani". Nein, ich konnte keinen Kuchen zum Feiern backen. Letzte Woche sind wir zum Onkel meines Mannes gefahren, der in Berlin lebt. Er lebt dort seit ein paar Jahren und ist Priester. Als wir das letzte Mal in Berlin waren, war es 2007, als er Priester wurde. Wir haben Berlin zu Fuss gesehen, denn mit dem Auto ist es unmöglich. Insgesamt sind es 55.000 Schritte geworden, mit den Kindern, die sehr gut gelaufen sind, ohne sich zu beschweren. Berlin ist voller Kultur und Geschichte. In jeder Ecke gibt es ein historisches Gebäude, Mauerstücke, die eine Geschichte erzählen. Am letzten Tag hat uns der Ehemann der Cousine meines Mannes zur East Side Gallery begleitet. Er hat damals im Osten gelebt und hat alles erlebt. Er erzählte uns ein paar Dinge... Unglaubliche, absurde, interessante, traurige Dinge, die wir uns heute nicht einmal vorstellen können. Berlin, eine grosse Stadt! Voller Autos, mit grossen Gebäuden, eine lebendige Stadt, leider viele Obdachlose, seltsamen Menschen. Eine Stadt, die viel zu erzählen hat, eine Stadt, die man sehen muss!
 
 Vor 6 Jahren mein erster Beitrag. Heute, für meinen 6. Blogday, poste ich das Rezept meiner Apfel-Zimt-Pancakes und kein Kuchen, was ich bis letztes Jahr nicht getan hätte! <a href="https://frangipani.raiano.ch/2018-10-18-cream-tart-al-cacao-de/" target="_blank">Letztes Jahr</a> schrieb ich: "Dieses Jahr hatte ich oft das Gefühl, den Blog vernachlässigt zu haben...". Jetzt schreibe ich, dass ich meinen Rhythmus gefunden habe und dass mein Blog persönlicher geworden ist. Es gibt eine neue Rubrik "Wir helfen der Umwelt" mit <a href="https://frangipani.raiano.ch/de/categories/Z-Ambiente/Consigli-Green/" target="_blank">Green Tips</a>, die ich jeden ersten Freitag im Monat veröffentliche (oder am zweiten, wenn der erste ein Feiertag ist). Ich werde auch ein paar Lifestyle-Tipps hinzufügen, aber ich muss noch darüber nachdenken. Ja, die Anzahl der neuen Rezepte hat abgenommen, aber ich habe anderes hinzugefügt und das ist in Ordnung! Für mich ist es gut so...
 <br />
@@ -24,47 +24,52 @@ Erica
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Apfel-Zimt-Pancakes</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2019-10-18-pancake-alle-mele/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Apfel-Zimt-Pancakes, fluffig und duftend, perfekt für das Herbstfrühstück!</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>3</td>
             <td>Eier</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>20gr</td>
             <td>Zucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Prise</td>
             <td>Salz</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>40gr</td>
             <td>geschmolzene Butter</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>300gr</td>
             <td>Milch</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>190gr</td>
             <td>Mehl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>9gr</td>
             <td>Backpulver</td>  
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1-2</td>
             <td>grosse Äpfel</td> 
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Zimt</td> 
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qa</td>
             <td>Ahornsirup</td>        
           </tr>

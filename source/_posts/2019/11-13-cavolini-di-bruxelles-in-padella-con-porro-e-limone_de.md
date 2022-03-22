@@ -14,7 +14,7 @@ lang: de
 ---
 ![](../2019-11-13-cavolini-di-bruxelles-in-padella-con-porro-e-limone/header.jpeg "frangipani © Erica")
 
-Gebratener Rosenkohl mit Lauch und Zitrone, eine frische, saisonale und selbstverständlich leckere Beilage. Probiert es, denn so zubereitet, könnte euch Rosenkohl schmecken.
+**Gebratener Rosenkohl mit Lauch und Zitrone**, eine frische, saisonale und selbstverständlich leckere Beilage. Probiert es, denn so zubereitet, könnte euch Rosenkohl schmecken.
 
 <a href="https://www.foodblogs-schweiz.ch/challenge/" target="_blank" rel="noreferrer noopener">
 <img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2019/11/food-blog-challenge-nov.png" alt="Foodblogs Schweiz Challenge" class="wp-image-452 ignore-gallery-item"></a>
@@ -23,23 +23,28 @@ Im November-Warenkorb der Foodie Challenge, organisiert von <a href="https://www
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Gebratener Rosenkohl mit Lauch und Zitrone</span>
+      <span itemprop="recipeCategory" style="display:none;">Herzhaftes</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2019-11-13-cavolini-di-bruxelles-in-padella-con-porro-e-limone/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Gebratener Rosenkohl mit Lauch und Zitrone, eine frische, saisonale und selbstverständlich leckere Beilage.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Rosenkohl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Lauch</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Zitrone</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Olivenöl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Salz</td>       
           </tr>
         </tbody>

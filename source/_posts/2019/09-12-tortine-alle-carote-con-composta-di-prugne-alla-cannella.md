@@ -16,7 +16,7 @@ lang: it
 ---
 ![](header.jpeg "frangipani © Erica")
 
-Tortine alle Carote con Composta di Prugne alla Cannella, un dolce di stagione, semplice, senza lattosio e buono. Le tortine sono perfette per i bimbi (e non solo), perché non fanno briciole. Mettete un po' di composta in una ciotolina e gli fate inzuppare la tortina, vedrete che si leccheranno i baffi. I miei hanno fatto così... Coppia che vince non si separa (sì, l'ho leggermente modificata), quindi mangiate le tortine insieme alla composta, altrimenti manca qualcosa. Io vi ho avvertiti! Le tortine sono fatte senza lattosio, senza burro ne olio. Pochissimi ingredienti, ma buoni. Non vi do le dosi per la composta, perché dipende dalla quantità che ne volete preparare. Vi consiglio però, di usare poco zucchero, perché c'è proprio bisogno di quella nota acidula delle prugne. Preparatela all'ultimo momento, perché calda è la fine del mondo! E con il profumo della cannella è subito autunno, no?
+**Tortine alle Carote con Composta di Prugne alla Cannella**, un dolce di stagione, semplice, senza lattosio e buono. Le tortine sono perfette per i bimbi (e non solo), perché non fanno briciole. Mettete un po' di composta in una ciotolina e gli fate inzuppare la tortina, vedrete che si leccheranno i baffi. I miei hanno fatto così... Coppia che vince non si separa (sì, l'ho leggermente modificata), quindi mangiate le tortine insieme alla composta, altrimenti manca qualcosa. Io vi ho avvertiti! Le tortine sono fatte senza lattosio, senza burro ne olio. Pochissimi ingredienti, ma buoni. Non vi do le dosi per la composta, perché dipende dalla quantità che ne volete preparare. Vi consiglio però, di usare poco zucchero, perché c'è proprio bisogno di quella nota acidula delle prugne. Preparatela all'ultimo momento, perché calda è la fine del mondo! E con il profumo della cannella è subito autunno, no?
 
 <a href="https://www.foodblogs-schweiz.ch/challenge/" target="_blank" rel="noreferrer noopener">
 <img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2019/08/September-1.png" alt="Foodblogs Schweiz Challenge" class="wp-image-452 ignore-gallery-item"></a>
@@ -25,50 +25,55 @@ Nel cestino della Foodie Challenge mensile di settembre, organizzata da <a href=
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Tortine alle Carote con Composta di Prugne alla Cannella</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Tortine alle Carote con Composta di Prugne alla Cannella, un dolce di stagione, semplice, senza lattosio e buono.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
           <tr>          
             <td colspan="2"><b>Tortine</b></td>
           </tr>      
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>150g</td>
             <td>carote grattugiate finemente</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2</td>
             <td>uova</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100gr</td>
             <td>zucchero</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>scorza di limone</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 pizzico</td>
             <td>sale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100ml</td>
             <td>acqua</td>  
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>estratto di vaniglia</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>180gr</td>
             <td>farina</td>  
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2 bustina</td>
             <td>lievito per dolci</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>cannella in polvere</td>
           </tr>
@@ -76,19 +81,19 @@ Nel cestino della Foodie Challenge mensile di settembre, organizzata da <a href=
           <tr>          
             <td colspan="2"><b>Composta</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>prugne</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>zucchero</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>cannella</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>succo di limone</td>
         </tbody>

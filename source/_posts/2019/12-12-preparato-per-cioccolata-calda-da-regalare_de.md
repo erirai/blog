@@ -14,7 +14,7 @@ lang: de
 ---
 ![](../2019-12-12-preparato-per-cioccolata-calda-da-regalare/header.jpeg "frangipani © Erica")
 
-Mischung für hausgemachte heisse Schokolade, eine tolle Weihnachtsgeschenkidee. Sie hat die richtige Dicke und Süsse, kann aber nach dem eigenen Geschmack angepasst werden, indem man weniger oder mehr der Mischung oder mehr Milch hinzufügt.
+**Mischung für hausgemachte heisse Schokolade**, eine tolle Weihnachtsgeschenkidee. Sie hat die richtige Dicke und Süsse, kann aber nach dem eigenen Geschmack angepasst werden, indem man weniger oder mehr der Mischung oder mehr Milch hinzufügt.
 Spoiler Alarm: Dies ist ein Teil meines Weihnachtsgeschenks und ich entschuldige mich bei denen, die es sehen, bevor sie es erhalten. Sorry!
 <br />
 Ich mag sie so, ohne nichts! Aber man kann sie mit dem, was man will, aufpimpen... Schlagrahm, mini Marshmallows, Zuckersträusel, Liköre, Gewürze und so weiter und so fort! Die heisse Schokolade neigt dazu, sich mehr zu verdicken, sobald sie kalt ist. Tatsächlich habe ich meine nicht getrunken, sondern mit einem Löffel gegessen. Um die Bilder zu machen (ich fotografiere draussen), ist sie komplett abgekühlt und war praktisch Pudding! Sie war dennoch gut. Apropos <a href="https://frangipani.raiano.ch/2019-12-06-consiglio-green-numero-4-de/" target="_blank">grüneres und nachhaltigeres Weihnachten</a>, das ist ein super selbstgemachtes Geschenk. Denn, seien wir ehrlich, wir haben alles und Geschenke zu machen, ist ein sehr schwieriges Unterfangen geworden! Selbstgemachte Geschenke, besonders essbare, braucht man immer und sind sehr erfreulich.
@@ -24,38 +24,43 @@ Für mich ist das ein sehr spezieller Post, denn damit nehme ich am Adventskalen
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Mischung für hausgemachte heisse Schokolade</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2019-12-12-preparato-per-cioccolata-calda-da-regalare/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Mischung für hausgemachte heisse Schokolade, eine tolle Weihnachtsgeschenkidee.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
           <tr>          
             <td colspan="2"><b>für eine Portion</b></td>
           </tr>      
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Esslöffel</td>
             <td>Kakaopulver</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Esslöffel</td>
             <td>Schokoladenspäne</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Teelöffel</td>
             <td>Maisstärke</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Teelöffel</td>
             <td>Puderzucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Prise</td>
             <td>Salz</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Prise</td>
             <td>Vanillepulver</td>  
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>150gr</td>
             <td>Milch</td>
           </tr>
@@ -63,27 +68,27 @@ Für mich ist das ein sehr spezieller Post, denn damit nehme ich am Adventskalen
           <tr>          
             <td colspan="2"><b>als Geschenk für ein 250ml Gefäss (ca. 6 Portionen)</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>10 Esslöffel</td>
             <td>Kakaopulver</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>10 Esslöffel</td>
             <td>Schokoladenspäne</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>10 Teelöffel</td>
             <td>Maisstärke</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>10 Teelöffel</td>
             <td>Puderzucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2 Teelöffel</td>
             <td>Salz</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2 Teelöffel</td>
             <td>Vanillepulver</td>
           </tr>

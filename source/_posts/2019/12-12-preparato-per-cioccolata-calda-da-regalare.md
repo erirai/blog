@@ -14,7 +14,7 @@ lang: it
 ---
 ![](header.jpeg "frangipani © Erica")
 
-Preparato per Cioccolata Calda fatta in casa, un ottima idea regalo di Natale. Ha la giusta densità e dolcezza, ma può essere aggiustata secondo i propri gusti, mettendo meno o più del preparato o aggiungendo più latte. 
+**Preparato per Cioccolata Calda** fatta in casa, un ottima idea regalo di Natale. Ha la giusta densità e dolcezza, ma può essere aggiustata secondo i propri gusti, mettendo meno o più del preparato o aggiungendo più latte. 
 Allarme Spoiler: Questo sarà una parte del mio regalo di Natale e mi scuso con chi lo vedrà già prima di riceverlo. Sorry! 
 <br />
 A me piace così, senza niente! Ma la potete arricchire con quello che volete... panna montata, Marshmallows, codettes, liquori, spezie e chi più ne ha, più ne metta! La cioccolata tende ad addensarsi una volta fredda, la mia infatti non l'ho bevuta, ma mangiata con il cucchiaino. Per fare le foto (faccio le foto fuori) si è completamente raffreddata ed era praticamente budino! Però era comunque buona. Ma a proposito di <a href="https://frangipani.raiano.ch/2019-12-06-consiglio-green-numero-4/" target="_blank">Natale più green è sostenibile</a>, questo è un super regalo fatto in casa. Perché siamo sinceri, ormai abbiamo tutto e fare dei regali è un'impresa difficilissima! I regali fatti in casa, soprattutto quelli commestibili, servono sempre e fanno piacere.  
@@ -24,38 +24,43 @@ Questo è un post molto speciale per me, perché con questo partecipo al calenda
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Preparato per Cioccolata Calda fatta in casa</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Preparato per Cioccolata Calda fatta in casa, un ottima idea regalo di Natale.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
           <tr>          
             <td colspan="2"><b>per una porzione</b></td>
           </tr>      
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 cucchiaio</td>
             <td>cacao amaro in polvere</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 cucchiaio</td>
             <td>cioccolato grattugiato</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 cucchiaino</td>
             <td>amido di mais</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 cucchiaino</td>
             <td>zucchero a velo</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 pizzico</td>
             <td>sale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 pizzico</td>
             <td>vaniglia in polvere</td>  
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>150gr</td>
             <td>latte</td>
           </tr>
@@ -63,27 +68,27 @@ Questo è un post molto speciale per me, perché con questo partecipo al calenda
           <tr>          
             <td colspan="2"><b>come regalo per un vasetto da 250ml (circa 6 porzioni)</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>10 cucchiai</td>
             <td>cacao amaro in polvere</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>10 cucchiai</td>
             <td>cioccolato grattugiato</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>10 cucchiaini</td>
             <td>amido di mais</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>10 cucchiaini</td>
             <td>zucchero a velo</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2 cucchiaino</td>
             <td>sale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2 cucchiaino</td>
             <td>vaniglia in polvere</td> 
           </tr>

@@ -16,7 +16,7 @@ lang: it
 ---
 ![](header.jpeg "frangipani © Erica")
 
-Pumpkin Bread vegano, ovvero un Plumcake alla zucca, anzi il Plumcake alla Zucca più buono del mondo. Soffice, scioglievole, morbido, setoso, buonissimo e profumatissimo! La ricetta l'ho trovata su <a href="https://completerecipes.com/cinnamon-sugar-pumpkin-bread.html" target="_blank">questo sito</a> ed è semplicemente perfetto!
+**Pumpkin Bread vegano**, ovvero un **Plumcake alla zucca**, anzi il Plumcake alla Zucca più buono del mondo. Soffice, scioglievole, morbido, setoso, buonissimo e profumatissimo! La ricetta l'ho trovata su <a href="https://completerecipes.com/cinnamon-sugar-pumpkin-bread.html" target="_blank">questo sito</a> ed è semplicemente perfetto!
 <br />
 Il Pumpkin Bread era sulla mia lista di ricette che prima o poi vorrei fare. E finalmente l'ho fatto. Lo adoro! È fantastico... Ho seguito la ricetta alla lettera, o almeno quasi, ho solo leggermente ridotto le dosi dello zucchero e infatti andava benissimo. Essendo una ricetta americana, non viene usata la bilancia ma i famosi cups. Ho pesato per voi le quantità che ho messo nei cups per avere le dosi anche in grammi. Se avete i misurini americani, usate quelli! Secondo me viene meglio, mi è già successo che pesando gli ingredienti non veniva così bene come con i cups.
 <br />
@@ -26,47 +26,52 @@ E niente, questa sarà la mia ultima ricetta autunnale... Dalla prossima settima
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Pumpkin Bread vegano (Plumcake alla Zucca)</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Pumpkin Bread vegano, ovvero un Plumcake alla zucca, anzi il Plumcake alla Zucca più buono del mondo. Soffice, scioglievole, morbido, setoso, buonissimo e profumatissimo!</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 1/4 cup (170gr)</td>
             <td>farina</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2 cucchiaini</td>
             <td>lievito per dolci</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 cucchiaino</td>
             <td>pumpkin spice o solo cannella</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 pizzico</td>
             <td>sale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>3/4 cup (140gr)</td>
             <td>zucchero</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>3/4 cup (200gr)</td>
             <td>purea di zucca</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/3 cup (70gr)</td>
             <td>olio di semi o cocco</td>  
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/4 cup (60gr)</td>
             <td>latte vegetale</td> 
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2 cucchiaini</td>
             <td>estratto di vaniglia</td> 
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>zucchero e cannella</td>        
           </tr>

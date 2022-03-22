@@ -15,44 +15,49 @@ lang: it
 ---
 ![](header.jpeg "frangipani © Erica")
 
-Crostata al Panpepato con Ganache al Cioccolato e Arancia per iniziare al meglio il periodo natalizio. Frolla e cioccolato, c'è bisogno di aggiungere altro? Con l'aggiunta delle spezie per Panpepato, questa crostata diventa mooolto natalizia e la scorza d'arancia nella Ganache ci sta benissimo. L'arancia dona quella freschezza che arrotonda il tutto! Ovviamente se non vi piace il Panpepato mettete pochissime spezie o non le mettete proprio, perché anche senza è comunque buona!
+**Crostata al Panpepato con Ganache al Cioccolato e Arancia** per iniziare al meglio il periodo natalizio. Frolla e cioccolato, c'è bisogno di aggiungere altro? Con l'aggiunta delle spezie per Panpepato, questa crostata diventa mooolto natalizia e la scorza d'arancia nella Ganache ci sta benissimo. L'arancia dona quella freschezza che arrotonda il tutto! Ovviamente se non vi piace il Panpepato mettete pochissime spezie o non le mettete proprio, perché anche senza è comunque buona!
 <br />
 Dovete sapere che amo tantissimo le torte natalizie, quelle decorate sono una meraviglia, ma le faccio raramente perché in questo periodo mi dedico di più ai <a href="https://frangipani.raiano.ch/it/categories/Dolce/Biscotti/page/6//" target="_blank">biscotti</a>. Tra panettoni, cioccolatini e biscotti non riesco a preparare torte. Però ogni anno cerco qualche ispirazione e quest'anno ho visto <a href="https://www.lazycatkitchen.com/gingerbread-amaretto-chocolate-tart/" target="_blank">questa foto</a>. La foto mi è piaciuta tantissimo e leggendo il titolo della ricetta, ho pensato di fare questa Crostata al Panpepato con Ganache al Cioccolato e Arancia. Mi sono ispirata e l'ho resa mia... 
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Crostata al Panpepato con Ganache al Cioccolato e Arancia</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Crostata al Panpepato con Ganache al Cioccolato e Arancia per iniziare al meglio il periodo natalizio. Frolla e cioccolato, c'è bisogno di aggiungere altro?</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
           <tr>          
             <td colspan="2"><b>Frolla al Panpepato</b></td>
           </tr>      
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>300g</td>
             <td>farina</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100gr</td>
             <td>zucchero a velo</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 cucchiaio</td>
             <td>cacao amaro</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 cucchiaino</td>
             <td>spezie per Panpepato</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 pizzico</td>
             <td>sale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>150gr</td>
             <td>burro</td>  
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>uovo</td>
           </tr>
@@ -60,15 +65,15 @@ Dovete sapere che amo tantissimo le torte natalizie, quelle decorate sono una me
           <tr>          
             <td colspan="2"><b>Ganache</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>250ml</td>
             <td>panna fresca</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>200gr</td>
             <td>cioccolato fondente</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>scorza d'arancia bio</td>
           </tr>

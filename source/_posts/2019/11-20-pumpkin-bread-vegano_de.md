@@ -16,7 +16,7 @@ lang: de
 ---
 ![](../2019-11-20-pumpkin-bread-vegano/header.jpeg "frangipani © Erica")
 
-Veganes Pumpkin Bread, ein Kürbiskuchen oder besser gesagt, der beste Kürbiskuchen der Welt. Fluffig, geschmeidig, seidig weich, köstlich und so herrlich duftend! Ich habe das Rezept auf <a href="https://completerecipes.com/cinnamon-sugar-pumpkin-bread.html" target="_blank">dieser Seite</a> gefunden und es ist einfach perfekt!
+**Veganes Pumpkin Bread**, ein Kürbiskuchen oder besser gesagt, der beste Kürbiskuchen der Welt. Fluffig, geschmeidig, seidig weich, köstlich und so herrlich duftend! Ich habe das Rezept auf <a href="https://completerecipes.com/cinnamon-sugar-pumpkin-bread.html" target="_blank">dieser Seite</a> gefunden und es ist einfach perfekt!
 <br />
 Pumpkin Bread war auf meiner Liste der Rezepte, die ich früher oder später machen möchte. Und endlich habe ich es geschafft. Ich liebe es, es ist fantastisch... Ich habe das Rezept genau befolgt, oder zumindest fast, ich habe die Zuckermenge nur geringfügig reduziert und tatsächlich war es super. Als amerikanisches Rezept wird nicht die Waage verwendet, sondern die berühmten Cups. Ich habe für euch die Mengen abgewogen, die ich in die Cups abgefüllt habe, um die Mengen auch in Gramm zu erhalten. Wenn ihr die amerikanischen Messbecher habt, verwendet diese! Meiner Meinung nach, ist es besser, es ist mir schon passiert, dass mit dem Abwiegen der Zutaten, das Resultat nicht so gut wurde.
 <br />
@@ -26,47 +26,52 @@ Sodeli, das ist mein letztes Herbstrezept für dieses Jahr... Ab nächster Woche
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">veganes Pumpkin Bread (veganes Kürbisbrot)</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2019-11-20-pumpkin-bread-vegano/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Veganes Pumpkin Bread, ein Kürbiskuchen oder besser gesagt, der beste Kürbiskuchen der Welt. Fluffig, geschmeidig, seidig weich, köstlich und so herrlich duftend!</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 1/4 cup (170gr)</td>
             <td>Mehl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2 Teelöffel</td>
             <td>Backpulver</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Teelöffel</td>
             <td>Pumpkin Spice oder nur Zimt</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Prise</td>
             <td>Salz</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>3/4 cup (140gr)</td>
             <td>Zucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>3/4 cup (200gr)</td>
             <td>Kürbispüree</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/3 cup (70gr)</td>
             <td>Sonnenblumen- oder Kokosöl</td>  
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/4 cup (60gr)</td>
             <td>pflanzliche Milch</td> 
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2 Teelöffel</td>
             <td>Vanilleextrakt</td> 
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Zimtzucker</td>        
           </tr>

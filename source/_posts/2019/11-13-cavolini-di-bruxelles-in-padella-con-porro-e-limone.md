@@ -14,7 +14,7 @@ lang: it
 ---
 ![](header.jpeg "frangipani © Erica")
 
-Cavolini di Bruxelles in Padella con Porro e Limone, un contorno fresco, di stagione e ovviamente buonissimo! Provatelo, perché preparati così, i cavolini di Bruxelles potrebbero iniziare a piacervi.
+**Cavolini di Bruxelles in Padella con Porro e Limone**, un contorno fresco, di stagione e ovviamente buonissimo! Provatelo, perché preparati così, i cavolini di Bruxelles potrebbero iniziare a piacervi.
 
 <a href="https://www.foodblogs-schweiz.ch/challenge/" target="_blank" rel="noreferrer noopener">
 <img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2019/11/food-blog-challenge-nov.png" alt="Foodblogs Schweiz Challenge" class="wp-image-452 ignore-gallery-item"></a>
@@ -23,23 +23,28 @@ Nel cestino della Foodie Challenge mensile di novembre, organizzata da <a href="
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Cavolini di Bruxelles in Padella con Porro e Limone</span>
+      <span itemprop="recipeCategory" style="display:none;">Salato</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Cavolini di Bruxelles in Padella con Porro e Limone, un contorno fresco, di stagione e ovviamente buonissimo!</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>cavolini di bruxelles</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>porro</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>limone</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>olio evo</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>sale</td>       
           </tr>
         </tbody>

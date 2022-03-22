@@ -16,35 +16,40 @@ lang: de
 ---
 ![](../2019-09-26-zucca-funghi-pomodori-al-forno/header.jpeg "frangipani © Erica")
 
-Kürbis, Pilze und Tomaten im Ofen, eine einfache, aromatische und vegane herbstliche Beilage. Diese Beilage ist perfekt ausgeglichen... Das feine und zarte vom Kürbis, die Würze der Steinpilze und die Säure und Frische der Tomaten! Ich denke, ich habe meine Lieblingsbeilage für diesen Herbst gefunden, zumindest bis es Tomaten hat, danach muss ich sie ersetzen. Was empfehlt ihr mir?
+**Kürbis, Pilze und Tomaten im Ofen**, eine einfache, aromatische und vegane herbstliche Beilage. Diese Beilage ist perfekt ausgeglichen... Das feine und zarte vom Kürbis, die Würze der Steinpilze und die Säure und Frische der Tomaten! Ich denke, ich habe meine Lieblingsbeilage für diesen Herbst gefunden, zumindest bis es Tomaten hat, danach muss ich sie ersetzen. Was empfehlt ihr mir?
 
 Der September neigt sich dem Ende zu... ist einfach verflogen! Wir haben uns an die neuen Rhythmen gewöhnt, an die neuen Termine, an die neue Routine. Auch die Kinder scheinen sich gut daran gewöhnt zu haben, nur, dass in einer Woche die Herbstferien beginnen und danach beginnen wir wieder von vorn. Aber das macht nichts, sie werden sich schnell daran gewöhnen, danach wird es sowieso ruhiger und gemütlicher! Spatziergänge unter den farbigen und knusprigen Blätter, heisse Schoggi, <a href="https://frangipani.raiano.ch/2016-10-12-pumpkin-spice-latte-de/" target="_blank">Pumpkin Spice Latte</a>, Suppen, Filme, Decke und dicke Socken...
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Kürbis, Pilze und Tomaten im Ofen</span>
+      <span itemprop="recipeCategory" style="display:none;">Herzhaftes</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2019-09-26-zucca-funghi-pomodori-al-forno/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Kürbis, Pilze und Tomaten im Ofen, eine einfache, aromatische und vegane herbstliche Beilage.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Kürbis</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Pilze</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Tomaten</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Oregano frisch</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Olivenöl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Salz</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Paniermehl</td>       
           </tr>
         </tbody>

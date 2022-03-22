@@ -16,7 +16,7 @@ lang: it
 
 > Benvenuto Settembre e buon anniversario a noi!
 
-Torta di More e Pere friabile con un ripieno fruttoso e goloso! Le pere si sciolgono in bocca e le more danno quel tocco si succosità e acidità che ci sta perfettamente. Poi in combinazione con la pasta frolla è ottima! È una torta rustica, così come lo è la tarda estate e l'autunno... Sostituendo il burro con la margarina e usando i biscotti senza lattosio, avrete una torta completamente senza lattosio. Il massimo è, servire la torta con una salsa alla vaniglia. Io ho fatto <a href="https://frangipani.raiano.ch/2015-09-25-strudel-di-mele-con-salsa-alla-vaniglia/" target="_blank">questa</a>, che preparo per lo strudel, scegliete voi quale tipo di latte usare. Lo so che la tentazione di mangiarla calda è fortissima, ma vi consiglio di farla almeno intiepidire, altrimenti rischiate di dire ciao ciao a tutto il ripieno sciolto... non so se mi spiego? Mia mamma ha un sacco di giornalini pieni di ricette a casa e ogni tanto mi piace dare un'occhiata e proprio li ho trovato questa ricetta, penso sia dal giornalino Sale&Pepe (ad / not sponsored).
+**Torta di More e Pere** friabile con un ripieno fruttoso e goloso! Le pere si sciolgono in bocca e le more danno quel tocco si succosità e acidità che ci sta perfettamente. Poi in combinazione con la pasta frolla è ottima! È una torta rustica, così come lo è la tarda estate e l'autunno... Sostituendo il burro con la margarina e usando i biscotti senza lattosio, avrete una torta completamente senza lattosio. Il massimo è, servire la torta con una salsa alla vaniglia. Io ho fatto <a href="https://frangipani.raiano.ch/2015-09-25-strudel-di-mele-con-salsa-alla-vaniglia/" target="_blank">questa</a>, che preparo per lo strudel, scegliete voi quale tipo di latte usare. Lo so che la tentazione di mangiarla calda è fortissima, ma vi consiglio di farla almeno intiepidire, altrimenti rischiate di dire ciao ciao a tutto il ripieno sciolto... non so se mi spiego? Mia mamma ha un sacco di giornalini pieni di ricette a casa e ogni tanto mi piace dare un'occhiata e proprio li ho trovato questa ricetta, penso sia dal giornalino Sale&Pepe (ad / not sponsored).
 
 Qualche settimana fa pubblicai su Instagram un <a href="https://www.instagram.com/p/B0WZX5CI1B-/" target="_blank">post</a>, dove scrivevo che sentivo il bisogno di cambiare un po' il mio feed. Quest'anno ci sono stati un po' di cambiamenti. Uno dei buoni propositi di quest'anno è diminuire il consumo/utilizzo della plastica. Ho iniziato subito a gennaio ad applicare un po' di consigli trovati sul web... per facilitare la cosa ho iniziato con le cose più facili, alla mano di tutti. Consigli che non costano niente o che richiedono un'unica spesa, ma senza fatiche in più. Li ho adattati alla nostra vita quotidiana e vorrei iniziare a condividerli con voi. Penso di scrivere ogni mese un post con un consiglio green, perché è un cambiamento da fare con calma, senza fretta. Li chiamerò consigli green, perché "no waste" o "zero waste" è ancora troppo lontano da dove ci troviamo. Con la parola "green" il campo è anche più ampio... Che ne pensate?
 
@@ -25,34 +25,39 @@ Auguri a noi! Ti amo tanto!
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Torta di More e Pere</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Torta di More e Pere friabile con un ripieno fruttoso e goloso! Le pere si sciolgono in bocca e le more danno quel tocco si succosità e acidità che ci sta perfettamente.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
           <tr>          
             <td colspan="2"><b>Pasta Frolla</b></td>
           </tr>      
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>200gr</td>
             <td>farina</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>60gr</td>
             <td>zucchero</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>uovo</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>120gr</td>
             <td>burro freddo a cubetti</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2 cucchiaino</td>
             <td>lievito per dolci</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 pizzico</td>
             <td>sale</td>
           </tr>
@@ -60,35 +65,35 @@ Auguri a noi! Ti amo tanto!
           <tr>          
             <td colspan="2"><b>Farcia</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>700gr</td>
             <td>pere sode</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>60gr</td>
             <td>zucchero</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 baccello</td>
             <td>vaniglia</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 cucchiaio</td>
             <td>acqua</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>200gr</td>
             <td>more</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>40gr</td>
             <td>biscotti al burro o ai cereali</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>latte</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>zucchero</td>
           </tr>

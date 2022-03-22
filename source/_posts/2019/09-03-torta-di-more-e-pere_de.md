@@ -16,7 +16,7 @@ lang: de
 
 > Willkommen September und einen schönen Hochzeitstag für uns!
 
-Brombeer-Birnen-Kuchen, mürbe mit einer fruchtigen und köstlichen Füllung! Die Birnen zergehen auf der Zunge und die Brombeeren verleihen dem Ganzen Saftigkeit und Säure, die perfekt dazu passt. Dann in Kombination mit dem Mürbeteig ist es ausgezeichnet! Es ist ein rustikaler Kuchen, genau wie es der Spätsommer und der Herbst sind... Wenn ihr die Butter durch Margarine ersetzt und laktosefreie Kekse verwendet, erhaltet ihr einen laktosefreien Kuchen. Das Beste ist, den Kuchen mit einer Vanillesosse zu servieren. Ich habe <a href="https://frangipani.raiano.ch/2015-09-25-strudel-di-mele-con-salsa-alla-vaniglia/" target="_blank">diese</a> gemacht, die ich für den Strudel zubereite, wählt ihr die Milch aus, die ihr verwenden möcht. Ich weiss, dass die Versuchung, den Kuchen warm zu essen, sehr gross ist, aber ich rate euch, es zumindest auf lauwarm abkühlen zu lassen, sonst riskiert ihr, dass die ganze Füllung ausläuft... Wisst ihr was ich meine? Meine Mutter hat viele Zeitschriften mit Rezepten zu Hause und manchmal schaue ich sie mir gerne an und da habe ich dieses Rezept gefunden. Ich glaube, es stammt aus der Zeitschrift Sale&Pepe (ad / not sponsored).
+**Brombeer-Birnen-Kuchen**, mürbe mit einer fruchtigen und köstlichen Füllung! Die Birnen zergehen auf der Zunge und die Brombeeren verleihen dem Ganzen Saftigkeit und Säure, die perfekt dazu passt. Dann in Kombination mit dem Mürbeteig ist es ausgezeichnet! Es ist ein rustikaler Kuchen, genau wie es der Spätsommer und der Herbst sind... Wenn ihr die Butter durch Margarine ersetzt und laktosefreie Kekse verwendet, erhaltet ihr einen laktosefreien Kuchen. Das Beste ist, den Kuchen mit einer Vanillesosse zu servieren. Ich habe <a href="https://frangipani.raiano.ch/2015-09-25-strudel-di-mele-con-salsa-alla-vaniglia/" target="_blank">diese</a> gemacht, die ich für den Strudel zubereite, wählt ihr die Milch aus, die ihr verwenden möcht. Ich weiss, dass die Versuchung, den Kuchen warm zu essen, sehr gross ist, aber ich rate euch, es zumindest auf lauwarm abkühlen zu lassen, sonst riskiert ihr, dass die ganze Füllung ausläuft... Wisst ihr was ich meine? Meine Mutter hat viele Zeitschriften mit Rezepten zu Hause und manchmal schaue ich sie mir gerne an und da habe ich dieses Rezept gefunden. Ich glaube, es stammt aus der Zeitschrift Sale&Pepe (ad / not sponsored).
 
 Vor ein paar Wochen veröffentlichte ich auf Instagram einen <a href="https://www.instagram.com/p/B0WZX5CI1B-/" target="_blank">Post</a>, in dem ich schrieb, dass ich das Bedürfnis habe, mein Feed zu verändern. In diesem Jahr gab es einige Veränderungen. Eine meiner guten Absichten dieses Jahres ist es, den Verbrauch/die Verwendung von Plastik zu reduzieren. Ich habe sofort im Januar damit begonnen, einige im Internet gefundene Tipps anzuwenden... Um es einfacher zu machen, habe ich mit den einfachsten Dingen angefangen, die für alle umsetzbar sind. Tipps, die nichts kosten oder nur eine einmalige Investition benötigen, aber ohne zusätzlichen Aufwand. Ich habe sie an unser tägliches Leben angepasst und möchte sie mit euch teilen. Ich glaube, ich schreibe jeden Monat einen Beitrag mit einem "green tip", weil es eine Veränderung ist, die langsam und ohne Eile vorgenommen werden muss. Ich nenne sie green tips, weil "no waste" oder "zero waste" noch zu weit von uns entfernt ist. Mit dem Wort "green" ist der Bereich noch grösser... Was meint ihr?
 
@@ -25,34 +25,39 @@ Auguri a noi! Ti amo tanto!
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Brombeeren-Birnen-Kuchen</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2019-09-03-torta-di-more-e-pere/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Brombeer-Birnen-Kuchen, mürbe mit einer fruchtigen und köstlichen Füllung! Die Birnen zergehen auf der Zunge und die Brombeeren verleihen dem Ganzen Saftigkeit und Säure, die perfekt dazu passt.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
           <tr>          
             <td colspan="2"><b>Mürbeteig</b></td>
           </tr>      
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>200gr</td>
             <td>Mehl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>60gr</td>
             <td>Zucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>Ei</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>120gr</td>
             <td>kalte Butter in Würfel geschnitten</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2 Teelöffel</td>
             <td>Backpulver</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Prise</td>
             <td>Salz</td>
           </tr>
@@ -60,35 +65,35 @@ Auguri a noi! Ti amo tanto!
           <tr>          
             <td colspan="2"><b>Füllung</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>700gr</td>
             <td>knackige Birnen</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>60gr</td>
             <td>Zucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>Vanilleschote</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Esslöffel</td>
             <td>Wasser</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>200gr</td>
             <td>Brombeeren</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>40gr</td>
             <td>Butter- oder Haferkekse</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Milch</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Zucker</td>
           </tr>

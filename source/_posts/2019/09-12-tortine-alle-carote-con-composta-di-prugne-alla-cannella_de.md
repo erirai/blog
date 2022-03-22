@@ -16,7 +16,7 @@ lang: de
 ---
 ![](../2019-09-12-tortine-alle-carote-con-composta-di-prugne-alla-cannella/header.jpeg "frangipani © Erica")
 
-Karottenküchlein mit Zwetschgen-Zimt-Kompott, ein saisonales Dessert, einfach, laktosefrei und lecker. Diese Küchlein sind perfekt für Kinder (aber nicht nur), weil sie keine Krümel machen. Gebt etwas Kompott in eine kleine Schüssel, damit die Kinder die Küchlein darin eintauchen können. Sie werden es lieben. Meine Kinder haben es so gemacht... Ein Paar, das gewinnt, wird nicht getrennt, also esst die Küchlein zusammen mit dem Kompott, sonst fehlt etwas. Ich habe euch gewarnt! Die Küchlein sind laktosefrei, ohne Butter oder Öl gemacht. Wenige Zutaten, aber gute. Ich gebe euch keine Mengenangaben für das Kompott, weil es von der Menge abhängt, die ihr vorbereiten wollt. Ich rate euch jedoch, wenig Zucker zu verwenden, da diese saure Note der Zwetschgen benötigt wird. Bereitet es im letzten Moment vor, denn warmes Kompott ist einfach nur herrlich! Und mit dem Duft von Zimt ist es doch sofort Herbst, nicht?
+**Karottenküchlein mit Zwetschgen-Zimt-Kompott**, ein saisonales Dessert, einfach, laktosefrei und lecker. Diese Küchlein sind perfekt für Kinder (aber nicht nur), weil sie keine Krümel machen. Gebt etwas Kompott in eine kleine Schüssel, damit die Kinder die Küchlein darin eintauchen können. Sie werden es lieben. Meine Kinder haben es so gemacht... Ein Paar, das gewinnt, wird nicht getrennt, also esst die Küchlein zusammen mit dem Kompott, sonst fehlt etwas. Ich habe euch gewarnt! Die Küchlein sind laktosefrei, ohne Butter oder Öl gemacht. Wenige Zutaten, aber gute. Ich gebe euch keine Mengenangaben für das Kompott, weil es von der Menge abhängt, die ihr vorbereiten wollt. Ich rate euch jedoch, wenig Zucker zu verwenden, da diese saure Note der Zwetschgen benötigt wird. Bereitet es im letzten Moment vor, denn warmes Kompott ist einfach nur herrlich! Und mit dem Duft von Zimt ist es doch sofort Herbst, nicht?
 
 <a href="https://www.foodblogs-schweiz.ch/challenge/" target="_blank" rel="noreferrer noopener">
 <img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2019/08/September-1.png" alt="Foodblogs Schweiz Challenge" class="wp-image-452 ignore-gallery-item"></a>
@@ -25,50 +25,55 @@ Im September-Warenkorb der Foodie Challenge, organisiert von <a href="https://ww
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Karottenküchlein mit Zwetschgen-Zimt-Kompott</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2019-09-12-tortine-alle-carote-con-composta-di-prugne-alla-cannella/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Karottenküchlein mit Zwetschgen-Zimt-Kompott, ein saisonales Dessert, einfach, laktosefrei und lecker.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
           <tr>          
             <td colspan="2"><b>Küchlein</b></td>
           </tr>      
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>150g</td>
             <td>feingeriebene Karotten</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2</td>
             <td>Eier</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100gr</td>
             <td>Zucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Zitronenabrieb</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Prise</td>
             <td>Salz</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100ml</td>
             <td>Wasser</td>  
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Vanilleextrakt</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>180gr</td>
             <td>Mehl</td>  
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2 Päckchen</td>
             <td>Backpulver</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Zimtpulver</td>
           </tr>
@@ -76,19 +81,19 @@ Im September-Warenkorb der Foodie Challenge, organisiert von <a href="https://ww
           <tr>          
             <td colspan="2"><b>Kompott</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Zwetschgen</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Zucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Zimt</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Zitronensaft</td>
         </tbody>

@@ -28,7 +28,7 @@ Am Montag habe ich alle Geschenke eingepackt und nächste Woche werden wir sie h
       <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-12-03-alberelli-di-pancarre-vegetariani/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Vegetarische Toastbrot-Bäumchen ein köstlicher und schneller Weihnachts-Aperitif. Alles was ihr braucht ist Toastbrot und Aufstriche wie grünes Pesto, rotes Pesto, Olivenaufstrich, Hummus, Babaganoush, Frischkäse...</span>
-      <div class="ingredients-title">Ingredienti</div>
+      <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
           <tr itemprop="recipeIngredient">                 
