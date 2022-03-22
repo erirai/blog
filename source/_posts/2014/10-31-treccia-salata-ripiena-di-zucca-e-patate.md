@@ -31,39 +31,39 @@ Oggi Overdose di zucca!!! Abbiamo comprato una zucca bella grande per fare tanti
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 rettangolo</td>
             <td>pasta sfoglia</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>3</td>
             <td>patate grandi</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1kg</td>
             <td>zucca</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>porro</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>olio evo</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>sale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>panna vegetale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>curcuma</td>
           </tr>
-          <tr>   
+          <tr itemprop="recipeIngredient">  
             <td>qb</td>
             <td>semi di papavero</td>    
           </tr>

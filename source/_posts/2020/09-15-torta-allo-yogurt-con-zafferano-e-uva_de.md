@@ -30,43 +30,43 @@ Bei den aktuellen Temperaturen bräuchte man tatsächlich ein Sommerdessert, wei
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
-          <tr>          
+          <tr itemprop="recipeIngredient">          
             <td>4</td>
             <td>Eier</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Prise</td>
             <td>Salz</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>130gr</td>
             <td>Puderzucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Päckchen</td>
             <td>Safran</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Vanille</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Teelöffel</td>
             <td>Backpulver</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2 Esslöffel</td>
             <td>Maisstärke o.ä.</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>180gr</td>
             <td>Naturjoghurt</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100gr</td>
             <td>Mehl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>150gr</td>
             <td>dunkle Trauben</td>
           </tr>

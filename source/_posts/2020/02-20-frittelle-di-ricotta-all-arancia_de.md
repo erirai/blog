@@ -30,43 +30,43 @@ Und auch dieses Jahr ist die Fasnacht angekommen, der Februar geht endlich zu En
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>500gr</td>
             <td>Ricotta</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>160gr</td>
             <td>Mehl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>4 gehäufte Esslöffel</td>
             <td>Puderzucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2</td>
             <td>Eier</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Prise</td>
             <td>Salz</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2</td>
             <td>Zitrone nur Abrieb</td>
           </tr>      
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1-2</td>
             <td>Orangen nur Abrieb</td>
           </tr>
-          <tr> 
+          <tr itemprop="recipeIngredient">
             <td>1 Prise</td>
             <td>Zimt</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1l</td>
             <td>Öl zum Frittieren</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Kristallzucker</td>
           </tr>

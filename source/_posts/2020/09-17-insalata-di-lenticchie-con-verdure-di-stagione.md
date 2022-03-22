@@ -40,43 +40,43 @@ Dunque, riassumendo... è una bellissima iniziativa che dovrebbe portarci a cons
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
-          <tr>                 
+          <tr itemprop="recipeIngredient">                
             <td>lenticchie verdi, nere o marroni</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>brodo vegetale o acqua</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>alloro</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>cipolla</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>zucca</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>peperoni</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>zucchine</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>cavolo riccio</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>pomodorini</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>sedano</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>basilico fresco</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>olio evo</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>sale</td>
           </tr>
         </tbody>

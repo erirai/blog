@@ -35,43 +35,43 @@ Quest'anno Pasqua sarà un po' diversa... Ogni uno a casa sua. Mi ero totalmente
           <tr>          
             <td colspan="2"><b>impasto</b></td>
           </tr>      
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>500gr</td>
             <td>farina forte</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>70gr</td>
             <td>zucchero</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>limone piccolo solo la scorza</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2</td>
             <td>arancia solo la socrza</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 pizzico</td>
             <td>cannella</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 cucchiaino</td>
             <td>sale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>300ml</td>
             <td>latte</td>
           </tr>      
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>40gr</td>
             <td>burro</td>
           </tr>
-          <tr> 
+          <tr itemprop="recipeIngredient"> 
             <td>2gr</td>
             <td>lievito fresco</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>uovo</td>
           </tr>
@@ -79,15 +79,15 @@ Quest'anno Pasqua sarà un po' diversa... Ogni uno a casa sua. Mi ero totalmente
           <tr>          
             <td colspan="2"><b>Topping</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>50gr</td>
             <td>farina</td>
           </tr>      
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>ca. 50gr</td>
             <td>acqua</td>
           </tr>
-          <tr> 
+          <tr itemprop="recipeIngredient"> 
             <td>qb</td>
             <td>miele</td>
           </tr>

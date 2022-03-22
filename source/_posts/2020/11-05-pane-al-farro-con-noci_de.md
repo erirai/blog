@@ -36,27 +36,27 @@ Ich weiss nicht, was ich von diesem Monat erwarten soll, weil ich einfach nichts
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
-          <tr>          
+          <tr itemprop="recipeIngredient">          
             <td>350gr</td>
             <td>Dinkelmehl dunkel</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>150gr</td>
             <td>Dinkelmehl hell</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>2 Teelöffel</td>
             <td>Salz</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>ca. 350ml</td>
             <td>Wasser</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>1gr</td>
             <td>frische Hefe</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>150gr</td>
             <td>Walnüsse entkernt und leicht gehackt</td>
           </tr>

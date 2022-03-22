@@ -33,27 +33,27 @@ Die zweite Sportferienwoche hat begonnen und am letzten Samstag, hätten wir auf
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>80gr</td>
             <td>dunkle Schokolade</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>170gr</td>
             <td>Butter</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>170ml</td>
             <td>Milch</td>
-           </tr>
-          <tr>
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>1-2</td>
             <td>bio Orangen nur Abrieb</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Teelöffel</td>
             <td>Vanilleextrakt</td>
-           </tr>
-          <tr>
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>150gr</td>
             <td>Mehl</td>
           </tr>
@@ -61,27 +61,27 @@ Die zweite Sportferienwoche hat begonnen und am letzten Samstag, hätten wir auf
             <td>1 Teelöffel</td>
             <td>Backpulver</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2 Esslöffel</td>
             <td>Kakaopulver</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>180gr</td>
             <td>Zucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>80gr</td>
             <td>gemahlene Mandeln oder Mandelmehl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Prise</td>
             <td>Salz</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2</td>
             <td>grosse Eier</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100gr</td>
             <td>Ruby oder dunkle Schokolade</td>
           </tr>

@@ -37,15 +37,15 @@ Mi sono presa una bella pausa dal Blog, infatti l'ultimo Blogpost risale a quasi
           <tr>          
             <td colspan="2"><b>Croccante di Pistacchio</b></td>
           </tr>      
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>40gr</td>
             <td>zucchero</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>15ml</td>
             <td>acqua</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>90gr</td>
             <td>pistacchi sgusciati non salati</td>
           </tr>
@@ -53,43 +53,43 @@ Mi sono presa una bella pausa dal Blog, infatti l'ultimo Blogpost risale a quasi
           <tr>          
             <td colspan="2"><b>Semifreddo</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>300gr</td>
             <td>frutti di bosco (anche gelo)</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2 cucchiai</td>
             <td>zucchero</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2</td>
             <td>limone solo succo</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>250ml</td>
             <td>panna da montare</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>250gr</td>
             <td>ricotta</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>250gr</td>
             <td>yogurt greco</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100gr</td>
             <td>zucchero a velo</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>bacca di vaniglia</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>70gr</td>
             <td>biscotti al burro sbriciolati</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>frutti di bosco freschi per la deco</td>
           </tr>

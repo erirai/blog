@@ -33,35 +33,35 @@ Non c'è paragone con le fragole comprate al supermercato! Ultimamente quelle ch
           <tr>          
             <td colspan="2"><b>Base</b></td>
           </tr>      
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100gr</td>
             <td>burro</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100gr</td>
             <td>zucchero</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2</td>
             <td>uova</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100ml</td>
             <td>latte</td>
             </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>250gr</td>
             <td>farina</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2 cucchiaini</td>
             <td>lievito per dolci</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 pizzico</td>
             <td>sale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>vaniglia</td>
           </tr>
@@ -69,31 +69,31 @@ Non c'è paragone con le fragole comprate al supermercato! Ultimamente quelle ch
           <tr>          
             <td colspan="2"><b>Farcia</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>500ml</td>
             <td>latte</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>baccello di vaniglia</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>120gr</td>
             <td>zucchero</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>50gr</td>
             <td>amido di mais o simile</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>crema di nocciole</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>fragole</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>confettura di albicocche o altra gelatina</td>
           </tr>

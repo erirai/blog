@@ -31,39 +31,39 @@ Heute gibt es eine Kürbisoverdose! Wir haben einen grossen Kürbis gekauft und 
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Packung</td>
             <td>Blätterteig (rechteckig)</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>3</td>
             <td>grosse Kartoffeln</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1kg</td>
             <td>Kürbis</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>Lauchstange</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Olivenöl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Salz</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>pflanzliche Sahne</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Kurkuma</td>
           </tr>
-          <tr>   
+          <tr itemprop="recipeIngredient">   
             <td>qs</td>
             <td>Mohnsamen</td>    
           </tr>

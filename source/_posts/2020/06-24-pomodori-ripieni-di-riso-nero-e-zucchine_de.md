@@ -30,31 +30,31 @@ Es schien mir richtig, den Sommer mit einem Gericht mit Tomaten willkommen zu he
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
-          <tr>          
+          <tr itemprop="recipeIngredient">         
             <td>ca. 8</td>
             <td>Rispentomaten</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>250gr</td>
             <td>schwarzer Reis</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>Zwiebel</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>Zucchini</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Olienöl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Salz</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>frischer Basilikum</td>
           </tr>

@@ -30,71 +30,71 @@ Sto sperimentando delle cose nuove e una delle cose che non avevo mai fatto sono
           <tr>
             <td colspan="2"><b>Whoopie Pies</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>uovo</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>150gr</td>
             <td>zucchero</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 bustina</td>
             <td>zucchero vanigliato</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>130gr</td>
             <td>yogurt naturale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>30ml</td>
             <td>latte</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>75gr</td>
             <td>burro sciolto</td>
           </tr>
-          <tr> 
+          <tr itemprop="recipeIngredient"> 
             <td>280gr</td>
             <td>farina</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 cucchiaino</td>
             <td>bicarbonato</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/4 cucchiaino</td>
             <td>lievito per dolci</td>
           </tr>
-          <tr>   
+          <tr itemprop="recipeIngredient">   
             <td>1 pizzico</td>
             <td>sale</td>
           </tr>
-          <tr>   
+          <tr itemprop="recipeIngredient">   
             <td>ca. 100gr</td>
             <td>ribes</td>
           </tr>
           <tr style="height: 15px;"></tr>
           <tr>          
-            <td colspan="2"><b>Farcitura</b></td>
+            <td colspan="2"><b>Farcia</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100gr</td>
             <td>Quark</td>
           </tr>
-          <tr>      
+          <tr itemprop="recipeIngredient">      
             <td>100gr</td>
             <td>panna da montare</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>25gr</td>
             <td>zucchero a velo</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>addensante per panna montata</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>vaniglia macinata</td>      
           </tr>

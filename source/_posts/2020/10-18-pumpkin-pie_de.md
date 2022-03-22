@@ -40,27 +40,27 @@ Erica
           <tr>          
             <td colspan="2"><b>Pie Crust (Pâte Brisée)</b></td>
           </tr>      
-          <tr>        
+          <tr itemprop="recipeIngredient">       
             <td>300gr</td>
             <td>Mehl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>50gr</td>
             <td>feiner Zucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Prise</td>
             <td>Salz</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>225gr</td>
             <td>sehr kalte Butter</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Esslöffel</td>
             <td>Vodka</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>3 Esslöffel</td>
             <td>eiskaltes Wasser</td>
           </tr>
@@ -68,31 +68,31 @@ Erica
           <tr>          
             <td colspan="2"><b>Füllung</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>430gr</td>
             <td>Kürbispüree</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>120gr</td>
             <td>brauner Zucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Teelöffel</td>
             <td>Pumpkin Spice</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Prise</td>
             <td>Salz</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>3</td>
             <td>grosse Eier</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>200ml</td>
             <td>Rahm</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>125ml</td>
             <td>Milch</td>
           </tr>

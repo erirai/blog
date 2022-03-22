@@ -31,35 +31,35 @@ Rieccomi qua dopo le nostre prime vacanze con i nostri due figli, la piccola ma 
           <tr>
             <td colspan="2"><b>Pasta "lievitata"</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>225gr</td>
             <td>Quark o Ricotta</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>500gr</td>
             <td>farina</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>200gr</td>
             <td>zucchero</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 bustina</td>
             <td>zucchero vanigliato</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 bustina</td>
             <td>lievito per dolci</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 pizzico</td>
             <td>sale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>9 cucchiai</td>
             <td>latte</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>9 cucchiai</td>
             <td>olio di girasole</td>
           </tr>
@@ -67,15 +67,15 @@ Rieccomi qua dopo le nostre prime vacanze con i nostri due figli, la piccola ma 
           <tr>          
             <td colspan="2"><b>Farcitura</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1.5kg</td>
             <td>prugne</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>3 cucchiai</td>
             <td>zucchero</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2 cucchiaino</td>
             <td>cannella</td>
           </tr>
@@ -83,23 +83,23 @@ Rieccomi qua dopo le nostre prime vacanze con i nostri due figli, la piccola ma 
           <tr>          
             <td colspan="2"><b>Granella croccante</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>300gr</td>
             <td>farina</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>200gr</td>
             <td>burro freddo</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>125gr</td>
             <td>zucchero</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 bustina</td>
             <td>zucchero vanigliato</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 pizzico</td>
             <td>sale</td>
           </tr>
@@ -107,15 +107,15 @@ Rieccomi qua dopo le nostre prime vacanze con i nostri due figli, la piccola ma 
           <tr>          
             <td colspan="2"><b>Dopo la cottura</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>50gr</td>
             <td>burro</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>3 cucchiai</td>
             <td>zucchero</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2 cucchiaino</td>
             <td>cannella</td>
           </tr>

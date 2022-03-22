@@ -29,27 +29,27 @@ Ich hatte diese Süssen Brotfladen im April für die 13. Foodie Challenge vorber
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
-          <tr>          
+          <tr itemprop="recipeIngredient">         
             <td>300gr</td>
             <td>Mehl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Teelöffel</td>
             <td>Salz</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>200ml</td>
             <td>Wasser</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>0.25gr</td>
             <td>frische Hefe</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Sonnenblumenöl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Zucker</td>
           </tr>

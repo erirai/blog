@@ -56,6 +56,7 @@ lang: it
             <td>qb</td>
             <td>estratto di vaniglia</td>
           </tr>
+          <tr itemprop="recipeIngredient">
             <td>1 pizzico</td>
             <td>sale</td>
           </tr>

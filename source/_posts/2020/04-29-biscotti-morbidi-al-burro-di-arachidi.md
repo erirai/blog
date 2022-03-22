@@ -50,39 +50,39 @@ Il prossimo compleanno sarà quello di Gaia, anche lei durante il lockdown... Le
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
-          <tr>          
+          <tr itemprop="recipeIngredient">         
             <td>100gr</td>
             <td>burro</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>130gr</td>
             <td>burro di arachidi non zuccherato</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100gr</td>
             <td>zucchero</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2 cucchiaino</td>
             <td>lievito per dolci</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2 cucchiaino</td>
             <td>bicarbonato</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 pizzico</td>
             <td>sale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>vaniglia</td>
           </tr>      
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>uovo</td>
           </tr>
-          <tr> 
+          <tr itemprop="recipeIngredient"> 
             <td>200gr</td>
             <td>farina</td>
           </tr>

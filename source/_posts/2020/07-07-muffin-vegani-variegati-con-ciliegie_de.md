@@ -33,47 +33,47 @@ Die letzte Schulwoche vor Beginn der Sommerferien hat begonnen. Und ja, ich bin 
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>200gr</td>
             <td>Mehl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>40gr</td>
             <td>Maisstärke o.ä.</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>90gr</td>
             <td>brauner Zucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2 Päckchen</td>
             <td>Backpulver</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Vanille</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Prise</td>
             <td>Salz</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>250ml</td>
             <td>pflanzliche Milch</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100ml</td>
             <td>Sonnenblumenöl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 gehäufter Esslöffel</td>
             <td>Kakaopulver</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2 Handvoll</td>
             <td>Kirschen (ca. 60 Stück)</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100ml</td>
             <td>pflanzliche Sahne (fakultativ)</td>
           </tr>

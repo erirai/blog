@@ -33,43 +33,43 @@ Ho preparato quest'Insalata di Pomodori, Cetrioli e Melanzane arrosto con Hummus
           <tr>          
             <td colspan="2"><b>Insalata</b></td>
           </tr>      
-          <tr>        
+          <tr itemprop="recipeIngredient">       
             <td>1</td>
             <td>melanzana piccolina</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 spicchio</td>
             <td>aglio</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>origano fresco</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>pomodorini datterini</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>pomodoro cuore di bue</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2</td>
             <td>cetriolo</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>basilico fresco</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>olio evo</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>sale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>succo di limone</td>
           </tr>
@@ -77,31 +77,31 @@ Ho preparato quest'Insalata di Pomodori, Cetrioli e Melanzane arrosto con Hummus
           <tr>          
             <td colspan="2"><b>Hummus</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 vasetto</td>
             <td>ceci lessi</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 cucchiaino</td>
             <td>Tahina</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>basilico fresco</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>succo di limone</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>cumino</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>olio evo</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>sale</td>
           </tr>

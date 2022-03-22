@@ -32,34 +32,34 @@ Gennaio sta finendo ed è proprio questa la cosa più bella di tutto il mese! Ma
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>porro</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>sedano</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>ceci già cotti o in scatola</td>
            </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>zucca</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>carote</td>
            </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>cumino e/o curry</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>olio evo</td>
            </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>sale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>semini oleosi</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>germogli</td>
           </tr>
         </tbody>

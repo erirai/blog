@@ -31,35 +31,35 @@ Da bin ich wieder nach den ersten Ferien, mit unseren beiden Kindern, das kleine
           <tr>
             <td colspan="2"><b>"Hefeteig"</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>225gr</td>
             <td>Quark oder Ricotta</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>500gr</td>
             <td>Mehl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>200gr</td>
             <td>Zucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Päckchen</td>
             <td>Vanillezucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Päckchen</td>
             <td>Backpulver</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Prise</td>
             <td>Salz</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>9 Esslöffel</td>
             <td>Milch</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>9 Esslöffel</td>
             <td>Sonnenblumenöl</td>
           </tr>
@@ -67,15 +67,15 @@ Da bin ich wieder nach den ersten Ferien, mit unseren beiden Kindern, das kleine
           <tr>          
             <td colspan="2"><b>Füllung</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1.5kg</td>
             <td>Zwetschgen</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>3 Esslöffel</td>
             <td>Zucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2 Teelöffel</td>
             <td>Zimt</td>
           </tr>
@@ -83,23 +83,23 @@ Da bin ich wieder nach den ersten Ferien, mit unseren beiden Kindern, das kleine
           <tr>          
             <td colspan="2"><b>Streusel</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>300gr</td>
             <td>Mehl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>200gr</td>
             <td>kalte Butter</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>125gr</td>
             <td>Zucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Päckchen</td>
             <td>Vanillezucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Prise</td>
             <td>Salz</td>
           </tr>
@@ -107,15 +107,15 @@ Da bin ich wieder nach den ersten Ferien, mit unseren beiden Kindern, das kleine
           <tr>          
             <td colspan="2"><b>nach dem Backen</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>50gr</td>
             <td>Butter</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>3 Esslöffel</td>
             <td>Zucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2 Teelöffel</td>
             <td>Zimt</td>
           </tr>

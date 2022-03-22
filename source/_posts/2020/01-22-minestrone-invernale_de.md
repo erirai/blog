@@ -32,46 +32,46 @@ Werft die Gemüseabfälle nicht weg (Karotten-, Kartoffel- und Kürbisschalen, d
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Lauch</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Kartoffeln</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Karotten</td>
            </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Süsskartoffeln</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Kürbis</td>
            </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Federkohl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Palmkohl</td>
            </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Wirz</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Weiss- oder Rotkohl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Sellerie oder Sellerieknolle</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>gekochte weisse Bohnen</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Tomatenmark</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Salz</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Olivenöl</td>
           </tr>
         </tbody>

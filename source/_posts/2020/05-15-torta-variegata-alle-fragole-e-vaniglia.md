@@ -57,51 +57,51 @@ La nostra "quarantena" è iniziata a metà marzo con il compleanno di Gioele, in
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>200gr</td>
             <td>fragole</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>150gr</td>
             <td>burro</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>180gr</td>
             <td>zucchero</td>
            </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>3</td>
             <td>uova</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 pizzico</td>
             <td>sale</td>
            </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>115gr</td>
             <td>panna non zuccherata o yogurt greco</td>
            </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2 cucchiaini</td>
             <td>estratto/pasta di vaniglia</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>260gr</td>
             <td>farina</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 cucchiaino</td>
             <td>lievito per dolci</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2</td>
             <td>limone</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100gr</td>
             <td>cioccolato Ruby</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>30gr</td>
             <td>cioccolato bianco</td>
           </tr>

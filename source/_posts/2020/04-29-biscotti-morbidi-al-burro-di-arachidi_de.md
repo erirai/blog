@@ -50,39 +50,39 @@ Als nächste ist Gaia dran, auch sie während dem Lockdown... Sie hingegen mag e
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
-          <tr>          
+          <tr itemprop="recipeIngredient">          
             <td>100gr</td>
             <td>Butter</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>130gr</td>
             <td>ungezuckerte Erdnussbutter</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100gr</td>
             <td>Zucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2 Teelöffel</td>
             <td>Backpulver</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2 Teelöffel</td>
             <td>Natron</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Prise</td>
             <td>Salz</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Vanille</td>
           </tr>      
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>Ei</td>
           </tr>
-          <tr> 
+          <tr itemprop="recipeIngredient">
             <td>200gr</td>
             <td>Mehl</td>
           </tr>

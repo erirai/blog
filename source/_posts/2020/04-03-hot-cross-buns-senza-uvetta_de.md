@@ -35,43 +35,43 @@ Dieses Jahr wird Ostern ein bisschen anders sein... Jeder bei sich zu Hause. Ich
           <tr>          
             <td colspan="2"><b>Hefeteig</b></td>
           </tr>      
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>500gr</td>
             <td>Zopfmehl oder Halbweissmehl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>70gr</td>
             <td>Zucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>kleine Zitrone nur Abrieb</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2</td>
             <td>Orange nur Abrieb</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Prise</td>
             <td>Zimt</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Teelöffel</td>
             <td>Salz</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>300ml</td>
             <td>Milch</td>
           </tr>      
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>40gr</td>
             <td>Butter</td>
           </tr>
-          <tr> 
+          <tr itemprop="recipeIngredient">
             <td>2gr</td>
             <td>Hefe frisch</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>Ei</td>
           </tr>
@@ -79,15 +79,15 @@ Dieses Jahr wird Ostern ein bisschen anders sein... Jeder bei sich zu Hause. Ich
           <tr>          
             <td colspan="2"><b>Topping</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>50gr</td>
             <td>Mehl</td>
           </tr>      
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>ca. 50gr</td>
             <td>Wasser</td>
           </tr>
-          <tr> 
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Honig</td>
           </tr>

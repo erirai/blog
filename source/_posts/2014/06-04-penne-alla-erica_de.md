@@ -30,43 +30,43 @@ Das Rezept dieser **Pasta mit Paprika und Erdbeeren** ist vor vielen Jahren ganz
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>180gr</td>
             <td>Penne (oder andere Pasta)</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>Schalotte</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2</td>
             <td>Paprika</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Rotwein oder Fragolino</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Handvoll</td>
             <td>Walderdbeeren oder Erdbeeren</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>400gr</td>
             <td>gehackte Dosentomaten</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Basilikum</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Paprikapulver</td> 
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Olivenöl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Salz</td> 
           </tr>

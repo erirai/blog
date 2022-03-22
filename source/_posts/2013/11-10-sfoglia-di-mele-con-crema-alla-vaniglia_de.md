@@ -30,39 +30,39 @@ Immer am 10. jedes Monats backe ich einen Kuchen um den Monatstag unserer Tochte
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Packung</td>
             <td>Blätterteig</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1l</td>
             <td>Milch</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>Vanilleschote</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>7</td>
             <td>Eier</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>180gr</td>
             <td>Zucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100gr</td>
             <td>Mehl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100gr</td>
             <td>Haselnüsse oder Mandeln gemahlen</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100gr</td>
             <td>Butter</td>        
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>ca. 3</td>
             <td>grosse Äpfel</td>
           </tr>

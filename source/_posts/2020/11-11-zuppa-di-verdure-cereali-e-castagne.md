@@ -37,63 +37,63 @@ Da quando siamo vegetariani, abbiamo iniziato a variare molto di più il nostro 
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
-          <tr>  
+          <tr itemprop="recipeIngredient">   
             <td>1</td> 
             <td>cipolla piccolina</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>1 pezzettino</td> 
             <td>porro</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>1</td> 
             <td>carota media</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>1</td> 
             <td>finocchio piccolino</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>1</td> 
             <td>patata dolce piccolina</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>1</td> 
             <td>patata piccolina</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>3-4 foglie</td> 
             <td>cavolo nero e/o riccio</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>1 pugno</td>               
             <td>farro decorticato</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>1 pugno</td> 
             <td>orzo decorticato</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>1 pugno</td> 
             <td>grano saraceno</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>2 cucchiai</td> 
             <td>concentrato di pomodoro</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>1 pugno</td> 
             <td>castagne già bollite e pelate</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>qb</td> 
             <td>olio evo</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>qb</td> 
             <td>sale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>qb</td> 
             <td>parmigiano grattugiato (facoltativo)</td>
           </tr>

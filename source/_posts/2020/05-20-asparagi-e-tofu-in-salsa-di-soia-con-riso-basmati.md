@@ -30,28 +30,28 @@ Era da un sacco di tempo che non mangiavo più il Tofu, ma avevo troppa voglia d
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
-          <tr>          
+          <tr itemprop="recipeIngredient">         
             <td>asparagi verdi</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Tofu</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>salsa di soia</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>aglio</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>olio di semi</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>riso Basmati</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>sale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>sesamo</td>
           </tr>
         </tbody>

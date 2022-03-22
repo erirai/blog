@@ -28,27 +28,27 @@ Il pane del fornaio dietro casa, era una di quelle cose che avrei mangiato molto
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
-          <tr>          
+          <tr itemprop="recipeIngredient">         
             <td>600gr</td>
             <td>semola di grano duro rimacinata</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>3 cucchiaini rasi</td>
             <td>sale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>420ml</td>
             <td>acqua</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1gr</td>
             <td>lievito fresco</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 cucchiaino</td>
             <td>miele o sciroppo d'agave</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>sesamo</td>
           </tr>

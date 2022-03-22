@@ -34,35 +34,35 @@ Questi **Conchiglioni ripieni con Ricotta e Cavolo Riccio su Crema di Zucca** li
           <tr>          
             <td colspan="2"><b>Ripieno</b></td>
           </tr>      
-          <tr>        
+          <tr itemprop="recipeIngredient">       
             <td>1 mazzolino</td>
             <td>cavolo riccio</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 pezzetto</td>
             <td>porro</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>500gr</td>
             <td>ricotta fresca</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>parmigiano grattugiato</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>noce moscata</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>paprika</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>sale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>olio evo</td>
           </tr>
@@ -70,19 +70,19 @@ Questi **Conchiglioni ripieni con Ricotta e Cavolo Riccio su Crema di Zucca** li
           <tr>          
             <td colspan="2"><b>Crema di Zucca</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 pezzetto</td>
             <td>porro</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>zucca Hokkaido bio</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>sale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>olio evo</td>
           </tr>
@@ -90,11 +90,11 @@ Questi **Conchiglioni ripieni con Ricotta e Cavolo Riccio su Crema di Zucca** li
           <tr>          
             <td colspan="2"><b>Inoltre</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>300gr</td>
             <td>conchiglioni</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>parmigiano grattugiato</td>
           </tr>

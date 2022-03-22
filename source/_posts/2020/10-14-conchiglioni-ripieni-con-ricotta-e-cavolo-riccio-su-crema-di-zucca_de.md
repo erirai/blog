@@ -34,35 +34,35 @@ Diese **Muschelpasta gefüllt mit Ricotta und Federkohl auf Kürbiscreme** habe 
           <tr>          
             <td colspan="2"><b>Füllung</b></td>
           </tr>      
-          <tr>        
+          <tr itemprop="recipeIngredient">       
             <td>1 Handvoll</td>
             <td>Federkohl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Stückchen</td>
             <td>Lauch</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>500gr</td>
             <td>Ricotta</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>geriebenen Parmesankäse</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Muskatnuss</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Paprikapulver</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Salz</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Öl</td>
           </tr>
@@ -70,19 +70,19 @@ Diese **Muschelpasta gefüllt mit Ricotta und Federkohl auf Kürbiscreme** habe 
           <tr>          
             <td colspan="2"><b>Kürbiscreme</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Stückchen</td>
             <td>Lauch</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>bio Hokkaidokürbis</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Salz</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Öl</td>
           </tr>
@@ -90,11 +90,11 @@ Diese **Muschelpasta gefüllt mit Ricotta und Federkohl auf Kürbiscreme** habe 
           <tr>          
             <td colspan="2"><b>Dazu noch</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>300gr</td>
             <td>Muschelpasta</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>geriebenen Parmesankäse</td>
           </tr>

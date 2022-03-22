@@ -33,55 +33,55 @@ Questa ricetta l'ho presa dal giornalino Sweet Dreams di Gennaio/Febbraio 2020 (
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>80gr</td>
             <td>cioccolato fondente</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>170gr</td>
             <td>burro</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>170ml</td>
             <td>latte</td>
            </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1-2</td>
             <td>arance bio solo la scorza</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 cucchiaino</td>
             <td>estratto di vaniglia</td>
            </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>150gr</td>
             <td>farina</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 cucchiaino</td>
             <td>lievito per dolci</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2 cucchiai</td>
             <td>cacao amaro</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>180gr</td>
             <td>zucchero</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>80gr</td>
             <td>mandorle macinate o farina di mandorle</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 pizzico</td>
             <td>sale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2</td>
             <td>uova grandi</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100gr</td>
             <td>cioccolato Ruby o fondente</td>
           </tr>

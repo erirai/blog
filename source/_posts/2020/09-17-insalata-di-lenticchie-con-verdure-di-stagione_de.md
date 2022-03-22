@@ -40,43 +40,43 @@ Zusammenfassend, es ist eine wunderbare Initiative, die dazu führen sollte, das
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
-          <tr>                 
+          <tr itemprop="recipeIngredient">                 
             <td>Linsen grüne, braune oder schwarze</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Gemüsebrühe oder Wasser</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Lorbeerblatt</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Zwiebel</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Kürbis</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Peperoni</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Zucchini</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Federkohl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Tomaten</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Selleriestange</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Basilikum</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Olivenöl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Salz</td>
           </tr>
         </tbody>

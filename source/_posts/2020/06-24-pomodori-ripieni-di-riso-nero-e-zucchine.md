@@ -30,31 +30,31 @@ Poi mi sembra giusto dare il benvenuto all'estate con un piatto fatto con i pomo
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
-          <tr>          
+          <tr itemprop="recipeIngredient">          
             <td>ca. 8</td>
             <td>pomodori tipo ramati</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>250gr</td>
             <td>riso nero/venere</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>cipolla</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>zucchina</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>olio evo</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>sale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>basilico fresco</td>
           </tr>

@@ -31,43 +31,43 @@ lang: it
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>200gr</td>
             <td>farina</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>40gr</td>
             <td>fecola di patate (o simile)</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>90gr</td>
             <td>zucchero di canna</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2 bustina</td>
             <td>lievito per dolci</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 bustina</td>
             <td>zucchero vanigliato</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 pizzico</td>
             <td>sale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>250ml</td>
             <td>latte vegetale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100ml</td>
             <td>olio di semi</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>120gr</td>
             <td>mirtilli freschi</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100gr</td>
             <td>cioccolato fondente a pezzetti</td>
           </tr>

@@ -34,39 +34,39 @@ Willkommen Oktober! DER Monat des Kürbisses, der Monat, der Dunkelheit bringt, 
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
-          <tr>          
+          <tr itemprop="recipeIngredient">         
             <td>100gr</td>
             <td>Kürbispüree</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>110gr</td>
             <td>brauner Zucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>80gr</td>
             <td>Sonnenblumenöl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>20gr</td>
             <td>Ahornsirup</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2 Teelöffel</td>
             <td>Pumpkin Spice oder nur Zimt</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>250gr</td>
             <td>Mehl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 voller Teelöffel</td>
             <td>Backpulver</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Prise</td>
             <td>Salz</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>120gr</td>
             <td>dunkle Schokoladentropfen</td>
           </tr>

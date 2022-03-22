@@ -34,43 +34,43 @@ Hier in der Schweiz warten wir. Ja, wir warten. Die Anzahl Infizierten steit wei
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>75gr</td>
             <td>Kakaopulver</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>150ml</td>
             <td>Wasser</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>190g</td>
             <td>Butter</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>180gr</td>
             <td>Zucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Prise</td>
             <td>Salz</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>3</td>
             <td>Eier</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>225gr</td>
             <td>Mehl</td>
           </tr>      
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>9gr</td>
             <td>Backpulver</td>
           </tr>
-          <tr> 
+          <tr itemprop="recipeIngredient">
             <td>300gr</td>
             <td>Himbeerkonfitüre</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>150gr</td>
             <td>dunkle Schokolade</td>
           </tr>

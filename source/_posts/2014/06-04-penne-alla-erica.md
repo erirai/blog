@@ -31,43 +31,43 @@ La ricetta della **Pasta con Peperoni e Fragole** è nata tanti anni fa per caso
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>180gr</td>
             <td>penne (o altra pasta)</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>scalogno</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2</td>
             <td>peperone</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>vino rosso o fragolino</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 manciata</td>
             <td>fragoline di bosco o fragole</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>400gr</td>
             <td>pomodori pelati a pezzetti</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>basilico</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>paprica in polvere</td> 
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>olio d'oliva</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>sale</td> 
           </tr>

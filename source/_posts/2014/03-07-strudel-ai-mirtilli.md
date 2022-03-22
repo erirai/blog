@@ -28,31 +28,31 @@ lang: it
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>8 fogli</td>
             <td>pasta fillo</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>500gr</td>
             <td>mirtilli</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>200gr</td>
             <td>zucchero di canna</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2 cucchiai colmi</td>
             <td>amido di mais (o simile)</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>succo di limone</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>50gr</td>
             <td>margarina</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>zucchero a velo</td>      
           </tr>

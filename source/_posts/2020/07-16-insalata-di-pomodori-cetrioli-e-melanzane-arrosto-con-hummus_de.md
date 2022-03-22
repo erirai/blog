@@ -33,43 +33,43 @@ Diesen Tomaten-Gurken-Salat mit gerösteten Auberginen und Hummus habe ich für 
           <tr>          
             <td colspan="2"><b>Salat</b></td>
           </tr>      
-          <tr>        
+          <tr itemprop="recipeIngredient">       
             <td>1</td>
             <td>kleine Aubergine</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>Knoblauchzehe</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>frischer Oregano</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Datteltomaten</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>Ochsenherztomate</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2</td>
             <td>Gurke</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>frischer Basilikum</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Olivenöl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Salz</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Zitronensaft</td>
           </tr>
@@ -77,31 +77,31 @@ Diesen Tomaten-Gurken-Salat mit gerösteten Auberginen und Hummus habe ich für 
           <tr>          
             <td colspan="2"><b>Hummus</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Konservenglas</td>
             <td>gekochte Kichererbsen</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Teelöffel</td>
             <td>Tahin</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>frischer Basilikum</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Zitronensaft</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Kümmel</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Olivenöl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Salz</td>
           </tr>

@@ -30,39 +30,39 @@ Ogni 10 del mese faccio sempre una torta per "festeggiare" il mesiversario di no
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 rotolo</td>
             <td>pasta sfoglia</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1l</td>
             <td>latte</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 stecca</td>
             <td>vaniglia</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>7</td>
             <td>uova</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>180gr</td>
             <td>zucchero</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100gr</td>
             <td>farina</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100gr</td>
             <td>nocciole o mandorle macinate</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100gr</td>
             <td>burro</td>        
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>ca 3</td>
             <td>mele grandi</td>
           </tr>

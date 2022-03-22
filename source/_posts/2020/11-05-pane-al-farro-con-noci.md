@@ -35,27 +35,27 @@ Non so cosa aspettarmi da questo mese, perché ormai non pianifico più nulla. V
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
-          <tr>          
+          <tr itemprop="recipeIngredient">          
             <td>350gr</td>
             <td>farina di farro scura</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>150gr</td>
             <td>farina di farro bianca</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>2 cucchiaini</td>
             <td>sale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>ca. 350ml</td>
             <td>acqua</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>1gr</td>
             <td>lievito fresco</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>100gr</td>
             <td>noci sgusciate leggermente tritate</td>
           </tr>

@@ -34,43 +34,43 @@ Qui in Svizzera stiamo aspettando. Sì, aspettiamo. I test positivi continuano a
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>75gr</td>
             <td>cacao amaro</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>150ml</td>
             <td>acqua</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>190g</td>
             <td>burro</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>180gr</td>
             <td>zucchero</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 pizzico</td>
             <td>sale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>3</td>
             <td>uova</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>225gr</td>
             <td>farina</td>
           </tr>      
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>9gr</td>
             <td>lievito</td>
           </tr>
-          <tr> 
+          <tr itemprop="recipeIngredient">
             <td>300gr</td>
             <td>confettura di lamponi</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>150gr</td>
             <td>cioccolato fondente</td>
           </tr>

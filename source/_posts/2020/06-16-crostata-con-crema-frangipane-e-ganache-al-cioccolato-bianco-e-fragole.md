@@ -34,27 +34,27 @@ Questa ricetta l'ho presa dal giornalino Sweet Dreams di Maggio/Giugno 2020 (not
           <tr>          
             <td colspan="2"><b>Frolla</b></td>
           </tr>      
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>125gr</td>
             <td>farina</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>25gr</td>
             <td>farina di mandorle</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>50gr</td>
             <td>zucchero a velo</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>70gr</td>
             <td>burro a pezzetti</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>uovo piccolo</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 pizzico</td>
             <td>sale</td>
           </tr>
@@ -62,23 +62,23 @@ Questa ricetta l'ho presa dal giornalino Sweet Dreams di Maggio/Giugno 2020 (not
           <tr>          
             <td colspan="2"><b>Crema Frangipane</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100gr</td>
             <td>mandorle pelate macinate</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100gr</td>
             <td>zucchero semolato</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100gr</td>
             <td>burro morbido</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>uovo</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 pizzico</td>
             <td>sale</td>
           </tr>
@@ -86,19 +86,19 @@ Questa ricetta l'ho presa dal giornalino Sweet Dreams di Maggio/Giugno 2020 (not
           <tr>          
             <td colspan="2"><b>Ganache</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100gr</td>
             <td>cioccolato bianco</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>40gr</td>
             <td>panna fresca</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>vaniglia</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>60gr</td>
             <td>fragole</td>
           </tr>

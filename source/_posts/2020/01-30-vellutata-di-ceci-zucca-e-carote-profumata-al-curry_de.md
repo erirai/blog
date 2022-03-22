@@ -32,34 +32,34 @@ Januar geht bald zu Ende und genau das, ist das Schönste vom ganzen Monat! Kann
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Lauch</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Sellerie</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>vorgekochte Kichererbsen oder aus der Dose</td>
            </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Kürbis</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Karotten</td>
            </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Kümmel und/oder Curry</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Olivenöl</td>
            </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Salz</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>verschiedene Kerne und Samen (Kürbis, Sonnenblume, Sesam etc.)</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Sprossen</td>
           </tr>
         </tbody>

@@ -28,27 +28,27 @@ Das Brot vom Bäcker um die Ecke, war eines dieser Dinge, die ich vor ein paar W
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
-          <tr>          
+          <tr itemprop="recipeIngredient">          
             <td>600gr</td>
             <td>Hartweizengriess (Knöpflimehl)</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>3 gestrichene Teelöffel</td>
             <td>Salz</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>420ml</td>
             <td>Wasser</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1gr</td>
             <td>frische Hefe</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Teelöffel</td>
             <td>Honig oder Agavendicksaft</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Sesam</td>
           </tr>

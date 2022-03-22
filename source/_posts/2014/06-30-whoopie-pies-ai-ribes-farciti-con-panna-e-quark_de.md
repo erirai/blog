@@ -29,47 +29,47 @@ Ich probiere gerade neue Rezepte aus und etwas, das ich nie zuvor gebacken hatte
           <tr>
             <td colspan="2"><b>Whoopie Pies</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>Ei</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>150gr</td>
             <td>Zucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Päckchen</td>
             <td>Vanillezucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>130gr</td>
             <td>Naturjoghurt</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>30ml</td>
             <td>Milch</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>75gr</td>
             <td>flüssige Butter</td>
           </tr>
-          <tr> 
+          <tr itemprop="recipeIngredient"> 
             <td>280gr</td>
             <td>Mehl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Teelöffel</td>
             <td>Natron</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/4 Teelöffel</td>
             <td>Backpulver</td>
           </tr>
-          <tr>   
+          <tr itemprop="recipeIngredient">   
             <td>1 Prise</td>
             <td>Salz</td>
           </tr>
-          <tr>   
+          <tr itemprop="recipeIngredient">   
             <td>ca. 100gr</td>
             <td>Johannisbeeren</td>
           </tr>
@@ -77,23 +77,23 @@ Ich probiere gerade neue Rezepte aus und etwas, das ich nie zuvor gebacken hatte
           <tr>          
             <td colspan="2"><b>Füllung</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100gr</td>
             <td>Quark</td>
           </tr>
-          <tr>      
+          <tr itemprop="recipeIngredient">     
             <td>100gr</td>
             <td>Schlagsahne</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>25gr</td>
             <td>Puderzucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Sahnesteif</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>gemahlene Vanille</td>      
           </tr>

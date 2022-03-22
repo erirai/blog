@@ -33,47 +33,47 @@ Le ciliegie le ha portate il nonno di mio marito, raccolte dal loro giardino. È
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>200gr</td>
             <td>farina</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>40gr</td>
             <td>fecola di patate (o simile)</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>90gr</td>
             <td>zucchero di canna</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2 bustina</td>
             <td>lievito per dolci</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>vaniglia</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 pizzico</td>
             <td>sale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>250ml</td>
             <td>latte vegetale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100ml</td>
             <td>olio di semi</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 cucchiaio colmo</td>
             <td>cacao amaro</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2 manciate</td>
             <td>ciliegie (ca. 60 pezzi)</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100ml</td>
             <td>panna da montare vegetale (facoltativo)</td>
           </tr>

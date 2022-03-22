@@ -28,35 +28,35 @@ Vor ein paar Tagen habe ich eine wunderschöne neue Kuchenform gekauft und wollt
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>750gr</td>
             <td>Zwetschgen</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Esslöffel</td>
             <td>Marsala</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>Zitrone nur Saft</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Teelöffel</td>
             <td>Zimt</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>180gr</td>
             <td>brauner Zucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>180gr</td>
             <td>Mehl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>120gr</td>
             <td>Margarine oder Butter</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Päckchen</td>
             <td>Vanillezucker</td>
           </tr>

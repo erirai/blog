@@ -57,12 +57,15 @@ Viel Spass!
             <td>100gr</td>
             <td>Zucker</td>
           </tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>grosses Ei</td>
           </tr>
+          <tr itemprop="recipeIngredient">
             <td>125ml</td>
             <td>Buttermilch oder Milch</td>
           </tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Päckchen</td>
             <td>Vanillezucker</td>
           </tr>

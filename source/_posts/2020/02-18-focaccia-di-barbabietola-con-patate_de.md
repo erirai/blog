@@ -35,39 +35,39 @@ Für viele ist es komisch, Focaccia mit Kartoffeln zu essen, aber ich versichere
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>500gr</td>
             <td>Dinkelmehl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>250gr</td>
             <td>gekochte Randen</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>3 Teelöffel</td>
             <td>Salz</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1gr</td>
             <td>frische Hefe</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>150-200ml</td>
             <td>Wasser</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2-3</td>
             <td>Kartoffeln</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Olivenöl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>(Rosmarin-)Salz</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Rosmarin</td>
           </tr>

@@ -59,6 +59,7 @@ Secondo me al posto della Crema di Nocciole si potrebbe prendere anche della mar
             <td>250gr</td>
             <td>farina</td>
           </tr>
+          <tr itemprop="recipeIngredient">
             <td>1 bustina</td>
             <td>lievito per dolci</td>
           </tr>

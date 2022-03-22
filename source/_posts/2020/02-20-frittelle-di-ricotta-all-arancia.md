@@ -30,43 +30,43 @@ E anche quest'anno è arrivato Carnevale, Febbraio sta finendo finalmente... Non
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>500gr</td>
             <td>ricotta</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>160gr</td>
             <td>farina</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>4 cucchiai colmi</td>
             <td>zucchero a velo</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2</td>
             <td>uova</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 pizzico</td>
             <td>sale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2</td>
             <td>limone solo la scorza</td>
           </tr>      
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1-2</td>
             <td>arance solo la scorza</td>
           </tr>
-          <tr> 
+          <tr itemprop="recipeIngredient">
             <td>1 pizzico</td>
             <td>cannella</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1l</td>
             <td>olio per friggere</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>zucchero semolato</td>
           </tr>

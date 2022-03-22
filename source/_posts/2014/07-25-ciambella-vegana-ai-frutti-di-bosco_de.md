@@ -56,6 +56,7 @@ lang: de
             <td>qs</td>
             <td>Vanilleextrakt</td>
           </tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Prise</td>
             <td>Salz</td>
           </tr>

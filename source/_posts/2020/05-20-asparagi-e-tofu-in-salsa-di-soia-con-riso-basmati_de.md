@@ -30,28 +30,28 @@ Es ist lange her, seit ich das letzte Mal Tofu gegessen habe, ich hatte aber tot
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
-          <tr>          
+          <tr itemprop="recipeIngredient">          
             <td>grüner Spargel</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Tofu</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Sojasauce</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Knoblauch</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Sonnenblumenöl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Basmatireis</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Salz</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Sesam</td>
           </tr>
         </tbody>

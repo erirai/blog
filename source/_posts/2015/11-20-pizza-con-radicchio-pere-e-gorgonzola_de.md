@@ -31,19 +31,19 @@ Vor einiger Zeit habe ich dieses Rezept im Fernseher gesehen. Beim Anblick diese
           <tr>
             <td colspan="2"><b>Pizzateig</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>500gr</td>
             <td>Mehl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2 Teelöffel</td>
             <td>Salz</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>10gr</td>
             <td>frische Hefe</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>ca. 350ml</td>
             <td>Wasser</td>
           </tr>
@@ -51,27 +51,27 @@ Vor einiger Zeit habe ich dieses Rezept im Fernseher gesehen. Beim Anblick diese
           <tr>          
             <td colspan="2"><b>Belag</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Radicchio</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>grosse reife Birne</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Gorgonzola</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Walnüsse</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Olivenöl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Prise</td>
             <td>Salz</td>
           </tr>

@@ -31,25 +31,25 @@ I funghi noi comunque li mangiamo più che altro in autunno... Il resto dell'ann
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
-          <tr>                 
+          <tr itemprop="recipeIngredient">                
             <td>funghi porcini</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>uova</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>pangrattato</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>erbette aromatiche essiccate</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>parmigiano</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>olio per friggere</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>sale</td>
           </tr>
         </tbody>

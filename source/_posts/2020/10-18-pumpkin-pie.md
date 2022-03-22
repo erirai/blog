@@ -40,27 +40,27 @@ Erica
           <tr>          
             <td colspan="2"><b>Pie Crust (Pasta Brisée)</b></td>
           </tr>      
-          <tr>        
+          <tr itemprop="recipeIngredient">        
             <td>300gr</td>
             <td>farina</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>50gr</td>
             <td>zucchero semolato</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 pizzico</td>
             <td>sale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>225gr</td>
             <td>burro freddissimo</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 cucchiaio</td>
             <td>Vodka</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>3 cucchiai</td>
             <td>acqua ghiacciata</td>
           </tr>
@@ -68,31 +68,31 @@ Erica
           <tr>          
             <td colspan="2"><b>Farcia</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>430gr</td>
             <td>purea di zucca</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>120gr</td>
             <td>zucchero di canna</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 cucchiaino</td>
             <td>pumpkin spice</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 pizzico</td>
             <td>sale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>3</td>
             <td>uova grandi</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>200ml</td>
             <td>panna fresca</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>125ml</td>
             <td>latte</td>
           </tr>

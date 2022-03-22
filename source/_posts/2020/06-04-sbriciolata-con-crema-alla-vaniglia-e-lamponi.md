@@ -41,31 +41,31 @@ Magari dovrei prendere esempio da Gioele che martedì all'asilo ha raccontato ch
           <tr>          
             <td colspan="2"><b>Frolla</b></td>
           </tr>      
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>250gr</td>
             <td>farina</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>85gr</td>
             <td>zucchero</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>uovo piccolo</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>125gr</td>
             <td>burro</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2 cucchiaino</td>
             <td>lievito per dolci</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 pizzico</td>
             <td>sale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2</td>
             <td>limone solo la scorza</td>
           </tr>
@@ -73,31 +73,31 @@ Magari dovrei prendere esempio da Gioele che martedì all'asilo ha raccontato ch
           <tr>          
             <td colspan="2"><b>Farcia</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>500ml</td>
             <td>latte</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>baccello di vaniglia</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2</td>
             <td>limone solo scorza</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>60gr</td>
             <td>zucchero</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>40gr</td>
             <td>farina</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2</td>
             <td>uova</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>200gr</td>
             <td>lamponi</td>
           </tr>

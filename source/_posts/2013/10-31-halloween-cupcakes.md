@@ -57,12 +57,15 @@ Buon divertimento!
             <td>100gr</td>
             <td>zucchero</td>
           </tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>uovo grande</td>
           </tr>
+          <tr itemprop="recipeIngredient">
             <td>125ml</td>
             <td>latticello o latte</td>
           </tr>
+          <tr itemprop="recipeIngredient">
             <td>1 bustina</td>
             <td>zucchero vanigliato</td>
           </tr>

@@ -37,63 +37,63 @@ Seit wir Vegetarier sind, haben wir begonnen, unsere Art zu essen viel mehr zu v
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
-          <tr>  
+          <tr itemprop="recipeIngredient">  
             <td>1</td> 
             <td>kleine Zwiebel</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>1 Stück</td> 
             <td>Lauch</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>1</td> 
             <td>Karotte mittelgross</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>1</td> 
             <td>Fenchel klein</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>1</td> 
             <td>Süsskartoffel klein</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>1</td> 
             <td>Kartoffel klein</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>3-4 Blätter</td> 
             <td>Feder- und/oder Palmkohl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>1 Handvoll</td>               
             <td>Dinkel schnellkochend</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>1 Handvoll</td> 
             <td>Rollgerste</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>1 Handvoll</td> 
             <td>Buchweizen</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>2 Esslöffel</td> 
             <td>Tomatenmark</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>1 Handvoll</td> 
             <td>gekochte Kastanien</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>qs</td> 
             <td>Olivenöl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>qs</td> 
             <td>Salz</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>qs</td> 
             <td>geriebenen Parmesankäse (wenn gewünscht)</td>
           </tr>

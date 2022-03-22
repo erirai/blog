@@ -34,27 +34,27 @@ Ich habe dieses Rezept aus dem Sweet Dreams Magazin von Mai/Juni 2020 (not spons
           <tr>          
             <td colspan="2"><b>Mürbeteig</b></td>
           </tr>      
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>125gr</td>
             <td>Mehl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>25gr</td>
             <td>Mandelmehl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>50gr</td>
             <td>Puderzucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>70gr</td>
             <td>Butter in Stücke geschnitten</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>kleines Ei</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Prise</td>
             <td>Salz</td>
           </tr>
@@ -62,23 +62,23 @@ Ich habe dieses Rezept aus dem Sweet Dreams Magazin von Mai/Juni 2020 (not spons
           <tr>          
             <td colspan="2"><b>Mandelcreme</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100gr</td>
             <td>gemahlene geschälte Mandeln</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100gr</td>
             <td>feiner Zucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100gr</td>
             <td>weiche Butter</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>Ei</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Prise</td>
             <td>Salz</td>
           </tr>
@@ -86,19 +86,19 @@ Ich habe dieses Rezept aus dem Sweet Dreams Magazin von Mai/Juni 2020 (not spons
           <tr>          
             <td colspan="2"><b>Ganache</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100gr</td>
             <td>weisse Schokolade</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>40gr</td>
             <td>Sahne</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Vanille</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>60gr</td>
             <td>Erdbeeren</td>
           </tr>

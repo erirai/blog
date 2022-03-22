@@ -31,25 +31,25 @@ Im Herbst essen wir öfters Pilze... Den Rest des Jahres nehme ich praktisch nur
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
-          <tr>                 
+          <tr itemprop="recipeIngredient">                
             <td>Steinpilze</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Eier</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Paniermehl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>getrocknete Kräuter</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Parmesankäse</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Öl zum frittieren</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Salz</td>
           </tr>
         </tbody>

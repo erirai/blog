@@ -32,46 +32,46 @@ Non buttate gli scarti delle verdure (buccia delle carote, patate e zucca, le pa
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>porro</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>patate</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>carote</td>
            </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>patate dolci</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>zucca</td>
            </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>cavolo riccio</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>cavolo nero</td>
            </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>verza</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>cavolo cappuccio</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>sedano o sedano rapa</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>fagioli bianchi già cotti</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>concentrato di pomodoro</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>sale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>olio evo</td>
           </tr>
         </tbody>

@@ -37,15 +37,15 @@ Ich habe mir eine schöne Pause vom Blog genommen, tatsächlich stammt der letzt
           <tr>          
             <td colspan="2"><b>Pistazienkrokant</b></td>
           </tr>      
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>40gr</td>
             <td>Zucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>15ml</td>
             <td>Wasser</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>90gr</td>
             <td>Pistazien ungesalzen und geschält</td>
           </tr>
@@ -53,43 +53,43 @@ Ich habe mir eine schöne Pause vom Blog genommen, tatsächlich stammt der letzt
           <tr>          
             <td colspan="2"><b>Parfait</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>300gr</td>
             <td>Beeren (auch TK)</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2 Esslöffel</td>
             <td>Zucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2</td>
             <td>Zitrone nur Saft</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>250ml</td>
             <td>Schlagsahne</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>250gr</td>
             <td>Ricotta</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>250gr</td>
             <td>griechischer Joghurt</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100gr</td>
             <td>Puderzucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>Vanilleschote</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>70gr</td>
             <td>Butterkekse zerbröselt</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>frische Beeren für die Deko</td>
           </tr>

@@ -57,6 +57,7 @@ Meiner Meinung nach, kann mann statt Haselnussaufstrich auch Konfitüre oder Van
             <td>250gr</td>
             <td>Mehl</td>
           </tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Päckchen</td>
             <td>Backpulver</td>
           </tr>

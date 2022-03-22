@@ -29,51 +29,51 @@ Wenn ihr sie vegan machen möchtet und keine vegane weisse Schokolade findet, k�
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
-          <tr>          
+          <tr itemprop="recipeIngredient">          
             <td>140gr</td>
             <td>Mehl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>20gr</td>
             <td>Kakaopulver</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>25gr</td>
             <td>geriebene Schokolade oder gesüsster Kakao</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>25gr</td>
             <td>Kartoffelstärke</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>50gr</td>
             <td>brauner Zucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>1/2 Päckchen</td>
             <td>Backpulver</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>1 Prise</td>
             <td>Salz</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>50ml</td>
             <td>Sonnenblumenöl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>85ml</td>
             <td>pflanzliche Milch</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>qs</td>
             <td>weisse Schokolade (vegan)</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>qs</td>
             <td>farbige Schokolinsen</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>qs</td>
             <td>Zuckeraugen</td>
           </tr>

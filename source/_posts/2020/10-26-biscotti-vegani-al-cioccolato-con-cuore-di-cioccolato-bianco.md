@@ -29,51 +29,51 @@ Se volete farli vegani e non trovate il cioccolato bianco vegano, potete usare q
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
-          <tr>          
+          <tr itemprop="recipeIngredient">          
             <td>140gr</td>
             <td>farina</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>20gr</td>
             <td>cacao amaro</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>25gr</td>
             <td>cioccolato grattugiato o cacao zuccherato</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>25gr</td>
             <td>fecola di patate</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>50gr</td>
             <td>zucchero di canna</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>1/2 bustina</td>
             <td>lievito per dolci</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>1 pizzico</td>
             <td>sale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>50ml</td>
             <td>olio di semi</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>85ml</td>
             <td>latte vegetale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>qb</td>
             <td>cioccolato bianco (vegano)</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>qb</td>
             <td>caramelle colorate al cioccolato tipo Smarties</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient"> 
             <td>qb</td>
             <td>occhietti in zucchero</td>
           </tr>
