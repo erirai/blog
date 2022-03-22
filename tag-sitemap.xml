@@ -3,8 +3,351 @@
 
 
     <url>
+        <loc>http://frangipani.raiano.ch/tags/pizza/</loc>
+        <lastmod>2022-03-22T13:40:59.383Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/gorgonzola/</loc>
+        <lastmod>2022-03-22T13:40:59.383Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/radicchio/</loc>
+        <lastmod>2022-03-22T13:40:59.383Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/pere/</loc>
+        <lastmod>2022-03-22T13:40:59.383Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/panificati/</loc>
+        <lastmod>2022-03-22T13:40:59.383Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/castagne/</loc>
+        <lastmod>2022-03-22T13:39:36.320Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/torta/</loc>
+        <lastmod>2022-03-22T13:39:36.320Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/glutenfree/</loc>
+        <lastmod>2022-03-22T13:39:36.320Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/dolci/</loc>
+        <lastmod>2022-03-22T13:39:36.320Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/autunno/</loc>
+        <lastmod>2022-03-22T13:38:39.565Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/estate/</loc>
+        <lastmod>2022-03-22T13:38:39.565Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/zucca/</loc>
+        <lastmod>2022-03-22T13:36:06.407Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/pasta-sfoglia/</loc>
+        <lastmod>2022-03-22T13:36:06.407Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/torta-salata/</loc>
+        <lastmod>2022-03-22T13:36:06.407Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/patate/</loc>
+        <lastmod>2022-03-22T13:36:06.407Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/vegan/</loc>
+        <lastmod>2022-03-22T13:36:06.407Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/halloween/</loc>
+        <lastmod>2022-03-22T13:36:06.407Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/crumble/</loc>
+        <lastmod>2022-03-22T13:35:08.736Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/prugne/</loc>
+        <lastmod>2022-03-22T13:35:08.736Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/festa-del-papa/</loc>
+        <lastmod>2022-03-22T13:34:17.596Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/cioccolato/</loc>
+        <lastmod>2022-03-22T13:34:17.596Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/festa-della-mamma/</loc>
+        <lastmod>2022-03-22T13:33:50.839Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/whoopies/</loc>
+        <lastmod>2022-03-22T13:32:36.512Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/ribes/</loc>
+        <lastmod>2022-03-22T13:32:36.512Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/peperoni/</loc>
+        <lastmod>2022-03-22T13:30:42.001Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/fragole/</loc>
+        <lastmod>2022-03-22T13:30:42.001Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/pasta/</loc>
+        <lastmod>2022-03-22T13:30:42.001Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/primi/</loc>
+        <lastmod>2022-03-22T13:30:42.001Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/strudel/</loc>
+        <lastmod>2022-03-22T13:29:35.969Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/mirtilli/</loc>
+        <lastmod>2022-03-22T13:29:35.969Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/zucchine/</loc>
+        <lastmod>2022-03-22T13:28:30.143Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/muffin/</loc>
+        <lastmod>2022-03-22T13:27:15.768Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/vaniglia/</loc>
+        <lastmod>2022-03-22T13:25:43.897Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/crema-pasticcera/</loc>
+        <lastmod>2022-03-22T13:25:43.897Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/mele/</loc>
+        <lastmod>2022-03-22T13:25:43.897Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/crostata/</loc>
+        <lastmod>2022-03-22T13:25:43.897Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/cupcakes/</loc>
+        <lastmod>2022-03-22T13:24:43.917Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://frangipani.raiano.ch/tags/inverno/</loc>
-        <lastmod>2022-03-19T22:22:05.080Z</lastmod>
+        <lastmod>2022-03-22T13:22:53.097Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/cobbler/</loc>
+        <lastmod>2022-03-22T13:22:53.097Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/piatto-unico/</loc>
+        <lastmod>2022-03-22T13:21:37.187Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/san-valentino/</loc>
+        <lastmod>2022-03-22T13:18:17.751Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/frittelle/</loc>
+        <lastmod>2022-03-22T13:15:43.309Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/carnevale/</loc>
+        <lastmod>2022-03-22T13:15:43.309Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/pasqua/</loc>
+        <lastmod>2022-03-22T13:13:01.456Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/biscotti/</loc>
+        <lastmod>2022-03-22T13:11:33.355Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/pane/</loc>
+        <lastmod>2022-03-22T13:10:29.139Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/primavera/</loc>
+        <lastmod>2022-03-22T13:09:37.985Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/aperitivo/</loc>
+        <lastmod>2022-03-22T12:59:20.905Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/gelato/</loc>
+        <lastmod>2022-03-22T12:56:53.490Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://frangipani.raiano.ch/tags/contorno/</loc>
+        <lastmod>2022-03-22T12:52:57.958Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -17,85 +360,8 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/tags/autunno/</loc>
-        <lastmod>2022-03-19T22:22:05.080Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/glutenfree/</loc>
-        <lastmod>2022-03-19T22:22:05.080Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://frangipani.raiano.ch/tags/natale/</loc>
         <lastmod>2022-03-19T22:22:05.080Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/pizza/</loc>
-        <lastmod>2022-03-19T21:57:53.199Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/gorgonzola/</loc>
-        <lastmod>2022-03-19T21:57:53.199Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/radicchio/</loc>
-        <lastmod>2022-03-19T21:57:53.199Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/pere/</loc>
-        <lastmod>2022-03-19T21:57:53.199Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/panificati/</loc>
-        <lastmod>2022-03-19T21:57:53.199Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/castagne/</loc>
-        <lastmod>2022-03-19T21:55:02.258Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/torta/</loc>
-        <lastmod>2022-03-19T21:55:02.258Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/dolci/</loc>
-        <lastmod>2022-03-19T21:55:02.258Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/estate/</loc>
-        <lastmod>2022-03-19T21:50:43.330Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -115,69 +381,6 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/tags/zucca/</loc>
-        <lastmod>2022-03-19T21:44:17.073Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/pasta-sfoglia/</loc>
-        <lastmod>2022-03-19T21:44:17.073Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/torta-salata/</loc>
-        <lastmod>2022-03-19T21:44:17.073Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/patate/</loc>
-        <lastmod>2022-03-19T21:44:17.073Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/vegan/</loc>
-        <lastmod>2022-03-19T21:44:17.073Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/halloween/</loc>
-        <lastmod>2022-03-19T21:44:17.073Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/crumble/</loc>
-        <lastmod>2022-03-19T21:40:32.967Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/prugne/</loc>
-        <lastmod>2022-03-19T21:40:32.967Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/festa-della-mamma/</loc>
-        <lastmod>2022-03-19T21:36:52.477Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://frangipani.raiano.ch/tags/broccoli/</loc>
         <lastmod>2022-03-19T21:34:16.017Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -187,62 +390,6 @@
     <url>
         <loc>http://frangipani.raiano.ch/tags/polpette/</loc>
         <lastmod>2022-03-19T21:34:16.017Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/whoopies/</loc>
-        <lastmod>2022-03-19T21:32:13.752Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/ribes/</loc>
-        <lastmod>2022-03-19T21:32:13.752Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/peperoni/</loc>
-        <lastmod>2022-03-19T21:27:43.269Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/fragole/</loc>
-        <lastmod>2022-03-19T21:27:43.269Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/pasta/</loc>
-        <lastmod>2022-03-19T21:27:43.269Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/primi/</loc>
-        <lastmod>2022-03-19T21:27:43.269Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/strudel/</loc>
-        <lastmod>2022-03-19T21:24:55.995Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/mirtilli/</loc>
-        <lastmod>2022-03-19T21:24:55.995Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -262,62 +409,6 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/tags/zucchine/</loc>
-        <lastmod>2022-03-19T21:19:59.345Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/muffin/</loc>
-        <lastmod>2022-03-19T21:16:53.538Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/cioccolato/</loc>
-        <lastmod>2022-03-19T21:16:53.538Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/vaniglia/</loc>
-        <lastmod>2022-03-19T21:13:40.969Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/crema-pasticcera/</loc>
-        <lastmod>2022-03-19T21:13:40.969Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/mele/</loc>
-        <lastmod>2022-03-19T21:13:40.969Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/crostata/</loc>
-        <lastmod>2022-03-19T21:13:40.969Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/cupcakes/</loc>
-        <lastmod>2022-03-19T21:05:32.220Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://frangipani.raiano.ch/tags/quinoa/</loc>
         <lastmod>2022-03-19T21:03:07.866Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -325,99 +416,8 @@
     </url>
 
     <url>
-        <loc>http://frangipani.raiano.ch/tags/biscotti/</loc>
-        <lastmod>2022-03-19T21:00:11.454Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://frangipani.raiano.ch/tags/noci/</loc>
         <lastmod>2022-03-19T21:00:11.454Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/festa-del-papa/</loc>
-        <lastmod>2022-03-19T16:37:03.783Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/cobbler/</loc>
-        <lastmod>2022-03-19T16:23:07.468Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/piatto-unico/</loc>
-        <lastmod>2022-03-19T16:20:39.666Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/san-valentino/</loc>
-        <lastmod>2022-03-19T16:16:42.180Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/frittelle/</loc>
-        <lastmod>2022-03-19T16:11:59.575Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/carnevale/</loc>
-        <lastmod>2022-03-19T16:11:59.575Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/pasqua/</loc>
-        <lastmod>2022-03-19T15:58:21.906Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/pane/</loc>
-        <lastmod>2022-03-19T15:54:29.596Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/primavera/</loc>
-        <lastmod>2022-03-19T15:52:31.972Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/aperitivo/</loc>
-        <lastmod>2022-03-19T15:27:36.572Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/gelato/</loc>
-        <lastmod>2022-03-19T15:25:03.663Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://frangipani.raiano.ch/tags/contorno/</loc>
-        <lastmod>2022-03-19T14:33:51.428Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
