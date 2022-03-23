@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title xml:lang="de">profumo di frangipani</title>
   
-  <link href="http://frangipani.raiano.ch/de/atom.xml" rel="self"/>
-  <link href="http://frangipani.raiano.ch/"/>
+  <link href="https://frangipani.raiano.ch/de/atom.xml" rel="self"/>
+  <link href="https://frangipani.raiano.ch/"/>
   <updated>2022-03-18T14:11:24.872Z</updated>
-  <id>http://frangipani.raiano.ch/</id>
+  <id>https://frangipani.raiano.ch/</id>
   
   <author>
     <name>Erica</name>
@@ -16,8 +16,8 @@
   
   <entry>
     <title xml:lang="de">Schoko-Schnitten mit Kaffee-Crème</title>
-    <link href="http://frangipani.raiano.ch/2022-03-15-quadrotti-al-cioccolato-con-crema-al-caffe-de/"/>
-    <id>http://frangipani.raiano.ch/2022-03-15-quadrotti-al-cioccolato-con-crema-al-caffe-de/</id>
+    <link href="https://frangipani.raiano.ch/2022-03-15-quadrotti-al-cioccolato-con-crema-al-caffe-de/"/>
+    <id>https://frangipani.raiano.ch/2022-03-15-quadrotti-al-cioccolato-con-crema-al-caffe-de/</id>
     <published>2022-03-14T23:00:00.000Z</published>
     <updated>2022-03-18T12:31:47.693Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2022-03-15-quadrotti-al-cioccolato-con-crema-al-caffe/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
@@ -179,21 +179,21 @@ Bewahrt sie gut verschlossen im Kühlschrank auf, bis sie gegessen werden...&lt;
     
     </summary>
     
-      <category term="Dolce" scheme="http://frangipani.raiano.ch/categories/Dolce/"/>
+      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
     
-      <category term="Piccola Pasticceria" scheme="http://frangipani.raiano.ch/categories/Dolce/Piccola-Pasticceria/"/>
+      <category term="Piccola Pasticceria" scheme="https://frangipani.raiano.ch/categories/Dolce/Piccola-Pasticceria/"/>
     
     
-      <category term="festa del papà" scheme="http://frangipani.raiano.ch/tags/festa-del-papa/"/>
+      <category term="festa del papà" scheme="https://frangipani.raiano.ch/tags/festa-del-papa/"/>
     
-      <category term="piccola pasticceria" scheme="http://frangipani.raiano.ch/tags/piccola-pasticceria/"/>
+      <category term="piccola pasticceria" scheme="https://frangipani.raiano.ch/tags/piccola-pasticceria/"/>
     
   </entry>
   
   <entry>
     <title xml:lang="de">Fasnachtschüechli</title>
-    <link href="http://frangipani.raiano.ch/2022-02-22-fasnachtschuechli-de/"/>
-    <id>http://frangipani.raiano.ch/2022-02-22-fasnachtschuechli-de/</id>
+    <link href="https://frangipani.raiano.ch/2022-02-22-fasnachtschuechli-de/"/>
+    <id>https://frangipani.raiano.ch/2022-02-22-fasnachtschuechli-de/</id>
     <published>2022-02-21T23:00:00.000Z</published>
     <updated>2022-03-18T12:33:50.330Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2022-02-22-fasnachtschuechli/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
@@ -317,21 +317,21 @@ Bringt das Öl in einem grossen Topf (oder Fritteuse) auf 180°C, nehmt dann jew
     
     </summary>
     
-      <category term="Dolce" scheme="http://frangipani.raiano.ch/categories/Dolce/"/>
+      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
     
-      <category term="Piccola Pasticceria" scheme="http://frangipani.raiano.ch/categories/Dolce/Piccola-Pasticceria/"/>
+      <category term="Piccola Pasticceria" scheme="https://frangipani.raiano.ch/categories/Dolce/Piccola-Pasticceria/"/>
     
     
-      <category term="carnevale" scheme="http://frangipani.raiano.ch/tags/carnevale/"/>
+      <category term="carnevale" scheme="https://frangipani.raiano.ch/tags/carnevale/"/>
     
-      <category term="frittelle" scheme="http://frangipani.raiano.ch/tags/frittelle/"/>
+      <category term="frittelle" scheme="https://frangipani.raiano.ch/tags/frittelle/"/>
     
   </entry>
   
   <entry>
     <title xml:lang="de">Gemüse-Crumble</title>
-    <link href="http://frangipani.raiano.ch/2022-02-16-crumble-di-verdure-de/"/>
-    <id>http://frangipani.raiano.ch/2022-02-16-crumble-di-verdure-de/</id>
+    <link href="https://frangipani.raiano.ch/2022-02-16-crumble-di-verdure-de/"/>
+    <id>https://frangipani.raiano.ch/2022-02-16-crumble-di-verdure-de/</id>
     <published>2022-02-15T23:00:00.000Z</published>
     <updated>2022-03-18T12:41:29.096Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2022-02-16-crumble-di-verdure/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
@@ -487,23 +487,23 @@ Während das Gemüse gart, den Crumble zubereiten: Mehl, Parmesan, Salz, getrock
     
     </summary>
     
-      <category term="Salato" scheme="http://frangipani.raiano.ch/categories/Salato/"/>
+      <category term="Salato" scheme="https://frangipani.raiano.ch/categories/Salato/"/>
     
-      <category term="Secondi Piatti e Contorni" scheme="http://frangipani.raiano.ch/categories/Salato/Secondi-Piatti-e-Contorni/"/>
+      <category term="Secondi Piatti e Contorni" scheme="https://frangipani.raiano.ch/categories/Salato/Secondi-Piatti-e-Contorni/"/>
     
     
-      <category term="contorno" scheme="http://frangipani.raiano.ch/tags/contorno/"/>
+      <category term="contorno" scheme="https://frangipani.raiano.ch/tags/contorno/"/>
     
-      <category term="autunno" scheme="http://frangipani.raiano.ch/tags/autunno/"/>
+      <category term="autunno" scheme="https://frangipani.raiano.ch/tags/autunno/"/>
     
-      <category term="inverno" scheme="http://frangipani.raiano.ch/tags/inverno/"/>
+      <category term="inverno" scheme="https://frangipani.raiano.ch/tags/inverno/"/>
     
   </entry>
   
   <entry>
     <title xml:lang="de">Schokolade-Orangen-Tarte</title>
-    <link href="http://frangipani.raiano.ch/2022-02-02-tarte-al-cioccolato-e-arancia-de/"/>
-    <id>http://frangipani.raiano.ch/2022-02-02-tarte-al-cioccolato-e-arancia-de/</id>
+    <link href="https://frangipani.raiano.ch/2022-02-02-tarte-al-cioccolato-e-arancia-de/"/>
+    <id>https://frangipani.raiano.ch/2022-02-02-tarte-al-cioccolato-e-arancia-de/</id>
     <published>2022-02-01T23:00:00.000Z</published>
     <updated>2022-03-18T12:38:55.104Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2022-02-02-tarte-al-cioccolato-e-arancia/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
@@ -687,23 +687,23 @@ Den übrig gebliebenen Teig auf eine Dicke von 3mm ausrollen und Kekse in Form v
     
     </summary>
     
-      <category term="Dolce" scheme="http://frangipani.raiano.ch/categories/Dolce/"/>
+      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
     
-      <category term="Crostate, Tartes..." scheme="http://frangipani.raiano.ch/categories/Dolce/Crostate-Tartes/"/>
+      <category term="Crostate, Tartes..." scheme="https://frangipani.raiano.ch/categories/Dolce/Crostate-Tartes/"/>
     
     
-      <category term="crostata" scheme="http://frangipani.raiano.ch/tags/crostata/"/>
+      <category term="crostata" scheme="https://frangipani.raiano.ch/tags/crostata/"/>
     
-      <category term="san valentino" scheme="http://frangipani.raiano.ch/tags/san-valentino/"/>
+      <category term="san valentino" scheme="https://frangipani.raiano.ch/tags/san-valentino/"/>
     
-      <category term="inverno" scheme="http://frangipani.raiano.ch/tags/inverno/"/>
+      <category term="inverno" scheme="https://frangipani.raiano.ch/tags/inverno/"/>
     
   </entry>
   
   <entry>
     <title xml:lang="de">Spaghetti mit Rotkohl-Pesto</title>
-    <link href="http://frangipani.raiano.ch/2022-01-18-spaghetti-al-pesto-di-cavolo-rosso-de/"/>
-    <id>http://frangipani.raiano.ch/2022-01-18-spaghetti-al-pesto-di-cavolo-rosso-de/</id>
+    <link href="https://frangipani.raiano.ch/2022-01-18-spaghetti-al-pesto-di-cavolo-rosso-de/"/>
+    <id>https://frangipani.raiano.ch/2022-01-18-spaghetti-al-pesto-di-cavolo-rosso-de/</id>
     <published>2022-01-17T23:00:00.000Z</published>
     <updated>2022-03-18T12:41:12.309Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2022-01-18-spaghetti-al-pesto-di-cavolo-rosso/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
@@ -811,23 +811,23 @@ Ich habe mich entschieden, ein farbiges Rezept zuzubereiten, denn der Winter bra
     
     </summary>
     
-      <category term="Salato" scheme="http://frangipani.raiano.ch/categories/Salato/"/>
+      <category term="Salato" scheme="https://frangipani.raiano.ch/categories/Salato/"/>
     
-      <category term="Primi Piatti" scheme="http://frangipani.raiano.ch/categories/Salato/Primi-Piatti/"/>
+      <category term="Primi Piatti" scheme="https://frangipani.raiano.ch/categories/Salato/Primi-Piatti/"/>
     
     
-      <category term="vegan" scheme="http://frangipani.raiano.ch/tags/vegan/"/>
+      <category term="vegan" scheme="https://frangipani.raiano.ch/tags/vegan/"/>
     
-      <category term="autunno" scheme="http://frangipani.raiano.ch/tags/autunno/"/>
+      <category term="autunno" scheme="https://frangipani.raiano.ch/tags/autunno/"/>
     
-      <category term="inverno" scheme="http://frangipani.raiano.ch/tags/inverno/"/>
+      <category term="inverno" scheme="https://frangipani.raiano.ch/tags/inverno/"/>
     
   </entry>
   
   <entry>
     <title xml:lang="de">Schoko-Dreikönigskuchen</title>
-    <link href="http://frangipani.raiano.ch/2022-01-04-dreikonigskuchen-al-cioccolato-de/"/>
-    <id>http://frangipani.raiano.ch/2022-01-04-dreikonigskuchen-al-cioccolato-de/</id>
+    <link href="https://frangipani.raiano.ch/2022-01-04-dreikonigskuchen-al-cioccolato-de/"/>
+    <id>https://frangipani.raiano.ch/2022-01-04-dreikonigskuchen-al-cioccolato-de/</id>
     <published>2022-01-03T23:00:00.000Z</published>
     <updated>2022-03-18T12:44:16.755Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2022-01-04-dreikonigskuchen-al-cioccolato/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
@@ -963,21 +963,21 @@ Erwartungen? Nö! Inzwischen wissen wir, dass sich die Probleme mit dem neuen Ja
     
     </summary>
     
-      <category term="Dolce" scheme="http://frangipani.raiano.ch/categories/Dolce/"/>
+      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
     
-      <category term="Panificati" scheme="http://frangipani.raiano.ch/categories/Dolce/Panificati/"/>
+      <category term="Panificati" scheme="https://frangipani.raiano.ch/categories/Dolce/Panificati/"/>
     
     
-      <category term="natale" scheme="http://frangipani.raiano.ch/tags/natale/"/>
+      <category term="natale" scheme="https://frangipani.raiano.ch/tags/natale/"/>
     
-      <category term="brioche" scheme="http://frangipani.raiano.ch/tags/brioche/"/>
+      <category term="brioche" scheme="https://frangipani.raiano.ch/tags/brioche/"/>
     
   </entry>
   
   <entry>
     <title xml:lang="de">Brotkranz mit Leinsamen</title>
-    <link href="http://frangipani.raiano.ch/2021-12-15-ghirlanda-di-pane-con-semi-di-lino-de/"/>
-    <id>http://frangipani.raiano.ch/2021-12-15-ghirlanda-di-pane-con-semi-di-lino-de/</id>
+    <link href="https://frangipani.raiano.ch/2021-12-15-ghirlanda-di-pane-con-semi-di-lino-de/"/>
+    <id>https://frangipani.raiano.ch/2021-12-15-ghirlanda-di-pane-con-semi-di-lino-de/</id>
     <published>2021-12-14T23:00:00.000Z</published>
     <updated>2022-03-18T13:42:05.552Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2021-12-15-ghirlanda-di-pane-con-semi-di-lino/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
@@ -1097,21 +1097,21 @@ Alles in allem war es jedoch kein schlechtes Jahr. Uns ging es gut, uns geht es 
     
     </summary>
     
-      <category term="Salato" scheme="http://frangipani.raiano.ch/categories/Salato/"/>
+      <category term="Salato" scheme="https://frangipani.raiano.ch/categories/Salato/"/>
     
-      <category term="Panificati" scheme="http://frangipani.raiano.ch/categories/Salato/Panificati/"/>
+      <category term="Panificati" scheme="https://frangipani.raiano.ch/categories/Salato/Panificati/"/>
     
     
-      <category term="natale" scheme="http://frangipani.raiano.ch/tags/natale/"/>
+      <category term="natale" scheme="https://frangipani.raiano.ch/tags/natale/"/>
     
-      <category term="pane" scheme="http://frangipani.raiano.ch/tags/pane/"/>
+      <category term="pane" scheme="https://frangipani.raiano.ch/tags/pane/"/>
     
   </entry>
   
   <entry>
     <title xml:lang="de">Lebkuchen-Orangen-Traumstücke</title>
-    <link href="http://frangipani.raiano.ch/2021-12-07-lebkuchen-traumstucke-de/"/>
-    <id>http://frangipani.raiano.ch/2021-12-07-lebkuchen-traumstucke-de/</id>
+    <link href="https://frangipani.raiano.ch/2021-12-07-lebkuchen-traumstucke-de/"/>
+    <id>https://frangipani.raiano.ch/2021-12-07-lebkuchen-traumstucke-de/</id>
     <published>2021-12-06T23:00:00.000Z</published>
     <updated>2022-03-18T13:46:49.310Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2021-12-07-lebkuchen-traumstucke/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
@@ -1246,21 +1246,21 @@ Das Rezept für diese Kekse wurde geboren, um Eigelbe zu verwerten. Zum Glück, 
     
     </summary>
     
-      <category term="Dolce" scheme="http://frangipani.raiano.ch/categories/Dolce/"/>
+      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
     
-      <category term="Biscotti" scheme="http://frangipani.raiano.ch/categories/Dolce/Biscotti/"/>
+      <category term="Biscotti" scheme="https://frangipani.raiano.ch/categories/Dolce/Biscotti/"/>
     
     
-      <category term="biscotti" scheme="http://frangipani.raiano.ch/tags/biscotti/"/>
+      <category term="biscotti" scheme="https://frangipani.raiano.ch/tags/biscotti/"/>
     
-      <category term="natale" scheme="http://frangipani.raiano.ch/tags/natale/"/>
+      <category term="natale" scheme="https://frangipani.raiano.ch/tags/natale/"/>
     
   </entry>
   
   <entry>
     <title xml:lang="de">Ofen-Struffoli (Italienische Honigbällchen)</title>
-    <link href="http://frangipani.raiano.ch/2021-12-02-struffoli-al-forno-de/"/>
-    <id>http://frangipani.raiano.ch/2021-12-02-struffoli-al-forno-de/</id>
+    <link href="https://frangipani.raiano.ch/2021-12-02-struffoli-al-forno-de/"/>
+    <id>https://frangipani.raiano.ch/2021-12-02-struffoli-al-forno-de/</id>
     <published>2021-12-01T23:00:00.000Z</published>
     <updated>2022-03-18T13:46:07.521Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2021-12-02-struffoli-al-forno/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
@@ -1419,21 +1419,21 @@ Luftdicht verschlossen halten sie sich sehr gut einige Tage.&lt;/p&gt;
     
     </summary>
     
-      <category term="Dolce" scheme="http://frangipani.raiano.ch/categories/Dolce/"/>
+      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
     
-      <category term="Piccola Pasticceria" scheme="http://frangipani.raiano.ch/categories/Dolce/Piccola-Pasticceria/"/>
+      <category term="Piccola Pasticceria" scheme="https://frangipani.raiano.ch/categories/Dolce/Piccola-Pasticceria/"/>
     
     
-      <category term="biscotti" scheme="http://frangipani.raiano.ch/tags/biscotti/"/>
+      <category term="biscotti" scheme="https://frangipani.raiano.ch/tags/biscotti/"/>
     
-      <category term="natale" scheme="http://frangipani.raiano.ch/tags/natale/"/>
+      <category term="natale" scheme="https://frangipani.raiano.ch/tags/natale/"/>
     
   </entry>
   
   <entry>
     <title xml:lang="de">Kartoffel-Lauch-Gratin</title>
-    <link href="http://frangipani.raiano.ch/2021-11-16-gratin-di-patate-e-porri-de/"/>
-    <id>http://frangipani.raiano.ch/2021-11-16-gratin-di-patate-e-porri-de/</id>
+    <link href="https://frangipani.raiano.ch/2021-11-16-gratin-di-patate-e-porri-de/"/>
+    <id>https://frangipani.raiano.ch/2021-11-16-gratin-di-patate-e-porri-de/</id>
     <published>2021-11-15T23:00:00.000Z</published>
     <updated>2022-03-18T13:48:38.119Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2021-11-16-gratin-di-patate-e-porri/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
@@ -1549,23 +1549,23 @@ Vor einigen Jahren habe ich diesen &lt;a href=&quot;https://frangipani.raiano.ch
     
     </summary>
     
-      <category term="Salato" scheme="http://frangipani.raiano.ch/categories/Salato/"/>
+      <category term="Salato" scheme="https://frangipani.raiano.ch/categories/Salato/"/>
     
-      <category term="Secondi Piatti e Contorni" scheme="http://frangipani.raiano.ch/categories/Salato/Secondi-Piatti-e-Contorni/"/>
+      <category term="Secondi Piatti e Contorni" scheme="https://frangipani.raiano.ch/categories/Salato/Secondi-Piatti-e-Contorni/"/>
     
     
-      <category term="contorno" scheme="http://frangipani.raiano.ch/tags/contorno/"/>
+      <category term="contorno" scheme="https://frangipani.raiano.ch/tags/contorno/"/>
     
-      <category term="autunno" scheme="http://frangipani.raiano.ch/tags/autunno/"/>
+      <category term="autunno" scheme="https://frangipani.raiano.ch/tags/autunno/"/>
     
-      <category term="inverno" scheme="http://frangipani.raiano.ch/tags/inverno/"/>
+      <category term="inverno" scheme="https://frangipani.raiano.ch/tags/inverno/"/>
     
   </entry>
   
   <entry>
     <title xml:lang="de">Granatapfel-Joghurtkuchen</title>
-    <link href="http://frangipani.raiano.ch/2021-11-02-torta-allo-yogurt-e-melagrana-de/"/>
-    <id>http://frangipani.raiano.ch/2021-11-02-torta-allo-yogurt-e-melagrana-de/</id>
+    <link href="https://frangipani.raiano.ch/2021-11-02-torta-allo-yogurt-e-melagrana-de/"/>
+    <id>https://frangipani.raiano.ch/2021-11-02-torta-allo-yogurt-e-melagrana-de/</id>
     <published>2021-11-01T23:00:00.000Z</published>
     <updated>2022-03-18T14:10:21.311Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2021-11-02-torta-allo-yogurt-e-melagrana/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
@@ -1688,23 +1688,23 @@ Als Inspiration habe ich das Rezept von meinem &lt;a href=&quot;https://frangipa
     
     </summary>
     
-      <category term="Dolce" scheme="http://frangipani.raiano.ch/categories/Dolce/"/>
+      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
     
-      <category term="Torte" scheme="http://frangipani.raiano.ch/categories/Dolce/Torte/"/>
+      <category term="Torte" scheme="https://frangipani.raiano.ch/categories/Dolce/Torte/"/>
     
     
-      <category term="dolci" scheme="http://frangipani.raiano.ch/tags/dolci/"/>
+      <category term="dolci" scheme="https://frangipani.raiano.ch/tags/dolci/"/>
     
-      <category term="autunno" scheme="http://frangipani.raiano.ch/tags/autunno/"/>
+      <category term="autunno" scheme="https://frangipani.raiano.ch/tags/autunno/"/>
     
-      <category term="melagrana" scheme="http://frangipani.raiano.ch/tags/melagrana/"/>
+      <category term="melagrana" scheme="https://frangipani.raiano.ch/tags/melagrana/"/>
     
   </entry>
   
   <entry>
     <title xml:lang="de">Birnen-Schokolade-Mürbeteigtarte</title>
-    <link href="http://frangipani.raiano.ch/2021-10-18-crostata-di-pere-e-cioccolato-de/"/>
-    <id>http://frangipani.raiano.ch/2021-10-18-crostata-di-pere-e-cioccolato-de/</id>
+    <link href="https://frangipani.raiano.ch/2021-10-18-crostata-di-pere-e-cioccolato-de/"/>
+    <id>https://frangipani.raiano.ch/2021-10-18-crostata-di-pere-e-cioccolato-de/</id>
     <published>2021-10-17T22:00:00.000Z</published>
     <updated>2022-03-18T14:10:27.679Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2021-10-18-crostata-di-pere-e-cioccolato/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
@@ -1880,27 +1880,27 @@ In der Zwischenzeit den Guss zubereiten: Milch, Ei und Eiweiss, Zucker, Mehl, Va
     
     </summary>
     
-      <category term="Dolce" scheme="http://frangipani.raiano.ch/categories/Dolce/"/>
+      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
     
-      <category term="Crostate, Tartes..." scheme="http://frangipani.raiano.ch/categories/Dolce/Crostate-Tartes/"/>
+      <category term="Crostate, Tartes..." scheme="https://frangipani.raiano.ch/categories/Dolce/Crostate-Tartes/"/>
     
     
-      <category term="dolci" scheme="http://frangipani.raiano.ch/tags/dolci/"/>
+      <category term="dolci" scheme="https://frangipani.raiano.ch/tags/dolci/"/>
     
-      <category term="crostata" scheme="http://frangipani.raiano.ch/tags/crostata/"/>
+      <category term="crostata" scheme="https://frangipani.raiano.ch/tags/crostata/"/>
     
-      <category term="autunno" scheme="http://frangipani.raiano.ch/tags/autunno/"/>
+      <category term="autunno" scheme="https://frangipani.raiano.ch/tags/autunno/"/>
     
-      <category term="pere" scheme="http://frangipani.raiano.ch/tags/pere/"/>
+      <category term="pere" scheme="https://frangipani.raiano.ch/tags/pere/"/>
     
-      <category term="inverno" scheme="http://frangipani.raiano.ch/tags/inverno/"/>
+      <category term="inverno" scheme="https://frangipani.raiano.ch/tags/inverno/"/>
     
   </entry>
   
   <entry>
     <title xml:lang="de">Kürbis-Kartoffelrösti mit Pilz-Rahmsauce</title>
-    <link href="http://frangipani.raiano.ch/2021-10-13-rosti-di-zucca-e-patate-con-funghi-e-panna-de/"/>
-    <id>http://frangipani.raiano.ch/2021-10-13-rosti-di-zucca-e-patate-con-funghi-e-panna-de/</id>
+    <link href="https://frangipani.raiano.ch/2021-10-13-rosti-di-zucca-e-patate-con-funghi-e-panna-de/"/>
+    <id>https://frangipani.raiano.ch/2021-10-13-rosti-di-zucca-e-patate-con-funghi-e-panna-de/</id>
     <published>2021-10-12T22:00:00.000Z</published>
     <updated>2022-03-18T13:54:00.141Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2021-10-13-rosti-di-zucca-e-patate-con-funghi-e-panna/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
@@ -2026,27 +2026,27 @@ Habt ihr schon einmal Rösti gegessen? Der Klassiker, wäre die nur mit Kartoffe
     
     </summary>
     
-      <category term="Salato" scheme="http://frangipani.raiano.ch/categories/Salato/"/>
+      <category term="Salato" scheme="https://frangipani.raiano.ch/categories/Salato/"/>
     
-      <category term="Piatti Unici" scheme="http://frangipani.raiano.ch/categories/Salato/Piatti-Unici/"/>
+      <category term="Piatti Unici" scheme="https://frangipani.raiano.ch/categories/Salato/Piatti-Unici/"/>
     
     
-      <category term="vegan" scheme="http://frangipani.raiano.ch/tags/vegan/"/>
+      <category term="vegan" scheme="https://frangipani.raiano.ch/tags/vegan/"/>
     
-      <category term="primi" scheme="http://frangipani.raiano.ch/tags/primi/"/>
+      <category term="primi" scheme="https://frangipani.raiano.ch/tags/primi/"/>
     
-      <category term="piatto unico" scheme="http://frangipani.raiano.ch/tags/piatto-unico/"/>
+      <category term="piatto unico" scheme="https://frangipani.raiano.ch/tags/piatto-unico/"/>
     
-      <category term="autunno" scheme="http://frangipani.raiano.ch/tags/autunno/"/>
+      <category term="autunno" scheme="https://frangipani.raiano.ch/tags/autunno/"/>
     
-      <category term="inverno" scheme="http://frangipani.raiano.ch/tags/inverno/"/>
+      <category term="inverno" scheme="https://frangipani.raiano.ch/tags/inverno/"/>
     
   </entry>
   
   <entry>
     <title xml:lang="de">Mürbeteig-Kekse mit Kakao und Haselnüssen</title>
-    <link href="http://frangipani.raiano.ch/2021-10-01-biscotti-di-pasta-frolla-al-cacao-e-alle-nocciole-de/"/>
-    <id>http://frangipani.raiano.ch/2021-10-01-biscotti-di-pasta-frolla-al-cacao-e-alle-nocciole-de/</id>
+    <link href="https://frangipani.raiano.ch/2021-10-01-biscotti-di-pasta-frolla-al-cacao-e-alle-nocciole-de/"/>
+    <id>https://frangipani.raiano.ch/2021-10-01-biscotti-di-pasta-frolla-al-cacao-e-alle-nocciole-de/</id>
     <published>2021-09-30T22:00:00.000Z</published>
     <updated>2022-03-18T14:10:35.129Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2021-10-01-biscotti-di-pasta-frolla-al-cacao-e-alle-nocciole/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
@@ -2225,23 +2225,23 @@ In einem luftdichten Behälter aufbewahren.&lt;/p&gt;
     
     </summary>
     
-      <category term="Dolce" scheme="http://frangipani.raiano.ch/categories/Dolce/"/>
+      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
     
-      <category term="Biscotti" scheme="http://frangipani.raiano.ch/categories/Dolce/Biscotti/"/>
+      <category term="Biscotti" scheme="https://frangipani.raiano.ch/categories/Dolce/Biscotti/"/>
     
     
-      <category term="dolci" scheme="http://frangipani.raiano.ch/tags/dolci/"/>
+      <category term="dolci" scheme="https://frangipani.raiano.ch/tags/dolci/"/>
     
-      <category term="biscotti" scheme="http://frangipani.raiano.ch/tags/biscotti/"/>
+      <category term="biscotti" scheme="https://frangipani.raiano.ch/tags/biscotti/"/>
     
-      <category term="autunno" scheme="http://frangipani.raiano.ch/tags/autunno/"/>
+      <category term="autunno" scheme="https://frangipani.raiano.ch/tags/autunno/"/>
     
   </entry>
   
   <entry>
     <title xml:lang="de">Vollkorn-Beeren-Küchlein</title>
-    <link href="http://frangipani.raiano.ch/2021-09-16-mini-plumcake-integrali-con-frutti-di-bosco-de/"/>
-    <id>http://frangipani.raiano.ch/2021-09-16-mini-plumcake-integrali-con-frutti-di-bosco-de/</id>
+    <link href="https://frangipani.raiano.ch/2021-09-16-mini-plumcake-integrali-con-frutti-di-bosco-de/"/>
+    <id>https://frangipani.raiano.ch/2021-09-16-mini-plumcake-integrali-con-frutti-di-bosco-de/</id>
     <published>2021-09-15T22:00:00.000Z</published>
     <updated>2022-03-18T14:10:39.207Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2021-09-16-mini-plumcake-integrali-con-frutti-di-bosco/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
@@ -2368,25 +2368,25 @@ Die Vertiefungen der Backform bis zur Hälfte füllen, die Beeren darin verteile
     
     </summary>
     
-      <category term="Dolce" scheme="http://frangipani.raiano.ch/categories/Dolce/"/>
+      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
     
-      <category term="Muffin, Cupcakes, Cake Pops..." scheme="http://frangipani.raiano.ch/categories/Dolce/Muffin-Cupcakes-Cake-Pops/"/>
+      <category term="Muffin, Cupcakes, Cake Pops..." scheme="https://frangipani.raiano.ch/categories/Dolce/Muffin-Cupcakes-Cake-Pops/"/>
     
     
-      <category term="dolci" scheme="http://frangipani.raiano.ch/tags/dolci/"/>
+      <category term="dolci" scheme="https://frangipani.raiano.ch/tags/dolci/"/>
     
-      <category term="muffin" scheme="http://frangipani.raiano.ch/tags/muffin/"/>
+      <category term="muffin" scheme="https://frangipani.raiano.ch/tags/muffin/"/>
     
-      <category term="estate" scheme="http://frangipani.raiano.ch/tags/estate/"/>
+      <category term="estate" scheme="https://frangipani.raiano.ch/tags/estate/"/>
     
-      <category term="autunno" scheme="http://frangipani.raiano.ch/tags/autunno/"/>
+      <category term="autunno" scheme="https://frangipani.raiano.ch/tags/autunno/"/>
     
   </entry>
   
   <entry>
     <title xml:lang="de">Zwetschgen-Streuselkuchen mit Zimtcrème</title>
-    <link href="http://frangipani.raiano.ch/2021-09-01-sbriciolata-con-prugne-e-crema-alla-cannella-de/"/>
-    <id>http://frangipani.raiano.ch/2021-09-01-sbriciolata-con-prugne-e-crema-alla-cannella-de/</id>
+    <link href="https://frangipani.raiano.ch/2021-09-01-sbriciolata-con-prugne-e-crema-alla-cannella-de/"/>
+    <id>https://frangipani.raiano.ch/2021-09-01-sbriciolata-con-prugne-e-crema-alla-cannella-de/</id>
     <published>2021-08-31T22:00:00.000Z</published>
     <updated>2022-03-18T14:10:43.282Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2021-09-01-sbriciolata-con-prugne-e-crema-alla-cannella/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
@@ -2574,25 +2574,25 @@ Den Streuselkuchen im vorgeheizten Ofen bei 180°C Ober- und Unterhitze für 40m
     
     </summary>
     
-      <category term="Dolce" scheme="http://frangipani.raiano.ch/categories/Dolce/"/>
+      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
     
-      <category term="Crostate, Tartes..." scheme="http://frangipani.raiano.ch/categories/Dolce/Crostate-Tartes/"/>
+      <category term="Crostate, Tartes..." scheme="https://frangipani.raiano.ch/categories/Dolce/Crostate-Tartes/"/>
     
     
-      <category term="dolci" scheme="http://frangipani.raiano.ch/tags/dolci/"/>
+      <category term="dolci" scheme="https://frangipani.raiano.ch/tags/dolci/"/>
     
-      <category term="torta" scheme="http://frangipani.raiano.ch/tags/torta/"/>
+      <category term="torta" scheme="https://frangipani.raiano.ch/tags/torta/"/>
     
-      <category term="estate" scheme="http://frangipani.raiano.ch/tags/estate/"/>
+      <category term="estate" scheme="https://frangipani.raiano.ch/tags/estate/"/>
     
-      <category term="autunno" scheme="http://frangipani.raiano.ch/tags/autunno/"/>
+      <category term="autunno" scheme="https://frangipani.raiano.ch/tags/autunno/"/>
     
   </entry>
   
   <entry>
     <title xml:lang="de">Pastasalat mit gegrilltem mediterranem Gemüse</title>
-    <link href="http://frangipani.raiano.ch/2021-07-13-insalata-di-pasta-con-verdure-mediterranee-grigliate-de/"/>
-    <id>http://frangipani.raiano.ch/2021-07-13-insalata-di-pasta-con-verdure-mediterranee-grigliate-de/</id>
+    <link href="https://frangipani.raiano.ch/2021-07-13-insalata-di-pasta-con-verdure-mediterranee-grigliate-de/"/>
+    <id>https://frangipani.raiano.ch/2021-07-13-insalata-di-pasta-con-verdure-mediterranee-grigliate-de/</id>
     <published>2021-07-12T22:00:00.000Z</published>
     <updated>2022-03-18T14:01:16.262Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2021-07-13-insalata-di-pasta-con-verdure-mediterranee-grigliate/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
@@ -2703,25 +2703,25 @@ Ich habe Paprika, Zucchini, Auberginen und Tomaten verwendet, weil diese für mi
     
     </summary>
     
-      <category term="Salato" scheme="http://frangipani.raiano.ch/categories/Salato/"/>
+      <category term="Salato" scheme="https://frangipani.raiano.ch/categories/Salato/"/>
     
-      <category term="Primi Piatti" scheme="http://frangipani.raiano.ch/categories/Salato/Primi-Piatti/"/>
+      <category term="Primi Piatti" scheme="https://frangipani.raiano.ch/categories/Salato/Primi-Piatti/"/>
     
     
-      <category term="vegan" scheme="http://frangipani.raiano.ch/tags/vegan/"/>
+      <category term="vegan" scheme="https://frangipani.raiano.ch/tags/vegan/"/>
     
-      <category term="primi" scheme="http://frangipani.raiano.ch/tags/primi/"/>
+      <category term="primi" scheme="https://frangipani.raiano.ch/tags/primi/"/>
     
-      <category term="pasta" scheme="http://frangipani.raiano.ch/tags/pasta/"/>
+      <category term="pasta" scheme="https://frangipani.raiano.ch/tags/pasta/"/>
     
-      <category term="estate" scheme="http://frangipani.raiano.ch/tags/estate/"/>
+      <category term="estate" scheme="https://frangipani.raiano.ch/tags/estate/"/>
     
   </entry>
   
   <entry>
     <title xml:lang="de">fluffige Pistazien-Himbeer-Schnecken</title>
-    <link href="http://frangipani.raiano.ch/2021-07-06-girelle-soffici-ai-pistacchi-e-lamponi-de/"/>
-    <id>http://frangipani.raiano.ch/2021-07-06-girelle-soffici-ai-pistacchi-e-lamponi-de/</id>
+    <link href="https://frangipani.raiano.ch/2021-07-06-girelle-soffici-ai-pistacchi-e-lamponi-de/"/>
+    <id>https://frangipani.raiano.ch/2021-07-06-girelle-soffici-ai-pistacchi-e-lamponi-de/</id>
     <published>2021-07-05T22:00:00.000Z</published>
     <updated>2022-03-18T14:10:54.112Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2021-07-06-girelle-soffici-ai-pistacchi-e-lamponi/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
@@ -2883,27 +2883,27 @@ Mit Hilfe von einem Wallholz, den Teig zu einem Rechteck auswallen. Darauf die P
     
     </summary>
     
-      <category term="Dolce" scheme="http://frangipani.raiano.ch/categories/Dolce/"/>
+      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
     
-      <category term="Panificati" scheme="http://frangipani.raiano.ch/categories/Dolce/Panificati/"/>
+      <category term="Panificati" scheme="https://frangipani.raiano.ch/categories/Dolce/Panificati/"/>
     
     
-      <category term="lamponi" scheme="http://frangipani.raiano.ch/tags/lamponi/"/>
+      <category term="lamponi" scheme="https://frangipani.raiano.ch/tags/lamponi/"/>
     
-      <category term="panificati" scheme="http://frangipani.raiano.ch/tags/panificati/"/>
+      <category term="panificati" scheme="https://frangipani.raiano.ch/tags/panificati/"/>
     
-      <category term="colazione" scheme="http://frangipani.raiano.ch/tags/colazione/"/>
+      <category term="colazione" scheme="https://frangipani.raiano.ch/tags/colazione/"/>
     
-      <category term="pistacchi" scheme="http://frangipani.raiano.ch/tags/pistacchi/"/>
+      <category term="pistacchi" scheme="https://frangipani.raiano.ch/tags/pistacchi/"/>
     
-      <category term="estate" scheme="http://frangipani.raiano.ch/tags/estate/"/>
+      <category term="estate" scheme="https://frangipani.raiano.ch/tags/estate/"/>
     
   </entry>
   
   <entry>
     <title xml:lang="de">Blumenkohl-Salat</title>
-    <link href="http://frangipani.raiano.ch/2021-06-29-insalata-di-cavolfiore-de/"/>
-    <id>http://frangipani.raiano.ch/2021-06-29-insalata-di-cavolfiore-de/</id>
+    <link href="https://frangipani.raiano.ch/2021-06-29-insalata-di-cavolfiore-de/"/>
+    <id>https://frangipani.raiano.ch/2021-06-29-insalata-di-cavolfiore-de/</id>
     <published>2021-06-28T22:00:00.000Z</published>
     <updated>2022-03-18T14:11:18.015Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2021-06-29-insalata-di-cavolfiore/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
@@ -2986,25 +2986,25 @@ Sobald er ausgekühlt ist, den Blumenkohl mit Zitronensaft, Knoblauchpulver, Oli
     
     </summary>
     
-      <category term="Salato" scheme="http://frangipani.raiano.ch/categories/Salato/"/>
+      <category term="Salato" scheme="https://frangipani.raiano.ch/categories/Salato/"/>
     
-      <category term="Secondi Piatti e Contorni" scheme="http://frangipani.raiano.ch/categories/Salato/Secondi-Piatti-e-Contorni/"/>
+      <category term="Secondi Piatti e Contorni" scheme="https://frangipani.raiano.ch/categories/Salato/Secondi-Piatti-e-Contorni/"/>
     
     
-      <category term="vegan" scheme="http://frangipani.raiano.ch/tags/vegan/"/>
+      <category term="vegan" scheme="https://frangipani.raiano.ch/tags/vegan/"/>
     
-      <category term="contorno" scheme="http://frangipani.raiano.ch/tags/contorno/"/>
+      <category term="contorno" scheme="https://frangipani.raiano.ch/tags/contorno/"/>
     
-      <category term="estate" scheme="http://frangipani.raiano.ch/tags/estate/"/>
+      <category term="estate" scheme="https://frangipani.raiano.ch/tags/estate/"/>
     
-      <category term="autunno" scheme="http://frangipani.raiano.ch/tags/autunno/"/>
+      <category term="autunno" scheme="https://frangipani.raiano.ch/tags/autunno/"/>
     
   </entry>
   
   <entry>
     <title xml:lang="de">vegane Zitronenmelisse-Erdbeer-Muffins</title>
-    <link href="http://frangipani.raiano.ch/2021-06-16-muffin-vegani-alla-melissa-e-fragole-de/"/>
-    <id>http://frangipani.raiano.ch/2021-06-16-muffin-vegani-alla-melissa-e-fragole-de/</id>
+    <link href="https://frangipani.raiano.ch/2021-06-16-muffin-vegani-alla-melissa-e-fragole-de/"/>
+    <id>https://frangipani.raiano.ch/2021-06-16-muffin-vegani-alla-melissa-e-fragole-de/</id>
     <published>2021-06-15T22:00:00.000Z</published>
     <updated>2022-03-18T14:11:24.872Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2021-06-16-muffin-vegani-alla-melissa-e-fragole/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
@@ -3129,22 +3129,22 @@ Die Muffinförmchen oder direkt die gefettete und bemehlte Muffinform zu 3/4 fü
     
     </summary>
     
-      <category term="Dolce" scheme="http://frangipani.raiano.ch/categories/Dolce/"/>
+      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
     
-      <category term="Muffin, Cupcakes, Cake Pops..." scheme="http://frangipani.raiano.ch/categories/Dolce/Muffin-Cupcakes-Cake-Pops/"/>
+      <category term="Muffin, Cupcakes, Cake Pops..." scheme="https://frangipani.raiano.ch/categories/Dolce/Muffin-Cupcakes-Cake-Pops/"/>
     
     
-      <category term="muffin" scheme="http://frangipani.raiano.ch/tags/muffin/"/>
+      <category term="muffin" scheme="https://frangipani.raiano.ch/tags/muffin/"/>
     
-      <category term="vegan" scheme="http://frangipani.raiano.ch/tags/vegan/"/>
+      <category term="vegan" scheme="https://frangipani.raiano.ch/tags/vegan/"/>
     
-      <category term="fragole" scheme="http://frangipani.raiano.ch/tags/fragole/"/>
+      <category term="fragole" scheme="https://frangipani.raiano.ch/tags/fragole/"/>
     
-      <category term="estate" scheme="http://frangipani.raiano.ch/tags/estate/"/>
+      <category term="estate" scheme="https://frangipani.raiano.ch/tags/estate/"/>
     
-      <category term="dolce" scheme="http://frangipani.raiano.ch/tags/dolce/"/>
+      <category term="dolce" scheme="https://frangipani.raiano.ch/tags/dolce/"/>
     
-      <category term="primavera" scheme="http://frangipani.raiano.ch/tags/primavera/"/>
+      <category term="primavera" scheme="https://frangipani.raiano.ch/tags/primavera/"/>
     
   </entry>
   

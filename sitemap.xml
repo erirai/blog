@@ -3,17 +3,17 @@
 
 
     <sitemap>
-        <loc>http://frangipani.raiano.ch/post-sitemap.xml</loc>
+        <loc>https://frangipani.raiano.ch/post-sitemap.xml</loc>
         <lastmod>2022-03-22T14:27:37.180Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://frangipani.raiano.ch/page-sitemap.xml</loc>
+        <loc>https://frangipani.raiano.ch/page-sitemap.xml</loc>
         <lastmod>2022-03-20T07:52:58.109Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://frangipani.raiano.ch/tag-sitemap.xml</loc>
+        <loc>https://frangipani.raiano.ch/tag-sitemap.xml</loc>
         <lastmod>2022-03-22T14:27:37.180Z</lastmod>
     </sitemap>
 

@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>http://frangipani.raiano.ch/</loc>
+        <loc>https://frangipani.raiano.ch/</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
@@ -10,7 +10,7 @@
     
     
     <url>
-        <loc>http://frangipani.raiano.ch/404.html</loc>
+        <loc>https://frangipani.raiano.ch/404.html</loc>
         <lastmod>2022-03-20T07:52:58.109Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -19,7 +19,7 @@
     
     
     <url>
-        <loc>http://frangipani.raiano.ch/about-de.html</loc>
+        <loc>https://frangipani.raiano.ch/about-de.html</loc>
         <lastmod>2017-09-07T13:50:41.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -28,7 +28,7 @@
     
     
     <url>
-        <loc>http://frangipani.raiano.ch/about.html</loc>
+        <loc>https://frangipani.raiano.ch/about.html</loc>
         <lastmod>2017-09-07T13:48:31.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -37,7 +37,7 @@
     
     
     <url>
-        <loc>http://frangipani.raiano.ch/groups-de.html</loc>
+        <loc>https://frangipani.raiano.ch/groups-de.html</loc>
         <lastmod>2017-08-13T12:46:33.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -46,7 +46,7 @@
     
     
     <url>
-        <loc>http://frangipani.raiano.ch/groups.html</loc>
+        <loc>https://frangipani.raiano.ch/groups.html</loc>
         <lastmod>2017-08-13T12:46:27.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -55,7 +55,7 @@
     
     
     <url>
-        <loc>http://frangipani.raiano.ch/search.html</loc>
+        <loc>https://frangipani.raiano.ch/search.html</loc>
         <lastmod>2017-04-03T16:05:58.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
