@@ -18,7 +18,7 @@ timezone: Europe/Zurich
 # root: /
 # url: http://erirai.github.io/
 # root: /blog/
-url: http://frangipani.raiano.ch/
+url: https://frangipani.raiano.ch/
 root: /
 # permalink: :year/:month/:day/:title/
 permalink: :title/
