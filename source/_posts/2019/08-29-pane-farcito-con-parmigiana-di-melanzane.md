@@ -15,30 +15,35 @@ lang: it
 
 > Ciao ciao Agosto...
 
-Pane farcito con Parmigiana di Melanzane. Una ricetta che vi risolverà un sacco di problemi! Meraviglioso da portare ad un picnic, per un buffet, per un viaggio e perché no, anche come contorno. Secondo me, la parmigiana di melanzane mangiata in un panino è la fine del mondo. Preparandola già nel pane è ancora più buona, perché il pane prende tutto il gusto della parmigiana. Mamma quanto era buona! Le melanzane io le ho cotte al forno, ma ovviamante le potete anche friggere. Beh che dirvi... Agosto sta finendo, domenica sarà già il 1° settembre. Mi piace settembre! E poi zucché a gogò, olé...
+**Pane farcito con Parmigiana di Melanzane**, una ricetta che vi risolverà un sacco di problemi! Meraviglioso da portare ad un picnic, per un buffet, per un viaggio e perché no, anche come contorno. Secondo me, la parmigiana di melanzane mangiata in un panino è la fine del mondo. Preparandola già nel pane è ancora più buona, perché il pane prende tutto il gusto della parmigiana. Mamma quanto era buona! Le melanzane io le ho cotte al forno, ma ovviamante le potete anche friggere. Beh che dirvi... Agosto sta finendo, domenica sarà già il 1° settembre. Mi piace settembre! E poi zucché a gogò, olé...
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Pane farcito con Parmigiana di Melanzane</span>
+      <span itemprop="recipeCategory" style="display:none;">Salato</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Pane farcito con Parmigiana di Melanzane. Una ricetta che vi risolverà un sacco di problemi! Meraviglioso da portare ad un picnic, per un buffet, per un viaggio e perché no, anche come contorno.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
           <tr>          
             <td colspan="2"><b>Impasto per pane</b></td>
           </tr>      
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>500gr</td>
             <td>farina</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2 cucchiaini</td>
             <td>sale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>250ml</td>
             <td>acqua</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1gr</td>
             <td>lievito fresco</td>
           </tr>
@@ -46,35 +51,35 @@ Pane farcito con Parmigiana di Melanzane. Una ricetta che vi risolverà un sacco
           <tr>          
             <td colspan="2"><b>Parmigiana di Melanzane</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2</td>
             <td>melanzane nere grandi</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 bottiglia (ca. 700gr)</td>
             <td>passata di pomodoro</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>cipolla piccolina</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>olio evo</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>sale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>ca. 300gr</td>
             <td>mozzarella</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>parmigiano grattugiato</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>basilico fresco</td>
           </tr>

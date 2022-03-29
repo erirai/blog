@@ -14,49 +14,54 @@ lang: it
 
 > Tanti auguri a me!
 
-Pancake ai Mirtilli super soffici, super succosi e super buoni per il mio Compleanno! I Pancake ai mirtilli sono l'upgrade dei classici Pancake. Buonissimi anche quelli eh, ma l'aggiunta dei mirtilli non è da sottovalutare... Quei mirtilli succosi ci stanno divinamente, poi con l'aggiunta dello sciroppo d'acero! Ma la cosa funziona solo con i mirtilli freschi, con quelli surgelati non è la stessa cosa. Infatti durante la stagione dei mirtilli, li faccio molto spesso! Durante il resto dell'anno li faccio senza niente, ma vorrei provarli con le mele e cannella... Potete usare questa ricetta per farli senza frutta o con altra frutta, naturalmente. O qui c'è la ricetta dei miei <a href="https://frangipani.raiano.ch/2014-06-14-pancakes/" target="_blank">Pancake vegani</a>, anche qui basta aggiungere i mirtilli. Ma anche a voi piacciono così tanto i Pancake?
+**Pancake ai Mirtilli** super soffici, super succosi e super buoni per il mio Compleanno! I Pancake ai mirtilli sono l'upgrade dei classici Pancake. Buonissimi anche quelli eh, ma l'aggiunta dei mirtilli non è da sottovalutare... Quei mirtilli succosi ci stanno divinamente, poi con l'aggiunta dello sciroppo d'acero! Ma la cosa funziona solo con i mirtilli freschi, con quelli surgelati non è la stessa cosa. Infatti durante la stagione dei mirtilli, li faccio molto spesso! Durante il resto dell'anno li faccio senza niente, ma vorrei provarli con le mele e cannella... Potete usare questa ricetta per farli senza frutta o con altra frutta, naturalmente. O qui c'è la ricetta dei miei <a href="https://frangipani.raiano.ch/2014-06-14-pancakes/" target="_blank">Pancake vegani</a>, anche qui basta aggiungere i mirtilli. Ma anche a voi piacciono così tanto i Pancake?
 
 Ebbene sì, oggi è il mio compleanno... sono 20 (+12)! Non amo festeggiare il mio compleanno, quello degli altri sì, il mio no. Bo, non so perché. Penso che per sta serà preparerò una bella pasta al forno e poi gelato, niente torta. Sisi, penso proprio che farò così!
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Pancake ai Mirtilli</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">I Pancake ai mirtilli sono l'upgrade dei classici Pancake. Super soffici, super succosi e super buoni.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>3</td>
             <td>uova</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>20gr</td>
             <td>zucchero</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 pizzico</td>
             <td>sale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>40gr</td>
             <td>burro fuso</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>300gr</td>
             <td>latte</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>190gr</td>
             <td>farina</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>9gr</td>
             <td>lievito per dolci</td>  
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>mirtilli freschi</td> 
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>sciroppo d'acero</td>        
           </tr>

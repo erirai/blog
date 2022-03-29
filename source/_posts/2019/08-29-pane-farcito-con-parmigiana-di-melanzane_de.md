@@ -15,30 +15,35 @@ lang: de
 
 > Tschüss August...
 
-Brot gefüllt mit Auberginen, Tomatensauce und Mozzarella. Ein Rezept, das viele Probleme löst! Wunderbar für ein Picknick, ein Buffet, einen Ausflug und warum nicht, auch als Beilage. Meiner Meinung nach ist dieser Auberginenauflauf, der in einem Brötchen gegessen wird, das Beste überhaupt. Wenn es bereits im Brot gebacken wird, ist es doch noch besser. Hei, wie gut es war! Ich habe die Auberginen im Ofen gebacken, aber natürlich kann man sie auch frittieren. Na was soll ich sonst noch erzählen... Der August geht zu Ende, am Sonntag ist schon der 1. September. Ich mag den September! Und dann gibt es Kürbisse bis zum Gehtnichtmehr, olé...
+**Brot gefüllt mit Auberginen, Tomatensauce und Mozzarella**, ein Rezept, das viele Probleme löst! Wunderbar für ein Picknick, ein Buffet, einen Ausflug und warum nicht, auch als Beilage. Meiner Meinung nach ist dieser Auberginenauflauf, der in einem Brötchen gegessen wird, das Beste überhaupt. Wenn es bereits im Brot gebacken wird, ist es doch noch besser. Hei, wie gut es war! Ich habe die Auberginen im Ofen gebacken, aber natürlich kann man sie auch frittieren. Na was soll ich sonst noch erzählen... Der August geht zu Ende, am Sonntag ist schon der 1. September. Ich mag den September! Und dann gibt es Kürbisse bis zum Gehtnichtmehr, olé...
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Brot gefüllt mit Auberginen, Tomatensauce und Mozzarella</span>
+      <span itemprop="recipeCategory" style="display:none;">Herzhaftes</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2019-08-29-pane-farcito-con-parmigiana-di-melanzane/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Brot gefüllt mit Auberginen, Tomatensauce und Mozzarella. Ein Rezept, das viele Probleme löst! Wunderbar für ein Picknick, ein Buffet, einen Ausflug und warum nicht, auch als Beilage.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
           <tr>          
             <td colspan="2"><b>Brotteig</b></td>
           </tr>      
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>500gr</td>
             <td>Mehl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2 Teelöffel</td>
             <td>Salz</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>250ml</td>
             <td>Wasser</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1gr</td>
             <td>frische Hefe</td>
           </tr>
@@ -46,35 +51,35 @@ Brot gefüllt mit Auberginen, Tomatensauce und Mozzarella. Ein Rezept, das viele
           <tr>          
             <td colspan="2"><b>Füllung</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2</td>
             <td>grosse Auberginen</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Flasche (ca. 700gr)</td>
             <td>passierte Tomaten</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>kleine Zwiebel</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Olivenöl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Salz</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>ca. 300gr</td>
             <td>Mozzarella</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>geriebenen Parmesankäse</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Basilikum</td>
           </tr>

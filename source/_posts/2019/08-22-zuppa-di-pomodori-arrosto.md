@@ -15,7 +15,7 @@ lang: it
 ---
 ![](header.jpeg "frangipani © Erica")
 
-Zuppa di Pomodori arrosto per queste giornate di tarda estate che sanno tanto di autunno. Per mangiare qualcosa di caldo e confortevole, gustando ancora la verdura estiva... I pomodori arrosto fanno proprio la differenza perché la zuppa non avrà un gusto sciapo e acquoso, bensì aromatico e corposo. Poi evitate pure di dover stare a lungo ai fornelli a girare la zuppa... Infatti infornate i pomodori, poi mettete il tutto nella pentola, frullate, fate bollire un attimo ed il gioco è fatto! Io amo mangiare questa zuppa con del pane tostato, non ho bisogno d'altro... Questa ricetta me la diede il mio capo più di 6 anni fa, quando ancora lavoravo. Non capiva perché io stessi li a girare e rigirare la zuppa di pomodori senza gusto... Effettivamente aveva ragione! Ne ho approfittato per farla settimana scorsa, il giorno di ferragosto, perché faceva proprio freschetto. Sono andata a prendere tanti pomodori diversi come i ciliegini, cuore di bue, piccadilli... anche di diversi colori! Avevo raccolto pure dell'origano selvatico e l'ho usato, ci stava perfettamente. Non so come siete messi voi con il freddo, ma qui sembra proprio autunno, altro che fine estate! Ma spero proprio che ci sarà ancora qualche giorno di caldo, non ho ancora salutato l'estate come si deve...
+**Zuppa di Pomodori arrosto** per queste giornate di tarda estate che sanno tanto di autunno. Per mangiare qualcosa di caldo e confortevole, gustando ancora la verdura estiva... I pomodori arrosto fanno proprio la differenza perché la zuppa non avrà un gusto sciapo e acquoso, bensì aromatico e corposo. Poi evitate pure di dover stare a lungo ai fornelli a girare la zuppa... Infatti infornate i pomodori, poi mettete il tutto nella pentola, frullate, fate bollire un attimo ed il gioco è fatto! Io amo mangiare questa zuppa con del pane tostato, non ho bisogno d'altro... Questa ricetta me la diede il mio capo più di 6 anni fa, quando ancora lavoravo. Non capiva perché io stessi li a girare e rigirare la zuppa di pomodori senza gusto... Effettivamente aveva ragione! Ne ho approfittato per farla settimana scorsa, il giorno di ferragosto, perché faceva proprio freschetto. Sono andata a prendere tanti pomodori diversi come i ciliegini, cuore di bue, piccadilli... anche di diversi colori! Avevo raccolto pure dell'origano selvatico e l'ho usato, ci stava perfettamente. Non so come siete messi voi con il freddo, ma qui sembra proprio autunno, altro che fine estate! Ma spero proprio che ci sarà ancora qualche giorno di caldo, non ho ancora salutato l'estate come si deve...
 
 Lunedì scorso qui abbiamo ricominciato, finite le vacanze... Gaia ha avuto suo primo giorno di scuola. Inutile dirvi che era emozionata! E un po’ lo eravamo anche noi… Anzi siamo molto felici, felici perché tu sei pronta e contentissima di iniziare questa nuova avventura. Hai la fortuna di essere in classe con la tua migliore amica, per puro caso, bellissimo! In realtà non sai esattamente cosa ti aspetta, ma sai che imparerai tante cose nuove, che avrai dei compiti da fare a casa e che non sarà più solo un gioco, come lo era all’asilo. Hai la settimana piena… oltre la scuola tutte le mattine e tre pomeriggi, hai pure catechismo, danza e scuola di lingua e cultura italiana. Ma anche noi a 6 anni avevamo la settimana così impegnata?
 
@@ -24,35 +24,40 @@ Siamo felici anche per te, perché non vedevi l’ora di iniziare e far vedere a
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Zuppa di Pomodori arrosto</span>
+      <span itemprop="recipeCategory" style="display:none;">Salato</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Zuppa di Pomodori arrosto per queste giornate di tarda estate che sanno tanto di autunno. Per mangiare qualcosa di caldo e confortevole, gustando ancora la verdura estiva...</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2kg</td>
             <td>pomodori misti</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2</td>
             <td>spicchi d'aglio</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>cipolla piccolina</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>origano, timo e basilico fresco</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>olio evo</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>sale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>pane tostato al momento</td>       
           </tr>

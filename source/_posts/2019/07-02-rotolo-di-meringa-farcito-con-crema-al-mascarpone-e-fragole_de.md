@@ -18,36 +18,41 @@ lang: de
 
 > Willkommen Juli!
 
-Meringue-Rolle mit Mascarpone-Crème und Erdbeeren, ein leichtes und frisches Wölkchen, perfekt für diese schönen heissen Tage. Dies ist eines dieser Desserts, welches auch bei 40°C im Schatten gerne gegessen wird, weil es kalt aus dem Kühlschrank genossen werden muss und sogar sofort! Ich habe diese Meringue mit einer Mascarpone-Crème gefüllt, um mehr Eier zu vermeiden, die wären nicht nötig gewesen. Und mit Erdbeeren! Himbeeren würden auch ganz gut dazu passen... Glaubst du mir, wenn ich dir sage, dass ich noch nie Meringues gemacht habe? Ich weiss nicht, ich dachte immer, dass es zu sehr nach Eier schmeckt, dass sie hart ist, solche Dinge halt. Aber dann habe ich die Pavlova meiner Schwester probiert und hallo, das war eine Offenbarung! Wie fein ist sie denn? Und warum hatte ich sie noch nie vorher probiert? Häää?! Tja, die Rätsel von Ericas Leben... Die Inspiration für dieses Rezept, kam mir von der Zeitschrift Sweet Dreams, wunderbar!
+**Meringue-Rolle mit Mascarpone-Crème und Erdbeeren**, ein leichtes und frisches Wölkchen, perfekt für diese schönen heissen Tage. Dies ist eines dieser Desserts, welches auch bei 40°C im Schatten gerne gegessen wird, weil es kalt aus dem Kühlschrank genossen werden muss und sogar sofort! Ich habe diese Meringue mit einer Mascarpone-Crème gefüllt, um mehr Eier zu vermeiden, die wären nicht nötig gewesen. Und mit Erdbeeren! Himbeeren würden auch ganz gut dazu passen... Glaubst du mir, wenn ich dir sage, dass ich noch nie Meringues gemacht habe? Ich weiss nicht, ich dachte immer, dass es zu sehr nach Eier schmeckt, dass sie hart ist, solche Dinge halt. Aber dann habe ich die Pavlova meiner Schwester probiert und hallo, das war eine Offenbarung! Wie fein ist sie denn? Und warum hatte ich sie noch nie vorher probiert? Häää?! Tja, die Rätsel von Ericas Leben... Die Inspiration für dieses Rezept, kam mir von der Zeitschrift Sweet Dreams, wunderbar!
 
 Ich bin in totaler Sommerstimmung! Letzte Woche war es traumhaft warm und sonnig... Vielleicht weisst du es nicht, aber ich liebe die Hitze! Wahrscheinlich war ich in meinem letzten Leben ein Reptil, das in der Wüste lebte... Während andere schwitzen, bis sie tropfen, halte ich mich in der Sonne auf, glücklich und zufrieden! Nein, ich wurde genetisch nicht für die Kälte programmiert, ich wurde geboren, um in der Sonne, in der Hitze zu sein. Punkt.
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Meringue-Rolle mit Mascarpone-Crème und Erdbeeren</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2019-07-02-rotolo-di-meringa-farcito-con-crema-al-mascarpone-e-fragole/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Meringue-Rolle mit Mascarpone-Crème und Erdbeeren, ein leichtes und frisches Wölkchen, perfekt für diese schönen heissen Tage.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
           <tr>          
             <td colspan="2"><b>Meringue</b></td>
           </tr>      
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>3</td>
             <td>Eiweiss mittelgross</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>190gr</td>
             <td>Zucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Teelöffel</td>
             <td>weisser Essig</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Teelöffel</td>
             <td>Maisstärke</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Prise</td>
             <td>Salz</td>
           </tr>
@@ -55,27 +60,27 @@ Ich bin in totaler Sommerstimmung! Letzte Woche war es traumhaft warm und sonnig
           <tr>          
             <td colspan="2"><b>Mascarpone-Crème</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>200gr</td>
             <td>Mascarpone</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>200gr</td>
             <td>frische Sahne</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>40gr</td>
             <td>Puderzucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>Vanilleschote</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Zitronenabrieb</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>300gr</td>
             <td>Erdbeeren</td>
           </tr>
