@@ -3,6 +3,20 @@
 
 
     <url>
+        <loc>https://frangipani.raiano.ch/tags/muffin-salati/</loc>
+        <lastmod>2022-04-04T13:11:17.441Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/tags/pasqua/</loc>
+        <lastmod>2022-04-04T13:11:17.441Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://frangipani.raiano.ch/tags/primavera/</loc>
         <lastmod>2022-03-29T16:46:19.994Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -486,13 +500,6 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/tags/pasqua/</loc>
-        <lastmod>2022-03-22T13:13:01.456Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://frangipani.raiano.ch/tags/biscotti/</loc>
         <lastmod>2022-03-22T13:11:33.355Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -551,13 +558,6 @@
     <url>
         <loc>https://frangipani.raiano.ch/tags/noci/</loc>
         <lastmod>2022-03-19T21:00:11.454Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/tags/muffin-salati/</loc>
-        <lastmod>2022-03-18T14:50:01.302Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
