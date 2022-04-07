@@ -1,5 +1,5 @@
 ---
-title: "herzhafte Polentamuffins mit Schweizer Käse und Rosmarin"
+title: "Herzhafte Polentamuffins mit Schweizer Käse und Rosmarin"
 date: 2021-02-18
 tags: 
 - muffin salati

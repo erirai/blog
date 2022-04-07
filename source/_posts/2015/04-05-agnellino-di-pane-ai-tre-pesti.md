@@ -89,7 +89,7 @@ Qualche giorno fa alla Prova del Cuoco ho visto fare questo Agnellino di Pane. L
           </tr>
           <tr style="height: 15px;"></tr>
           <tr>          
-            <td colspan="2"><b>Pesto all'aglio orsino</b></td>
+            <td colspan="2"><b>Pesto Rosso</b></td>
           </tr>      
           <tr>
             <td>pomodori secchi</td>
