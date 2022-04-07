@@ -9,6 +9,22 @@
 
 
     <url>
+        <loc>https://frangipani.raiano.ch/2015-04-05-agnellino-di-pane-ai-tre-pesti/</loc>
+        <lastmod>2022-04-06T07:48:01.416Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2021-02-18-muffin-salati-di-polenta-con-formaggio-e-rosmarino-de/</loc>
+        <lastmod>2022-04-06T07:47:36.430Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://frangipani.raiano.ch/2022-04-05-mini-pasqualine-de/</loc>
         <lastmod>2022-04-04T13:11:17.441Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1171,14 +1187,6 @@
     <url>
         <loc>https://frangipani.raiano.ch/2021-02-09-fluffosa-red-velvet-farcita-con-camy-cream/</loc>
         <lastmod>2022-03-18T14:50:31.214Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2021-02-18-muffin-salati-di-polenta-con-formaggio-e-rosmarino-de/</loc>
-        <lastmod>2022-03-18T14:50:01.302Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -4826,14 +4834,6 @@
 
     <url>
         <loc>https://frangipani.raiano.ch/2015-02-14-tortino-di-cioccolato-con-cuore-fondente/</loc>
-        <lastmod>2017-08-20T12:10:57.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2015-04-05-agnellino-di-pane-ai-tre-pesti/</loc>
         <lastmod>2017-08-20T12:10:57.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
