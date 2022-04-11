@@ -16,40 +16,45 @@ lang: de
 ---
 ![](../2019-02-11-cheesecake-ai-lamponi/header.jpeg "frangipani © Erica")
 
-Himbeer-Cheesecake für alle Liebhaber delikater und cremiger Desserts... Zum Valentinstag, zum Fest der Liebe, zum Muttertag, im Sommer um frische Himbeeren zu geniessen oder im Winter für etwas Sommer, mit den gefrorenen Himbeeren. Natürlich ist nicht Himbeersaison, also habe ich gefrorene Himbeeren benutzt, die ich immer zu Hause halte. Aber habt ihr gesehen, dass selbst der Mürbeteig rosa ist? Für den Valentinstag darf ruhig alles etwas rosa, pink oder rot sein... Die Lebensmittelfarbe ist optional, wenn es nicht wegen dem Valentinstag gewesen wäre, hätte ich selbst keine Farbe verwendet. Ich habe einen Cheesecake zubereitet, weil mein Mann sie sehr mag und weil ich diese Kälte nicht mehr aushalten kann! Genug! Bläh! Aber zurück zum Valentinstag... Ich möchte gerne etwas spezielles, leckeres für den 14. vorbereiten, aber ich kann nichts finden. Letztendlich werde ich sowieso Pizza backen, da meine bessere Hälfte das am liebsten mag...
+**Himbeer-Cheesecake** für alle Liebhaber delikater und cremiger Desserts... Zum Valentinstag, zum Fest der Liebe, zum Muttertag, im Sommer um frische Himbeeren zu geniessen oder im Winter für etwas Sommer, mit den gefrorenen Himbeeren. Natürlich ist nicht Himbeersaison, also habe ich gefrorene Himbeeren benutzt, die ich immer zu Hause halte. Aber habt ihr gesehen, dass selbst der Mürbeteig rosa ist? Für den Valentinstag darf ruhig alles etwas rosa, pink oder rot sein... Die Lebensmittelfarbe ist optional, wenn es nicht wegen dem Valentinstag gewesen wäre, hätte ich selbst keine Farbe verwendet. Ich habe einen Cheesecake zubereitet, weil mein Mann sie sehr mag und weil ich diese Kälte nicht mehr aushalten kann! Genug! Bläh! Aber zurück zum Valentinstag... Ich möchte gerne etwas spezielles, leckeres für den 14. vorbereiten, aber ich kann nichts finden. Letztendlich werde ich sowieso Pizza backen, da meine bessere Hälfte das am liebsten mag...
 Ti amo, Scha!
 
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Himbeer-Cheesecake</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2019-02-11-cheesecake-ai-lamponi/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Himbeer-Cheesecake für alle Liebhaber delikater und cremiger Desserts... Zum Valentinstag, zum Fest der Liebe, zum Muttertag...</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
           <tr>
             <td colspan="2"><b>Mürbeteig</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>200gr</td>
             <td>Mehl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100gr</td>
             <td>Butter oder Margarine</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>80gr</td>
             <td>Puderzucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2 Teelöffel</td>
             <td>Backpulver</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>rosa Lebensmittelfarbe</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2-3 Esslöffel</td>
             <td>Milch</td>
           </tr>
@@ -57,35 +62,35 @@ Ti amo, Scha!
           <tr>          
             <td colspan="2"><b>Füllung</b></td>
           </tr>      
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>500gr</td>
             <td>Quark</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100gr</td>
             <td>Zucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100ml</td>
             <td>Sahne</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2</td>
             <td>Eier</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2 Esslöffel</td>
             <td>Mehl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2</td>
             <td>Vanilleschote</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2</td>
             <td>Zitrone nur Abrieb</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>200gr</td>
             <td>Himbeeren frisch oder TK</td>
           </tr>
@@ -93,15 +98,15 @@ Ti amo, Scha!
           <tr>          
             <td colspan="2"><b>Himbeersauce</b></td>
           </tr>      
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>300gr</td>
             <td>Himbeeren frisch oder TK</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>etwas</td>
             <td>Zucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>einige Tropfen</td>
             <td>Zitronensaft</td>  
           </tr>

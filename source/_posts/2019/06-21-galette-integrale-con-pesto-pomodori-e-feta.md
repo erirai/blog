@@ -17,43 +17,48 @@ lang: it
 
 > Benvenuta Estate!
 
-Galette Integrale con Pesto, Pomodori e Feta... perfetta per dare il benvenuto alla mia stagione preferita, l'estate! Fresca, gustosa e leggera... semplicemente da leccarsi i baffi! Amo i pomodori e durante la loro stagione, ne mangiamo veramente tanti. Mi piace prendere i pomodori di colori diversi, perché hanno anche gusti leggermente diversi. Ma lo sapevate che il pomodoro originale non è quello rosso, ma quello giallo? Come dice il nome, pomo d'oro. Settimana scorsa al mercato c'era di tutto, anche i pomodori tutti colorati! E li io mi perdo... Questo è uno dei motivi perché io amo così tanto l'estate: la sua abbondanza di frutta e verdura. Infatti il frigo è pieno di verdura che io adoro... Melanzane e zucchine soprattutto grigliate! Arrivano anche i primi peperoni. Le insalate di pomodoro o l'insalata greca che ci rende molto felici. La frutta al momento scarseggia ancora un pochettino (sto parlando di frutta svizzera), a parte le fragole e le mele non c'è molta scelta, ma piano piano arriveranno ribes, lamponi, more, mirtilli, albicocche ecc. Per non parlare dell'anguria, le pesche, le percoche! 
+**Galette Integrale con Pesto, Pomodori e Feta**, perfetta per dare il benvenuto alla mia stagione preferita, l'estate! Fresca, gustosa e leggera... semplicemente da leccarsi i baffi! Amo i pomodori e durante la loro stagione, ne mangiamo veramente tanti. Mi piace prendere i pomodori di colori diversi, perché hanno anche gusti leggermente diversi. Ma lo sapevate che il pomodoro originale non è quello rosso, ma quello giallo? Come dice il nome, pomo d'oro. Settimana scorsa al mercato c'era di tutto, anche i pomodori tutti colorati! E li io mi perdo... Questo è uno dei motivi perché io amo così tanto l'estate: la sua abbondanza di frutta e verdura. Infatti il frigo è pieno di verdura che io adoro... Melanzane e zucchine soprattutto grigliate! Arrivano anche i primi peperoni. Le insalate di pomodoro o l'insalata greca che ci rende molto felici. La frutta al momento scarseggia ancora un pochettino (sto parlando di frutta svizzera), a parte le fragole e le mele non c'è molta scelta, ma piano piano arriveranno ribes, lamponi, more, mirtilli, albicocche ecc. Per non parlare dell'anguria, le pesche, le percoche! 
 Buon inizio estate a voi e il primo che si lamenta del caldo, lo metto a dieta! Niente gelato per tutta l'estate!
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Galette Integrale con Pesto, Pomodori e Feta</span>
+      <span itemprop="recipeCategory" style="display:none;">Salato</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Galette Integrale con Pesto, Pomodori e Feta, perfetta per dare il benvenuto alla mia stagione preferita, l'estate! Fresca, gustosa e leggera...</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
           <tr>
             <td colspan="2"><b>Impasto</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100gr</td>
             <td>farina integrale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100gr</td>
             <td>farina 00</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 pizzico</td>
             <td>bicarbonato</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 pizzico</td>
             <td>sale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>50ml</td>
             <td>olio di semi</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>20ml</td>
             <td>olio evo</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>80ml</td>
             <td>acqua</td>
           </tr>
@@ -61,31 +66,31 @@ Buon inizio estate a voi e il primo che si lamenta del caldo, lo metto a dieta! 
           <tr>          
             <td colspan="2"><b>Farica</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 mazzo grande</td>
             <td>basilico</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>pinoli</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>parmigiano grattugiato o alternativa vegana</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>olio evo</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>sale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>4</td>
             <td>pomodori grandi di diversi colori</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100gr</td>
             <td>formaggio Feta o Tofu</td>
           </tr>

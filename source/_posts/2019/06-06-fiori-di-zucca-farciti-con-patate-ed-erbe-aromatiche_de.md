@@ -17,45 +17,50 @@ lang: de
 ---
 ![](../2019-06-06-fiori-di-zucca-farciti-con-patate-ed-erbe-aromatiche/header.jpeg "frangipani © Erica")
 
-Kürbisblüten gefüllt mit Kartoffeln und Kräutern, eine delikate Vorspeise oder Beilage, die eure Gäste staunen lässt. Perfekt auch für ein Büffet, denn sie können mit den Händen gegessen werden. Ihr könnt selbst aussuchen, ob ihr im Inneren Käse oder Tofu dazu geben möchtet, d.h. die können auch vegan sein. Ohne Eier, ohne Panade... ganz einfach im Ofen gebacken! Dieses Jahr sind die Kürbis- und Zucchiniblüten spät dran, habe ich das Gefühl, nicht? Ich konnte keine finden, tatsächlich hat mein Pappi sie mir gebracht. Ich wollte etwas Neues ausprobieren ohne <a href="https://frangipani.raiano.ch/2015-04-25-fiori-di-zucca-ripieni-di-ricotta-e-spinaci/" target="_blank">Ricotta</a> oder <a href="https://frangipani.raiano.ch/2014-03-19-fiori-di-zucca-ripieni-di-mozzarella/" target="_blank">Mozzarella</a> und nicht frittiert und da sind sie! 
+**Kürbisblüten gefüllt mit Kartoffeln und Kräutern**, eine delikate Vorspeise oder Beilage, die eure Gäste staunen lässt. Perfekt auch für ein Büffet, denn sie können mit den Händen gegessen werden. Ihr könnt selbst aussuchen, ob ihr im Inneren Käse oder Tofu dazu geben möchtet, d.h. die können auch vegan sein. Ohne Eier, ohne Panade... ganz einfach im Ofen gebacken! Dieses Jahr sind die Kürbis- und Zucchiniblüten spät dran, habe ich das Gefühl, nicht? Ich konnte keine finden, tatsächlich hat mein Pappi sie mir gebracht. Ich wollte etwas Neues ausprobieren ohne <a href="https://frangipani.raiano.ch/2015-04-25-fiori-di-zucca-ripieni-di-ricotta-e-spinaci/" target="_blank">Ricotta</a> oder <a href="https://frangipani.raiano.ch/2014-03-19-fiori-di-zucca-ripieni-di-mozzarella/" target="_blank">Mozzarella</a> und nicht frittiert und da sind sie! 
 
 Ich sitze hier im Garten, während ich diesen Blogpost schreibe. Sitze auf meinem Schaukelstuhl, wie eine Oma, mit den Füssen in der Sonne. Es weht ein lauwarmer Wind, aber das Schönste ist, dass es warm ist! Und das macht mich glücklich, sehr glücklich.
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Kürbisblüten gefüllt mit Kartoffeln und Kräutern</span>
+      <span itemprop="recipeCategory" style="display:none;">Herzhaftes</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2019-06-06-fiori-di-zucca-farciti-con-patate-ed-erbe-aromatiche/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Kürbisblüten gefüllt mit Kartoffeln und Kräutern, eine delikate Vorspeise oder Beilage, die eure Gäste staunen lässt.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>12</td>
             <td>Kürbisblüten</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>4</td>
             <td>mittelgrosse Kartoffeln</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Kräuter</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Scamorza oder Tofu</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Butter oder Margarine</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Parmesan gerieben oder Paniermehl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Olivenöl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Salz</td>    
           </tr>

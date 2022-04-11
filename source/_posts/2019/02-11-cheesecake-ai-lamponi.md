@@ -16,40 +16,45 @@ lang: it
 ---
 ![](header.jpeg "frangipani © Erica")
 
-Cheesecake ai Lamponi per tutti gli amanti dei dolci delicati e cremosi... Per San Valentino, la festa degli innamorati, per la Festa della Mamma, in estate per godersi i lamponi freschi o in inverno per gustarsi un po' d'estate usando i lamponi congelati. Ovviamente non è periodo di lamponi, quindi ho usato i lamponi congelati che tengo sempre in casa. Ma avete visto che anche la pasta frolla è rosa? Per la festa degli innamorati quel tocco di rosa, rosso o fucsia ci sta tutto... Il colorante è facoltativo, se non fosse stato per San Valentino neanche io l'avrei usato. Ho preparato una Cheesecake perché a mio marito piacciono tanto e anche perché non ne posso più di questo freddo! Basta! Uffa! Ma ritorniamo a San Valentino... Mi sto disperando per trovare una ricetta salata da preparare per il 14, ma non trovo niente. Tanto lo so che alla fine preparerò la Pizza, perché è quello che alla mia dolce metà piace di più...
+**Cheesecake ai Lamponi** per tutti gli amanti dei dolci delicati e cremosi... Per San Valentino, la festa degli innamorati, per la Festa della Mamma, in estate per godersi i lamponi freschi o in inverno per gustarsi un po' d'estate usando i lamponi congelati. Ovviamente non è periodo di lamponi, quindi ho usato i lamponi congelati che tengo sempre in casa. Ma avete visto che anche la pasta frolla è rosa? Per la festa degli innamorati quel tocco di rosa, rosso o fucsia ci sta tutto... Il colorante è facoltativo, se non fosse stato per San Valentino neanche io l'avrei usato. Ho preparato una Cheesecake perché a mio marito piacciono tanto e anche perché non ne posso più di questo freddo! Basta! Uffa! Ma ritorniamo a San Valentino... Mi sto disperando per trovare una ricetta salata da preparare per il 14, ma non trovo niente. Tanto lo so che alla fine preparerò la Pizza, perché è quello che alla mia dolce metà piace di più...
 Ti amo Scha!
 
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Cheesecake ai Lamponi</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Cheesecake ai Lamponi per tutti gli amanti dei dolci delicati e cremosi. Per San Valentino, la festa degli innamorati, per la Festa della Mamma...</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
           <tr>
             <td colspan="2"><b>Pasta Frolla</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>200gr</td>
             <td>farina</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100gr</td>
             <td>burro o margarina</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>80gr</td>
             <td>zucchero a velo</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2 cucchiaino</td>
             <td>lievito per dolci</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>colorante alimentare rosa (facoltativo)</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2-3 cucchiai</td>
             <td>latte</td>
           </tr>
@@ -57,35 +62,35 @@ Ti amo Scha!
           <tr>          
             <td colspan="2"><b>Farcia</b></td>
           </tr>      
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>500gr</td>
             <td>Quark o ricotta</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100gr</td>
             <td>zucchero</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100ml</td>
             <td>panna</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2</td>
             <td>uova</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2 cucchiai</td>
             <td>farina</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2</td>
             <td>bacca di vaniglia solo i semini</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2</td>
             <td>limone solo la scorza</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>200gr</td>
             <td>lamponi freschi o congelati</td>
           </tr>
@@ -93,15 +98,15 @@ Ti amo Scha!
           <tr>          
             <td colspan="2"><b>Salsa ai Lamponi</b></td>
           </tr>      
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>lamponi freschi o congelati</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 spolverata</td>
             <td>zucchero</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qualche goccia</td>
             <td>succo di limone</td>  
           </tr>

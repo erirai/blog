@@ -14,59 +14,62 @@ lang: de
 ---
 ![](../2019-02-26-ciambelle-vegane-di-carnevale/header.jpeg "frangipani © Erica")
 
-> Schöne Fasnacht und auf Wiedersehen Februar!
-
-Vegane Fasnacht-Donuts, schön farbenfroh und ideal mit den Kindern zu backen. Perfekt für eine Fasnachtssparty, aber auch zum Geburtstag! Sie sind wirklich einfach, wie alle veganen Desserts, die trockenen Zutaten mischen, die Flüssigkeiten dazu geben und alles schön vermengen. Das wars! Ich fügte auch etwas Zuckerstreusel in den Teig hinzu, um sie bunter zu machen. Wir haben sie mit weisser Schokolade glasiert und mit verschiedenen Zuckerstreusel dekoriert. Ihre Konsistenz ist zwischen Kuchen und Kekse, ich weiss nicht, wie ich es erklären soll, aber sie sind genial! Vegane weisse Schokolade findet man in Fachgeschäften, aber natürlich ist die normale weisse oder dunkle Schokolade auch gut, aber in diesem Fall wäre es besser, eine weisse Farbe zu haben. Wenn ihr möchtet, könnt ihr sie auch mit einem Zuckerguss aus Puderzucker und Wasser oder Milch glasieren.
+**Vegane Fasnacht-Donuts**, schön farbenfroh und ideal mit den Kindern zu backen. Perfekt für eine Fasnachtssparty, aber auch zum Geburtstag! Sie sind wirklich einfach, wie alle veganen Desserts, die trockenen Zutaten mischen, die Flüssigkeiten dazu geben und alles schön vermengen. Das wars! Ich fügte auch etwas Zuckerstreusel in den Teig hinzu, um sie bunter zu machen. Wir haben sie mit weisser Schokolade glasiert und mit verschiedenen Zuckerstreusel dekoriert. Ihre Konsistenz ist zwischen Kuchen und Kekse, ich weiss nicht, wie ich es erklären soll, aber sie sind genial! Vegane weisse Schokolade findet man in Fachgeschäften, aber natürlich ist die normale weisse oder dunkle Schokolade auch gut, aber in diesem Fall wäre es besser, eine weisse Farbe zu haben. Wenn ihr möchtet, könnt ihr sie auch mit einem Zuckerguss aus Puderzucker und Wasser oder Milch glasieren.
 
 In dieser Jahreszeit, ist ein Fest nach dem anderen. Erst der Valentinstag, kurz danach die Fasnacht... zum Glück haben wir eine kleine Pause bis Ostern ist! Auch wenn es in den Geschäften bereits Schokohasen, Ostereier usw gibt... Aber können sie nicht warten, bis wenigstens Fasnachten vorbei ist?! Janu...
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">vegane Fasnacht-Donuts</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2019-02-26-ciambelle-vegane-di-carnevale/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Vegane Fasnacht-Donuts, schön farbenfroh und ideal mit den Kindern zu backen. Perfekt für eine Fasnachtssparty, aber auch zum Geburtstag!</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>180gr</td>
             <td>Mehl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>20gr</td>
             <td>Maisstärke</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>70gr</td>
             <td>Zucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2 Teelöffel</td>
             <td>Backpulver</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Zitronenabrieb</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Vanille</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Prise</td>
             <td>Salz</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>30gr</td>
             <td>Sonnenblumenöl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>160gr</td>
             <td>pflanzliche Milch</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>farbige Zuckerstreusel</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>80gr</td>
             <td>vegane weisse Schokolade</td>
           </tr>

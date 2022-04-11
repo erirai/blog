@@ -14,44 +14,47 @@ lang: it
 ---
 ![](header.jpeg "frangipani © Erica")
 
-> Bye Bye Gennaio!
-
-Budino al Cioccolato, un dolce al cucchiaio facile e veloce da poter preparare in anticipo o al momento, da gustare ancora bello caldo. Il Budino al Cioccolato è fatto con ingredienti che solitamente abbiamo in casa, quindi ottimo da fare per tutte le occasioni... Ha una consistenza cremosa che è una meraviglia, non è gelatinoso, ma morbido e setoso. Io sinceramente preferisco mangiarlo caldo appena fatto, ma quando si sforma e si vede la tipica forma del budino è anche una bella soddisfazione, diciamolo! Ho fatto sia la forma grande che le monoporzioni e ho decorato il tutto con della panna montata leggermente zuccherata (anche se non amo la panna montata, si lo so sono parecchio strana!). È da un po' che mi frulla in testa l'idea di fare il budino, ma non l'ho mai fatto perché ero convinta che all'interno ci fosse la gelatina o tante uova o che ci fosse bisogno di una cottura a Bagnomaria in forno, bo. Non so perché. Invece no! È facilissimo, a parte il fatto che finalmente ho potuto usare lo stampo per budino... Se non avete lo stampo per budino, va bene qualsiasi altro stampo che vi piace! Lo stampo da budino però porta con se un certo rischio... Dipende dallo stampo, potrebbe non staccarsi alla perfezione! Io per esempio, ho dovuto immergerlo nell'acqua calda un paio di volte per farlo staccare (anche se il mio stampo è antiaderente e lo avevo pure unto). Per chi non vuole correre nessun rischio, usate delle coppette e servitelo direttamente dentro la coppetta!
+**Budino al Cioccolato**, un dolce al cucchiaio facile e veloce da poter preparare in anticipo o al momento, da gustare ancora bello caldo. Il Budino al Cioccolato è fatto con ingredienti che solitamente abbiamo in casa, quindi ottimo da fare per tutte le occasioni... Ha una consistenza cremosa che è una meraviglia, non è gelatinoso, ma morbido e setoso. Io sinceramente preferisco mangiarlo caldo appena fatto, ma quando si sforma e si vede la tipica forma del budino è anche una bella soddisfazione, diciamolo! Ho fatto sia la forma grande che le monoporzioni e ho decorato il tutto con della panna montata leggermente zuccherata (anche se non amo la panna montata, si lo so sono parecchio strana!). È da un po' che mi frulla in testa l'idea di fare il budino, ma non l'ho mai fatto perché ero convinta che all'interno ci fosse la gelatina o tante uova o che ci fosse bisogno di una cottura a Bagnomaria in forno, bo. Non so perché. Invece no! È facilissimo, a parte il fatto che finalmente ho potuto usare lo stampo per budino... Se non avete lo stampo per budino, va bene qualsiasi altro stampo che vi piace! Lo stampo da budino però porta con se un certo rischio... Dipende dallo stampo, potrebbe non staccarsi alla perfezione! Io per esempio, ho dovuto immergerlo nell'acqua calda un paio di volte per farlo staccare (anche se il mio stampo è antiaderente e lo avevo pure unto). Per chi non vuole correre nessun rischio, usate delle coppette e servitelo direttamente dentro la coppetta!
 
 Gennaio finalmente è finito, che gioia. Manca solo Febbraio e l'inverno sarà passato! Domani ultimo giorno di asilo poi due settimane di vacanze. Le passeremo qui perché mio marito non può prendersi ferie (per un motivo super positivo che più in la vi racconterò).
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Budino al Cioccolato</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Budino al Cioccolato, un dolce al cucchiaio facile e veloce da poter preparare in anticipo o al momento, da gustare ancora bello caldo.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>225gr</td>
             <td>cioccolato fondente</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1l</td>
             <td>latte</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>190gr</td>
             <td>burro</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>200gr</td>
             <td>zucchero</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100gr</td>
             <td>farina</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 cucchiaio raso</td>
             <td>cacao amaro in polvere</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 pizzico</td>
             <td>sale</td>
           </tr>

@@ -15,7 +15,7 @@ lang: it
 ---
 ![](header.jpeg "frangipani © Erica")
 
-Insalata di Asparagi, Fragole e Melissa, questo è il periodo perfetto per gustarla! Pochissimi ingredienti, apparentemente non compatibili, che vi regaleranno una grandissima gioia al palato... La faccio ogni anno almeno una volta. Un ottimo antipasto, da preparare comodamente in anticipo o per un picnic, sperando che il tempo lo permetta! 
+**Insalata di Asparagi, Fragole e Melissa**, questo è il periodo perfetto per gustarla! Pochissimi ingredienti, apparentemente non compatibili, che vi regaleranno una grandissima gioia al palato... La faccio ogni anno almeno una volta. Un ottimo antipasto, da preparare comodamente in anticipo o per un picnic, sperando che il tempo lo permetta! 
 
 <a href="https://www.foodblogs-schweiz.ch/challenge/" target="_blank" rel="noreferrer noopener">
 <img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2019/04/Foodblogs-Schweiz-Banner-Mai.png" alt="Foodblogs Schweiz Challenge" class="wp-image-452 ignore-gallery-item"/>
@@ -24,31 +24,36 @@ Nel cestino della Foodie Challenge mensile di maggio, organizzata da <a href="ht
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Insalata di Asparagi, Fragole e Melissa</span>
+      <span itemprop="recipeCategory" style="display:none;">Salato</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Insalata di Asparagi, Fragole e Melissa, questo è il periodo perfetto per gustarla! Pochissimi ingredienti, apparentemente non compatibili, che vi regaleranno una grandissima gioia al palato.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>500gr</td>
             <td>asparagi fini</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>250gr</td>
             <td>fragole</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2 cucchiai</td>
             <td>aceto balsamico (alle fragole)</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2 cucchiai</td>
             <td>olio di pistacchio o evo</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>melissa</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>sale</td>    
           </tr>

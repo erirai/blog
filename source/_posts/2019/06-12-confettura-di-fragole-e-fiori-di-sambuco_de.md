@@ -15,7 +15,7 @@ lang: de
 ---
 ![](../2019-06-12-confettura-di-fragole-e-fiori-di-sambuco/header.jpeg "frangipani © Erica")
 
-Erdbeer-Holunderblüten-Konfitüre, die beste Erdbeerkonfitüre der Welt. Diese beiden Zutaten harmonieren vollkommen, der Duft ist grossartig! Der einzige Moment um diese Konfitüre vorzubereiten, ist jetzt. Denn, die Holunderblüten halten nicht lange. Ich liebe es, die kleinen duftenden Blüten auf der Brotscheibe zu sehen, herrlich! Ja, es braucht viel Geduld beim Zupfen der Blüten, aber es lohnt sich definitiv. Ihr glaubt es mir nicht? Dann probiert sie!
+**Erdbeer-Holunderblüten-Konfitüre**, die beste Erdbeerkonfitüre der Welt. Diese beiden Zutaten harmonieren vollkommen, der Duft ist grossartig! Der einzige Moment um diese Konfitüre vorzubereiten, ist jetzt. Denn, die Holunderblüten halten nicht lange. Ich liebe es, die kleinen duftenden Blüten auf der Brotscheibe zu sehen, herrlich! Ja, es braucht viel Geduld beim Zupfen der Blüten, aber es lohnt sich definitiv. Ihr glaubt es mir nicht? Dann probiert sie!
 
 <a href="https://www.foodblogs-schweiz.ch/challenge/" target="_blank" rel="noreferrer noopener">
 <img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2019/06/Foodblogs-Schweiz-Banner-Juni.png" alt="Foodblogs Schweiz Challenge" class="wp-image-452 ignore-gallery-item"/>
@@ -24,31 +24,36 @@ Im Juni-Warenkorb der Foodie Challenge, organisiert von <a href="https://www.foo
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Erdbeer-Holunderblüten-Konfitüre</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2019-06-12-confettura-di-fragole-e-fiori-di-sambuco/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Erdbeer-Holunderblüten-Konfitüre, die beste Erdbeerkonfitüre der Welt. Diese beiden Zutaten harmonieren vollkommen, der Duft ist grossartig!</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1.1kg</td>
             <td>Erdbeeren gerüstet</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>Vanilleschote</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>Zitrone nur Saft</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>6</td>
             <td>grosse Holunderblütenrispen</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>700gr</td>
             <td>Zucker</td>  
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Geliermittel</td>        
           </tr>

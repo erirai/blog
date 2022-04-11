@@ -15,28 +15,33 @@ lang: it
 ---
 ![](header.jpeg "frangipani © Erica")
 
-Asparagi in Padella al Limone, un contorno leggero e veloce per gustare questi meravigliosi e sanissimi germogli. Però attenzione, sono uno tira l'altro! Questo è in assoluto il mio modo preferito per preparare gli asparagi... L'ingrediente segreto, in realtà, non è il limone, ma l'olio di pistacchi. Sì, l'olio di pistacchi con gli asparagi ci sta divinamente e se riuscite a trovarlo, vi consiglio di comprarlo. È caruccio, ma ne vale la pena! Altrimenti va benissimo anche un buon olio evo. Questo è anche l'unico modo per far mangiare gli asparagi ai miei piccoli... L'anno scorso li divoravano e quest'anno niente, non li vogliono! Ma anche i vostri bimbi cambiano i loro gusti da un momento all'altro? Boh, non lo so...
+**Asparagi in Padella al Limone**, un contorno leggero e veloce per gustare questi meravigliosi e sanissimi germogli. Però attenzione, sono uno tira l'altro! Questo è in assoluto il mio modo preferito per preparare gli asparagi... L'ingrediente segreto, in realtà, non è il limone, ma l'olio di pistacchi. Sì, l'olio di pistacchi con gli asparagi ci sta divinamente e se riuscite a trovarlo, vi consiglio di comprarlo. È caruccio, ma ne vale la pena! Altrimenti va benissimo anche un buon olio evo. Questo è anche l'unico modo per far mangiare gli asparagi ai miei piccoli... L'anno scorso li divoravano e quest'anno niente, non li vogliono! Ma anche i vostri bimbi cambiano i loro gusti da un momento all'altro? Boh, non lo so...
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Asparagi in Padella al Limone</span>
+      <span itemprop="recipeCategory" style="display:none;">Salato</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Asparagi in Padella al Limone, un contorno leggero e veloce per gustare questi meravigliosi e sanissimi germogli.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>asparagi verdi</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>spicchio d'aglio</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>olio evo e olio di pistacchi</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>succo di limone</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>sale</td>
           </tr>
         </tbody>

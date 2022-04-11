@@ -15,7 +15,7 @@ lang: it
 ---
 ![](header.jpeg "frangipani © Erica")
 
-Confettura di Fragole e Fiori di Sambuco, la confettura di fragole più buona al mondo. Questi due ingredienti armonizzano alla perfezione, il profumo è fantastico! L'unico periodo per farla, è questo. Perché i fiori di sambuco non tengono a lungo. Adoro vedere quei piccoli fiorellini profumati sulla fetta di pane, meraviglioso! Sì, ci vuole un po' di pazienza a staccare tutti quei piccoli fiorellini bianchi, ma ne vale assolutamente la pena. Non ci credete? Allora provatela!
+**Confettura di Fragole e Fiori di Sambuco**, la confettura di fragole più buona al mondo. Questi due ingredienti armonizzano alla perfezione, il profumo è fantastico! L'unico periodo per farla, è questo. Perché i fiori di sambuco non tengono a lungo. Adoro vedere quei piccoli fiorellini profumati sulla fetta di pane, meraviglioso! Sì, ci vuole un po' di pazienza a staccare tutti quei piccoli fiorellini bianchi, ma ne vale assolutamente la pena. Non ci credete? Allora provatela!
 
 <a href="https://www.foodblogs-schweiz.ch/challenge/" target="_blank" rel="noreferrer noopener">
 <img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2019/06/Foodblogs-Schweiz-Banner-Juni.png" alt="Foodblogs Schweiz Challenge" class="wp-image-452 ignore-gallery-item"/>
@@ -24,31 +24,36 @@ Nel cestino della Foodie Challenge mensile di giugno, organizzata da <a href="ht
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Confettura di Fragole e Fiori di Sambuco</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Confettura di Fragole e Fiori di Sambuco, la confettura di fragole più buona al mondo. Questi due ingredienti armonizzano alla perfezione, il profumo è fantastico!</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1.1kg</td>
             <td>fragole pulite</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 stecca</td>
             <td>vaniglia</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>limone solo il succo</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>6</td>
             <td>grappoli grandi di fiori di sambuco</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>700gr</td>
             <td>zucchero</td>  
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>gelificante</td>        
           </tr>

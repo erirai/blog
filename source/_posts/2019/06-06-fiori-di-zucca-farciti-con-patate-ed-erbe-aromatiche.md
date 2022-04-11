@@ -17,45 +17,50 @@ lang: it
 ---
 ![](header.jpeg "frangipani © Erica")
 
-Fiori di Zucca farciti con Patate ed Erbette Aromatiche, un contorno o un antipasto delicatissimo per stupire i vostri ospiti. Perfetti anche per un Buffet, perché si possono mangiare anche con le mani. Potete scegliere se mettere all'interno del formaggio o il Tofu, quindi possono essere anche vegani. Senza uova, ne pastella... semplicemente cotti al forno! Sono arrivati tardi quest'anno i fiori di zucca o mi sbaglio? Non riuscivo a trovarli, infatti me li ha portati il mio Papà. Volevo farli in un modo diverso, senza <a href="https://frangipani.raiano.ch/2015-04-25-fiori-di-zucca-ripieni-di-ricotta-e-spinaci/" target="_blank">ricotta</a> o <a href="https://frangipani.raiano.ch/2014-03-19-fiori-di-zucca-ripieni-di-mozzarella/" target="_blank">mozzarella</a> e non fritti ed eccoli qui! 
+**Fiori di Zucca farciti con Patate ed Erbette Aromatiche**, un contorno o un antipasto delicatissimo per stupire i vostri ospiti. Perfetti anche per un Buffet, perché si possono mangiare anche con le mani. Potete scegliere se mettere all'interno del formaggio o il Tofu, quindi possono essere anche vegani. Senza uova, ne pastella... semplicemente cotti al forno! Sono arrivati tardi quest'anno i fiori di zucca o mi sbaglio? Non riuscivo a trovarli, infatti me li ha portati il mio Papà. Volevo farli in un modo diverso, senza <a href="https://frangipani.raiano.ch/2015-04-25-fiori-di-zucca-ripieni-di-ricotta-e-spinaci/" target="_blank">ricotta</a> o <a href="https://frangipani.raiano.ch/2014-03-19-fiori-di-zucca-ripieni-di-mozzarella/" target="_blank">mozzarella</a> e non fritti ed eccoli qui! 
 
 Sono seduta in giardino mentre sto scrivendo questo Blogpost. Seduta sulla mia sedia a dondolo, come una nonnina, con i piedi al sole. Tira un venticello tiepido, ma la cosa più bella è, che fa caldo! E io sono felice, tanto felice.
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Fiori di Zucca farciti con Patate ed Erbette Aromatiche</span>
+      <span itemprop="recipeCategory" style="display:none;">Salato</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Fiori di Zucca farciti con Patate ed Erbette Aromatiche, un contorno o un antipasto delicatissimo per stupire i vostri ospiti.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>12</td>
             <td>fiori di zucca</td>
           </tr>
-          <tr>
+         <tr itemprop="recipeIngredient">
             <td>4</td>
             <td>patate medie</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>erbette aromatiche</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>scamorza o Tofu</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>burro o margarina</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>parmigiano grattugiato o pangrattato</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>olio evo</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>sale</td>    
           </tr>

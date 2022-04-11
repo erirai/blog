@@ -16,30 +16,33 @@ lang: it
 ---
 ![](header.jpeg "frangipani © Erica")
 
-> Benvenuto Aprile!
-
-Nidi di Biscotti al Cocco fatti con soli tre ingredienti, carini come segnaposto per la tavola di Pasqua e super buoni. Ottimi anche da fare insieme ai piccoli cuochi... Praticamente sono i classici biscotti al cocco che ho fatto a forma di nido, ho aggiunto qualche ovetto di zucchero ed il gioco è fatto. L'ispirazione l'ho trovata su Pinterest, mi sono piaciuti molto. Volendo potete anche fare delle decorazione con del cioccolato fuso o immergerli completamente nel cioccolato. Seguite comunque i vostri gusti. Io ho preferito lasciarli così, un pochettino grezzi e rustici. Aggiungente un piccolo tag col nome et voilà, il segnaposto è fatto! Più facile di così... 
+**Nidi di Biscotti al Cocco** fatti con soli tre ingredienti, carini come segnaposto per la tavola di Pasqua e super buoni. Ottimi anche da fare insieme ai piccoli cuochi... Praticamente sono i classici biscotti al cocco che ho fatto a forma di nido, ho aggiunto qualche ovetto di zucchero ed il gioco è fatto. L'ispirazione l'ho trovata su Pinterest, mi sono piaciuti molto. Volendo potete anche fare delle decorazione con del cioccolato fuso o immergerli completamente nel cioccolato. Seguite comunque i vostri gusti. Io ho preferito lasciarli così, un pochettino grezzi e rustici. Aggiungente un piccolo tag col nome et voilà, il segnaposto è fatto! Più facile di così... 
 
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Nidi di Biscotti al Cocco</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Nidi di Biscotti al Cocco fatti con soli tre ingredienti, carini come segnaposto per la tavola di Pasqua e super buoni.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>200gr</td>
             <td>cocco rapé</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100gr</td>
             <td>zucchero</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2</td>
             <td>albumi</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>ovetti di zucchero o simile</td>
           </tr>

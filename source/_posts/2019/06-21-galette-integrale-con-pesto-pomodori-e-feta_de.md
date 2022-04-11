@@ -17,43 +17,48 @@ lang: de
 
 > Willkommen Sommer!
 
-Vollkorn-Galette mit Pesto, Tomaten und Feta... perfekt, um meine Lieblingsjahreszeit, den Sommer, zu begrüssen! Frisch, lecker und leicht... einfach köstlich! Ich liebe Tomaten und während ihrer Saison essen wir sehr viele. Ich nehme gerne Tomaten in verschiedenen Farben, weil sie auch etwas anders schmecken. Aber wusstet ihr, dass die ursprüngliche Tomate nicht die rote, sondern die gelbe war? Auf Italienisch sagt man "Pomodoro", soviel wie "pomo d'oro", goldener Apfel, wenn man das so übersetzen kann. Letzte Woche auf dem Wochenmarkt gab es alles, auch die Tomaten in allen Farben! Und dort verliere ich mich... Dies ist einer der Gründe, warum ich den Sommer so liebe: seine Fülle an Obst und Gemüse. In der Tat ist der Kühlschrank voller Gemüse, das ich liebe... besonders gegrillte Auberginen und Zucchini! Auch die ersten Paprikaschoten kommen. Die Tomatensalate oder der griechische Salat, über den wir uns sehr freuen. Viele schweizer Früchte gibt es noch nicht, ausser Erdbeeren und Äpfeln gibt es nicht viel Auswahl, aber langsam werden Johannisbeeren, Himbeeren, Brombeeren, Heidelbeeren, Aprikosen usw. kommen. Ganz zu schweigen von der Wassermelone und den Pfirsichen!
+**Vollkorn-Galette mit Pesto, Tomaten und Feta** perfekt, um meine Lieblingsjahreszeit, den Sommer, zu begrüssen! Frisch, lecker und leicht... einfach köstlich! Ich liebe Tomaten und während ihrer Saison essen wir sehr viele. Ich nehme gerne Tomaten in verschiedenen Farben, weil sie auch etwas anders schmecken. Aber wusstet ihr, dass die ursprüngliche Tomate nicht die rote, sondern die gelbe war? Auf Italienisch sagt man "Pomodoro", soviel wie "pomo d'oro", goldener Apfel, wenn man das so übersetzen kann. Letzte Woche auf dem Wochenmarkt gab es alles, auch die Tomaten in allen Farben! Und dort verliere ich mich... Dies ist einer der Gründe, warum ich den Sommer so liebe: seine Fülle an Obst und Gemüse. In der Tat ist der Kühlschrank voller Gemüse, das ich liebe... besonders gegrillte Auberginen und Zucchini! Auch die ersten Paprikaschoten kommen. Die Tomatensalate oder der griechische Salat, über den wir uns sehr freuen. Viele schweizer Früchte gibt es noch nicht, ausser Erdbeeren und Äpfeln gibt es nicht viel Auswahl, aber langsam werden Johannisbeeren, Himbeeren, Brombeeren, Heidelbeeren, Aprikosen usw. kommen. Ganz zu schweigen von der Wassermelone und den Pfirsichen!
 Ich wünsche euch ein schöner Sommerbeginn und der erste, der sich über die Hitze beschwert, bekommt Diät verschrieben! Kein Eis den ganzen Sommer über!
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Vollkorn-Galette mit Pesto, Tomaten und Feta</span>
+      <span itemprop="recipeCategory" style="display:none;">Herzhaftes</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2019-06-21-galette-integrale-con-pesto-pomodori-e-feta/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Vollkorn-Galette mit Pesto, Tomaten und Feta perfekt, um meine Lieblingsjahreszeit, den Sommer, zu begrüssen! Frisch, lecker und leicht...</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
           <tr>
             <td colspan="2"><b>Teig</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100gr</td>
             <td>Vollkornmehl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100gr</td>
             <td>Mehl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Prise</td>
             <td>Natron</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Prise</td>
             <td>Salz</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>50ml</td>
             <td>Sonnenblumenöl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>20ml</td>
             <td>Olivenöl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>80ml</td>
             <td>Wasser</td>
           </tr>
@@ -61,31 +66,31 @@ Ich wünsche euch ein schöner Sommerbeginn und der erste, der sich über die Hi
           <tr>          
             <td colspan="2"><b>Füllung</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 grosser Bund</td>
             <td>Basilikum</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Pinienkerne</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Parmesankäse gerieben oder vegane Alternative</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Olivenöl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Salz</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>4</td>
             <td>verschiedenfarbige grosse Tomaten</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100gr</td>
             <td>Fetakäse oder Tofu</td>
           </tr>

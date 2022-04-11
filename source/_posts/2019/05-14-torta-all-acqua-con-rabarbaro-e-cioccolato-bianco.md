@@ -16,7 +16,7 @@ lang: it
 ---
 ![](header.jpeg "frangipani © Erica")
 
-Torta all'Acqua con Rabarbaro e Cioccolato Bianco il bilanciamento perfetto tra aspro e dolce. Una torta bella succosa da mangiare a colazione o a merenda. Se poi, come me, avete ancora del cioccolato bianco da smaltire, ecco la torta giusta! Io amo il rabarbaro, penso lo abbiate notato, e lo uso moltissimo nella sua breve stagione. Non sostituite il cioccolato bianco con del cioccolato al latte o fondente, non ci starebbe bene. Meglio non metterne proprio cioccolato, se non volete quello bianco. Se non trovate il rabarbaro, potete sostituirlo con le fragole o fare direttamente la <a href="https://frangipani.raiano.ch/2017-06-08-torta-all-acqua-con-fragole-e-cioccolato/" target="_blank">Torta all'Acqua con Fragole e Cioccolato</a>. 
+**Torta all'Acqua con Rabarbaro e Cioccolato Bianco** il bilanciamento perfetto tra aspro e dolce. Una torta bella succosa da mangiare a colazione o a merenda. Se poi, come me, avete ancora del cioccolato bianco da smaltire, ecco la torta giusta! Io amo il rabarbaro, penso lo abbiate notato, e lo uso moltissimo nella sua breve stagione. Non sostituite il cioccolato bianco con del cioccolato al latte o fondente, non ci starebbe bene. Meglio non metterne proprio cioccolato, se non volete quello bianco. Se non trovate il rabarbaro, potete sostituirlo con le fragole o fare direttamente la <a href="https://frangipani.raiano.ch/2017-06-08-torta-all-acqua-con-fragole-e-cioccolato/" target="_blank">Torta all'Acqua con Fragole e Cioccolato</a>. 
 
 Venerdì scorso abbiamo festeggiato il tuo compleanno, Gaia. 6 anni è un po’ speciale, perché è l’età della scuola, un grande passo… Come se crescessi più di un solo anno, non so se mi spiego… Purtroppo eravamo pochi, peccato! Perché a te piacciono troppo le feste con tanti ospiti, soprattutto le tue feste! Ieri però, hai festeggiato con i tuoi amichetti dell'asilo. Sei un po’ una diva, solo un po’ però eh. Fortunatamente ancora vivi nel tuo mondo fatato con unicorni, Babbo Natale, Harry Potter e vampiri… Ti sei già sposata tre volte, se non mi sbaglio, anche se sta iniziando la fase: i maschi sono antipatici, io gioco solo con le mie amichette BFF! Ma quando succede qualche ingiustizia, sono tutti uguali, sia maschi che femmine, difendi chiunque… Sei sempre più indipendente e vuoi fare tutto da sola. Hai le idee chiare e questo mi piace molto. Hai un ottimo senso del ritmo, sei bravissima a ballare e cantare, ma appena tocchi qualsiasi cosa con le ruote sei impacciatissima e non riesco a spiegarmi come sia possibile. Un pericolo pubblico! Amo il tuo umorismo molto speciale e quando ti partono le risate, quelle con le lacrime, solitamente a tavola con la bocca piena (in realtà non è un belvedere, ma la tua risata è contagiosa) e la tua spiccata autoironia… 
 Continua così, sempre rispettando i tuoi tempi, rispettando ogni essere vivente che ti sta attorno, rispettando la nostra Terra, rispettando Gaia… TVB
@@ -74,47 +74,52 @@ Queste Yogurt bars sono fantastiche! Si possono fare anche con il gelato o con l
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Torta all'Acqua con Rabarbaro e Cioccolato Bianco</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Torta all'Acqua con Rabarbaro e Cioccolato Bianco il bilanciamento perfetto tra aspro e dolce. Una torta bella succosa da mangiare a colazione o a merenda.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>3 stecche</td>
             <td>rabarbaro</td>        
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>succo di limone</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>375ml</td>
             <td>acqua</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>240gr</td>
             <td>zucchero</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>65gr</td>
             <td>olio di semi</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>350gr</td>
             <td>farina</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 bustina</td>
             <td>lievito per dolci</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 bustina</td>
             <td>zucchero vanigliato</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 pizzico</td>
             <td>sale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>150gr</td>
             <td>cioccolato bianco a pezzettini</td>
           </tr>

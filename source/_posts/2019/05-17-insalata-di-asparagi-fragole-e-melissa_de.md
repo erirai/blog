@@ -15,7 +15,7 @@ lang: de
 ---
 ![](../2019-05-17-insalata-di-asparagi-fragole-e-melissa/header.jpeg "frangipani © Erica")
 
-Spargel-Erdbeersalat mit Zitronenmelisse, das ist der perfekte Zeitpunkt um diesen Salat zu geniessen! Wenige Zutaten, auf dem ersten Blick nicht kompatibel, welche euch eine richtige Freude für den Gaumen schenken werden... Ich bereite diesen Salat mindestens ein Mal im Jahr vor. Eine perfekte Vorspeise, die man problemlos im Voraus vorbereiten kann oder für ein Picknick, in der Hoffnung, dass das Wetter das zulässt!
+**Spargel-Erdbeersalat mit Zitronenmelisse**, das ist der perfekte Zeitpunkt um diesen Salat zu geniessen! Wenige Zutaten, auf dem ersten Blick nicht kompatibel, welche euch eine richtige Freude für den Gaumen schenken werden... Ich bereite diesen Salat mindestens ein Mal im Jahr vor. Eine perfekte Vorspeise, die man problemlos im Voraus vorbereiten kann oder für ein Picknick, in der Hoffnung, dass das Wetter das zulässt!
 
 <a href="https://www.foodblogs-schweiz.ch/challenge/" target="_blank" rel="noreferrer noopener">
 <img src="https://www.foodblogs-schweiz.ch/wp-content/uploads/2019/04/Foodblogs-Schweiz-Banner-Mai.png" alt="Foodblogs Schweiz Challenge" class="wp-image-452 ignore-gallery-item"/>
@@ -24,31 +24,36 @@ Im Mai-Warenkorb der Foodie Challenge, organisiert von <a href="https://www.food
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Spargel-Erdbeer-Salat mit Zitronenmelisse</span>
+      <span itemprop="recipeCategory" style="display:none;">Herzhaftes</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2019-05-17-insalata-di-asparagi-fragole-e-melissa/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Spargel-Erdbeersalat mit Zitronenmelisse, das ist der perfekte Zeitpunkt um diesen Salat zu geniessen! Wenige Zutaten, auf dem ersten Blick nicht kompatibel, welche euch eine richtige Freude für den Gaumen schenken werden.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>500gr</td>
             <td>grüne Spargeln</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>250gr</td>
             <td>Erdbeeren</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2 Esslöffel</td>
             <td>(Erdbeer-) Balsamico Essig</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2 Esslöffel</td>
             <td>Pistazien- oder Olivenöl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Zitronenmelisse</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Salz</td>    
           </tr>

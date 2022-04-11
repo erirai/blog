@@ -15,36 +15,39 @@ lang: it
 ---
 ![](header.jpeg "frangipani © Erica")
 
-> Benvenuto Febbraio!
-
-Cuori di Sfoglia con Pesto Rosso, un aperitivo perfetto per San Valentino. Vi serve solo un rotolo di pasta sfoglia e del pesto rosso ed il gioco è fatto. Sono gustosissimi e vanno via in un attimo! Sul web si trovano un sacco di varianti, ma quasi tutti sono fatti con salumi o salmone. Per dare sapore a questi cuori di sfoglia, ho scelto il pesto rosso come farcia. Adoro i pomodori secchi e per queste preparazioni è ottimo. Va benissimo anche il classico pesto di basilico, ma il colore rosso in questo caso rende di più. Se non volete farli a forma di cuore, basta attorcigliarli e lasciarli così, lunghi come dei grissini. Voi sapete già cosa preparare per San Valentino?
+**Cuori di Sfoglia con Pesto Rosso**, un aperitivo perfetto per San Valentino. Vi serve solo un rotolo di pasta sfoglia e del pesto rosso ed il gioco è fatto. Sono gustosissimi e vanno via in un attimo! Sul web si trovano un sacco di varianti, ma quasi tutti sono fatti con salumi o salmone. Per dare sapore a questi cuori di sfoglia, ho scelto il pesto rosso come farcia. Adoro i pomodori secchi e per queste preparazioni è ottimo. Va benissimo anche il classico pesto di basilico, ma il colore rosso in questo caso rende di più. Se non volete farli a forma di cuore, basta attorcigliarli e lasciarli così, lunghi come dei grissini. Voi sapete già cosa preparare per San Valentino?
 
 Gaia questa e la prossima settimana è in ferie, niente asilo. Tutti partono per le montage, per la settimana bianca e noi anche quest'anno niente. Sono anni che vorrei passare almeno qualche giorno in montagna, anche se non amo il freddo. Ma per un motivo o per un altro non siamo ancora riusciti ad andarci. La speranza resta comunque l'ultima a morire... Vediamo se riusciremo ad andare al mercato anche se al momento non è che ci sia tanta scelta, ma vorrei far vedere ai piccoli la differenza di scelta tra l'inverno e l'abbondanza primaverile!
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Cuori di Sfoglia con Pesto Rosso</span>
+      <span itemprop="recipeCategory" style="display:none;">Salato</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Cuori di Sfoglia con Pesto Rosso, un aperitivo perfetto per San Valentino. Vi serve solo un rotolo di pasta sfoglia e del pesto rosso ed il gioco è fatto.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 rotolo</td>
             <td>pasta sfoglia (rettangolare)</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 manciata</td>
             <td>pomodori secchi</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 cucchiaio</td>
             <td>pinoli</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>basilico</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>olio evo</td>
           </tr>

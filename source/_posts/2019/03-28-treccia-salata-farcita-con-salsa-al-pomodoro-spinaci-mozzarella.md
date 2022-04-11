@@ -15,9 +15,7 @@ lang: it
 ---
 ![](header.jpeg "frangipani © Erica")
 
-> Arrivederci Marzo pazzerello!
-
-Treccia Salata farcita con Salsa al Pomodoro, Spinaci e Mozzarella super soffice e piena di gusti diversi. L'impasto è vegano e potete farcirlo con quello che più vi piace. Io ho scelto spinaci, pomodoro e Mozzarella che insieme vanno sempre bene. Ho usato lo stesso impasto del <a href="https://frangipani.raiano.ch/2016-09-26-pan-brioche-farcito/" target="_blank">Pan Brioche vegano farcito con Coste e Patate</a>, ma ho diminuito le dosi del lievito per farlo lievitare tutta la notte. Voi naturalmente aumentate le dosi del lievito, se non avete tutto questo tempo. La salsa al pomodoro può comodamente essere sostituita con dei pomodorini freschi conditi con olio, sale e basilico. Forse va anche meglio così evitate che fuoriesca la salsa al pomodoro (non vi dico che rabbia, ho fatto molta attenzione a non stendere troppo sottilmente l'impasto, ma niente!). Tra poco più di tre settimane sarà Pasqua... Già! Mi vien da dire, anche se quest'anno Pasqua cade relativamente tardi, sperando che finalmente il tempo sarà così bello da poter festeggiare all'aperto. Per il Buffet pasquale o per il Brunch questa Treccia salata farcita va benissimo! Voi che ne pensate?
+**Treccia Salata farcita con Salsa al Pomodoro, Spinaci e Mozzarella** super soffice e piena di gusti diversi. L'impasto è vegano e potete farcirlo con quello che più vi piace. Io ho scelto spinaci, pomodoro e Mozzarella che insieme vanno sempre bene. Ho usato lo stesso impasto del <a href="https://frangipani.raiano.ch/2016-09-26-pan-brioche-farcito/" target="_blank">Pan Brioche vegano farcito con Coste e Patate</a>, ma ho diminuito le dosi del lievito per farlo lievitare tutta la notte. Voi naturalmente aumentate le dosi del lievito, se non avete tutto questo tempo. La salsa al pomodoro può comodamente essere sostituita con dei pomodorini freschi conditi con olio, sale e basilico. Forse va anche meglio così evitate che fuoriesca la salsa al pomodoro (non vi dico che rabbia, ho fatto molta attenzione a non stendere troppo sottilmente l'impasto, ma niente!). Tra poco più di tre settimane sarà Pasqua... Già! Mi vien da dire, anche se quest'anno Pasqua cade relativamente tardi, sperando che finalmente il tempo sarà così bello da poter festeggiare all'aperto. Per il Buffet pasquale o per il Brunch questa Treccia salata farcita va benissimo! Voi che ne pensate?
 
 Vorrei farvi vedere pure la torta che ho fatto per il compleanno di Gioele...
 ![](tortagioele.jpeg "frangipani © Erica")
@@ -26,38 +24,43 @@ Voleva la torta di Criccheto e Criccheto fu! Ho fatto due torte di pasta biscott
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Treccia Salata farcita con Salsa al Pomodoro, Spinaci e Mozzarella</span>
+      <span itemprop="recipeCategory" style="display:none;">Salato</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Treccia Salata farcita con Salsa al Pomodoro, Spinaci e Mozzarella super soffice e piena di gusti diversi. L'impasto è vegano e potete farcirlo con quello che più vi piace.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
           <tr>
             <td colspan="2"><b>Impasto</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>250gr</td>
             <td>farina manitoba (farina 0)</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>250gr</td>
             <td>farina 00</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2 cucchiaini</td>
             <td>sale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>300ml</td>
             <td>latte (o latte vegetale)</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1gr</td>
             <td>lievito fresco</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 cucchiaino</td>
             <td>zucchero</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>50ml</td>
             <td>olio di semi</td>
           </tr>
@@ -65,35 +68,35 @@ Voleva la torta di Criccheto e Criccheto fu! Ho fatto due torte di pasta biscott
           <tr>          
             <td colspan="2"><b>Farica</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>spinaci</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>passata di pomodoro o pelati</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>mozzarella</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>cipolla</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>oli evo</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>sale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>basilico</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>parmigiano grattugiato</td>  
           </tr>

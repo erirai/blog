@@ -13,9 +13,7 @@ lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
-> Benvenuto 2019 e buon anno a voi!
-
-Pan d'Arancio, un dolce soffice e umido che sa di arance, che sa di sicilia, che sa di buono. Un dolce per ripartire con gusto, per sfruttare al massimo le arance, per fare scorta di vitamina C che l'inverno è lungo... Ho scoperto questo dolce l'anno scorso sul Blog di <a href="https://www.mumcakefrelis.it/2018/03/pan-darancio-ricetta-siciliana.html" target="_blank">Mum Cake Frelis</a> e l'ho annotato nel mio libretto per ricordarmi di farlo dopo le feste. Non conoscevo questo dolce ed è un dolce siciliano! Ma l'utilizzo dell'arancia intera nell'impasto mi piace troppo. Poi Lisa ha aggiunto anche la farina di mandorle ed ha sostituito il latte con il succo d'arancia, ottimo! Utilizzando le arance intere con tutta la scorza, è importantissimo usare arance bio non trattate, mi raccomando. Ormai mi sono abituata a prendere tutti gli agrumi bio, dato che uso molto spesso la scorza. Così sto tranquilla. Potete usare anche altri agrumi o addirittura mischiarli, rispettando le dosi naturalmente.
+**Pan d'Arancio**, un dolce soffice e umido che sa di arance, che sa di Sicilia, che sa di buono. Un dolce per ripartire con gusto, per sfruttare al massimo le arance, per fare scorta di vitamina C che l'inverno è lungo... Ho scoperto questo dolce l'anno scorso sul Blog di <a href="https://www.mumcakefrelis.it/2018/03/pan-darancio-ricetta-siciliana.html" target="_blank">Mum Cake Frelis</a> e l'ho annotato nel mio libretto per ricordarmi di farlo dopo le feste. Non conoscevo questo dolce ed è un dolce siciliano! Ma l'utilizzo dell'arancia intera nell'impasto mi piace troppo. Poi Lisa ha aggiunto anche la farina di mandorle ed ha sostituito il latte con il succo d'arancia, ottimo! Utilizzando le arance intere con tutta la scorza, è importantissimo usare arance bio non trattate, mi raccomando. Ormai mi sono abituata a prendere tutti gli agrumi bio, dato che uso molto spesso la scorza. Così sto tranquilla. Potete usare anche altri agrumi o addirittura mischiarli, rispettando le dosi naturalmente.
 
 Ma ditemi un po', come avete passato le feste? Noi purtoppo siamo stati malaticci, di nuovo! Sono quattro anni che durante le feste di natale almeno qualcuno si ammala. C'era mia cugina qui, venuta dalla Sicilia, e non me la sono neanche potuta godere per bene. Almeno i giorni di festa siamo riusciti a stare insieme, mangiando, ridendo e parlando... Un nuovo anno è iniziato e col nuovo anno ci sono anche i nuovi buoni propositi o quelli non realizzati e ripresi... Come l'anno scorso, vorrei scriverli nero su bianco ed eccoli qui:
 
@@ -29,44 +27,49 @@ E quali sono i vostri buoni propositi per quest'anno?
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Pan d'Arancio</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Pan d'Arancio, un dolce soffice e umido che sa di arance, che sa di Sicilia, che sa di buono.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 (ca. 300gr)</td>
             <td>arancia bio non trattata</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>250gr</td>
             <td>zucchero</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>3</td>
             <td>uova</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100ml</td>
             <td>olio di semi</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100ml</td>
             <td>spremuta d'arancia fresca</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 pizzico</td>
             <td>sale</td>
            </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>250gr</td>
             <td>farina</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>50gr</td>
             <td>farina di mandorle</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 bustina</td>
             <td>lievito per dolci</td>
           </tr>

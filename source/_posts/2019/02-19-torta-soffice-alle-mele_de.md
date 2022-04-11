@@ -13,7 +13,7 @@ lang: de
 ---
 ![](../2019-02-19-torta-soffice-alle-mele/header.jpeg "frangipani © Erica")
 
-Fluffiger Apfelkuchen... hoch, fluffig und voller Äpfel! Delikat im Geschmack mit einer luftigen Konsistenz. Ein simpler und einfacher Kuchen, der alle zufriedenstellt... Magst du keine Äpfel? Wo ist das Problem! Einfach mit anderen Früchten wie Birnen, Beeren, Pfirsichen oder mit <a href="https://frangipani.raiano.ch/2016-09-16-torta-soffice-con-gocce-di-cioccolato-de/" target="_blank">Schokostückchen</a> oder Nüssen ersetzen... Fügt auch Gewürze oder Aromen hinzu, wie ihr seht, ist dieser Kuchen sehr vielseitig! In diesem Herbst und Winter sind Äpfel und Birnen fabelhaft, wir essen tatsächlich viele davon. Im Moment gibt es nicht viel Auswahl: Äpfel, Birnen und Orangen. Das wars! Darum machen wir das Beste mit dem, was wir finden können...
+**Fluffiger Apfelkuchen** hoch, fluffig und voller Äpfel! Delikat im Geschmack mit einer luftigen Konsistenz. Ein simpler und einfacher Kuchen, der alle zufriedenstellt... Magst du keine Äpfel? Wo ist das Problem! Einfach mit anderen Früchten wie Birnen, Beeren, Pfirsichen oder mit <a href="https://frangipani.raiano.ch/2016-09-16-torta-soffice-con-gocce-di-cioccolato-de/" target="_blank">Schokostückchen</a> oder Nüssen ersetzen... Fügt auch Gewürze oder Aromen hinzu, wie ihr seht, ist dieser Kuchen sehr vielseitig! In diesem Herbst und Winter sind Äpfel und Birnen fabelhaft, wir essen tatsächlich viele davon. Im Moment gibt es nicht viel Auswahl: Äpfel, Birnen und Orangen. Das wars! Darum machen wir das Beste mit dem, was wir finden können...
 
 Heute geht es jedoch nach zwei Wochen Sportferien wieder los. Der Mood aufwachen mit dem Wecker, morgens beeilen, 100 Termine, Kinder rechts und links begleiten usw. usw. ist zurück! Aber zum Glück gibt es die Sonne, diese wunderbare Sonne, die endlich zurückgekehrt ist! Es ist beeindruckend, wie gut die Sonne tut... Im Winter falle ich in eine Art Winterschlaf (auch bekannt als schwarzes Loch), ich vertrage die Kälte, das wenige Licht und die kurzen Tage nicht. Die letzten Tage waren wunderbar! Bereits beim Aufwachen war die Sonne schon da, die Temperaturen sind gestiegen, auch wenn die Luft noch frisch ist und die Tage werden länger... Ich geniesse jeden Moment, wissend, dass noch Februar ist, mitten im Winter. Der Schnee könnte jeden Moment zurückkommen. Die Energie kommt langsam wieder zurück, tatsächlich haben wir viele Dinge getan:
 - ich habe die Schränke der Kleinen und meinen sortiert und viel Platz gemacht
@@ -29,47 +29,52 @@ So, nicht schlecht würde ich sagen! Nun muss ich nur noch den Schrank mit den J
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Fluffiger Apfelkuchen</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2019-02-19-torta-soffice-alle-mele/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Fluffiger Apfelkuchen hoch, fluffig und voller Äpfel! Delikat im Geschmack mit einer luftigen Konsistenz. Ein simpler und einfacher Kuchen, der alle zufriedenstellt.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>3</td>
             <td>Eier</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>170gr</td>
             <td>Zucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Vanille</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Prise</td>
             <td>Salz</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>150gr</td>
             <td>Milch</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>120gr</td>
             <td>Sonnenblumenöl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>250gr</td>
             <td>Mehl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2 Päckchen</td>
             <td>Backpulver</td>        
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2-3</td>
             <td>Äpfel</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Hagelzucker</td>
           </tr>

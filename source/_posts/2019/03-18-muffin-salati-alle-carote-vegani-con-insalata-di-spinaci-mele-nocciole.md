@@ -14,7 +14,7 @@ lang: it
 ---
 ![](header.jpeg "frangipani © Erica")
 
-Muffin salati alle Carote vegani con Insalata di Spinaci, Mele e Nocciole per un pranzo leggero e veloce. La primavera sta arrivando e con lei anche i piatti più leggeri e freschi. Questi Muffin sono ottimi anche come aperitivo, antipasto o per un buffet o Picnic. Non volete usare le carote? Sostituitele con altra verdura di stagione... Per l'insalata ho usato gli spinaci perché volevo finalmente provare a mangiarli freschi e avevano un aspetto molto invitante. Poi voi usate l'insalata che più vi piace! Va benissimo anche il soncino... Mi è piaciuto tantissimo questo piatto, molto saziante, nutriente e sano direi. Non vedo l'ora che arrivino gli asparagi, i piselli freschi, i carciofini, i fiori di zucca, le fragole, le nespole e tutte le verdure e la frutta che la primavera ci offre! Per ora però ci arrangiamo con quello che c'è...
+**Muffin salati alle Carote vegani con Insalata di Spinaci, Mele e Nocciole** per un pranzo leggero e veloce. La primavera sta arrivando e con lei anche i piatti più leggeri e freschi. Questi Muffin sono ottimi anche come aperitivo, antipasto o per un buffet o Picnic. Non volete usare le carote? Sostituitele con altra verdura di stagione... Per l'insalata ho usato gli spinaci perché volevo finalmente provare a mangiarli freschi e avevano un aspetto molto invitante. Poi voi usate l'insalata che più vi piace! Va benissimo anche il soncino... Mi è piaciuto tantissimo questo piatto, molto saziante, nutriente e sano direi. Non vedo l'ora che arrivino gli asparagi, i piselli freschi, i carciofini, i fiori di zucca, le fragole, le nespole e tutte le verdure e la frutta che la primavera ci offre! Per ora però ci arrangiamo con quello che c'è...
 
 Con questa ricetta partecipo alla Food-Blog-Challenge mensile di marzo organizzata dalla nuova piattaforma <a href="https://www.foodblogs-schweiz.ch" target="_blank">Foodblogs Schweiz</a>. <a href="https://www.foodblogs-schweiz.ch/ueber-uns/" target="_blank">Sei Foodblogger</a> si sono messi insieme e hanno creato questa piattaforma per unire virtualmente i Foodblogger svizzeri. Ogni mese loro ci propongono un cestino con sei ingredienti di stagione, di cui noi ne possiamo scegliere almeno due e creare una ricetta. Tutto questo può essere seguito con l'hashtag #foodblogsschweiz. Nel mese di marzo nel cestino troviamo: ravanelli, nocciole, carote, soncino, mele e pere. Io ho scelto carote, mele e nocciole. Al posto del soncino ho preso gli spinaci. Ho creato questi Muffin salati alle Carote vegani con Insalata di Spinaci, Mele e Nocciole. 
 ![](cestino.jpeg "frangipani © Erica")
@@ -24,54 +24,59 @@ Uno dei miei buoni propositi di quest'anno è diminuire l'utilizzo/lo spreco del
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Muffin salati alle Carote vegani con Insalata di Spinaci, Mele e Nocciole</span>
+      <span itemprop="recipeCategory" style="display:none;">Salato</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Muffin salati alle Carote vegani con Insalata di Spinaci, Mele e Nocciole per un pranzo leggero e veloce.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
           <tr>
             <td colspan="2"><b>Muffin salati</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2-3</td>
             <td>carote</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>porro</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>150gr</td>
             <td>farina</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>50gr</td>
             <td>fecola di patate o simile</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2 bustina</td>
             <td>lievito per dolci</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>130ml</td>
             <td>latte vegetale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>70ml</td>
             <td>olio di semi</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>erbette aromatiche</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>olio evo</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>sale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>sesamo</td>
           </tr>
@@ -79,27 +84,27 @@ Uno dei miei buoni propositi di quest'anno è diminuire l'utilizzo/lo spreco del
           <tr>          
             <td colspan="2"><b>Insalata</b></td>
           </tr>      
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>spinaci freschi o soncino</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>mele</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>nocciole</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>succo di limone</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>olio evo</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>sale</td>
           </tr>

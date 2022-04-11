@@ -16,29 +16,32 @@ lang: de
 ---
 ![](../2019-04-02-nidi-di-biscotti-al-cocco/header.jpeg "frangipani © Erica")
 
-> Willkommen April! Ich hoffe, du machst nicht zu sehr was du willst!
-
-Kokosmakronen-Nestchen, gemacht aus nur drei Zutaten, schön als Tischkarte mit dem Namen für den Ostertisch und super lecker. Man kann sie sehr gut auch mit den kleinen Nachwuchsköchen vorbereiten... Im Grunde sind es die klassischen Kokosmakronen, die ich in Form eines Nestchens gemacht und mit Zuckereier dekoriert habe. Die Inspiration fand ich auf Pinterest, sie gefielen mir sehr. Wenn ihr möchtet, könnt ihr sie auch mit geschmolzener Schokolade dekorieren oder vollständig in Schokolade eintauchen. Folgt einfach eurem Geschmack. Ich zog es vor, sie so zu lassen, etwas unbearbeitet und rustikal. Mit einem kleinen Kärtchen mit dem Namen dazu, et voilà, ist die Tischkarte fertig! Leichter als das...
+**Kokosmakronen-Nestchen**, gemacht aus nur drei Zutaten, schön als Tischkarte mit dem Namen für den Ostertisch und super lecker. Man kann sie sehr gut auch mit den kleinen Nachwuchsköchen vorbereiten... Im Grunde sind es die klassischen Kokosmakronen, die ich in Form eines Nestchens gemacht und mit Zuckereier dekoriert habe. Die Inspiration fand ich auf Pinterest, sie gefielen mir sehr. Wenn ihr möchtet, könnt ihr sie auch mit geschmolzener Schokolade dekorieren oder vollständig in Schokolade eintauchen. Folgt einfach eurem Geschmack. Ich zog es vor, sie so zu lassen, etwas unbearbeitet und rustikal. Mit einem kleinen Kärtchen mit dem Namen dazu, et voilà, ist die Tischkarte fertig! Leichter als das...
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Kokosmakronen-Nestchen</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2019-04-02-nidi-di-biscotti-al-cocco/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Kokosmakronen-Nestchen, gemacht aus nur drei Zutaten, schön als Tischkarte mit dem Namen für den Ostertisch und super lecker.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>200gr</td>
             <td>Kokos gerieben</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100gr</td>
             <td>Zucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2</td>
             <td>Eiweisse</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Zuckereier o.ä.</td>
           </tr>

@@ -14,7 +14,7 @@ lang: de
 ---
 ![](../2019-03-18-muffin-salati-alle-carote-vegani-con-insalata-di-spinaci-mele-nocciole/header.jpeg "frangipani © Erica")
 
-Herzhafte vegane Karotten-Muffins mit Spinat-Apfel-Haselnuss-Salat für ein leichtes und schnelles Mittagessen. Der Frühling kommt und mit ihm auch die leichteren und frischeren Gerichte. Diese Muffins eignen sich auch hervorragend als Aperitif oder Vorspeise oder für ein Buffet oder Picknick. Möchtest du keine Karotten verwenden? Ersetze sie durch anderes saisonales Gemüse... Für den Salat habe ich Spinat verwendet, weil ich ihn endlich frisch essen wollte und er sah sehr einladend aus. Ihr verwendet einfach den Salat, der euch am besten gefällt! Nüsslisalat ist auch super... Ich mochte dieses Gericht wirklich sehr, sehr sättigend, nahrhaft und gesund, würde ich sagen. Ich kann es kaum erwarten Spargel, frische Erbsen, Artischocken, Zucchiniblüten, Erdbeeren, Mispeln und all das Gemüse und Obst, das uns der Frühling bietet, zu essen! Im Moment machen wir das Beste mit dem, was da ist...
+**Herzhafte vegane Karotten-Muffins mit Spinat-Apfel-Haselnuss-Salat** für ein leichtes und schnelles Mittagessen. Der Frühling kommt und mit ihm auch die leichteren und frischeren Gerichte. Diese Muffins eignen sich auch hervorragend als Aperitif oder Vorspeise oder für ein Buffet oder Picknick. Möchtest du keine Karotten verwenden? Ersetze sie durch anderes saisonales Gemüse... Für den Salat habe ich Spinat verwendet, weil ich ihn endlich frisch essen wollte und er sah sehr einladend aus. Ihr verwendet einfach den Salat, der euch am besten gefällt! Nüsslisalat ist auch super... Ich mochte dieses Gericht wirklich sehr, sehr sättigend, nahrhaft und gesund, würde ich sagen. Ich kann es kaum erwarten Spargel, frische Erbsen, Artischocken, Zucchiniblüten, Erdbeeren, Mispeln und all das Gemüse und Obst, das uns der Frühling bietet, zu essen! Im Moment machen wir das Beste mit dem, was da ist...
 
 Mit diesem Rezept nehme ich an der monatlichen Food-Blog-Challenge vom Monat März teil, die von der neuen Plattform <a href="https://www.foodblogs-schweiz.ch" target="_blank">Foodblogs Schweiz</a> organisiert wird. <a href="https://www.foodblogs-schweiz.ch/ueber-uns/" target="_blank">Sechs Foodblogger</a> haben sich zusammengetan und diese Plattform geschaffen, um Schweizer Foodblogger zu vernetzen. Jeden Monat bieten sie uns einen Warenkorb mit sechs saisonalen Zutaten an, von denen wir mindestens zwei auswählen dürfen und damit ein Rezept erstellen können. All dies kann mit dem Hashtag #foodblogsschweiz verfolgt werden. Im März finden wir im Warenkorb: Radieschen, Haselnüsse, Karotten, Nüsslisalat, Äpfel und Birnen. Ich habe Karotten, Äpfel und Haselnüsse ausgesucht. Anstelle von Nüsslisalat habe ich Spinat genommen. Damit sind diese herzhaften veganen Karotten-Muffins mit Spinat-Apfel-Haselnuss-Salat entstanden.
 ![](../2019-03-18-muffin-salati-alle-carote-vegani-con-insalata-di-spinaci-mele-nocciole/cestino.jpeg "frangipani © Erica")
@@ -24,54 +24,59 @@ Einer meiner guten Vorsätzen in diesem Jahr ist es, die Verwendung von Plastik 
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Herzhafte vegane Karotten-Muffins mit Spinat-Apfel-Haselnuss-Salat</span>
+      <span itemprop="recipeCategory" style="display:none;">Herzhaftes</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2019-03-18-muffin-salati-alle-carote-vegani-con-insalata-di-spinaci-mele-nocciole/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Herzhafte vegane Karotten-Muffins mit Spinat-Apfel-Haselnuss-Salat für ein leichtes und schnelles Mittagessen.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
           <tr>
-            <td colspan="2"><b>herzhafte Muffins</b></td>
+            <td colspan="2"><b>Muffins</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2-3</td>
             <td>Karotten</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Lauch</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>150gr</td>
             <td>Mehl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>50gr</td>
             <td>Kartoffelstärke o.ä.</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2 Päckchen</td>
             <td>Backpulver</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>130ml</td>
             <td>pflanzliche Milch</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>70ml</td>
             <td>Sonnenblumenöl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Kräuter</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Olivenöl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Salz</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Sesam</td>
           </tr>
@@ -79,27 +84,27 @@ Einer meiner guten Vorsätzen in diesem Jahr ist es, die Verwendung von Plastik 
           <tr>          
             <td colspan="2"><b>Salat</b></td>
           </tr>      
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Blattspinat oder Nüsslisalat</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Äpfel</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Haselnüsse</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Zitronensaft</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Olivenöl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Salz</td>
           </tr>
