@@ -840,7 +840,7 @@ Ieri cercavo dei nuovi biscotti di natale e ho trovato questi. A quanto pare son
         
         <!--<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>-->
         <!-- sidebar -->
-        <ins class="adsbygoogle"
+        <!-- <ins class="adsbygoogle"
              style="display:block"
              data-ad-client="ca-pub-2174223436739417"
              data-ad-slot="6339541861"
@@ -848,7 +848,7 @@ Ieri cercavo dei nuovi biscotti di natale e ho trovato questi. A quanto pare son
              data-full-width-responsive="true"></ins>
         <script>
              (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
+        </script> -->
     </div>
 </aside>
 
@@ -867,17 +867,18 @@ Ieri cercavo dei nuovi biscotti di natale e ho trovato questi. A quanto pare son
                   <p>&copy; 2022 Erica | <a href="/?lng=de">DE</a></p>
                   <p>made with <a href="//hexo.io/" target="_blank">Hexo</a>. Original theme by <a href="//github.com/ppoffice" target="_blank">PPOffice</a></p>
                 </div>
-                <div class="adsense" style="margin-top: 20px; margin-left: 10px; padding-left: 10px; float:right; margin-right: -30px;">
+                <!--
+                <div class="adsense" style="margin-top: 20px; margin-left: 10px; padding-left: 10px; float:right; margin-right: -30px;">-->
                     <!--<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>-->
                     <!-- footer -->
-                    <ins class="adsbygoogle"
+                    <!--<ins class="adsbygoogle"
                         style="display:inline-block;width:320px;height:100px"
                         data-ad-client="ca-pub-2174223436739417"
                         data-ad-slot="7417515483"></ins>
                     <script>
                         (adsbygoogle = window.adsbygoogle || []).push({});
                     </script>
-                </div><!-- /.adsense -->
+                </div>-->
             </div>
         </div>
     </div>
@@ -929,11 +930,11 @@ Ieri cercavo dei nuovi biscotti di natale e ho trovato questi. A quanto pare son
 
 <script src="//cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
 <script>
-    function downloadGoogleAdsenseJSAtOnload() {
-        var element = document.createElement("script");
-        element.src = "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js";
-        document.body.appendChild(element);
-    }
+    // function downloadGoogleAdsenseJSAtOnload() {
+    //     var element = document.createElement("script");
+    //     element.src = "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js";
+    //     document.body.appendChild(element);
+    // }
     function enableCookies() {
         if (window.location.hostname.search('localhost') === -1) {
             // analytics
@@ -961,7 +962,7 @@ Ieri cercavo dei nuovi biscotti di natale e ho trovato questi. A quanto pare son
             // ga('set', 'anonymizeIp', true);
 
             // adsense
-            downloadGoogleAdsenseJSAtOnload();
+            // downloadGoogleAdsenseJSAtOnload();
         }
     }
     function disableCookies() {
@@ -989,12 +990,12 @@ Ieri cercavo dei nuovi biscotti di natale e ho trovato questi. A quanto pare son
             type: "opt-in",
             content: {
                 header: "Cookies utilizzati sul sito web!",
-                message: "Questo sito Web utilizza i cookie per assicurarti di ottenere l&#39;esperienza migliore su questo sito web e per pubblicare annunci pubblicitari, misurarli e aumentare la sicurezza dei visitatori. Navigando nel blog o facendo clic all&#39;interno del blog, accetti la raccolta di informazioni attraverso i cookie su questo blog.",
+                message: "Questo sito Web utilizza i cookie per assicurarti di ottenere l&#39;esperienza migliore su questo sito web, misurarli e aumentare la sicurezza dei visitatori. Navigando nel blog o facendo clic all&#39;interno del blog, accetti la raccolta di informazioni attraverso i cookie su questo blog.",
                 dismiss: "Capito!",
                 allow: "Consenti",
                 deny: "Declino",
                 link: "Per saperne di più",
-                href: 'http://cookiesandyou.com',
+                href: "/privacy.html",
                 close: '&#x274c;',
             },
             elements: {

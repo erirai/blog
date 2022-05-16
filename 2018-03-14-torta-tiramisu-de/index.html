@@ -913,7 +913,7 @@ Vor dem Servieren mit Schokoraspeln dekorieren und Kakaopulver darüber streuen,
         
         <!--<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>-->
         <!-- sidebar -->
-        <ins class="adsbygoogle"
+        <!-- <ins class="adsbygoogle"
              style="display:block"
              data-ad-client="ca-pub-2174223436739417"
              data-ad-slot="6339541861"
@@ -921,7 +921,7 @@ Vor dem Servieren mit Schokoraspeln dekorieren und Kakaopulver darüber streuen,
              data-full-width-responsive="true"></ins>
         <script>
              (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
+        </script> -->
     </div>
 </aside>
 
@@ -940,17 +940,18 @@ Vor dem Servieren mit Schokoraspeln dekorieren und Kakaopulver darüber streuen,
                   <p>&copy; 2022 Erica | <a href="/?lng=it">IT</a></p>
                   <p>made with <a href="//hexo.io/" target="_blank">Hexo</a>. Original theme by <a href="//github.com/ppoffice" target="_blank">PPOffice</a></p>
                 </div>
-                <div class="adsense" style="margin-top: 20px; margin-left: 10px; padding-left: 10px; float:right; margin-right: -30px;">
+                <!--
+                <div class="adsense" style="margin-top: 20px; margin-left: 10px; padding-left: 10px; float:right; margin-right: -30px;">-->
                     <!--<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>-->
                     <!-- footer -->
-                    <ins class="adsbygoogle"
+                    <!--<ins class="adsbygoogle"
                         style="display:inline-block;width:320px;height:100px"
                         data-ad-client="ca-pub-2174223436739417"
                         data-ad-slot="7417515483"></ins>
                     <script>
                         (adsbygoogle = window.adsbygoogle || []).push({});
                     </script>
-                </div><!-- /.adsense -->
+                </div>-->
             </div>
         </div>
     </div>
@@ -1002,11 +1003,11 @@ Vor dem Servieren mit Schokoraspeln dekorieren und Kakaopulver darüber streuen,
 
 <script src="//cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
 <script>
-    function downloadGoogleAdsenseJSAtOnload() {
-        var element = document.createElement("script");
-        element.src = "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js";
-        document.body.appendChild(element);
-    }
+    // function downloadGoogleAdsenseJSAtOnload() {
+    //     var element = document.createElement("script");
+    //     element.src = "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js";
+    //     document.body.appendChild(element);
+    // }
     function enableCookies() {
         if (window.location.hostname.search('localhost') === -1) {
             // analytics
@@ -1034,7 +1035,7 @@ Vor dem Servieren mit Schokoraspeln dekorieren und Kakaopulver darüber streuen,
             // ga('set', 'anonymizeIp', true);
 
             // adsense
-            downloadGoogleAdsenseJSAtOnload();
+            // downloadGoogleAdsenseJSAtOnload();
         }
     }
     function disableCookies() {
@@ -1062,12 +1063,12 @@ Vor dem Servieren mit Schokoraspeln dekorieren und Kakaopulver darüber streuen,
             type: "opt-in",
             content: {
                 header: "Cookies werden auf der Website verwendet!",
-                message: "Diese Website verwendet Cookies, um sicherzustellen, dass Sie die beste Erfahrung auf dieser Website erhalten und Werbeanzeigen zu plazieren, diese zu messen und die Sicherheit für unsere Besucher zu steigern. Durch das Navigieren in dem Blog oder das Klicken innerhalb des Blogs, stimmst Du der Sammlung von Informationen mittels Cookies auf diesem Blogs zu.",
+                message: "Diese Website verwendet Cookies, um sicherzustellen, dass Sie die beste Erfahrung auf dieser Website erhalten, diese zu messen und die Sicherheit für unsere Besucher zu steigern. Durch das Navigieren in dem Blog oder das Klicken innerhalb des Blogs, stimmst Du der Sammlung von Informationen mittels Cookies auf diesem Blogs zu.",
                 dismiss: "Verstanden!",
                 allow: "Zulassen",
                 deny: "Verweigern",
                 link: "Erfahren Sie mehr",
-                href: 'http://cookiesandyou.com',
+                href: "/privacy-de.html",
                 close: '&#x274c;',
             },
             elements: {
