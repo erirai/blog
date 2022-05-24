@@ -9,6 +9,22 @@
 
 
     <url>
+        <loc>https://frangipani.raiano.ch/2016-04-04-sfoglia-al-rabarbaro-de/</loc>
+        <lastmod>2022-05-24T10:04:03.325Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2016-04-04-sfoglia-al-rabarbaro/</loc>
+        <lastmod>2022-05-24T10:02:41.008Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://frangipani.raiano.ch/2014-07-25-ciambella-vegana-ai-frutti-di-bosco-de/</loc>
         <lastmod>2022-05-03T18:00:40.573Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -4531,14 +4547,6 @@
     <url>
         <loc>https://frangipani.raiano.ch/2016-03-27-panini-soffici-al-cioccolato/</loc>
         <lastmod>2017-08-20T12:14:49.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2016-04-04-sfoglia-al-rabarbaro/</loc>
-        <lastmod>2017-08-20T12:14:47.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
