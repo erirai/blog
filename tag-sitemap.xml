@@ -4,7 +4,28 @@
 
     <url>
         <loc>https://frangipani.raiano.ch/tags/primavera/</loc>
-        <lastmod>2022-05-30T19:26:02.288Z</lastmod>
+        <lastmod>2022-06-08T14:59:00.474Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/tags/pasqua/</loc>
+        <lastmod>2022-06-08T14:59:00.474Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/tags/asparagi/</loc>
+        <lastmod>2022-06-08T14:59:00.474Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/tags/aperitivo/</loc>
+        <lastmod>2022-06-08T14:59:00.474Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -73,13 +94,6 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/tags/pasqua/</loc>
-        <lastmod>2022-04-11T12:47:27.660Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://frangipani.raiano.ch/tags/biscotti/</loc>
         <lastmod>2022-04-11T12:47:27.660Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -130,13 +144,6 @@
 
     <url>
         <loc>https://frangipani.raiano.ch/tags/pomodori-secchi/</loc>
-        <lastmod>2022-04-08T09:07:33.794Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/tags/aperitivo/</loc>
         <lastmod>2022-04-08T09:07:33.794Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -235,13 +242,6 @@
 
     <url>
         <loc>https://frangipani.raiano.ch/tags/contorno/</loc>
-        <lastmod>2022-04-08T08:25:15.135Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/tags/asparagi/</loc>
         <lastmod>2022-04-08T08:25:15.135Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
