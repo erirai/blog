@@ -14,47 +14,50 @@ lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
-> Ciao Novembre! Sono felice che tu stia per finire...
-
-Pane di Patate Viola, dal colore ed il profumo molto invitante. In realtà non è altro che del pane di patate, ma usando le patate viola otterrete una mollica dal colore lilla, bello no? Purtroppo sulle foto il colore si perde molto, ha effettivamente un colore lilla. Ho trovato la ricetta su <a href="https://fooby.ch/it/ricette/16557/pane-di-patate-viola?startAuto1=0" target="_blank">Fooby</a> e fu amore a prima vista, anche perchè io adoro i lievitati con le patate nell'impasto. Rendono l'impasto ancora più soffice dando molta morbidezza e umidità. Come sempre io uso poco lievito facendo lievitare l'impasto per tutta la notte, voi naturalmente aumentate le dosi del lievito per accelerare i tempi di lievitazione. Mi piace tantissimo cuocere il pane in casseruola, perchè si forma quella bella crosticina croccante. Se preferite cuocerlo senza casseruola, dopo la lievitazione formate una palla e mettetelo sulla teglia con sotto della carta forno e fate lievitare per un'oretta. Poi infornate nel forno preriscaldato a 220°C statico finché sarà cotto. Farebbe anche la sua bella figura sulla tavola festiva, no? A proposito di feste... Con questa ricetta saluto il mese di Novembre per dedicarmi finalmente alle ricette natalizie! Spero di trovare presto anche un pochettino di tempo per fare i biscotti con i piccoli. Ormai mi stanno facendo una testa così, perchè gli ho preso i grembiuli natalizi e li vogliono mettere per fare i biscotti... Ma li capisco eh! Finalmente ne ho preso uno anche per me e non vedo l'ora di usarlo...
+**Pane di Patate Viola**, dal colore ed il profumo molto invitante. In realtà non è altro che del pane di patate, ma usando le patate viola otterrete una mollica dal colore lilla, bello no? Purtroppo sulle foto il colore si perde molto, ha effettivamente un colore lilla. Ho trovato la ricetta su <a href="https://fooby.ch/it/ricette/16557/pane-di-patate-viola?startAuto1=0" target="_blank">Fooby</a> e fu amore a prima vista, anche perchè io adoro i lievitati con le patate nell'impasto. Rendono l'impasto ancora più soffice dando molta morbidezza e umidità. Come sempre io uso poco lievito facendo lievitare l'impasto per tutta la notte, voi naturalmente aumentate le dosi del lievito per accelerare i tempi di lievitazione. Mi piace tantissimo cuocere il pane in casseruola, perchè si forma quella bella crosticina croccante. Se preferite cuocerlo senza casseruola, dopo la lievitazione formate una palla e mettetelo sulla teglia con sotto della carta forno e fate lievitare per un'oretta. Poi infornate nel forno preriscaldato a 220°C statico finché sarà cotto. Farebbe anche la sua bella figura sulla tavola festiva, no? A proposito di feste... Con questa ricetta saluto il mese di Novembre per dedicarmi finalmente alle ricette natalizie! Spero di trovare presto anche un pochettino di tempo per fare i biscotti con i piccoli. Ormai mi stanno facendo una testa così, perchè gli ho preso i grembiuli natalizi e li vogliono mettere per fare i biscotti... Ma li capisco eh! Finalmente ne ho preso uno anche per me e non vedo l'ora di usarlo...
 
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Pane di Patate Viola</span>
+      <span itemprop="recipeCategory" style="display:none;">Salato</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Pane di Patate Viola, dal colore ed il profumo molto invitante. In realtà non è altro che del pane di patate, ma usando le patate viola otterrete una mollica dal colore lilla.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>400gr</td>
             <td>patate viola (o normali)</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2 cucchiai</td>
             <td>burro</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>400gr</td>
             <td>farina</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1.5 cucchiaino</td>
             <td>sale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 pizzico</td>
             <td>cumino macinato</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>3gr</td>
             <td>lievito fresco</td>
-           </tr>
-          <tr>
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>1-2dl</td>
             <td>acqua</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 cucchiaio</td>
             <td>sciroppo d'acero</td>
           </tr>

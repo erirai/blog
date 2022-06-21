@@ -14,83 +14,86 @@ lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
-> Benvenuto Dicembre, benvenuto clima natalizio!
-
-Mini Tortine Multigusto, un solo impasto, tre gusti diversi. Ho scelto i gusti arancia, cioccolato e mandorla... Sono adorabili e ottimi da servire ai vostri ospiti che verranno a trovarvi di pomeriggio durante l'ora del té, diciamo. Ho un debole per i pasticcini mignon perchè essendo così piccolini ne puoi provare tanti... Potrebbe sembrare un lavoraccio, ma non lo è. Se avete tante formine potete fare 1-2 infornate e il gioco è fatto. Naturalmente vanno benissimo anche le teglie per Mini-Muffin, è lo stesso procedimento... È importantissimo imburrare (e infarinare) molto bene le formine. Anche se usate le forme in silicone, in questo caso, vanno assolutamente imburrate. Altrimenti potrebbero rimanere attaccate e si rovinano! 
+**Mini Tortine Multigusto**, un solo impasto, tre gusti diversi. Ho scelto i gusti arancia, cioccolato e mandorla... Sono adorabili e ottimi da servire ai vostri ospiti che verranno a trovarvi di pomeriggio durante l'ora del té, diciamo. Ho un debole per i pasticcini mignon perchè essendo così piccolini ne puoi provare tanti... Potrebbe sembrare un lavoraccio, ma non lo è. Se avete tante formine potete fare 1-2 infornate e il gioco è fatto. Naturalmente vanno benissimo anche le teglie per Mini-Muffin, è lo stesso procedimento... È importantissimo imburrare (e infarinare) molto bene le formine. Anche se usate le forme in silicone, in questo caso, vanno assolutamente imburrate. Altrimenti potrebbero rimanere attaccate e si rovinano! 
 
 Finalmente è arrivato Dicembre! Sono felicissima... Novembre è passato e arriva il Natale. Lo so che si dovrebbe aspettare l'8 dicembre per fare l'albero, ma io ho già tutta la casa decorata. Preparo tutto già per la prima domenica d'avvento, almeno mi posso godere tutto più a lungo. 
 
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Mini Tortine Multigusto</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Mini Tortine Multigusto, un solo impasto, tre gusti diversi. Ho scelto i gusti arancia, cioccolato e mandorla.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
           <tr>
             <td colspan="2"><b>Impasti</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2 tazze (da cappuccino)</td>
             <td>farina</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 tazza (da cappuccino)</td>
             <td>zucchero</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2 bustina</td>
             <td>lievito per dolci</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>vaniglia</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 pizzico</td>
             <td>sale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1dl</td>
             <td>acqua</td>
-           </tr>
-          <tr>
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>2</td>
             <td>uova</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>125gr</td>
             <td>burro sciolto ma tiepido</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 cucchiaio colmo</td>
             <td>cacao amaro</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>3 cucchiai</td>
             <td>mandorle macinate</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>arancia solo la scorza</td>
           </tr>
           <tr style="height: 15px;"></tr>
           <tr>          
             <td colspan="2"><b>Deco</b></td>
-          </tr>      
-          <tr> 
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>2-3 cucchiai</td>
             <td>zucchero a velo</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>succo d'arancia</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>ca. 50gr</td>
             <td>cioccolato fondente</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>mandorle caramellate</td>
           </tr>

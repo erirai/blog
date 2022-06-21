@@ -13,49 +13,53 @@ lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
-> Benvenuto Ottobre!
-
-Torta di Mele succosa e cremosa... Succosa perché è piena piena di pezzetti di mele. Cremosa perché l'impasto sembra più una pastella, quindi quando la mangiate si scioglie in bocca! Ho aggiunto solo un pochettino di vaniglia, perché volevo sentire il gusto delle mele. Non volevo neanche aggiungere il succo di limone alle mele, dunque le ho tagliate all'ultimo momento. Appena arriva l'autunno a me viene voglia di torta di mele... Ho sfogliato le mie ricette scritte a mano e ho trovato questa! 
+**Torta di Mele succosa e cremosa**... Succosa perché è piena piena di pezzetti di mele. Cremosa perché l'impasto sembra più una pastella, quindi quando la mangiate si scioglie in bocca! Ho aggiunto solo un pochettino di vaniglia, perché volevo sentire il gusto delle mele. Non volevo neanche aggiungere il succo di limone alle mele, dunque le ho tagliate all'ultimo momento. Appena arriva l'autunno a me viene voglia di torta di mele... Ho sfogliato le mie ricette scritte a mano e ho trovato questa! 
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Torta di Mele succosa e cremosa</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Torta di Mele succosa e cremosa... Succosa perché è piena piena di pezzetti di mele. Cremosa perché l'impasto sembra più una pastella, quindi quando la mangiate si scioglie in bocca!</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
-          <tr>
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>uovo</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>60gr</td>
             <td>zucchero</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>50gr</td>
             <td>burro fuso</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 bustina</td>
             <td>zucchero vanigliato</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 pizzico</td>
             <td>sale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>50ml</td>
             <td>latte</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>50gr</td>
             <td>farina</td>
-          </tr>      
-          <tr>
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>1 cucchiaino</td>
             <td>lievito per dolci</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2-3</td>
             <td>mele</td>
         </tbody>

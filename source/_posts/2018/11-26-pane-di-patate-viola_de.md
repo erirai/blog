@@ -14,46 +14,49 @@ lang: de
 ---
 ![](../2018-11-26-pane-di-patate-viola/header.jpg "frangipani © Erica")
 
-> Tschüss November! Bin froh, dass du endlich bald zu Ende gehst...
-
 Violettes Kartoffelbrot mit schöner Farbe und herrlichem Duft. In Wirklichkeit ist es nur Kartoffelbrot, aber indem man blaue Kartoffeln benutzt, wird die Krume so schön lila, schön nicht? Leider geht die Farbe auf den Fotos verloren, die Krume ist effektiv lila. Ich habe das Rezept auf <a href="https://fooby.ch/de/rezepte/16557/violettes-kartoffelbrot?startAuto1=0&y=3315&x=0" target="_blank">Fooby</a> gefunden und es war Liebe auf den ersten Blick. Vor allem, weil ich Hefegebäck mit Kartoffeln im Teig liebe. Die Kartoffeln machen den Teig noch fluffiger und geben viel Geschmeidigkeit und Feuchtigkeit. Wie immer verwende ich wenig Hefe und lasse den Teig über Nacht aufgehen. Ihr erhöht selbstverständlich die Menge der Hefe, um die Aufgehzeit zu beschleunigen. Ich backe Brot generell gerne im Brattopf, weil sich so diese schöne knusprige Kruste bildet. Wenn ihr es lieber ohne Brattopf backt, formt, nachdem der Teig aufgegangen ist, eine Kugel und legt sie auf ein mit Backpapier belegtes Blech. Lasst den Teig nochmals eine Stunde aufgehen. Dann im vorgeheizten Ofen bei 220° C Ober- und Unterhitze backen, bis das Brot durch ist. Dieses Brot würde auch auf dem festlichen Tisch einen guten Eindruck machen, nicht? Apropos Festlichkeiten... Mit diesem Rezept verabschiede ich den Monat November, um mich endlich den Weihnachtsrezepten zu widmen! Ich hoffe, bald auch ein bisschen Zeit zu finden, um mit den Kleinen Kekse zu backen. Sie machen mir so einen Kopf, weil ich ihnen Weihnachtsschürzen gekauft habe und sie damit Kekse backen wollen... Aber ich verstehe sie! Auch ich habe endlich eine Weihnachtsschürze gekauft und kann es kaum erwarten, sie zu benutzen...
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Violettes Kartoffelbrot</span>
+      <span itemprop="recipeCategory" style="display:none;">Herzhaftes</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2018-11-26-pane-di-patate-viola/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Violettes Kartoffelbrot mit schöner Farbe und herrlichem Duft. In Wirklichkeit ist es nur Kartoffelbrot, aber indem man blaue Kartoffeln benutzt, wird die Krume so schön lila.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>400gr</td>
             <td>blaue Kartoffeln (oder normale)</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2 Esslöffel</td>
             <td>Butter</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>400gr</td>
             <td>Mehl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1.5 Teelöffel</td>
             <td>Salz</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Prise</td>
             <td>Kümmel gemahlen</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>3gr</td>
             <td>Hefe</td>
-           </tr>
-          <tr>
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>1-2dl</td>
             <td>Wasser</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Esslöffel</td>
             <td>Ahornsirup</td>
           </tr>

@@ -16,19 +16,24 @@ lang: de
 ---
 ![](../2018-09-05-mele-essiccate-alla-cannella/header.jpg "frangipani © Erica")
 
-Getrocknete Zimt-Apfelringe ohne Dörrgerät zubereitet. Sie sind ein guter und gesunder Snack für Jung und Alt. Wenn ihr einen Apfelbaum im Garten habt, ist dieses Rezept genau richtig für euch oder ihr verwendet die Äpfel, die ihr am liebsten mögt, ich bevorzuge die Sauren... Mit 5 mittelgrossen Äpfeln füllte ich zwei Backbleche und nach 4 Tagen waren sie schon fertig... Wenn ihr Zimt nicht mögt, lasst ihn einfach weg und macht neutrale Apfelringe. Aber Äpfel und Zimt sind meiner Meinung nach ein perfektes Paar, das herrlich nach Herbst schmeckt! Übrigens, ist bei euch bereits schon Herbst? Hier schon... Obwohl in den nächsten Tagen die Temperaturen wieder ein wenig steigen werden, riecht die Luft inzwischen nach Herbst. Am Morgen ist es leicht neblig, die Luft ist frisch und ein Jäckchen schadet nicht, die Bäume sind voll mit Haselnüssen, Walnüssen und Kastanien, die Blätter fallen langsam, das Sonnenlicht hat seine Farbe geändert und hat nun dieser goldene Touch und übrall hat es Kürbisse... Man sieht Bäume voller Äpfel. Letztes Jahr, wegen des Frosts Ende April, gab es leider eine Missernte. Bei vielen Bauern waren die Vorräte viel zu früh aufgebraucht, die Supermärkte mussten Äpfel importieren und es gab praktisch keinen Süssmost mehr. Aber jetzt sind sie da und wir verwenden sie auf der ganzen Linie, was meint ihr?
+**Getrocknete Zimt-Apfelringe** ohne Dörrgerät zubereitet. Sie sind ein guter und gesunder Snack für Jung und Alt. Wenn ihr einen Apfelbaum im Garten habt, ist dieses Rezept genau richtig für euch oder ihr verwendet die Äpfel, die ihr am liebsten mögt, ich bevorzuge die Sauren... Mit 5 mittelgrossen Äpfeln füllte ich zwei Backbleche und nach 4 Tagen waren sie schon fertig... Wenn ihr Zimt nicht mögt, lasst ihn einfach weg und macht neutrale Apfelringe. Aber Äpfel und Zimt sind meiner Meinung nach ein perfektes Paar, das herrlich nach Herbst schmeckt! Übrigens, ist bei euch bereits schon Herbst? Hier schon... Obwohl in den nächsten Tagen die Temperaturen wieder ein wenig steigen werden, riecht die Luft inzwischen nach Herbst. Am Morgen ist es leicht neblig, die Luft ist frisch und ein Jäckchen schadet nicht, die Bäume sind voll mit Haselnüssen, Walnüssen und Kastanien, die Blätter fallen langsam, das Sonnenlicht hat seine Farbe geändert und hat nun dieser goldene Touch und übrall hat es Kürbisse... Man sieht Bäume voller Äpfel. Letztes Jahr, wegen des Frosts Ende April, gab es leider eine Missernte. Bei vielen Bauern waren die Vorräte viel zu früh aufgebraucht, die Supermärkte mussten Äpfel importieren und es gab praktisch keinen Süssmost mehr. Aber jetzt sind sie da und wir verwenden sie auf der ganzen Linie, was meint ihr?
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Getrocknete Zimt-Afpelringe</span>
+      <span itemprop="recipeCategory" style="display:none;">Herzhaftes</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2018-09-05-mele-essiccate-alla-cannella/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Getrocknete Zimt-Apfelringe ohne Dörrgerät zubereitet. Sie sind ein guter und gesunder Snack für Jung und Alt.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Äpfel</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Zimtpulver</td>
           </tr>
           <tr>

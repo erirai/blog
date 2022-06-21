@@ -15,61 +15,67 @@ lang: de
 ---
 ![](../2018-10-10-torta-rustica-vegana-alle-nocciole-e-mele/header.jpg "frangipani © Erica")
 
-Rustikaler veganer Kuchen mit Haselnüssen und Äpfeln, ein herbstlicher Kuchen voller Geschmack, voller Haselnüsse und voller Äpfel... Ein echter Leckerbissen dieser Kuchen! In Wirklichkeit ist es ein Teig, den ich sehr oft benutze, ich mag ihn sehr! Man kann ihn mit Haselnüssen und/oder Mandeln vorbereiten... Wie meine <a href="https://frangipani.raiano.ch/2016-11-23-cupcakes-rocher-de/" target="_blank">Cupcakes Rocher</a> oder die <a href="https://frangipani.raiano.ch/2015-05-08-muffin-alle-mandorle-con-cuore-di-cioccolato/" target="_blank">Mandel-Muffins mit Schokoladenherz</a>... Ein Mal habe ich zum Geburtstag meiner Schwester sogar eine Rocher-Torte gebacken, immer mit dem gleichen Teig und Frosting der Cupcakes... Der Teig ist sehr gefährlich, besonders weil er roh sehr sehr lecker ist! Diesmal wollte ich die Äpfel nicht in, sondern auf den Teig legen, nur habe ich einen Fehler gemacht. Eine Apfelhälfte habe ich auch in die Mitte gesetzt und es wäre besser gewesen, es nicht zu tun, weil der Kuchen nicht kochen wollte. An den Seiten war er durch, aber in der Mitte brauchte es länger... Macht nicht den selben Fehler und legt die Äpfel nur ringsum oder direkt in Stücke in den Teig!
+**Rustikaler veganer Kuchen mit Haselnüssen und Äpfeln**, ein herbstlicher Kuchen voller Geschmack, voller Haselnüsse und voller Äpfel... Ein echter Leckerbissen dieser Kuchen! In Wirklichkeit ist es ein Teig, den ich sehr oft benutze, ich mag ihn sehr! Man kann ihn mit Haselnüssen und/oder Mandeln vorbereiten... Wie meine <a href="https://frangipani.raiano.ch/2016-11-23-cupcakes-rocher-de/" target="_blank">Cupcakes Rocher</a> oder die <a href="https://frangipani.raiano.ch/2015-05-08-muffin-alle-mandorle-con-cuore-di-cioccolato/" target="_blank">Mandel-Muffins mit Schokoladenherz</a>... Ein Mal habe ich zum Geburtstag meiner Schwester sogar eine Rocher-Torte gebacken, immer mit dem gleichen Teig und Frosting der Cupcakes... Der Teig ist sehr gefährlich, besonders weil er roh sehr sehr lecker ist! Diesmal wollte ich die Äpfel nicht in, sondern auf den Teig legen, nur habe ich einen Fehler gemacht. Eine Apfelhälfte habe ich auch in die Mitte gesetzt und es wäre besser gewesen, es nicht zu tun, weil der Kuchen nicht kochen wollte. An den Seiten war er durch, aber in der Mitte brauchte es länger... Macht nicht den selben Fehler und legt die Äpfel nur ringsum oder direkt in Stücke in den Teig!
 
 Und ja... was soll ich noch sagen? Letzten Freitag hatte ich einen NEIN-Tag! Ich hatte nachts nicht geschlafen, ich stand auf und fühlte mich elend. Den ganzen Tag starke Knochenschmerzen, ich konnte mich nicht bewegen, dann war mir kalt und habe kalt geschwitzt. Das Schöne ist, dass ich nicht einmal ein bitzeli Temperatur hatte, tatsächlich! Ich bin in Slow Motion mit der Decke durch die Gegend geschlichen, wie eine Oma. Bah, am Tag danach war alles vorbei, verstehe ich nicht! Glücklicherweise hatte Gaia schon Herbstferien und wir konnten alles ruhig und langsam angehen... Diese und nächste Woche sind Herbstferien und das Wetter verspricht sehr Gutes! Wir haben einiges vor, wir werden sehen, was wir tun können...
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Rustikaler veganer Haselnusskuchen mit Äpfeln</span>
+      <span itemprop="recipeCategory" style="display:none;">Herzhaftes</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2018-10-10-torta-rustica-vegana-alle-nocciole-e-mele/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Rustikaler veganer Kuchen mit Haselnüssen und Äpfeln, ein herbstlicher Kuchen voller Geschmack, voller Haselnüsse und voller Äpfel... Ein echter Leckerbissen dieser Kuchen!</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
-          <tr>
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>200gr</td>
             <td>Mehl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>160gr</td>
             <td>Zucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>50gr</td>
             <td>gemahlene Haselnüsse</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2 Esslöffel</td>
             <td>Backpulver</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2 Esslöffel</td>
             <td>Natron</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Teelöffel</td>
             <td>gemahlene Vanille</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Prise</td>
             <td>Salz</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2 Esslöffel</td>
             <td>Essig</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>5 Esslöffel</td>
             <td>Sonnenblumenöl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>200gr</td>
             <td>Haselnussmilch oder andere Milch</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2-3</td>
             <td>Äpfel</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Handvoll</td>
             <td>Haselnüsse</td>   
           </tr>

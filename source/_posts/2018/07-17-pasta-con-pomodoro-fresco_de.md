@@ -14,31 +14,37 @@ lang: de
 ---
 ![](../2018-07-17-pasta-con-pomodoro-fresco/header.jpg "frangipani © Erica")
 
-Pasta mit frischen Tomaten, ein super schnelles Rezept mit wenigen Zutaten, welche alle immer zu hause haben! Im Sommer mit den leckeren Tomaten, mag ich viel lieber Pasta mit frischen Tomaten, im Winter dagegen mit Tomatensauce. Das ist eines meiner liebsten Notfallrezepten, nicht nur wegen dem Geschmack, sondern auch wegen der Einfachheit! Wenige aber gute Zutaten, mehr braucht es nicht...
+**Pasta mit frischen Tomaten**, ein super schnelles Rezept mit wenigen Zutaten, welche alle immer zu hause haben! Im Sommer mit den leckeren Tomaten, mag ich viel lieber Pasta mit frischen Tomaten, im Winter dagegen mit Tomatensauce. Das ist eines meiner liebsten Notfallrezepten, nicht nur wegen dem Geschmack, sondern auch wegen der Einfachheit! Wenige aber gute Zutaten, mehr braucht es nicht...
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Pasta mit frischen Tomaten</span>
+      <span itemprop="recipeCategory" style="display:none;">Herzhaftes</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2018-07-17-pasta-con-pomodoro-fresco/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Pasta mit frischen Tomaten, ein super schnelles Rezept mit wenigen Zutaten, welche alle immer zu hause haben!</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
-          <tr>
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>320gr</td>
             <td>Pasta</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>4</td>
             <td>Rispentomaten</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Basilikum</td>
-         </tr>
-          <tr>
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Olivenöl</td>
-         </tr>
-          <tr>
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Salz</td>
           </tr>

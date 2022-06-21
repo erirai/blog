@@ -1,5 +1,5 @@
 ---
-title: "veganer Chiffon Cake mit Birnen und Schokolade"
+title: "Veganer Chiffon Cake mit Birnen und Schokolade"
 date: 2018-11-06
 tags:
 - fluffosa
@@ -17,9 +17,7 @@ lang: de
 ---
 ![](../2018-11-06-fluffosa-vegana-con-pere-e-cioccolato/header.jpg "frangipani © Erica")
 
-> Willkommen November...
-
-Veganer Chiffon Cake mit Birnen und Schokolade, um den November willkommen zu heissen! Die Birnen schmelzen beim Kochen und machen den Teig schön cremig und saftig. Es hört sich komisch an, aber ja, man kann auch vegane Chiffon Cakes backen und es ist auch sehr einfach! Dieser hat einen neutralen Grundteig (ich habe das Rezept der <a href="https://frangipani.raiano.ch/2016-10-18-black-beauty-de/" target="_blank"> Black Beauty (vegan Chocolate Chiffon Cake) </a> ein wenig angepasst) und fügte kleine Birnenstücke und Schokolade hinzu. Habt ihr gesehen, wie hoch er ist? In diesem Fall könnt ihr auch eine Gugelhupf- oder Bund Cake-Form verwenden, da diese während des Abkühlens nicht gestürzt werden muss.
+**Veganer Chiffon Cake mit Birnen und Schokolade**, die Birnen schmelzen beim Kochen und machen den Teig schön cremig und saftig. Es hört sich komisch an, aber ja, man kann auch vegane Chiffon Cakes backen und es ist auch sehr einfach! Dieser hat einen neutralen Grundteig (ich habe das Rezept der <a href="https://frangipani.raiano.ch/2016-10-18-black-beauty-de/" target="_blank"> Black Beauty (vegan Chocolate Chiffon Cake) </a> ein wenig angepasst) und fügte kleine Birnenstücke und Schokolade hinzu. Habt ihr gesehen, wie hoch er ist? In diesem Fall könnt ihr auch eine Gugelhupf- oder Bund Cake-Form verwenden, da diese während des Abkühlens nicht gestürzt werden muss.
 
 Also, der November gefällt mir überhaupt nicht, der klassische Übergangsmonat! Lasst mich erklären: Der Oktober ist vorbei und mit ihm auch Halloween und die Euphorie der Ankunft des Herbstes. Es ist kalt, dunkel und die Tage werden immer kürzer. Überall finden wir Weihnachtsdekorationen, auch wenn es noch ein bisschen dauert bis Dezember. Aber gleichzeitig warten alle auf Dezember und Weihnachten... Versteht ihr, was ich meine? Habe ich mich gut ausgedrückt? Der November ist dieser Übergangsmonat, der nun nicht mehr den Herbstcharme besitzt, dieser Monat, der uns an Weihnachten denken lässt, ohne es noch leben zu können... Aber wir können im November einiges tun, um uns auf das bevorstehende Weihnachten vorzubereiten. Dinge, die wir im Voraus tun können, um im Dezember mehr Freizeit für die schönen weihnachtlichen Tätigkeiten zu haben. Also habe ich eine To-Do-Liste mit Aktivitäten für den November vorbereitet. Ich habe die Liste jedoch in zwei Teile geteilt. Eine für die erste Monatshälfte und die andere für die zweite Monatshälfte (die ich euch Mitte November schreiben werde)...
 
@@ -35,47 +33,53 @@ Es ist nicht viel, aber wenn ihr die Dinge, die kommen, zusammenzählt, wird es 
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Veganer Chiffon Cake mit Birnen und Schokolade</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2018-11-06-fluffosa-vegana-con-pere-e-cioccolato/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Veganer Chiffon Cake mit Birnen und Schokolade, die Birnen schmelzen beim Kochen und machen den Teig schön cremig und saftig.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
-          <tr>
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>320gr</td>
             <td>Mehl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>200gr</td>
             <td>Zucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Päckchen</td>
             <td>Backpulver</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Teelöffel</td>
             <td>Natron</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>350gr</td>
             <td>kochendes Wasser</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>30gr</td>
             <td>Leinsamenmehl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>130gr</td>
             <td>Sonnenblumenöl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>50gr</td>
             <td>pflanzliche Milch</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>150gr</td>
             <td>dunkle Schokolade min. 70%</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2-3</td>
             <td>Birnen</td> 
           </tr>

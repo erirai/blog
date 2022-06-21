@@ -14,45 +14,49 @@ lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
-> Benvenuto Autunno e arrivederci Settembre!
-
-Torta di Ricotta con Gocce di Cioccolato, un dolce semplicissimo con pochi ma buoni ingredienti. Se amate la ricotta, questo dolce fa per voi e se vi piace la ricotta di pecora, vi consiglio assolutamente di usarla. Io la preferisco in gran lunga, ma purtroppo qui in Svizzera non si trova o solo in certi posti e non sempre. Non capitemi male, anche con la ricotta di mucca viene buona eh! Questa Torta di Ricotta con Gocce di Cioccolato è una sottile torta cremosissima dal gusto delicato e piena piena di gocce di cioccolato. Ho preso ispirazione da una ricetta trovata su <a href="https://fooby.ch/it/ricette/16671/budino-di-ricotta--torta-alla-ricotta-?startAuto1=0" target="_blank">Fooby</a> ma ho sostituito l'uvetta con il cioccolato e ho dimezzato la dose delle uova. È una di quelle torte adatte per tutto l'anno... da mangiare ancora tiepida o fredda da frigo...
+**Torta di Ricotta con Gocce di Cioccolato**, un dolce semplicissimo con pochi ma buoni ingredienti. Se amate la ricotta, questo dolce fa per voi e se vi piace la ricotta di pecora, vi consiglio assolutamente di usarla. Io la preferisco in gran lunga, ma purtroppo qui in Svizzera non si trova o solo in certi posti e non sempre. Non capitemi male, anche con la ricotta di mucca viene buona eh! Questa Torta di Ricotta con Gocce di Cioccolato è una sottile torta cremosissima dal gusto delicato e piena piena di gocce di cioccolato. Ho preso ispirazione da una ricetta trovata su <a href="https://fooby.ch/it/ricette/16671/budino-di-ricotta--torta-alla-ricotta-?startAuto1=0" target="_blank">Fooby</a> ma ho sostituito l'uvetta con il cioccolato e ho dimezzato la dose delle uova. È una di quelle torte adatte per tutto l'anno... da mangiare ancora tiepida o fredda da frigo...
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Torta di Ricotta con Gocce di Cioccolato</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Torta di Ricotta con Gocce di Cioccolato, un dolce semplicissimo con pochi ma buoni ingredienti.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
-          <tr>
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>2</td>
             <td>uova</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>80gr</td>
             <td>zucchero a velo</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>300gr</td>
             <td>ricotta</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 pizzico</td>
             <td>sale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>50gr</td>
             <td>zucchero semolato</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2 cucchiai</td>
             <td>farina</td>
-          </tr>      
-          <tr>
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>2 cucchiai</td>
             <td>mandorle macinate</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>60gr</td>
             <td>gocce di cioccolato fondente</td>
         </tbody>

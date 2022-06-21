@@ -15,70 +15,75 @@ lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
-Muffin vegani al Panpepato per sorprendere i vostri cari. Sono soffici, ma allo stesso tempo hanno quella consistenza tipica del Panpepato. E tutto questo senza uova, burro e latte. Sono fatti con il latte di cocco, ma non vi preoccupate, non si sente affatto. Credetemi, perchè non sono un'amante del cocco, ma in questo caso il latte di cocco serve per dare morbidezza e "grassezza" all'impasto. Ho decorato i Muffin con una ghirlanda fatta di crema al formaggio e qualche perlina colorata. Per la versione vegana potete semplicemente usare la panna vegetale da montare. O per una decorazione veloce veloce, glassate i Muffin con del cioccolato sciolto a Bagnomaria, tutto qua! Questa è una delle ricette che mi portai a casa dal corso di pasticceria vegana del 2014. Sì 2014. Come passa il tempo... ero incinta di Gioele, appena agli inizi, quando partecipai a quel corso. Me lo regalarono mia sorella e mio cognato e mi ricordo che il giorno del corso, proprio loro due traslocavano per la seconda volta. Sembra ieri... e invece sono passati più di 4 anni!
+**Muffin vegani al Panpepato** per sorprendere i vostri cari. Sono soffici, ma allo stesso tempo hanno quella consistenza tipica del Panpepato. E tutto questo senza uova, burro e latte. Sono fatti con il latte di cocco, ma non vi preoccupate, non si sente affatto. Credetemi, perchè non sono un'amante del cocco, ma in questo caso il latte di cocco serve per dare morbidezza e "grassezza" all'impasto. Ho decorato i Muffin con una ghirlanda fatta di crema al formaggio e qualche perlina colorata. Per la versione vegana potete semplicemente usare la panna vegetale da montare. O per una decorazione veloce veloce, glassate i Muffin con del cioccolato sciolto a Bagnomaria, tutto qua! Questa è una delle ricette che mi portai a casa dal corso di pasticceria vegana del 2014. Sì 2014. Come passa il tempo... ero incinta di Gioele, appena agli inizi, quando partecipai a quel corso. Me lo regalarono mia sorella e mio cognato e mi ricordo che il giorno del corso, proprio loro due traslocavano per la seconda volta. Sembra ieri... e invece sono passati più di 4 anni!
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Muffin vegani al Panpepato</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Muffin vegani al Panpepato per sorprendere i vostri cari. Sono soffici, ma allo stesso tempo hanno quella consistenza tipica del Panpepato.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
           <tr>
             <td colspan="2"><b>Muffin</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>250gr</td>
             <td>farina</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>180gr</td>
             <td>zucchero</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2 cucchiaio</td>
             <td>lievito per dolci</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2 cucchiaio</td>
             <td>spezie per Panpepato</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 cucchiaio</td>
             <td>cacao amaro</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 pizzico</td>
             <td>sale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 cucchiaio</td>
             <td>olio di semi</td>
-           </tr>
-          <tr>
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>250gr</td>
             <td>latte di cocco</td>
           </tr>
           <tr style="height: 15px;"></tr>
           <tr>          
             <td colspan="2"><b>Deco</b></td>
-          </tr>      
-          <tr> 
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>100gr</td>
             <td>formaggio spalmabile o panna da montare vegetale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 cucchiaio</td>
             <td>zucchero a velo</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>cannella</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>colorante alimentare verde</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>perline colorate</td>
           </tr>

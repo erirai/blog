@@ -14,74 +14,77 @@ lang: de
 ---
 ![](../2018-10-18-cream-tart-al-cacao/header.jpg "frangipani © Erica")
 
-> Happy 5. Blogday Profumo di Frangipani!
-
-Kakao-Cream Tart um 5 Jahre meines Blogs zu feiern! Ein super einfaches Dessert mit garantiertem WOW-Effekt... Es ist unnötig euch zu sagen, dass der Kakao-Mürbeteig göttlich ist, dann in Kombination mit der cremigen Kakao-Camy Cream... Na hallo! Diese Kakao-Cream Tart war bereits seit April geplant. Gleich nach der <a href="https://frangipani.raiano.ch/2018-04-24-cream-tart-al-limone-de/" target="_blank">Zitronen Cream Tart</a>, die ich zum Geburtstag meines Mannes machte, nahm ich mir vor, eine andere für meinen Blogday zu backen. Und hier ist sie! In diesem Fall habe ich keine grossen farbigen Blumen hinzugefügt, aber ich zog es vor, sie in warmen Herbsttönen zu behalten. Ich hatte schöne Chrysanthemen im Garten, aber da sie nicht essbar waren, habe ich sie vor dem Servieren abgenommen... Neben den Blumen habe ich sie mit Kakaonibs (zerdrückten Kakaobohnen), Gold- und Silberblätter und Goldpulver dekoriert. Ich mag es nicht Cream Tarts zu beladen, aber ihr könnt auch Schokoladenchips, Macarons, Kekse, Trockenfrüchte, etc. hinzufügen. Sie ist sooo lecker!
+**Kakao-Cream Tart** um 5 Jahre meines Blogs zu feiern! Ein super einfaches Dessert mit garantiertem WOW-Effekt... Es ist unnötig euch zu sagen, dass der Kakao-Mürbeteig göttlich ist, dann in Kombination mit der cremigen Kakao-Camy Cream... Na hallo! Diese Kakao-Cream Tart war bereits seit April geplant. Gleich nach der <a href="https://frangipani.raiano.ch/2018-04-24-cream-tart-al-limone-de/" target="_blank">Zitronen Cream Tart</a>, die ich zum Geburtstag meines Mannes machte, nahm ich mir vor, eine andere für meinen Blogday zu backen. Und hier ist sie! In diesem Fall habe ich keine grossen farbigen Blumen hinzugefügt, aber ich zog es vor, sie in warmen Herbsttönen zu behalten. Ich hatte schöne Chrysanthemen im Garten, aber da sie nicht essbar waren, habe ich sie vor dem Servieren abgenommen... Neben den Blumen habe ich sie mit Kakaonibs (zerdrückten Kakaobohnen), Gold- und Silberblätter und Goldpulver dekoriert. Ich mag es nicht Cream Tarts zu beladen, aber ihr könnt auch Schokoladenchips, Macarons, Kekse, Trockenfrüchte, etc. hinzufügen. Sie ist sooo lecker!
 
 Glücklicherweise ist der Blog genauso alt wie meine Tochter, also erinnere ich mich wenigstens daran... 5 Jahre ist ein bisschen ein Jubiläum, oder? So ist es zumindest in vielen Unternehmen. Ich sollte auch einen kleinen Bericht über den Blog schreiben, was meint ihr? Nun, was soll ich sagen... Dieses Jahr hatte ich oft das Gefühl, den Blog vernachlässigt zu haben, das ist das erste, was mir in den Sinn kommt. Nein, dieser Blog ist nicht mein Job, ich mache es, weil ich es gerne mache, weil ich meine Rezepte gerne mit euch teile... als wäre es ein Tagebuch! Vielleicht werde ich damit eines Tages etwas Geld verdienen können, aber im Moment reden wir gar nicht darüber. Warum? Ich habe keine Zeit! Meine Kleinen wachsen und ihre Nachmittagsschläfchen, die für mich sehr wertvoll waren/sind, werden immer seltener. Wir haben mehr Verpflichtungen, mehr Nachmittage im Kindergarten, Ballet, Turnen, Freunde und Sonstiges. Der Blog war für mich immer etwas für meine Freizeit. Ich wollte meinen Kindern niemals Zeit nehmen, um mich dieser Sache zu widmen. Wenig Freizeit bedeutet wenig Zeit zum Experimentieren, wenig Zeit zum Kreieren, wenig Zeit zum Posts schreiben, wenig Zeit für meinen Blog. Und das sieht man! Ich tue, was ich kann, solange es gerne und ohne Zwang geschieht... Aber es gibt ein wenig Hoffnung! Nächstes Jahr nach den Sommerferien geht mein Sohn auch in den Kindergarten und das bedeutet, dass ich jeden Morgen frei habe! Wie jedes Jahr, am 18. Oktober, nutze ich diese Gelegenheit, um jedem von Euch zu danken... Ich danke Dir, dass du mir regelmässig folgst, um meine Rezepte zu lesen. Ich danke Dir, dass du aus Neugier einen Blick auf meinen Blog geworfen hast. Ich danke Dir, dass Du, nachdem Du etwas auf Google gesucht hast, hier angekommen bist... Danke!
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Kakao-Cream Tart</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2018-10-18-cream-tart-al-cacao/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Kakao-Cream Tart ein super einfaches Dessert mit garantiertem WOW-Effekt.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
           <tr>
             <td colspan="2"><b>weicher Kakao-Mürbeteig</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>330gr</td>
             <td>Mehl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>40gr</td>
             <td>Kakaopulver</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>190gr</td>
             <td>Butter</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>150gr</td>
             <td>Puderzucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Prise</td>
             <td>Salz</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>8gr</td>
             <td>Backpulver</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2</td>
             <td>Eier</td>
           </tr>
           <tr style="height: 15px;"></tr>
           <tr>          
             <td colspan="2"><b>Kakao-Camy Cream</b></td>
-          </tr>      
-          <tr> 
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>500gr</td>
             <td>Mascarpone kalt</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>250gr</td>
             <td>Sahne kalt</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>180gr</td>
             <td>gezuckerte Kondensmilch kalt</td>
-          </tr>      
-          <tr> 
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>3 volle Esslöffel</td>
             <td>Kakaopulver</td>
           </tr>
           <tr style="height: 15px;"></tr>
           <tr>          
             <td colspan="2"><b>Deko</b></td>
-          </tr>      
-          <tr> 
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Essbare Blüten, cacao nibs, Schokolade, Nüsse...</td>
         </tbody>

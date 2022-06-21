@@ -16,70 +16,73 @@ lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
-> Ciao ciao Agosto e Grazie!
-
-Crêpes farcite con Verdure Estive e Feta, un piatto perfetto per smaltire tanta verdura e svuotare il frigo. Una ricetta molto buona ed elegante per gustare peperoni, melanzane e zucchine dando un tocco in più con il mio adorato formaggio Feta. Mia figlia era da un po' che voleva le Crêpes, perché le avevano fatte all'asilo. Domenica scorsa le ho preparate per merenda, facendone qualcuna in più per preparare questa ricetta. Le Crêpes le ho lasciate neutre, senza sale ne zucchero, proprio perché a merenda le abbiamo mangiate dolci (Gaia con crema di nocciole e fragole, Gioele con lamponi, fragole, zucchero e cannella e io solo e sempre con zucchero e cannella) e per questa ricetta mi servivano "salate". Volendo, potete benissimo aromatizzare la pastella per le Crêpes con della paprika, curcuma, erbette aromatiche o semplicemente lasciarle neutre. Il ripieno è molto gustoso, quindi la Crêpe non ha bisogno di tanta sapidità. Nel mio caso ho usato peperoni, melanzane e zucchine, perché era quello che avevo in frigo. Verdure estive, perché siamo ancora in estate. Sicuramente sono ottime anche con della verdura a foglia come la catalogna o gli spinaci o con la zucca che tra poco sarà la regina delle nostre ricette. Se preferite del formaggio filante al posto del formaggio Feta, fate pure!
+**Crêpes farcite con Verdure Estive e Feta**, un piatto perfetto per smaltire tanta verdura e svuotare il frigo. Una ricetta molto buona ed elegante per gustare peperoni, melanzane e zucchine dando un tocco in più con il mio adorato formaggio Feta. Mia figlia era da un po' che voleva le Crêpes, perché le avevano fatte all'asilo. Domenica scorsa le ho preparate per merenda, facendone qualcuna in più per preparare questa ricetta. Le Crêpes le ho lasciate neutre, senza sale ne zucchero, proprio perché a merenda le abbiamo mangiate dolci (Gaia con crema di nocciole e fragole, Gioele con lamponi, fragole, zucchero e cannella e io solo e sempre con zucchero e cannella) e per questa ricetta mi servivano "salate". Volendo, potete benissimo aromatizzare la pastella per le Crêpes con della paprika, curcuma, erbette aromatiche o semplicemente lasciarle neutre. Il ripieno è molto gustoso, quindi la Crêpe non ha bisogno di tanta sapidità. Nel mio caso ho usato peperoni, melanzane e zucchine, perché era quello che avevo in frigo. Verdure estive, perché siamo ancora in estate. Sicuramente sono ottime anche con della verdura a foglia come la catalogna o gli spinaci o con la zucca che tra poco sarà la regina delle nostre ricette. Se preferite del formaggio filante al posto del formaggio Feta, fate pure!
 
 Agosto sta finendo e con lui finisce anche l'estate... almeno per me! Anche se farà ancora caldo, nella mia testa ormai è autunno (la stessa cosa vale per il mese di marzo, appena inizia marzo per me è primavera, anche se fuori c'è la neve)... 
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Crêpes farcite con Verdure Estive e Feta</span>
+      <span itemprop="recipeCategory" style="display:none;">Salato</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Crêpes farcite con Verdure Estive e Feta, un piatto perfetto per smaltire tanta verdura e svuotare il frigo.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
           <tr>
             <td colspan="2"><b>Crêpes</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>3</td>
             <td>uova medie</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>500ml</td>
             <td>latte</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>250gr</td>
             <td>farina</td>
           </tr>
           <tr style="height: 15px;"></tr>
           <tr>          
             <td colspan="2"><b>Farcia</b></td>
-          </tr>      
-          <tr>
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>cipolla</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>peperone rosso grande</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>melanzana grande</td>
-          </tr>      
-          <tr> 
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>2-3</td>
             <td>zucchine</td>
-          </tr>      
-          <tr> 
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>erbe aromatiche</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>pomodorini</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>200gr</td>
             <td>formaggio Feta</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>olio evo</td>
-          </tr>      
-          <tr> 
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>sale</td>
         </tbody>

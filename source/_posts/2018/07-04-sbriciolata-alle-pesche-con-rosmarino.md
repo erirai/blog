@@ -14,72 +14,75 @@ lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
-> Benvenuto Luglio!
-
-Sbriciolata alle Pesche con Rosmarino, potrebbe sembrare strano ma vi assicuro che le pesche ed il rosmarino si sposano benissimo! Base morbida, cuore cremoso e briciole croccanti ed aromatiche! La ricetta l'ho vista qualche settimana fa da <a href="https://www.sixx.ch/tv/enie-backt/video/staffel-4/43-pfirsich-streuselkuchen-mit-rosmarin-clip" target="_blank"> Sweet & Easy - Enie Backt</a> e la cosa mi incuriosiva troppo. Avevo visto spesso le pesche grigliate ed aromatizzate con il rosmarino, ma non l'avevo mai provato. Ecco, l'ho provato così, nella versione Sbriciolata ed è veramente ottima! La quantità di rosmarino è perfetta... di meno non si sentirebbe e di più sarebbe pesante. Profumi, gusti e consistenze perfettamente equilibrate ancor di più se mangiata tiepida! Accompagnate questa Sbriciolata alle Pesche con Rosmarino con del gelato alla vaniglia ed il gioco è fatto...
+**Sbriciolata alle Pesche con Rosmarino**, potrebbe sembrare strano ma vi assicuro che le pesche ed il rosmarino si sposano benissimo! Base morbida, cuore cremoso e briciole croccanti ed aromatiche! La ricetta l'ho vista qualche settimana fa da <a href="https://www.sixx.ch/tv/enie-backt/video/staffel-4/43-pfirsich-streuselkuchen-mit-rosmarin-clip" target="_blank"> Sweet & Easy - Enie Backt</a> e la cosa mi incuriosiva troppo. Avevo visto spesso le pesche grigliate ed aromatizzate con il rosmarino, ma non l'avevo mai provato. Ecco, l'ho provato così, nella versione Sbriciolata ed è veramente ottima! La quantità di rosmarino è perfetta... di meno non si sentirebbe e di più sarebbe pesante. Profumi, gusti e consistenze perfettamente equilibrate ancor di più se mangiata tiepida! Accompagnate questa Sbriciolata alle Pesche con Rosmarino con del gelato alla vaniglia ed il gioco è fatto...
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Sbriciolata alle Pesche con Rosmarino</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Sbriciolata alle Pesche con Rosmarino, potrebbe sembrare strano ma vi assicuro che le pesche ed il rosmarino si sposano benissimo!</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
           <tr>
             <td colspan="2"><b>Crumble</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>limone solo la scorza</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>60gr</td>
             <td>burro freddo a pezzetti</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>50gr</td>
             <td>zucchero di canna</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>75gr</td>
             <td>farina</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2 cucchiaini</td>
             <td>rosmarino tritato finemente</td>
           </tr>
           <tr style="height: 15px;"></tr>
           <tr>          
             <td colspan="2"><b>Impasto e Farcia</b></td>
-          </tr>      
-          <tr> 
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>50gr</td>
             <td>burro</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>50gr</td>
             <td>zucchero</td>
-          </tr>      
-          <tr> 
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2 bustina</td>
             <td>zucchero vanigliato</td>
-          </tr>      
-          <tr> 
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>uovo</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>circa 50gr</td>
             <td>latte</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100gr</td>
             <td>farina</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 cucchiaino</td>
             <td>lievito per dolci</td>
-          </tr>      
-          <tr> 
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>300gr</td>
             <td>pesche già pulite</td>
         </tbody>

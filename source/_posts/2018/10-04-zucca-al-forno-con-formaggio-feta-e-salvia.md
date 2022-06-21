@@ -15,34 +15,39 @@ lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
-Zucca al Forno con Formaggio Feta e Salvia, un ottimo contorno che si prepara senza grandi fatiche... Massima resa, minimo sforzo! E si e si, parto con le ricette con la zucca! I miei figli e mio marito purtroppo non sono grandi amanti della zucca, quindi devo sempre inventarmi qualcosa per fargliela mangiare. O la nascondo nelle vellutate o la devo condire molto bene... In questo caso l'ho condita abbastanza bene con il formaggio Feta! È un contorno sfizioso facile e veloce da preparare...
+**Zucca al Forno con Formaggio Feta e Salvia**, un ottimo contorno che si prepara senza grandi fatiche... Massima resa, minimo sforzo! E si e si, parto con le ricette con la zucca! I miei figli e mio marito purtroppo non sono grandi amanti della zucca, quindi devo sempre inventarmi qualcosa per fargliela mangiare. O la nascondo nelle vellutate o la devo condire molto bene... In questo caso l'ho condita abbastanza bene con il formaggio Feta! È un contorno sfizioso facile e veloce da preparare...
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Zucca al Forno con Formaggio Feta e Salvia</span>
+      <span itemprop="recipeCategory" style="display:none;">Salato</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Zucca al Forno con Formaggio Feta e Salvia, un ottimo contorno che si prepara senza grandi fatiche... Massima resa, minimo sforzo!</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>zucca</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>formaggio Feta</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Salvia</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>aglio</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>olio evo</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>sale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>paprika</td>
           </tr>
           <tr>

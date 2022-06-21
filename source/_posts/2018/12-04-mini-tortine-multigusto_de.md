@@ -14,83 +14,86 @@ lang: de
 ---
 ![](../2018-12-04-mini-tortine-multigusto/header.jpg "frangipani © Erica")
 
-> Willkommen Dezember, willkommen Weihnachtsstimmung!
-
-Mini Küchlein mit verschiedenen Geschmäcken, ein einzelner Teig, drei verschiedene Geschmacksrichtungen. Ich habe mich für die Geschmacksrichtungen Orange, Schokolade und Mandeln entschieden... Sie sind bezaubernd und ausgezeichnet für eure Gäste, die euch am Nachmittag besuchen, zur Teestunde so zu sagen. Ich liebe kleines Gebäck, denn man kann so ganz viele verschiedene probieren... Es mag nach viel Arbeit aussehen, ist es aber nicht. Wenn ihr viele Formen habt, seid ihr mit 1-2 mal Backen schon durch. Auch die Mini-Muffin-Bleche sind natürlich gut, es ist das gleiche Verfahren... Es ist sehr wichtig, die Formen sehr gut zu bebuttern (und bemehlen). Selbst wenn ihr Silikonformen verwendet, müssen diese unbedingt mit Butter bestrichen werden. Andernfalls könnten sie kleben bleiben und beschädigt werden!
+**Mini Küchlein mit verschiedenen Geschmäcken**, ein einzelner Teig, drei verschiedene Geschmacksrichtungen. Ich habe mich für die Geschmacksrichtungen Orange, Schokolade und Mandeln entschieden... Sie sind bezaubernd und ausgezeichnet für eure Gäste, die euch am Nachmittag besuchen, zur Teestunde so zu sagen. Ich liebe kleines Gebäck, denn man kann so ganz viele verschiedene probieren... Es mag nach viel Arbeit aussehen, ist es aber nicht. Wenn ihr viele Formen habt, seid ihr mit 1-2 mal Backen schon durch. Auch die Mini-Muffin-Bleche sind natürlich gut, es ist das gleiche Verfahren... Es ist sehr wichtig, die Formen sehr gut zu bebuttern (und bemehlen). Selbst wenn ihr Silikonformen verwendet, müssen diese unbedingt mit Butter bestrichen werden. Andernfalls könnten sie kleben bleiben und beschädigt werden!
 
 Endlich ist der Dezember da! Ich bin so glücklich... der November ist vorbei und Weihnachten steht vor der Tür. Am ersten Adventssonntag ist bei uns schon alles dekoriert, so kann ich die Atmosphäre länger geniessen...
 
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Mini Küchlein mit verschiedenen Geschmäcken</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2018-12-04-mini-tortine-multigusto/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Mini Küchlein mit verschiedenen Geschmäcken, ein einzelner Teig, drei verschiedene Geschmacksrichtungen. Ich habe mich für die Geschmacksrichtungen Orange, Schokolade und Mandeln entschieden.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
           <tr>
             <td colspan="2"><b>Teige</b></td>
-          </tr>
-          <tr>
+           </tr>
+          <tr itemprop="recipeIngredient">
             <td>2 Tassen (Cappuccinotasse)</td>
             <td>Mehl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Tasse (Cappuccinotasse)</td>
             <td>Zucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2 Päckchen</td>
             <td>Backpulver</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Vanille</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Prise</td>
             <td>Salz</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1dl</td>
             <td>Wasser</td>
-           </tr>
-          <tr>
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>2</td>
             <td>Eier</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>125gr</td>
             <td>geschmolzene Butter lauwarm</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Esslöffel</td>
             <td>Kakaopulver</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>3 Esslöffel</td>
             <td>gemahlene Mandeln</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>Orange nur Abrieb</td>
           </tr>
           <tr style="height: 15px;"></tr>
           <tr>          
             <td colspan="2"><b>Deko</b></td>
-          </tr>      
-          <tr> 
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>2-3 Esslöffel</td>
             <td>Puderzucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Orangensaft</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>ca. 50gr</td>
             <td>dunkle Schokolade</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>gebrannte Mandeln</td>
           </tr>

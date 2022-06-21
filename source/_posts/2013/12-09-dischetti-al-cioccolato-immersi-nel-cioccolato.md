@@ -1,5 +1,5 @@
 ---
-title: Dischetti al Cioccolato immersi nel Cioccolato
+title: "Dischetti al Cioccolato immersi nel Cioccolato"
 date: 2013-12-09
 tags:
 - cioccolato
@@ -12,62 +12,69 @@ lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
+**Dischetti al Cioccolato immersi nel Cioccolato**, dei biscotti friabili che si fanno velocemente e che scompaiono altrettanto velocemente!
+
 Mio marito mi aveva chiesto dei biscotti molto cioccolatosi... Eccoli quà!
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Dischetti al Cioccolato immersi nel Cioccolato</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Dischetti al Cioccolato immersi nel Cioccolato, dei biscotti che si fanno velocemente e che scompaiono altrettanto velocemente!</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
           <tr>
             <td colspan="2"><b>Impasto</b></td>
-          </tr>
-          <tr>
+          </tr>      
+          <tr itemprop="recipeIngredient">
             <td>ca. 300gr</td>
             <td>farina</td>
-          </tr>
-          <tr>
+          </tr>      
+          <tr itemprop="recipeIngredient">
             <td>40gr</td>
             <td>burro</td>
-          </tr>
-          <tr>
+          </tr>      
+          <tr itemprop="recipeIngredient">
             <td>100gr</td>
             <td>zucchero</td>
-          </tr>
-          <tr>
+          </tr>      
+          <tr itemprop="recipeIngredient">
             <td>1 bustina</td>
             <td>zucchero vanigliato</td>        
-          </tr>
-          <tr>
+          </tr>      
+          <tr itemprop="recipeIngredient">
             <td>2</td>
             <td>uova</td>
-          </tr>
-          <tr>
+          </tr>      
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>tuorlo d'uovo</td>
-          </tr>
-          <tr>
+          </tr>      
+          <tr itemprop="recipeIngredient">
             <td>25gr</td>
             <td>cacao amaro in polvere</td>
-          </tr>
-          <tr>
+          </tr>      
+          <tr itemprop="recipeIngredient">
             <td>115gr</td>
             <td>cioccolato fondente</td>
-          </tr>
-          <tr>
+          </tr>      
+          <tr itemprop="recipeIngredient">
             <td>1/4 cucchiaino</td>
             <td>lievito per dolci</td>
-          </tr>
-          <tr>
+          </tr>      
+          <tr itemprop="recipeIngredient">
             <td>1 pizzico</td>
             <td>sale</td>
           </tr>
           <tr style="height: 15px;"></tr>
           <tr>          
             <td colspan="2"><b>Glassa</b></td>
-          </tr>
-          <tr>
+          </tr>      
+          <tr itemprop="recipeIngredient">
             <td>ca. 100gr</td>
             <td>cioccolato fondente</td>       
           </tr>

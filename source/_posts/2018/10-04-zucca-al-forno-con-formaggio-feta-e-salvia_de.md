@@ -15,34 +15,39 @@ lang: de
 ---
 ![](../2018-10-04-zucca-al-forno-con-formaggio-feta-e-salvia/header.jpg "frangipani © Erica")
 
-Ofenkürbis mit Fetakäse und Salbei, eine leckere Beilage, die ohne grossen Aufwand zubereitet werden kann... Maximaler Ertrag, minimaler Aufwand! Und ja so ist es, ich starte mit den Kürbisrezepten! Meine Kinder und mein Mann sind leider keine grossen Kürbisliebhaber, darum muss ich mir immer etwas einfallen lassen, damit sie es essen. Entweder ich verstecke es in der Suppe oder ich muss es sehr gut würzen... In diesem Fall habe ich es ziemlich gut mit Fetakäse gewürzt! Es ist eine leckere Beilage, die einfach und schnell zuzubereitet ist...
+**Ofenkürbis mit Fetakäse und Salbei**, eine leckere Beilage, die ohne grossen Aufwand zubereitet werden kann... Maximaler Ertrag, minimaler Aufwand! Und ja so ist es, ich starte mit den Kürbisrezepten! Meine Kinder und mein Mann sind leider keine grossen Kürbisliebhaber, darum muss ich mir immer etwas einfallen lassen, damit sie es essen. Entweder ich verstecke es in der Suppe oder ich muss es sehr gut würzen... In diesem Fall habe ich es ziemlich gut mit Fetakäse gewürzt! Es ist eine leckere Beilage, die einfach und schnell zuzubereitet ist...
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Ofenkürbis mit Fetakäse und Salbei</span>
+      <span itemprop="recipeCategory" style="display:none;">Herzhaftes</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2018-10-04-zucca-al-forno-con-formaggio-feta-e-salvia/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Ofenkürbis mit Fetakäse und Salbei, eine leckere Beilage, die ohne grossen Aufwand zubereitet werden kann... Maximaler Ertrag, minimaler Aufwand!</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Kürbis</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Fetakäse</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Salbei</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Knoblauch</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Olivenöl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Salz</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Paprika</td>
           </tr>
           <tr>

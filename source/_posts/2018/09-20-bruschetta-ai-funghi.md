@@ -13,31 +13,36 @@ lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
-Bruschetta ai Funghi, un ottimo antipasto veloce e gustoso da preparare durante l'autunno, la stagione dei funghi. Siamo abituati a mangiare la bruschetta con i pomodori, ma perché non provare qualcosa di diverso? A noi è piaciuta molto... La preparate con i funghi che vi piacciono, io ho usato champignons, gallinacci e cardoncelli. Purtroppo non sono riuscita a trovare i funghi porcini, ci sarebbero stati bene. La proverò ancora, magari con altri funghi, devo vedere al mercato... Li ce n'è uno che vende solo funghi e ne ha di tutti i tipi! 
+**Bruschetta ai Funghi**, un ottimo antipasto veloce e gustoso da preparare durante l'autunno, la stagione dei funghi. Siamo abituati a mangiare la bruschetta con i pomodori, ma perché non provare qualcosa di diverso? A noi è piaciuta molto... La preparate con i funghi che vi piacciono, io ho usato champignons, gallinacci e cardoncelli. Purtroppo non sono riuscita a trovare i funghi porcini, ci sarebbero stati bene. La proverò ancora, magari con altri funghi, devo vedere al mercato... Li ce n'è uno che vende solo funghi e ne ha di tutti i tipi! 
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Bruschetta ai Funghi</span>
+      <span itemprop="recipeCategory" style="display:none;">Salato</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Bruschetta ai Funghi, un ottimo antipasto veloce e gustoso da preparare durante l'autunno, la stagione dei funghi.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>funghi</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>aglio</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>prezzemolo</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>sale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>olio evo</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>pane</td>
           </tr>
           <tr>

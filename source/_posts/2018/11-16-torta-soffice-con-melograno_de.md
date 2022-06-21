@@ -13,7 +13,7 @@ lang: de
 ---
 ![](../2018-11-16-torta-soffice-con-melograno/header.jpg "frangipani © Erica")
 
-Blechkuchen mit Granatapfel, ideal für den z'Vieri oder zusammen mit einem leckeren warmen Tee! Alles in eine Schüssel geben, mischen und fertig! Gibt es noch etwas zu sagen? Ah ja, er ist unglaublich fein... er schmilzt im Munde und in jedem Bissen befinden sich die Körner des Granatapfels, die im Mund platzen. Die Samen stören mich nicht. Der Kuchen ist so fluffig, dass er nicht viel gekaut werden muss, also sind die Samen da und sie sind nicht da. Um Mehl und Zucker zu dosieren, benötigt ihr in diesem Fall eine Cappuccino-Tasse, zu ca. 1.2dl, nicht die grosse Tasse. Dies ist ein sehr vielseitiges Rezept. Das Original wird mit <a href="https://frangipani.raiano.ch/2015-04-16-torta-all-ananas-sofficissima/" target="_blank">Ananas</a> gemacht. Ich habe auch eine schöne Erinnerung an das Rezept mit Ananas... nicht wahr Zia Giusy?
+**Blechkuchen mit Granatapfel**, ideal für den z'Vieri oder zusammen mit einem leckeren warmen Tee! Alles in eine Schüssel geben, mischen und fertig! Gibt es noch etwas zu sagen? Ah ja, er ist unglaublich fein... er schmilzt im Munde und in jedem Bissen befinden sich die Körner des Granatapfels, die im Mund platzen. Die Samen stören mich nicht. Der Kuchen ist so fluffig, dass er nicht viel gekaut werden muss, also sind die Samen da und sie sind nicht da. Um Mehl und Zucker zu dosieren, benötigt ihr in diesem Fall eine Cappuccino-Tasse, zu ca. 1.2dl, nicht die grosse Tasse. Dies ist ein sehr vielseitiges Rezept. Das Original wird mit <a href="https://frangipani.raiano.ch/2015-04-16-torta-all-ananas-sofficissima/" target="_blank">Ananas</a> gemacht. Ich habe auch eine schöne Erinnerung an das Rezept mit Ananas... nicht wahr Zia Giusy?
 
 Ich hatte euch den zweiten Teil der Liste versprochen, mit den Dingen, die wir im November tun können. Aber zuerst: Habt ihr die gesamte <a href="https://frangipani.raiano.ch/2018-11-06-fluffosa-vegana-con-pere-e-cioccolato-de/" target="_blank">To-Do-Liste der ersten Novemberhälfte</a> erledigt? Ich habe alle Geschenke aufgeschrieben, die ich zu kaufen und/oder selbst machen darf (und ich habe bereits einen Teil gekauft/gemacht). Ich habe zu Hause alles, was ich brauche, um den Adventskalender zusammenzusetzen. Wenn ich zwei Minuten Zeit habe, suche ich nach Weihnachtsinspirationen und betreffend Deko, es fehlt nichts, aber trotzdem ist es nicht verboten etwas hinzuzufügen, oder?
 
@@ -32,44 +32,49 @@ Wenn ihr es schafft, bis zum Ende des Monats alle Punkte auf der To-Do-Liste (od
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Blechkuchen mit Granatapfel</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2018-11-16-torta-soffice-con-melograno/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Blechkuchen mit Granatapfel, ideal für den z'Vieri oder zusammen mit einem leckeren warmen Tee! Alles in eine Schüssel geben, mischen und fertig!</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2 Tassen (Cappuccinotasse)</td>
             <td>Mehl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Tasse (Cappuccinotasse)</td>
             <td>Zucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2 Päckchen</td>
             <td>Backpulver</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Vanille</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Prise</td>
             <td>Salz</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1dl</td>
             <td>Orangensaft</td>
-           </tr>
-          <tr>
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>2</td>
             <td>Eier</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>125gr</td>
             <td>lauwarme geschmolzene Butter</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>Granatapfel entkernt</td>
           </tr>

@@ -4,7 +4,6 @@ date: 2018-12-20
 tags:
 - natale
 - colazione
-- dolci
 - vegan
 categories:
 - Dolce
@@ -14,9 +13,7 @@ lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
-> Buon Natale e buone feste a tutti voi!
-
-Scones vegani con Cranberries profumati all'Arancia, per una colazione festosa e stellata. Sono ottimi per il Brunch natalizio o per la merenda pomeridiana tipo Tea Time... Li ho preparati a forma di stelle, perchè a dicembre farei tutto a forma di stelle, ma non solo a dicembre eh! Naturalmente per la versione più veloce, formate un disco e tagliatelo a spicchi... ma le stelline ci stanno dai!
+**Scones vegani con Cranberries profumati all'Arancia**, per una colazione festosa e stellata. Sono ottimi per il Brunch natalizio o per la merenda pomeridiana tipo Tea Time... Li ho preparati a forma di stelle, perchè a dicembre farei tutto a forma di stelle, ma non solo a dicembre eh! Naturalmente per la versione più veloce, formate un disco e tagliatelo a spicchi... ma le stelline ci stanno dai!
 
 Questo è il mio ultimo post per quest'anno... Il 2018 sta per finire, domani ultimo giorno di asilo, mio marito da domani è in ferie e io metto da parte il Blog fino a prossimo anno. Mi godo la mia famiglia, i risvegli lenti, mio marito a casa, il clima natalizio... Nel <a href="https://frangipani.raiano.ch/2018-01-10-vellutata-arancione-e-scones-salati-con-spinaci-e-feta/" target="_blank">primo Post del 2018</a> (che casualmente è pure una ricetta con gli Scones) avevo scritto i miei buoni propositi per il 2018 e adesso vorrei fare un resoconto per vedere cosa sono riuscita a fare, così per terminare l'anno...
 
@@ -36,46 +33,51 @@ Erica
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Scones vegani con Cranberries profumati all'Arancia</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Scones vegani con Cranberries profumati all'Arancia, per una colazione festosa e stellata. Sono ottimi per il Brunch natalizio o per la merenda pomeridiana tipo Tea Time.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
-          <tr>
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>250gr</td>
             <td>farina</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 cucchiaio</td>
             <td>zucchero a velo</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2 bustina</td>
             <td>lievito per dolci</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 pizzico</td>
             <td>vaniglia grattugiata</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>scorza d'arancia bio</td> 
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 pizzico</td>
             <td>sale</td>      
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>60gr</td>
             <td>margarina morbida (o burro)</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>150ml</td>
             <td>latte vegetale</td>
-           </tr>
-          <tr>
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>1 manciata</td>
             <td>cranberries freschi (o altri frutti rossi congelati)</td>
-       
           </tr>
         </tbody>
       </table>

@@ -14,75 +14,78 @@ lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
-> Buon 5° Compliblog Profumo di Frangipani!
-
-Cream Tart al Cacao per festeggiare 5 anni del mio Blog! Un dolce facilissimo da preparare ma con l'effetto WOW assicurato... Inutile dirvi che la frolla al cacao è divina, poi in combinazione con la cremosissima Camy Cream al Cacao... Ciao! Questa Cream Tart al Cacao era in programma già da aprile. Praticamente dopo aver fatto la <a href="https://frangipani.raiano.ch/2018-04-24-cream-tart-al-limone/" target="_blank">Cream Tart al Limone</a> per il compleanno di mio marito, mi ero già premessa di prepararne un'altra per il mio Compliblog. Ed eccola qua! In questo caso non ho aggiunto grandi fiori colorati, ma ho prefertio tenerla nei toni caldi autunnali. Avevo in giardino dei bellissimi crisantemi, ma non essendo commestibili li ho tolti prima di servirla... Oltre i fiori l'ho decorata con cacao nibs (fave di cacao tritate), fogli d'oro e argento e polvere dorata. Non mi piace caricare troppo le Cream Tarts, ma potreste aggiungere anche scaglie di cioccolato, macarons, biscotti, frutta secca ecc... È troppo buona!
+**Cream Tart al Cacao** per festeggiare 5 anni del mio Blog! Un dolce facilissimo da preparare ma con l'effetto WOW assicurato... Inutile dirvi che la frolla al cacao è divina, poi in combinazione con la cremosissima Camy Cream al Cacao... Ciao! Questa Cream Tart al Cacao era in programma già da aprile. Praticamente dopo aver fatto la <a href="https://frangipani.raiano.ch/2018-04-24-cream-tart-al-limone/" target="_blank">Cream Tart al Limone</a> per il compleanno di mio marito, mi ero già premessa di prepararne un'altra per il mio Compliblog. Ed eccola qua! In questo caso non ho aggiunto grandi fiori colorati, ma ho prefertio tenerla nei toni caldi autunnali. Avevo in giardino dei bellissimi crisantemi, ma non essendo commestibili li ho tolti prima di servirla... Oltre i fiori l'ho decorata con cacao nibs (fave di cacao tritate), fogli d'oro e argento e polvere dorata. Non mi piace caricare troppo le Cream Tarts, ma potreste aggiungere anche scaglie di cioccolato, macarons, biscotti, frutta secca ecc... È troppo buona!
 
 Per fortuna il Blog ha la stessa età di mia figlia, così almeno mi ricordo... 5 anni è un po' un giubileo, no? Almeno in molte ditte è così. Dovrei fare anche un piccolo resoconto su quanto riguarda il Blog, che dite? Beh, che scrivere... Quest'anno ho avuto spesso la sensazione di aver trascurato il Blog, è questa la prima cosa che mi viene in mente. No, questo Blog non è il mio lavoro, lo faccio perché mi piace farlo, perché mi piace condividere con voi le mie ricette... come se fosse un diario! Forse un giorno riuscirò a guadagnarci qualche soldino, ma per ora non se ne parla. Perché? Non ho tempo! I miei piccoli stanno crescendo e i loro pisolini pomeridiano, che per me erano/sono preziosissimi, diventano sempre più rari. Abbiamo più impegni tra pomeriggi all'asilo, danza, ginnastica, amichetti e cose varie. Il Blog per me è sempre stato qualcosa da fare durante il mio tempo libero. Non ho mai voluto "togliere" del tempo a loro per dedicarmi a questo. Poco tempo libero vuol dire poco tempo per sperimentare, poco tempo per creare, poco tempo per scrivere dei Post, poco tempo per il mio Blog. E questo si è visto! Faccio quello che posso, purché sia fatto volentieri, senza obblighi... Ma una piccola speranza c'è! Prossimo anno dopo le vacanze estive, anche mio figlio andrà all'asilo e questo vuol dire che avrò tutte le mattine libere! Olé!
 Come ogni anno, il 18 Ottobre, colgo l'occasione per ringraziare ogni uno di voi... Ringrazio te che mi segui regolarmente per leggere le mie ricette. Ringrazio te che per curiosità hai dato una sbirciatina sul mio Blog. Ringrazio te che dopo aver cercato qualcosa su Google sei arrivato qui... Grazie!
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Cream Tart al Cacao</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Cream Tart al Cacao un dolce facilissimo da preparare ma con l'effetto WOW assicurato.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
           <tr>
             <td colspan="2"><b>Frolla morbida al cacao</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>330gr</td>
             <td>farina</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>40gr</td>
             <td>cacao amaro</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>190gr</td>
             <td>burro</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>150gr</td>
             <td>zucchero a velo</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 pizzico</td>
             <td>sale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>8gr</td>
             <td>lievito per dolci</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2</td>
             <td>uova</td>
           </tr>
           <tr style="height: 15px;"></tr>
           <tr>          
             <td colspan="2"><b>Camy Cream al Cacao</b></td>
-          </tr>      
-          <tr> 
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>500gr</td>
             <td>mascarpone freddo</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>250gr</td>
             <td>panna da montare fredda</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>180gr</td>
             <td>latte condensato zuccherato freddo</td>
-          </tr>      
-          <tr> 
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>3 cucchiai colmi</td>
             <td>cacao amaro</td>
           </tr>
           <tr style="height: 15px;"></tr>
           <tr>          
             <td colspan="2"><b>Deco</b></td>
-          </tr>      
-          <tr> 
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>fiori freschi, fave di cacao tritate, cioccolato...</td>
         </tbody>

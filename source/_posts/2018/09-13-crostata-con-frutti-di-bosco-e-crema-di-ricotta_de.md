@@ -18,70 +18,75 @@ lang: de
 ---
 ![](../2018-09-13-crostata-con-frutti-di-bosco-e-crema-di-ricotta/header.jpg "frangipani © Erica")
 
-Beeren-Quark-Tarte... Mürbeteig, Beeren und Quark. Muss man da noch etwas ergänzen? Ich denke nicht! Knusprige und mürbe Hülle mit einer cremigen Füllung voller Beeren. Nach der Herbstankündigung vor ein paar Tagen, hatte ich mir vorgenommen, mich den herbstlichen Rezepten mit Äpfeln, Pilzen, Kürbis etc. zu widmen. Aber, der Sommer ist zurück! Meiner Meinung nach, hat er nicht die Absicht zu gehen... Folglich hatte ich Lust auf ein frisches Dessert mit Beeren. Insbesondere eine Tarte, die ich auf dem Blog <a href="https://www.experimenteausmeinerkueche.de/2016/07/sommerliche-beerentarte.html" target="_blank"> Experimente aus meiner Küche</a> gesehen hatte. Das Rezept hatte ich schon für den nächsten Sommer auf die Seite gelegt... Ich sag nur, sie war innerhalb von zwei Tagen weg! Auch meine Tochter, die nicht so gerne Mürbeteig mag (ich weiss, ich kann auch nicht verstehen wie das möglich ist), hat sie liebend gern gegessen. Jetzt seid ihr dran, nutzt diese letzten Sommertage um diese frische Beeren-Quark-Tarte zu backen...
+**Beeren-Quark-Tarte**... Mürbeteig, Beeren und Quark. Muss man da noch etwas ergänzen? Ich denke nicht! Knusprige und mürbe Hülle mit einer cremigen Füllung voller Beeren. Nach der Herbstankündigung vor ein paar Tagen, hatte ich mir vorgenommen, mich den herbstlichen Rezepten mit Äpfeln, Pilzen, Kürbis etc. zu widmen. Aber, der Sommer ist zurück! Meiner Meinung nach, hat er nicht die Absicht zu gehen... Folglich hatte ich Lust auf ein frisches Dessert mit Beeren. Insbesondere eine Tarte, die ich auf dem Blog <a href="https://www.experimenteausmeinerkueche.de/2016/07/sommerliche-beerentarte.html" target="_blank"> Experimente aus meiner Küche</a> gesehen hatte. Das Rezept hatte ich schon für den nächsten Sommer auf die Seite gelegt... Ich sag nur, sie war innerhalb von zwei Tagen weg! Auch meine Tochter, die nicht so gerne Mürbeteig mag (ich weiss, ich kann auch nicht verstehen wie das möglich ist), hat sie liebend gern gegessen. Jetzt seid ihr dran, nutzt diese letzten Sommertage um diese frische Beeren-Quark-Tarte zu backen...
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Beeren-Quark-Tarte</span>
+      <span itemprop="recipeCategory" style="display:none;">Herzhaftes</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2018-09-13-crostata-con-frutti-di-bosco-e-crema-di-ricotta/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Beeren-Quark-Tarte... Mürbeteig, Beeren und Quark. Muss man da noch etwas ergänzen? Ich denke nicht!</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
           <tr>
             <td colspan="2"><b>Mürbeteig</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>200gr</td>
             <td>Mehl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2 Teelöffel</td>
             <td>Backpulver</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100gr</td>
             <td>kalte Butter in Stücke</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>65gr</td>
             <td>Zucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>kleines Ei</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>gemahlene Vanille</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Prise</td>
             <td>Salz</td>
           </tr>
           <tr style="height: 15px;"></tr>
           <tr>          
             <td colspan="2"><b>Füllung</b></td>
-          </tr>      
-          <tr>
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>140gr</td>
             <td>Quark oder Ricottakäse</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>140gr</td>
             <td>Sauerrahm oder griechischer Joghurt</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>35gr</td>
             <td>Zucker</td>
-          </tr>      
-          <tr> 
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>2</td>
             <td>Eier</td>
-          </tr>      
-          <tr> 
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>gemahlene Vanille oder Extrakt</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>400gr ca.</td>
             <td>Beeren</td>
         </tbody>

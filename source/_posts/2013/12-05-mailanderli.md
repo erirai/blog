@@ -1,5 +1,5 @@
 ---
-title: "Mailänderli"
+title: "Mailänderli (Biscotti Svizzeri al burro e agrumi)"
 date: 2013-12-05
 tags:
 - biscotti
@@ -11,42 +11,48 @@ lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
-> Grazie Madrina per questa ricetta!
+**Mailänderli** (Biscotti Svizzeri al burro e agrumi), dei biscotti natalizi della tradizione svizzera friabili, morbidi e scioglievoli.
 
 Oggi ho fatto i primi biscotti di Natale :-) Secondo me sono i più facili da fare, hanno un leggero gusto di limone e sono buonissimi! Nei prossimi giorni ne farò altri...
 
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Mailänderli (Biscotti Svizzeri al burro e agrumi)</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Mailänderli (Biscotti Svizzeri al burro e agrumi), dei biscotti natalizi della tradizione svizzera friabili, morbidi e scioglievoli.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
-          <tr>
+          </tr>      
+          <tr itemprop="recipeIngredient">
             <td>1 limone</td>
             <td>solo la scorza</td>
-          </tr>
-          <tr>
+          </tr>      
+          <tr itemprop="recipeIngredient">
             <td>250gr</td>
             <td>burro</td>
-          </tr>
-          <tr>
+          </tr>      
+          <tr itemprop="recipeIngredient">
             <td>250gr</td>
             <td>zucchero</td>
-          </tr>
-          <tr>
+          </tr>      
+          <tr itemprop="recipeIngredient">
             <td>3</td>
             <td>uova</td>
-          </tr>
-          <tr>
+          </tr>      
+          <tr itemprop="recipeIngredient">
             <td>500gr</td>
             <td>farina</td>       
-          </tr>
-          <tr>
+          </tr>      
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>acqua</td>        
-          </tr>
-          <tr>
+          </tr>      
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>sale</td>
           </tr>

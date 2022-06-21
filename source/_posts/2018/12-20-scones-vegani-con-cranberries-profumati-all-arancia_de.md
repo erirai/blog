@@ -1,10 +1,9 @@
 ---
-title: "vegane Scones mit Cranberries und Orangenduft"
+title: "Vegane Scones mit Cranberries und Orangenduft"
 date: 2018-12-20
 tags:
 - natale
 - colazione
-- dolci
 - vegan
 categories:
 - Dolce
@@ -14,9 +13,7 @@ lang: de
 ---
 ![](../2018-12-20-scones-vegani-con-cranberries-profumati-all-arancia/header.jpg "frangipani © Erica")
 
-> Frohe Weihnachten und en guete Rutsch!
-
-Vegane Scones mit Cranberries und Orangenduft, für ein Sternenfrühstück. Sie eignen sich hervorragend für den Weihnachtsbrunch oder für den Nachmittagstee... Ich habe sie in Form von Sternen zubereitet, denn im Dezember würde ich alles in Form von Sternen machen, aber nicht nur im Dezember. Für die schnellere Variante natürlich eine Scheibe formen und in Schnitze schneiden... aber die Sterne passen gerade ganz gut!
+**Vegane Scones mit Cranberries und Orangenduft**, für ein Sternenfrühstück. Sie eignen sich hervorragend für den Weihnachtsbrunch oder für den Nachmittagstee... Ich habe sie in Form von Sternen zubereitet, denn im Dezember würde ich alles in Form von Sternen machen, aber nicht nur im Dezember. Für die schnellere Variante natürlich eine Scheibe formen und in Schnitze schneiden... aber die Sterne passen gerade ganz gut!
 
 Dies ist mein letzter Beitrag für dieses Jahr... Das Jahr 2018 ist bald zu Ende, morgen der letzte Kindergartentag, mein Mann ist auch ab morgen im Urlaub und ich stelle den Blog bis zum nächsten Jahr zur Seite. Ich geniesse meine Familie, langsames Erwachen, meinen Mann zu Hause zu haben, die Weihnachtsstimmung... Im <a href="https://frangipani.raiano.ch/2018-01-10-vellutata-arancione-e-scones-salati-con-spinaci-e-feta-de/" target="_blank">ersten Post von diesem Jahr</a> (was zufällig auch ein Rezept für die Scones war), schrieb ich meine guten Vorsätze für 2018 auf und jetzt möchte ich mal zurückschauen, um zu sehen, was ich geschafft habe, so als Jahresabschluss...
 
@@ -35,43 +32,49 @@ Erica
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Vegane Scones mit Cranberries und Orangenduft</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2018-12-20-scones-vegani-con-cranberries-profumati-all-arancia/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Vegane Scones mit Cranberries und Orangenduft, für ein Sternenfrühstück. Sie eignen sich hervorragend für den Weihnachtsbrunch oder für den Nachmittagstee.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
-          <tr>
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>250gr</td>
             <td>Mehl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Esslöffel</td>
             <td>Puderzucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2 Päckchen</td>
             <td>Backpulver</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Prise</td>
             <td>Vanille</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Orangenabrieb bio</td> 
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Prise</td>
             <td>Salz</td>      
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>60gr</td>
             <td>weiche Margarine (oder Butter)</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>150ml</td>
             <td>pflanzliche Milch</td>
-           </tr>
-          <tr>
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Handvoll</td>
             <td>frische Cranberries (oder andere TK-Beeren)</td>
           </tr>

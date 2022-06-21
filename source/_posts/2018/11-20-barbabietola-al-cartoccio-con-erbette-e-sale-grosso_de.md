@@ -13,25 +13,30 @@ lang: de
 ---
 ![](../2018-11-20-barbabietola-al-cartoccio-con-erbette-e-sale-grosso/header.jpg "frangipani © Erica")
 
-Gebackene rote Bete in Folie mit Kräutern und grobem Salz als Beilage oder zur Bereicherung eines guten Salates. Sie hat einen fantastischen Geschmack, die rote Bete nimmt alle Aromen der Kräuter auf und ist dennoch saftig. Wenn ihr sie auf diese Weise kocht, werden eure Hände nicht schmutzig, sie werden nicht rot. Die Garzeit ist recht lang, wie bei allen Wuzelknollen, aber es lohnt sich absolut! Wählt auf jeden Fall kleine Beten für diese Garmethode. Es ist das erste Mal, dass ich sie so vorbereite, nachdem meine Mutter und meine Schwester darüber gesprochen hatten, wollte ich es auch versuchen. Normalerweise kaufe ich die bereits gekochte rote Bete, schneide sie klein und würze sie mit Senf, Essig, Zitrone, Öl und Salz. Ich müchte versuchen noch mehr saisonal zu essen... Zucchini, Auberginen, Tomaten und Paprika möchte ich bis zum nächsten Sommer, so weit wie möglich, vermeiden... Ich würde gerne mehr Kohlsorten, Wurzelknollen usw. essen, wir werden sehen, ob ich kann!
+**Gebackene rote Bete in Folie mit Kräutern und grobem Salz** als Beilage oder zur Bereicherung eines guten Salates. Sie hat einen fantastischen Geschmack, die rote Bete nimmt alle Aromen der Kräuter auf und ist dennoch saftig. Wenn ihr sie auf diese Weise kocht, werden eure Hände nicht schmutzig, sie werden nicht rot. Die Garzeit ist recht lang, wie bei allen Wuzelknollen, aber es lohnt sich absolut! Wählt auf jeden Fall kleine Beten für diese Garmethode. Es ist das erste Mal, dass ich sie so vorbereite, nachdem meine Mutter und meine Schwester darüber gesprochen hatten, wollte ich es auch versuchen. Normalerweise kaufe ich die bereits gekochte rote Bete, schneide sie klein und würze sie mit Senf, Essig, Zitrone, Öl und Salz. Ich müchte versuchen noch mehr saisonal zu essen... Zucchini, Auberginen, Tomaten und Paprika möchte ich bis zum nächsten Sommer, so weit wie möglich, vermeiden... Ich würde gerne mehr Kohlsorten, Wurzelknollen usw. essen, wir werden sehen, ob ich kann!
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Gebackene rote Bete in Folie mit Kräutern und grobem Salz</span>
+      <span itemprop="recipeCategory" style="display:none;">Herzhaftes</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2018-11-20-barbabietola-al-cartoccio-con-erbette-e-sale-grosso/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Gebackene rote Bete in Folie mit Kräutern und grobem Salz als Beilage oder zur Bereicherung eines guten Salates.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>rohe rote Beten</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Salbei, Rosmarin, Thymian...</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>grobes Salz</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>Olivenöl</td>
           </tr>
           <tr>

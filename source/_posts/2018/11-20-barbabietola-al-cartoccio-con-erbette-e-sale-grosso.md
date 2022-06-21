@@ -13,25 +13,30 @@ lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
-Barbabietola al Cartoccio con Erbette e Sale Grosso da servire come contorno o per arricchire una buona insalata. Ha un gusto fantastico, assorbe tutti gli aromi delle erbette e rimane comunque bella succosa. Cucinandola in questo modo non vi sporcate le mani, non vi restano rosse. Ha bisogno di una lunga cottura, come tutti i tuberi d'altronde, ma ne vale assolutamente la pena! Scegliete in ogni caso barbabietole piccoline per questa cottura. È la prima volta che la preparo così, dopo che mia mamma e mia sorella me ne hanno parlato, l'ho voluta provare anche io. Solitamente compro quella già bollita, che poi pelo, taglio e condisco con senape, aceto, limone, olio e sale. Vorrei provare a comprare ancora di più solo cose di stagione... Vorrei evitare il più possibile zucchine, melanzane, pomodori e peperoni fino alla prossima estate... Vorrei mangiare più cavoli, tuberi ecc, vedremo se ci riuscirò! 
+**Barbabietola al Cartoccio con Erbette e Sale Grosso** da servire come contorno o per arricchire una buona insalata. Ha un gusto fantastico, assorbe tutti gli aromi delle erbette e rimane comunque bella succosa. Cucinandola in questo modo non vi sporcate le mani, non vi restano rosse. Ha bisogno di una lunga cottura, come tutti i tuberi d'altronde, ma ne vale assolutamente la pena! Scegliete in ogni caso barbabietole piccoline per questa cottura. È la prima volta che la preparo così, dopo che mia mamma e mia sorella me ne hanno parlato, l'ho voluta provare anche io. Solitamente compro quella già bollita, che poi pelo, taglio e condisco con senape, aceto, limone, olio e sale. Vorrei provare a comprare ancora di più solo cose di stagione... Vorrei evitare il più possibile zucchine, melanzane, pomodori e peperoni fino alla prossima estate... Vorrei mangiare più cavoli, tuberi ecc, vedremo se ci riuscirò! 
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Barbabietola al Cartoccio con Erbette e Sale Grosso</span>
+      <span itemprop="recipeCategory" style="display:none;">Salato</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Barbabietola al Cartoccio con Erbette e Sale Grosso da servire come contorno o per arricchire una buona insalata.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>barbabietole fresche</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>salvia, rosmarino, timo...</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>sale grosso</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>olio evo</td>
           </tr>
           <tr>

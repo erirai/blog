@@ -14,31 +14,37 @@ lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
-Pasta con Pomodoro fresco, una ricetta velocissima con pochissimi ingredienti che tutti abbiamo sempre in casa! In estate quando ci sono i pomodori buoni, preferisco in gran lunga la pasta col pomodoro fresco, in inverno naturalmente preferisco il sugo. È una delle mie ricette salva cena/pranzo preferite sia per la sua bontà ma anche per la sua facilità e semplicità! Pochissimi ma buoni ingredienti, non c'è bisogno d'altro... 
+**Pasta con Pomodoro fresco**, una ricetta velocissima con pochissimi ingredienti che tutti abbiamo sempre in casa! In estate quando ci sono i pomodori buoni, preferisco in gran lunga la pasta col pomodoro fresco, in inverno naturalmente preferisco il sugo. È una delle mie ricette salva cena/pranzo preferite sia per la sua bontà ma anche per la sua facilità e semplicità! Pochissimi ma buoni ingredienti, non c'è bisogno d'altro... 
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Pasta con Pomodoro fresco</span>
+      <span itemprop="recipeCategory" style="display:none;">Salato</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Pasta con Pomodoro fresco, una ricetta velocissima con pochissimi ingredienti che tutti abbiamo sempre in casa!</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
-          <tr>
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>320gr</td>
             <td>pasta corta</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>4</td>
             <td>pomodori ramati</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>basilico</td>
-         </tr>
-          <tr>
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>olio evo</td>
-         </tr>
-          <tr>
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>sale</td>
           </tr>

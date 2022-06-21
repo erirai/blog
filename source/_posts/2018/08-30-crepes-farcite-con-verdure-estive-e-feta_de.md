@@ -16,70 +16,73 @@ lang: de
 ---
 ![](../2018-08-30-crepes-farcite-con-verdure-estive-e-feta/header.jpg "frangipani © Erica")
 
-> Ciao ciao August, danke!
-
-Gefüllte Crêpes mit Sommergemüse und Feta, ein perfektes Gericht, um Gemüse abzubauen und den Kühlschrank zu leeren. Ein sehr gutes und elegantes Rezept, um Paprikaschoten, Auberginen und Zucchini zu geniessen, die besondere Note gibt mein geliebter Fetakäse. Meine Tochter wollte schon seit einiger Zeit Crêpes, weil sie sie im Kindergarten gekocht hatten. Letzten Sonntag bereitete ich sie für den z'Vieri vor und machte ein paar mehr, um dieses Rezept vorzubereiten. Die Crêpes sind neutral, ohne Salz oder Zucker, weil wir sie ja zum z'Vieri süss gefüllt haben (Gaia mit Haselnusscreme und Erdbeeren, Gioele mit Himbeeren, Erdbeeren, Zucker und Zimt und ich nur und immer mit Zucker und Zimt) und für dieses Rezept brauchte ich "salzige". Wenn ihr möcht, könnt ihr den Teig für die Crêpes mit Paprika, Kurkuma oder Kräutern würzen oder einfach neutral lassen. Die Füllung ist sehr lecker, so dass die Crêpe nicht so viel Würze braucht. In meinem Fall habe ich Paprikaschoten, Auberginen und Zucchini genommen, weil ich das im Kühlschrank hatte. Sommergemüse, weil wir noch im Sommer sind. Sicherlich sind sie auch ausgezeichnet mit Blattgemüse wie Spinat oder Kürbis, der bald König unserer Rezepte sein wird. Wenn ihr lieber Schmelzkäse statt Fetakäse mögt, nur zu!
+**Gefüllte Crêpes mit Sommergemüse und Feta**, ein perfektes Gericht, um Gemüse abzubauen und den Kühlschrank zu leeren. Ein sehr gutes und elegantes Rezept, um Paprikaschoten, Auberginen und Zucchini zu geniessen, die besondere Note gibt mein geliebter Fetakäse. Meine Tochter wollte schon seit einiger Zeit Crêpes, weil sie sie im Kindergarten gekocht hatten. Letzten Sonntag bereitete ich sie für den z'Vieri vor und machte ein paar mehr, um dieses Rezept vorzubereiten. Die Crêpes sind neutral, ohne Salz oder Zucker, weil wir sie ja zum z'Vieri süss gefüllt haben (Gaia mit Haselnusscreme und Erdbeeren, Gioele mit Himbeeren, Erdbeeren, Zucker und Zimt und ich nur und immer mit Zucker und Zimt) und für dieses Rezept brauchte ich "salzige". Wenn ihr möcht, könnt ihr den Teig für die Crêpes mit Paprika, Kurkuma oder Kräutern würzen oder einfach neutral lassen. Die Füllung ist sehr lecker, so dass die Crêpe nicht so viel Würze braucht. In meinem Fall habe ich Paprikaschoten, Auberginen und Zucchini genommen, weil ich das im Kühlschrank hatte. Sommergemüse, weil wir noch im Sommer sind. Sicherlich sind sie auch ausgezeichnet mit Blattgemüse wie Spinat oder Kürbis, der bald König unserer Rezepte sein wird. Wenn ihr lieber Schmelzkäse statt Fetakäse mögt, nur zu!
 
 Der August geht zu Ende und mit ihm endet der Sommer... zumindest für mich! Obwohl es immer noch warm sein wird, in meinem Kopf ist es jetzt Herbst (das gleiche gilt für den Monat März, Anfang März beginnt für mich der Frühling, auch wenn draussen Schnee liegt)...
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Gefüllte Crêpes mit Sommergemüse und Feta</span>
+      <span itemprop="recipeCategory" style="display:none;">Herzhaftes</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2018-08-30-crepes-farcite-con-verdure-estive-e-feta/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Gefüllte Crêpes mit Sommergemüse und Feta, ein perfektes Gericht, um Gemüse abzubauen und den Kühlschrank zu leeren.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
           <tr>
             <td colspan="2"><b>Crêpes</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>3</td>
             <td>Eier mittelgross</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>500ml</td>
             <td>Milch</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>250gr</td>
             <td>Mehl</td>
           </tr>
           <tr style="height: 15px;"></tr>
           <tr>          
             <td colspan="2"><b>Füllung</b></td>
-          </tr>      
-          <tr>
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>Zwiebel</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>grosse rote Paprikaschote</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>grosse Aubergine</td>
-          </tr>      
-          <tr> 
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>2-3</td>
             <td>Zucchini</td>
-          </tr>      
-          <tr> 
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Kräuter</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Cherrytomaten</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>200gr</td>
             <td>Fetakäse</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Olivenöl</td>
-          </tr>      
-          <tr> 
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Salz</td>
         </tbody>

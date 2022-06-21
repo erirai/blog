@@ -1,5 +1,5 @@
 ---
-title: Chocolate Chip Cookies
+title: "Chocolate Chip Cookies"
 date: 2013-11-25
 tags:
 - cioccolato
@@ -12,40 +12,48 @@ lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
+**Chocolate Chip Cookies** dei biscotti friabili e pieni di cioccolato che piacciono a tutti!
+
 Mio marito per domani voleva dei dolcetti da potersi portare per un viaggetto in macchina... Cosa c'è di melgio dei biscotti?! Se poi sono buonissimi, friabili e cioccolatosi!
 
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Chocolate Chip Cookies</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Chocolate Chip Cookies** dei biscotti friabili e pieni di cioccolato che piacciono a tutti!</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
-          <tr>
+          </tr>      
+          <tr itemprop="recipeIngredient">
             <td>225gr</td>
             <td>burro morbido</td>
-          </tr>
-          <tr>
+          </tr>      
+          <tr itemprop="recipeIngredient">
             <td>140gr</td>
             <td>zucchero finissimo</td>
-          </tr>
-          <tr>
+          </tr>      
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>tuorlo d'uovo</td>
-          </tr>
-          <tr>
+          </tr>      
+          <tr itemprop="recipeIngredient">
             <td>1 bustina</td>
             <td>zucchero vanigliato</td>
-          </tr>
-          <tr>
+          </tr>      
+          <tr itemprop="recipeIngredient">
             <td>250gr</td>
             <td>farina</td>
-          </tr>
-          <tr>
+          </tr>      
+          <tr itemprop="recipeIngredient">
             <td>un pizzico</td>
             <td>sale</td>
-          </tr>
-          <tr>
+          </tr>      
+          <tr itemprop="recipeIngredient">
             <td>350gr</td>
             <td>cioccolato fondente a pezzetti</td>
           </tr>

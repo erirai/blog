@@ -16,19 +16,24 @@ lang: it
 ---
 ![](header.jpg "frangipani © Erica")
 
-Mele Essiccate alla Cannella, da preparare senza essiccatore. Sono uno Snack buono e sano per grandi e piccoli. Se avete in giardino un melo, questa ricetta fa per voi o comprate le mele che più vi piacciono, io preferisco quelle agre... Con 5 mele mediograndi ho riempito due teglie e diciamo che dopo 4 giorni erano già finite... Se non vi piace la cannella non mettetela e le lasciate neutre. Ma secondo me, mele e cannella sono una coppia perfetta che sa tanto di autunno! A proposito, da voi è arrivato l'autunno? Qui si... Anche se nei prossimi giorni le temperature si alzeranno di nuovo un pochettino, l'aria sa ormai di autunno. La mattina c'è una leggera nebbia, l'arietta è fresca e la giacchetta non fa male, gli alberi sono pieni di nocciole, noci e castagne selvatiche, iniziano a cadere le foglie, la luce del sole ha cambiato colore adesso ha quel tocco dorato e dapperttutto si vedono zucche... Si vedono alberi pieni pienissimi di mele. L'anno scorso per via della gelata di fine aprile, il raccolto fu scarsissimo. Tanti contadini hanno finito le loro scorte troppo presto, i supermercati hanno dovuto importare le mele e il mosto di mela non si trovava più. Adesso però ci sono e le usiamo a tutto campo, che ne dite?
+**Mele Essiccate alla Cannella**, da preparare senza essiccatore. Sono uno Snack buono e sano per grandi e piccoli. Se avete in giardino un melo, questa ricetta fa per voi o comprate le mele che più vi piacciono, io preferisco quelle agre... Con 5 mele mediograndi ho riempito due teglie e diciamo che dopo 4 giorni erano già finite... Se non vi piace la cannella non mettetela e le lasciate neutre. Ma secondo me, mele e cannella sono una coppia perfetta che sa tanto di autunno! A proposito, da voi è arrivato l'autunno? Qui si... Anche se nei prossimi giorni le temperature si alzeranno di nuovo un pochettino, l'aria sa ormai di autunno. La mattina c'è una leggera nebbia, l'arietta è fresca e la giacchetta non fa male, gli alberi sono pieni di nocciole, noci e castagne selvatiche, iniziano a cadere le foglie, la luce del sole ha cambiato colore adesso ha quel tocco dorato e dapperttutto si vedono zucche... Si vedono alberi pieni pienissimi di mele. L'anno scorso per via della gelata di fine aprile, il raccolto fu scarsissimo. Tanti contadini hanno finito le loro scorte troppo presto, i supermercati hanno dovuto importare le mele e il mosto di mela non si trovava più. Adesso però ci sono e le usiamo a tutto campo, che ne dite?
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Mele Essiccate alla Cannella</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Mele Essiccate alla Cannella, da preparare senza essiccatore. Sono uno Snack buono e sano per grandi e piccoli.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>mele</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>cannella in polvere</td>
           </tr>
           <tr>

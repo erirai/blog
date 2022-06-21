@@ -14,72 +14,75 @@ lang: de
 ---
 ![](../2018-07-04-sbriciolata-alle-pesche-con-rosmarino/header.jpg "frangipani © Erica")
 
-> Willkommen Juli!
-
-Pfirsich-Streuselkuchen mit Rosmarin, hört sich seltsam an, aber ich versichere euch, dass Pfirsiche und Rosmarin sehr gut miteinander harmonieren! Fluffige Basis, cremiges Herz, knusprige und aromatische Streusel! Das Rezept sah ich vor ein paar Wochen bei <a href="https://www.sixx.ch/tv/enie-backt/video/staffel-4/43-pfirsich-streuselkuchen-mit-rosmarin-clip" target="_blank"> Sweet & Easy - Enie Backt</a> und es hat mich total neugierig gemacht. Ich habe oft gegrillte Pfirsiche mit Rosmarin aromatisiert gesehen, aber noch nie probiert. Und so habe ich es ausprobiert, in der Streuselkuchen-Variante und es ist wirklich gut! Die Menge an Rosmarin ist perfekt... weniger würde man nicht rausschmecken, mehr wäre zu viel. Duft, Aroma und Konsistenz perfekt ausgeglichen, noch mehr wenn lauwarm gegessen! Begleitet diesen duftenden Pfirsich-Streuselkuchen mit Vanilleeis und das Spiel ist gemacht...
+**Pfirsich-Streuselkuchen mit Rosmarin**, hört sich seltsam an, aber ich versichere euch, dass Pfirsiche und Rosmarin sehr gut miteinander harmonieren! Fluffige Basis, cremiges Herz, knusprige und aromatische Streusel! Das Rezept sah ich vor ein paar Wochen bei <a href="https://www.sixx.ch/tv/enie-backt/video/staffel-4/43-pfirsich-streuselkuchen-mit-rosmarin-clip" target="_blank"> Sweet & Easy - Enie Backt</a> und es hat mich total neugierig gemacht. Ich habe oft gegrillte Pfirsiche mit Rosmarin aromatisiert gesehen, aber noch nie probiert. Und so habe ich es ausprobiert, in der Streuselkuchen-Variante und es ist wirklich gut! Die Menge an Rosmarin ist perfekt... weniger würde man nicht rausschmecken, mehr wäre zu viel. Duft, Aroma und Konsistenz perfekt ausgeglichen, noch mehr wenn lauwarm gegessen! Begleitet diesen duftenden Pfirsich-Streuselkuchen mit Vanilleeis und das Spiel ist gemacht...
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Pfirsich-Streuselkuchen mit Rosmarin</span>
+      <span itemprop="recipeCategory" style="display:none;">Herzhaftes</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2018-07-04-sbriciolata-alle-pesche-con-rosmarino/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Pfirsich-Streuselkuchen mit Rosmarin, hört sich seltsam an, aber ich versichere euch, dass Pfirsiche und Rosmarin sehr gut miteinander harmonieren!</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
           <tr>
             <td colspan="2"><b>Streusel</b></td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>Zitrone nur Abrieb</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>60gr</td>
             <td>kalte Butter in Stücke</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>50gr</td>
             <td>brauner Zucker</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>75gr</td>
             <td>Mehl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2 Teelöffel</td>
             <td>fein gehackter Rosmarin</td>
           </tr>
           <tr style="height: 15px;"></tr>
           <tr>          
             <td colspan="2"><b>Teig und Füllung</b></td>
-          </tr>      
-          <tr> 
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>50gr</td>
             <td>Butter</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>50gr</td>
             <td>Zucker</td>
-          </tr>      
-          <tr> 
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>1/2 Päckchen</td>
             <td>Vanillezucker</td>
-          </tr>      
-          <tr> 
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>Ei</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>ca. 50gr</td>
             <td>Milch</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100gr</td>
             <td>Mehl</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 Teelöffel</td>
             <td>Backpulver</td>
-          </tr>      
-          <tr> 
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>300gr</td>
             <td>Pfirsiche gerüstet</td>
         </tbody>

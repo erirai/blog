@@ -16,45 +16,51 @@ lang: de
 ---
 ![](../2018-07-12-insalata-di-riso-nero-con-zucchine-pomodori-secchi-e-feta/header.jpg "frangipani © Erica")
 
-Schwarzer Reissalat mit Zucchini, getrockneten Tomaten und Feta ein buntes, frisches, gesundes und schmackhaftes Gericht! In diesem Gericht habt ihr alles drin, was ihr braucht. Und wenn ihr es an den Strand mitbringt, werden euch alle beneiden! Ich verwende immer öfter schwarzen oder roten Reis, besonders für Reissalate. Es ist viel schmackhafter und gesünder. Die Kochzeiten sind etwas länger, aber es lohnt sich. Neben der klassischen Variante mit Mixed Pickles ist das eine super Alternative. Reissalat ist auch super zum Mitnehmen darum bereite ich ihn im Sommer sehr oft vor. Damit dieser aber nicht verleidet, wird er immer anders gemacht...
+**Schwarzer Reissalat mit Zucchini, getrockneten Tomaten und Feta** ein buntes, frisches, gesundes und schmackhaftes Gericht! In diesem Gericht habt ihr alles drin, was ihr braucht. Und wenn ihr es an den Strand mitbringt, werden euch alle beneiden! Ich verwende immer öfter schwarzen oder roten Reis, besonders für Reissalate. Es ist viel schmackhafter und gesünder. Die Kochzeiten sind etwas länger, aber es lohnt sich. Neben der klassischen Variante mit Mixed Pickles ist das eine super Alternative. Reissalat ist auch super zum Mitnehmen darum bereite ich ihn im Sommer sehr oft vor. Damit dieser aber nicht verleidet, wird er immer anders gemacht...
 
 Morgen ist der letzte Kindergartentag, dann beginnen die Sommerferien. Endlich! Fünf Wochen ohne Wecker, keine Zeitpläne, keine Verpflichtungen... Ich kann es kaum erwarten abzuschalten, wir brauchen es wirklich! Die Frage "Mamma, wann gehen wir ans Meer?" ist mittlerweile ein Ritual geworden. Gaia versteht mehr oder weniger die Tage, nimmt die Zeit wahr aber Gioele noch nicht! Versucht euch mal die Diskussionen vorzustellen, dann hat er auch mit den Warum-Fragen begonnen... ist alles nur noch warum!
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Schwarzer Reissalat mit Zucchini, getrockneten Tomaten und Feta</span>
+      <span itemprop="recipeCategory" style="display:none;">Herzhaftes</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2018-07-12-insalata-di-riso-nero-con-zucchine-pomodori-secchi-e-feta/header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Schwarzer Reissalat mit Zucchini, getrockneten Tomaten und Feta ein buntes, frisches, gesundes und schmackhaftes Gericht!</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
-          <tr>
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>250-300gr</td>
             <td>schwarzer Reis</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1</td>
             <td>Zwiebel</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>2</td>
             <td>Zucchini</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>gehackte getrocknete Tomaten</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>200gr</td>
             <td>Fetakäse</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Petersilie und Basilikum</td>
-         </tr>
-          <tr>
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Olivenöl</td>
-         </tr>
-          <tr>
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>qs</td>
             <td>Salz</td>
           </tr>
