@@ -25,7 +25,7 @@ Nun wünsche ich euch ein frohes Osterfest, hoffentlich mit viel Sonnenschein, u
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Sizilianische Oster-Kekse mit gekochtem Ei (Pupi con l'Uovo)</span>
-      <span itemprop="recipeCategory" style="display:none;">Herzhaftes</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
       <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2022-04-12-pupi-con-uovo/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Sizilianische Oster-Kekse mit gekochtem Ei (Pupi con l'Uovo), ein traditionelles sizilianisches Ostergebäck. Es ist ein Gebäck aus Mürbeteig, also Kekse mit einem hartgekochten Ei in der Mitte und mit Zuckerguss und farbigen Streuseln überzogen.</span>

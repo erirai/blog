@@ -22,7 +22,7 @@ Tatsächlich essen wir in dieser kurzen Zeit viel davon und geniessen es, danach
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Mandelgugelhupf mit Ricotta-Rhabarber-Füllung</span>
-      <span itemprop="recipeCategory" style="display:none;">Herzhaftes</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
       <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2022-06-14-ciambella-alle-mandorle-con-cuore-di-ricotta-e-rabarbaro/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Mandelgugelhupf mit Ricotta-Rhabarber-Füllung ein rustikaler, schmackhafter und leckerer Kuchen.</span>

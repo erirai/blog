@@ -34,7 +34,7 @@ Für die Kommunion stattdessen, wählte sie die Blumen in Blau, Gelb und Weiss u
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Zitronen-Poke Cake mit Erdbeeren</span>
-      <span itemprop="recipeCategory" style="display:none;">Herzhaftes</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
       <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2022-05-31-poke-cake-al-limone-con-fragole/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Zitronen-Poke Cake mit Erdbeeren ein zartes, frisches und einfach zuzubereitendes Dessert. Für den Kuchen alles in eine Schüssel geben, mischen und backen.</span>
