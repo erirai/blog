@@ -8,11 +8,16 @@ tags:
 categories:
 - Dolce
 - Biscotti
+label: 2013-11-25-chocolate-chip-cookies
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](header.jpeg "frangipani © Erica")
 
-**Chocolate Chip Cookies** dei biscotti friabili e pieni di cioccolato che piacciono a tutti!
+**Chocolate Chip Cookies** dei biscotti friabili e pieni di cioccolato che piacciono a tutti! Belli burrosi, con quei pezzetti di cioccolato goduriosi.
+<br />
+La preparazione è facilissima, ci vuole solo un pochino di riposo in frigo prima di cuocerli in forno. Ma volendo potete preparare l'impasto la sera e poi infornarli la mattina. La cosa importante è mettere pochi Cookies sulla teglia. Si allargano parecchio in cottura, io ne ho messi 9 e non si sono appiccicati l'un l'altro.
+<br />
+Passati i 10min di cottura, teneteli d'occhio perché potrebbero bruciarsi ai bordi. Dipende molto dalla teglia che usate. Una parte l'ho cotta sulla teglia per biscotti e si sono cotti perfettamente in 12min. Quelli cotti sulla leccarda invece, si sono sbruciacchiati ai bordi.
 
 Mio marito per domani voleva dei dolcetti da potersi portare per un viaggetto in macchina... Cosa c'è di melgio dei biscotti?! Se poi sono buonissimi, friabili e cioccolatosi!
 
@@ -24,7 +29,7 @@ Mio marito per domani voleva dei dolcetti da potersi portare per un viaggetto in
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
       <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
-      <span itemprop="description" style="display:none;">Chocolate Chip Cookies** dei biscotti friabili e pieni di cioccolato che piacciono a tutti!</span>
+      <span itemprop="description" style="display:none;">Chocolate Chip Cookies dei biscotti friabili e pieni di cioccolato che piacciono a tutti! Belli burrosi, con quei pezzetti di cioccolato goduriosi.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
@@ -34,23 +39,27 @@ Mio marito per domani voleva dei dolcetti da potersi portare per un viaggetto in
             <td>burro morbido</td>
           </tr>      
           <tr itemprop="recipeIngredient">
-            <td>140gr</td>
-            <td>zucchero finissimo</td>
+            <td>70gr</td>
+            <td>zucchero semolato</td>
+          </tr>      
+          <tr itemprop="recipeIngredient">
+            <td>70gr</td>
+            <td>zucchero di canna</td>
           </tr>      
           <tr itemprop="recipeIngredient">
             <td>1</td>
-            <td>tuorlo d'uovo</td>
+            <td>uovo</td>
           </tr>      
           <tr itemprop="recipeIngredient">
-            <td>1 bustina</td>
-            <td>zucchero vanigliato</td>
+            <td>qb</td>
+            <td>vaniglia</td>
           </tr>      
           <tr itemprop="recipeIngredient">
             <td>250gr</td>
             <td>farina</td>
           </tr>      
           <tr itemprop="recipeIngredient">
-            <td>un pizzico</td>
+            <td>1 pizzico</td>
             <td>sale</td>
           </tr>      
           <tr itemprop="recipeIngredient">
@@ -72,21 +81,41 @@ Mio marito per domani voleva dei dolcetti da potersi portare per un viaggetto in
   </font> Preparazione
 </h3>
 
-Mettete il burro e lo zucchero in una coppa e mescolate con un cucchiaio, finché i due ingredienti si saranno amalgamati bene. Poi mettete il tuorlo d'uovo e lo zucchero vanigliato e mescolate ancora. Aggiungete la farina setacciata ed un pizzico di sale e continuate a mescolare. Per ultimo aggiungete il cioccolato a pezzetti e impastate velocemente con le mani. Prendete una cucchiaiata d'impasto, fate una pallina, mettetela sulla teglia e schiacciatela un po'.
+Mettete il burro e lo zucchero in una coppa e mescolate con un cucchiaio, finché i due ingredienti si saranno amalgamati bene. Poi mettete l'uovo e la vaniglia e mescolate ancora. Aggiungete la farina setacciata ed un pizzico di sale e continuate a mescolare. Per ultimo aggiungete il cioccolato a pezzetti e impastate velocemente con le mani. Prendete una cucchiaiata d'impasto (meglio ancora va con il porzionatore per gelato), fate una pallina, mettetela sulla teglia. Mettete la teglia con le palline d'impasto in frigo per almeno 1h.
 ![](crudi.jpg "frangipani © Erica")
 
-Infornate i cookies nel forno preriscaldato a 190°C per 12-15min. Dopo sfornateli e fateli raffreddare.
-![](risultato.jpg "frangipani © Erica")
+Mettete massimo 9 Cookies su di una teglia con della carta forno e infornateli nel forno preriscaldato a 190°C statico per circa 12min. Sfornateli e fateli raffreddare nella teglia stessa. Una volta freddi conservateli in un barattolo chiuso ermeticamente.
+<p>
+  <div style="width: 100%; margin-bottom: 0">
+    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <div style="clear: both"></div>
+  </div>
+</p>
 
+<p>
+  <div style="width: 100%; margin-bottom: 0">
+    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <div style="clear: both"></div>
+  </div>
+</p>
 
-<h3>
-  <font color="#FFCC00">
-    <i class="fa fa-lightbulb-o"></i>
-  </font> P.S.
-</h3>
+<p>
+  <div style="width: 100%; margin-bottom: 0">
+    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <div style="clear: both"></div>
+  </div>
+</p>
 
-
-Se durante la cottura alcuni cookies si sono appicicati con altri cookies, separateli con una paletta appena sfornati così non si sbriciolano. Se li volete ancora più cioccolatosi aggiungete insieme alla farina 25gr di cacao.
+<p>
+  <div style="width: 100%; margin-bottom: 0">
+    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <div style="clear: both"></div>
+  </div>
+</p>
 
 <h4>Buon appetito
   <font color="red">
