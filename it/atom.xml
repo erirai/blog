@@ -4,7 +4,7 @@
   
   <link href="https://frangipani.raiano.ch/it/atom.xml" rel="self"/>
   <link href="https://frangipani.raiano.ch/"/>
-  <updated>2022-07-04T07:35:06.061Z</updated>
+  <updated>2022-07-11T08:01:16.298Z</updated>
   <id>https://frangipani.raiano.ch/</id>
   
   <author>
@@ -13,6 +13,176 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title xml:lang="it">Crostata Meringata ai Ribes e Nocciole</title>
+    <link href="https://frangipani.raiano.ch/2022-07-12-crostata-meringata-ai-ribes/"/>
+    <id>https://frangipani.raiano.ch/2022-07-12-crostata-meringata-ai-ribes/</id>
+    <published>2022-07-11T22:00:00.000Z</published>
+    <updated>2022-07-11T08:01:16.298Z</updated>
+    <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Crostata Meringata ai Ribes e Nocciole&lt;/strong&gt; un dolce classico che viene preparato nei paesi di lingua tedesca. Un guscio di pasta frolla e un ripieno di meringa con nocciole e ribes. Favoloso. 
+&lt;br /&gt;
+Questa torta si trova nella mia lista delle ricette da fare ormai da molto tempo. Solo che in estate non faccio molti dolci, perché preferiamo mangiare gelato. Qualche giorno fa però ho raccolto i ribes del nostro giardino, quasi un chilo, e ho deciso di non farci la confettura quest&amp;#39;anno. Dunque ho usato una parte per fare questa crostata e il resto lo abbiamo mangiato o congelato.
+&lt;br /&gt;
+Era una favola la crostata! Immaginavo fosse buona, ma proprio così... È un po&amp;#39; come mangiare una nuvoletta croccante. La frolla, la meringa sofficissima, il gusto delle nocciole e la succosità dei ribes!&lt;/p&gt;
+&lt;p&gt;Mancano pochissimi giorni e iniziano le vacanze scolastiche... non vedo l&amp;#39;ora, sono proprio arrivata alla frutta! Ma non solo io, anche i bimbi sono stanchissimi. Teniamo duro ancora qualche giorno e poi stacchiamo la sveglia! Wuhuuu!&lt;/p&gt;
+&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
+  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
+    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
+      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Crostata al Limone&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Dolce&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Crostata al Limone per tutti gli amanti dei dolci di frolla freschi e per tutti quelli che amano il sapore dei limoni in purezza, ecco il dolce per voi.&lt;/span&gt;
+      &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
+      &lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;     
+            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Frolla&lt;/b&gt;&lt;/td&gt;
+          &lt;/tr&gt;     
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;        
+            &lt;td&gt;200gr&lt;/td&gt;
+            &lt;td&gt;farina&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;80gr&lt;/td&gt;
+            &lt;td&gt;zucchero a velo&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 pizzico&lt;/td&gt;
+            &lt;td&gt;sale&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qb&lt;/td&gt;
+            &lt;td&gt;scorza di limone&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qb&lt;/td&gt;
+            &lt;td&gt;vaniglia&lt;/td&gt;
+           &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1/2 cucchiaino&lt;/td&gt;
+            &lt;td&gt;lievito per dolci&lt;/td&gt; 
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;100gr&lt;/td&gt;
+            &lt;td&gt;burro freddo&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1&lt;/td&gt;
+            &lt;td&gt;uovo&lt;/td&gt;      
+          &lt;/tr&gt;
+          &lt;tr style=&quot;height: 15px;&quot;&gt;&lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Ripieno&lt;/b&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;3&lt;/td&gt;
+            &lt;td&gt;albumi&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 pizzico&lt;/td&gt;
+            &lt;td&gt;sale&lt;/td&gt;
+           &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;90gr&lt;/td&gt;
+            &lt;td&gt;zucchero&lt;/td&gt;
+           &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;60gr&lt;/td&gt;
+            &lt;td&gt;nocciole macinate&lt;/td&gt; 
+           &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;30gr&lt;/td&gt;
+            &lt;td&gt;fecola di patate o amido di mais&lt;/td&gt;
+            &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;300gr&lt;/td&gt;
+            &lt;td&gt;ribes già puliti&lt;/td&gt;                    
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;
+      &lt;br&gt;&lt;/br&gt;
+      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot; itemprop=&quot;recipeYield&quot;&gt;per una tortiera da 22-24cm&lt;/i&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3&gt;
+  &lt;font color=&quot;grey&quot;&gt;
+    &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt; Preparazione
+&lt;/h3&gt;
+
+&lt;p&gt;Preparate la frolla: mettete in una ciotola farina, zucchero a velo, sale, scorza di limone, vaniglia e lievito per dolci e mescolate. Adesso aggiungete il burro freddo a pezzetti e l&amp;#39;uovo, impastate velocemente finché avrete un panetto liscio ed omogeneo. Appiattitelo, avvolgetelo nella pellicola e fate riposare in frigo per un&amp;#39;oretta.&lt;/p&gt;
+&lt;p&gt;Per il ripeno mettete gli albumi in una ciotola pulita priva di residui di grasso, aggiungete un pizzichino di sale e iniziate a montarli a neve. Appena diventeranno bianchi, aggiungete lo zucchero e finite di montarli finché saranno lucidi e fermi. In una ciotola mescolate le nocciole macinate con la fecola, versateli nella meringa e con una spatola con un movimento dall&amp;#39;alto verso il basso incorporate il tutto. Per ultimo aggiungete i ribes e mescolate delicatamente.&lt;/p&gt;
+&lt;p&gt;Uscite la frolla dal frigo e fatela acclimatizzare un attimino, poi aiutandovi con della farina ed un mattarello stendetela fino ad uno spessore di 4mm. Rivestite una teglia con la frolla e aggiustate bene i bordi (eventualmente mettete della carta forno). Bucherellate bene tutto il fondo della crostata poi versateci il ripieno e livellate bene. &lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;meringa.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;teglia.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Infornate nella parte bassa del forno preriscaldato a 180°C ventilato per 1h circa. Poi fatela raffreddare...&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h4&gt;Buon appetito
+  &lt;font color=&quot;red&quot;&gt;
+    &lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt;
+&lt;/h4&gt;</content>
+    <summary type="html" xml:lang="it">
+    
+      &lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Crostata Meringata ai Ribes e Nocciole&lt;/strong&gt; un dolce classico che v
+    
+    </summary>
+    
+      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
+    
+      <category term="Crostate, Tartes..." scheme="https://frangipani.raiano.ch/categories/Dolce/Crostate-Tartes/"/>
+    
+    
+      <category term="crostata" scheme="https://frangipani.raiano.ch/tags/crostata/"/>
+    
+      <category term="ribes" scheme="https://frangipani.raiano.ch/tags/ribes/"/>
+    
+      <category term="estate" scheme="https://frangipani.raiano.ch/tags/estate/"/>
+    
+  </entry>
   
   <entry>
     <title xml:lang="it">Melanzane a Beccafico</title>
@@ -3009,145 +3179,6 @@ Qualche anno fa avevo fatto questa &lt;a href=&quot;https://frangipani.raiano.ch
       <category term="autunno" scheme="https://frangipani.raiano.ch/tags/autunno/"/>
     
       <category term="inverno" scheme="https://frangipani.raiano.ch/tags/inverno/"/>
-    
-  </entry>
-  
-  <entry>
-    <title xml:lang="it">Torta allo Yogurt e Melagrana</title>
-    <link href="https://frangipani.raiano.ch/2021-11-02-torta-allo-yogurt-e-melagrana/"/>
-    <id>https://frangipani.raiano.ch/2021-11-02-torta-allo-yogurt-e-melagrana/</id>
-    <published>2021-11-01T23:00:00.000Z</published>
-    <updated>2022-03-18T13:49:39.124Z</updated>
-    <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Torta allo Yogurt e Melagrana&lt;/strong&gt; sofficissima, morbida, gustosa e piena di succosi chicchi di melagrana che no, non danno fastidio! In cottura i semini si ammorbidiscono e danno quella giusta nota croccante.&lt;/p&gt;
-&lt;p&gt;Ho preparato questa torta qualche settimana fa, per merenda dopo una passeggiata insieme alla mia family. Anche perché mio cognato mi aveva portato un bel po&amp;#39; di melagrane che andavano smaltite. Erano ottime, dolci e succose. La torta è stata molto gradita e nessuno si è lamentato dei semini, anzi. Tutti ci siamo accorti che i semini sono diventati morbidi in cottura, pur rimanendo croccanti.
-&lt;br /&gt;
-Come ispirazione ho usato la ricetta della mia &lt;a href=&quot;https://frangipani.raiano.ch/2019-02-19-torta-soffice-alle-mele/&quot; target=&quot;_blank&quot;&gt;Torta soffice alle mele&lt;/a&gt; che adoro follemente! Ma avevo in testa anche questa &lt;a href=&quot;https://frangipani.raiano.ch/2018-11-16-torta-soffice-con-melograno/&quot; target=&quot;_blank&quot;&gt;Torta soffice con melagrana&lt;/a&gt; con quei chicchi dal colore stupendo.&lt;/p&gt;
-&lt;p&gt;Eh niente, siamo arrivati a novembre. Dovrei scrivere qualcosa tipo: Benvenuto Novembre. NO! Chi mi segue o legge da un po&amp;#39; sa che novembre non è proprio il mio mese preferito, anzi. Per niente. Finito ottobre passerei subito a dicembre. Dedicherò le prossime settimane proprio al natale, nel senso che vorrei prendere e preparare già tutti i regali, comprare le candele per la corona d&amp;#39;avvento, scrivere i post con le ricette natalizie. In questo modo avrò dicembre libero per godermi l&amp;#39;atmosfera natalizia senza dover correre a destra e sinistra.&lt;/p&gt;
-&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
-  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
-    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
-      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Torta allo Yogurt e Melagrana&lt;/span&gt;
-      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Dolce&lt;/span&gt;
-      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;header.jpeg&quot;/&gt;
-      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
-      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Torta allo Yogurt e Melagrana sofficissima, morbida, gustosa e piena di succosi chicchi di melagrana che no, non danno fastidio! In cottura i semini si ammorbidiscono e danno quella giusta nota croccante.&lt;/span&gt;
-      &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
-      &lt;table&gt;
-        &lt;tbody&gt;
-          &lt;/tr&gt;      
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;        
-            &lt;td&gt;3&lt;/td&gt;
-            &lt;td&gt;uova&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;150gr&lt;/td&gt;
-            &lt;td&gt;zucchero muscovado o di canna&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qb&lt;/td&gt;
-            &lt;td&gt;vaniglia&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 pizzico&lt;/td&gt;
-            &lt;td&gt;sale&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;180gr&lt;/td&gt;
-            &lt;td&gt;yogurt naturale non zuccherato&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;120gr&lt;/td&gt;
-            &lt;td&gt;olio di semi&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;        
-            &lt;td&gt;250gr&lt;/td&gt;
-            &lt;td&gt;farina&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1/2 bustina&lt;/td&gt;
-            &lt;td&gt;lievito per dolci&lt;/td&gt; 
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1&lt;/td&gt;
-            &lt;td&gt;melagrana mediogrande&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qb&lt;/td&gt;
-            &lt;td&gt;granella di zucchero&lt;/td&gt;
-          &lt;/tr&gt;
-        &lt;/tbody&gt;
-      &lt;/table&gt;
-      &lt;br&gt;&lt;/br&gt;
-      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot; itemprop=&quot;recipeYield&quot;&gt;per una tortiera da 18-22cm&lt;/i&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h3&gt;
-  &lt;font color=&quot;grey&quot;&gt;
-    &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt; Preparazione
-&lt;/h3&gt;
-
-&lt;p&gt;Mettete le uova, lo zucchero, la vaniglia ed il sale nella planetaria e montate finché avrete un composto chiaro e spumoso. Sempre mescolando aggiungete l&amp;#39;olio a filo e poi lo yogurt, poi aggiungete la farina ed il lievito entrambi setacciati. A questo punto aggiungete i chicchi della melagrana, lasciandone da parte un pochettino. Mescolate a mano e versate il composto in una teglia a cerniera imburrata ed infarinata (io ho usato una da 20cm). Distribuite sulla superficie il resto dei chicchi di melagrana e un po&amp;#39; di granella di zucchero.
-&lt;img src=&quot;teglia.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Infornate la torta nel forno preriscaldato a 180°C statico per 50-60min circa, mi raccomando fate la prova stecchino. Più piccola è la teglia, più lungo sarà il tempo di cottura... Fatela intiepidire leggermente prima di tagliarla.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-
-&lt;h4&gt;Buon appetito
-  &lt;font color=&quot;red&quot;&gt;
-    &lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt;
-&lt;/h4&gt;</content>
-    <summary type="html" xml:lang="it">
-    
-      &lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Torta allo Yogurt e Melagrana&lt;/strong&gt; sofficissima, morbida, gustosa e
-    
-    </summary>
-    
-      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
-    
-      <category term="Torte" scheme="https://frangipani.raiano.ch/categories/Dolce/Torte/"/>
-    
-    
-      <category term="dolci" scheme="https://frangipani.raiano.ch/tags/dolci/"/>
-    
-      <category term="autunno" scheme="https://frangipani.raiano.ch/tags/autunno/"/>
-    
-      <category term="melagrana" scheme="https://frangipani.raiano.ch/tags/melagrana/"/>
     
   </entry>
   

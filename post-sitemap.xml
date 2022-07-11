@@ -9,6 +9,38 @@
 
 
     <url>
+        <loc>https://frangipani.raiano.ch/2013-11-25-chocolate-chip-cookies/</loc>
+        <lastmod>2022-07-11T11:29:20.883Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2013-11-25-chocolate-chip-cookies-de/</loc>
+        <lastmod>2022-07-11T11:29:07.760Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2022-07-12-crostata-meringata-ai-ribes-de/</loc>
+        <lastmod>2022-07-11T08:25:07.302Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2022-07-12-crostata-meringata-ai-ribes/</loc>
+        <lastmod>2022-07-11T08:01:16.298Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://frangipani.raiano.ch/2022-07-06-melanzane-a-beccafico-de/</loc>
         <lastmod>2022-07-04T07:37:04.081Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -99,14 +131,6 @@
     <url>
         <loc>https://frangipani.raiano.ch/2013-12-05-mailanderli/</loc>
         <lastmod>2022-06-21T13:20:57.900Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2013-11-25-chocolate-chip-cookies/</loc>
-        <lastmod>2022-06-21T13:20:31.539Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
