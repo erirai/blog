@@ -301,8 +301,6 @@ code {
   background-image: url("images/logo_web.png");
   background-position: 0px 10px;
   background-repeat: no-repeat;
-  -webkit-background-size: 320px 121px;
-  -moz-background-size: 320px 121px;
   background-size: 320px 121px;
 }
 .main-body {
@@ -885,15 +883,11 @@ code {
 }
 #recent-post li .item-thumbnail .thumbnail .thumbnail-image {
   position: absolute;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
   background-size: cover;
   background-position: center;
 }
 #recent-post li .item-thumbnail .thumbnail .thumbnail-none {
   background-image: url("images/thumb-default-small.png");
-  -webkit-background-size: 100% 100%;
-  -moz-background-size: 100% 100%;
   background-size: 100% 100%;
 }
 #recent-post li .item-inner a,
@@ -1077,8 +1071,6 @@ code {
   opacity: 1;
   -ms-filter: none;
   filter: none;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
   background-size: cover;
   background-position: center;
   -webkit-transition: opacity 0.3s ease-in;
@@ -1089,8 +1081,6 @@ code {
 .article-summary .article-summary-inner .thumbnail .thumbnail-none {
   width: 100%;
   height: 100%;
-  -webkit-background-size: 100% 100%;
-  -moz-background-size: 100% 100%;
   background-size: 100% 100%;
   background-image: url("images/thumb-default.png");
 }
@@ -1739,8 +1729,6 @@ a.article-title:hover {
 #footer .logo {
   width: 256px;
   height: 96.80000000000001px;
-  -webkit-background-size: 256px 96.80000000000001px;
-  -moz-background-size: 256px 96.80000000000001px;
   background-size: 256px 96.80000000000001px;
 }
 i.icon {
@@ -1972,8 +1960,6 @@ i.icon:before {
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5) {
   .article-entry .img-wrap:before {
     background: url("images/preloader@2x.gif") center center no-repeat, rgba(0,0,0,0.9);
-    -webkit-background-size: 24px 24px;
-    -moz-background-size: 24px 24px;
     background-size: 24px 24px;
   }
 }

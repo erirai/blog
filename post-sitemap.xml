@@ -9,8 +9,16 @@
 
 
     <url>
-        <loc>https://frangipani.raiano.ch/2022-07-20-heidelbeer-mandel-streuselkuchen/</loc>
-        <lastmod>2022-07-19T14:15:02.609Z</lastmod>
+        <loc>https://frangipani.raiano.ch/2022-08-25-zwetschgen-zimt-konfiture/</loc>
+        <lastmod>2022-08-24T15:59:41.835Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2022-08-25-confettura-di-prugne-alla-cannella/</loc>
+        <lastmod>2022-08-24T14:32:50.704Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -18,7 +26,15 @@
 
     <url>
         <loc>https://frangipani.raiano.ch/2022-07-20-sbriciolata-alle-mandorle-e-mirtilli/</loc>
-        <lastmod>2022-07-19T14:11:31.894Z</lastmod>
+        <lastmod>2022-08-24T14:26:12.133Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2022-07-20-heidelbeer-mandel-streuselkuchen/</loc>
+        <lastmod>2022-07-19T14:15:02.609Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
