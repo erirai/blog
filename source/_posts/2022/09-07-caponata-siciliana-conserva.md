@@ -28,7 +28,7 @@ Ma ci rendiamo conto che siamo arrivati a Settembre?! Boh... Il freschetto di ma
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
       <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
-      <span itemprop="description" style="display:none;">Caponata Siciliana (Conserva), un contorno super buono della tradizione Siciliana. Da mangiare fresca o da conservare per l'inverno</span>
+      <span itemprop="description" style="display:none;">Caponata Siciliana (Conserva), un contorno super buono della tradizione Siciliana. Da mangiare fresca o da conservare per l'inverno.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>

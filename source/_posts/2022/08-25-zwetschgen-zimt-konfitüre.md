@@ -29,7 +29,7 @@ Noch ist kein Regen in Sicht, aber die Luft hat sich vor allem nachts und morgen
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Zwetschgen-Zimt-Konfitüre</span>
       <span itemprop="recipeCategory" style="display:none;">Süsses</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2022-08-25-confettura-di-prugne-alla-cannella/"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2022-08-25-confettura-di-prugne-alla-cannella/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Zwetschgen-Zimt-Konfitüre mit einem geschmacksvollen und wohltuhenden Geschmack. Sehr geschmeidig, samtig und mit einer Wow-Farbe!</span>
       <div class="ingredients-title">Zutaten</div>
