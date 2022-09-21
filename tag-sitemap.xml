@@ -4,7 +4,21 @@
 
     <url>
         <loc>https://frangipani.raiano.ch/tags/autunno/</loc>
-        <lastmod>2022-09-13T09:24:54.510Z</lastmod>
+        <lastmod>2022-09-21T07:58:02.894Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/tags/zucca/</loc>
+        <lastmod>2022-09-21T07:58:02.894Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/tags/primi/</loc>
+        <lastmod>2022-09-21T07:58:02.894Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -283,13 +297,6 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/tags/primi/</loc>
-        <lastmod>2022-06-21T12:53:22.981Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://frangipani.raiano.ch/tags/gelato/</loc>
         <lastmod>2022-06-21T12:49:02.316Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -355,13 +362,6 @@
     <url>
         <loc>https://frangipani.raiano.ch/tags/funghi/</loc>
         <lastmod>2022-06-21T09:10:49.733Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/tags/zucca/</loc>
-        <lastmod>2022-06-14T11:44:44.480Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
