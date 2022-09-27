@@ -26,7 +26,7 @@ Der erste Kürbis der Saison ist immer eine Freude, wie alle Dinge, die wir zum 
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Kürbisrisotto mit Kürbiskernen</span>
       <span itemprop="recipeCategory" style="display:none;">Herzhaftes</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2022-09-21-risotto-alla-zucca-con-semi-di-zucca//header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2022-09-21-risotto-alla-zucca-con-semi-di-zucca/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Kürbisrisotto mit Kürbiskernen, einfach und cremig mit knusprigen und leckeren Kürbiskernen.</span>
       <div class="ingredients-title">Zutaten</div>
