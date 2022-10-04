@@ -4,7 +4,7 @@
   
   <link href="https://frangipani.raiano.ch/de/atom.xml" rel="self"/>
   <link href="https://frangipani.raiano.ch/"/>
-  <updated>2022-09-27T15:02:09.659Z</updated>
+  <updated>2022-10-04T13:37:04.621Z</updated>
   <id>https://frangipani.raiano.ch/</id>
   
   <author>
@@ -13,6 +13,148 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title xml:lang="de">Kürbis-Lauch-Parmigiana</title>
+    <link href="https://frangipani.raiano.ch/2022-10-05-kurbis-lauch-parmigiana/"/>
+    <id>https://frangipani.raiano.ch/2022-10-05-kurbis-lauch-parmigiana/</id>
+    <published>2022-10-04T22:00:00.000Z</published>
+    <updated>2022-10-04T13:37:04.621Z</updated>
+    <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2022-10-05-parmigiana-di-zucca-e-porri/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kürbis-Lauch-Parmigiana&lt;/strong&gt; eine super leckere Herbstbeilage, schmackhaft und ganz einfach zuzubereiten. Ja, Parmigiana kann auch ausserhalb des &lt;a href=&quot;https://frangipani.raiano.ch/2016-05-25-parmigiana-di-melanzane-e-zucchine/&quot; target=&quot;_blank&quot;&gt;Sommers&lt;/a&gt; zubereitet werden, verwendet einfach anderes Gemüse. In diesem Fall habe ich eine weisse Parmigiana mit Kürbis und Lauch gemacht. Gorgonzola würde auch göttlich dazu passen, habe ich aber nicht rein getan, weil es leider nur mir schmeckt.
+&lt;br /&gt;
+Auch hier habe ich nichts frittiert, sondern den Kürbis einfach im Ofen gegart und den Lauch in einer Pfanne geschmort. Meiner Meinung nach ist es super lecker und es ist nicht nötig, den Kürbis zu frittieren, aber wenn ihr es lieber mögt, könnt ihr es ohne Bedenken tun.&lt;/p&gt;
+&lt;p&gt;Die Inspiration zu diesem Rezept kam mir von meiner zia Giusy, die diesen Frühling, als wir in Sizilien waren, einen Tisch voller wunderbarer Dinge hergerichtet hat. Abgesehen von der Pasta mit Tomatensugo, die in Italien immer besser ist als hier, hatte sie gegrillte Zucchini und Auberginen, frittierte panierte Zucchini und Auberginen, Peperoni-Caponata, gegrillte Artischocken (auf dem Feuer, gibt nichts besseres) und eine Kürbis-Parmigiana zubereitet (es gab sicherlich auch andere Dinge, aber ich erinnere mich nicht). Diese Kürbis-Parmigiana war so gut, dass sie sich in meinem Kopf einbrannte und dort blieb...&lt;/p&gt;
+&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
+  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
+    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
+      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Kürbis-Lauch-Parmigiana&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Herzhaftes&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2022-10-05-parmigiana-di-zucca-e-porri/header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Kürbis-Lauch-Parmigiana eine super leckere Herbstbeilage, schmackhaft und ganz einfach zuzubereiten.&lt;/span&gt;
+      &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
+      &lt;table&gt;
+        &lt;tbody&gt;
+          &lt;/tr&gt; 
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;ca. 500gr&lt;/td&gt;
+            &lt;td&gt;Kürbis (ich Butternut)&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1&lt;/td&gt;
+            &lt;td&gt;Lauch&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;250ml&lt;/td&gt;
+            &lt;td&gt;Milch&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 Esslöffel&lt;/td&gt;
+            &lt;td&gt;Mehl&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qs&lt;/td&gt;
+            &lt;td&gt;Muskatnuss&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qs&lt;/td&gt;
+            &lt;td&gt;geriebenen Parmesankäse&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;150gr&lt;/td&gt;
+            &lt;td&gt;Mozzarella, Scamorza oder anderen Schmelzkäse&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qs&lt;/td&gt;
+            &lt;td&gt;Gorgonzola (freiwillig)&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qs&lt;/td&gt;
+            &lt;td&gt;Olivenöl&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qs&lt;/td&gt;
+            &lt;td&gt;Salz&lt;/td&gt;   
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;
+      &lt;br&gt;&lt;/br&gt;
+      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot; itemprop=&quot;recipeYield&quot;&gt;für eine kleine runde 17cm Auflaufform&lt;/i&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h3&gt;
+  &lt;font color=&quot;grey&quot;&gt;
+    &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt; Zubereitung
+&lt;/h3&gt;
+
+&lt;p&gt;Zuerst den Kürbis vorbereiten... wenn nötig Kürbis schälen und in dünne Scheiben schneiden. Die Kürbisscheiben auf einem Backblech mit Backpapier darunter verteilen (nur eine Schicht machen), alles mit Olivenöl bepinseln und salzen. Im Ofen bei 180°C Umluft 15-20min backen oder zumindest bis sie weich sind, aber nicht anbrennen lassen. Dann beiseite stellen.
+&lt;br /&gt;
+Lauch rüsten und in dünne Scheiben schneiden. Einen Spritzer Öl in eine Bratpfanne geben, den Lauch und eine Prise Salz hinzufügen, dann eine Minute anbraten, etwas Wasser hinzufügen und kochen, bis er schön weich ist. Am Schluss sollte kein Wasser mehr vorhanden sein, nachsalzen wenn nötig.
+&lt;br /&gt;
+Für die leichte Béchamelsauce einen Löffel Mehl in einen Topf geben, dann unter ständigem Rühren mit dem Schneebesen die Milch langsam dazugeben. Wenn sich das Mehl vollständig aufgelöst hat, den Topf auf den Herd stellen und unter ständigem Rühren zum Kochen bringen, während des Kochens etwas Muskatnuss und Salz hinzufügen. Sie ist fertig, wenn sie eine dicke Konsistenz hat. Dann beiseite stellen.&lt;/p&gt;
+&lt;p&gt;Eine Auflaufform bebuttern, ein wenig Béchamelsauce auf den Boden verteilen, eine Schicht Kürbis machen, darüber etwas Béchamelsauce streichen, etwas Lauch darauf, dann Mozzarella in kleinen Stückchen (oder anderen Schmelzkäse) und wenn ihr mögt, Gorgonzola und dann etwas geriebenen Parmesan Käse. Wiederholen, bis alle Zutaten aufgebraucht sind.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-10-05-parmigiana-di-zucca-e-porri/zucca.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-10-05-parmigiana-di-zucca-e-porri/teglia.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Mit Alufolie abdecken und im vorgeheizten Backofen bei 180°C Umluft eine halbe Stunde backen, die letzten 5-10min ohne Folie, damit die schöne Kruste entsteht. Lasst sie dann 15min ruhen, bevor ihr sie schneidet.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-10-05-parmigiana-di-zucca-e-porri/risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-10-05-parmigiana-di-zucca-e-porri/risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-10-05-parmigiana-di-zucca-e-porri/risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-10-05-parmigiana-di-zucca-e-porri/risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-10-05-parmigiana-di-zucca-e-porri/risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-10-05-parmigiana-di-zucca-e-porri/risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h4&gt;Buon appetito
+  &lt;font color=&quot;red&quot;&gt;
+    &lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt;
+&lt;/h4&gt;</content>
+    <summary type="html" xml:lang="de">
+    
+      &lt;p&gt;&lt;img src=&quot;../2022-10-05-parmigiana-di-zucca-e-porri/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kürbis-Lauch-Parmigiana&lt;/stro
+    
+    </summary>
+    
+      <category term="Salato" scheme="https://frangipani.raiano.ch/categories/Salato/"/>
+    
+      <category term="Secondi Piatti e Contorni" scheme="https://frangipani.raiano.ch/categories/Salato/Secondi-Piatti-e-Contorni/"/>
+    
+    
+      <category term="zucca" scheme="https://frangipani.raiano.ch/tags/zucca/"/>
+    
+      <category term="contorno" scheme="https://frangipani.raiano.ch/tags/contorno/"/>
+    
+      <category term="autunno" scheme="https://frangipani.raiano.ch/tags/autunno/"/>
+    
+  </entry>
   
   <entry>
     <title xml:lang="de">Focaccia mit Lievito Madre</title>
@@ -3091,206 +3233,6 @@ Während das Gemüse gart, den Crumble zubereiten: Mehl, Parmesan, Salz, getrock
       <category term="contorno" scheme="https://frangipani.raiano.ch/tags/contorno/"/>
     
       <category term="autunno" scheme="https://frangipani.raiano.ch/tags/autunno/"/>
-    
-      <category term="inverno" scheme="https://frangipani.raiano.ch/tags/inverno/"/>
-    
-  </entry>
-  
-  <entry>
-    <title xml:lang="de">Schokolade-Orangen-Tarte</title>
-    <link href="https://frangipani.raiano.ch/2022-02-02-tarte-al-cioccolato-e-arancia-de/"/>
-    <id>https://frangipani.raiano.ch/2022-02-02-tarte-al-cioccolato-e-arancia-de/</id>
-    <published>2022-02-01T23:00:00.000Z</published>
-    <updated>2022-03-18T12:38:55.104Z</updated>
-    <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2022-02-02-tarte-al-cioccolato-e-arancia/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Schokolade-Orangen-Tarte&lt;/strong&gt; mit der Cremigkeit der Ganache, der Frische der Orangencrème und der Knusprigkeit von Kakao-Mürbeteig. Eine Geschmacksexplosion, die perfekt miteinander harmoniert.
-&lt;br /&gt;
-Es mag schwierig erscheinen diese Tarte zuzubereiten, aber das ist es überhaupt nicht! Es sind drei sehr einfache Schritte und ich versichere euch, dass ich länger gebraucht habe, um das Rezept zu schreiben, als es zuzubereiten. Mittlerweile wissen wir alle, wie man Mürbeteig macht und dieser Mürbeteig hat die perfekte Konsistenz. Es funktioniert super einfach.
-&lt;br /&gt;
-Diese Orangencrème ist vielleicht die einfachste Crème der Welt. Nur drei Zutaten, sie ist vegan, sehr leicht und man macht nur den Topf schmutzig, um sie zu kochen. Sehr toll! Und dann die Ganache, die nur aus Rahm und Schokolade besteht. Das ist alles.
-&lt;br /&gt;
-Ihr könnt die Form der Backform aussuchen. Je nach dem was ihr aussucht, wird ein bisschen von allem übrig bleiben. Aus dem übrig gebliebenen Mürbeteig habe ich herzförmige Kekse gemacht, die ich als Dekoration verwendet habe. Dazu sind Kekse sowieso immer eine gute Frühstücksidee. Man kann die Kekse auch mit der Ganache oder mit der übrig gebliebenen Orangencrème füllen. Ich sags euch, das ist sooo lecker!&lt;/p&gt;
-&lt;p&gt;Diese &lt;strong&gt;Schokoladen-Orangen-Tarte&lt;/strong&gt; habe ich mit Blick auf den Valentinstag gemacht. Ich verwende oft die Kombination Schokolade und Orange am Tag der Verliebten, weil mein Mann sie sehr mag.
-&lt;br /&gt;
-Ich sehe viele Desserts mit Erdbeeren und Himbeeren, aber im Februar ist es einfach viel zu früh für frische Erdbeeren und Himbeeren. Ich versichere euch, dass die Versuchung gross ist, besonders weil der Winter lang ist und die Sehnsucht nach Frühling gross ist, aber im Februar kaufe ich keine frischen Erdbeeren oder Himbeeren. Ja, im April kaufen wir manchmal italienische Erdbeeren, bevor die Schweizer kommen, aber in Italien ist dann sowieso Saison. Ich weiss, wir haben es alle ein bisschen satt, praktisch nur Orangen, Mandarinen, Birnen und Äpfel zu essen, aber das ist die Jahreszeit... bald kommt die grosse Gemüse- und Früchteauswahl!&lt;/p&gt;
-&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
-  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
-    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
-      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Schokolade-Orangen-Tarte&lt;/span&gt;
-      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Süsses&lt;/span&gt;
-      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2022-02-02-tarte-al-cioccolato-e-arancia/header.jpeg&quot;/&gt;
-      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
-      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Schokolade-Orangen-Tarte mit der Cremigkeit der Ganache, der Frische der Orangencrème und der Knusprigkeit von Kakao-Mürbeteig. Eine Geschmacksexplosion, die perfekt miteinander harmoniert.&lt;/span&gt;
-      &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
-      &lt;table&gt;
-        &lt;tbody&gt;
-          &lt;tr&gt;
-            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Kakao-Mürbeteig&lt;/b&gt;&lt;/td&gt;
-          &lt;/tr&gt;      
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;        
-            &lt;td&gt;280gr&lt;/td&gt;
-            &lt;td&gt;Mehl&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;25gr&lt;/td&gt;
-            &lt;td&gt;Kakaopulver&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;150gr&lt;/td&gt;
-            &lt;td&gt;Puderzucker&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1/2 Teelöffel&lt;/td&gt;
-            &lt;td&gt;Backpulver&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 Prise&lt;/td&gt;
-            &lt;td&gt;Salz&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;150gr&lt;/td&gt;
-            &lt;td&gt;Butter&lt;/td&gt;
-           &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1&lt;/td&gt;
-            &lt;td&gt;Ei&lt;/td&gt;       
-          &lt;/tr&gt;
-          &lt;tr style=&quot;height: 15px;&quot;&gt;&lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Orangencrème&lt;/b&gt;&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;        
-            &lt;td&gt;300ml&lt;/td&gt;
-            &lt;td&gt;Orangensaft&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;40gr&lt;/td&gt;
-            &lt;td&gt;Zucker&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;30gr&lt;/td&gt;
-            &lt;td&gt;Maisstärke&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr style=&quot;height: 15px;&quot;&gt;&lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;dunkle Schokoganache&lt;/b&gt;&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;        
-            &lt;td&gt;250ml&lt;/td&gt;
-            &lt;td&gt;Vollrahm&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;250gr&lt;/td&gt;
-            &lt;td&gt;dunkle Schokolade (für mich 72%)&lt;/td&gt;
-          &lt;/tr&gt;
-        &lt;/tbody&gt;
-      &lt;/table&gt;
-      &lt;br&gt;&lt;/br&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h3&gt;
-  &lt;font color=&quot;grey&quot;&gt;
-    &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt; Zubereitung
-&lt;/h3&gt;
-
-&lt;p&gt;Bereitet den Mürbeteig vor: Mischt zuerst alle trockenen Zutaten, fügt dann die Butter in kleine Stücke hinzu und beginnt zu kneten, indem ihr die Butter zerkrümelt, damit alles sandig wird. An diesem Punkt das Ei hinzufügen und schnell kneten, bis der Teig glatt und homogen ist. Ein Reckteck formen, in Frischhaltefolie wickeln und 1-2 Stunden im Kühlschrank ruhen lassen.
-&lt;br /&gt;
-In der Zwischenzeit die Orangencrème zubereiten: Den Orangensaft in einen Topf geben, dann die Stärke und den Zucker hinzufügen. Gut mischen, alle Klumpen auflösen, dann den Herd bei mittlerer Temperatur einschalten. Immer umrühren, die Crème gut andicken lassen. Vom Herd nehmen und vollständig abkühlen lassen.
-&lt;img src=&quot;../2022-02-02-tarte-al-cioccolato-e-arancia/cremaarancia.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Den Teig aus dem Kühlschrank holen und mit einem Nudelholz mit etwas Mehl auf eine Dicke von 3mm ausrollen. Die Backform (am besten mit Hebeboden) mit dem Mürbeteig belegen und Ränder gut anpassen. Den Boden mit einer Gabel einstechen, mit Backpapier bedecken und mit Kichererbsen, oder was auch immer ihr zum Blindbacken habt, belegen. Im vorgeheizten Ofen bei 180°C Umluft 30min backen, nach 15min Backpapier und Kichererbsen entfernen, fertig backen. Aus dem Ofen nehmen und vollständig abkühlen lassen.
-&lt;br /&gt;
-Den übrig gebliebenen Teig auf eine Dicke von 3mm ausrollen und Kekse in Form von Herzen unterschiedlicher Grösse formen, dann immer bei 180°C Umluft 12min backen.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-02-02-tarte-al-cioccolato-e-arancia/teglia.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-02-02-tarte-al-cioccolato-e-arancia/tegliainbianco.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Nun die Ganache zubereiten: 230gr Schokolade hacken und in eine Schüssel geben. Den Rahm erhitzen, bis es fast kocht. Giesst den heissen Rahm in die Schüssel mit der Schokolade und rührt, bis die Schokolade vollständig geschmolzen ist. Lasst die Ganache abkühlen, aber nicht aushärten, und schlagt sie dann mit einem elektrischen Schneebesen auf, wodurch sie luftiger und cremiger wird, aber immer noch standfest. Gebt die Ganache in einen Spritzbeutel mit der Tülle eurer Wahl, ich habe diese gewählt:&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-02-02-tarte-al-cioccolato-e-arancia/ganache.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-02-02-tarte-al-cioccolato-e-arancia/bocchetta.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Nehmt den gebackenen Mürbeteig und bestreicht den gesamten Boden und die Ränder mit den restlichen 20g geschmolzener Schokolade und lasst sie gut trocknen. Die Orangencrème auf dem Boden verteilen (wenn ihr euch für eine kleinere Backform entschieden habt, benötigt ihr möglicherweise nicht alles, dasselbe gilt für die Ganache). Dann wird die Ganache über die Orangencrème dressiert, ihr entscheidet, wie ihr es am liebsten mögt.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-02-02-tarte-al-cioccolato-e-arancia/cioccolato.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-02-02-tarte-al-cioccolato-e-arancia/tarte.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Schokolade-Orangen-Tarte&lt;/strong&gt; mit den Herz-Keksen dekorieren und bei Zimmertemperatur servieren.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-02-02-tarte-al-cioccolato-e-arancia/risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-02-02-tarte-al-cioccolato-e-arancia/risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-02-02-tarte-al-cioccolato-e-arancia/risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-02-02-tarte-al-cioccolato-e-arancia/risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-02-02-tarte-al-cioccolato-e-arancia/risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-02-02-tarte-al-cioccolato-e-arancia/risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-02-02-tarte-al-cioccolato-e-arancia/risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-02-02-tarte-al-cioccolato-e-arancia/risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-02-02-tarte-al-cioccolato-e-arancia/risultato9.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-02-02-tarte-al-cioccolato-e-arancia/risultato10.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../2022-02-02-tarte-al-cioccolato-e-arancia/risultato11.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;h4&gt;Buon appetito
-  &lt;font color=&quot;red&quot;&gt;
-    &lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt;
-&lt;/h4&gt;</content>
-    <summary type="html" xml:lang="de">
-    
-      &lt;p&gt;&lt;img src=&quot;../2022-02-02-tarte-al-cioccolato-e-arancia/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Schokolade-Orangen-Tarte&lt;/s
-    
-    </summary>
-    
-      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
-    
-      <category term="Crostate, Tartes..." scheme="https://frangipani.raiano.ch/categories/Dolce/Crostate-Tartes/"/>
-    
-    
-      <category term="crostata" scheme="https://frangipani.raiano.ch/tags/crostata/"/>
-    
-      <category term="san valentino" scheme="https://frangipani.raiano.ch/tags/san-valentino/"/>
     
       <category term="inverno" scheme="https://frangipani.raiano.ch/tags/inverno/"/>
     
