@@ -7,9 +7,10 @@ tags:
 - natale
 - dolce al cucchiaio
 - glutenfree
+- pavlova
 categories:
 - Dolce
-- "Dolci al cucchiaio, Gelati..."
+- "Crostate, Tartes..."
 label: 2020-12-14-pavlova-con-crema-pasticcera-e-mele-alla-cannella
 lang: de
 ---
