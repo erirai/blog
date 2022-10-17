@@ -4,7 +4,7 @@
   
   <link href="https://frangipani.raiano.ch/de/atom.xml" rel="self"/>
   <link href="https://frangipani.raiano.ch/"/>
-  <updated>2022-10-04T13:37:04.621Z</updated>
+  <updated>2022-10-16T16:30:03.208Z</updated>
   <id>https://frangipani.raiano.ch/</id>
   
   <author>
@@ -13,6 +13,213 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title xml:lang="de">Tiramisù-Pavlova</title>
+    <link href="https://frangipani.raiano.ch/2022-10-18-tiramisu-pavlova/"/>
+    <id>https://frangipani.raiano.ch/2022-10-18-tiramisu-pavlova/</id>
+    <published>2022-10-17T22:00:00.000Z</published>
+    <updated>2022-10-16T16:30:03.208Z</updated>
+    <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2022-10-18-pavlova-al-tiramisu/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tiramisù-Pavlova&lt;/strong&gt; eine Baiserwolke, die nach Tiramisù schmeckt. Pavlova einmal anders zubereitet, statt klassisch mit Crème und &lt;a href=&quot;https://frangipani.raiano.ch/2020-12-14-pavlova-con-crema-pasticcera-e-mele-alla-cannella-de/&quot; target=&quot;_blank&quot;&gt;Früchten&lt;/a&gt;. Ist sie gut? Oh ja! Ist die Zubereitung schwierig? Nääääää. Bereitet zuerst die Meringues zu, während sie backen, bereitet die Mascarponecrème und den Kaffee zu. An diesem Punkt habt ihr alles bereit und könnt im Moment das Dessert anrichten.
+&lt;br /&gt;
+Ja, dies ist eines dieser Desserts, die angerichtet und sofort gegessen werden müssen. Aber glaubt mir, es dauert wirklich einen Moment, um die Crème auf den beiden Scheiben zu verteilen und die Löffelbiskuits im Kaffee zu tränken. Und vertraut mir, es lohnt sich absolut! Sie ist so gut!&lt;/p&gt;
+&lt;p&gt;Für einen besonderen Tag braucht man ein besonderes Dessert und da &lt;a href=&quot;https://frangipani.raiano.ch/2014-03-04-tiramisu-de/&quot; target=&quot;_blank&quot;&gt;Tiramisù&lt;/a&gt; eines meiner Lieblingsdesserts ist, habe ich beschlossen, diese &lt;strong&gt;Tiramisù-Pavlova&lt;/strong&gt; zuzubereiten, um meinen 9. Blogday zu feiern.
+&lt;br /&gt;
+Ja, heute wird mein Blog 9 Jahre alt. Also, herzliche Gratulation Profumo di Frangipani. Auch dieses Jahr habe ich nicht viele Rezepte gemacht, auch wenn ich wirklich sehr inspiriert war. Die Zeit hat gefehlt und die wird sicher die nächsten zwei Jahre auch fehlen. Andererseits habe ich viele &amp;quot;klassische&amp;quot; Rezepte gemacht, die ich schon lange machen wollte, viele auch sizilianische. Vielleicht inspiriert von meiner Rückkehr nach Sizilien nach 5 Jahren.
+&lt;br /&gt;
+Ich habe wirklich viele Ideen und auch grosse Lust neues zu kochen, aber in den kalten Monaten, noch mit der Zeitumstellung, die uns dazu zwingt bis 16 Uhr zu fotografieren, ist es nicht immer einfach. Besonders für die herzhaften Rezepte, die ich normalerweise zum Abendessen zubereite. Aber zum Glück ist dieser Blog für mich &amp;quot;nur“ ein Hobby, kein Job und ich kann ihn so verwalten, wie es mir passt.&lt;/p&gt;
+&lt;p&gt;Natürlich möchte ich, wie jedes Jahr, diese Gelegenheit nutzen, um euch allen zu danken! Danke an euch, für das lesen dieses Blogs, danke an euch, für das nachkochen und -backen, danke an alle, die mir auf &lt;a href=&quot;https://www.instagram.com/erica_raiano/&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt; folgen.&lt;/p&gt;
+&lt;p&gt;Grazie!
+&lt;br /&gt;
+Erica&lt;/p&gt;
+&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
+  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
+    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
+      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Tiramisù-Pavlova&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Süsses&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2022-10-18-pavlova-al-tiramisu//header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Tiramisù-Pavlova, eine Baiserwolke, die nach Tiramisù schmeckt.&lt;/span&gt;
+      &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
+      &lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Pavlova&lt;/b&gt;&lt;/td&gt;
+          &lt;/tr&gt;      
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;        
+            &lt;td&gt;3&lt;/td&gt;
+            &lt;td&gt;Eiweiss (grosse Eier)&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;180gr&lt;/td&gt;
+            &lt;td&gt;feiner Zucker&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;3/4 Esslöffel&lt;/td&gt;
+            &lt;td&gt;Mais- oder Kartoffelstärke&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 Teelöffel&lt;/td&gt;
+            &lt;td&gt;Weissweinessig&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 Esslöffel&lt;/td&gt;
+            &lt;td&gt;löslicher Kaffee&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr style=&quot;height: 15px;&quot;&gt;&lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Mascarponecrème&lt;/b&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+         &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;        
+            &lt;td&gt;2&lt;/td&gt;
+            &lt;td&gt;Eier&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;100gr&lt;/td&gt;
+            &lt;td&gt;Zucker&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;55gr&lt;/td&gt;
+            &lt;td&gt;Wasser&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;500gr&lt;/td&gt;
+            &lt;td&gt;Mascarpone&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qs&lt;/td&gt;
+            &lt;td&gt;Zitronen- und Orangenabrieb&lt;/td&gt;
+         &lt;tr&gt;
+            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Übriges&lt;/b&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qs (ca. Mokka für 3 Personen)&lt;/td&gt;
+            &lt;td&gt;Kaffee aus der Mokka&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;        
+            &lt;td&gt;1/2 Phiole&lt;/td&gt;
+            &lt;td&gt;Rhumaroma&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qs&lt;/td&gt;
+            &lt;td&gt;Zucker&lt;/td&gt; 
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;ca. 6&lt;/td&gt;
+            &lt;td&gt;Löffelbisquits&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qs&lt;/td&gt;
+            &lt;td&gt;Schokospäne oder Kakaopulver&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;
+      &lt;br&gt;&lt;/br&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h3&gt;
+  &lt;font color=&quot;grey&quot;&gt;
+    &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt; Zubereitung
+&lt;/h3&gt;
+
+&lt;p&gt;Zuerst die Pavlova vorbereiten. Das Eiweiss in den Mixer geben und mit dem Schlagen beginnen. Wenn es fast steif geschlagen ist, unter ständigem Rühren auf maximaler Geschwindigkeit, den Zucker nach und nach hinzufügen.
+&lt;br /&gt;
+Löst die Mais- oder Kartoffelstärke im Essig auf und fügt es hinzu, sobald das Baiser glänzend und fest ist, wobei ihr immer weiter rührt. Zuletzt den gesiebten löslichen Kaffee unterrühren.
+&lt;br /&gt;
+Zeichnet auf das Backpapier zwei Kreise mit einem Durchmesser von etwa 17cm, aber nicht zu nahe beieinander. Dreht das Blatt um und verteilt das Baiser in den beiden Kreisen. Bildet zwei Scheiben, macht den Rand ein wenig glatter.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-10-18-pavlova-al-tiramisu/meringa.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-10-18-pavlova-al-tiramisu/teglia.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Schiebt die Pavlova im vorgeheizten Ofen bei 160°C Umluft, senkt die Temperatur nach 10 Minuten auf 150°C und backt sie für weitere 40 Minuten. Während dem Backen, den Ofen auf keinen Fall öffnen. Nach dem Backen, die Pavlova im leicht geöffneten Ofen abkühlen lassen.
+&lt;img src=&quot;../2022-10-18-pavlova-al-tiramisu/pavlove.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Für die Mascarponecrème, in einem Kochtopf auf mittlerer Hitze Zucker zusammen mit dem Wasser schmelzen lassen. Der Sirup muss 121°C erreichen, damit die Eier pasteurisiert werden können. Falls ihr kein Küchenthermometer habt, müsst ihr warten, bis auf dem Sirup Blasen entstehen. Kurz bevor der Sirup die richtige Temperatur erreicht hat, Eier in der Küchenmaschine schaumig schlagen, auf höchster Stufe weiter rühren und vorsichtig den heissen Sirup dazu geben und mindestens 6-8min weiterrühren, die Masse muss komplett ausgekühlt sein. In einer separaten Schüssel den Mascarpone zusammen mit dem Zitronen- und Orangenabrieb weich rühren, einen Esslöffel Eimasse dazu geben und mischen, dann die restliche Eimasse vorsichtig unterheben. Crème im Kühlschrank lagern, bis ihr sie braucht.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-10-18-pavlova-al-tiramisu/uova.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-10-18-pavlova-al-tiramisu/mascarpone.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Kaffee zubereiten, süssen und etwas Rhumaroma hinzufügen, dann vollständig abkühlen lassen.
+&lt;br /&gt;
+Eine Pavlova-Scheibe auf eine Servierplatte stellen und die Hälfte der Mascarponecrème darauf streichen. Die Löffelbiskuits halbieren, im Kaffee tauchen und auf der Crème verteilen.
+&lt;img src=&quot;../2022-10-18-pavlova-al-tiramisu/pavlova.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Die zweite Pavlova-Scheibe darauf legen, dann die restliche Crème darauf verteilen und mit Schokospänen dekorieren. Die &lt;strong&gt;Tiramisù-Pavlova&lt;/strong&gt; sollte frisch zubereitet und sofort verzehrt werden. Wenn etwas übrig bleibt, im Kühlschrank aufbewahren.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-10-18-pavlova-al-tiramisu/risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-10-18-pavlova-al-tiramisu/risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-10-18-pavlova-al-tiramisu/risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-10-18-pavlova-al-tiramisu/risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-10-18-pavlova-al-tiramisu/risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-10-18-pavlova-al-tiramisu/risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-10-18-pavlova-al-tiramisu/risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-10-18-pavlova-al-tiramisu/risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-10-18-pavlova-al-tiramisu/risultato9.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-10-18-pavlova-al-tiramisu/risultato10.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h4&gt;Buon appetito
+  &lt;font color=&quot;red&quot;&gt;
+    &lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt;
+&lt;/h4&gt;</content>
+    <summary type="html" xml:lang="de">
+    
+      &lt;p&gt;&lt;img src=&quot;../2022-10-18-pavlova-al-tiramisu/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tiramisù-Pavlova&lt;/strong&gt; eine Baiser
+    
+    </summary>
+    
+      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
+    
+      <category term="Crostate, Tartes..." scheme="https://frangipani.raiano.ch/categories/Dolce/Crostate-Tartes/"/>
+    
+    
+      <category term="glutenfree" scheme="https://frangipani.raiano.ch/tags/glutenfree/"/>
+    
+      <category term="caffé" scheme="https://frangipani.raiano.ch/tags/caffe/"/>
+    
+      <category term="pavlova" scheme="https://frangipani.raiano.ch/tags/pavlova/"/>
+    
+  </entry>
   
   <entry>
     <title xml:lang="de">Kürbis-Lauch-Parmigiana</title>
@@ -3063,178 +3270,6 @@ Bringt das Öl in einem grossen Topf (oder Fritteuse) auf 180°C, nehmt dann jew
       <category term="carnevale" scheme="https://frangipani.raiano.ch/tags/carnevale/"/>
     
       <category term="frittelle" scheme="https://frangipani.raiano.ch/tags/frittelle/"/>
-    
-  </entry>
-  
-  <entry>
-    <title xml:lang="de">Gemüse-Crumble</title>
-    <link href="https://frangipani.raiano.ch/2022-02-16-crumble-di-verdure-de/"/>
-    <id>https://frangipani.raiano.ch/2022-02-16-crumble-di-verdure-de/</id>
-    <published>2022-02-15T23:00:00.000Z</published>
-    <updated>2022-03-18T12:41:29.096Z</updated>
-    <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2022-02-16-crumble-di-verdure/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Gemüse-Crumble&lt;/strong&gt; eine super leckere Beilage voller Saisongemüse. Verwendet das Gemüse, das ihr mögt oder zu Hause habt, und wenn ihr möchtet, kann es auch im Voraus zubereitet werden.
-&lt;br /&gt;
-Ich habe Lauch, Karotten, Randen (daher alles pink), Süsskartoffeln, Kürbis, Rotkohl und Rosenkohl verwendet, alles saisonal. Aber das Schöne an diesem Rezept ist, dass es zu jeder Jahreszeit zubereitet werden kann, indem man einfach das Gemüse anpasst. Ich stelle es mir im Frühling mit frischen Erbsen, Spargel, Artischocken und den ersten Zucchini vor oder im Sommer mit Auberginen, Paprika, Zucchini und Tomaten! Mmm, das ist gut!&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.foodblogs-schweiz.ch/challenge/&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;&lt;img src=&quot;https://www.foodblogs-schweiz.ch/wp-content/uploads/2022/01/Februar-Challenge.png.webp&quot; class=&quot;ignore-gallery-item&quot;/&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Es schien mir auch das perfekte Rezept, um an die 32. monatliche Foodie Challenge mitzumachen, die von &lt;a href=&quot;https://www.foodblogs-schweiz.ch&quot; target=&quot;_blank&quot;&gt;Foodblogs Schweiz&lt;/a&gt; organisiert wird. Auch diesen Monat ohne Warenkorb, jedoch mit dem Thema &amp;quot;Winter Comfort Food mit saisonalen Zutaten&amp;quot;.
-&lt;br /&gt;
-Crumble ist für mich pures Comfort Food, Mürbeteig und gekochte und duftende Früchte. Mein Favorit ist der mit &lt;a href=&quot;https://frangipani.raiano.ch/2014-08-24-crumble-di-prugne-de/&quot; target=&quot;_blank&quot;&gt;Zwetschgen&lt;/a&gt;. Bisher wurde der Crumble aber immer in der süssen Variante zubereitet. Es war also an der Zeit, es in einer salzigen Alternative zuzubereiten, und es hat mir sehr geschmeckt. Mit einer Joghurtsauce gegessen ist es wirklich der Hammer!&lt;/p&gt;
-&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
-  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
-    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
-      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Gemüse-Crumble&lt;/span&gt;
-      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Herzhaftes&lt;/span&gt;
-      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2022-02-16-crumble-di-verdure/header.jpeg&quot;/&gt;
-      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
-      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Gemüse-Crumble eine super leckere Beilage voller Saisongemüse. Verwendet das Gemüse, das ihr mögt oder zu Hause habt, und wenn ihr möchtet, kann es auch im Voraus zubereitet werden.&lt;/span&gt;
-      &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
-      &lt;table&gt;
-        &lt;tbody&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1&lt;/td&gt;
-            &lt;td&gt;Lauch&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1&lt;/td&gt;
-            &lt;td&gt;Karotte gross&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1-2&lt;/td&gt;
-            &lt;td&gt;Randen roh&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1-2&lt;/td&gt;
-            &lt;td&gt;Süsskartoffeln&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 Schnitz/Stück&lt;/td&gt;
-            &lt;td&gt;Kürbis&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 Schnitz/Stück&lt;/td&gt;
-            &lt;td&gt;Rotkohl&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 Handvoll&lt;/td&gt;
-            &lt;td&gt;Rosenkohl&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qs&lt;/td&gt;
-            &lt;td&gt;Olivenöl&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qs&lt;/td&gt;
-            &lt;td&gt;Salz&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qs&lt;/td&gt;
-            &lt;td&gt;Kräuter und Gewürze&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;100gr&lt;/td&gt;
-            &lt;td&gt;Mehl&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;40gr&lt;/td&gt;
-            &lt;td&gt;geriebenen Parmesankäse&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1/2 Teelöffel&lt;/td&gt;
-            &lt;td&gt;Salz&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qs&lt;/td&gt;
-            &lt;td&gt;getrocknete Kräuter und Gewürze&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;50gr&lt;/td&gt;
-            &lt;td&gt;kalte Butter&lt;/td&gt;
-          &lt;/tr&gt;
-        &lt;/tbody&gt;
-      &lt;/table&gt;
-      &lt;br&gt;&lt;/br&gt;
-      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot; itemprop=&quot;recipeYield&quot;&gt;ca. für eine 24cm Ofenform&lt;/i&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;h3&gt;
-  &lt;font color=&quot;grey&quot;&gt;
-    &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt; Zubereitung
-&lt;/h3&gt;
-
-&lt;p&gt;Das gesamte Gemüse waschen und rüsten. Lauch und Karotte in Scheiben schneiden. Randen (Rote Beete), Süsskartoffeln und Kürbis in Würfel schneiden. Rotkohl (harten Strunk entfernen) in Streifen schneiden und Rosenkohl halbieren. Den Lauch in einer grossen Pfanne mit etwas Öl und einer Prise Salz anbraten, dann das restliche Gemüse hinzugeben und bei mittlerer Temperatur garen. Fügt einige frische oder getrocknete Kräuter und/oder Gewürze (für mich Paprika) und Salz hinzu. Gegebenenfalls etwas Wasser zugeben, um das Garen zu erleichtern. Das Gemüse sollte gar, aber noch knackig und nicht zu weich sein.
-&lt;br /&gt;
-Während das Gemüse gart, den Crumble zubereiten: Mehl, Parmesan, Salz, getrocknete Kräuter und Gewürze in eine Schüssel geben und vermischen. Fügt die kalte Butter in kleinen Stücken hinzu und knetet mit den Fingerspitzen, ihr müsst eine sandige, krümelige Mischung erhalten. Bis zum Bedarf im Kühlschrank lassen.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-02-16-crumble-di-verdure/verdura.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-02-16-crumble-di-verdure/crumble.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Nehmt eine Auflaufform, buttert sie und legt das Gemüse hinein. Den Crumble gleichmässig auf dem Gemüse verteilen.
-&lt;img src=&quot;../2022-02-16-crumble-di-verdure/teglia.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Den &lt;strong&gt;Gemüse-Crumble&lt;/strong&gt; im vorgeheizten Backofen bei 180°C Umluft für 30-40min backen oder bis die Oberfläche goldbraun ist. Dazu empfehle ich eine Joghurtsauce aus Joghurt, Kräutern, Paprika, Zitronensaft, Salz und Öl.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-02-16-crumble-di-verdure/risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-02-16-crumble-di-verdure/risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-02-16-crumble-di-verdure/risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-02-16-crumble-di-verdure/risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-02-16-crumble-di-verdure/risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-02-16-crumble-di-verdure/risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-02-16-crumble-di-verdure/risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-02-16-crumble-di-verdure/risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;h4&gt;Buon appetito
-  &lt;font color=&quot;red&quot;&gt;
-    &lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt;
-&lt;/h4&gt;</content>
-    <summary type="html" xml:lang="de">
-    
-      &lt;p&gt;&lt;img src=&quot;../2022-02-16-crumble-di-verdure/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Gemüse-Crumble&lt;/strong&gt; eine super lec
-    
-    </summary>
-    
-      <category term="Salato" scheme="https://frangipani.raiano.ch/categories/Salato/"/>
-    
-      <category term="Secondi Piatti e Contorni" scheme="https://frangipani.raiano.ch/categories/Salato/Secondi-Piatti-e-Contorni/"/>
-    
-    
-      <category term="contorno" scheme="https://frangipani.raiano.ch/tags/contorno/"/>
-    
-      <category term="autunno" scheme="https://frangipani.raiano.ch/tags/autunno/"/>
-    
-      <category term="inverno" scheme="https://frangipani.raiano.ch/tags/inverno/"/>
     
   </entry>
   
