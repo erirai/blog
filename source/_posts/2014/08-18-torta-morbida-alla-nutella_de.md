@@ -7,7 +7,7 @@ tags:
 categories:
 - Dolce
 - Torte
-label: 2014-torta-morbida-alla-nutella
+label: 2014-08-18-torta-morbida-alla-nutella
 lang: de 
 ---
 ![](../2014-08-18-torta-morbida-alla-nutella/header.jpeg "frangipani © Erica")
