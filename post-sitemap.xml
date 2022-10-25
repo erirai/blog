@@ -9,8 +9,72 @@
 
 
     <url>
+        <loc>https://frangipani.raiano.ch/2014-08-29-veganer-apple-pie/</loc>
+        <lastmod>2022-10-25T12:41:54.860Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2014-08-29-apple-pie-vegana/</loc>
+        <lastmod>2022-10-25T12:41:03.139Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2014-10-18-schoko-haselnuss-torrone/</loc>
+        <lastmod>2022-10-25T12:32:25.730Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2014-10-18-torrone-dei-morti/</loc>
+        <lastmod>2022-10-25T12:30:18.650Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2015-10-31-veganer-halloween-marmorkuchen/</loc>
+        <lastmod>2022-10-25T12:18:58.928Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2015-10-31-halloween-marble-cake/</loc>
+        <lastmod>2022-10-25T12:13:16.909Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://frangipani.raiano.ch/2022-10-18-tiramisu-pavlova/</loc>
-        <lastmod>2022-10-16T16:30:03.208Z</lastmod>
+        <lastmod>2022-10-25T11:45:55.255Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2014-08-18-torta-morbida-alla-nutella-de/</loc>
+        <lastmod>2022-10-24T17:29:30.421Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2014-08-18-torta-morbida-alla-nutella/</loc>
+        <lastmod>2022-10-24T17:29:25.387Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -1379,22 +1443,6 @@
     <url>
         <loc>https://frangipani.raiano.ch/2014-08-24-crumble-di-prugne-de/</loc>
         <lastmod>2022-03-22T13:34:43.154Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2014-08-18-torta-morbida-alla-nutella/</loc>
-        <lastmod>2022-03-22T13:34:17.596Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2014-08-18-torta-morbida-alla-nutella-de/</loc>
-        <lastmod>2022-03-22T13:34:10.437Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -3489,14 +3537,6 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2014-10-18-torroncini-al-cioccolato/</loc>
-        <lastmod>2018-06-05T13:55:55.620Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://frangipani.raiano.ch/2014-07-18-gugl-more-e-philadelphia/</loc>
         <lastmod>2018-06-05T13:45:06.230Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -4211,14 +4251,6 @@
     <url>
         <loc>https://frangipani.raiano.ch/2015-10-23-muffin-alla-zucca-e-cioccolato-con-frosting-al-mascarpone/</loc>
         <lastmod>2018-01-23T14:59:40.564Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2015-10-31-halloween-marble-cake/</loc>
-        <lastmod>2018-01-23T14:59:03.712Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -5026,14 +5058,6 @@
 
     <url>
         <loc>https://frangipani.raiano.ch/2014-08-04-marmellata-di-gocce-oro/</loc>
-        <lastmod>2017-08-20T12:10:57.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2014-08-29-american-apple-pie/</loc>
         <lastmod>2017-08-20T12:10:57.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>

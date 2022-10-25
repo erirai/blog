@@ -4,7 +4,7 @@
   
   <link href="https://frangipani.raiano.ch/de/atom.xml" rel="self"/>
   <link href="https://frangipani.raiano.ch/"/>
-  <updated>2022-10-16T16:30:03.208Z</updated>
+  <updated>2022-10-25T11:45:55.255Z</updated>
   <id>https://frangipani.raiano.ch/</id>
   
   <author>
@@ -19,7 +19,7 @@
     <link href="https://frangipani.raiano.ch/2022-10-18-tiramisu-pavlova/"/>
     <id>https://frangipani.raiano.ch/2022-10-18-tiramisu-pavlova/</id>
     <published>2022-10-17T22:00:00.000Z</published>
-    <updated>2022-10-16T16:30:03.208Z</updated>
+    <updated>2022-10-25T11:45:55.255Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2022-10-18-pavlova-al-tiramisu/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Tiramisù-Pavlova&lt;/strong&gt; eine Baiserwolke, die nach Tiramisù schmeckt. Pavlova einmal anders zubereitet, statt klassisch mit Crème und &lt;a href=&quot;https://frangipani.raiano.ch/2020-12-14-pavlova-con-crema-pasticcera-e-mele-alla-cannella-de/&quot; target=&quot;_blank&quot;&gt;Früchten&lt;/a&gt;. Ist sie gut? Oh ja! Ist die Zubereitung schwierig? Nääääää. Bereitet zuerst die Meringues zu, während sie backen, bereitet die Mascarponecrème und den Kaffee zu. An diesem Punkt habt ihr alles bereit und könnt im Moment das Dessert anrichten.
 &lt;br /&gt;
@@ -38,7 +38,7 @@ Erica&lt;/p&gt;
     &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
       &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Tiramisù-Pavlova&lt;/span&gt;
       &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Süsses&lt;/span&gt;
-      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2022-10-18-pavlova-al-tiramisu//header.jpeg&quot;/&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2022-10-18-pavlova-al-tiramisu/header.jpeg&quot;/&gt;
       &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
       &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Tiramisù-Pavlova, eine Baiserwolke, die nach Tiramisù schmeckt.&lt;/span&gt;
       &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
