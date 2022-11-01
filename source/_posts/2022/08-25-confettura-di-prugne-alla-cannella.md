@@ -9,7 +9,7 @@ tags:
 categories:
 - Dolce
 - Conserve
-label: 2021-08-25-confettura-di-prugne-alla-cannella
+label: 2022-08-25-confettura-di-prugne-alla-cannella
 lang: it 
 ---
 ![](header.jpeg "frangipani © Erica")
