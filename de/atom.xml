@@ -4,7 +4,7 @@
   
   <link href="https://frangipani.raiano.ch/de/atom.xml" rel="self"/>
   <link href="https://frangipani.raiano.ch/"/>
-  <updated>2022-10-30T14:39:06.244Z</updated>
+  <updated>2022-11-07T10:44:26.129Z</updated>
   <id>https://frangipani.raiano.ch/</id>
   
   <author>
@@ -13,6 +13,163 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title xml:lang="de">Süssmost-Kuchen</title>
+    <link href="https://frangipani.raiano.ch/2022-11-08-sussmost-kuchen/"/>
+    <id>https://frangipani.raiano.ch/2022-11-08-sussmost-kuchen/</id>
+    <published>2022-11-07T23:00:00.000Z</published>
+    <updated>2022-11-07T10:44:26.129Z</updated>
+    <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2022-11-08-torta-al-mosto-di-mele/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Süssmost-Kuchen&lt;/strong&gt; der saftigste, apfeligste, schmelzendste Apfelkuchen der Welt! Es ist ein Kuchen, der nach Herbst schmeckt, man schmeckt die Äpfel und den Zimt... Er hat eine unglaubliche Textur, schön saftig und weich. Wenn man ihn isst, zergeht er auf der Zunge! Der Süssmost macht den Teig super weich und die geriebenen Äpfel machen ihn unglaublich saftig.
+&lt;br /&gt;
+Als ich ihn gegessen habe, war es eine Explosion im Mund! Verrückt! Ich denke, es ist der beste Apfelkuchen, den ich je gegessen habe. Hätte ich nicht gedacht... Ich habe oft Kuchen mit Süssmost gesehen, aber ich dachte nicht, dass es so viel ausmachen würde. Aber doch! Ihr müsst ihn unbedingt probieren.&lt;/p&gt;
+&lt;p&gt;November. NOvember. No me gusta. Es ist so eine Hautsache. Zu dunkel, meist nass, neblig, wenig Sonne. Dann ist da noch das Warten auf Weihnachten, man möchte schon das ganze Haus dekorieren, hält sich aber noch zurück. Auch dieses Jahr, wird dieser Monat vergehen, ich hoffe so schnell wie möglich...&lt;/p&gt;
+&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
+  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
+    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
+      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Süssmost-Kuchen&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Süsses&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2022-11-08-torta-al-mosto-di-mele/header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Süssmost-Kuchen der saftigste, apfeligste, schmelzendste Apfelkuchen der Welt!&lt;/span&gt;
+      &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
+      &lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;220gr&lt;/td&gt;
+            &lt;td&gt;Mehl&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;2 Teelöffel&lt;/td&gt;
+            &lt;td&gt;Backpulver&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 Teelöffel&lt;/td&gt;
+            &lt;td&gt;Zimt&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 Prise&lt;/td&gt;
+            &lt;td&gt;Salz&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;115gr&lt;/td&gt;
+            &lt;td&gt;Naturjoghurt&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;60gr&lt;/td&gt;
+            &lt;td&gt;Süssmost&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;135gr&lt;/td&gt;
+            &lt;td&gt;grob geriebene Äpfel&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;200gr&lt;/td&gt;
+            &lt;td&gt;Butter auf Zimmertemperatur&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;75gr&lt;/td&gt;
+            &lt;td&gt;weisser Zucker&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;75gr&lt;/td&gt;
+            &lt;td&gt;brauner Zucker&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;3&lt;/td&gt;
+            &lt;td&gt;Eier auf Zimmertemperatur&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qs&lt;/td&gt;
+            &lt;td&gt;Vanille&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qs&lt;/td&gt;
+            &lt;td&gt;flüssige Butter&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qs&lt;/td&gt;
+            &lt;td&gt;Zimtzucker&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;
+      &lt;br&gt;&lt;/br&gt;
+      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot; itemprop=&quot;recipeYield&quot;&gt;für eine Bundtcakeform oder eine runde 20cm Form&lt;/i&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h3&gt;
+  &lt;font color=&quot;grey&quot;&gt;
+    &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt; Zubereitung
+&lt;/h3&gt;
+
+&lt;p&gt;Mehl mit Backpulver, Zimt und Salz in einer Schüssel mischen, beiseite stellen. In einer anderen Schüssel Joghurt mit Süssmost verrühren, beiseite stellen. Die Äpfel schälen und reiben, beiseite stellen.
+&lt;br /&gt;
+Die weiche Butter in die Küchenmaschine geben und bei mittlerer Geschwindigkeit 2min verarbeiten. Die beiden Zuckersorten zugeben und 5min einarbeiten. Ein Ei nach dem anderen hinzugeben, das nächste Ei erst, wenn das vorherige vollständig eingearbeitet ist. Die Vanille, dann 1/3 der Mehlmischung und die Hälfte der Joghurt-Mischung zugeben und verrühren. Mit einem weiteren Drittel Mehl und dem restlichen Joghurt fortfahren, ein wenig rühren und mit dem restlichen Mehl abschliessen. Wenn alles gut eingearbeitet ist, die geriebenen Äpfel hinzufügen und mit einem Handspatel vermischen.
+&lt;br /&gt;
+Backform gut bebuttern und bemehlen, den Teig in die Form giessen und gut verteilen. Den &lt;strong&gt;Süssmost-Kuchen&lt;/strong&gt; im vorgeheizten Ofen bei 180°C Umluft ca. 1 Stunde backen, Stäbchenprobe machen.
+&lt;img src=&quot;../2022-11-08-torta-al-mosto-di-mele/teglia.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Kuchen in der Form leicht abkühlen lassen, dann aus der Form stürzen und auf eine Servierplatte stellen. Den gesamten Kuchen mit geschmolzener Butter bestreichen und mit Zimt-Zucker bestreuen. Lauwarm ist er der Himmel auf Erden.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-11-08-torta-al-mosto-di-mele/risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-11-08-torta-al-mosto-di-mele/risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-11-08-torta-al-mosto-di-mele/risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-11-08-torta-al-mosto-di-mele/risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-11-08-torta-al-mosto-di-mele/risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-11-08-torta-al-mosto-di-mele/risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-11-08-torta-al-mosto-di-mele/risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-11-08-torta-al-mosto-di-mele/risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h4&gt;Buon appetito
+  &lt;font color=&quot;red&quot;&gt;
+    &lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt;
+&lt;/h4&gt;</content>
+    <summary type="html" xml:lang="de">
+    
+      &lt;p&gt;&lt;img src=&quot;../2022-11-08-torta-al-mosto-di-mele/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Süssmost-Kuchen&lt;/strong&gt; der safti
+    
+    </summary>
+    
+      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
+    
+      <category term="Torte" scheme="https://frangipani.raiano.ch/categories/Dolce/Torte/"/>
+    
+    
+      <category term="mele" scheme="https://frangipani.raiano.ch/tags/mele/"/>
+    
+      <category term="autunno" scheme="https://frangipani.raiano.ch/tags/autunno/"/>
+    
+      <category term="inverno" scheme="https://frangipani.raiano.ch/tags/inverno/"/>
+    
+  </entry>
   
   <entry>
     <title xml:lang="de">Tiramisù-Pavlova</title>
@@ -3132,144 +3289,6 @@ Bewahrt sie gut verschlossen im Kühlschrank auf, bis sie gegessen werden...&lt;
       <category term="festa del papà" scheme="https://frangipani.raiano.ch/tags/festa-del-papa/"/>
     
       <category term="piccola pasticceria" scheme="https://frangipani.raiano.ch/tags/piccola-pasticceria/"/>
-    
-  </entry>
-  
-  <entry>
-    <title xml:lang="de">Fasnachtschüechli</title>
-    <link href="https://frangipani.raiano.ch/2022-02-22-fasnachtschuechli-de/"/>
-    <id>https://frangipani.raiano.ch/2022-02-22-fasnachtschuechli-de/</id>
-    <published>2022-02-21T23:00:00.000Z</published>
-    <updated>2022-03-18T12:33:50.330Z</updated>
-    <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2022-02-22-fasnachtschuechli/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Fasnachtschüechli&lt;/strong&gt; hauchdünn, super knusprig und potentielle Suchtgefahr. Das ist ein Fasnachtsgebäck aus der schweizer Tradition und in dieser Zeit überall zu finden. Der Teig enthält keinen Zucker, daher werden sie grosszügig mit Puderzucker bestreut.
-&lt;br /&gt;
-Wir essen sie jedes Jahr in dieser Zeit, aber ich habe sie nie selbst gemacht, weil ich dachte, es sei schwierig, aber das ist es nicht. Sie werden schnell gemacht und frisch sind sie einfach am besten! Die einzige Schwierigkeit liegt beim frittieren, das heisst, die richtige Temperatur zu halten, um sie auf den Punkt zu frittiern, ohne dass sie anbrennen, aber genug, um sie knusprig zu machen.&lt;/p&gt;
-&lt;p&gt;Wie ich schon ein paar Mal geschrieben habe, frittiere ich nicht gerne, aber Fasnachtsgebäcke werden frittiert, mit einigen Ausnahmen... &lt;a href=&quot;https://frangipani.raiano.ch/tags/carnevale/&quot; target=&quot;_blank&quot;&gt;Hier&lt;/a&gt; findet ihr weitere Fasnachtsrezepte, da ist für jeden etwas dabei!&lt;/p&gt;
-&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
-  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
-    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
-      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Fasnachtschüechli&lt;/span&gt;
-      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Süsses&lt;/span&gt;
-      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2022-02-22-fasnachtschuechli/header.jpeg&quot;/&gt;
-      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
-      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Fasnachtschüechli hauchdünn, super knusprig und potentielle Suchtgefahr. Das ist ein Fasnachtsgebäck aus der schweizer Tradition und in dieser Zeit überall zu finden.&lt;/span&gt;
-      &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
-      &lt;table&gt;
-        &lt;tbody&gt;
-          &lt;tr&gt;     
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;        
-            &lt;td&gt;200-250gr&lt;/td&gt;
-            &lt;td&gt;Mehl&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 Teelöffel&lt;/td&gt;
-            &lt;td&gt;Salz&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;2&lt;/td&gt;
-            &lt;td&gt;Eier&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;3 Esslöfel&lt;/td&gt;
-            &lt;td&gt;Sahne&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1l&lt;/td&gt;
-            &lt;td&gt;Öl zum frittieren&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qs&lt;/td&gt;
-            &lt;td&gt;Puderzucker&lt;/td&gt;
-          &lt;/tr&gt;
-        &lt;/tbody&gt;
-      &lt;/table&gt;
-      &lt;br&gt;&lt;/br&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h3&gt;
-  &lt;font color=&quot;grey&quot;&gt;
-    &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt; Zubereitung
-&lt;/h3&gt;
-
-&lt;p&gt;200 g Mehl, Salz, Eier und Sahne in eine Schüssel geben und alles mit den Händen kneten. Wenn es zu klebrig ist, fügt mehr Mehl hinzu (die Mehlmenge hängt von der Grösse der Eier ab). Sobald ihr einen glatten und homogenen Teig habt, mit einer heissen Schüssel abdecken und eine halbe Stunde ruhen lassen.
-&lt;br /&gt;
-Den Teig in 15 gleiche Teile teilen und mit einem Tuch abdecken. Nehmt jeweils ein Stück Teig und rollt es mit einem Nudelholz mit Hilfe von etwas Mehl aus. Ihr benötigt eine sehr dünne Scheibe. Mit dem restlichen Teig ebenso verfahren und die Teigscheiben mit Tüchern abdecken, damit sie nicht austrocknen.
-&lt;br /&gt;
-Bringt das Öl in einem grossen Topf (oder Fritteuse) auf 180°C, nehmt dann jeweils eine Scheibe und zieht sie mit den Händen vorsichtig auseinander, um sie noch dünner zu machen.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-02-22-fasnachtschuechli/stendere.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-02-22-fasnachtschuechli/sottile.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Eine Teigscheibe nach der anderen in das Öl tauchen und sofort mit einer Zange nach unten drücken, die Bläschen sind typisch für diese &lt;strong&gt;Fasnachtschüechli&lt;/strong&gt;. Nach ca. 30s das Chüechli wenden. Es sollte schön goldbraun sein, nicht zu dunkel, aber auch nicht zu hell, sonst wird er nicht knusprig. Legt die &lt;strong&gt;Fasnachtschüechli&lt;/strong&gt; auf einen Teller mit Küchenpapier, das das überschüssige Öl aufnimmt, und dann auf ein Auskühlgitter.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-02-22-fasnachtschuechli/friggere.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-02-22-fasnachtschuechli/frittelle.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Serviert diese &lt;strong&gt;Fasnachtschüechli&lt;/strong&gt; mit viel Puderzucker bestreut und esst sie sofort. Sie können 2-3 Tage in einem luftdichten Behälter aufbewahrt werden, aber frisch sind sie am besten.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-02-22-fasnachtschuechli/risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-02-22-fasnachtschuechli/risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-02-22-fasnachtschuechli/risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-02-22-fasnachtschuechli/risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-02-22-fasnachtschuechli/risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-02-22-fasnachtschuechli/risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-02-22-fasnachtschuechli/risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-02-22-fasnachtschuechli/risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;h4&gt;Buon appetito
-  &lt;font color=&quot;red&quot;&gt;
-    &lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt;
-&lt;/h4&gt;</content>
-    <summary type="html" xml:lang="de">
-    
-      &lt;p&gt;&lt;img src=&quot;../2022-02-22-fasnachtschuechli/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Fasnachtschüechli&lt;/strong&gt; hauchdünn, s
-    
-    </summary>
-    
-      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
-    
-      <category term="Piccola Pasticceria" scheme="https://frangipani.raiano.ch/categories/Dolce/Piccola-Pasticceria/"/>
-    
-    
-      <category term="carnevale" scheme="https://frangipani.raiano.ch/tags/carnevale/"/>
-    
-      <category term="frittelle" scheme="https://frangipani.raiano.ch/tags/frittelle/"/>
     
   </entry>
   

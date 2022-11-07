@@ -9,8 +9,24 @@
 
 
     <url>
+        <loc>https://frangipani.raiano.ch/2022-11-08-sussmost-kuchen/</loc>
+        <lastmod>2022-11-07T10:44:26.129Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://frangipani.raiano.ch/2013-11-10-sfoglia-di-mele-con-crema-alla-vaniglia-de/</loc>
         <lastmod>2022-11-01T19:55:43.439Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2022-11-08-torta-al-mosto-di-mele/</loc>
+        <lastmod>2022-10-30T15:50:47.763Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
