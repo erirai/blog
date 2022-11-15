@@ -1,75 +1,74 @@
 ---
-title: Vanillegipferl vegani
+title: "Vanillegipferl vegani"
 date: 2014-12-05
 tags:
 - biscotti
 - nocciole
-- vaniglia
 - vegan
 - natale
 categories:
 - Dolce
 - Biscotti
+label: 2014-12-05-vanillegipferl
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](header.jpeg "frangipani © Erica")
 
-Oggi ho continuato con i biscotti e ho fatto questi Vanillegipferl che sono dei cornettini alla vaniglia... sinceramente non so se sono originari dell'Austria o della Germania so solo che sono buonissimi, forse un po' asciutti ma sono ottimi col caffé o con il latte!
-
+**Vanillegipferl vegani** dei semplicissimi biscotti secchi alle nocciole e vaniglia a forma di luna. Anzi a forma di cornettini, perché Gipferl sarebbe il nome tedesco/austriaco del cornetto.
+<br />
+Oggi si continua con la produzione di biscotti, ma con un grandissimo classico... sinceramente non so se sono originari dell'Austria o della Germania so solo che sono buonissimi, forse un po' asciutti ma sono biscotti secchi, quindi ottimi col caffé, con il latte o con un buon té caldo! Mi ricordo che quando ero piccola mia Mamma li comprava spesso e mi piacevano tantissimo, ma non li avevamo mai fatti noi. Devo dire che è veramente semplice, ci vuole solo un pochino di tempo per dargli la forma, ma niente di che. Infatti fare i biscotti è una cosa meditativa, non si fanno di fretta!
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Vanillegipferl vegani</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Vanillegipferl vegani, dei semplicissimi biscotti secchi alle nocciole e vaniglia a forma di luna.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
-          <tr>
-            <td colspan="2"><b>Impasto</b></td>
-          </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>350gr</td>
             <td>farina</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>125gr</td>
             <td>nocciole macinate</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>100gr</td>
             <td>zucchero a velo</td>
           </tr>
-          <tr>
-            <td>2 bustine</td>
-            <td>zucchero vanigliato</td>
-          </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
             <td>1 pizzico</td>
             <td>sale</td>
           </tr>
-          <tr>
+          <tr itemprop="recipeIngredient">
+            <td>1 cucchiaino</td>
+            <td>vaniglia</td>
+          </tr>
+          <tr itemprop="recipeIngredient">
             <td>250gr</td>
             <td>burro o margarina</td>
           </tr>
-          <tr style="height: 15px;"></tr>
-          <tr>          
-            <td colspan="2"><b>Spolveramento</b></td>
-          </tr>      
-          <tr>
-            <td>qb</td>
+          <tr itemprop="recipeIngredient">
+            <td>2 cucchiai colmi</td>
             <td>zucchero semolato</td>
           </tr>
-          <tr>
-            <td>qb</td>
-            <td>zucchero a velo</td>
+          <tr itemprop="recipeIngredient">
+            <td>2 cucchiai colmi</td>
+            <td>zucchero a velo setacciato</td>
           </tr>
-          <tr>
-            <td>qb</td>
-            <td>zucchero vanigliato</td>      
+          <tr itemprop="recipeIngredient">
+            <td>2 bustine</td>
+            <td>zucchero vanigliato</td>
           </tr>
         </tbody>
       </table>
       <br></br>
-      <i class="pull-right" style="font-size: 80%;">per ca. 70 biscotti</i>
+      <i class="pull-right" style="font-size: 80%;" itemprop="recipeYield">per ca. 70 biscotti</i>
     </div>
   </div>
 </div>
@@ -81,20 +80,52 @@ Oggi ho continuato con i biscotti e ho fatto questi Vanillegipferl che sono dei 
   </font> Preparazione
 </h3>
 
-Mettete tutti gli ingredienti asciutti per l'impasto in una ciotola e mescolate il tutto con la frusta a mano, poi aggiungete la margarina e impastate velocemente con le mani finché avrete un panetto omogeneo. Avvolgetelo con della pellicola trasparente e mettete in frigo per almeno un'ora.
-![](impasto.jpg "frangipani © Erica")
+Mettete farina, nocciole, zucchero a velo (100gr), sale e vaniglia in una ciotola e mescolate il tutto con la frusta a mano, poi aggiungete la margarina e impastate velocemente con le mani finché avrete un panetto omogeneo. Avvolgetelo con della pellicola trasparente e mettete in frigo per almeno un'ora.
 
-Passata l'ora prendete il panetto e poco a poco fate dei salsicciotti, poi tagliate dei pezzi da ca. 5cm, lavorate ogni pezzettino con il palmo della mano per formare un cornettino.
-![](forme.jpg "frangipani © Erica")
+Passata l'ora prendete il panetto e poco a poco fate dei salsicciotti, poi tagliate dei pezzi da ca. 5cm, lavorate ogni pezzettino con il palmo della mano per formare i cornettini.
+<p>
+  <div style="width: 100%; margin-bottom: 0">
+    <img style="float: left; width: 49%; margin-right: 1%" src="impasto.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="forme.jpeg" alt="" title="frangipani © Erica" />
+    <div style="clear: both;"></div>
+  </div>
+</p>
 
 Metteteli su di una teglia con sotto della carta forno e infornateli nel forno preriscaldato a 170°C ventilato per ca. 15min.
-![](teglia.jpg "frangipani © Erica")
 
-Mentre i biscotti sono in forno preparate lo zucchero vanigliato: prendete dello zucchero a velo, dello zucchero semolato e dello zucchero vanigliato e mescolate il tutto. Appena sfornate i biscotti ricoprite molto generosamente i cornetti con lo zucchero vanigliato e fateli raffreddare completamente così ricoperti.
-![](zucchero.jpg "frangipani © Erica")
+Mentre i biscotti sono in forno preparate lo zucchero vanigliato: prendete lo zucchero a velo, lo zucchero semolato e lo zucchero vanigliato (o della vaniglia macinata) e mescolate il tutto. Appena sfornate i biscotti ricoprite generosamente i cornetti con lo zucchero vanigliato e fateli raffreddare completamente così.
+<p>
+  <div style="width: 100%; margin-bottom: 0">
+    <img style="float: left; width: 49%; margin-right: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="zucchero.jpeg" alt="" title="frangipani © Erica" />
+    <div style="clear: both;"></div>
+  </div>
+</p>
 
 Fate attenzione quando togliete i biscotti dalla teglia che si rompono molto facilmente e non sbatteteli troppo in modo che rimanga più zucchero possibile sui biscotti. Se non mi sbaglio in Italia si trova lo zucchero a velo vanigliato che qui non esiste, va benissimo anche quello con un po' di zucchero semolato.
-![](risultato.jpg "frangipani © Erica")
+<p>
+  <div style="width: 100%; margin-bottom: 0">
+    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <div style="clear: both;"></div>
+  </div>
+</p>
+
+<p>
+  <div style="width: 100%; margin-bottom: 0">
+    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <div style="clear: both;"></div>
+  </div>
+</p>
+
+<p>
+  <div style="width: 100%; margin-bottom: 0">
+    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <div style="clear: both;"></div>
+  </div>
+</p>
 
 
 <h4>Buon appetito

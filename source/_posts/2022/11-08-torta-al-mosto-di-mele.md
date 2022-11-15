@@ -8,7 +8,7 @@ tags:
 categories:
 - Dolce
 - Torte
-label: 2022-torta-al-mosto-di-mele
+label: 2022-11-08-torta-al-mosto-di-mele
 lang: it 
 ---
 ![](header.jpeg "frangipani © Erica")
