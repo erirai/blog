@@ -7,14 +7,14 @@ tags:
 categories:
 - Dolce
 - Biscotti
-lang: it
+label: 2013-12-05-mailanderli
+lang: it 
 ---
-![](header.jpg "frangipani © Erica")
+![](header.jpeg "frangipani © Erica")
 
 **Mailänderli** (Biscotti Svizzeri al burro e agrumi), dei biscotti natalizi della tradizione svizzera friabili, morbidi e scioglievoli.
 
-Oggi ho fatto i primi biscotti di Natale :-) Secondo me sono i più facili da fare, hanno un leggero gusto di limone e sono buonissimi! Nei prossimi giorni ne farò altri...
-
+Oggi ho fatto i primi biscotti di Natale :-) Secondo me sono i più facili da fare, hanno un leggero gusto agrumato e sono buonissimi! Nei prossimi giorni ne farò altri...
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
@@ -29,9 +29,13 @@ Oggi ho fatto i primi biscotti di Natale :-) Secondo me sono i più facili da fa
         <tbody>
           </tr>      
           <tr itemprop="recipeIngredient">
-            <td>1 limone</td>
-            <td>solo la scorza</td>
-          </tr>      
+            <td>1</td>
+            <td>limone solo la scorza</td>
+          </tr>
+          <tr itemprop="recipeIngredient">
+            <td>1</td>
+            <td>arancia solo la scorza</td>
+          </tr>     
           <tr itemprop="recipeIngredient">
             <td>250gr</td>
             <td>burro</td>
@@ -46,15 +50,15 @@ Oggi ho fatto i primi biscotti di Natale :-) Secondo me sono i più facili da fa
           </tr>      
           <tr itemprop="recipeIngredient">
             <td>500gr</td>
-            <td>farina</td>       
+            <td>farina</td>
+          </tr>      
+          <tr itemprop="recipeIngredient">
+            <td>1 pizzico</td>
+            <td>sale</td>     
           </tr>      
           <tr itemprop="recipeIngredient">
             <td>qb</td>
             <td>acqua</td>        
-          </tr>      
-          <tr itemprop="recipeIngredient">
-            <td>qb</td>
-            <td>sale</td>
           </tr>
         </tbody>
       </table>
@@ -71,33 +75,31 @@ Oggi ho fatto i primi biscotti di Natale :-) Secondo me sono i più facili da fa
   </font> Preparazione
 </h3>
 
-Mettete la scorza di limone, il burro, lo zucchero, 2 uova intere, un albume (non buttate via il tuorlo, vi servirà dopo) ed un pizzico di sale in una ciotola e mescolate il tutto con il mixer finché il composto sarà spumoso. Poi aggiungete la farina e impastate velocemente con le mani. L'impasto risulterà molto appiccicoso... Avvolgetelo con della pellicola trasparente e mettetelo in frigo per minimo due ore.
-![](impasto.jpg "frangipani © Erica")
+Mettete la scorza di limone e d'arancia, il burro, lo zucchero, 2 uova intere, un albume (non buttate via il tuorlo, vi servirà dopo) ed un pizzico di sale in una ciotola e mescolate il tutto con il mixer finché il composto sarà spumoso. Poi aggiungete la farina e impastate velocemente con le mani. L'impasto risulterà molto appiccicoso... Avvolgetelo con della pellicola trasparente e mettetelo in frigo per minimo due ore.
 
 Quando l'impasto si sarà indurito bene, prendete un pezzetto e stendetelo con il mattarello, dovrà avere uno spessore di 1cm. Avrete bisogno di abbastanza farina per non appiccicarsi tutto.
-![](mattarello.jpg "frangipani © Erica")
 
 Prima d'infornare i Mailänderli, prendete il tuorlo che avevate messo da parte, aggiungete un po' d'acqua e mescolate bene, poi con un pennello spalmatelo sui biscotti.
-![](glasur.jpg "frangipani © Erica")
+<p>
+  <div style="width: 100%; margin-bottom: 0">
+    <img style="float: left; width: 32%; margin-right: 1%;" src="impasto.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="mattarello.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-left: 1%;" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <div style="clear: both"></div>
+  </div>
+</p>
 
-![](crudi.jpg "frangipani © Erica")
+Infornate i Mailänderli nel forno preriscaldato a 180°C ventilato per circa 13min, poi passateli su di una griglia e fateli raffreddare.
+<p>
+  <div style="width: 100%; margin-bottom: 0">
+    <img style="float: left; width: 32%; margin-right: 1%;" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-left: 1%;" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <div style="clear: both"></div>
+  </div>
+</p>
 
-Infornate i Mailänderli nel forno preriscaldato a 180°C per ca 13min, poi passateli su di una griglia e fateli raffreddare.
-![](risultato1.jpg "frangipani © Erica")
-
-![](risultato2.jpg "frangipani © Erica")
-
-![](risultato3.jpg "frangipani © Erica")
-
-
-<h3>
-  <font color="#FFCC00">
-    <i class="fa fa-lightbulb-o"></i>
-  </font> P.S.
-</h3>
-
-
-Questa è la ricetta classica. Volendo potete aggiungere anche della scorza d'arancia o mettere una glassa di limone e zucchero a velo invece dell'uovo... Potete preparare l'impasto anche il giorno prima, anzi è anche meglio!
+![](risultato2.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">
