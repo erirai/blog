@@ -9,6 +9,118 @@
 
 
     <url>
+        <loc>https://frangipani.raiano.ch/2022-12-01-lebkuchen-whoopie-pies/</loc>
+        <lastmod>2022-11-30T08:25:50.552Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2022-12-01-whoopie-pies-al-pan-di-zenzero/</loc>
+        <lastmod>2022-11-30T08:24:41.205Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2014-12-16-huttenkase-hornchen-mit-marmelade/</loc>
+        <lastmod>2022-11-22T17:47:15.431Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2014-12-16-cornettini-con-fiocchi-di-latte-e-marmellata/</loc>
+        <lastmod>2022-11-22T17:42:38.825Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2014-12-04-knusprigweiche-zitronenkekse/</loc>
+        <lastmod>2022-11-22T17:40:29.813Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2014-12-04-orangen-spritzgeback/</loc>
+        <lastmod>2022-11-22T17:28:16.154Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2014-12-04-biscotti-al-burro-e-arancia/</loc>
+        <lastmod>2022-11-22T17:26:13.164Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2013-12-09-zitronen-spritzgeback/</loc>
+        <lastmod>2022-11-22T17:22:34.235Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2013-12-09-frollini-al-limone/</loc>
+        <lastmod>2022-11-22T17:20:11.372Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2013-12-09-dischetti-al-cioccolato/</loc>
+        <lastmod>2022-11-22T17:07:21.661Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2013-12-05-mailanderli-de/</loc>
+        <lastmod>2022-11-22T16:31:13.050Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2013-12-05-mailanderli/</loc>
+        <lastmod>2022-11-22T16:31:06.347Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2013-12-09-einfache-schokokekse/</loc>
+        <lastmod>2022-11-22T15:37:19.345Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2014-12-04-biscotti-morbidi-al-limone/</loc>
+        <lastmod>2022-11-18T14:11:37.259Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://frangipani.raiano.ch/2014-12-05-vanillegipferl-de/</loc>
         <lastmod>2022-11-15T15:10:13.362Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -385,32 +497,8 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2013-12-09-dischetti-al-cioccolato-immersi-nel-cioccolato/</loc>
-        <lastmod>2022-06-21T13:26:38.066Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2013-12-09-anelli-al-limone/</loc>
-        <lastmod>2022-06-21T13:24:15.041Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://frangipani.raiano.ch/2013-12-06-treccia-russa/</loc>
         <lastmod>2022-06-21T13:22:51.907Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2013-12-05-mailanderli/</loc>
-        <lastmod>2022-06-21T13:20:57.900Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -3625,14 +3713,6 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2014-12-16-cornettini-con-fiocchi-di-latte-e-marmellata/</loc>
-        <lastmod>2018-05-02T12:44:50.281Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://frangipani.raiano.ch/2014-08-16-cupcakes-con-acqua-di-rose-e-cioccolato-bianco/</loc>
         <lastmod>2018-04-02T20:46:02.522Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -4003,14 +4083,6 @@
     <url>
         <loc>https://frangipani.raiano.ch/2015-08-01-cornettini-ripieni-di-philadelphia-erbe-aromatiche-e-pomodori-secchi/</loc>
         <lastmod>2018-04-02T20:16:59.867Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2014-12-04-palline-al-limone/</loc>
-        <lastmod>2018-04-02T20:13:06.307Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -5146,14 +5218,6 @@
 
     <url>
         <loc>https://frangipani.raiano.ch/2014-11-08-samosa-masala-con-salsa-chili/</loc>
-        <lastmod>2017-08-20T12:10:57.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2014-12-04-frollini-all-arancia/</loc>
         <lastmod>2017-08-20T12:10:57.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
