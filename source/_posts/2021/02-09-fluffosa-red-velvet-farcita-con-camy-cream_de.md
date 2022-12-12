@@ -129,7 +129,7 @@ Den Red Velvet Chiffon Cake kommt für 70-75min in den vorgeheizten Ofen bei 160
   </div>
 </p>
 
-In der Zwischenzeit die Mascarponecrème zubereiten. Alle Zutaten dafür, kalt aus dem Kühlschrank, in die Küchenmaschine geben und so lange rühren, bis die Creme schön steif geworden ist (wenn die Schüssel und der Schneebesen auch kalt sind, geht es noch schneller). Mascarponecrème für 2h im Kühlschrank ruhen lassen.
+In der Zwischenzeit die Mascarponecrème zubereiten. Alle Zutaten dafür, kalt aus dem Kühlschrank, in die Küchenmaschine geben und so lange rühren, bis die Crème schön steif geworden ist (wenn die Schüssel und der Schneebesen auch kalt sind, geht es noch schneller). Mascarponecrème für 2h im Kühlschrank ruhen lassen.
 <br />
 Nun den Chiffon Cake waagrecht in 3 gleich dicke Scheiben schneiden. Die Mascarponecrème in ein Spritzbeutel mit glatter, runder Tülle geben. Nehmt die erste Scheibe und setzt sie auf einen Servierteller, dann bedeckt die Schnittfläche mit Crème-Tuffs. Die mittlere Scheibe vorsichtig darauf legen und wieder mit Crème-Tuffs bedecken. Die letzte Scheibe darauf legen und mit den Crème-Tuffs fertigstellen.
 <p>
