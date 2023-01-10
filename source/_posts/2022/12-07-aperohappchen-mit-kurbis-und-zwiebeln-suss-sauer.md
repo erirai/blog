@@ -127,7 +127,7 @@ Jetzt wird gestapelt: Blätterteigscheibe nehmen, darauf kommt eine Kürbisschei
   </div>
 </p>
 
-![](../2022-12-07-bocconcini-da-aperitivo-con-zucca-e-cipolle-in-agrodolce/header.jpeg "frangipani © Erica")
+![](../2022-12-07-bocconcini-da-aperitivo-con-zucca-e-cipolle-in-agrodolce/risultato5.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">

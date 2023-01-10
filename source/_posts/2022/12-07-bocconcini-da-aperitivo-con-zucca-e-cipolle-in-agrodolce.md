@@ -127,7 +127,7 @@ Adesso è il momento di impilare: prendete una disco di pasta sfoglia, metteteci
   </div>
 </p>
 
-![](header.jpeg "frangipani © Erica")
+![](risultato5.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
