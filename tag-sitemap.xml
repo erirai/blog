@@ -3,6 +3,27 @@
 
 
     <url>
+        <loc>https://frangipani.raiano.ch/tags/piccola-pasticceria/</loc>
+        <lastmod>2023-02-07T13:42:53.632Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/tags/san-valentino/</loc>
+        <lastmod>2023-02-07T13:42:53.632Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/tags/festa-della-mamma/</loc>
+        <lastmod>2023-02-07T13:42:53.632Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://frangipani.raiano.ch/tags/inverno/</loc>
         <lastmod>2023-01-24T15:45:43.443Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -60,13 +81,6 @@
 
     <url>
         <loc>https://frangipani.raiano.ch/tags/dolce/</loc>
-        <lastmod>2022-12-08T17:03:22.499Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/tags/san-valentino/</loc>
         <lastmod>2022-12-08T17:03:22.499Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -144,13 +158,6 @@
 
     <url>
         <loc>https://frangipani.raiano.ch/tags/crema-pasticcera/</loc>
-        <lastmod>2022-11-01T19:55:43.439Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/tags/festa-della-mamma/</loc>
         <lastmod>2022-11-01T19:55:43.439Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -313,13 +320,6 @@
     <url>
         <loc>https://frangipani.raiano.ch/tags/fragole/</loc>
         <lastmod>2022-06-23T09:37:01.819Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/tags/piccola-pasticceria/</loc>
-        <lastmod>2022-06-23T09:36:53.501Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

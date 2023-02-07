@@ -4,7 +4,7 @@
   
   <link href="https://frangipani.raiano.ch/it/atom.xml" rel="self"/>
   <link href="https://frangipani.raiano.ch/"/>
-  <updated>2023-01-24T15:38:07.395Z</updated>
+  <updated>2023-02-07T13:28:21.193Z</updated>
   <id>https://frangipani.raiano.ch/</id>
   
   <author>
@@ -13,6 +13,203 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title xml:lang="it">Éclairs con Crema Diplomatica e Cioccolato Ruby</title>
+    <link href="https://frangipani.raiano.ch/2023-02-07-eclairs-con-crema-diplomatica-e-cioccolato-ruby/"/>
+    <id>https://frangipani.raiano.ch/2023-02-07-eclairs-con-crema-diplomatica-e-cioccolato-ruby/</id>
+    <published>2023-02-06T23:00:00.000Z</published>
+    <updated>2023-02-07T13:28:21.193Z</updated>
+    <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Éclairs con Crema Diplomatica e Cioccolato Ruby&lt;/strong&gt; dei dolcetti francesi delicatissimi, perfetti per San Valentino, anzi no, vanno bene sempre! Gli Éclairs non sono altro che la versione allungata dei nostri Bignè. La Pasta Choux è sempre quella e invece di farcirli solo con la panna montata, ho deciso di fare la Crema Diplomatica (o Chantilly). Per dargli una nota fruttata (in assenza di frutti di bosco al momento), li ho glassati con il cioccolato Ruby, che gli da anche quel tocco rosa molto romantico.&lt;/p&gt;
+&lt;p&gt;Ok, lo so, la ricetta potrebbe sembrare difficile ed articolata, ma ho deciso di uscire dalla mia comfort zone e provare a fare delle ricette che non avevo il coraggio di fare. Per prima cosa ho proprio deciso di fare la Pasta Choux, mai fatta prima, quindi questa è una vera è proprio Première! Anche se devo dire che con la Pasta Choux non era solo questione di coraggio, ma avevo un leggero trauma con i Bignè. Mi ricordo che tanti anni fa i Bignè, ma soprattutto i Profiteroles, si mangiavano molto spesso e a me non piacevano per niente perchè erano farciti con la panna montata e a me non piace. Quindi nella mia testa avevo chiuso con la Pasta Choux. Ma la cosa non mi piaceva, perché la Pasta Choux a se è neutra come gusto, il gusto si conferisce con il ripieno e la glassa, quindi mi sono data una mossa e mi sono detta di provarci almeno... e meno male devo dire! Infatti mi sono piaciuti tantissimissimo con la Crema Diplomatica ed il cioccolato Ruby! Mi sono piaciuti così tanto, che per il compleanno di mia sorella ho provato addirittura a fare i Profiteroles e sono venuti veramente ottimi!&lt;/p&gt;
+&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
+  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
+    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
+      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Éclairs con Crema Diplomatica e Cioccolato Ruby&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Dolce&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Éclairs con Crema Diplomatica e Cioccolato Ruby dei dolcetti francesi delicatissimi, perfetti per San Valentino, anzi no, vanno bene sempre!&lt;/span&gt;
+      &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
+      &lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Pasta Choux&lt;/b&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;250ml&lt;/td&gt;
+            &lt;td&gt;acqua&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;75gr&lt;/td&gt;
+            &lt;td&gt;burro&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 cucchiaio&lt;/td&gt;
+            &lt;td&gt;zucchero&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 pizzico&lt;/td&gt;
+            &lt;td&gt;sale&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;150gr&lt;/td&gt;
+            &lt;td&gt;farina&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;4&lt;/td&gt;
+            &lt;td&gt;uova medie&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr style=&quot;height: 15px;&quot;&gt;&lt;/tr&gt;
+          &lt;tr&gt;          
+            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Crema Diplomatica&lt;/b&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;6&lt;/td&gt;
+            &lt;td&gt;tuorli d&#39;uovo&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;      
+            &lt;td&gt;100gr&lt;/td&gt;
+            &lt;td&gt;zucchero&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;40gr&lt;/td&gt;
+            &lt;td&gt;fecola di patate o amido di mais&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 pizzico&lt;/td&gt;
+            &lt;td&gt;sale&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;500gr&lt;/td&gt;
+            &lt;td&gt;latte&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1&lt;/td&gt;
+            &lt;td&gt;stecca di vaniglia&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;500ml&lt;/td&gt;
+            &lt;td&gt;panna da montare&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;50gr&lt;/td&gt;
+            &lt;td&gt;zucchero a velo&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;200gr&lt;/td&gt;
+            &lt;td&gt;cioccolato ruby&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;
+      &lt;br&gt;&lt;/br&gt;
+      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot;&gt;per ca. 15 Éclairs&lt;/i&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h3&gt;
+  &lt;font color=&quot;grey&quot;&gt;
+    &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt; Preparazione
+&lt;/h3&gt;
+
+&lt;p&gt;Per prima cosa preparate la crema pasticcera: in una coppa mescolate i tuorli con lo zucchero e l&amp;#39;amido o la fecola finché avrete un composto bello liscio. A parte portate quasi a bollore il latte con la stecca di vaniglia precedentemente aperta, poi sempre mescolando, versate il latte bollente nella coppa con i tuorli. Mescolate bene e versate il tutto di nuovo nella pentola e a temperatura moderata e sempre mescolando, cuocete finché si sarà addensata. Versate la crema pasticcera in una coppa, coprite con la pellicola a contatto e fate raffreddare completamente.
+&lt;br /&gt;
+Iniziate a montare la panna, quando inizia ad addensarsi aggiungete lo zucchero a velo setacciato e continuate a montere finché sarà ben montata. Prendete la crema pasticcera, date una mescolata e delicatamente con un movimento dall&amp;#39;alto verso il basso incorporate poca alla volta la panna montata. Coprite bene e tenete in frigo la Crema Diplomatica, io l&amp;#39;ho preparate il giorno prima.
+&lt;img src=&quot;chantilly.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Adesso passiamo alla Pasta Choux: in una pentola mettete acqua, burro, zucchero e sale e portate ad ebollizione. Aggiungete la farina tutta d&amp;#39;un colpo e con un cucchiaio di legno mescolate facendo compattare il tutto. Fate cuocere la pasta choux ancora per qualche minuto sempre mescolando, si dovrà staccare completamente dalla pentola e lasciare un leggero strato biancastro sul fondo. Passate il composto in una coppa capiente, allargatelo e fatelo raffreddare.
+&lt;br /&gt;
+Una volta freddo vanno incorporate le uova. Io preferisco farlo a mano con un cucchiaio di legno (ci vuole più tempo, ma si sente meglio la consistenza). Dunque aggiungete un uovo alla volta, il prossimo si aggiunge solo quando il precedente sarà completamente assorbito. A questo punto passate la pasta choux in una sacca da pasticcere con bocchetta larga liscia o a stella. Prendete un foglio di carta forno e disegnate delle linee da 10cm ben distanti una dall&amp;#39;altra (gli Éclairs gonfieranno molto in cottura). Per la mia teglia ho fatto due file da 5 linee. Questo procedimento vi aiuterà a fare degli Éclairs dritti e tutti della stessa grandezza. Girate il foglio e appoggiatelo sulla teglia. Adesso prendete la sacca da pasticcere e formate i salsicciotti direttamente sulla linea, con un dito leggermente umido schiacciate un po&amp;#39; la puntina finale.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 32%; margin-right: 1%;&quot; src=&quot;choux.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 32%; margin-right: 1%; margin-left: 1%;&quot; src=&quot;choux2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 32%; margin-left: 1%;&quot; src=&quot;teglia.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Infornate gli Éclairs nel forno preriscaldato a 210°C statico per 25min, spegnete il forno, apritelo pochissimissimo e lasciateli dentro ancora per 15min poi sfornateli e fateli raffreddare completamente.
+&lt;br /&gt;
+Mettete la crema diplomatica in una sacca da pasticcere con punta stretta. Una volta freddi potete scegliere se farcirli così interi o tagliandoli a metà. Per farcirli interi, con un coltello fate sotto gli Éclairs tre buchini poi riempite con la crema aiutandovi con la sacca da pasticcere. Per la seconda variante, tagliate a metà per il lungo gli Éclairs (tagliandoli a metà vedete se sono riusciti bene, infatti devono essere vuoti dentro), farcite la parte di sotto con la crema, sempre con l&amp;#39;aiuto della sacca da pasticcere, poi chiudete con la parte superiore. Una volta farciti tutti, metteteli in frigo.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 32%; margin-right: 1%;&quot; src=&quot;eclairs.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 32%; margin-right: 1%; margin-left: 1%;&quot; src=&quot;tagliati.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 32%; margin-left: 1%;&quot; src=&quot;farciti.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Così sono già ottimi, magari con una bella spolverata di zucchero a velo ma vi consiglio di glassarli con del cioccolato Ruby per dargli un tocco fruttato. Dunque fate sciogliere a Bagnomaria il cioccolato Ruby poi immergete la parte superiore degli Éclairs nel cioccolato, fatelo asciugare prima di servirli.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato9.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato10.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;risultato11.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;h4&gt;Buon appetito
+  &lt;font color=&quot;red&quot;&gt;
+    &lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt;
+&lt;/h4&gt;</content>
+    <summary type="html" xml:lang="it">
+    
+      &lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Éclairs con Crema Diplomatica e Cioccolato Ruby&lt;/strong&gt; dei dolcetti f
+    
+    </summary>
+    
+      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
+    
+      <category term="Piccola Pasticceria" scheme="https://frangipani.raiano.ch/categories/Dolce/Piccola-Pasticceria/"/>
+    
+    
+      <category term="festa della mamma" scheme="https://frangipani.raiano.ch/tags/festa-della-mamma/"/>
+    
+      <category term="san valentino" scheme="https://frangipani.raiano.ch/tags/san-valentino/"/>
+    
+      <category term="piccola pasticceria" scheme="https://frangipani.raiano.ch/tags/piccola-pasticceria/"/>
+    
+  </entry>
   
   <entry>
     <title xml:lang="it">Girelle vegane Mele e Cannella</title>
@@ -3170,181 +3367,6 @@ Con la frolla rimasta fate tanti biscottini piccoli che vi serviranno per decora
       <category term="crostata" scheme="https://frangipani.raiano.ch/tags/crostata/"/>
     
       <category term="limone" scheme="https://frangipani.raiano.ch/tags/limone/"/>
-    
-  </entry>
-  
-  <entry>
-    <title xml:lang="it">Frittelle di Zucchine vegane con Tzatziki</title>
-    <link href="https://frangipani.raiano.ch/2022-06-22-frittelle-di-zucchine-vegane-e-tzatziki/"/>
-    <id>https://frangipani.raiano.ch/2022-06-22-frittelle-di-zucchine-vegane-e-tzatziki/</id>
-    <published>2022-06-21T22:00:00.000Z</published>
-    <updated>2022-06-20T09:32:30.191Z</updated>
-    <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Frittelle di Zucchine vegane con Tzatziki&lt;/strong&gt; un piatto estivo facile, veloce e leggero. Si può preparare tutto in anticipo, senza problema. Le frittelle sono pericolosissime perché una tira l&amp;#39;altra e poi con la Tzatziki sono proprio il massimo. La ricetta delle frittelle è di mia Mamma, li fa così da sempre e io le adoro. Da qualche anno ormai le servo sempre con questa salsa ed è un pasto molto gradito da tutti. Sono ottime anche per farcire panini...
-&lt;br /&gt;
-Questo è uno di quei piatti estivi che metti in tavola con un&amp;#39;insalata di pomodori e del pane e hai già mangiato. Non serve altro. È il bello dell&amp;#39;estate... in estate non serve molto per essere felici, infatti questo piatto mi rende molto felice!&lt;/p&gt;
-&lt;p&gt;Quasi due settimane fa siamo stati al fiume, sono stata molto coraggiosa e ho fatto il primo bagno della stagione. L&amp;#39;acqua era gelida e il mio ginocchio non ha gradito molto, ma l&amp;#39;ho fatto! Che sia messo agli atti. Dopo l&amp;#39;estate scorsa ho pensato fosse saggio approfittarne che non si sa mai poi come va a finire... &lt;/p&gt;
-&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
-  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
-    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
-      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Frittelle di Zucchine vegane con Tzatziki&lt;/span&gt;
-      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Salato&lt;/span&gt;
-      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;header.jpeg&quot;/&gt;
-      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
-      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Frittelle di Zucchine vegane con Tzatziki un piatto estivo facile, veloce e leggero. Si può preparare tutto in anticipo, senza problema.&lt;/span&gt;
-      &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
-      &lt;table&gt;
-        &lt;tbody&gt;
-          &lt;tr&gt;     
-            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Frittelle&lt;/b&gt;&lt;/td&gt;
-          &lt;/tr&gt; 
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;3&lt;/td&gt;
-            &lt;td&gt;zucchine mediograndi&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;6 cucchiai&lt;/td&gt;
-            &lt;td&gt;farina&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qb&lt;/td&gt;
-            &lt;td&gt;acqua&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1/2 cucchiaino&lt;/td&gt;
-            &lt;td&gt;bicarbonato&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 cucchiaio&lt;/td&gt;
-            &lt;td&gt;prezzemolo tritato&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;2 foglioline&lt;/td&gt;
-            &lt;td&gt;menta&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qb&lt;/td&gt;
-            &lt;td&gt;olio per friggere&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qb&lt;/td&gt;
-            &lt;td&gt;sale&lt;/td&gt;
-          &lt;tr&gt;
-            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Tzatziki&lt;/b&gt;&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1&lt;/td&gt;
-            &lt;td&gt;cetriolo grande&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;300gr&lt;/td&gt;
-            &lt;td&gt;yogurt bianco non zuccherato (anche veg)&lt;/td&gt;
-           &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qb&lt;/td&gt;
-            &lt;td&gt;sale&lt;/td&gt;
-           &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qb&lt;/td&gt;
-            &lt;td&gt;olio evo&lt;/td&gt; 
-           &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qb&lt;/td&gt;
-            &lt;td&gt;prezzemolo&lt;/td&gt;
-           &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qb&lt;/td&gt;
-            &lt;td&gt;menta&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qb&lt;/td&gt;
-            &lt;td&gt;succo di limone&lt;/td&gt;
-           &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qb&lt;/td&gt;
-            &lt;td&gt;aglio (in polvere)&lt;/td&gt;         
-          &lt;/tr&gt;
-        &lt;/tbody&gt;
-      &lt;/table&gt;
-      &lt;br&gt;&lt;/br&gt;
-      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot; itemprop=&quot;recipeYield&quot;&gt;per 20-25 frittelle&lt;/i&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;h3&gt;
-  &lt;font color=&quot;grey&quot;&gt;
-    &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt; Preparazione
-&lt;/h3&gt;
-
-&lt;p&gt;Per la Tzatziki grattugiate grossolanamente il cetriolo, salate leggermente e mettete in un colino a gocciolare per un&amp;#39;oretta. A questo punto strizzate molto bene il cetriolo con le mani o con un panno in modo da eliminare tutta l&amp;#39;acqua in eccesso. Passatelo in una coppa insieme allo yogurt e mescolate bene. Adesso aggiungete a piacere il resto degli ingredienti per la salsa secondo i vostri gusti. Fate riposare la Tzatziki in frigo, più tempo ha per riposare, più buona sarà.
-&lt;img src=&quot;tzatziki.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Adesso le frittelle: grattugiate grossolanamente le zucchine, salate leggermente e mettete in un colino a gocciolare per un&amp;#39;oretta. A questo punto strizzatele molto bene con le mani o con un panno in modo da eliminare tutta l&amp;#39;acqua in eccesso. Mettete un attimo da parte.
-&lt;br /&gt;
-In una coppa mettete la farina e aggiungete acqua finché avrete una pastella densa, ma fluida. Mescolate bene evitando grumi, poi aggiungete bicarbonato, prezzemolo e menta, mescolate e per ultimo incorporate le zucchine.
-&lt;br /&gt;
-Riscaldate una padella con dell&amp;#39;olio per friggere. Non devono nuotare nell&amp;#39;olio, ma il fondo deve essere coperto. Poi aggiungete l&amp;#39;impasto con le zucchine a cucchiaiate e schiacciatele bene.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;impasto.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;frittelle.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Fatele cuocere a temperatura media, una volta dorate, giratele e fatele cuocere anche dall&amp;#39;altra parte. Passate le frittelle su di un piatto con della carta da cucina e salata le frittelle.
-&lt;br /&gt;
-Sono buone sia calde che fredde. Inzuppatele nella Tzatziki o farciteci dei panini.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;h4&gt;Buon appetito
-  &lt;font color=&quot;red&quot;&gt;
-    &lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt;
-&lt;/h4&gt;</content>
-    <summary type="html" xml:lang="it">
-    
-      &lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Frittelle di Zucchine vegane con Tzatziki&lt;/strong&gt; un piatto estivo fac
-    
-    </summary>
-    
-      <category term="Salato" scheme="https://frangipani.raiano.ch/categories/Salato/"/>
-    
-      <category term="Secondi Piatti e Contorni" scheme="https://frangipani.raiano.ch/categories/Salato/Secondi-Piatti-e-Contorni/"/>
-    
-    
-      <category term="aperitivo" scheme="https://frangipani.raiano.ch/tags/aperitivo/"/>
-    
-      <category term="contorno" scheme="https://frangipani.raiano.ch/tags/contorno/"/>
-    
-      <category term="estate" scheme="https://frangipani.raiano.ch/tags/estate/"/>
-    
-      <category term="primavera" scheme="https://frangipani.raiano.ch/tags/primavera/"/>
     
   </entry>
   

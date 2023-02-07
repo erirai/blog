@@ -4,7 +4,7 @@
   
   <link href="https://frangipani.raiano.ch/de/atom.xml" rel="self"/>
   <link href="https://frangipani.raiano.ch/"/>
-  <updated>2023-01-24T15:45:43.443Z</updated>
+  <updated>2023-02-07T13:42:53.632Z</updated>
   <id>https://frangipani.raiano.ch/</id>
   
   <author>
@@ -13,6 +13,203 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title xml:lang="de">Éclairs mit Diplomatencrème und Ruby-Schokolade</title>
+    <link href="https://frangipani.raiano.ch/2023-02-07-eclairs-mit-diplomatencreme-und-ruby-schokolade/"/>
+    <id>https://frangipani.raiano.ch/2023-02-07-eclairs-mit-diplomatencreme-und-ruby-schokolade/</id>
+    <published>2023-02-06T23:00:00.000Z</published>
+    <updated>2023-02-07T13:42:53.632Z</updated>
+    <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2023-02-07-eclairs-con-crema-diplomatica-e-cioccolato-ruby/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Éclairs mit Diplomatencrème und Ruby-Schokolade&lt;/strong&gt; sehr zarte französische Desserts, perfekt für den Valentinstag, nein, sie sind immer gut! Éclairs sind nichts anderes als die längliche Version der Windbeutel. Der Brandteig ist der selbe und anstatt sie nur mit Schlagsahne zu füllen, habe ich mich für Diplomatencrème (oder Chantilly) entschieden. Um ihnen eine fruchtige Note zu verleihen (da es momentan keine Beeren gibt), habe ich sie mit Ruby-Schokolade glasiert, was ihnen auch diesen sehr romantischen rosa Touch verleiht.&lt;/p&gt;
+&lt;p&gt;Ok, ich weiss, das Rezept mag schwierig und komplex erscheinen, aber ich habe beschlossen, meine Komfortzone zu verlassen und zu versuchen, Rezepte zu machen, zu denen ich nicht den Mut hatte. Ich habe mich entschieden, zuerst Brandteig zu machen, den ich noch nie zuvor gemacht hatte, also ist dies eine echte Première! Wobei ich sagen muss, dass es bei Brandteig nicht nur eine Frage des Mutes war, sondern ich hatte bei den Windbeuteln ein leichtes Trauma. Ich erinnere mich, dass vor vielen Jahren Windbeutel, aber vor allem Profiteroles, sehr oft gegessen wurden und ich sie überhaupt nicht mochte, weil sie mit Schlagrahm gefüllt waren und ich es nicht mag. Also hatte ich in meinem Kopf mit Brandteig abgeschlossen. Das gefiel mir aber nicht, denn der Brandteig an sich ist geschmacksneutral, der Geschmack ergibt sich durch die Füllung und die Glasur. Also habe ich mir einen Ruck gegeben und mir gesagt, ich könnte es zumindest mal probieren... zum Glück muss ich sagen! Tatsächlich mochte ich sie sehr mit der Diplomatencrème und der Ruby-Schokolade! Ich mochte sie so sehr, dass ich zum Geburtstag meiner Schwester sogar versucht habe, Profiteroles zu machen, und sie sind wirklich gut geworden!&lt;/p&gt;
+&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
+  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
+    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
+      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Éclairs mit Diplomatencrème und Ruby-Schokolade&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Süsses&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;.../2023-02-07-eclairs-con-crema-diplomatica-e-cioccolato-ruby/header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Éclairs mit Diplomatencrème und Ruby-Schokolade, sehr zarte französische Desserts, perfekt für den Valentinstag, nein, sie sind immer gut!&lt;/span&gt;
+      &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
+      &lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Brandteig&lt;/b&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;250ml&lt;/td&gt;
+            &lt;td&gt;Wasser&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;75gr&lt;/td&gt;
+            &lt;td&gt;Butter&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 Esslöffel&lt;/td&gt;
+            &lt;td&gt;Zucker&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 Prise&lt;/td&gt;
+            &lt;td&gt;Salz&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;150gr&lt;/td&gt;
+            &lt;td&gt;Mehl&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;4&lt;/td&gt;
+            &lt;td&gt;Eier mittelgross&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr style=&quot;height: 15px;&quot;&gt;&lt;/tr&gt;
+          &lt;tr&gt;          
+            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Diplomatencrème&lt;/b&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;6&lt;/td&gt;
+            &lt;td&gt;Eigelb&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;      
+            &lt;td&gt;100gr&lt;/td&gt;
+            &lt;td&gt;Zucker&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;40gr&lt;/td&gt;
+            &lt;td&gt;Kartoffel- oder Maisstärke&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 Prise&lt;/td&gt;
+            &lt;td&gt;Salz&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;500gr&lt;/td&gt;
+            &lt;td&gt;Milch&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1&lt;/td&gt;
+            &lt;td&gt;Vanilleschote&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;500ml&lt;/td&gt;
+            &lt;td&gt;Vollrahm&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;50gr&lt;/td&gt;
+            &lt;td&gt;Puderzucker&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;200gr&lt;/td&gt;
+            &lt;td&gt;Ruby Schokolade&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;
+      &lt;br&gt;&lt;/br&gt;
+      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot;&gt;für ca. 15 Éclairs&lt;/i&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h3&gt;
+  &lt;font color=&quot;grey&quot;&gt;
+    &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt; Zubereitung
+&lt;/h3&gt;
+
+&lt;p&gt;Zuerst die Crème zubereiten: In einer Schüssel Eigelbe mit dem Zucker und der Stärke gut aufschlagen, bis eine schöne glatte Mischung entsteht. Die Milch separat mit der zuvor geöffneten Vanilleschote fast zum Kochen bringen, dann die kochende Milch unter ständigem Rühren in die Schüssel mit dem Eigelb giessen. Gut vermischen und alles zurück in den Topf geben und bei mässiger Temperatur und ständigem Rühren kochen, bis sie eindickt. Die Crème in eine Schüssel füllen, die Frischhaltefolie direkt auf die Crème legen und vollständig auskühlen lassen.
+&lt;br /&gt;
+Rahm aufschlagen, sobald sie beginnt fest zu werden, den gesiebten Puderzucker hinzufügen und weiterschlagen, bis sie gut geschlagen ist. Die Crème nehmen, umrühren und vorsichtig den Schlagrahm nach und nach unterheben. Die Diplomatencrème gut abdecken und im Kühlschrank aufbewahren, ich habe sie am Vortag zubereitet.
+&lt;img src=&quot;../2023-02-07-eclairs-con-crema-diplomatica-e-cioccolato-ruby/chantilly.jpeg&quot; title=&quot;Frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Kommen wir nun zum Brandteig: Wasser, Butter, Zucker und Salz in einen Topf geben und zum Kochen bringen. Das Mehl auf einmal dazugeben und mit einem Holzlöffel vermengen, sodass alles kompakt wird. Den Brandteig unter ständigem Rühren noch einige Minuten kochen, er muss sich vollständig vom Topf lösen und am Boden eine leichte weissliche Schicht hinterlassen. Den Teig in eine grosse Schüssel geben, verteilen und abkühlen lassen.
+&lt;br /&gt;
+Sobald er kalt ist, die Eier hinzufügen. Ich mache es am liebsten von Hand mit einem Holzlöffel (dauert länger, aber man spürt die Konsistenz besser). Also ein Ei nach dem anderen hinzufügen, das nächste wird erst hinzugefügt, wenn das vorherige vollständig absorbiert ist. An dieser Stelle den Brandteig in einen Spritzbeutel mit einer grossen glatten oder sternförmigen Tülle geben. Ein Backpapier nehmen und 10cm lange Linien mit grossem Abstand zueinander (die Éclairs quellen während des Garens stark auf) zeichnen. Für mein Backblech habe ich zwei Reihen mit 5 Linien gemacht. Dieses Verfahren hilft euch dabei, gerade Éclairs zu spritzen, die alle die selbe Grösse haben. Das Backpapier umdrehen und auf das Backblech legen. Den Spritzbeutel nehmen und die Würstchen direkt auf den Linien spritzen. Mit einem leicht angefeuchteten Finger die Spitze am Ende etwas platt drücken.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 32%; margin-right: 1%;&quot; src=&quot;../2023-02-07-eclairs-con-crema-diplomatica-e-cioccolato-ruby/choux.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 32%; margin-right: 1%; margin-left: 1%;&quot; src=&quot;../2023-02-07-eclairs-con-crema-diplomatica-e-cioccolato-ruby/choux2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 32%; margin-left: 1%;&quot; src=&quot;../2023-02-07-eclairs-con-crema-diplomatica-e-cioccolato-ruby/teglia.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Die Éclairs im vorgeheizten Ofen bei 210°C Ober- und Unterhitze für 25min backen, Ofen ausschalten, Backofentür ganz leicht öffnen und weitere 15min darin lassen. Nehmt sie dann aus dem Ofen und lasst sie vollständig abkühlen.
+&lt;br /&gt;
+Die Diplomatencrème in einen Spritzbeutel mit kleiner Tülle geben. Nach dem Erkalten könnt ihr wählen, ob ihr sie für das Füllen ganz lassen oder halbieren möchtet. Um sie ganz zu füllen, mit einem Messer drei Löcher unter die Éclairs bohren und dann mit dem Spritzbeutel mit der Crème füllen. Für die zweite Variante die Éclairs der Länge nach halbieren (indem ihr sie halbiert, seht ihr, ob sie gut geworden sind, tatsächlich müssen sie innen hohl sein). Auf den unteren Teil die Crème drauf dressieren, wieder mit Hilfe des Spritzbeutels, dann mit dem oberen Teil schliessen. Sobald alle gefüllt sind, stellt sie in den Kühlschrank.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 32%; margin-right: 1%;&quot; src=&quot;../2023-02-07-eclairs-con-crema-diplomatica-e-cioccolato-ruby/eclairs.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 32%; margin-right: 1%; margin-left: 1%;&quot; src=&quot;../2023-02-07-eclairs-con-crema-diplomatica-e-cioccolato-ruby/tagliati.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 32%; margin-left: 1%;&quot; src=&quot;../2023-02-07-eclairs-con-crema-diplomatica-e-cioccolato-ruby/farciti.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;So sind sie schon ausgezeichnet, vielleicht noch mit Puderzucker bestäubt, aber ich schlage vor, sie mit Ruby-Schokolade zu glasieren, um ihnen eine fruchtige Note zu verleihen. Lasst also die Ruby-Schokolade in einem Wasserbad schmelzen, taucht die Oberseite der Éclairs in die Schokolade und lasst sie vor dem Servieren trocknen.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-02-07-eclairs-con-crema-diplomatica-e-cioccolato-ruby/risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-02-07-eclairs-con-crema-diplomatica-e-cioccolato-ruby/risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-02-07-eclairs-con-crema-diplomatica-e-cioccolato-ruby/risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-02-07-eclairs-con-crema-diplomatica-e-cioccolato-ruby/risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-02-07-eclairs-con-crema-diplomatica-e-cioccolato-ruby/risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-02-07-eclairs-con-crema-diplomatica-e-cioccolato-ruby/risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-02-07-eclairs-con-crema-diplomatica-e-cioccolato-ruby/risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-02-07-eclairs-con-crema-diplomatica-e-cioccolato-ruby/risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-02-07-eclairs-con-crema-diplomatica-e-cioccolato-ruby/risultato9.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-02-07-eclairs-con-crema-diplomatica-e-cioccolato-ruby/risultato10.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../2023-02-07-eclairs-con-crema-diplomatica-e-cioccolato-ruby/risultato11.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;h4&gt;Buon appetito
+  &lt;font color=&quot;red&quot;&gt;
+    &lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt;
+&lt;/h4&gt;</content>
+    <summary type="html" xml:lang="de">
+    
+      &lt;p&gt;&lt;img src=&quot;../2023-02-07-eclairs-con-crema-diplomatica-e-cioccolato-ruby/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Éclairs m
+    
+    </summary>
+    
+      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
+    
+      <category term="Piccola Pasticceria" scheme="https://frangipani.raiano.ch/categories/Dolce/Piccola-Pasticceria/"/>
+    
+    
+      <category term="festa della mamma" scheme="https://frangipani.raiano.ch/tags/festa-della-mamma/"/>
+    
+      <category term="san valentino" scheme="https://frangipani.raiano.ch/tags/san-valentino/"/>
+    
+      <category term="piccola pasticceria" scheme="https://frangipani.raiano.ch/tags/piccola-pasticceria/"/>
+    
+  </entry>
   
   <entry>
     <title xml:lang="de">Vegane Apfel-Zimt-Schnecken</title>
@@ -3171,181 +3368,6 @@ Aus dem restlichen Mürbeteig viele kleine Kekse formen, die man zum Dekorieren 
       <category term="crostata" scheme="https://frangipani.raiano.ch/tags/crostata/"/>
     
       <category term="limone" scheme="https://frangipani.raiano.ch/tags/limone/"/>
-    
-  </entry>
-  
-  <entry>
-    <title xml:lang="de">Vegane Zucchini-Fritters mit Tzatziki</title>
-    <link href="https://frangipani.raiano.ch/2022-06-22-frittelle-di-zucchine-vegane-e-tzatziki-de/"/>
-    <id>https://frangipani.raiano.ch/2022-06-22-frittelle-di-zucchine-vegane-e-tzatziki-de/</id>
-    <published>2022-06-21T22:00:00.000Z</published>
-    <updated>2022-06-20T09:39:51.489Z</updated>
-    <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2022-06-22-frittelle-di-zucchine-vegane-e-tzatziki/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vegane Zucchini-Fritters mit Tzatziki&lt;/strong&gt; ein einfaches, schnelles und leichtes Sommergericht. Alles lässt sich problemlos im Voraus zubereiten. Die Fritters sind sehr gefährlich, weil es nicht einfach ist, aufzuhören sie zu essen und mit dem Tzatziki ist es einfach das Beste. Das Rezept ist von meiner Mutter, sie hat sie immer so gemacht und ich liebe sie. Seit einigen Jahren serviere ich sie immer mit dieser Sauce und sie ist bei allen sehr beliebt. Sie eignen sich auch hervorragend zum Füllen von Sandwiches...
-&lt;br /&gt;
-Das ist eines dieser Sommergerichte, die man mit einem Tomatensalat und etwas Brot auf den Tisch stellt und schon hat man gegessen. Nichts anderes wird benötigt. Es ist das Tolle am Sommer... im Sommer braucht es nicht viel, um glücklich zu sein, dieses Gericht macht mich sehr glücklich!&lt;/p&gt;
-&lt;p&gt;Vor knapp zwei Wochen waren wir am Fluss, ich war sehr mutig und habe das erste Bad der Saison genommen. Das Wasser war eiskalt und mein Knie mochte es nicht sehr, aber ich habs getan! Lassen Sie es zu Protokoll geben. Nach dem letzten Sommer hielt ich es für klug, es auszunutzen, man weiss ja nie, wie der Sommer enden wird...&lt;/p&gt;
-&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
-  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
-    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
-      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Vegane Zucchini-Fritters mit Tzatziki&lt;/span&gt;
-      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Herzhaftes&lt;/span&gt;
-      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2022-06-22-frittelle-di-zucchine-vegane-e-tzatziki/header.jpeg&quot;/&gt;
-      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
-      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Vegane Zucchini-Fritters mit Tzatziki ein einfaches, schnelles und leichtes Sommergericht. Alles lässt sich problemlos im Voraus zubereiten.&lt;/span&gt;
-      &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
-      &lt;table&gt;
-        &lt;tbody&gt;
-          &lt;tr&gt;     
-            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Fritters&lt;/b&gt;&lt;/td&gt;
-          &lt;/tr&gt; 
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;3&lt;/td&gt;
-            &lt;td&gt;mittelgrosse Zucchini&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;6 Esslöffel&lt;/td&gt;
-            &lt;td&gt;Mehl&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qs&lt;/td&gt;
-            &lt;td&gt;Wasser&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1/2 Teelöffel&lt;/td&gt;
-            &lt;td&gt;Natron&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 Esslöffel&lt;/td&gt;
-            &lt;td&gt;gehackte Petersilie&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;2&lt;/td&gt;
-            &lt;td&gt;Minzeblättchen&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qs&lt;/td&gt;
-            &lt;td&gt;Frittieröl&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qs&lt;/td&gt;
-            &lt;td&gt;Salz&lt;/td&gt;
-          &lt;tr&gt;
-            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Tzatziki&lt;/b&gt;&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1&lt;/td&gt;
-            &lt;td&gt;grosse Gurke&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;300gr&lt;/td&gt;
-            &lt;td&gt;Naturjoghurt ungezuckert (auch pflanzlich)&lt;/td&gt;
-           &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qs&lt;/td&gt;
-            &lt;td&gt;Salz&lt;/td&gt;
-           &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qs&lt;/td&gt;
-            &lt;td&gt;Olivenöl&lt;/td&gt; 
-           &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qs&lt;/td&gt;
-            &lt;td&gt;Petersilie&lt;/td&gt;
-           &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qs&lt;/td&gt;
-            &lt;td&gt;Minze&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qs&lt;/td&gt;
-            &lt;td&gt;Zitronensaft&lt;/td&gt;
-           &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qs&lt;/td&gt;
-            &lt;td&gt;Knoblauch (-pulver)&lt;/td&gt;         
-          &lt;/tr&gt;
-        &lt;/tbody&gt;
-      &lt;/table&gt;
-      &lt;br&gt;&lt;/br&gt;
-      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot; itemprop=&quot;recipeYield&quot;&gt;für 20-25 Fritters&lt;/i&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;h3&gt;
-  &lt;font color=&quot;grey&quot;&gt;
-    &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt; Zubereitung
-&lt;/h3&gt;
-
-&lt;p&gt;Für das Tzatziki die Gurke grob raspeln, leicht salzen und in einem Sieb eine Stunde zum Abtropfen geben. Drückt die Gurke jetzt sehr gut mit den Händen oder einem Tuch aus, um alles überschüssige Wasser zu entfernen. Mit dem Joghurt in eine Schüssel geben und gut vermischen. Fügt nun die restlichen Zutaten nach Belieben hinzu. Das Tzatziki im Kühlschrank ruhen lassen, je länger es ruht, desto schmackhafter wird es.
-&lt;img src=&quot;../2022-06-22-frittelle-di-zucchine-vegane-e-tzatziki/tzatziki.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Nun die Fritters: Die Zucchini grob raspeln, leicht salzen und in einem Sieb eine Stunde zum Abtropfen geben. Drückt sie nun sehr gut mit den Händen oder einem Tuch aus, um alles überschüssige Wasser zu entfernen. Für einen Moment beiseite stellen.
-&lt;br /&gt;
-Gebt das Mehl in eine Schüssel und fügt Wasser hinzu, bis ihr einen dickflüssigen aber geschmeidigen Teig habt. Gut mischen, Klumpen vermeiden, dann Natron, Petersilie und Minze hinzugeben, umrühren und schliesslich die Zucchini hinzugeben.
-&lt;br /&gt;
-Zum Braten eine Pfanne mit etwas Öl erhitzen. Sie dürfen nicht im Öl schwimmen, aber der Boden muss bedeckt sein. Dann die Mischung mit den Zucchini löffelweise dazugeben und flachdrücken.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-06-22-frittelle-di-zucchine-vegane-e-tzatziki/impasto.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-06-22-frittelle-di-zucchine-vegane-e-tzatziki/frittelle.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Bratet sie bei mittlerer Hitze, sobald sie goldbraun sind, wendet sie und bratet sie auch auf der anderen Seite. Die Fritters auf einem Teller mit Küchenpapier verteilen und salzen.
-&lt;br /&gt;
-Sie sind sowohl heiss als auch kalt gut. Tränkt sie im Tzatziki oder sie machen sich auch in einem Sandwich sehr gut.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-06-22-frittelle-di-zucchine-vegane-e-tzatziki/risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-06-22-frittelle-di-zucchine-vegane-e-tzatziki/risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-06-22-frittelle-di-zucchine-vegane-e-tzatziki/risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-06-22-frittelle-di-zucchine-vegane-e-tzatziki/risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-06-22-frittelle-di-zucchine-vegane-e-tzatziki/risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-06-22-frittelle-di-zucchine-vegane-e-tzatziki/risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;h4&gt;Buon appetito
-  &lt;font color=&quot;red&quot;&gt;
-    &lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt;
-&lt;/h4&gt;</content>
-    <summary type="html" xml:lang="de">
-    
-      &lt;p&gt;&lt;img src=&quot;../2022-06-22-frittelle-di-zucchine-vegane-e-tzatziki/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vegane Zucchini-F
-    
-    </summary>
-    
-      <category term="Salato" scheme="https://frangipani.raiano.ch/categories/Salato/"/>
-    
-      <category term="Secondi Piatti e Contorni" scheme="https://frangipani.raiano.ch/categories/Salato/Secondi-Piatti-e-Contorni/"/>
-    
-    
-      <category term="aperitivo" scheme="https://frangipani.raiano.ch/tags/aperitivo/"/>
-    
-      <category term="contorno" scheme="https://frangipani.raiano.ch/tags/contorno/"/>
-    
-      <category term="estate" scheme="https://frangipani.raiano.ch/tags/estate/"/>
-    
-      <category term="primavera" scheme="https://frangipani.raiano.ch/tags/primavera/"/>
     
   </entry>
   
