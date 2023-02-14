@@ -4,21 +4,28 @@
 
     <url>
         <loc>https://frangipani.raiano.ch/tags/piccola-pasticceria/</loc>
-        <lastmod>2023-02-07T13:42:53.632Z</lastmod>
+        <lastmod>2023-02-14T20:39:23.492Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/tags/carnevale/</loc>
+        <lastmod>2023-02-14T20:39:23.492Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://frangipani.raiano.ch/tags/san-valentino/</loc>
-        <lastmod>2023-02-07T13:42:53.632Z</lastmod>
+        <lastmod>2023-02-13T17:20:21.070Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://frangipani.raiano.ch/tags/festa-della-mamma/</loc>
-        <lastmod>2023-02-07T13:42:53.632Z</lastmod>
+        <lastmod>2023-02-13T17:20:21.070Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -558,13 +565,6 @@
     <url>
         <loc>https://frangipani.raiano.ch/tags/cheesecake/</loc>
         <lastmod>2022-04-08T09:05:18.800Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/tags/carnevale/</loc>
-        <lastmod>2022-04-08T08:52:46.715Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

@@ -4,7 +4,7 @@
   
   <link href="https://frangipani.raiano.ch/de/atom.xml" rel="self"/>
   <link href="https://frangipani.raiano.ch/"/>
-  <updated>2023-02-07T13:42:53.632Z</updated>
+  <updated>2023-02-14T20:39:23.492Z</updated>
   <id>https://frangipani.raiano.ch/</id>
   
   <author>
@@ -15,11 +15,170 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title xml:lang="de">Sizilianische süsse Ricotta-Ravioli</title>
+    <link href="https://frangipani.raiano.ch/2023-02-15-sizilianische-susse-ricotta-ravioli/"/>
+    <id>https://frangipani.raiano.ch/2023-02-15-sizilianische-susse-ricotta-ravioli/</id>
+    <published>2023-02-14T23:00:00.000Z</published>
+    <updated>2023-02-14T20:39:23.492Z</updated>
+    <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2023-02-15-ravioli-di-ricotta-siciliani/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sizilianische süsse Ricotta-Ravioli&lt;/strong&gt; traditionelle frittierte Süssigkeiten, unglaublich lecker, auch sizilianische Cassatelle genannt. Ein sehr duftender Teig, der in der Mitte eine köstliche Ricotta-Füllung enthält. Nach dem Frittieren sind sie aussen knusprig und innen sehr cremig. Sie sind keine typischen Fasnachtssüssigkeiten, aber ich wollte sie euch trotzdem vorstellen, weil sie zu gut sind (und frittiert, also auch super für die Fasnacht).&lt;/p&gt;
+&lt;p&gt;Meine Mutter macht immer diese Ricotta-Ravioli, aber ich habe sie noch nie selbst gemacht. Es sind diese Süssigkeiten, die besser Mamma macht, wenn ihr versteht, was ich meine. Aber ich wollte das Rezept in meinen Blog stellen, also habe ich sie gemacht und sie haben mir gefallen. Wenn ihr es mögt, verwendet Schafsricotta, weil er schmackhafter ist und sie noch schmackhafter werden.
+&lt;br /&gt;
+Die Form ist euch überlassen. Ich habe sie rund gemacht, indem ich zwei Scheiben aufeinander gelegt habe, ihr könnt sie auch quadratisch machen, um nicht zu viel Teigreste zu haben oder klassisch in Halbmondform. Es gibt Zutaten im Teig, die seltsam erscheinen mögen, aber ich versichere euch, dass sie verwendet werden, um ihnen ihren typischen Duft zu verleihen! Pfadfinderehrenwort!&lt;/p&gt;
+&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
+  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
+    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
+      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Sizilianische süsse Ricotta-Ravioli&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Süsses&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2023-02-15-ravioli-di-ricotta-siciliani/header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Sizilianische süsse Ricotta-Ravioli, traditionelle frittierte Süssigkeiten, unglaublich lecker, auch sizilianische Cassatelle genannt.&lt;/span&gt;
+      &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
+      &lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Teig&lt;/b&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;250gr&lt;/td&gt;
+            &lt;td&gt;Mehl&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;50gr&lt;/td&gt;
+            &lt;td&gt;Zucker&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;50gr&lt;/td&gt;
+            &lt;td&gt;Butter&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 Esslöffel&lt;/td&gt;
+            &lt;td&gt;Kaffee aus der Moka&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 Esslöffel&lt;/td&gt;
+            &lt;td&gt;Marsala&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1&lt;/td&gt;
+            &lt;td&gt;kleines Ei&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 Prise&lt;/td&gt;
+            &lt;td&gt;Salz&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qs&lt;/td&gt;
+            &lt;td&gt;Wasser&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr style=&quot;height: 15px;&quot;&gt;&lt;/tr&gt;
+          &lt;tr&gt;          
+            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Füllung&lt;/b&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;500gr&lt;/td&gt;
+            &lt;td&gt;Ricotta&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;      
+            &lt;td&gt;qs&lt;/td&gt;
+            &lt;td&gt;Puderzucker&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;      
+            &lt;td&gt;qs&lt;/td&gt;
+            &lt;td&gt;Öl zum frittieren&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;
+      &lt;br&gt;&lt;/br&gt;
+      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot;&gt;für ca. 30-35 Ravioli&lt;/i&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h3&gt;
+  &lt;font color=&quot;grey&quot;&gt;
+    &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt; Zubereitung
+&lt;/h3&gt;
+
+&lt;p&gt;Alle Zutaten für den Teig, bis auf das Wasser, in eine Schüssel geben und mit dem Kneten beginnen. Jetzt noch ganz wenig Wasser aufs Mal zugeben, bis der Teig glatt, weich, elastisch aber nicht klebrig ist. Den Teig gut abdecken und eine Stunde ruhen lassen.
+&lt;br /&gt;
+In der Zwischenzeit den Ricotta mit einer Gabel weich zerdrücken, dann Puderzucker nach Geschmack hinzufügen (ich rate euch, nicht zu viel), gut mischen und im Kühlschrank aufbewahren.&lt;/p&gt;
+&lt;p&gt;Nach der Ruhezeit den Teig nehmen und entscheiden, ob man ihn mit einem Nudelholz oder mit der Pastamaschine ausrollen will. Ich habe es mit einem Nudelholz so dünn wie möglich ausgerollt, dann mit einem runden Ausstecher viele Scheiben ausgestochen. Zwei Scheiben nehmen und mit dem Nudelholz ein zweites Mal ausrollen (wenn ihr den Teig mit der Pastamschine ausrollt, müsst ihr das nicht tun). Er sollte nicht zu dünn sein, sonst reisst er beim Frittieren auf, aber auch nicht zu dick. Den Ricotta in die Mitte einer Scheibe legen, mit der zweiten Scheibe bedecken, den Rand rundherum mit einer Gabel gut verschliessen und nach Belieben mit dem Ausstecher noch einmal ausstechen, damit ein sauberer Rand entsteht.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 32%; margin-right: 1%;&quot; src=&quot;../2023-02-15-ravioli-di-ricotta-siciliani/impastosteso.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 32%; margin-right: 1%; margin-left: 1%;&quot; src=&quot;../2023-02-15-ravioli-di-ricotta-siciliani/ricotta.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 32%; margin-left: 1%;&quot; src=&quot;../2023-02-15-ravioli-di-ricotta-siciliani/ravioli.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Einen Topf mit Frittieröl füllen (nicht zu voll) und wenn es die richtige Temperatur erreicht hat, ein paar Ravioli auf einmal frittieren, bis sie goldbraun sind, indem sie 2 bis 3 Mal gewendet werden. Die Temperatur sollte nicht zu hoch sein. Nach dem Frittieren abtropfen lassen und auf Küchenpapier legen.
+&lt;img src=&quot;../2023-02-15-ravioli-di-ricotta-siciliani/frittura.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Vor dem Servieren mit reichlich Puderzucker bestreuen und frisch zubereitet essen... so bleiben sie schön knusprig.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-02-15-ravioli-di-ricotta-siciliani/risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-02-15-ravioli-di-ricotta-siciliani/risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-02-15-ravioli-di-ricotta-siciliani/risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-02-15-ravioli-di-ricotta-siciliani/risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-02-15-ravioli-di-ricotta-siciliani/risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-02-15-ravioli-di-ricotta-siciliani/risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-02-15-ravioli-di-ricotta-siciliani/risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-02-15-ravioli-di-ricotta-siciliani/risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h4&gt;Buon appetito
+  &lt;font color=&quot;red&quot;&gt;
+    &lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt;
+&lt;/h4&gt;</content>
+    <summary type="html" xml:lang="de">
+    
+      &lt;p&gt;&lt;img src=&quot;../2023-02-15-ravioli-di-ricotta-siciliani/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sizilianische süsse Ricotta-
+    
+    </summary>
+    
+      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
+    
+      <category term="Piccola Pasticceria" scheme="https://frangipani.raiano.ch/categories/Dolce/Piccola-Pasticceria/"/>
+    
+    
+      <category term="carnevale" scheme="https://frangipani.raiano.ch/tags/carnevale/"/>
+    
+      <category term="piccola pasticceria" scheme="https://frangipani.raiano.ch/tags/piccola-pasticceria/"/>
+    
+  </entry>
+  
+  <entry>
     <title xml:lang="de">Éclairs mit Diplomatencrème und Ruby-Schokolade</title>
     <link href="https://frangipani.raiano.ch/2023-02-07-eclairs-mit-diplomatencreme-und-ruby-schokolade/"/>
     <id>https://frangipani.raiano.ch/2023-02-07-eclairs-mit-diplomatencreme-und-ruby-schokolade/</id>
     <published>2023-02-06T23:00:00.000Z</published>
-    <updated>2023-02-07T13:42:53.632Z</updated>
+    <updated>2023-02-13T17:20:21.070Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2023-02-07-eclairs-con-crema-diplomatica-e-cioccolato-ruby/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Éclairs mit Diplomatencrème und Ruby-Schokolade&lt;/strong&gt; sehr zarte französische Desserts, perfekt für den Valentinstag, nein, sie sind immer gut! Éclairs sind nichts anderes als die längliche Version der Windbeutel. Der Brandteig ist der selbe und anstatt sie nur mit Schlagsahne zu füllen, habe ich mich für Diplomatencrème (oder Chantilly) entschieden. Um ihnen eine fruchtige Note zu verleihen (da es momentan keine Beeren gibt), habe ich sie mit Ruby-Schokolade glasiert, was ihnen auch diesen sehr romantischen rosa Touch verleiht.&lt;/p&gt;
 &lt;p&gt;Ok, ich weiss, das Rezept mag schwierig und komplex erscheinen, aber ich habe beschlossen, meine Komfortzone zu verlassen und zu versuchen, Rezepte zu machen, zu denen ich nicht den Mut hatte. Ich habe mich entschieden, zuerst Brandteig zu machen, den ich noch nie zuvor gemacht hatte, also ist dies eine echte Première! Wobei ich sagen muss, dass es bei Brandteig nicht nur eine Frage des Mutes war, sondern ich hatte bei den Windbeuteln ein leichtes Trauma. Ich erinnere mich, dass vor vielen Jahren Windbeutel, aber vor allem Profiteroles, sehr oft gegessen wurden und ich sie überhaupt nicht mochte, weil sie mit Schlagrahm gefüllt waren und ich es nicht mag. Also hatte ich in meinem Kopf mit Brandteig abgeschlossen. Das gefiel mir aber nicht, denn der Brandteig an sich ist geschmacksneutral, der Geschmack ergibt sich durch die Füllung und die Glasur. Also habe ich mir einen Ruck gegeben und mir gesagt, ich könnte es zumindest mal probieren... zum Glück muss ich sagen! Tatsächlich mochte ich sie sehr mit der Diplomatencrème und der Ruby-Schokolade! Ich mochte sie so sehr, dass ich zum Geburtstag meiner Schwester sogar versucht habe, Profiteroles zu machen, und sie sind wirklich gut geworden!&lt;/p&gt;
@@ -28,7 +187,7 @@
     &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
       &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Éclairs mit Diplomatencrème und Ruby-Schokolade&lt;/span&gt;
       &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Süsses&lt;/span&gt;
-      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;.../2023-02-07-eclairs-con-crema-diplomatica-e-cioccolato-ruby/header.jpeg&quot;/&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2023-02-07-eclairs-con-crema-diplomatica-e-cioccolato-ruby/header.jpeg&quot;/&gt;
       &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
       &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Éclairs mit Diplomatencrème und Ruby-Schokolade, sehr zarte französische Desserts, perfekt für den Valentinstag, nein, sie sind immer gut!&lt;/span&gt;
       &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
@@ -3190,184 +3349,6 @@ Falls Füllung übrig bleibt, diese über die Auberginen in der Auflaufform zerb
       <category term="contorno" scheme="https://frangipani.raiano.ch/tags/contorno/"/>
     
       <category term="estate" scheme="https://frangipani.raiano.ch/tags/estate/"/>
-    
-  </entry>
-  
-  <entry>
-    <title xml:lang="de">Zitronen-Tarte</title>
-    <link href="https://frangipani.raiano.ch/2022-06-28-crostata-al-limone-de/"/>
-    <id>https://frangipani.raiano.ch/2022-06-28-crostata-al-limone-de/</id>
-    <published>2022-06-27T22:00:00.000Z</published>
-    <updated>2022-06-27T09:13:06.371Z</updated>
-    <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2022-06-28-crostata-al-limone/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Zitronen-Tarte&lt;/strong&gt; für alle Liebhaber von frischem Mürbeteiggebäck und für alle, die den puren Geschmack der Zitronen lieben, hier ist das Dessert für euch. Eine Mürbeteighülle, die schon so lecker ist, gefüllt mit dieser sehr leichten, veganen und glutenfreien Zitronencrème, die nach Zitrone schmeckt.
-&lt;br /&gt;
-Die Crème ist wirklich sauer, aber zusammen mit dem Mürbeteig gegessen, gleicht sich das perfekt aus! Aber wenn ihr die Säure der Zitrone nicht so mögt, reduziert einfach den Zitronensaftanteil und erhöht den des Wassers und fügt vielleicht mehr Zucker hinzu. Für uns war es aber so perfekt.&lt;/p&gt;
-&lt;p&gt;Wenn ich überlege, dass dieser Kuchen aus Versehen nach einem epischen Fehler entstand. Ich erzähle... Also zum Frauentag wollte ich eine Mimosentarte machen. Mürbeteig, Zitronencrème, weisse Schokoladenganache und Bisquitwürfel. War nicht essbar! Bah! Die Ganache war ekelhaft und diese Bisquitwürfel waren wirklich unangenehm im Mund. Um den Kuchen etwas zu retten, habe ich die Ganache und den Bisquit entfernt und der Mürbeteigboden mit der Zitronencrème sind geblieben. Ich war super enttäuscht nach all der Arbeit, aber die anderen hatten nichts von all dem gesehen, was passiert war. Wir haben sie probiert und ich sag euch nicht, wie die Kinder und mein Mann reagiert haben. Total begeistert! Es war so gut, dass ich das Rezept aufgeschrieben habe und hier ist es. Nur mit dem Nötigsten, Mürbeteig und Zitrone, mehr braucht es nicht.&lt;/p&gt;
-&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
-  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
-    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
-      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Zitronen-Tarte&lt;/span&gt;
-      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Süsses&lt;/span&gt;
-      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2022-06-28-crostata-al-limone/header.jpeg&quot;/&gt;
-      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
-      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Zitronen-Tarte, für alle Liebhaber von frischem Mürbeteiggebäck und für alle, die den puren Geschmack der Zitronen lieben, hier ist das Dessert für euch.&lt;/span&gt;
-      &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
-      &lt;table&gt;
-        &lt;tbody&gt;
-          &lt;tr&gt;     
-            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Mürbeteig&lt;/b&gt;&lt;/td&gt;
-          &lt;/tr&gt;     
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;        
-            &lt;td&gt;300gr&lt;/td&gt;
-            &lt;td&gt;Mehl&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;120gr&lt;/td&gt;
-            &lt;td&gt;Puderzucker&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 Prise&lt;/td&gt;
-            &lt;td&gt;Salz&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qs&lt;/td&gt;
-            &lt;td&gt;Zitronenabrieb&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qs&lt;/td&gt;
-            &lt;td&gt;Vanille&lt;/td&gt;
-           &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1/2 Teelöffel&lt;/td&gt;
-            &lt;td&gt;Backpulver&lt;/td&gt; 
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;150gr&lt;/td&gt;
-            &lt;td&gt;kalte Butter&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1&lt;/td&gt;
-            &lt;td&gt;Ei&lt;/td&gt;      
-          &lt;/tr&gt;
-          &lt;tr style=&quot;height: 15px;&quot;&gt;&lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Zitronencrème&lt;/b&gt;&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;400gr&lt;/td&gt;
-            &lt;td&gt;Zitronensaft&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;50gr&lt;/td&gt;
-            &lt;td&gt;Wasser&lt;/td&gt;
-           &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;40gr&lt;/td&gt;
-            &lt;td&gt;Kartoffelstärke o.ä.&lt;/td&gt;
-           &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;60gr&lt;/td&gt;
-            &lt;td&gt;Zucker&lt;/td&gt; 
-           &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 Prise&lt;/td&gt;
-            &lt;td&gt;Salz&lt;/td&gt;           
-          &lt;/tr&gt;
-        &lt;/tbody&gt;
-      &lt;/table&gt;
-      &lt;br&gt;&lt;/br&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h3&gt;
-  &lt;font color=&quot;grey&quot;&gt;
-    &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt; Zubereitung
-&lt;/h3&gt;
-
-&lt;p&gt;Mürbeteig vorbereiten: Mehl, Puderzucker, Salz, Zitronenabrieb, Vanille und Backpulver in eine Schüssel geben und vermischen. Nun die kalte Butter in kleinen Stücken und das Ei dazugeben, schnell kneten, bis ein glatter und homogener Teig entsteht. Flach drücken, in Frischhaltefolie wickeln und eine Stunde im Kühlschrank ruhen lassen.&lt;/p&gt;
-&lt;p&gt;Für die Crème alle Zutaten in einen Topf geben und mischen, dabei alle Klümpchen entfernen. Den Herd bei mittlerer Temperatur einschalten und die Crème unter ständigem Rühren andicken lassen. Giesst die Crème in ein Schüsselchen und lasst sie vollständig abkühlen.&lt;/p&gt;
-&lt;p&gt;Den Teig aus dem Kühlschrank nehmen und kurz akklimatisieren lassen, dann mit Hilfe von Mehl und einem Nudelholz 4mm dick ausrollen. Die Tarteform mit dem Teig auslegen und die Ränder gut andrücken. Den gesamten Boden der Tarte gut einstechen, dann mit einem Blatt Backpapier und Kichererbsen (oder was auch immer ihr zum blindbacken benutzt) bedecken. Im unteren Teil des vorgeheizten Ofens bei 170°C Ober- und Unterhitze etwa 30 Minuten backen, nach 15 Minuten das Backpapier und die Kichererbsen entfernen und fertig backen, der Tarteboden sollte eine leichte goldbraune Farbe haben. Dann abkühlen lassen.
-&lt;br /&gt;
-Aus dem restlichen Mürbeteig viele kleine Kekse formen, die man zum Dekorieren der Torte benötigt, aber auch um die Säure der Crème auszugleichen. Ich habe Blüten und Blätter gemacht und auch bei 170°C Ober- und Unterhitze ca. 7min gebacken.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-06-28-crostata-al-limone/crema.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-06-28-crostata-al-limone/cotturainbianco.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-06-28-crostata-al-limone/frolla.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-06-28-crostata-al-limone/biscotti.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Legt den Tarteboden auf eine Servierplatte. Nehmt die Zitronencrème und rührt sie, verteilt sie dann auf dem Tarteboden und dekoriert sie mit den Keksen und Minze- oder Melissenblättern. Diese &lt;strong&gt;Zitronen-Tarte&lt;/strong&gt; schmeckt gut bei Zimmertemperatur, aber auch kalt aus dem Kühlschrank.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-06-28-crostata-al-limone/risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-06-28-crostata-al-limone/risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-06-28-crostata-al-limone/risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-06-28-crostata-al-limone/risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-06-28-crostata-al-limone/risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-06-28-crostata-al-limone/risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-06-28-crostata-al-limone/risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-06-28-crostata-al-limone/risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-06-28-crostata-al-limone/risultato9.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-06-28-crostata-al-limone/risultato10.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;h4&gt;Buon appetito
-  &lt;font color=&quot;red&quot;&gt;
-    &lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt;
-&lt;/h4&gt;</content>
-    <summary type="html" xml:lang="de">
-    
-      &lt;p&gt;&lt;img src=&quot;../2022-06-28-crostata-al-limone/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Zitronen-Tarte&lt;/strong&gt; für alle Liebh
-    
-    </summary>
-    
-      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
-    
-      <category term="Crostate, Tartes..." scheme="https://frangipani.raiano.ch/categories/Dolce/Crostate-Tartes/"/>
-    
-    
-      <category term="crostata" scheme="https://frangipani.raiano.ch/tags/crostata/"/>
-    
-      <category term="limone" scheme="https://frangipani.raiano.ch/tags/limone/"/>
     
   </entry>
   
