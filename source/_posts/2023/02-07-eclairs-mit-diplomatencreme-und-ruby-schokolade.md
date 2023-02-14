@@ -22,7 +22,7 @@ Ok, ich weiss, das Rezept mag schwierig und komplex erscheinen, aber ich habe be
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Éclairs mit Diplomatencrème und Ruby-Schokolade</span>
       <span itemprop="recipeCategory" style="display:none;">Süsses</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src=".../2023-02-07-eclairs-con-crema-diplomatica-e-cioccolato-ruby/header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2023-02-07-eclairs-con-crema-diplomatica-e-cioccolato-ruby/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Éclairs mit Diplomatencrème und Ruby-Schokolade, sehr zarte französische Desserts, perfekt für den Valentinstag, nein, sie sind immer gut!</span>
       <div class="ingredients-title">Zutaten</div>
