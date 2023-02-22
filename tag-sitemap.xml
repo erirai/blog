@@ -3,6 +3,20 @@
 
 
     <url>
+        <loc>https://frangipani.raiano.ch/tags/inverno/</loc>
+        <lastmod>2023-02-21T15:46:53.944Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/tags/glutenfree/</loc>
+        <lastmod>2023-02-21T15:46:53.944Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://frangipani.raiano.ch/tags/piccola-pasticceria/</loc>
         <lastmod>2023-02-14T20:39:23.492Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -26,13 +40,6 @@
     <url>
         <loc>https://frangipani.raiano.ch/tags/festa-della-mamma/</loc>
         <lastmod>2023-02-13T17:20:21.070Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/tags/inverno/</loc>
-        <lastmod>2023-01-24T15:45:43.443Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -194,13 +201,6 @@
     <url>
         <loc>https://frangipani.raiano.ch/tags/conserve/</loc>
         <lastmod>2022-10-30T14:39:14.788Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/tags/glutenfree/</loc>
-        <lastmod>2022-10-25T12:32:25.730Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

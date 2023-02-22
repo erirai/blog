@@ -4,7 +4,7 @@
   
   <link href="https://frangipani.raiano.ch/it/atom.xml" rel="self"/>
   <link href="https://frangipani.raiano.ch/"/>
-  <updated>2023-02-14T20:37:15.131Z</updated>
+  <updated>2023-02-21T15:44:08.422Z</updated>
   <id>https://frangipani.raiano.ch/</id>
   
   <author>
@@ -13,6 +13,136 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title xml:lang="it">Torta Caprese all&#39;Arancia</title>
+    <link href="https://frangipani.raiano.ch/2023-02-23-caprese-all-arancia/"/>
+    <id>https://frangipani.raiano.ch/2023-02-23-caprese-all-arancia/</id>
+    <published>2023-02-22T23:00:00.000Z</published>
+    <updated>2023-02-21T15:44:08.422Z</updated>
+    <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Pubblicità: &lt;strong&gt;Torta Caprese all&amp;#39;Arancia&lt;/strong&gt; in collaborazione con &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt;. Questa torta è senza glutine, ha un profumo incredibilmente buono di arance e mandorle e si scioglie in bocca come il burro. È deliziosamente umida dentro perché è fatta senza farina. Adoro la consistenza di questa torta!
+&lt;br /&gt;
+Questa volta ho voluto preparare qualcosa di dolce per questa collaborazione. Purtroppo durante la stagione fredda la selezione di frutta svizzera è molto scarsa, al momento ci sono solo mele, pere e kiwi. Ma per fortuna si può passare alla frutta di stagione dei paesi vicini, come le arance. Siccome non so decidermi, compro da &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt; sempre le varietà Tarocco e Moro e se possibile sempre biologiche e non trattate, in modo da poter utilizzare anche la scorza. Ovviamente le arance sono siciliane... e lo sapevate che da &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt;, a seconda della stagione, trovate anche avocado, frutto della passione, mango e lime dalla Sicilia? È davvero fantastico, perché sono molto, molto, molto gustosi! Ho comprato anche burro, mandorle macinate, cioccolato bianco e uova da &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt;, il resto lo avevo già in dispensa, ma volendo si trova anche tutto il resto da loro.
+&lt;img src=&quot;spesa.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Ecco, ora serve solo ordinare la vostra spesa settimanale direttamente da &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt; e farvela recapitare comodamente a casa... cosa volete di più?&lt;/p&gt;
+&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
+  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
+    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
+      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Torta Caprese all&#39;Arancia&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Dolce&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Torta Caprese all&#39;Arancia, questa torta è senza glutine, ha un profumo incredibilmente buono di arance e mandorle e si scioglie in bocca come il burro.&lt;/span&gt;
+      &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
+      &lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;120gr&lt;/td&gt;
+            &lt;td&gt;cioccolato bianco&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;90gr&lt;/td&gt;
+            &lt;td&gt;burro&lt;/td&gt;
+           &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;3&lt;/td&gt;
+            &lt;td&gt;uova&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;100gr&lt;/td&gt;
+            &lt;td&gt;zucchero&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;120gr&lt;/td&gt;
+            &lt;td&gt;mandorle macinate&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;30gr&lt;/td&gt;
+            &lt;td&gt;fecola di patate o simile&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 pizzico&lt;/td&gt;
+            &lt;td&gt;sale&lt;/td&gt;
+           &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;2 cucchiaini&lt;/td&gt;
+            &lt;td&gt;lievito per dolci&lt;/td&gt; 
+           &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;2&lt;/td&gt;
+            &lt;td&gt;arance piccole bio&lt;/td&gt;      
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;
+      &lt;br&gt;&lt;/br&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h3&gt;
+  &lt;font color=&quot;grey&quot;&gt;
+    &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt; Preparazione
+&lt;/h3&gt;
+
+&lt;p&gt;Tritate il cioccolato bianco e fatelo sciogliere a bagnomaria insieme al burro, poi mettete da parte.
+&lt;br /&gt;
+Separate le uova, montate gli albumi, non appena la massa diventa bianca, aggiungete 50gr di zucchero e continuate a montare finché non saranno belli sodi, quindi mettete da parte.
+&lt;br /&gt;
+Sbattete i tuorli con lo zucchero rimanente fino a renderli chiari e spumosi. Aggiungete il composto di cioccolato e burro fuso, mescolate e poi versate il succo di un&amp;#39;arancia piccola.
+&lt;br /&gt;
+In una ciotola separata, mescolate le mandorle, la fecola, il sale, il lievito e la scorza di due arance e aggiungetele al composto di uova e cioccolato. Mescolate bene, quindi incorporate con cura gli albumi con una spatola con un movimento dall&amp;#39;alto verso il basso, preferibilmente non troppo in una volta (l&amp;#39;ho fatto in 3 passaggi). Versate l&amp;#39;impasto in una teglia rotonda imburrata e infarinata.
+&lt;img src=&quot;teglia.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Cuocete la &lt;strong&gt;Torta Caprese all&amp;#39;Arancia&lt;/strong&gt; nel forno preriscaldato a 170°C statico per circa 45min, fate sempre la prova stecchino. La torta rimarrà molto umida all&amp;#39;interno poiché è fatta senza farina, ma non dovrebbe cuocere per più di 1h. Lasciatela raffreddare un po&amp;#39; nel forno spento e aperto, quindi toglietela dallo stampo, cospargetela di zucchero a velo e gustatela.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;risultato5.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h4&gt;Buon appetito
+  &lt;font color=&quot;red&quot;&gt;
+    &lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt;
+&lt;/h4&gt;</content>
+    <summary type="html" xml:lang="it">
+    
+      &lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Pubblicità: &lt;strong&gt;Torta Caprese all&amp;#39;Arancia&lt;/strong&gt; in collaborazione co
+    
+    </summary>
+    
+      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
+    
+      <category term="Torte" scheme="https://frangipani.raiano.ch/categories/Dolce/Torte/"/>
+    
+    
+      <category term="glutenfree" scheme="https://frangipani.raiano.ch/tags/glutenfree/"/>
+    
+      <category term="inverno" scheme="https://frangipani.raiano.ch/tags/inverno/"/>
+    
+  </entry>
   
   <entry>
     <title xml:lang="it">Ravioli di Ricotta Siciliani</title>
@@ -3198,154 +3328,6 @@ Era una favola la crostata! Immaginavo fosse buona, ma proprio così... È un po
       <category term="crostata" scheme="https://frangipani.raiano.ch/tags/crostata/"/>
     
       <category term="ribes" scheme="https://frangipani.raiano.ch/tags/ribes/"/>
-    
-      <category term="estate" scheme="https://frangipani.raiano.ch/tags/estate/"/>
-    
-  </entry>
-  
-  <entry>
-    <title xml:lang="it">Melanzane a Beccafico</title>
-    <link href="https://frangipani.raiano.ch/2022-07-06-melanzane-a-beccafico/"/>
-    <id>https://frangipani.raiano.ch/2022-07-06-melanzane-a-beccafico/</id>
-    <published>2022-07-05T22:00:00.000Z</published>
-    <updated>2022-07-04T07:35:06.061Z</updated>
-    <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Melanzane a Beccafico&lt;/strong&gt; la versione vegetariana delle Sarde a Beccafico, ovvero degli involtini di melanzane farciti con un composto a base di pangrattato. È una ricetta tipica siciliana molto buona, sfiziosa e anche povera direi.
-&lt;br /&gt;
-Amavo mangiare le Sarde a Beccafico, preferivo sempre il pesce alla carne. Ma adesso ovviamente non le mangio più. Però si possono fare anche nella versione vegetariana, semplicemente sostituendo le sarde con le melanzane. E non hanno nulla da invidiare a quelli originali! Ormai sappiamo che noi siciliani mettiamo le melanzane praticamente ovunque...
-&lt;br /&gt;
-Ho chiesto a mia Mamma la ricetta del ripieno, dicendole che volevo fare le Melanzane a Beccafico. Me l&amp;#39;ha data, dicendomi che le faceva anche lei... Dunque esistono tante ricette diverse del ripieno. C&amp;#39;è chi mette l&amp;#39;uvetta (no grazie! uvetta = bestie di satana), i pinoli, l&amp;#39;uovo sodo a pezzettini, il formaggio, senza formaggio, con limone, senza limone, con prezzemolo, con basilico... Qui va secondo i gusti, ma secondo me la base è pangrattato, uovo e prezzemolo.&lt;/p&gt;
-&lt;p&gt;Sono fatastici! Una specie di Fingerfood, da mangiare così o da inzuppare nel sugo o in una salsa allo yogurt. Ma anche come contorno... Provateli!&lt;/p&gt;
-&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
-  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
-    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
-      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Melanzane a Beccafico&lt;/span&gt;
-      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Salato&lt;/span&gt;
-      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;header.jpeg&quot;/&gt;
-      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
-      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Melanzane a Beccafico, la versione vegetariana delle Sarde a Beccafico, ovvero dei rotoli di melanzane farciti con un composto a base di pangrattato.&lt;/span&gt;
-      &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
-      &lt;table&gt;
-        &lt;tbody&gt;
-          &lt;/tr&gt; 
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1&lt;/td&gt;
-            &lt;td&gt;melanzana lunga nera&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;ca. 100gr&lt;/td&gt;
-            &lt;td&gt;pangrattato&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1&lt;/td&gt;
-            &lt;td&gt;uovo&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;2 cucchiai&lt;/td&gt;
-            &lt;td&gt;prezzemolo tritato&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;4 cucchiai&lt;/td&gt;
-            &lt;td&gt;parmigiano o pecorino grattugiato&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;2 cucchiai&lt;/td&gt;
-            &lt;td&gt;olio evo&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qb&lt;/td&gt;
-            &lt;td&gt;sale&lt;/td&gt;       
-          &lt;/tr&gt;
-        &lt;/tbody&gt;
-      &lt;/table&gt;
-      &lt;br&gt;&lt;/br&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;h3&gt;
-  &lt;font color=&quot;grey&quot;&gt;
-    &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt; Preparazione
-&lt;/h3&gt;
-
-&lt;p&gt;Lavate la melanzana e tagliatela a fette sottili per il lungo. Adagiatele su di una teglia con sotto della carta forno, spennellatele da entrambi i lati con dell&amp;#39;olio evo e salatele. Infornatele nel forno preriscaldato a 180°C ventilato per 10min, si devono solo ammorbidire.&lt;/p&gt;
-&lt;p&gt;Adesso il ripieno: mettete pangrattato, prezzemolo, formaggio, e 1 cucchiaino di sale in una ciotola e mescolate. Adesso aggiungete l&amp;#39;olio e l&amp;#39;uovo sbattuto e impastate il tutto.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;melanzane.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;ripieno.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Prendete circa un cucchiaio del ripieno, formate una polpetta allungata e adagiatela su una estremità di una fetta di melanzana, poi arrotolatela. Adagiate il rotolino in una pirofila oleata. Ripetete con tutte le fette di melanzana.
-&lt;br /&gt;
-Se avanza del ripieno sbriciolatelo sulle melanzane nella pirofila e terminate con un abbondante filo d&amp;#39;olio. Infornate nel forno preriscaldato a 180°C ventilato per 15-20min, non devono seccarsi troppo.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;rotolini.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;teglia.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Sono ottime così in purezza o da inzuppare nel sugo o in una salsa allo yogurt.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;h4&gt;Buon appetito
-  &lt;font color=&quot;red&quot;&gt;
-    &lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt;
-&lt;/h4&gt;</content>
-    <summary type="html" xml:lang="it">
-    
-      &lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Melanzane a Beccafico&lt;/strong&gt; la versione vegetariana delle Sarde a Be
-    
-    </summary>
-    
-      <category term="Salato" scheme="https://frangipani.raiano.ch/categories/Salato/"/>
-    
-      <category term="Secondi Piatti e Contorni" scheme="https://frangipani.raiano.ch/categories/Salato/Secondi-Piatti-e-Contorni/"/>
-    
-    
-      <category term="aperitivo" scheme="https://frangipani.raiano.ch/tags/aperitivo/"/>
-    
-      <category term="melanzane" scheme="https://frangipani.raiano.ch/tags/melanzane/"/>
-    
-      <category term="contorno" scheme="https://frangipani.raiano.ch/tags/contorno/"/>
     
       <category term="estate" scheme="https://frangipani.raiano.ch/tags/estate/"/>
     
