@@ -27,7 +27,7 @@ Apropos Veganuary... Ich habe die Zutaten bei <a href="https://www.farmy.ch" tar
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Ofen-Süsskartoffeln gefüllt mit Winterkohlgemüse</span>
       <span itemprop="recipeCategory" style="display:none;">Herzhaftes</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src=".../2023-01-11-patate-dolci-al-forno-ripiene-di-cavoli/header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2023-01-11-patate-dolci-al-forno-ripiene-di-cavoli/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Apérohäppchen mit Kürbis und Zwiebeln süss-sauer, super leckeres Fingerfood perfekt für die kommenden Feiertage.</span>
       <div class="ingredients-title">Zutaten</div>
