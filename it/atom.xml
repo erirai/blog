@@ -4,7 +4,7 @@
   
   <link href="https://frangipani.raiano.ch/it/atom.xml" rel="self"/>
   <link href="https://frangipani.raiano.ch/"/>
-  <updated>2023-02-21T15:44:08.422Z</updated>
+  <updated>2023-03-08T16:00:16.310Z</updated>
   <id>https://frangipani.raiano.ch/</id>
   
   <author>
@@ -13,6 +13,134 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title xml:lang="it">Pane alle Olive</title>
+    <link href="https://frangipani.raiano.ch/2023-03-09-pane-alle-olive/"/>
+    <id>https://frangipani.raiano.ch/2023-03-09-pane-alle-olive/</id>
+    <published>2023-03-08T23:00:00.000Z</published>
+    <updated>2023-03-08T16:00:16.310Z</updated>
+    <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Pubblicità: &lt;strong&gt;Pane alle Olive&lt;/strong&gt; in collaborazione con &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt;. Una pagnotta croccante fuori, morbida dentro, profumata e piena di olive.
+&lt;br /&gt;
+Amo il pane fresco e amo le olive. Adoro mangiare il pane con le olive, quindi perché non fare direttamente il pane alle olive? Ho ordinato da &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt; la farina e le olive (trovate ovviamente anche il lievito, io ne ho sempre un po&amp;#39; in freezer già in porzioni da 1g). Hanno una grande scelta di farine, questa volta infatti ho scelto la farina di farro bigia per renderlo più rustico. Farina &amp;quot;bigia&amp;quot; vuol dire che contiene circa l&amp;#39;85% del chicco originale ed è più ricca di fibre, vitamine e proteine rispetto alle farine bianche ed è ottima per panificati. Perfetta per questo pane alle olive direi, no? Se non vi piace il pane scuro, potete sostituire una parte della farina bigia con della farina bianca, in questo caso il pane risulterà meno compatto.
+&lt;img src=&quot;spesa.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Nella ricetta sotto vi propongo due cotture diverse per il pane. La mia preferita è la cottura nella pentola in ghisa. Così facendo la pagnotta avrà una crosta bella croccante e dentro la mollica sarà bella morbida. Altrimenti va benissimo anche la classica cottura sulla teglia. Dopo aver formato la pagnotta, vi consiglio di fare l&amp;#39;ultima lievitazione (maturazione) in un cestino da lievitazione ben infarinato o in una coppa ricoperta con un panno in cotone ben infarinato. In questo modo terrà meglio la sua forma. &lt;/p&gt;
+&lt;p&gt;Ecco, lo so che fare il pane non è da tutti, però vi consiglio di provarci perché è una cosa che da molta soddisfazione. Altrimeni trovate su &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt; anche un ottimo pane alle olive già pronto, basta ordinarlo e farvelo portare a casa, insieme al resto della vostra spesa!&lt;/p&gt;
+&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
+  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
+    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
+      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Pane alle Olive&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Salato&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Pane alle Olive, una pagnotta croccante fuori, morbida dentro, profumata e piena di olive.&lt;/span&gt;
+      &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
+      &lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;500gr&lt;/td&gt;
+            &lt;td&gt;farina di farro bigia (o altra o mischiata con farina bianca)&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;2 cucchiaini&lt;/td&gt;
+            &lt;td&gt;sale&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;300ml&lt;/td&gt;
+            &lt;td&gt;acqua tiepida&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1gr&lt;/td&gt;
+            &lt;td&gt;lievito fresco&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;100gr&lt;/td&gt;
+            &lt;td&gt;olive denocciolate&lt;/td&gt;     
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;
+      &lt;br&gt;&lt;/br&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h3&gt;
+  &lt;font color=&quot;grey&quot;&gt;
+    &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt; Preparazione
+&lt;/h3&gt;
+
+&lt;p&gt;Mettete la farina ed il sale nella planetaria e date una mescolata. A parte fate sciogliere il lievito nell&amp;#39;acqua, versatela nella farina ed iniziate ad impastare. Dovrete impastare finché l&amp;#39;impasto non si sarà staccato dalle pareti della ciotola e non risulterà bello liscio. Formate una pagnotta bella tonda poi coprte e fate lievitare per almeno 12h, dovrà raddoppiare il suo volume.&lt;/p&gt;
+&lt;p&gt;A questo punto se volete tagliate a metà le olive. Sgonfiate l&amp;#39;impasto e appiattitelo tirandolo delicatamente, distribuiteci sopra 3/4 delle olive, poi piegate i due lembi opposti verso il centro coprendo le olive. Distribuiteci sopra le restanti olive e di nuovo prendete i due lembi opposti (non gli stessi di prima) e piegate verso il centro. Continuate a piegare sempre dai lati opposti finché avrete una palla tonda. Poi coprite e mettete di nuovo a lievitare fino a raddoppio. &lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;piega1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;piega2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Prendete l&amp;#39;impasto e schiacciatelo delicatamente, poi prendete un lembo e portatela al centro, continuate così tutt&amp;#39;attorno. Infine sigillate tutte le giunture, girate la pagnotta (con la parte liscia verso su) e formate una palla bella tonda. Coprite e fate lievitare per 2-3h a temperatura ambiente o in frigo per tutta la notte. Io l&amp;#39;ho messo nel cestino da lievitazione ben infarinato, ma va bene anche una coppa tonda ricoperta con un panno di cotone ben infarinato.
+&lt;br /&gt;
+Se cuocerete il &lt;strong&gt;Pane alle Olive&lt;/strong&gt; nella pentola in ghisa, accendete il forno a 250°C statico e infornate la pentola con il coperchio e fatela riscaldare per almeno 45min. Se cuocete il pane sulla teglia, non c&amp;#39;è bisogno.&lt;/p&gt;
+&lt;p&gt;Per la &lt;strong&gt;cottura nella pentola in ghisa&lt;/strong&gt; tagliate un pezzo di carta forno, scaravoltate la pagnotta al centro della carta forno, uscite la pentola dal forno, mettete la pagnotta con la carta dentro la pentola, coprite con il coperchio e cuocete per 20min sempre a 250°C statico. Dopo togliete il coperchio e cuocete per altri 15-20min. Sfornate, uscite subito dalla pentola e fatelo raffreddare su di una griglia.&lt;/p&gt;
+&lt;p&gt;Per la &lt;strong&gt;cottura sulla teglia&lt;/strong&gt; preriscaldate il forno a 220°C statico. Scaravoltate la pagnotta sulla teglia con sotto della carta forno ed infornate per 30min circa. Sfornate e fate raffreddare su di una griglia.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h4&gt;Buon appetito
+  &lt;font color=&quot;red&quot;&gt;
+    &lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt;
+&lt;/h4&gt;</content>
+    <summary type="html" xml:lang="it">
+    
+      &lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Pubblicità: &lt;strong&gt;Pane alle Olive&lt;/strong&gt; in collaborazione con &lt;a href=&quot;htt
+    
+    </summary>
+    
+      <category term="Salato" scheme="https://frangipani.raiano.ch/categories/Salato/"/>
+    
+      <category term="Panificati" scheme="https://frangipani.raiano.ch/categories/Salato/Panificati/"/>
+    
+    
+      <category term="panificati" scheme="https://frangipani.raiano.ch/tags/panificati/"/>
+    
+      <category term="vegan" scheme="https://frangipani.raiano.ch/tags/vegan/"/>
+    
+  </entry>
   
   <entry>
     <title xml:lang="it">Torta Caprese all&#39;Arancia</title>
@@ -3158,176 +3286,6 @@ Farò anche una piccola pausa dal Blog per le vacanze... durante l&amp;#39;estat
       <category term="crostata" scheme="https://frangipani.raiano.ch/tags/crostata/"/>
     
       <category term="mirtilli" scheme="https://frangipani.raiano.ch/tags/mirtilli/"/>
-    
-      <category term="estate" scheme="https://frangipani.raiano.ch/tags/estate/"/>
-    
-  </entry>
-  
-  <entry>
-    <title xml:lang="it">Crostata Meringata ai Ribes e Nocciole</title>
-    <link href="https://frangipani.raiano.ch/2022-07-12-crostata-meringata-ai-ribes/"/>
-    <id>https://frangipani.raiano.ch/2022-07-12-crostata-meringata-ai-ribes/</id>
-    <published>2022-07-11T22:00:00.000Z</published>
-    <updated>2022-07-11T08:01:16.298Z</updated>
-    <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Crostata Meringata ai Ribes e Nocciole&lt;/strong&gt; un dolce classico che viene preparato nei paesi di lingua tedesca. Un guscio di pasta frolla e un ripieno di meringa con nocciole e ribes. Favoloso. 
-&lt;br /&gt;
-Questa torta si trova nella mia lista delle ricette da fare ormai da molto tempo. Solo che in estate non faccio molti dolci, perché preferiamo mangiare gelato. Qualche giorno fa però ho raccolto i ribes del nostro giardino, quasi un chilo, e ho deciso di non farci la confettura quest&amp;#39;anno. Dunque ho usato una parte per fare questa crostata e il resto lo abbiamo mangiato o congelato.
-&lt;br /&gt;
-Era una favola la crostata! Immaginavo fosse buona, ma proprio così... È un po&amp;#39; come mangiare una nuvoletta croccante. La frolla, la meringa sofficissima, il gusto delle nocciole e la succosità dei ribes!&lt;/p&gt;
-&lt;p&gt;Mancano pochissimi giorni e iniziano le vacanze scolastiche... non vedo l&amp;#39;ora, sono proprio arrivata alla frutta! Ma non solo io, anche i bimbi sono stanchissimi. Teniamo duro ancora qualche giorno e poi stacchiamo la sveglia! Wuhuuu!&lt;/p&gt;
-&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
-  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
-    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
-      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Crostata al Limone&lt;/span&gt;
-      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Dolce&lt;/span&gt;
-      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;header.jpeg&quot;/&gt;
-      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
-      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Crostata al Limone per tutti gli amanti dei dolci di frolla freschi e per tutti quelli che amano il sapore dei limoni in purezza, ecco il dolce per voi.&lt;/span&gt;
-      &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
-      &lt;table&gt;
-        &lt;tbody&gt;
-          &lt;tr&gt;     
-            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Frolla&lt;/b&gt;&lt;/td&gt;
-          &lt;/tr&gt;     
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;        
-            &lt;td&gt;200gr&lt;/td&gt;
-            &lt;td&gt;farina&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;80gr&lt;/td&gt;
-            &lt;td&gt;zucchero a velo&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 pizzico&lt;/td&gt;
-            &lt;td&gt;sale&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qb&lt;/td&gt;
-            &lt;td&gt;scorza di limone&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qb&lt;/td&gt;
-            &lt;td&gt;vaniglia&lt;/td&gt;
-           &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1/2 cucchiaino&lt;/td&gt;
-            &lt;td&gt;lievito per dolci&lt;/td&gt; 
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;100gr&lt;/td&gt;
-            &lt;td&gt;burro freddo&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1&lt;/td&gt;
-            &lt;td&gt;uovo&lt;/td&gt;      
-          &lt;/tr&gt;
-          &lt;tr style=&quot;height: 15px;&quot;&gt;&lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Ripieno&lt;/b&gt;&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;3&lt;/td&gt;
-            &lt;td&gt;albumi&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 pizzico&lt;/td&gt;
-            &lt;td&gt;sale&lt;/td&gt;
-           &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;90gr&lt;/td&gt;
-            &lt;td&gt;zucchero&lt;/td&gt;
-           &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;60gr&lt;/td&gt;
-            &lt;td&gt;nocciole macinate&lt;/td&gt; 
-           &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;30gr&lt;/td&gt;
-            &lt;td&gt;fecola di patate o amido di mais&lt;/td&gt;
-            &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;300gr&lt;/td&gt;
-            &lt;td&gt;ribes già puliti&lt;/td&gt;                    
-          &lt;/tr&gt;
-        &lt;/tbody&gt;
-      &lt;/table&gt;
-      &lt;br&gt;&lt;/br&gt;
-      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot; itemprop=&quot;recipeYield&quot;&gt;per una tortiera da 22-24cm&lt;/i&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h3&gt;
-  &lt;font color=&quot;grey&quot;&gt;
-    &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt; Preparazione
-&lt;/h3&gt;
-
-&lt;p&gt;Preparate la frolla: mettete in una ciotola farina, zucchero a velo, sale, scorza di limone, vaniglia e lievito per dolci e mescolate. Adesso aggiungete il burro freddo a pezzetti e l&amp;#39;uovo, impastate velocemente finché avrete un panetto liscio ed omogeneo. Appiattitelo, avvolgetelo nella pellicola e fate riposare in frigo per un&amp;#39;oretta.&lt;/p&gt;
-&lt;p&gt;Per il ripeno mettete gli albumi in una ciotola pulita priva di residui di grasso, aggiungete un pizzichino di sale e iniziate a montarli a neve. Appena diventeranno bianchi, aggiungete lo zucchero e finite di montarli finché saranno lucidi e fermi. In una ciotola mescolate le nocciole macinate con la fecola, versateli nella meringa e con una spatola con un movimento dall&amp;#39;alto verso il basso incorporate il tutto. Per ultimo aggiungete i ribes e mescolate delicatamente.&lt;/p&gt;
-&lt;p&gt;Uscite la frolla dal frigo e fatela acclimatizzare un attimino, poi aiutandovi con della farina ed un mattarello stendetela fino ad uno spessore di 4mm. Rivestite una teglia con la frolla e aggiustate bene i bordi (eventualmente mettete della carta forno). Bucherellate bene tutto il fondo della crostata poi versateci il ripieno e livellate bene. &lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;meringa.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;teglia.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Infornate nella parte bassa del forno preriscaldato a 180°C ventilato per 1h circa. Poi fatela raffreddare...&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;h4&gt;Buon appetito
-  &lt;font color=&quot;red&quot;&gt;
-    &lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt;
-&lt;/h4&gt;</content>
-    <summary type="html" xml:lang="it">
-    
-      &lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Crostata Meringata ai Ribes e Nocciole&lt;/strong&gt; un dolce classico che v
-    
-    </summary>
-    
-      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
-    
-      <category term="Crostate, Tartes..." scheme="https://frangipani.raiano.ch/categories/Dolce/Crostate-Tartes/"/>
-    
-    
-      <category term="crostata" scheme="https://frangipani.raiano.ch/tags/crostata/"/>
-    
-      <category term="ribes" scheme="https://frangipani.raiano.ch/tags/ribes/"/>
     
       <category term="estate" scheme="https://frangipani.raiano.ch/tags/estate/"/>
     

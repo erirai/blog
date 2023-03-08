@@ -4,7 +4,7 @@
   
   <link href="https://frangipani.raiano.ch/de/atom.xml" rel="self"/>
   <link href="https://frangipani.raiano.ch/"/>
-  <updated>2023-02-21T15:46:53.944Z</updated>
+  <updated>2023-03-08T16:19:41.145Z</updated>
   <id>https://frangipani.raiano.ch/</id>
   
   <author>
@@ -13,6 +13,134 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title xml:lang="de">Olivenbrot</title>
+    <link href="https://frangipani.raiano.ch/2023-03-09-olivenbrot/"/>
+    <id>https://frangipani.raiano.ch/2023-03-09-olivenbrot/</id>
+    <published>2023-03-08T23:00:00.000Z</published>
+    <updated>2023-03-08T16:19:41.145Z</updated>
+    <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2023-03-09-pane-alle-olive/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Werbung: &lt;strong&gt;Olivenbrot&lt;/strong&gt; in Zusammenarbeit mit &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt;. Ein Brot mit knuspriger Kruste, weicher Krume, duftend und voller Oliven.
+&lt;br /&gt;
+Ich liebe frisches Brot und ich liebe Oliven. Ich esse gerne Brot mit Oliven, warum also nicht direkt Olivenbrot backen? Das Mehl und die Oliven habe ich bei &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt; bestellt (die Hefe findet ihr natürlich auch dort, ich habe immer welche in der Gefrierschrank bereits in Portionen von 1g). Sie haben eine grosse Auswahl an Mehlen, dieses Mal habe ich Dinkel Ruchmehl gewählt, um es rustikaler zu machen. Ruchmehl bedeutet, dass es etwa 85% des ursprünglichen Getreides enthält und reicher an Ballaststoffen, Vitaminen und Proteinen ist als Weissmehl und sich hervorragend zum Brotbacken eignet. Perfekt für dieses Brot mit Oliven, nicht? Falls ihr lieber helleres Brot mögt, könnt ihr etwas vom Ruchmehl durch Weissmehl ersetzen, so wird es etwas luftiger.
+&lt;img src=&quot;../2023-03-09-pane-alle-olive/spesa.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Im folgenden Rezept schlage ich zwei verschiedene Backmethoden für das Brot vor. Am liebsten backe ich Brot im Gusseisentopf. Dadurch bekommt der Laib eine schöne knusprige Kruste und das Innere wird schön weich. Ansonsten eignet sich auch das klassische Backen auf dem Backblech sehr gut. Nach dem Formen des Laibs schlage ich vor, die Stückgare (Endgare) in einem gut bemehlten Gärkörbchen oder in einer Schüssel bedeckt mit einem gut bemehlten Baumwolltuch zu machen. So behält es besser seine Form.&lt;/p&gt;
+&lt;p&gt;Nun, ich weiss, dass Brotbacken nicht jedermanns Sache ist, aber ich empfehle euch, dass ein Mal zu versuchen, weil es etwas ist, das euch viel Freude bereiten wird. Ansonsten findet ihr auf &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt; auch ein hervorragendes fertiges Olivenbrot, einfach bestellen und nach Hause liefern lassen, zusammen mit dem Rest eurer Einkäufe!&lt;/p&gt;
+&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
+  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
+    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
+      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Olivenbrot&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Herzhaftes&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2023-03-09-pane-alle-olive/header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Olivenbrot, ein Brot mit knuspriger Kruste, weicher Krume, duftend und voller Oliven.&lt;/span&gt;
+      &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
+      &lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;500gr&lt;/td&gt;
+            &lt;td&gt;Dinkel Ruchmehl (o anderes oder gemischt mit Weissmehl)&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;2 Teelöffel&lt;/td&gt;
+            &lt;td&gt;Salz&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;300ml&lt;/td&gt;
+            &lt;td&gt;Wasser lauwarm&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1gr&lt;/td&gt;
+            &lt;td&gt;frische Hefe&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;100gr&lt;/td&gt;
+            &lt;td&gt;Oliven entkernt&lt;/td&gt;     
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;
+      &lt;br&gt;&lt;/br&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h3&gt;
+  &lt;font color=&quot;grey&quot;&gt;
+    &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt; Zubereitung
+&lt;/h3&gt;
+
+&lt;p&gt;Mehl und Salz in die Küchenmaschine geben und verrühren. Die Hefe separat im Wasser auflösen, dann ins Mehl giessen und kneten. So lange kneten, bis sich der Teig von der Schüssel gelöst hat und er schön glatt ist. Einen schönen runden Laib formen, abdecken und mindestens 12h aufgehen lassen, er muss sein Volumen verdoppeln.&lt;/p&gt;
+&lt;p&gt;Nun, wenn gewünscht, die Oliven halbieren. Die Luft aus dem Teig lassen, Teig zu einem Rechteck auseinander ziehen, 3/4 der Oliven darüber verteilen und zwei gegenüber liegende Enden vom Rechteck in die Mitte Falten. Die restlichen Oliven darüber verteilen und die anderen beiden gegenüber liegenden Enden in die Mitte falten. Immer wieder so weiter falten, bis ihr eine schöne Kugel habt. Teig wieder zugedeckt aufgehen lassen, bis er sich verdoppelt hat.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-03-09-pane-alle-olive/piega1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-03-09-pane-alle-olive/piega2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Teig nehmen und vorsichtig flach drücken, dann einen Teil des Randes nehmen und in die Mitte drücken, so rundherum fortfahren. Zum Schluss alle Nähte versiegeln, den Laib wenden (mit der glatten Seite nach oben) und eine schöne runde Kugel formen. Zugedeckt 2-3h bei Zimmertemperatur aufgehen lassen oder über Nacht im Kühlschrank. Ich stelle es in ein gut bemehltes Gärkörbchen, aber eine runde Schüssel, die mit einem gut bemehlten Baumwolltuch bedeckt ist, geht auch in Ordnung.
+&lt;br /&gt;
+Wenn ihr das &lt;strong&gt;Olivenbrot&lt;/strong&gt; im Gusseisentopf zubereitet, schaltet den Ofen bei 250°C Ober- und Unterhitze ein und stellt den Topf mit Deckel in den Ofen und lasst ihn mindestens 45min lang aufheizen. Wenn ihr das Brot auf dem Backblech backt, müsst ihr das nicht tun.&lt;/p&gt;
+&lt;p&gt;Für das &lt;strong&gt;Backen im Gusseisentopf&lt;/strong&gt; ein Stück Backpapier zuschneiden, Laib in der Mitte des Backpapiers stürzen, Topf aus dem Ofen nehmen, Laib mit dem Papier in den Topf geben, zudecken mit dem Deckel und 20min lang immer bei 250°C Ober- und Unterhitze backen. Dann den Deckel abnehmen und weitere 15-20min backen. Aus dem Ofen nehmen, sofort aus dem Topf nehmen und auf einem Auskühlgitter abkühlen lassen.&lt;/p&gt;
+&lt;p&gt;Zum &lt;strong&gt;Backen auf dem Blech&lt;/strong&gt; den Ofen auf 220°C Ober- und Unterhitze vorheizen. Das Brot auf ein mit Backpapier belegtes Backblech stürzen und etwa 30 Minuten backen. Aus dem Ofen nehmen und auf einem Auskühlgitter abkühlen lassen.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-03-09-pane-alle-olive/risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-03-09-pane-alle-olive/risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-03-09-pane-alle-olive/risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-03-09-pane-alle-olive/risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-03-09-pane-alle-olive/risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-03-09-pane-alle-olive/risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-03-09-pane-alle-olive/risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-03-09-pane-alle-olive/risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h4&gt;Buon appetito
+  &lt;font color=&quot;red&quot;&gt;
+    &lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt;
+&lt;/h4&gt;</content>
+    <summary type="html" xml:lang="de">
+    
+      &lt;p&gt;&lt;img src=&quot;../2023-03-09-pane-alle-olive/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Werbung: &lt;strong&gt;Olivenbrot&lt;/strong&gt; in Zusammena
+    
+    </summary>
+    
+      <category term="Salato" scheme="https://frangipani.raiano.ch/categories/Salato/"/>
+    
+      <category term="Panificati" scheme="https://frangipani.raiano.ch/categories/Salato/Panificati/"/>
+    
+    
+      <category term="panificati" scheme="https://frangipani.raiano.ch/tags/panificati/"/>
+    
+      <category term="vegan" scheme="https://frangipani.raiano.ch/tags/vegan/"/>
+    
+  </entry>
   
   <entry>
     <title xml:lang="de">Italienischer Orangen-Mandel-Kuchen (Orangen-Caprese)</title>
@@ -809,7 +937,7 @@ Den Teig in eine zuvor bebutterte und bemehlte Gugelhupfform giessen.
     <link href="https://frangipani.raiano.ch/2023-01-11-ofen-susskartoffeln-gefullt-mit-winterkohlgemuse/"/>
     <id>https://frangipani.raiano.ch/2023-01-11-ofen-susskartoffeln-gefullt-mit-winterkohlgemuse/</id>
     <published>2023-01-10T23:00:00.000Z</published>
-    <updated>2023-01-10T14:48:36.414Z</updated>
+    <updated>2023-03-01T09:34:35.018Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2023-01-11-patate-dolci-al-forno-ripiene-di-cavoli/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Werbung: &lt;strong&gt;Ofen-Süsskartoffeln gefüllt mit Winterkohlgemüse&lt;/strong&gt; in Zusammenarbeit mit &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt;. Ein farbenfrohes Gericht, das Freude auf den Tisch bringt. Auch im Winter ist es möglich, Farbe in unsere Gerichte zu bringen, dafür muss man nur den Horizont ein wenig erweitern.
 &lt;br /&gt;
@@ -823,7 +951,7 @@ Ich habe mich entschieden, diese Süsskartoffeln mit Rosenkohl und Rotkohl zu f�
     &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
       &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Ofen-Süsskartoffeln gefüllt mit Winterkohlgemüse&lt;/span&gt;
       &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Herzhaftes&lt;/span&gt;
-      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;.../2023-01-11-patate-dolci-al-forno-ripiene-di-cavoli/header.jpeg&quot;/&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2023-01-11-patate-dolci-al-forno-ripiene-di-cavoli/header.jpeg&quot;/&gt;
       &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
       &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Apérohäppchen mit Kürbis und Zwiebeln süss-sauer, super leckeres Fingerfood perfekt für die kommenden Feiertage.&lt;/span&gt;
       &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
@@ -3159,176 +3287,6 @@ Er ist fantastisch! Dazu sind gekochte Heidelbeeren eine spektakuläre Sache... 
       <category term="crostata" scheme="https://frangipani.raiano.ch/tags/crostata/"/>
     
       <category term="mirtilli" scheme="https://frangipani.raiano.ch/tags/mirtilli/"/>
-    
-      <category term="estate" scheme="https://frangipani.raiano.ch/tags/estate/"/>
-    
-  </entry>
-  
-  <entry>
-    <title xml:lang="de">Johannisbeeren-Haselnuss-Meringue-Tarte</title>
-    <link href="https://frangipani.raiano.ch/2022-07-12-crostata-meringata-ai-ribes-de/"/>
-    <id>https://frangipani.raiano.ch/2022-07-12-crostata-meringata-ai-ribes-de/</id>
-    <published>2022-07-11T22:00:00.000Z</published>
-    <updated>2022-07-11T08:25:07.302Z</updated>
-    <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2022-07-12-crostata-meringata-ai-ribes/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Johannisbeeren-Haselnuss-Meringue-Tarte&lt;/strong&gt; ein Klassiker aus dem deutschsprachigen Raum. Eine Mürbeteighülle und eine Baiserfüllung mit Haselnüssen und Johannisbeeren. Fabelhaft.
-&lt;br /&gt;
-Dieser Kuchen steht schon lange auf meiner Rezeptliste. Nur im Sommer backe ich nicht oft, weil wir lieber Glace essen. Vor ein paar Tagen habe ich jedoch die Johannisbeeren aus unserem Garten gepflückt, fast ein Kilo, und ich habe beschlossen, dieses Jahr keine Konfitüre damit zu machen. Also habe ich einen Teil verwendet, um diese Tarte zu machen, und den Rest haben wir gegessen oder eingefroren.
-&lt;br /&gt;
-Die Tarte war der Hammer! Ich hab mir schon gedacht, dass sie lecker ist, aber so... Es ist ein bisschen wie eine knusprige Wolke zu essen. Der Mürbeteig, die luftige Meringue, der Geschmack von Haselnüssen und die Saftigkeit der Johannisbeeren!&lt;/p&gt;
-&lt;p&gt;Es sind nur noch wenige Tage bis die Schulferien beginnen... Ich kann es kaum erwarten, ich bin wirklich angekommen! Aber nicht nur ich, auch die Kinder sind sehr müde. Halten wir noch ein paar Tage durch und schalten dann den Wecker aus! Wuhuuu!&lt;/p&gt;
-&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
-  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
-    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
-      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Johannisbeeren-Haselnuss-Meringue-Tarte&lt;/span&gt;
-      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Süsses&lt;/span&gt;
-      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2022-07-12-crostata-meringata-ai-ribes/header.jpeg&quot;/&gt;
-      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
-      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Johannisbeeren-Haselnuss-Meringue-Tarte, ein Klassiker aus dem deutschsprachigen Raum. Eine Mürbeteighülle und eine Baiserfüllung mit Haselnüssen und Johannisbeeren.&lt;/span&gt;
-      &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
-      &lt;table&gt;
-        &lt;tbody&gt;
-          &lt;tr&gt;     
-            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Mürbeteig&lt;/b&gt;&lt;/td&gt;
-          &lt;/tr&gt;     
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;        
-            &lt;td&gt;200gr&lt;/td&gt;
-            &lt;td&gt;Mehl&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;80gr&lt;/td&gt;
-            &lt;td&gt;Puderzucker&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 Prise&lt;/td&gt;
-            &lt;td&gt;Salz&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qs&lt;/td&gt;
-            &lt;td&gt;Zitronenabrieb&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qs&lt;/td&gt;
-            &lt;td&gt;Vanille&lt;/td&gt;
-           &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1/2 Teelöffel&lt;/td&gt;
-            &lt;td&gt;Backpulver&lt;/td&gt; 
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;100gr&lt;/td&gt;
-            &lt;td&gt;kalte Butter&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1&lt;/td&gt;
-            &lt;td&gt;Ei&lt;/td&gt;      
-          &lt;/tr&gt;
-          &lt;tr style=&quot;height: 15px;&quot;&gt;&lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Füllung&lt;/b&gt;&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;3&lt;/td&gt;
-            &lt;td&gt;Eiweiss&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 Prise&lt;/td&gt;
-            &lt;td&gt;Salz&lt;/td&gt;
-           &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;90gr&lt;/td&gt;
-            &lt;td&gt;Zucker&lt;/td&gt;
-           &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;60gr&lt;/td&gt;
-            &lt;td&gt;gemahlene Haselnüsse&lt;/td&gt; 
-           &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;30gr&lt;/td&gt;
-            &lt;td&gt;Maisstärke o.ä.&lt;/td&gt;
-            &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;300gr&lt;/td&gt;
-            &lt;td&gt;Johannisbeeren gerüstet&lt;/td&gt;                    
-          &lt;/tr&gt;
-        &lt;/tbody&gt;
-      &lt;/table&gt;
-      &lt;br&gt;&lt;/br&gt;
-      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot; itemprop=&quot;recipeYield&quot;&gt;für eine 22-24cm Tarteform&lt;/i&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h3&gt;
-  &lt;font color=&quot;grey&quot;&gt;
-    &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt; Zubereitung
-&lt;/h3&gt;
-
-&lt;p&gt;Mürbeteig vorbereiten: Mehl, Puderzucker, Salz, Zitronenabrieb, Vanille und Backpulver in eine Schüssel geben und vermischen. Nun die kalte Butter in kleinen Stücken und das Ei dazugeben, schnell kneten, bis ein glatter und homogener Teig entsteht. Flach drücken, in Frischhaltefolie wickeln und eine Stunde im Kühlschrank ruhen lassen.&lt;/p&gt;
-&lt;p&gt;Für die Füllung das Eiweiss in eine saubere, fettfreie Schüssel geben, eine Prise Salz dazugeben und steif schlagen. Sobald sie weiss werden, fügt den Zucker hinzu und weiterschlagen, bis sie glänzend und fest sind. In einer Schüssel die gemahlenen Haselnüsse mit der Stärke mischen, in die Meringue geben und vorsichtig unterheben. Zum Schluss die Johannisbeeren dazugeben und vorsichtig mischen.&lt;/p&gt;
-&lt;p&gt;Den Mürbeteig aus dem Kühlschrank nehmen und kurz akklimatisieren lassen, dann mit Hilfe von Mehl und einem Nudelholz auf eine Dicke von 4 mm ausrollen. Eine Tarteform mit dem Mürbeteig auslegen und die Ränder gut andrücken (evtl. Backpapier darunter legen). Den gesamten Boden der Tarte gut einstechen, dann die Füllung einfüllen und gut verteilen.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-07-12-crostata-meringata-ai-ribes/meringa.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-07-12-crostata-meringata-ai-ribes/teglia.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Tarte auf der unteren Schiene für ca. 1h im vorgeheizten Ofen bei 180°C Umluft backen. Dann auskühlen lassen...&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-07-12-crostata-meringata-ai-ribes/risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-07-12-crostata-meringata-ai-ribes/risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-07-12-crostata-meringata-ai-ribes/risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-07-12-crostata-meringata-ai-ribes/risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-07-12-crostata-meringata-ai-ribes/risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-07-12-crostata-meringata-ai-ribes/risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-07-12-crostata-meringata-ai-ribes/risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-07-12-crostata-meringata-ai-ribes/risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;h4&gt;Buon appetito
-  &lt;font color=&quot;red&quot;&gt;
-    &lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt;
-&lt;/h4&gt;</content>
-    <summary type="html" xml:lang="de">
-    
-      &lt;p&gt;&lt;img src=&quot;../2022-07-12-crostata-meringata-ai-ribes/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Johannisbeeren-Haselnuss-Meri
-    
-    </summary>
-    
-      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
-    
-      <category term="Crostate, Tartes..." scheme="https://frangipani.raiano.ch/categories/Dolce/Crostate-Tartes/"/>
-    
-    
-      <category term="crostata" scheme="https://frangipani.raiano.ch/tags/crostata/"/>
-    
-      <category term="ribes" scheme="https://frangipani.raiano.ch/tags/ribes/"/>
     
       <category term="estate" scheme="https://frangipani.raiano.ch/tags/estate/"/>
     
