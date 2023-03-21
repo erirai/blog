@@ -4,7 +4,7 @@
   
   <link href="https://frangipani.raiano.ch/de/atom.xml" rel="self"/>
   <link href="https://frangipani.raiano.ch/"/>
-  <updated>2023-03-08T16:19:41.145Z</updated>
+  <updated>2023-03-21T13:04:11.197Z</updated>
   <id>https://frangipani.raiano.ch/</id>
   
   <author>
@@ -13,6 +13,161 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title xml:lang="de">Herzhafte Quark-Bärlauch-Pancakes</title>
+    <link href="https://frangipani.raiano.ch/2023-03-22-herzhafte-quark-barlauch-pancakes/"/>
+    <id>https://frangipani.raiano.ch/2023-03-22-herzhafte-quark-barlauch-pancakes/</id>
+    <published>2023-03-21T23:00:00.000Z</published>
+    <updated>2023-03-21T13:04:11.197Z</updated>
+    <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2023-03-22-pancake-salati-al-quark-e-aglio-orsino/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Herzhafte Quark-Bärlauch-Pancakes&lt;/strong&gt; sehr fluffig, schön schmackhaft aber zart zugleich. Dazu ein Karottensalat oder was auch immer ihr bevorzugt.
+&lt;br /&gt;
+Ich habe noch nie herzhafte Pfannkuchen gemacht, aber ich war schon lange neugierig darauf, also hier sind sie. Ich wollte sie mit Quark machen und da der Frühling endlich hier ist, habe ich noch Bärlauch dazugegeben, den wir hier in der Nähe gesammelt haben. Ihr könnt Bärlauch natürlich auch durch andere Kräuter wie Schnittlauch, Minze, Basilikum und/oder Petersilie ersetzen. Den Quark kann man problemlos auch durch Ricotta ersetzen.&lt;/p&gt;
+&lt;p&gt;Ich wollte diese herzhaften Pancakes mit einem ganz einfachen Karottensalat servieren. Einerseits, weil es mir wegen der Farben gefällt und andererseits im Moment nicht viel anderes zur Auswahl steht. Ich kann den Spargel, die frischen Erbsen, die Erdbeeren und all das Gute, das in den wärmeren Monaten wächst, kaum erwarten...&lt;/p&gt;
+&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
+  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
+    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
+      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Herzhafte Quark-Bärlauch-Pancakes&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Herzhaftes&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;.../2023-03-22-pancake-salati-al-quark-e-aglio-orsino/header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Herzhafte Quark-Bärlauch-Pancakes sehr fluffig, schön schmackhaft aber zart zugleich.&lt;/span&gt;
+      &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
+      &lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;3&lt;/td&gt;
+            &lt;td&gt;Eier&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;150gr&lt;/td&gt;
+            &lt;td&gt;Quark oder Ricotta&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;150ml&lt;/td&gt;
+            &lt;td&gt;Milch&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qs&lt;/td&gt;
+            &lt;td&gt;Bärlauch (und/oder andere Kräuter)&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;280gr&lt;/td&gt;
+            &lt;td&gt;Mehl&lt;/td&gt;     
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 Teelöffel&lt;/td&gt;
+            &lt;td&gt;Backpulver&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;2 Esslöffel&lt;/td&gt;
+            &lt;td&gt;geriebenen Parmesankäse&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qs&lt;/td&gt;
+            &lt;td&gt;Karotten&lt;/td&gt;     
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qs&lt;/td&gt;
+            &lt;td&gt;Salz&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qs&lt;/td&gt;
+            &lt;td&gt;Olivenöl&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qs&lt;/td&gt;
+            &lt;td&gt;Zitronensaft&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;
+      &lt;br&gt;&lt;/br&gt;
+      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot;&gt;für ca. 15 Pancakes&lt;/i&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h3&gt;
+  &lt;font color=&quot;grey&quot;&gt;
+    &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt; Zubereitung
+&lt;/h3&gt;
+
+&lt;p&gt;Die Eier trennen und das Eiweiss mit einer Prise Salz zu Schnee schlagen, beiseite stellen. In eine separate Schüssel die Eigelbe mit dem Quark und einem Teelöffel Salz geben und mit einem Schneebesen gut vermischen. Die Milch hinzugeben und nochmals mischen, dann den fein gehackten Bärlauch dazugeben. An dieser Stelle Mehl, Backpulver und geriebenen Parmesan hinzugeben und gut vermischen. Zum Schluss das Eiweiss vorsichtig unterheben.&lt;/p&gt;
+&lt;p&gt;Eine beschichtete Bratpfanne erhitzen, leicht mit Butter einfetten, dann eine Schöpfkelle des Teigs hineingeben, wenn Platz ist, mehr gut verteilte Häufchen machen. Sobald auf der Oberfläche Bläschen/Löcher erscheinen und die Kontaktfläche mit der Pfanne eine goldbraune Farbe angenommen hat, können sie gewendet und auf der anderen Seite fertig gegart werden.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-03-22-pancake-salati-al-quark-e-aglio-orsino/impasto.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-03-22-pancake-salati-al-quark-e-aglio-orsino/padella.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Als Beilage könnt ihr die Karotten schälen und gleich mit dem Kartoffelschäler viele dünne Streifen schneiden. Mit Salz, Öl und Zitronensaft würzen. Legt einige &lt;strong&gt;herzhafte Quark-Bärlauch-Pancakes&lt;/strong&gt; auf einen Teller und legt die Karotten (oder anderes Gemüse) darauf.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-03-22-pancake-salati-al-quark-e-aglio-orsino/risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-03-22-pancake-salati-al-quark-e-aglio-orsino/risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-03-22-pancake-salati-al-quark-e-aglio-orsino/risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-03-22-pancake-salati-al-quark-e-aglio-orsino/risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-03-22-pancake-salati-al-quark-e-aglio-orsino/risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-03-22-pancake-salati-al-quark-e-aglio-orsino/risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-03-22-pancake-salati-al-quark-e-aglio-orsino/risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-03-22-pancake-salati-al-quark-e-aglio-orsino/risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-03-22-pancake-salati-al-quark-e-aglio-orsino/risultato9.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-03-22-pancake-salati-al-quark-e-aglio-orsino/risultato10.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h4&gt;Buon appetito
+  &lt;font color=&quot;red&quot;&gt;
+    &lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt;
+&lt;/h4&gt;</content>
+    <summary type="html" xml:lang="de">
+    
+      &lt;p&gt;&lt;img src=&quot;../2023-03-22-pancake-salati-al-quark-e-aglio-orsino/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Herzhafte Quark-Bä
+    
+    </summary>
+    
+      <category term="Salato" scheme="https://frangipani.raiano.ch/categories/Salato/"/>
+    
+      <category term="Torte salate, Muffin salati..." scheme="https://frangipani.raiano.ch/categories/Salato/Torte-salate-Muffin-salati/"/>
+    
+    
+      <category term="pancakes" scheme="https://frangipani.raiano.ch/tags/pancakes/"/>
+    
+      <category term="Bärlauch" scheme="https://frangipani.raiano.ch/tags/Barlauch/"/>
+    
+  </entry>
   
   <entry>
     <title xml:lang="de">Olivenbrot</title>
@@ -3119,176 +3274,6 @@ Heisse Konfitüre in die sauberen und sterilisierten Gläser füllen, verschlies
       <category term="marmellata" scheme="https://frangipani.raiano.ch/tags/marmellata/"/>
     
       <category term="autunno" scheme="https://frangipani.raiano.ch/tags/autunno/"/>
-    
-  </entry>
-  
-  <entry>
-    <title xml:lang="de">Heidelbeer-Mandel-Streuselkuchen</title>
-    <link href="https://frangipani.raiano.ch/2022-07-20-heidelbeer-mandel-streuselkuchen/"/>
-    <id>https://frangipani.raiano.ch/2022-07-20-heidelbeer-mandel-streuselkuchen/</id>
-    <published>2022-07-19T22:00:00.000Z</published>
-    <updated>2022-07-19T14:15:02.609Z</updated>
-    <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2022-07-20-sbriciolata-alle-mandorle-e-mirtilli/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Heidelbeer-Mandel-Streuselkuchen&lt;/strong&gt; wohltuhend, lecker, befriedigend und einfach zuzubereiten. Ein knuspriger Mandelstreusel gefüllt mit saftigen Heidelbeeren.
-&lt;br /&gt;
-Vor ein paar Monaten war ich mit einer lieben Freundin hier im Dorf in einem Kafi und habe Heidelbeer-Streuselkuchen gegessen. Es war so gut, aber ich konnte nicht herausfinden, welche Zutat dieses Extra gab. Ich dachte, es wäre Kokosnussmehl, stattdessen waren es Mandeln. Ich habe mir gesagt, ich muss ihn im Sommer backen. Gesagt, getan!
-&lt;br /&gt;
-Er ist fantastisch! Dazu sind gekochte Heidelbeeren eine spektakuläre Sache... sie werden schön saftig und dann ist diese dunkle Farbe wooow. Man kann aber auch andere Früchte benutzen. Zum Beispiel Äpfel, &lt;a href=&quot;https://frangipani.raiano.ch/2018-07-04-sbriciolata-alle-pesche-con-rosmarino-de/&quot; target=&quot;_blank&quot;&gt;Pfirsiche&lt;/a&gt;, Himbeeren, &lt;a href=&quot;https://frangipani.raiano.ch/2021-09-01-sbriciolata-con-prugne-e-crema-alla-cannella-de/&quot; target=&quot;_blank&quot;&gt;Zwetschgen&lt;/a&gt;... Ihr könnt mit Gewürzen spielen, fügt aber auch Crèmes hinzu oder mischt verschiedene Obstsorten.&lt;/p&gt;
-&lt;p&gt;Die Sommerferien haben am Montag begonnen und dauern bis zum 21. August. Wir wissen noch nicht, ob wir in den Urlaub fahren, leider haben wir spät darüber nachgedacht und nichts gefunden. Macht aber nichts, denn wenn das Wetter so weitergeht, haben wir die Möglichkeit in Fluss und See zu gehen und ausserdem sind weniger Menschen unterwegs!
-&lt;br /&gt;
-Über die Ferientage werde ich auch eine kleine Blogpause einlegen... im Sommer ist das Interesse nicht so gross und ich nutze die Gelegenheit, die nächsten Monate zu planen und mir ein paar Herbstrezepte auszudenken, die ich persönlich liebe. Geniesst den Sommer, ruht euch aus und tankt neue Energie. Ich werde es tun!&lt;/p&gt;
-&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
-  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
-    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
-      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Heidelbeer-Mandel-Streuselkuchen&lt;/span&gt;
-      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Süsses&lt;/span&gt;
-      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2022-07-20-sbriciolata-alle-mandorle-e-mirtilli/header.jpeg&quot;/&gt;
-      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
-      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Johannisbeeren-Haselnuss-Meringue-Tarte, ein Klassiker aus dem deutschsprachigen Raum. Eine Mürbeteighülle und eine Baiserfüllung mit Haselnüssen und Johannisbeeren.&lt;/span&gt;
-      &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
-      &lt;table&gt;
-        &lt;tbody&gt;
-          &lt;/tr&gt;     
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;        
-            &lt;td&gt;130gr&lt;/td&gt;
-            &lt;td&gt;Mehl&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;        
-            &lt;td&gt;150gr&lt;/td&gt;
-            &lt;td&gt;gemahlene Mandeln&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;80gr&lt;/td&gt;
-            &lt;td&gt;Zucker&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qs&lt;/td&gt;
-            &lt;td&gt;Vanille&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 Prise&lt;/td&gt;
-            &lt;td&gt;Salz&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;125gr&lt;/td&gt;
-            &lt;td&gt;kalte Butter in Stücke&lt;/td&gt;
-          &lt;/tr&gt;      
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1&lt;/td&gt;
-            &lt;td&gt;kleies Ei&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;250gr&lt;/td&gt;
-            &lt;td&gt;Heidelbeeren&lt;/td&gt;
-           &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 Esslöffel&lt;/td&gt;
-            &lt;td&gt;Kartoffel- o Maisstärke&lt;/td&gt;
-           &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;2 Esslöffel&lt;/td&gt;
-            &lt;td&gt;Zucker&lt;/td&gt; 
-           &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qs&lt;/td&gt;
-            &lt;td&gt;Zitronensaft&lt;/td&gt;                   
-          &lt;/tr&gt;
-        &lt;/tbody&gt;
-      &lt;/table&gt;
-      &lt;br&gt;&lt;/br&gt;
-      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot; itemprop=&quot;recipeYield&quot;&gt;für eine 20cm Backform&lt;/i&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h3&gt;
-  &lt;font color=&quot;grey&quot;&gt;
-    &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt; Zubereitung
-&lt;/h3&gt;
-
-&lt;p&gt;Mehl, gemahlene Mandeln, Zucker, Vanille und Salz in eine Schüssel geben und vermischen. Die Butter und das Ei dazugeben und mit den Fingerspitzen verkneten, sodass die Masse krümelig wird, dann im Kühlschrank ruhen lassen.&lt;/p&gt;
-&lt;p&gt;Heidelbeeren, Stärke, Zucker und Zitronensaft in eine separate Schüssel geben und vermischen.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-07-20-sbriciolata-alle-mandorle-e-mirtilli/crumble.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-07-20-sbriciolata-alle-mandorle-e-mirtilli/mirtilli.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Eine Backform mit Backpapier auslegen, dann etwa 2/3 des krümeligen Teigs in die Backform geben. Drückt dem Teig mit der Hand an, aber nicht zu fest, und bildet den Kuchenboden mit einem Rand. Nehmt die Heidelbeeren und verteilt sie auf dem Kuchenboden. Die restliche Teigmasse gleichmässig über die Heidelbeeren bröseln.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-07-20-sbriciolata-alle-mandorle-e-mirtilli/teglia1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-07-20-sbriciolata-alle-mandorle-e-mirtilli/teglia2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Den Streuselkuchen im vorgeheizten Ofen bei 180°C Ober- und Unterhitze ca. 40min backen. Er soll eine goldbraune Farbe haben, nicht zu dunkel. Lasst ihn abkühlen, bevor ihr ihn aus der form nehmt oder nehmt ihn Löffelweise noch warm, vielleicht mit einer Kuchel Vanilleglace.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-07-20-sbriciolata-alle-mandorle-e-mirtilli/risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-07-20-sbriciolata-alle-mandorle-e-mirtilli/risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-07-20-sbriciolata-alle-mandorle-e-mirtilli/risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-07-20-sbriciolata-alle-mandorle-e-mirtilli/risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-07-20-sbriciolata-alle-mandorle-e-mirtilli/risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-07-20-sbriciolata-alle-mandorle-e-mirtilli/risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-07-20-sbriciolata-alle-mandorle-e-mirtilli/risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-07-20-sbriciolata-alle-mandorle-e-mirtilli/risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-07-20-sbriciolata-alle-mandorle-e-mirtilli/risultato9.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-07-20-sbriciolata-alle-mandorle-e-mirtilli/risultato10.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;h4&gt;Buon appetito
-  &lt;font color=&quot;red&quot;&gt;
-    &lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt;
-&lt;/h4&gt;</content>
-    <summary type="html" xml:lang="de">
-    
-      &lt;p&gt;&lt;img src=&quot;../2022-07-20-sbriciolata-alle-mandorle-e-mirtilli/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Heidelbeer-Mandel-St
-    
-    </summary>
-    
-      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
-    
-      <category term="Crostate, Tartes..." scheme="https://frangipani.raiano.ch/categories/Dolce/Crostate-Tartes/"/>
-    
-    
-      <category term="crostata" scheme="https://frangipani.raiano.ch/tags/crostata/"/>
-    
-      <category term="mirtilli" scheme="https://frangipani.raiano.ch/tags/mirtilli/"/>
-    
-      <category term="estate" scheme="https://frangipani.raiano.ch/tags/estate/"/>
     
   </entry>
   
