@@ -4,7 +4,7 @@
   
   <link href="https://frangipani.raiano.ch/it/atom.xml" rel="self"/>
   <link href="https://frangipani.raiano.ch/"/>
-  <updated>2023-03-21T13:01:58.760Z</updated>
+  <updated>2023-03-27T16:14:06.498Z</updated>
   <id>https://frangipani.raiano.ch/</id>
   
   <author>
@@ -13,6 +13,153 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title xml:lang="it">Torta di Carote Svizzera (Aargauer Rüeblitorte)</title>
+    <link href="https://frangipani.raiano.ch/2023-03-28-torta-di-carote-svizzera/"/>
+    <id>https://frangipani.raiano.ch/2023-03-28-torta-di-carote-svizzera/</id>
+    <published>2023-03-27T22:00:00.000Z</published>
+    <updated>2023-03-27T16:14:06.498Z</updated>
+    <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Torta di Carote Svizzera (Aargauer Rüeblitorte)&lt;/strong&gt;, mi dispiace, ma non esiste torta di carote più buona al mondo, inoltre è pure senza glutine e lattosio. È un classico della tradizione svizzera e deve avere esattamente queste caratteristiche: umida, rustica, un leggerissimo gusto di cannella e chiodi di garofano e una glassa al limone. Le carotine di marzapane sono un optional, ma diciamo che completano il tutto, tadizionalmente vanno messe. &lt;/p&gt;
+&lt;p&gt;È una torta senza glutine e senza lattosio. Una di quelle torte dove aggiungi gli albumi separatamente. È una torta che richiede un po&amp;#39; di tempo per prepararla perché si devono montare le uova con lo zucchero, si devono grattugiare finemente le carote, poi devi montare gli albumi, incorporare a mano gli albumi e infine l&amp;#39;amido e le spezie. E la cottura è anche lunghina, ma vi assicuro che ne vale assolutissimamente la pena.
+&lt;br /&gt;
+Lo so, non tutti amano la glassa di zucchero, neanche io, ma in questo caso ci sta. Ci sta benissimo il gusto del limone con il sapore delle carote e delle mandorle. Io vi consiglio di metterla, ma volendo va bene anche un frosting al formaggio, una spolverata di zucchero a velo o semplicemente niente.&lt;/p&gt;
+&lt;p&gt;Non facevo questa torta esattamente da 8 anni, quando ero incinta di Gioele. Mi ricordo che una sera mi venne una matta ed improvvisa voglia di questa torta di carote. Erano già passate le 19 quindi il supermercato in paese era già chiuso. Dovetti farmela io. Preparai la torta, ne mangiai un pezzo, andai a letto felice. Perché proprio questa torta di carote? Boh, non lo so... Chiedete a Gioele!
+&lt;br /&gt;
+Non l&amp;#39;ho mai più fatta, ma ce l&amp;#39;avevo sempre in qualche parte nella mia testa perché volevo proprio metterla nel Blog. Ammetto che quest&amp;#39;anno proprio non sapevo che ricetta preparare per Pasqua, quindi pensai che fosse la volta buona per rifare questa &lt;strong&gt;Torta di Carote Svizzera&lt;/strong&gt;. Ed eccola a voi. La amerete!&lt;/p&gt;
+&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
+  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
+    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
+      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Torta di Carote Svizzera (Aargauer Rüeblitorte)&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Dolce&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Torta di Carote Svizzera (Aargauer Rüeblitorte), mi dispiace, ma non esiste torta di carote più buona al mondo, inoltre è pure senza glutine e lattosio.&lt;/span&gt;
+      &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
+      &lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;3&lt;/td&gt;
+            &lt;td&gt;uova&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;150gr&lt;/td&gt;
+            &lt;td&gt;zucchero&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 pizzico&lt;/td&gt;
+            &lt;td&gt;sale&lt;/td&gt;
+           &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1&lt;/td&gt;
+            &lt;td&gt;limone&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;180gr&lt;/td&gt;
+            &lt;td&gt;carote grattugiate finemente&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;180gr&lt;/td&gt;
+            &lt;td&gt;mandorle macinate&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;25gr&lt;/td&gt;
+            &lt;td&gt;fecola di patate o simile&lt;/td&gt;
+           &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 cucchiaino raso&lt;/td&gt;
+            &lt;td&gt;lievito per dolci&lt;/td&gt; 
+           &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 pizzico&lt;/td&gt;
+            &lt;td&gt;cannella in polvere&lt;/td&gt; 
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 pizzico&lt;/td&gt;
+            &lt;td&gt;chiodi di garofano in polvere&lt;/td&gt;
+           &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;60gr&lt;/td&gt;
+            &lt;td&gt;zucchero a velo&lt;/td&gt;     
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;
+      &lt;br&gt;&lt;/br&gt;
+      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot;&gt;per una tortiera rotonda da 20cm&lt;/i&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h3&gt;
+  &lt;font color=&quot;grey&quot;&gt;
+    &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt; Preparazione
+&lt;/h3&gt;
+
+&lt;p&gt;Separate gli albumi dai tuorli. Montate i tuorli con 115gr di zucchero, il sale e la scorza del limone finché non saranno belli chiari e gonfi. Aggiungete le carote precedentemente grattugiate finemente mischiate con un cucchiaio di succo di limone e le mandorle. Amalgamate bene.
+&lt;br /&gt;
+Monate a neve gli albumi, appena inizano a diventare bianchi, aggiungete poco alla volta i restanti 35gr di zucchero. Prendete il composto con le carote e con un leccapentole incorporate con un movimento dall&amp;#39;alto verso il basso pochi alla volta gli albumi.
+&lt;br /&gt;
+In una ciotolina a parte mescolate l&amp;#39;amido, il lievito, la cannella ed i chiodi di garofano. Setacciate queste polveri direttamente sopra l&amp;#39;impasto, poi incorporate delicatamente senza farlo smontare. Versate l&amp;#39;impasto in una teglia rotonda foderata con della carta forno.
+&lt;img src=&quot;teglia.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Infornate la &lt;strong&gt;Torta di Carote Svizzera&lt;/strong&gt; nel forno preriscaldato statico a 180°C nella parte bassa del forno per 50-60min, fate sempre la prova stecchino, ma comunque la torta rimane umidina. Lasciate la torta ancora un po&amp;#39; nel forno spento e aperto, poi sfornatela e una volta fredda passatela su di un piatto da portata.&lt;/p&gt;
+&lt;p&gt;Preparate la glassa allo zucchero mescolando lo zucchero a velo con un pochino di succo di limone alla volta, dovrà essere densa ma fluida. Poi spalmate la glassa sulla superficie e fatela asciugare. Per ultimo aggiungete le carotine di marzapane (sono un optional, ma tradizionalmente ci vanno).&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h4&gt;Buon appetito
+  &lt;font color=&quot;red&quot;&gt;
+    &lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt;
+&lt;/h4&gt;</content>
+    <summary type="html" xml:lang="it">
+    
+      &lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Torta di Carote Svizzera (Aargauer Rüeblitorte)&lt;/strong&gt;, mi dispiace, 
+    
+    </summary>
+    
+      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
+    
+      <category term="Torte" scheme="https://frangipani.raiano.ch/categories/Dolce/Torte/"/>
+    
+    
+      <category term="glutenfree" scheme="https://frangipani.raiano.ch/tags/glutenfree/"/>
+    
+      <category term="pasqua" scheme="https://frangipani.raiano.ch/tags/pasqua/"/>
+    
+  </entry>
   
   <entry>
     <title xml:lang="it">Pancake salati al Quark e Aglio Orsino</title>
@@ -3146,133 +3293,6 @@ A questo punto riempio i vasetti con la Caponata lasciando circa 2cm di bordo. P
       <category term="estate" scheme="https://frangipani.raiano.ch/tags/estate/"/>
     
       <category term="conserva" scheme="https://frangipani.raiano.ch/tags/conserva/"/>
-    
-  </entry>
-  
-  <entry>
-    <title xml:lang="it">Confettura di Prugne alla Cannella</title>
-    <link href="https://frangipani.raiano.ch/2022-08-25-confettura-di-prugne-alla-cannella/"/>
-    <id>https://frangipani.raiano.ch/2022-08-25-confettura-di-prugne-alla-cannella/</id>
-    <published>2022-08-24T22:00:00.000Z</published>
-    <updated>2022-10-30T14:39:14.788Z</updated>
-    <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Confettura di Prugne alla Cannella&lt;/strong&gt; dal gusto deciso e confortante. Molto setosa, morbida e dal colore wow! Si prepara velocemente, perché la frutta si pulisce facilmente e se avete un prugno in giardino, ancora meglio. Il suo profumo ti fa venire subito voglia di autunno...
-&lt;br /&gt;
-Preparo questa confettura ogni anno, perché è una delle mie preferite, ma non so perché, non l&amp;#39;ho mai messa sul blog. È quasi sempre l&amp;#39;ultima confettura che preparo, perché le prugne sono gli ultimi frutti estivi che maturano. Infatti, quando arrivano le prugne, mi rendo conto che l&amp;#39;estate sta finendo, che la tarda estate è qui e che l&amp;#39;autunno è ormai alle porte. &lt;a href=&quot;https://frangipani.raiano.ch/tags/marmellata/&quot; target=&quot;_blank&quot;&gt;Qui&lt;/a&gt; trovate altre confetture da preparare...&lt;/p&gt;
-&lt;p&gt;E siamo qui... è ricominciato un nuovo anno scolastico, i bimbi sono ritornati a scuola e a casa è ritornato il silenzio. Abbiamo passato delle bellissime vacanze, sono volate. Siamo andati inaspettatamente al mare. Nel senso che non era in programma, abbiamo prenotato last minute. 
-&lt;br /&gt;
-Dopo l&amp;#39;estate inesistente dell&amp;#39;anno scorso, questa è stata un&amp;#39;estate pazzesca! Calda, soleggiata, lunga... ma purtroppo con molta siccità. Praticamente non ha piovuto. Zero. Qualche breve temporale, una leggera pioggerellina, tutto qui.
-&lt;br /&gt;
-Non c&amp;#39;è ancora pioggia in vista, ma l&amp;#39;aria si è rinfrescata, soprattutto di notte e la mattina. Si sente profumo di tarda estate... Ma anche per voi l&amp;#39;aria delle stagioni ha sempre un profumo diverso?&lt;/p&gt;
-&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
-  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
-    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
-      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Confettura di Prugne alla Cannella&lt;/span&gt;
-      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Dolce&lt;/span&gt;
-      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;header.jpeg&quot;/&gt;
-      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
-      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Confettura di Prugne alla Cannella dal gusto deciso e confortante. Molto setosa, morbida e dal colore wow!&lt;/span&gt;
-      &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
-      &lt;table&gt;
-        &lt;tbody&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1.1kg&lt;/td&gt;
-            &lt;td&gt;prugne già denocciolate&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1&lt;/td&gt;
-            &lt;td&gt;limone solo il succo&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1&lt;/td&gt;
-            &lt;td&gt;stecca di cannella&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 bustina&lt;/td&gt;
-            &lt;td&gt;gelificante&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;700gr&lt;/td&gt;
-            &lt;td&gt;zucchero&lt;/td&gt;
-          &lt;/tr&gt;
-        &lt;/tbody&gt;
-      &lt;/table&gt;
-      &lt;br&gt;&lt;/br&gt;
-      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot; itemprop=&quot;recipeYield&quot;&gt;per 4-5 boccette&lt;/i&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;h3&gt;
-  &lt;font color=&quot;grey&quot;&gt;
-    &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt; Preparazione
-&lt;/h3&gt;
-
-&lt;p&gt;Il procedimento dipende sempre dal gelificante, io vi mostro il procedimento come scritto sulla bustina del gelificante che uso io.
-&lt;br /&gt;
-Lavate le prugne, denocciolatele, tagliatele in 4 e mettetele in una pentola capiente. Aggiungete il succo di limone, la stecca di cannella e il gelificante e incorporatelo bene.
-&lt;img src=&quot;prugne.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Fate cuocere bene il tutto, se c&amp;#39;è bisogno aggiungete un goccio d&amp;#39;acqua. Quando il tutto sarà bello morbido, frullate con il mixer a immersione (togliete prima la stecca di cannella). Poi aggiungete lo zucchero e fatelo sciogliere bene. Fatela cucinare ancora per un po&amp;#39;. Prendete un cucchiaio e fate la prova se la confettura si è gelificata abbastanza: se la confettura resta appiccicata al cucchiaio e si gelifica subito è pronta e potete toglierla dai fornelli.
-&lt;br /&gt;
-Versate la confettura ancora bollente nei vasetti precedentemente sterilizzati aiutandovi con un imbuto per marmellate, chiudete i vasetti e metteteli sottosopra. Appena si è raffreddata potete girare i vasetti. Potete controllare se si è creato il sottovuoto, semplicemente schiacciando il centro del coperchio. Se si alza e abbassa e fa clic clic, non si è creato il sottovuoto e non potrete &amp;quot;conservarla&amp;quot;. In questo caso la dovete utilizzare subito tenendola in frigo. Se invece il coperchio non si muove e non fa nessun tipo di rumore, potete conservarla in un luogo buio e fresco anche per più di un anno.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;h4&gt;Buon appetito
-  &lt;font color=&quot;red&quot;&gt;
-    &lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt;
-&lt;/h4&gt;</content>
-    <summary type="html" xml:lang="it">
-    
-      &lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Confettura di Prugne alla Cannella&lt;/strong&gt; dal gusto deciso e conforta
-    
-    </summary>
-    
-      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
-    
-      <category term="Conserve" scheme="https://frangipani.raiano.ch/categories/Dolce/Conserve/"/>
-    
-    
-      <category term="conserve" scheme="https://frangipani.raiano.ch/tags/conserve/"/>
-    
-      <category term="vegan" scheme="https://frangipani.raiano.ch/tags/vegan/"/>
-    
-      <category term="marmellata" scheme="https://frangipani.raiano.ch/tags/marmellata/"/>
-    
-      <category term="autunno" scheme="https://frangipani.raiano.ch/tags/autunno/"/>
     
   </entry>
   
