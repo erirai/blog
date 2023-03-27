@@ -23,7 +23,7 @@ Ich wollte diese herzhaften Pancakes mit einem ganz einfachen Karottensalat serv
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Herzhafte Quark-Bärlauch-Pancakes</span>
       <span itemprop="recipeCategory" style="display:none;">Herzhaftes</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src=".../2023-03-22-pancake-salati-al-quark-e-aglio-orsino/header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2023-03-22-pancake-salati-al-quark-e-aglio-orsino/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Herzhafte Quark-Bärlauch-Pancakes sehr fluffig, schön schmackhaft aber zart zugleich.</span>
       <div class="ingredients-title">Zutaten</div>
