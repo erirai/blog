@@ -9,6 +9,22 @@
 
 
     <url>
+        <loc>https://frangipani.raiano.ch/2023-04-12-brioche-suisse-de/</loc>
+        <lastmod>2023-04-11T08:35:21.006Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2023-04-12-brioche-suisse/</loc>
+        <lastmod>2023-04-11T08:26:59.882Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://frangipani.raiano.ch/2023-03-28-aargauer-rueblitorte/</loc>
         <lastmod>2023-03-27T17:51:52.687Z</lastmod>
         <changefreq>weekly</changefreq>
