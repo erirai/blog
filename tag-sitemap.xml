@@ -3,6 +3,20 @@
 
 
     <url>
+        <loc>https://frangipani.raiano.ch/tags/festa-del-papa/</loc>
+        <lastmod>2023-04-17T15:48:40.471Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/tags/cioccolato/</loc>
+        <lastmod>2023-04-17T15:48:40.471Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://frangipani.raiano.ch/tags/colazione/</loc>
         <lastmod>2023-04-11T08:35:21.006Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -178,13 +192,6 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/tags/cioccolato/</loc>
-        <lastmod>2022-11-22T17:07:21.661Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://frangipani.raiano.ch/tags/nocciole/</loc>
         <lastmod>2022-11-15T15:10:13.362Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -264,13 +271,6 @@
     <url>
         <loc>https://frangipani.raiano.ch/tags/caffe/</loc>
         <lastmod>2022-10-25T11:45:55.255Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/tags/festa-del-papa/</loc>
-        <lastmod>2022-10-24T17:29:30.421Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
