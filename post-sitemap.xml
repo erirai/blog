@@ -9,8 +9,24 @@
 
 
     <url>
+        <loc>https://frangipani.raiano.ch/2014-06-06-rhabarber-tarte/</loc>
+        <lastmod>2023-05-22T17:54:27.256Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://frangipani.raiano.ch/2023-05-17-rhabarber-apfel-crumble/</loc>
-        <lastmod>2023-05-16T14:50:21.369Z</lastmod>
+        <lastmod>2023-05-22T17:43:19.348Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2014-06-06-crostata-di-rabarbaro/</loc>
+        <lastmod>2023-05-22T17:29:43.386Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -5378,14 +5394,6 @@
 
     <url>
         <loc>https://frangipani.raiano.ch/2014-06-05-torta-salata-con-verdure-e-tofu-rosso/</loc>
-        <lastmod>2017-08-20T12:10:57.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2014-06-06-crostata-di-rabarbaro/</loc>
         <lastmod>2017-08-20T12:10:57.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>

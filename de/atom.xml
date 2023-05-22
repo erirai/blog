@@ -4,7 +4,7 @@
   
   <link href="https://frangipani.raiano.ch/de/atom.xml" rel="self"/>
   <link href="https://frangipani.raiano.ch/"/>
-  <updated>2023-05-16T14:50:21.369Z</updated>
+  <updated>2023-05-22T17:43:19.348Z</updated>
   <id>https://frangipani.raiano.ch/</id>
   
   <author>
@@ -19,7 +19,7 @@
     <link href="https://frangipani.raiano.ch/2023-05-17-rhabarber-apfel-crumble/"/>
     <id>https://frangipani.raiano.ch/2023-05-17-rhabarber-apfel-crumble/</id>
     <published>2023-05-16T22:00:00.000Z</published>
-    <updated>2023-05-16T14:50:21.369Z</updated>
+    <updated>2023-05-22T17:43:19.348Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2023-05-17-crumble-di-rabarbaro-e-mele/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Werbung: &lt;strong&gt;Rhabarber-Apfel-Crumble&lt;/strong&gt; in Zusammenarbeit mit &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt;. Ein schnelles und einfaches Rezept, perfekt für diese noch etwas kühlen Tage.
 &lt;br /&gt;
@@ -33,7 +33,7 @@ Endlich gibt es mehr Auswahl an Obst und Gemüse und das merkt man auch auf der 
     &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
       &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Rhabarber-Apfel-Crumble&lt;/span&gt;
       &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Süsses&lt;/span&gt;
-      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;.../2023-05-17-crumble-di-rabarbaro-e-mele/header.jpeg&quot;/&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2023-05-17-crumble-di-rabarbaro-e-mele/header.jpeg&quot;/&gt;
       &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
       &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Rhabarber-Apfel-Crumble, ein schnelles und einfaches Rezept, perfekt für diese noch etwas kühlen Tage.&lt;/span&gt;
       &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
