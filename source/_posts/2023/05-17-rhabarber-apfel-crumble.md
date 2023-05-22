@@ -29,7 +29,7 @@ Meiner Meinung nach isst man Crumble am besten so: heiss und mit Vanilleglacé. 
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Rhabarber-Apfel-Crumble</span>
       <span itemprop="recipeCategory" style="display:none;">Süsses</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src=".../2023-05-17-crumble-di-rabarbaro-e-mele/header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2023-05-17-crumble-di-rabarbaro-e-mele/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Rhabarber-Apfel-Crumble, ein schnelles und einfaches Rezept, perfekt für diese noch etwas kühlen Tage.</span>
       <div class="ingredients-title">Zutaten</div>
