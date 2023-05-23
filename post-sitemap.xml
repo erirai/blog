@@ -9,6 +9,14 @@
 
 
     <url>
+        <loc>https://frangipani.raiano.ch/2023-05-24-safran-couscous-salat-mit-spargeln-und-erbsen/</loc>
+        <lastmod>2023-05-23T15:56:32.840Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://frangipani.raiano.ch/2014-06-06-rhabarber-tarte/</loc>
         <lastmod>2023-05-22T17:54:27.256Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -27,6 +35,14 @@
     <url>
         <loc>https://frangipani.raiano.ch/2014-06-06-crostata-di-rabarbaro/</loc>
         <lastmod>2023-05-22T17:29:43.386Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2023-05-24-insalata-di-cous-cous-allo-zafferano-con-asparagi-e-piselli/</loc>
+        <lastmod>2023-05-22T09:01:03.213Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
