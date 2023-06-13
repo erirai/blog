@@ -4,7 +4,7 @@
   
   <link href="https://frangipani.raiano.ch/de/atom.xml" rel="self"/>
   <link href="https://frangipani.raiano.ch/"/>
-  <updated>2023-05-30T19:01:56.805Z</updated>
+  <updated>2023-06-12T08:07:37.514Z</updated>
   <id>https://frangipani.raiano.ch/</id>
   
   <author>
@@ -13,6 +13,180 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title xml:lang="de">Ricotta-Erdbeer-Torte</title>
+    <link href="https://frangipani.raiano.ch/2023-06-14-ricotta-erdbeer-torte/"/>
+    <id>https://frangipani.raiano.ch/2023-06-14-ricotta-erdbeer-torte/</id>
+    <published>2023-06-13T22:00:00.000Z</published>
+    <updated>2023-06-12T08:07:37.514Z</updated>
+    <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2023-06-14-torta-di-ricotta-e-fragole/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Werbung: &lt;strong&gt;Ricotta-Erdbeer-Torte&lt;/strong&gt; in Zusammenarbeit mit &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt;. Ein Kuchen mit fluffigem Boden, einer cremigen Ricotta-Füllung und saftigen Erdbeeren. Ich liebe diese einfach zuzubereitenden Kuchen, die bereits gefüllt mit viel Crème und Früchten aus dem Ofen kommen. Man fängt so zwei Fliegen mit einer Klappe.&lt;/p&gt;
+&lt;p&gt;Ich wollte dieses Rezept bereits letzten Monat für &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt; machen, aber ich konnte keine regionalen Erdbeeren finden, als ich sie brauchte. Es ist ein altes Rezept meiner Mutter, das ich ehrlich gesagt schon lange nicht mehr gegessen habe. Ich habe sie noch nie gebacken, sie hat sie schon seit Jahren nicht mehr gemacht. Es schien mir, dass es an der Zeit war, sie zu backen und auf den Blog zu stellen!&lt;/p&gt;
+&lt;p&gt;Die Zutaten habe ich von &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt; bezogen, einiges hatte ich schon zu Hause, aber Obst, Milchprodukte und Eier kaufe ich selbstverständlich immer frisch.
+&lt;img src=&quot;../2023-06-14-torta-di-ricotta-e-fragole/spesa.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Als Früchte habe ich Erdbeeren gewählt, man kann aber auch anderes Obst (oder Gemüse) wie Äpfel oder Rhabarber, aber auch Beeren nehmen. Gefrorene sind auch in Ordnung, da noch nicht Saison ist. Oder sogar Schokolade statt Obst. Und ja, keine Sorge, ihr findet alles bei &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt;.&lt;/p&gt;
+&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
+  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
+    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
+      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Ricotta-Erdbeer-Torte&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Süsses&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2023-06-14-torta-di-ricotta-e-fragole/header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Ricotta-Erdbeer-Torte, ein Kuchen mit fluffigem Boden, einer cremigen Ricotta-Füllung und saftigen Erdbeeren.&lt;/span&gt;
+      &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
+      &lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;     
+            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Teig&lt;/b&gt;&lt;/td&gt;
+          &lt;/tr&gt; 
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;250gr&lt;/td&gt;
+            &lt;td&gt;Mehl&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;9gr&lt;/td&gt;
+            &lt;td&gt;Backpulver&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;90gr&lt;/td&gt;
+            &lt;td&gt;weiche Butter&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;50gr&lt;/td&gt;
+            &lt;td&gt;Zucker&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1&lt;/td&gt;
+            &lt;td&gt;Ei&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;10 Esslöffel&lt;/td&gt;
+            &lt;td&gt;Milch oder Rahm&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 Prise&lt;/td&gt;
+            &lt;td&gt;Vanille&lt;/td&gt;
+          &lt;tr&gt;
+            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Füllung&lt;/b&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;250gr&lt;/td&gt;
+            &lt;td&gt;Ricotta&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;50gr&lt;/td&gt;
+            &lt;td&gt;Zucker&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qs&lt;/td&gt;
+            &lt;td&gt;Vanille&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;2&lt;/td&gt;
+            &lt;td&gt;Eier&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 Espressotasse&lt;/td&gt;
+            &lt;td&gt;Sonnenblumenöl&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;250gr&lt;/td&gt;
+            &lt;td&gt;Erdbeeren&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;
+      &lt;br&gt;&lt;/br&gt;
+      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot; itemprop=&quot;recipeYield&quot;&gt;für eine 18-20cm Backform&lt;/i&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h3&gt;
+  &lt;font color=&quot;grey&quot;&gt;
+    &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt; Zubereitung
+&lt;/h3&gt;
+
+&lt;p&gt;Alle Zutaten für den Teig in eine Schüssel geben und gut rühren, bis alles gut vermischt ist. Anschliessend eine halbe Stunde ruhen lassen.
+&lt;br /&gt;
+In der Zwischenzeit die Füllung vorbereiten. Den Zucker mit den Eigelben schaumig schlagen. Vanille und Ricotta dazugeben und gut vermischen, dann das Öl hinzufügen und fertig rühren. Zum Schluss, mit einem Spatel, die beiden zuvor mit einer Prise Salz steifgeschlagenen Eiweisse unterheben.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-06-14-torta-di-ricotta-e-fragole/impasto.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-06-14-torta-di-ricotta-e-fragole/ricotta.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Eine mit Backpapier bedeckte runde Form mit einem Durchmesser von 18-20cm nehmen, den Teig hinein giessen und glatt streichen. Die Ricotta-Crème ganz vorsichtig darüber giessen, glatt streichen und dann die in Schnitze geschnittenen Erdbeeren in die Ricotta-Crème tauchen.
+&lt;img src=&quot;../2023-06-14-torta-di-ricotta-e-fragole/teglia.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Die &lt;strong&gt;Ricotta-Erdbeer-Torte&lt;/strong&gt; für 40-50min bei 220°C Ober- und Unterhitze backen. Anschliessend den Ofen ausschalten, leicht öffnen und die Torte eine halbe Stunde darin lassen. Dann aus dem Ofen nehmen und sie vollständig abkühlen lassen, bevor sie aus der Backform genommen wird.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-06-14-torta-di-ricotta-e-fragole/risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-06-14-torta-di-ricotta-e-fragole/risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-06-14-torta-di-ricotta-e-fragole/risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-06-14-torta-di-ricotta-e-fragole/risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-06-14-torta-di-ricotta-e-fragole/risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-06-14-torta-di-ricotta-e-fragole/risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-06-14-torta-di-ricotta-e-fragole/risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-06-14-torta-di-ricotta-e-fragole/risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-06-14-torta-di-ricotta-e-fragole/risultato9.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-06-14-torta-di-ricotta-e-fragole/risultato10.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h4&gt;Buon appetito
+  &lt;font color=&quot;red&quot;&gt;
+    &lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt;
+&lt;/h4&gt;</content>
+    <summary type="html" xml:lang="de">
+    
+      &lt;p&gt;&lt;img src=&quot;../2023-06-14-torta-di-ricotta-e-fragole/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Werbung: &lt;strong&gt;Ricotta-Erdbeer-Torte
+    
+    </summary>
+    
+      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
+    
+      <category term="Torte" scheme="https://frangipani.raiano.ch/categories/Dolce/Torte/"/>
+    
+    
+      <category term="fragole" scheme="https://frangipani.raiano.ch/tags/fragole/"/>
+    
+      <category term="estate" scheme="https://frangipani.raiano.ch/tags/estate/"/>
+    
+      <category term="primavera" scheme="https://frangipani.raiano.ch/tags/primavera/"/>
+    
+  </entry>
   
   <entry>
     <title xml:lang="de">Rhabarbergelee aus den Schalen</title>
@@ -3049,163 +3223,6 @@ Begleitet ihn mit einer guten Suppe oder einem schönen Salat... aber er eignet 
       <category term="funghi" scheme="https://frangipani.raiano.ch/tags/funghi/"/>
     
       <category term="zucca" scheme="https://frangipani.raiano.ch/tags/zucca/"/>
-    
-      <category term="autunno" scheme="https://frangipani.raiano.ch/tags/autunno/"/>
-    
-      <category term="inverno" scheme="https://frangipani.raiano.ch/tags/inverno/"/>
-    
-  </entry>
-  
-  <entry>
-    <title xml:lang="de">Süssmost-Kuchen</title>
-    <link href="https://frangipani.raiano.ch/2022-11-08-sussmost-kuchen/"/>
-    <id>https://frangipani.raiano.ch/2022-11-08-sussmost-kuchen/</id>
-    <published>2022-11-07T23:00:00.000Z</published>
-    <updated>2022-11-12T15:19:53.058Z</updated>
-    <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2022-11-08-torta-al-mosto-di-mele/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Süssmost-Kuchen&lt;/strong&gt; der saftigste, apfeligste, schmelzendste Apfelkuchen der Welt! Es ist ein Kuchen, der nach Herbst schmeckt, man schmeckt die Äpfel und den Zimt... Er hat eine unglaubliche Textur, schön saftig und weich. Wenn man ihn isst, zergeht er auf der Zunge! Der Süssmost macht den Teig super weich und die geriebenen Äpfel machen ihn unglaublich saftig.
-&lt;br /&gt;
-Als ich ihn gegessen habe, war es eine Explosion im Mund! Verrückt! Ich denke, es ist der beste Apfelkuchen, den ich je gegessen habe. Hätte ich nicht gedacht... Ich habe oft Kuchen mit Süssmost gesehen, aber ich dachte nicht, dass es so viel ausmachen würde. Aber doch! Ihr müsst ihn unbedingt probieren.&lt;/p&gt;
-&lt;p&gt;November. NOvember. No me gusta. Es ist so eine Hautsache. Zu dunkel, meist nass, neblig, wenig Sonne. Dann ist da noch das Warten auf Weihnachten, man möchte schon das ganze Haus dekorieren, hält sich aber noch zurück. Auch dieses Jahr, wird dieser Monat vergehen, ich hoffe so schnell wie möglich...&lt;/p&gt;
-&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
-  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
-    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
-      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Süssmost-Kuchen&lt;/span&gt;
-      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Süsses&lt;/span&gt;
-      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2022-11-08-torta-al-mosto-di-mele/header.jpeg&quot;/&gt;
-      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
-      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Süssmost-Kuchen der saftigste, apfeligste, schmelzendste Apfelkuchen der Welt!&lt;/span&gt;
-      &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
-      &lt;table&gt;
-        &lt;tbody&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;220gr&lt;/td&gt;
-            &lt;td&gt;Mehl&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;2 Teelöffel&lt;/td&gt;
-            &lt;td&gt;Backpulver&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 Teelöffel&lt;/td&gt;
-            &lt;td&gt;Zimt&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 Prise&lt;/td&gt;
-            &lt;td&gt;Salz&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;115gr&lt;/td&gt;
-            &lt;td&gt;Naturjoghurt&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;60gr&lt;/td&gt;
-            &lt;td&gt;Süssmost&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;135gr&lt;/td&gt;
-            &lt;td&gt;grob geriebene Äpfel&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;200gr&lt;/td&gt;
-            &lt;td&gt;Butter auf Zimmertemperatur&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;75gr&lt;/td&gt;
-            &lt;td&gt;weisser Zucker&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;75gr&lt;/td&gt;
-            &lt;td&gt;brauner Zucker&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;3&lt;/td&gt;
-            &lt;td&gt;Eier auf Zimmertemperatur&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qs&lt;/td&gt;
-            &lt;td&gt;Vanille&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qs&lt;/td&gt;
-            &lt;td&gt;flüssige Butter&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qs&lt;/td&gt;
-            &lt;td&gt;Zimtzucker&lt;/td&gt;
-          &lt;/tr&gt;
-        &lt;/tbody&gt;
-      &lt;/table&gt;
-      &lt;br&gt;&lt;/br&gt;
-      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot; itemprop=&quot;recipeYield&quot;&gt;für eine Bundtcakeform oder eine runde 20cm Form&lt;/i&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;h3&gt;
-  &lt;font color=&quot;grey&quot;&gt;
-    &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt; Zubereitung
-&lt;/h3&gt;
-
-&lt;p&gt;Mehl mit Backpulver, Zimt und Salz in einer Schüssel mischen, beiseite stellen. In einer anderen Schüssel Joghurt mit Süssmost verrühren, beiseite stellen. Die Äpfel schälen und reiben, beiseite stellen.
-&lt;br /&gt;
-Die weiche Butter in die Küchenmaschine geben und bei mittlerer Geschwindigkeit 2min verarbeiten. Die beiden Zuckersorten zugeben und 5min einarbeiten. Ein Ei nach dem anderen hinzugeben, das nächste Ei erst, wenn das vorherige vollständig eingearbeitet ist. Die Vanille, dann 1/3 der Mehlmischung und die Hälfte der Joghurt-Mischung zugeben und verrühren. Mit einem weiteren Drittel Mehl und dem restlichen Joghurt fortfahren, ein wenig rühren und mit dem restlichen Mehl abschliessen. Wenn alles gut eingearbeitet ist, die geriebenen Äpfel hinzufügen und mit einem Handspatel vermischen.
-&lt;br /&gt;
-Backform gut bebuttern und bemehlen, den Teig in die Form giessen und gut verteilen. Den &lt;strong&gt;Süssmost-Kuchen&lt;/strong&gt; im vorgeheizten Ofen bei 180°C Umluft ca. 1 Stunde backen, Stäbchenprobe machen.
-&lt;img src=&quot;../2022-11-08-torta-al-mosto-di-mele/teglia.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Kuchen in der Form leicht abkühlen lassen, dann aus der Form stürzen und auf eine Servierplatte stellen. Den gesamten Kuchen mit geschmolzener Butter bestreichen und mit Zimt-Zucker bestreuen. Lauwarm ist er der Himmel auf Erden.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-11-08-torta-al-mosto-di-mele/risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-11-08-torta-al-mosto-di-mele/risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-11-08-torta-al-mosto-di-mele/risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-11-08-torta-al-mosto-di-mele/risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-11-08-torta-al-mosto-di-mele/risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-11-08-torta-al-mosto-di-mele/risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-11-08-torta-al-mosto-di-mele/risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-11-08-torta-al-mosto-di-mele/risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;h4&gt;Buon appetito
-  &lt;font color=&quot;red&quot;&gt;
-    &lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt;
-&lt;/h4&gt;</content>
-    <summary type="html" xml:lang="de">
-    
-      &lt;p&gt;&lt;img src=&quot;../2022-11-08-torta-al-mosto-di-mele/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Süssmost-Kuchen&lt;/strong&gt; der safti
-    
-    </summary>
-    
-      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
-    
-      <category term="Torte" scheme="https://frangipani.raiano.ch/categories/Dolce/Torte/"/>
-    
-    
-      <category term="mele" scheme="https://frangipani.raiano.ch/tags/mele/"/>
     
       <category term="autunno" scheme="https://frangipani.raiano.ch/tags/autunno/"/>
     
