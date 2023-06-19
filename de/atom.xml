@@ -4,7 +4,7 @@
   
   <link href="https://frangipani.raiano.ch/de/atom.xml" rel="self"/>
   <link href="https://frangipani.raiano.ch/"/>
-  <updated>2023-06-12T08:07:37.514Z</updated>
+  <updated>2023-06-19T18:30:24.034Z</updated>
   <id>https://frangipani.raiano.ch/</id>
   
   <author>
@@ -13,6 +13,157 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title xml:lang="de">Herzhafte Muffins mit Romanesco</title>
+    <link href="https://frangipani.raiano.ch/2023-06-20-herzhafte-muffins-mit-romanesco-und-kase/"/>
+    <id>https://frangipani.raiano.ch/2023-06-20-herzhafte-muffins-mit-romanesco-und-kase/</id>
+    <published>2023-06-19T22:00:00.000Z</published>
+    <updated>2023-06-19T18:30:24.034Z</updated>
+    <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2023-06-20-muffin-salati-con-cavolo-romanesco-e-formaggio/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Herzhafte Muffins mit Romanesco&lt;/strong&gt; fluffige und super leckere Muffins. Hervorragend geeignet für ein schnelles Mittagessen oder ein leichtes Abendessen, begleitet von einem feinen Salat. Aber auch perfekt für ein Picknick oder einen schönen Spaziergang.&lt;/p&gt;
+&lt;p&gt;Ich kann mich nicht erinnern, wann ich das letzte Mal herzhafte Muffins gemacht habe, aber es war definitiv an der Zeit, sie wieder zu machen. Jetzt, wo das Wetter schön ist, liebe ich es, Dinge zuzubereiten, die ich einfach mit einem Salat oder einem Pinzimonio essen kann. Auch weil wir es lieben, im Garten zu essen, auch nur auf einer Decke, ohne Tisch und Stühle.&lt;/p&gt;
+&lt;p&gt;Natürlich muss man nicht unbedingt Romanesco verwenden, auch Blumenkohl oder Brokkoli eignen sich. Das Verfahren ist das gleiche. Ich weiss nicht warum, ich verwende zu selten Romanesco, aber er ist köstlich und unglaublich schön. Habt ihr ihn jemals genau beobachtet? 
+&lt;img src=&quot;../2023-06-20-muffin-salati-con-cavolo-romanesco-e-formaggio/romanesco.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Mathematisch ist Romanesco sehr interessant, tatsächlich handelt es sich um ein Fraktal. Seine Form wiederholt sich in verschiedenen Massstäben auf die gleiche Weise. Jede einzelne Rosette hat die Form eines kleinen Kohls. Aber das Erstaunlichste ist, dass die Anzahl der Rosetten, aus denen der Romanesco besteht, immer eine Fibonacci-Zahl ist. Eine perfekte Spirale. Fantastisch, nicht wahr?&lt;/p&gt;
+&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
+  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
+    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
+      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Herzhafte Muffins mit Romanesco&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Herzhaftes&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2023-06-0-muffin-salati-con-cavolo-romanesco-e-formaggio/header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Herzhafte Muffins mit Romanesco, fluffige und super leckere Muffins.&lt;/span&gt;
+      &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
+      &lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;260gr&lt;/td&gt;
+            &lt;td&gt;Mehl&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;50gr&lt;/td&gt;
+            &lt;td&gt;geriebenen Parmesankäse&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1/2 Päckchen&lt;/td&gt;
+            &lt;td&gt;Backpulver&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qs&lt;/td&gt;
+            &lt;td&gt;Kräuter&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1/2 Teelöffel&lt;/td&gt;
+            &lt;td&gt;Salz&lt;/td&gt;     
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1/2 Teelöffel&lt;/td&gt;
+            &lt;td&gt;Paprika&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;200ml&lt;/td&gt;
+            &lt;td&gt;Milch&lt;/td&gt;     
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;4 Esslöffel&lt;/td&gt;
+            &lt;td&gt;Sonnenblumenöl&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1&lt;/td&gt;
+            &lt;td&gt;Ei&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qs&lt;/td&gt;
+            &lt;td&gt;Käse (Asiago, Provolone, Gruyère...)&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1&lt;/td&gt;
+            &lt;td&gt;Romanesco (12 Rosetten)&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;
+      &lt;br&gt;&lt;/br&gt;
+      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot;&gt;für 12 Muffins&lt;/i&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h3&gt;
+  &lt;font color=&quot;grey&quot;&gt;
+    &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt; Zubereitung
+&lt;/h3&gt;
+
+&lt;p&gt;Das gesiebte Mehl, den Parmesankäse, das Backpulver, die fein gehackten Kräuter, das Salz und das Paprikapulver in eine Schüssel geben und vermischen. Separat das Ei mit der Milch und dem Öl verquirlen und zum Mehl geben. Gut vermischen und den in Würfel geschnittenen Käse eurer Wahl hinzufügen.&lt;/p&gt;
+&lt;p&gt;Gebt den Teig nun direkt in die zuvor bebutterte Muffinform oder in die Papierförmchen. Taucht dann eine Rosette zuvor gekochten Romanescos mit der Spitze nach oben in den Teig jedes Muffins.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-06-20-muffin-salati-con-cavolo-romanesco-e-formaggio/impasto.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-06-20-muffin-salati-con-cavolo-romanesco-e-formaggio/teglia.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Die &lt;strong&gt;Herzhaften Muffins mit Romanesco&lt;/strong&gt; im vorgeheizten Ofen bei 170°C Ober- und Unterhitze ca. 25min backen. Immer Stäbchenprobe machen.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-06-20-muffin-salati-con-cavolo-romanesco-e-formaggio/risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-06-20-muffin-salati-con-cavolo-romanesco-e-formaggio/risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-06-20-muffin-salati-con-cavolo-romanesco-e-formaggio/risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-06-20-muffin-salati-con-cavolo-romanesco-e-formaggio/risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-06-20-muffin-salati-con-cavolo-romanesco-e-formaggio/risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-06-20-muffin-salati-con-cavolo-romanesco-e-formaggio/risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-06-20-muffin-salati-con-cavolo-romanesco-e-formaggio/risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-06-20-muffin-salati-con-cavolo-romanesco-e-formaggio/risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../2023-06-20-muffin-salati-con-cavolo-romanesco-e-formaggio/risultato9.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;h4&gt;Buon appetito
+  &lt;font color=&quot;red&quot;&gt;
+    &lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt;
+&lt;/h4&gt;</content>
+    <summary type="html" xml:lang="de">
+    
+      &lt;p&gt;&lt;img src=&quot;../2023-06-20-muffin-salati-con-cavolo-romanesco-e-formaggio/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Herzhafte 
+    
+    </summary>
+    
+      <category term="Salato" scheme="https://frangipani.raiano.ch/categories/Salato/"/>
+    
+      <category term="Torte salate, Muffin salati..." scheme="https://frangipani.raiano.ch/categories/Salato/Torte-salate-Muffin-salati/"/>
+    
+    
+      <category term="muffin salati" scheme="https://frangipani.raiano.ch/tags/muffin-salati/"/>
+    
+      <category term="estate" scheme="https://frangipani.raiano.ch/tags/estate/"/>
+    
+      <category term="primavera" scheme="https://frangipani.raiano.ch/tags/primavera/"/>
+    
+  </entry>
   
   <entry>
     <title xml:lang="de">Ricotta-Erdbeer-Torte</title>
@@ -3069,164 +3220,6 @@ Wer keine Lebkuchengewürze mag, kann problemlos nur Zimt, Spekulatiusgewürz od
       <category term="natale" scheme="https://frangipani.raiano.ch/tags/natale/"/>
     
       <category term="whoopies" scheme="https://frangipani.raiano.ch/tags/whoopies/"/>
-    
-  </entry>
-  
-  <entry>
-    <title xml:lang="de">Kürbis-Pilz-Flammkuchen</title>
-    <link href="https://frangipani.raiano.ch/2022-11-16-kurbis-pilz-flammkuchen/"/>
-    <id>https://frangipani.raiano.ch/2022-11-16-kurbis-pilz-flammkuchen/</id>
-    <published>2022-11-15T23:00:00.000Z</published>
-    <updated>2022-11-15T13:50:58.841Z</updated>
-    <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2022-11-16-tarte-flambee-con-zucca-e-funghi/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Kürbis-Pilz-Flammkuchen&lt;/strong&gt; ein schnelles und einfaches Rezept, welches euch das Mittag- oder Abendessen retten kann. Knusprig auf den Punkt, so lecker und schmackhaft. Als Basis gibt es einen veganen Teig, der nicht aufgehen muss. Als Belag habe ich Crème fraîche verwendet oder auch eine pflanzliche Alternative für die vegane Variante. Dann noch Kürbis, Champignons und Zwiebeln darüber. Das ist alles!
-&lt;br /&gt;
-Das ist mein absoluter Favorit! Tatsächlich kann ich es jedes Jahr kaum erwarten, bis die Kürbisse reif sind, nur um ihn zu essen... Natürlich können Flammkuchen nach Belieben belegt werden, dies ist nur eine der unendlichen Variationen. Sagen wir, es ist ein bisschen wie Pizza. Tatsächlich mache ich immer den doppelten Teig und mache einen zweiten mit Tomatensauce und Mozzarella, wie Margherita, sozusagen.
-&lt;br /&gt;
-Ich serviere ihn gerne mit einer Suppe oder einem leckeren Salat, aber er eignet sich auch hervorragend als Apéro!&lt;/p&gt;
-&lt;p&gt;Und wenn ich bedenke, dass ich den Flammkuchen erst vor 3 oder 4 Jahren entdeckt habe. Ich habe ihn zum ersten Mal zum Mittagessen bei Freunden gegessen und es war Liebe auf den ersten Bissen! Und ich fragte mich: Warum habe ich ihn nicht schon früher probiert?!&lt;/p&gt;
-&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
-  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
-    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
-      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Kürbis-Pilz-Flammkuchen&lt;/span&gt;
-      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Herzhaftes&lt;/span&gt;
-      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2022-11-16-tarte-flambee-con-zucca-e-funghi/header.jpeg&quot;/&gt;
-      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
-      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Kürbis-Pilz-Flammkuchen, ein schnelles und einfaches Rezept, welches euch das Mittag- oder Abendessen retten kann.&lt;/span&gt;
-      &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
-      &lt;table&gt;
-        &lt;tbody&gt;
-          &lt;tr&gt;     
-            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Teig&lt;/b&gt;&lt;/td&gt;
-          &lt;/tr&gt; 
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;250gr&lt;/td&gt;
-            &lt;td&gt;Mehl&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;4gr&lt;/td&gt;
-            &lt;td&gt;Salz&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;125gr&lt;/td&gt;
-            &lt;td&gt;Wasser&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;20gr&lt;/td&gt;
-            &lt;td&gt;Olivenöl&lt;/td&gt;
-          &lt;tr&gt;
-            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Belag&lt;/b&gt;&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;ca. 150gr&lt;/td&gt;
-            &lt;td&gt;Crème Fraîche oder pflanzliche Alternative&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 Stück&lt;/td&gt;
-            &lt;td&gt;Kürbis&lt;/td&gt;
-           &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;3-4&lt;/td&gt;
-            &lt;td&gt;Champignons&lt;/td&gt;
-           &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1&lt;/td&gt;
-            &lt;td&gt;kleine rote Zwiebel&lt;/td&gt; 
-           &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qs&lt;/td&gt;
-            &lt;td&gt;Olivenöl&lt;/td&gt;
-           &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qs&lt;/td&gt;
-            &lt;td&gt;Salz&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qs&lt;/td&gt;
-            &lt;td&gt;Thymian&lt;/td&gt;
-           &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qs&lt;/td&gt;
-            &lt;td&gt;frische Petersilie&lt;/td&gt;         
-          &lt;/tr&gt;
-        &lt;/tbody&gt;
-      &lt;/table&gt;
-      &lt;br&gt;&lt;/br&gt;
-      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot; itemprop=&quot;recipeYield&quot;&gt;für ein grosses Backblech&lt;/i&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;h3&gt;
-  &lt;font color=&quot;grey&quot;&gt;
-    &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt; Zubereitung
-&lt;/h3&gt;
-
-&lt;p&gt;Zuerst den Teig zubereiten: Mehl und Salz in eine Schüssel geben und mischen. Wasser und Öl dazugeben und von Hand kneten, bis ein glatter und homogener Teig entsteht. Zugedeckt mindestens eine halbe Stunde ruhen lassen.&lt;/p&gt;
-&lt;p&gt;Nach der Ruhezeit, den Teig mit Hilfe eines Nudelholzes auswallen. Es braucht ein dünnes Rechteck in der Grösse eines Backblechs. Legt das Rechteck auf das Backblech mit Backpapier darunter und fangt an, den Flammkuchen zu belegen... Crème fraîche (oder pflanzliche Alternative) auf dem Teig verteilen, dabei einen dünnen Rand lassen. Kürbis in dünne Scheiben schneiden und auf der Crème fraîche gut verteilen, Champignons und Zwiebel ebenfalls in dünne Scheiben schneiden und ebenfalls gut verteilen. Alles salzen, mit Thymian bestreuen und mit Öl beträufeln.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-11-16-tarte-flambee-con-zucca-e-funghi/impasto.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-11-16-tarte-flambee-con-zucca-e-funghi/teglia.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Den &lt;strong&gt;Kürbis-Pilz-Flammkuchen&lt;/strong&gt; im vorgeheizten Backofen bei 200°C Ober- und Unterhitze ca. 15min backen. Der Rand muss etwas Farbe annehmen, darf aber nicht anbrennen, sonst wird er zu knusprig. Vor dem Auftischen, noch frische Petersilie darüber verteilen.
-&lt;br /&gt;
-Begleitet ihn mit einer guten Suppe oder einem schönen Salat... aber er eignet sich auch hervorragend als Apéro!&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-11-16-tarte-flambee-con-zucca-e-funghi/risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-11-16-tarte-flambee-con-zucca-e-funghi/risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-11-16-tarte-flambee-con-zucca-e-funghi/risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-11-16-tarte-flambee-con-zucca-e-funghi/risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2022-11-16-tarte-flambee-con-zucca-e-funghi/risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2022-11-16-tarte-flambee-con-zucca-e-funghi/risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;h4&gt;Buon appetito
-  &lt;font color=&quot;red&quot;&gt;
-    &lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt;
-&lt;/h4&gt;</content>
-    <summary type="html" xml:lang="de">
-    
-      &lt;p&gt;&lt;img src=&quot;../2022-11-16-tarte-flambee-con-zucca-e-funghi/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Kürbis-Pilz-Flammkuchen&lt;
-    
-    </summary>
-    
-      <category term="Salato" scheme="https://frangipani.raiano.ch/categories/Salato/"/>
-    
-      <category term="Torte salate, Muffin salati..." scheme="https://frangipani.raiano.ch/categories/Salato/Torte-salate-Muffin-salati/"/>
-    
-    
-      <category term="vegan" scheme="https://frangipani.raiano.ch/tags/vegan/"/>
-    
-      <category term="funghi" scheme="https://frangipani.raiano.ch/tags/funghi/"/>
-    
-      <category term="zucca" scheme="https://frangipani.raiano.ch/tags/zucca/"/>
-    
-      <category term="autunno" scheme="https://frangipani.raiano.ch/tags/autunno/"/>
-    
-      <category term="inverno" scheme="https://frangipani.raiano.ch/tags/inverno/"/>
     
   </entry>
   

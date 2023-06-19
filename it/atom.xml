@@ -4,7 +4,7 @@
   
   <link href="https://frangipani.raiano.ch/it/atom.xml" rel="self"/>
   <link href="https://frangipani.raiano.ch/"/>
-  <updated>2023-06-12T08:01:52.352Z</updated>
+  <updated>2023-06-19T18:22:50.478Z</updated>
   <id>https://frangipani.raiano.ch/</id>
   
   <author>
@@ -13,6 +13,157 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title xml:lang="it">Muffin salati con Cavolo Romanesco</title>
+    <link href="https://frangipani.raiano.ch/2023-06-20-muffin-salati-con-cavolo-romanesco-e-formaggio/"/>
+    <id>https://frangipani.raiano.ch/2023-06-20-muffin-salati-con-cavolo-romanesco-e-formaggio/</id>
+    <published>2023-06-19T22:00:00.000Z</published>
+    <updated>2023-06-19T18:22:50.478Z</updated>
+    <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Muffin salati con Cavolo Romanesco&lt;/strong&gt; dei sfiziosi muffin belli soffici e super saporiti. Ottimi per un pranzetto veloce o una cena leggera da accompagnare con una bella insalatona. Ma anche perfetti da portare per un picnic o una bella camminata.&lt;/p&gt;
+&lt;p&gt;Non mi ricordo quando è stata l&amp;#39;ultima volta che ho preparato dei muffin salati, ma era assolutamente ora di rifarli. Poi adesso che fa bel tempo adoro preparare cose così da poter mangiare semplicemente con un&amp;#39;insalata o un pinzimonio. Anche perché ci piace tantissimo mangiare in giardino, anche solo su di una coperta, senza tavolo e sedie.&lt;/p&gt;
+&lt;p&gt;Ovviamente non dovete usare per forza il cavolo romanesco, vanno benissimo anche il cavolfiore o i broccoli. Il procedimento è lo stesso. Non so perché, uso troppo poco il cavolo romanesco, ma è buonissimo e poi è di una bellezza pazzesca. Lo avete mai osservato attentamente? 
+&lt;img src=&quot;romanesco.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Matematicamente il cavolo romanesco è molto interessante, infatti è frattale. La sua forma si ripete allo stesso modo su scale diverse. Ogni singola rosetta ha la forma di un piccolo broccolo. Ma la cosa più stupefacente è che il numero di rosette che compongono il broccolo romanesco è sempre un numero di Fibonacci. Una spirale perfetta. Fantastico, no?&lt;/p&gt;
+&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
+  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
+    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
+      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Muffin salati con Cavolo Romanesco&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Salato&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Muffin salati con Cavolo Romanesco, dei sfiziosi muffin belli soffici e super saporiti.&lt;/span&gt;
+      &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
+      &lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;260gr&lt;/td&gt;
+            &lt;td&gt;farina&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;50gr&lt;/td&gt;
+            &lt;td&gt;parmigiano grattugiato&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1/2 bustina&lt;/td&gt;
+            &lt;td&gt;lievito per torte salate&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qb&lt;/td&gt;
+            &lt;td&gt;erbette aromatiche&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1/2 cucchiaino&lt;/td&gt;
+            &lt;td&gt;sale&lt;/td&gt;     
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1/2 cucchiaino&lt;/td&gt;
+            &lt;td&gt;paprika&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;200ml&lt;/td&gt;
+            &lt;td&gt;latte&lt;/td&gt;     
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;4 cucchiai&lt;/td&gt;
+            &lt;td&gt;olio di semi&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1&lt;/td&gt;
+            &lt;td&gt;uovo&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qb&lt;/td&gt;
+            &lt;td&gt;formaggio (Asiago, Provolone, Gruyère...)&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1&lt;/td&gt;
+            &lt;td&gt;cavolo romanesco (12 cimette)&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;
+      &lt;br&gt;&lt;/br&gt;
+      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot;&gt;per 12 Muffin&lt;/i&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h3&gt;
+  &lt;font color=&quot;grey&quot;&gt;
+    &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt; Preparazione
+&lt;/h3&gt;
+
+&lt;p&gt;Mettete in una coppa la farina setacciata, il parmigiano, il lievito, le erbette tritate finemente, il sale e la paprika e mescolate. A parte sbattete l&amp;#39;uovo con il latte e l&amp;#39;olio e aggiungetelo alla farina. Mescolate bene e aggiungete il formaggio a vostra scelta tagliato a cubetti.&lt;/p&gt;
+&lt;p&gt;Adesso mettete l&amp;#39;impasto direttamente nella teglia per Muffin precedentemente imburrata o nei pirottini. Poi affondate nell&amp;#39;impasto di ogni muffin una cimetta di cavolo romanesco precedente bollito con la punta verso su.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;impasto.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;teglia.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Infornate i &lt;strong&gt;Muffin salati con Cavolo Romanesco&lt;/strong&gt; nel forno preriscaldato a 170°C statico per ca. 25min, mi raccomando fate la prova stecchino.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;risultato9.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;h4&gt;Buon appetito
+  &lt;font color=&quot;red&quot;&gt;
+    &lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt;
+&lt;/h4&gt;</content>
+    <summary type="html" xml:lang="it">
+    
+      &lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Muffin salati con Cavolo Romanesco&lt;/strong&gt; dei sfiziosi muffin belli s
+    
+    </summary>
+    
+      <category term="Salato" scheme="https://frangipani.raiano.ch/categories/Salato/"/>
+    
+      <category term="Torte salate, Muffin salati..." scheme="https://frangipani.raiano.ch/categories/Salato/Torte-salate-Muffin-salati/"/>
+    
+    
+      <category term="muffin salati" scheme="https://frangipani.raiano.ch/tags/muffin-salati/"/>
+    
+      <category term="estate" scheme="https://frangipani.raiano.ch/tags/estate/"/>
+    
+      <category term="primavera" scheme="https://frangipani.raiano.ch/tags/primavera/"/>
+    
+  </entry>
   
   <entry>
     <title xml:lang="it">Torta di Ricotta e Fragole</title>
@@ -3069,164 +3220,6 @@ Se non amate le spezie del pan di zenzero, potete usare tranquillamente solo la 
       <category term="natale" scheme="https://frangipani.raiano.ch/tags/natale/"/>
     
       <category term="whoopies" scheme="https://frangipani.raiano.ch/tags/whoopies/"/>
-    
-  </entry>
-  
-  <entry>
-    <title xml:lang="it">Tarte Flambée con Zucca e Funghi</title>
-    <link href="https://frangipani.raiano.ch/2022-11-16-tarte-flambee-con-zucca-e-funghi/"/>
-    <id>https://frangipani.raiano.ch/2022-11-16-tarte-flambee-con-zucca-e-funghi/</id>
-    <published>2022-11-15T23:00:00.000Z</published>
-    <updated>2022-11-15T13:51:23.058Z</updated>
-    <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tarte Flambée con Zucca e Funghi&lt;/strong&gt; una ricetta salvacena facile e veloce. Croccante al punto giusto, tanto gustosa e saporita. Come base c`è un&amp;#39;impasto vegano che non ha bisogno di lievitare. Per farcirla ho usato crème fraîche, che in Italia magari trovate come panna acida o in alternativa va bene anche lo yogurt bianco, del formaggio spalmabile o un&amp;#39;alternativa vegetale per la versione vegana. Poi ho messo zucca, funghi e cipolla a fettine. Tutto qui!
-&lt;br /&gt;
-Questa è in assoluto la mia preferita! Infatti ogni anno non vedo l&amp;#39;ora che arrivino le zucche per farla... Ovviamente la Tarte Flambée o Flammkuchen si può farcire come si vuole, questa è solo una delle infinite varianti. È un po&amp;#39; come la pizza, diciamo. Infatti io faccio sempre il doppio dell&amp;#39;impasto e ne faccio una seconda con salsa al pomodoro e mozzarella, come la Margherita, giusto per intenderci.
-&lt;br /&gt;
-A me piace accompagnarla con una zuppa o una bella insalatona, ma è ottima anche come apritivo!&lt;/p&gt;
-&lt;p&gt;E pensare che ho scoperto la Tarte Flambée solo 3 o 4 anni fa. La provai la prima volta a pranzo a casa di amici e fu amore a primo morso! E mi chiesi: ma perché non l&amp;#39;ho provata prima?!&lt;/p&gt;
-&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
-  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
-    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
-      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Tarte Flambée con Zucca e Funghi&lt;/span&gt;
-      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Salato&lt;/span&gt;
-      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;header.jpeg&quot;/&gt;
-      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
-      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Tarte Flambée con Zucca e Funghi, una ricetta salvacena facile e veloce. Croccante al punto giusto, tanto gustosa e saporita.&lt;/span&gt;
-      &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
-      &lt;table&gt;
-        &lt;tbody&gt;
-          &lt;tr&gt;     
-            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Impasto&lt;/b&gt;&lt;/td&gt;
-          &lt;/tr&gt; 
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;250gr&lt;/td&gt;
-            &lt;td&gt;farina&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;4gr&lt;/td&gt;
-            &lt;td&gt;sale&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;125gr&lt;/td&gt;
-            &lt;td&gt;acqua&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;20gr&lt;/td&gt;
-            &lt;td&gt;olio evo&lt;/td&gt;
-          &lt;tr&gt;
-            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Farcia&lt;/b&gt;&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;ca. 150gr&lt;/td&gt;
-            &lt;td&gt;crème fraîche/panna acida o alternativa vegana&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 pezzetto&lt;/td&gt;
-            &lt;td&gt;zucca&lt;/td&gt;
-           &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;3-4&lt;/td&gt;
-            &lt;td&gt;funghi Champignon&lt;/td&gt;
-           &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1&lt;/td&gt;
-            &lt;td&gt;cipolla rossa piccolina&lt;/td&gt; 
-           &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qb&lt;/td&gt;
-            &lt;td&gt;olio evo&lt;/td&gt;
-           &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qb&lt;/td&gt;
-            &lt;td&gt;sale&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qb&lt;/td&gt;
-            &lt;td&gt;timo&lt;/td&gt;
-           &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qb&lt;/td&gt;
-            &lt;td&gt;prezzemolo fresco&lt;/td&gt;         
-          &lt;/tr&gt;
-        &lt;/tbody&gt;
-      &lt;/table&gt;
-      &lt;br&gt;&lt;/br&gt;
-      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot; itemprop=&quot;recipeYield&quot;&gt;per 1 teglia da forno&lt;/i&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;h3&gt;
-  &lt;font color=&quot;grey&quot;&gt;
-    &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt; Preparazione
-&lt;/h3&gt;
-
-&lt;p&gt;Per prima cosa preparate l&amp;#39;impasto: in una ciotola mettete la farina ed il sale e mescolate. Aggiungete l&amp;#39;acqua e l&amp;#39;olio ed impastate a mano, finché avrete un panetto liscio ed omogeneo. Coprite e fate riposare per almeno mezz&amp;#39;oretta.&lt;/p&gt;
-&lt;p&gt;Passato il tempo necessario, stendete l&amp;#39;impasto aiutandovi con un matterello. Dovrete ottenere un rettangolo sottile grande quanto una teglia da forno. Adagiate il rettangolo sulla teglia con sotto della carta forno e iniziate a farcire la Tarte Flambée... Spalmate la crème fraîche (o panna acida, yogurt bianco, formaggio spalmabile, alternativa vegetale) sull&amp;#39;impasto lasciando un bordo sottile. Tagliate la zucca a fettine sottili e distribuitele bene sulla crème fraîche, tagliate a fettine sottili anche i funghi e la cipolla e distribuite bene anche loro. Salate il tutto, mettete una spolverata di timo e un filo d&amp;#39;olio.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;impasto.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;teglia.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Infornate la &lt;strong&gt;Tarte Flambée con Zucca e Funghi&lt;/strong&gt; nel forno preriscaldato a 200°C statico per circa 15min. Il bordo dovrà prendere un po&amp;#39; di colore, ma non bruciarsi, altrimenti sarà troppo croccante da mangiare. Prima di servirla, mettete un po&amp;#39; di prezzemolo fresco.
-&lt;br /&gt;
-Accompagnatela con una buona zuppa o una bella insalatona... ma è ottima anche come aperitivo!&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;h4&gt;Buon appetito
-  &lt;font color=&quot;red&quot;&gt;
-    &lt;i class=&quot;fa fa-smile-o&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt;
-&lt;/h4&gt;</content>
-    <summary type="html" xml:lang="it">
-    
-      &lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tarte Flambée con Zucca e Funghi&lt;/strong&gt; una ricetta salvacena facile 
-    
-    </summary>
-    
-      <category term="Salato" scheme="https://frangipani.raiano.ch/categories/Salato/"/>
-    
-      <category term="Torte salate, Muffin salati..." scheme="https://frangipani.raiano.ch/categories/Salato/Torte-salate-Muffin-salati/"/>
-    
-    
-      <category term="vegan" scheme="https://frangipani.raiano.ch/tags/vegan/"/>
-    
-      <category term="funghi" scheme="https://frangipani.raiano.ch/tags/funghi/"/>
-    
-      <category term="zucca" scheme="https://frangipani.raiano.ch/tags/zucca/"/>
-    
-      <category term="autunno" scheme="https://frangipani.raiano.ch/tags/autunno/"/>
-    
-      <category term="inverno" scheme="https://frangipani.raiano.ch/tags/inverno/"/>
     
   </entry>
   

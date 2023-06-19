@@ -4,14 +4,21 @@
 
     <url>
         <loc>https://frangipani.raiano.ch/tags/primavera/</loc>
-        <lastmod>2023-06-12T08:07:37.514Z</lastmod>
+        <lastmod>2023-06-19T18:30:24.034Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://frangipani.raiano.ch/tags/estate/</loc>
-        <lastmod>2023-06-12T08:07:37.514Z</lastmod>
+        <lastmod>2023-06-19T18:30:24.034Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/tags/muffin-salati/</loc>
+        <lastmod>2023-06-19T18:30:24.034Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -599,13 +606,6 @@
 
     <url>
         <loc>https://frangipani.raiano.ch/tags/carote/</loc>
-        <lastmod>2022-04-08T08:48:38.701Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/tags/muffin-salati/</loc>
         <lastmod>2022-04-08T08:48:38.701Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
