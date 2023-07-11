@@ -4,14 +4,21 @@
 
     <url>
         <loc>https://frangipani.raiano.ch/tags/estate/</loc>
-        <lastmod>2023-07-03T08:24:35.012Z</lastmod>
+        <lastmod>2023-07-05T07:56:06.861Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://frangipani.raiano.ch/tags/vegan/</loc>
-        <lastmod>2023-07-03T08:24:35.012Z</lastmod>
+        <lastmod>2023-07-05T07:56:06.861Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/tags/mirtilli/</loc>
+        <lastmod>2023-07-05T07:56:06.861Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -376,13 +383,6 @@
     <url>
         <loc>https://frangipani.raiano.ch/tags/melanzane/</loc>
         <lastmod>2022-09-12T09:13:55.680Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/tags/mirtilli/</loc>
-        <lastmod>2022-08-24T14:26:12.133Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
