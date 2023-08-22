@@ -350,7 +350,7 @@ code {
   margin-right: 8px;
 }
 #main .main-body-header i {
-  font-weight: 400;
+  font-weight: 800;
 }
 #main .main-body-header em,
 #main .main-body-header a {
@@ -494,7 +494,8 @@ code {
   opacity: 0.5;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
   filter: alpha(opacity=50);
-  font-family: FontAwesome;
+  font-family: "Font Awesome 6 Free";
+  font-weight: 900;
   display: inline-block;
 }
 .nav-container .nav-container-inner #main-nav .main-nav-list-item.top-level-menu:hover > a {
@@ -549,7 +550,8 @@ code {
   content: "\f002";
   margin-right: 8px;
   color: rgba(255,255,255,0.7);
-  font: normal normal normal 16px/1 FontAwesome;
+  font: normal normal normal 16px/1 "Font Awesome 6 Free";
+  font-weight: 900;
 }
 .search-form-input,
 .search-form-input.ins-search-input,
@@ -811,7 +813,8 @@ code {
   content: "\f0da";
   font-size: 12px;
   margin-right: 6px;
-  font-family: FontAwesome;
+  font-family: "Font Awesome 6 Free";
+  font-weight: 900;
   -webkit-transition: 0.2s ease;
   -moz-transition: 0.2s ease;
   -ms-transition: 0.2s ease;
@@ -1161,7 +1164,8 @@ a.article-title:hover {
   float: left;
   content: '\f02b';
   margin-right: 8px;
-  font-family: FontAwesome;
+  font-family: "Font Awesome 6 Free";
+  font-weight: 900;
 }
 .article-tag-list-item {
   float: left;
@@ -1286,7 +1290,8 @@ a.article-title:hover {
   position: absolute;
   text-align: center;
   font-style: normal;
-  font-family: 'FontAwesome';
+  font-family: "Font Awesome 6 Free";
+  font-weight: 900;
 }
 .article-entry blockquote footer {
   font-size: 14px;
@@ -1425,10 +1430,7 @@ a.article-title:hover {
 .article-share-links:after {
   clear: both;
 }
-.article-share-twitter,
-.article-share-facebook,
-.article-share-pinterest,
-.article-share-google {
+.article-share-twitter {
   width: 50px;
   height: 36px;
   display: block;
@@ -1439,110 +1441,100 @@ a.article-title:hover {
   line-height: 36px;
   text-decoration: none;
 }
-.article-share-twitter:before,
-.article-share-facebook:before,
-.article-share-pinterest:before,
-.article-share-google:before {
+.article-share-twitter:before {
   font-size: 20px;
-  font-family: FontAwesome;
+  font-family: "Font Awesome 6 Brands";
+  font-weight: 900;
 }
-.article-share-twitter:hover,
-.article-share-facebook:hover,
-.article-share-pinterest:hover,
-.article-share-google:hover {
+.article-share-twitter:hover {
   color: #fff;
 }
 .article-share-twitter:before {
-  content: "\f099";
+  content: "\e61b" "
+    &:hover
+        background: color-twitter
+        text-shadow: 0 1px darken(color-twitter, 20%)
+
+.article-share-facebook
+    @extend $article-share-link
+    &:before
+        content: " f 9a "
+    &:hover
+        background: color-facebook
+        text-shadow: 0 1px darken(color-facebook, 20%)
+
+.article-share-pinterest
+    @extend $article-share-link
+    &:before
+        content: " f 0d 2 "
+    &:hover
+        background: color-pinterest
+        text-shadow: 0 1px darken(color-pinterest, 20%)
+
+.article-share-google
+    @extend $article-share-link
+    &:before
+        content: " f 0d 5 "
+    &:hover
+        background: color-google
+        text-shadow: 0 1px darken(color-google, 20%)
+
+.article-gallery
+    background: #000
+    position: relative
+
+.article-gallery-photos
+    position: relative
+    overflow: hidden
+
+.article-gallery-img
+    display: none
+    max-width: 100%
+    &:first-child
+        display: block
+    &.loaded
+        position: absolute
+        display: block
+    img
+        display: block
+        max-width: 100%
+        margin: 0 auto
+
+.article-gallery
+    overflow: hidden
+    background: black
+    position: relative
+    text-align: center
+    margin: line-height 0
+    .gallery-item
+        display: none
+        max-width: 100%
+        &:before,&:after
+            top: 50%
+            width: 40px
+            height: 36px
+            font-size: 36px
+            line-height: 36px
+            margin-top: -18px
+            position: absolute
+            font-family: " Font Awesome 6 Free "
+            font-weight: 900
+            color: rgba(255, 255, 255, .5)
+        &:hover
+            &:before,&:after
+                color: rgba(255, 255, 255, .8)
+        &:before
+            left: 0
+            content: " f 104 "
+        &:after
+            right: 0
+            content: " f 105;
 }
-.article-share-twitter:hover {
-  background: #00aced;
-  text-shadow: 0 1px #008abe;
-}
-.article-share-facebook:before {
-  content: "\f09a";
-}
-.article-share-facebook:hover {
-  background: #3b5998;
-  text-shadow: 0 1px #2f477a;
-}
-.article-share-pinterest:before {
-  content: "\f0d2";
-}
-.article-share-pinterest:hover {
-  background: #cb2027;
-  text-shadow: 0 1px #a21a1f;
-}
-.article-share-google:before {
-  content: "\f0d5";
-}
-.article-share-google:hover {
-  background: #dd4b39;
-  text-shadow: 0 1px #be3221;
-}
-.article-gallery {
-  background: #000;
-  position: relative;
-}
-.article-gallery-photos {
-  position: relative;
-  overflow: hidden;
-}
-.article-gallery-img {
-  display: none;
-  max-width: 100%;
-}
-.article-gallery-img:first-child {
+.article-share-twitter:before ",
+.article-share-twitter:before:first-child {
   display: block;
 }
-.article-gallery-img.loaded {
-  position: absolute;
-  display: block;
-}
-.article-gallery-img img {
-  display: block;
-  max-width: 100%;
-  margin: 0 auto;
-}
-.article-gallery {
-  overflow: hidden;
-  background: #000;
-  position: relative;
-  text-align: center;
-  margin: 1.6em 0;
-}
-.article-gallery .gallery-item {
-  display: none;
-  max-width: 100%;
-}
-.article-gallery .gallery-item:before,
-.article-gallery .gallery-item:after {
-  top: 50%;
-  width: 40px;
-  height: 36px;
-  font-size: 36px;
-  line-height: 36px;
-  margin-top: -18px;
-  position: absolute;
-  font-family: FontAwesome;
-  color: rgba(255,255,255,0.5);
-}
-.article-gallery .gallery-item:hover:before,
-.article-gallery .gallery-item:hover:after {
-  color: rgba(255,255,255,0.8);
-}
-.article-gallery .gallery-item:before {
-  left: 0;
-  content: "\f104";
-}
-.article-gallery .gallery-item:after {
-  right: 0;
-  content: "\f105";
-}
-.article-gallery .gallery-item:first-child {
-  display: block;
-}
-.article-gallery .gallery-item img {
+.article-share-twitter:before img {
   display: block;
   max-width: 100%;
   margin: 0 auto;
@@ -1652,7 +1644,8 @@ a.article-title:hover {
 }
 #page-nav .pages:before {
   content: "\f15c";
-  font-family: FontAwesome;
+  font-family: "Font Awesome 6 Free";
+  font-weight: 900;
   margin-right: 6px;
 }
 #page-nav .page-number,
@@ -2032,10 +2025,11 @@ i.icon:before {
     line-height: 38px;
     font-size: 38px;
     width: 38px;
-    font-family: fontawesome;
+    font-family: "Font Awesome 6 Free";
   }
   .main-body-inner #sidebar .sidebar-toggle .toggle:before {
     content: '\f100';
+    font-weight: 900;
   }
   .main-body-inner #sidebar .sidebar-top {
     padding: 10px 30px;
