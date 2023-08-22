@@ -81,7 +81,7 @@ In dieser Jahreszeit brauche ich auch sehr oft Pumpkin Spice. Pumpkin Spice ist 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -99,6 +99,6 @@ Die Brownies kommen für 30min in den vorgeheizten Ofen bei 160°C Umluft, immer
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

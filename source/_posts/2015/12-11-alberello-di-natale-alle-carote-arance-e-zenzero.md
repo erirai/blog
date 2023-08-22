@@ -91,7 +91,7 @@ L'anno scorso mia Mamma mi ha regalato questo bellissimo stampo a forma di alber
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -113,6 +113,6 @@ Adesso preparate la glassa: mettete lo zucchero a velo in una coppetta e aggiung
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

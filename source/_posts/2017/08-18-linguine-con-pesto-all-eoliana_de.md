@@ -70,7 +70,7 @@ Im Mai, als wir in Sizilien waren, hat meine Cousine Pasta mit diesem Pesto nach
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -92,6 +92,6 @@ Sobald die Linguine gar sind, abgiessen und diese in die Bratpfanne mit den Cher
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

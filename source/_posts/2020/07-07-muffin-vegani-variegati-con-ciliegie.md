@@ -88,7 +88,7 @@ Le ciliegie le ha portate il nonno di mio marito, raccolte dal loro giardino. È
 
 <h3>
 	<font color="grey">
-		<i class="fa fa-cogs"></i>
+		<i class="fa-solid fa-gears"></i>
 	</font> Preparazione
 </h3>
 
@@ -125,6 +125,6 @@ Infornate a 200°C statico per ca. 20min, mi raccomando fate sempre la prova ste
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

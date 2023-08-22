@@ -86,7 +86,7 @@ Il piccolo dormiva e ho colto l'attimo per preparare insieme a mia figlia questi
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -109,6 +109,6 @@ Infornateli a 180°C (statico) per 15-20min. Mi raccomando fate sempre la prova 
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

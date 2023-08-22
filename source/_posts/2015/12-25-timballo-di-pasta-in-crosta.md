@@ -121,7 +121,7 @@ La sera di Natale ceniamo a casa nostra con i miei, dopo che a pranzo siamo stat
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -158,6 +158,6 @@ Adesso infornate a 180°C per 45min, ca.
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

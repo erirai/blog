@@ -88,7 +88,7 @@ Non l'ho mai più fatta, ma ce l'avevo sempre in qualche parte nella mia testa p
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -136,6 +136,6 @@ Preparate la glassa allo zucchero mescolando lo zucchero a velo con un pochino d
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

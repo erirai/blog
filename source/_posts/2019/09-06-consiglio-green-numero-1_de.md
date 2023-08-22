@@ -55,6 +55,6 @@ Niemand ist perfekt und niemand erwartet einen perfekten Einkauf ganz ohne Plast
 
 <h4>Danke für eure Hilfe...
   <font color="green">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

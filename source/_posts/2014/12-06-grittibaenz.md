@@ -76,7 +76,7 @@ Nella tradizione svizzera ogni anno il 6 dicembre San Nicolao viene a trovare i 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -96,6 +96,6 @@ Infornate i Grittibänz nel preriscaldato a 200°C statico per ca. 20min, dipend
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

@@ -59,7 +59,7 @@ Per l'inizio dell'estate siamo andati a raccogliere le fragole e c'erano già an
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -81,7 +81,7 @@ Appena si è raffreddata potete girare i vasetti... Vi assicuro che è fantastic
 
 <h3>
   <font color="#FFCC00">
-    <i class="fa fa-lightbulb-o"></i>
+    <i class="fa-regular fa-lightbulb"></i>
   </font> P.S.
 </h3>
 
@@ -89,6 +89,6 @@ Quando fate la marmellata preparate sempre solo un chilo di frutta alla volta, i
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

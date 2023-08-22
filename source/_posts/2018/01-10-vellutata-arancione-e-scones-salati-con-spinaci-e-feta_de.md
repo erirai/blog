@@ -104,7 +104,7 @@ Sodeli, jetzt wo ich alles schwarz und weiß aufgeschrieben habe, werde ich viel
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -133,6 +133,6 @@ Die Scones für 15min im vorgeheizten Ofen bei 230°C Ober- und Unterhitze backe
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

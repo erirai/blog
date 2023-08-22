@@ -74,7 +74,7 @@ Passiert euch auch, dass ihr etwas bestimmtes kochen möchtet, dann geht ihr ein
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -99,6 +99,6 @@ Die Lasagne mit Alufolie bedecken und für eine halbe Stunde in den vorgeheizten
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

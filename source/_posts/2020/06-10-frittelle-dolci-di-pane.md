@@ -63,7 +63,7 @@ Avevo preparato queste Frittelle dolci di Pane ad Aprile per la 13. Foodie Chall
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -98,6 +98,6 @@ Mangiate calde sono la fine del mondo!
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

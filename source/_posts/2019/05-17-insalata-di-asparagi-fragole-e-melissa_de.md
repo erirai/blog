@@ -66,7 +66,7 @@ Im Mai-Warenkorb der Foodie Challenge, organisiert von <a href="https://www.food
 
 <h3>
 	<font color="grey">
-		<i class="fa fa-cogs"></i>
+		<i class="fa-solid fa-gears"></i>
 	</font> Zubereitung
 </h3>
 
@@ -83,6 +83,6 @@ Das holzige Ende der Spargeln entfernen, dann die Spitzen in 2-3cm grosse Stück
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

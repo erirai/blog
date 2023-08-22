@@ -106,7 +106,7 @@ Crumble ist für mich pures Comfort Food, Mürbeteig und gekochte und duftende F
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -160,6 +160,6 @@ Den **Gemüse-Crumble** im vorgeheizten Backofen bei 180°C Umluft für 30-40min
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

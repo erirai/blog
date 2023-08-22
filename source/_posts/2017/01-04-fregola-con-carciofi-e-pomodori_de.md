@@ -66,7 +66,7 @@ Auch dieses Jahr gibt es die berühmten Vorsätzte... Leider gehöre ich zu dies
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -82,6 +82,6 @@ Sobald di Sauce bereit ist, könnt ihr die Fregola kochen, so wie es auf der Pac
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

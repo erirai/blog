@@ -73,7 +73,7 @@ E finiamo la sessione di biscotti di oggi con un classico: Baci di Dama! Sono tr
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -120,6 +120,6 @@ A questo punto fate rassodare un pochettino il cioccolato, in modo che non esca 
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

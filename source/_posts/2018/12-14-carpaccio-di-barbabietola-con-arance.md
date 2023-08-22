@@ -57,7 +57,7 @@ Ma avete già pensato al pranzo o la cena di Natale? Io sinceramente ancora no..
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -78,6 +78,6 @@ Pelate la barbabietola, poi tagliatela a fettine sottili aiutandovi con una mand
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

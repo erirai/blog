@@ -51,6 +51,6 @@ E comunque, se ci abituiamo a portarci sempre dietro la borraccia, comprare le b
 
 <h4>Grazie per l'aiuto...
   <font color="green">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

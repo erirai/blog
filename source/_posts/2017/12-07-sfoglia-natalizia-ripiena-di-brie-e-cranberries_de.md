@@ -44,7 +44,7 @@ Heute schlage ich euch ein ganz schnelles aber seeehr schmackhaftes Rezept für 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -79,6 +79,6 @@ Der weihnachtliche Blätterteig kommt für 20min in den vorgeheizten Ofen bei 21
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

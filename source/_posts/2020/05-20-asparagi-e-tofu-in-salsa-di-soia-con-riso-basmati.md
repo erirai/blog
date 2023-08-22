@@ -64,7 +64,7 @@ Era da un sacco di tempo che non mangiavo più il Tofu, ma avevo troppa voglia d
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -106,6 +106,6 @@ Servite il tutto guarnendo con del sesamo tostato...
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

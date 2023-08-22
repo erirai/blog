@@ -77,7 +77,7 @@ Immer am 10. jedes Monats backe ich einen Kuchen um den Monatstag unserer Tochte
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -111,6 +111,6 @@ Den Kuchen für ca. 1h im vorgeheizten Ofen bei 230°C Ober- und Unterhitze, zug
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

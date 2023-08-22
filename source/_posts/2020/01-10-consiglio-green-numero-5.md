@@ -87,6 +87,6 @@ Li uso ormai da un anno e non potrei più farne a meno. La pellicola praticament
 
 <h4>Grazie per l'aiuto...
   <font color="green">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

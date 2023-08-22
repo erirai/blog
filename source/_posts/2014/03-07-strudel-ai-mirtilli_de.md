@@ -66,7 +66,7 @@ lang: de
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -100,7 +100,7 @@ Vor dem Servieren mit Puderzucker bestreuen und schön warm geniessen...
 
 <h3>
   <font color="#FFCC00">
-    <i class="fa fa-lightbulb-o"></i>
+    <i class="fa-regular fa-lightbulb"></i>
   </font> P.S.
 </h3>
 
@@ -108,6 +108,6 @@ Ich könnte mir vorstellen, dass dieser auch mit Kirschen oder Brombeeren sehr g
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

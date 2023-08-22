@@ -66,7 +66,7 @@ Brot backen, das möchte ich perfektionieren! Brot sollte, meiner Meinung nach, 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -107,6 +107,6 @@ Brötchen nun in den vorgeheizten Ofen schieben bei maximaler Temperatur Ober- u
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

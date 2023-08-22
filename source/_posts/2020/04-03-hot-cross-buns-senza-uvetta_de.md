@@ -102,7 +102,7 @@ Dieses Jahr wird Ostern ein bisschen anders sein... Jeder bei sich zu Hause. Ich
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -162,6 +162,6 @@ Aus dem Ofen nehmen und sofort die ganze Oberfläche mit Honig bepinseln und kur
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

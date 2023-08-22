@@ -64,7 +64,7 @@ Un po' di tempo fa ho fatto queste polpette giusto per provarle e sono venute ve
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -83,7 +83,7 @@ Infornate le polpette nel forno preriscaldato a 200°C (ventilato) per ca. 15 mi
 
 <h3>
   <font color="#FFCC00">
-    <i class="fa fa-lightbulb-o"></i>
+    <i class="fa-regular fa-lightbulb"></i>
   </font> P.S.
 </h3>
 
@@ -91,6 +91,6 @@ Queste polpette sono ottime sia calde che fredde, quindi vanno benissimo anche c
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

@@ -81,7 +81,7 @@ Ho sfogliato il libro tenendo in mente quello che avevo in frigo. E ho visto que
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -110,6 +110,6 @@ Procedete in questo modo finché avrete cotto tutti gli gnocchi. Alla fine, se c
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

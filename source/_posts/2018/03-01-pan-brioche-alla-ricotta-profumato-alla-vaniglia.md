@@ -69,7 +69,7 @@ Poi oggi inizia anche il mese di marzo, la natura iniza a prendere vita e le gio
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -95,6 +95,6 @@ Poi infornate nel forno preriscaldato a 180°C statico per 20-30min o finché av
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

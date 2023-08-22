@@ -54,7 +54,7 @@ Wenn ich schon dran bin, mache ich ein wenig Werbung für die wunderbare Arbeit 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -75,6 +75,6 @@ Sobald die Marmelade kalt ist, könnt ihr die Gläser wieder umdrehen.
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

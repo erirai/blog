@@ -81,7 +81,7 @@ Und auch dieses Jahr ist die Fasnacht angekommen, der Februar geht endlich zu En
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -115,6 +115,6 @@ Sofort essen, warm sind sie am besten...
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

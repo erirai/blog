@@ -111,7 +111,7 @@ Vor knapp zwei Wochen waren wir am Fluss, ich war sehr mutig und habe das erste 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -160,6 +160,6 @@ Sie sind sowohl heiss als auch kalt gut. Tränkt sie im Tzatziki oder sie machen
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

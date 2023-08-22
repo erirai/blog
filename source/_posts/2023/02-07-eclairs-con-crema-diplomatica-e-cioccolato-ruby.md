@@ -106,7 +106,7 @@ Ok, lo so, la ricetta potrebbe sembrare difficile ed articolata, ma ho deciso di
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -184,6 +184,6 @@ Così sono già ottimi, magari con una bella spolverata di zucchero a velo ma vi
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

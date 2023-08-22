@@ -106,7 +106,7 @@ Il Crumble per me è puro Comfort Food, la pasta frolla e la frutta cotta e prof
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -160,6 +160,6 @@ Infornate il **Crumble di Verdure** nel forno preriscaldato a 180°C ventilato p
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

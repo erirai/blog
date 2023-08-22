@@ -69,7 +69,7 @@ Qualche giorno fa a La Prova del Cuoco il mitico Bonci ha fatto questa sofficiss
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -87,6 +87,6 @@ Infornate la focaccia nel forno preriscaldato alla massima temperatura per poi a
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

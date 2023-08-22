@@ -104,7 +104,7 @@ Ich erzähle euch eine kleine Geschichte... Vor ein paar Wochen hat mir meine Sc
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -133,6 +133,6 @@ Schokoladentarte für ca. 40min im vorgeheizten Ofen bei 180°C Umluft backen. D
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

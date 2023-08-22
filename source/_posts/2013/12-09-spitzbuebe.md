@@ -77,7 +77,7 @@ Ecco la seconda parte dei biscotti di natale... oggi ne ho fatti tre tipi. Quest
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -102,6 +102,6 @@ Per finire una bella spolverata di zucchero a velo.
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

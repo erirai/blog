@@ -81,7 +81,7 @@ Per molti mangiare la focaccia con le patate è una cosa strana, ma vi assicuro 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -137,6 +137,6 @@ Infornate nel forno preriscaldato a 200°C statico, spruzzate un pochettino d'ac
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

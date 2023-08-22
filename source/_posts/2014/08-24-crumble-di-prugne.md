@@ -70,7 +70,7 @@ Qualche giorno fa mi sono comprata una bellissima tortiera e volevo usarla subit
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -95,6 +95,6 @@ Il crumble va mangiato ancora caldo, se gradite con del gelato alla vaniglia, ma
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

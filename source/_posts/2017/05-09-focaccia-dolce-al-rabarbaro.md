@@ -94,7 +94,7 @@ Oggi non vi propongo una torta o una crostata con il rabarbaro, ma una focaccia 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -120,6 +120,6 @@ Infornate la focaccia nel forno preriscaldato a 180°C statico per circa 25min o
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

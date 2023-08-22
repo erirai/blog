@@ -87,6 +87,6 @@ Ich benutze die Bienenwachstücher schon seit einem Jahr und könnte nicht mehr 
 
 <h4>Danke für eure Hilfe...
   <font color="green">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

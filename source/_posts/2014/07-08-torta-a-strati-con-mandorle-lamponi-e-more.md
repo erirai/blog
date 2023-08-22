@@ -86,7 +86,7 @@ Oggi ci viene a trovare una mia cara amica che studia in Italia e per l'occasion
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -115,7 +115,7 @@ Tagliatela a pezzi e prima di servirla cospargetela con dello zucchero a velo.
 
 <h3>
   <font color="#FFCC00">
-    <i class="fa fa-lightbulb-o"></i>
+    <i class="fa-regular fa-lightbulb"></i>
   </font> P.S.
 </h3>
 
@@ -123,6 +123,6 @@ Nella foto della ricetta del giornalino la mangiano con le mani e sembra molto a
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

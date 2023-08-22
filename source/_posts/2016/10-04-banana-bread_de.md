@@ -72,7 +72,7 @@ Wie oft ist es euch schon passiert, dass ihr Bananen gekauft habt und diese schw
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -93,6 +93,6 @@ Dann für eine Stunde in den Ofen bei 180°C Ober- und Unterhitze backen. Falls 
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

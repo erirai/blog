@@ -105,7 +105,7 @@ Die Idee für den Rocher-Geschmack, ist mir aber während der Werbung gekommen. 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -143,6 +143,6 @@ Hier das Foto mit dem Logo.
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

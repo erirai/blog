@@ -48,7 +48,7 @@ Cosa beviamo quando fuori fa freddo, seduti sul divano davanti alla TV, sotto un
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -65,6 +65,6 @@ Se volete decorate con le decorazioni di zucchero, poi lasciate indurire complet
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

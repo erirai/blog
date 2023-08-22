@@ -98,7 +98,7 @@ Benvenuto Giugno! È iniziato il mese di preparazione verso l'estate, inizia il 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -140,7 +140,7 @@ Decorate la superficie con altra crema e delle fragole fresche.
 
 <h3>
   <font color="#FFCC00">
-    <i class="fa fa-lightbulb-o"></i>
+    <i class="fa-regular fa-lightbulb"></i>
   </font> P.S.
 </h3>
 
@@ -148,6 +148,6 @@ La crema è un po' scivolosa, quindi la torta tende a spostarsi... per evitare q
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

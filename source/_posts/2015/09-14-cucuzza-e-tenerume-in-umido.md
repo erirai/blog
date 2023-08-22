@@ -55,7 +55,7 @@ Ok, lo so! Tutti quelli che non hanno mai mangiato la cucuzza ed il tenerume non
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -71,6 +71,6 @@ Chiudete con un coperchio e fate cucinare il tutto a fuoco medio. Aggiustate di 
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

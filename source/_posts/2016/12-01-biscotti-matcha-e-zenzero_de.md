@@ -67,7 +67,7 @@ Vor zwei Jahren war ich an einem veganen Backkurs. Dort haben wir ganz viele lec
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -87,6 +87,6 @@ Zum Schluss werden diese Cookies für 7-10min im vorgeheizten Ofen bei 180°C Um
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

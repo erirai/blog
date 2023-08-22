@@ -135,7 +135,7 @@ Qualche giorno fa alla Prova del Cuoco ho visto fare questo Agnellino di Pane. L
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -172,7 +172,7 @@ Infornate, chiudete il forno ed abbassate la temperatura a 220°C. Fate cucinare
 
 <h3>
   <font color="#FFCC00">
-    <i class="fa fa-lightbulb-o"></i>
+    <i class="fa-regular fa-lightbulb"></i>
   </font> P.S.
 </h3>
 
@@ -180,6 +180,6 @@ Potete farcire le roselline con qualsiasi cosa... per farlo vegan basta non mett
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

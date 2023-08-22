@@ -88,7 +88,7 @@ Ma andate a dare un'occhiata su <a href="https://www.farmy.ch" target="_blank">F
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -130,6 +130,6 @@ Quando sfornate le patate e gli spiedini, aggiustate di sale e servite!
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

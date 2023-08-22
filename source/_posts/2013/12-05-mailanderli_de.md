@@ -71,7 +71,7 @@ Heute habe ich meine ersten Weihnachtsplätzchen gebacken :-) Sie sind, meiner M
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -103,6 +103,6 @@ Die Mailänderli im vorgeheizten Ofen bei 180°C Umluft ca. 13min backen, dann a
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

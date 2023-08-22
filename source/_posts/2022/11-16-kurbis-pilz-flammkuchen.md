@@ -98,7 +98,7 @@ Und wenn ich bedenke, dass ich den Flammkuchen erst vor 3 oder 4 Jahren entdeckt
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -142,6 +142,6 @@ Begleitet ihn mit einer guten Suppe oder einem schönen Salat... aber er eignet 
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

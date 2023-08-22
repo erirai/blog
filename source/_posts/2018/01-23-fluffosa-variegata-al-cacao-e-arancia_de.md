@@ -134,7 +134,7 @@ Eine Fragen an euch: Wenn ihr einen Chiffon Cake mit vier Eiern in der kleinen B
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -167,6 +167,6 @@ Den Kakao-Orangen-Marmor-Chiffon Cake auf ein Servierteller geben und die Glasur
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

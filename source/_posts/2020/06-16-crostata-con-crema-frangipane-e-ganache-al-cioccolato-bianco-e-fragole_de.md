@@ -113,7 +113,7 @@ Ich habe dieses Rezept aus dem Sweet Dreams Magazin von Mai/Juni 2020 (not spons
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -169,6 +169,6 @@ Mandeltarte mindestens für 1h im Kühlschrank ruhen lassen, dann mit frischen E
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

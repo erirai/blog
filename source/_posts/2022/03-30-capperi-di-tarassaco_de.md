@@ -50,7 +50,7 @@ Ich konnte sie nicht alle finden, es fehlen ein paar wichtige, aber er war begei
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -102,6 +102,6 @@ Giesst die Knospen also in ein grossmaschiges Sieb, schüttet das Wasser weg und
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

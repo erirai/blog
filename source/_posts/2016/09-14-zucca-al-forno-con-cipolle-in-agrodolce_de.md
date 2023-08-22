@@ -57,7 +57,7 @@ Ich glaube ich glaube der Herbst kommt... und da beginnen wir auch mit den erste
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -84,6 +84,6 @@ Legt die Kürbisscheiben auf euer Servierteller, salzen und bedeckt diese mit de
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

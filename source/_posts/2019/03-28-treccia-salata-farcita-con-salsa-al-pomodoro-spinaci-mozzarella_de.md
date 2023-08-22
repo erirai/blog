@@ -110,7 +110,7 @@ Er wollte einen Hook-Kuchen und so sei es! Ich machte zwei Bisquit-Torten. Eine 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -138,6 +138,6 @@ Der Zopf kommt für ca. 30min in den vorgeheizten Ofen bei 200°C Ober- und Unte
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

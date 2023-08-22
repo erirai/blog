@@ -77,7 +77,7 @@ Ho visto la foto di una ciambella al pistacchio e arancia e sembrava una favola.
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -105,6 +105,6 @@ Glassate la torta, se volete aggiungete una spolverata di pistacchi tritati e qu
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

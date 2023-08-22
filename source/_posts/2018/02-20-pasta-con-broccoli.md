@@ -57,7 +57,7 @@ La Pasta con Broccoli è una di quelle cose che potrei mangiare sempre. La adoro
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -74,6 +74,6 @@ Buttate la pasta nell'acqua di cottura dei broccoli e salate. Quando la pasta sa
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

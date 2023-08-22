@@ -61,7 +61,7 @@ Gaia ist diese und nächste Woche im Urlaub, kein Kindergarten. Alle gehen in di
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -90,6 +90,6 @@ Die Blätterteig-Herzen für ca. 15min oder bis sie goldbraun sind im vorgeheizt
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

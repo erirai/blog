@@ -68,7 +68,7 @@ Letztes Jahr habe ich den einfachen Panettone von <a href="https://www.chiarapas
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -99,6 +99,6 @@ Der Pandoro kommt für ca. 50min im untersten Teil des vorgeheizten Ofens bei 18
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

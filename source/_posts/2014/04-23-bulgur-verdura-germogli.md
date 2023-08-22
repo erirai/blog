@@ -84,7 +84,7 @@ Spesso andiamo a comprare la verdura nei negozi turchi, che hanno sempre roba fr
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -107,7 +107,7 @@ Potete servire il bulgur e la verdura separatamente o mischiare il tutto diretta
 
 <h3>
   <font color="#FFCC00">
-    <i class="fa fa-lightbulb-o"></i>
+    <i class="fa-regular fa-lightbulb"></i>
   </font> P.S.
 </h3>
 
@@ -116,6 +116,6 @@ I germogli, almeno qui in Svizzera, si trovano nei supermercati. Ancora meglio s
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

@@ -88,7 +88,7 @@ Con l'aggiunta delle mele, le girelle risulteranno più succose. Io le mele le h
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -150,6 +150,6 @@ Infornate le **Girelle vegane Mele e Cannella** nel forno preriscaldato a 190°C
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

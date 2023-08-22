@@ -65,7 +65,7 @@ Questa frittata potrebbe esser anche una parte del Buffet per il compleanno. La 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -118,6 +118,6 @@ Finite di cuocerla anche dall'altra parte e servitela ancora bella calda, anche 
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

@@ -76,7 +76,7 @@ Ero alla ricerca di una torta da fare per la Festa della Mamma, solo che poi mi 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -91,7 +91,7 @@ Infornate la torta nel forno preriscaldato a 180°C per 10min, poi abbassate a 1
 
 <h3>
   <font color="#FFCC00">
-    <i class="fa fa-lightbulb-o"></i>
+    <i class="fa-regular fa-lightbulb"></i>
   </font> P.S.
 </h3>
 
@@ -99,6 +99,6 @@ Potete sostituire le fragole con l'ananas, le mele, il rabarbaro, i frutti di bo
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

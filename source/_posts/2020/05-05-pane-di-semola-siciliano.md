@@ -62,7 +62,7 @@ Il pane del fornaio dietro casa, era una di quelle cose che avrei mangiato molto
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -109,6 +109,6 @@ Fate tre incisioni con un coltello ben affilato. Infornate il pane di semola nel
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

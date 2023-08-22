@@ -66,7 +66,7 @@ Se riuscite a trovare un bel campo fiorito, vi consiglio di provare a farlo perc
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -126,6 +126,6 @@ Versate il finto miele di tarassaco ancora bollente nelle boccette precedentemen
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

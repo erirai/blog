@@ -85,7 +85,7 @@ Hier in der Schweiz warten wir. Ja, wir warten. Die Anzahl Infizierten steit wei
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -126,6 +126,6 @@ Kuchen für eine Stunde im Kühlschrank ruhen lassen. Dann Schokolade im Wasserb
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

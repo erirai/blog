@@ -89,7 +89,7 @@ L'ho preparata già oggi, che domani per cena preparerò dei <a href="https://fr
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -128,6 +128,6 @@ Prendete un colore alla volta e con un cucchiaio cercate di versare il cioccolat
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

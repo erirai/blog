@@ -56,7 +56,7 @@ Mi sa mi sa che l'autunno sta arrivando... ed ecco che iniziamo anche con le pri
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -83,6 +83,6 @@ Mettete la zucca su di un piatto da portata, salatela e coprite con la cipolla i
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

@@ -77,7 +77,7 @@ Jaaaaaa, Halloween kommt näher, juhuuu! Ich freue mich so drauf, ich kann es ka
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -102,6 +102,6 @@ Tischt den Reis und den Kürbis so auf, wie es euch gefällt. Ich habe dem Reis 
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

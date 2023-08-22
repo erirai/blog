@@ -75,7 +75,7 @@ Pasta frolla e frutta cotta, il matrimonio perfetto! Il profumo della pasta frol
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -101,6 +101,6 @@ Infornate a 180°C statico per mezz'oretta. Il crumble va mangiato ancora caldo 
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

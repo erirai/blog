@@ -105,7 +105,7 @@ I panini al latte per i burger sono pronti, adesso dobbiamo preparare solo quell
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -128,6 +128,6 @@ Adesso non vi resta che tagliare a metà i panini al latte con i semi di zucca, 
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

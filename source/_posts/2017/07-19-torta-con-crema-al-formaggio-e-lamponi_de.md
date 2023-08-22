@@ -116,7 +116,7 @@ Ich war auf Pinterest auf der Suche nach einfachen Frisuren und wieso auch immer
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -152,6 +152,6 @@ Kuchen kommt für 40-45min in den vorgeheizten Ofen bei 180°C Umluft, immer St�
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

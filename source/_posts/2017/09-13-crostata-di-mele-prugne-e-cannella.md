@@ -78,7 +78,7 @@ Anche voi avete un dolce che vi piace tanto tanto ma che per inspiegabili motivi
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -105,6 +105,6 @@ Infornate nel forno preriscaldato statico a 220°C per ca. 30-40min, per le mono
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>s

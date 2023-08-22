@@ -87,7 +87,7 @@ Und willkommen Juni! Wie schön, wir sind bereits im Juni angekommen und diesen 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -152,6 +152,6 @@ Ich habe diesen herzhaften Pfannkuchen mit einer Joghurtsauce aus Naturjoghurt, 
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

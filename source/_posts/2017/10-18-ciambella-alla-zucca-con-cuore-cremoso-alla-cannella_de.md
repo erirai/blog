@@ -98,7 +98,7 @@ Vor ein paar Wochen, hat mein Mann mich darauf aufmerksam gemacht, dass ich scho
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -133,6 +133,6 @@ Der Kürbis-Gugelhupf mit Zimt-Frischkäse-Füllung kommt für 60-75min in den v
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

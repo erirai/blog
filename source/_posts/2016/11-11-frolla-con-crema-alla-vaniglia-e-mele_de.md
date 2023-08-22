@@ -91,7 +91,7 @@ Ach, nach der Zeitumstellung wird es Abends, nein Nachmittags sehr früh dunkel 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -117,6 +117,6 @@ Die Tarte kommt für ca. 40min in den vorgeheizten Ofen bei 190°C Ober- und Unt
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

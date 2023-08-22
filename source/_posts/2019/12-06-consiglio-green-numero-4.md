@@ -110,6 +110,6 @@ Quanto riguarda il menù di Natale, se non riuscite a fare tutto il menù con in
 
 <h4>Grazie per l'aiuto...
   <font color="green">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

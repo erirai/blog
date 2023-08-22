@@ -79,7 +79,7 @@ Finalmente ci sono gli asparagi, sono una cosa fantastica poi si possono fare in
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -101,6 +101,6 @@ Infornate le lasagne coperte con un foglio di carta argentata per ca. 25min a 22
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

@@ -98,7 +98,7 @@ E pensare che ho scoperto la Tarte Flambée solo 3 o 4 anni fa. La provai la pri
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -142,6 +142,6 @@ Accompagnatela con una buona zuppa o una bella insalatona... ma è ottima anche 
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

@@ -63,7 +63,7 @@ Due settimane fa abbiamo festeggiato il compleanno di mio marito... Dato che la 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -88,6 +88,6 @@ Infornate i fiori di zucca a 200°C per ca. 20min o almeno finché si saranno do
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

@@ -74,7 +74,7 @@ Ma che sò sti Gugl?! Allora, non so se conoscete il Gugelhupf, quel dolce alto 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -99,7 +99,7 @@ Prima di servirli cospargeteli con una bella spolverata di zucchero a velo!
 
 <h3>
   <font color="#FFCC00">
-    <i class="fa fa-lightbulb-o"></i>
+    <i class="fa-regular fa-lightbulb"></i>
   </font> P.S.
 </h3>
 
@@ -107,6 +107,6 @@ Mia zia che sta in Italia mi dice sempre che non riece a trovare la panna acida.
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

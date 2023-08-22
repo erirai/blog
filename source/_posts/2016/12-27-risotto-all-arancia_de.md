@@ -59,7 +59,7 @@ Vor zwei Jahren habe ich zum ersten Mal diesen Risotto gemacht und es war sofort
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -74,6 +74,6 @@ Gegen Ende geriebene Schale einer Orange dazu geben, den Rosmarinzweig entfernen
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

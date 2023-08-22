@@ -106,7 +106,7 @@ Questa ricetta è nata così, per caso. A natale ho fatto le polpettine di pane 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -129,6 +129,6 @@ Poi tagliatelo a fette e servitelo con un po' di sugo.
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

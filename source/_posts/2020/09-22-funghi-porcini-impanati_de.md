@@ -62,7 +62,7 @@ Im Herbst essen wir öfters Pilze... Den Rest des Jahres nehme ich praktisch nur
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -101,10 +101,8 @@ Sie sollten schön goldbraun gebraten werden. Dann auf Haushaltspapier legen und
   </div>
 </p>
 
-![](../2020-09-22-funghi-porcini-impanati/risultato9.jpeg "frangipani © Erica")
-
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

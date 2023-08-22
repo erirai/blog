@@ -86,7 +86,7 @@ E niente, questa sarà la mia ultima ricetta autunnale... Dalla prossima settima
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -114,6 +114,6 @@ Infornate il Pumpkin Bread nel forno preriscaldato a 180°C ventilato per 40min 
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

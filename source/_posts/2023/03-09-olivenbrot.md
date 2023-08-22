@@ -62,7 +62,7 @@ Nun, ich weiss, dass Brotbacken nicht jedermanns Sache ist, aber ich empfehle eu
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -118,6 +118,6 @@ Zum **Backen auf dem Blech** den Ofen auf 220°C Ober- und Unterhitze vorheizen.
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

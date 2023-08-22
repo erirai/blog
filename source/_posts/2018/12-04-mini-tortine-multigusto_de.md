@@ -108,7 +108,7 @@ Endlich ist der Dezember da! Ich bin so glücklich... der November ist vorbei un
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -142,6 +142,6 @@ Sobald sie kalt sind, können sie dekoriert werden (oder einfach mit Puderzucker
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

@@ -65,7 +65,7 @@ Eh niente, non mi resta che augurarvi un buon Natale, che sia un Natale pieno di
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -126,6 +126,6 @@ Infornate la **ghirlanda di Pane con Semi di Lino** nel forno preriscaldato a 25
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

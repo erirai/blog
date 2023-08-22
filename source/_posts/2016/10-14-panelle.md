@@ -52,7 +52,7 @@ Voglia di Panelle? Vai in rosticceria e ti compri una vaschetta di Panelle, no? 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -83,6 +83,6 @@ Fatevi un bel panino con le Panelle all'interno. Vi consiglio di aggiungere qual
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

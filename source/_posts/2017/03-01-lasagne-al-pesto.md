@@ -74,7 +74,7 @@ Avete presente quando vi mettete in testa di preparare qualcosa, poi andate in s
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -99,6 +99,6 @@ Infornatela nel forno preriscaldato a 200°C ventilato coperta con un foglio di 
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

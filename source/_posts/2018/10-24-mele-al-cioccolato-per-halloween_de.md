@@ -56,7 +56,7 @@ Dieses Jahr werde ich nicht mehr bieten können! Diese Woche hat Gaia wieder mit
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -76,6 +76,6 @@ Weisse und dunkle Schokolade separat im Wasserbad schmelzen. Wenn ihr möcht, k�
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

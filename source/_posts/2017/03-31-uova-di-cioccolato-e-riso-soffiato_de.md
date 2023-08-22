@@ -42,7 +42,7 @@ Hier sind wir wieder und beginnen wir mit der ersten Ostersüssigkeit. Wir begin
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -61,6 +61,6 @@ Nun die Eier aus der Form nehmen und im Kühlschrank lassen, bis ihr sie braucht
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

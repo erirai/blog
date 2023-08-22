@@ -98,7 +98,7 @@ Altro che agosto, sembrava già di essere in pieno autunno... Proprio per quelle
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -120,6 +120,6 @@ All'ultimo aggiungete la panna (vegetale o non) alla zuppa e fate bollire giusto
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

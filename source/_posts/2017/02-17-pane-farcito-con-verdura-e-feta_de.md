@@ -76,7 +76,7 @@ Folgende Situation: Ihr habt soeben gefrühstückt, ihr macht den Kühlschrank a
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -106,6 +106,6 @@ Das gefüllte Brot kommt für eine halbe Stunde in den vorgeheizten Ofen bei 180
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

@@ -73,7 +73,7 @@ Oggi è mercoledì e io detesto il mercoledì! Ecco, adesso sto meglio... Tra le
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -96,6 +96,6 @@ Infornate la Parmigiana nel forno preriscaldato a 180° ventilato per mezz'orett
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

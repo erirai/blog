@@ -67,7 +67,7 @@ Tunnel of Fudge Cake... ja, dieser Kuchen hat definitiv einen komischen Namen, a
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -87,6 +87,6 @@ Der Kuchen kommt für 35-40min in den vorgeheizten Ofen bei 180°C Ober- und Unt
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

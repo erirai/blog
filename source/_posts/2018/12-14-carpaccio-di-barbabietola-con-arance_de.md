@@ -57,7 +57,7 @@ Habt ihr schon über das Weihnachtsessen nachgedacht? Ich, ehrlich gesagt, noch 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -78,6 +78,6 @@ Rote Bete schälen und ganz dünne Scheiben schneiden mit Hilfe einer Hobel. Die
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

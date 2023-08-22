@@ -66,7 +66,7 @@ Questa è una cosa che vorrei perfezionare, il pane! Il pane, secondo me, è una
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -107,6 +107,6 @@ Infornate nel forno preriscaldato statico a temperatura massima, appena chiudete
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

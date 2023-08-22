@@ -61,7 +61,7 @@ Qualche tempo fa ho visto una foto di una torta salata con le patata e sembrava 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -83,6 +83,6 @@ Poi infornate a 200°C (ventilato) per ca. 20min. Prima di tagliarla aspettate q
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

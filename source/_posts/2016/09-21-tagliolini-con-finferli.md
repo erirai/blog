@@ -57,7 +57,7 @@ Per l'inizio dell'autunno non poteva mancare un piatto con i funghi... Esattamen
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -79,6 +79,6 @@ Aggiungete il prezzemolo spezzettato e fate mantecare bene aggiungendo un po' d'
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

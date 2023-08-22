@@ -69,7 +69,7 @@ Poi mi sembra giusto dare il benvenuto all'estate con un piatto fatto con i pomo
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -111,6 +111,6 @@ Riempite i pomodori con il riso. A questo punto avete diverse opzioni:
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

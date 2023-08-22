@@ -109,7 +109,7 @@ Oggi però è un giorno speciale... nostro figlio compie 3 anni! Gioele un bimbo
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -150,6 +150,6 @@ Prima di servirla, decoratela con delle scaglie di cioccolato ed una spolverata 
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

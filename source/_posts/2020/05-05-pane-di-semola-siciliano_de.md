@@ -62,7 +62,7 @@ Das Brot vom Bäcker um die Ecke, war eines dieser Dinge, die ich vor ein paar W
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -109,6 +109,6 @@ Mit einem scharfen Messer, drei Einschnitte machen und für 25-30min im vorgehei
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

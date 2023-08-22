@@ -108,7 +108,7 @@ Auguri a noi! Ti amo tanto!
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -157,6 +157,6 @@ Infornate la torta di more e pere nel forno preriscaldato a 200°C statico per 4
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

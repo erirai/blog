@@ -70,7 +70,7 @@ Mio marito domani fa il compleanno e mi ha chiesto di preparargli tre torta da p
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -91,7 +91,7 @@ Fate raffreddare bene la torta, tagliatela a quadretti e finite con una bella sp
 
 <h3>
   <font color="#FFCC00">
-    <i class="fa fa-lightbulb-o"></i>
+    <i class="fa-regular fa-lightbulb"></i>
   </font> P.S.
 </h3>
 
@@ -99,6 +99,6 @@ Potete sostituire l'ananas con il rabarbaro o dei frutti di bosco, o altra frutt
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

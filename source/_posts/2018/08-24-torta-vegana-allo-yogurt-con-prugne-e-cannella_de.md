@@ -83,7 +83,7 @@ Tja, letzten Montag kehrte die übliche Routine zurück. Wecker um Uhr 6:30, Gai
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -115,6 +115,6 @@ Zwetschgenkuchen für 45-50min im vorgeheizten Ofen bei 160°C Umluft backen, im
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

@@ -59,7 +59,7 @@ Feta e Pomodorini al forno con Capperi e Olive per un pranzo o una cena veloce d
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -87,6 +87,6 @@ Infornate di nuovo per altri 10-15min e mangiate ben caldo.
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

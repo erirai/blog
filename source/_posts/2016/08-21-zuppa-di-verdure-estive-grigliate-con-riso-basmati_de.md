@@ -98,7 +98,7 @@ Nix mit August, ich hatte das Gefühl, mitten im Herbst zu sein... Genau für di
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -119,6 +119,6 @@ Zum Schluss die Sahne (pflanzlich oder nicht) zur Suppe geben und einige Minuten
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

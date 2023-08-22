@@ -67,7 +67,7 @@ Mi era venuta una voglia di polpette col sugo, ma non mangiando più carne non s
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -85,6 +85,6 @@ Infornatele nel forno preriscaldato ventilato a 180°C per mezz'oretta. Potete a
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

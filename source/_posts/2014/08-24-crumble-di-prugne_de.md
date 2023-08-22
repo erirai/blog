@@ -70,7 +70,7 @@ Vor ein paar Tagen habe ich eine wunderschöne neue Kuchenform gekauft und wollt
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -95,6 +95,6 @@ Crumble isst man noch schön warm, wenn gewünscht mit Vanilleeis dazu, aber auc
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

@@ -84,7 +84,7 @@ Ma parliamo un po' di questi Berliner vegani al Forno. I Berliner sono una speci
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -109,6 +109,6 @@ Poi infornate nel forno preriscaldato a 210°C statico per 10min o finché avran
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

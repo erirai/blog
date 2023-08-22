@@ -82,7 +82,7 @@ Die Inspiration zu diesem Rezept kam mir von meiner zia Giusy, die diesen Frühl
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -128,6 +128,6 @@ Mit Alufolie abdecken und im vorgeheizten Backofen bei 180°C Umluft eine halbe 
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

@@ -108,7 +108,7 @@ Non c'è paragone con le fragole comprate al supermercato! Ultimamente quelle ch
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -170,6 +170,6 @@ Adesso decorate la torta con le fragole, come piace a voi. Finite spennellando s
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

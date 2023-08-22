@@ -57,7 +57,7 @@ Io ho cotto il pane nella casseruola dell'Ikea che ha una capacità di 3l. Se av
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -84,6 +84,6 @@ Appena il pane è pronto, cercate di uscirlo subito dalla casseruola e metttelo 
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

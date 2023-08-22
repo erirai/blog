@@ -60,7 +60,7 @@ E proprio mio cognato oggi fa il compleanno e per l'occasione mia sorella gli ha
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -76,6 +76,6 @@ Quando l'acqua bolle, salate l'acqua e buttate la pasta. Quando sarà cotta scol
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

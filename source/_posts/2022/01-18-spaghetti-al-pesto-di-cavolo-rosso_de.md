@@ -78,7 +78,7 @@ Ich habe mich entschieden, ein farbiges Rezept zuzubereiten, denn der Winter bra
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -112,6 +112,6 @@ Währenddessen reichlich Wasser aufkochen, die Spaghetti ins kochende Wasser geb
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

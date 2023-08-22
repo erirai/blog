@@ -71,7 +71,7 @@ Sobald die Tage wärmer werden, mache ich oft solche Pasta- oder Reissalate. Tel
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -87,6 +87,6 @@ Nun Pasta im selben Kochwasser kochen, Salz nicht vergessen. Sobald die Pasta ga
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

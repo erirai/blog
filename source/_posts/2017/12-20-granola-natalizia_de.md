@@ -99,7 +99,7 @@ Na, was soll ich noch sagen... Für dieses Jahr bin ich fertig mit dem Blog, mac
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -120,6 +120,6 @@ Sobald die Granola aus dem Ofen ist, Zimtäpfel dazu geben, mischen und auskühl
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

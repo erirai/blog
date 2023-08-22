@@ -58,6 +58,6 @@ Werft die Papierservietten oder das Küchenpapier, das ihr bereits zu Hause oder
 
 <h4>Danke für eure Hilfe...
   <font color="green">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

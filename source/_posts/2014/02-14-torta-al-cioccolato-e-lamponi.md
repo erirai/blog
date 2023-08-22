@@ -88,7 +88,7 @@ Dato che mia sorella e mio tra poco cognato sono vegani, mi sono comprata un lib
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -109,7 +109,7 @@ Decorate la torta a vostro piacere...
 
 <h3>
   <font color="#FFCC00">
-    <i class="fa fa-lightbulb-o"></i>
+    <i class="fa-regular fa-lightbulb"></i>
   </font> P.S.
 </h3>
 
@@ -117,6 +117,6 @@ Se non avete la marmellata di lamponi, potete anche prendere i lamponi freschi o
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

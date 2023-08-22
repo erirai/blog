@@ -61,7 +61,7 @@ Nun zum Rezept... Den Rotkohl habe ich erst vor einigen Jahren entdeckt. Hier wi
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -84,6 +84,6 @@ Sobald der Reis das ganze Wasser absorbiert hat, könnt ihr nochmals heisses Zit
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

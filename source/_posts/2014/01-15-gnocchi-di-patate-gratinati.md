@@ -96,7 +96,7 @@ Ovviamente la ricetta è quella degli Gnocchi, poi il condimento è una proposta
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -161,6 +161,6 @@ Infornate gli gnocchi coperti con un foglio di carta argentata a 200°C ventilat
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

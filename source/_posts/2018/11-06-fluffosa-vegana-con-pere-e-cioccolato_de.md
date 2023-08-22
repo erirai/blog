@@ -94,7 +94,7 @@ Es ist nicht viel, aber wenn ihr die Dinge, die kommen, zusammenzählt, wird es 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -131,6 +131,6 @@ Chiffon Cake für 1h 30min im vorgeheizten Ofen bei 150°C Ober- und Unterhitze 
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

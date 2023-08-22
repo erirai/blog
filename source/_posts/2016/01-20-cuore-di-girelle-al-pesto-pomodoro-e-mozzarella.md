@@ -50,7 +50,7 @@ Ecco una delle tante cose che si può fare con l'impasto per pane. Queste girell
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -73,6 +73,6 @@ Infornate le girelle nel forno caldo a 200°C per 20min o anche di più, dipende
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

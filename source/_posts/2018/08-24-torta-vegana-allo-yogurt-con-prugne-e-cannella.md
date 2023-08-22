@@ -83,7 +83,7 @@ E niente, lunedì scorso è ritornata la solita routine. Sveglia alle 6:30, Gaia
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -115,6 +115,6 @@ Infornate la torta di prugne nel forno preriscaldato a 160°C ventilato per 45-5
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

@@ -69,7 +69,7 @@ Lo so, lo so... Questo piatto non è proprio un classico per il pranzo domenical
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -86,6 +86,6 @@ A questo punto fate andare a fiamma moderata mescolando ogni tanto. Ci vorrà ci
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

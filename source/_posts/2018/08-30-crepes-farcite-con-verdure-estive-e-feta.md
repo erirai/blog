@@ -96,7 +96,7 @@ Agosto sta finendo e con lui finisce anche l'estate... almeno per me! Anche se f
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -135,6 +135,6 @@ Infornate le Crêpes farcite nel forno preriscaldato a 180°C ventilato per 20mi
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

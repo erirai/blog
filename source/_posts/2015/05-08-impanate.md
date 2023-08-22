@@ -82,7 +82,7 @@ Oggi mia Mamma ha preparato le Impanate! Sono come dei Calzoni ma più grandi e 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -108,6 +108,6 @@ Le Impanate sono buone sia calde che fredde, ma vanno benissimo anche il giorno 
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

@@ -55,7 +55,7 @@ Nun ja! Vor genau einem Jahr habe ich meinen ersten Beitrag in meinem Blog verö
 
 <h3>
 	<font color="grey">
-		<i class="fa fa-cogs"></i>
+		<i class="fa-solid fa-gears"></i>
 	</font> Zubereitung
 </h3>
 
@@ -107,6 +107,6 @@ Jetzt für mindestens 3h kalt stellen. Wenn die Form gross ist, kann es länger 
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

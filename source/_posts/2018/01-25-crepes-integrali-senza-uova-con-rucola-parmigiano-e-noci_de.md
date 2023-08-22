@@ -75,7 +75,7 @@ Diese Vollkorn-Crêpe ohne Eier mit Rucola, Parmesan und Walnüssen habe ich vor
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -104,6 +104,6 @@ Käse-Crêpe auf den Teller geben, Rucola und geröstete Walnüsse darüber vert
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

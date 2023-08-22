@@ -109,7 +109,7 @@ Nach dem herzhaften Carrot Cake vom letzten Montag, gibt es heute einen süssen 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -151,6 +151,6 @@ Die restliche Creme in ein Spritzsack geben und den Kuchen dekorieren. Ich habe 
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

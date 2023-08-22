@@ -87,7 +87,7 @@ E benvenuto Giugno! Che bello, siamo già arrivati a Giugno e questo mese iniza 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -152,6 +152,6 @@ Ho servito questo Pancake salato con una salsa allo yogurt fatta con yogurt natu
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

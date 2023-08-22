@@ -62,7 +62,7 @@ L'anno scorso mia Mamma ha fatto questa ricetta e mi è piaciuta talmente tanto 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -81,6 +81,6 @@ Quando la pasta sarà cotta, scolatela tenendo da parte l'acqua di cottura. Vers
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

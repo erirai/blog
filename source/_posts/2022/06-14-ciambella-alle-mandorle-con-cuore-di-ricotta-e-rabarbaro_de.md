@@ -109,7 +109,7 @@ Tatsächlich essen wir in dieser kurzen Zeit viel davon und geniessen es, danach
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -157,6 +157,6 @@ Den **Mandelgugelhupf mit Ricotta-Rhabarber-Füllung** bei 180°C Umluft eine St
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

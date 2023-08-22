@@ -96,7 +96,7 @@ Es geht hier um das Gnocchirezept, die Sauce ist ein Vorschlag. Sie schmecken au
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -161,6 +161,6 @@ Die Ofenform mit Alufolie bedecken und für ca. 25min im Ofen bei 200°C Umluft 
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

@@ -80,7 +80,7 @@ Volete fare dei biscotti con i vostri figli? Eccoli qua! Sono facilissimi, sono 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -105,7 +105,7 @@ E questi i miei, ammetto che quelli di mia figlia sono più belli!
 
 <h3>
   <font color="#FFCC00">
-    <i class="fa fa-lightbulb-o"></i>
+    <i class="fa-regular fa-lightbulb"></i>
   </font> P.S.
 </h3>
 
@@ -113,6 +113,6 @@ Questi biscotti vanno mangiati possibilmente freschi, ma si possono conservare p
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

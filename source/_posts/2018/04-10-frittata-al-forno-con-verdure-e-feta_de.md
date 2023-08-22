@@ -91,7 +91,7 @@ Ofen-Frittata mit Gemüse und Fetakäse, zusammen mit einer Scheibe Brot essen u
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -123,6 +123,6 @@ Die Frittata für ca. eine halbe Stunde im vorgeheizten Ofen bei 180°C Umluft b
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

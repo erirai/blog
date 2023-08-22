@@ -111,7 +111,7 @@ Vi auguro una bellissima estate, godetevela e ci rileggiamo a fine Agosto.
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -163,6 +163,6 @@ Infornate la **torta vegana al limone e mirtilli** nel forno preriscaldato a 160
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

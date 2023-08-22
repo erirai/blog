@@ -55,6 +55,6 @@ Nessuno è perfetto e nessuno si aspetta una spesa perfetta completamente senza 
 
 <h4>Grazie per l'aiuto...
   <font color="green">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

@@ -83,7 +83,7 @@ Già a settembre ho iniziato a guardare cosa poter fare questo Halloween. Dato c
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -124,6 +124,6 @@ Io ho ricoperto una semisfera di polistirolo con della carta velina e ci ho infi
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

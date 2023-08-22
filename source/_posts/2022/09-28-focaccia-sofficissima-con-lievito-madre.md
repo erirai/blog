@@ -75,7 +75,7 @@ Purtroppo non ho ancora avuto abbastanza tempo per provare a fare pane o altre c
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -163,6 +163,6 @@ Infornate la focaccia nel forno preriscaldato a 250°C statico per 20min circa. 
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

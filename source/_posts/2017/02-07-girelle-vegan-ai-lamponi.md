@@ -91,7 +91,7 @@ Stavo cercando qualche idea per la colazione di San Valentino. In questi casi Pi
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -127,6 +127,6 @@ Infornate nel forno preriscaldato statico a 200°C per ca. 25min. L'impasto rest
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

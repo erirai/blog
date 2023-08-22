@@ -73,7 +73,7 @@ Sinceramente, arrivato settembre, volevo iniziare con le ricette autunnali... Ti
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -112,6 +112,6 @@ Ed ecco il risulato!
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

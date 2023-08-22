@@ -88,7 +88,7 @@ Nun zum Rezept... mit herzhaften Brioches könnt ihr immer einen guten Eindruck 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -139,6 +139,6 @@ Die Brioche kommt für 40min in den vorgeheizten Ofen bei 200°C Ober- und Unter
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

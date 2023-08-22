@@ -67,7 +67,7 @@ Tunnel of Fudge Cake... si questa torta ha decisamente un nome strano, ma il gus
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -87,6 +87,6 @@ Infornate nel forno preriscaldato a 180°C statico per 35-40min o finché vedret
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

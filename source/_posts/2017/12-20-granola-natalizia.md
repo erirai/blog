@@ -100,7 +100,7 @@ Beh, cosa dire... Per quest'anno ho finito con il Blog, mi prendo un pochettino 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -121,6 +121,6 @@ Appena la Granola esce dal forno aggiungete le mele alla cannella, mescolate e l
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

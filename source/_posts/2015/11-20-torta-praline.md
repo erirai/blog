@@ -100,7 +100,7 @@ Oggi mio marito ed io festeggiamo i nostri primi 10 anni, 10 anni passati insiem
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -132,6 +132,6 @@ A questo punto mettete la torta in frigo almeno per 6 ore, ancora meglio se la p
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

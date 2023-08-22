@@ -70,7 +70,7 @@ Parliamo di questo piatto... L'idea per questa ricetta, mi è venuta pensando pr
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -93,6 +93,6 @@ Poi aggiungete l'avocado e livellate anche quello. Coprite con della salsa rosa 
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

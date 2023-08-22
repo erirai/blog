@@ -104,7 +104,7 @@ Volevo iniziare il mio Blog condividendo con voi la mia torta preferita... È LA
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -120,6 +120,6 @@ Infornate la crostata nella parte bassa del forno a 170°C statico per ca. 40min
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

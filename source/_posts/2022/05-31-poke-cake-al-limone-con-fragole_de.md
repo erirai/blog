@@ -122,7 +122,7 @@ Für die Kommunion stattdessen, wählte sie die Blumen in Blau, Gelb und Weiss u
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -182,6 +182,6 @@ Die restliche Crème auf dem Kuchen verteilen und nach Belieben mit Erdbeeren de
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

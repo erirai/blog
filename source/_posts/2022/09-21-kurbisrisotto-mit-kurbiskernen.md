@@ -84,7 +84,7 @@ Der erste Kürbis der Saison ist immer eine Freude, wie alle Dinge, die wir zum 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -112,6 +112,6 @@ Risotto in die Teller geben, nach Belieben etwas gemahlenen Pfeffer dazugeben, d
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

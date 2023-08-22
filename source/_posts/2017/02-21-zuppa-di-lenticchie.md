@@ -78,7 +78,7 @@ Quando si parla di Comfort Food, io penso subito a questa zuppa di lenticchie. L
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -95,6 +95,6 @@ Appena le lenticchie saranno cotte, togliete le foglie d'alloro, aggiustate di s
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

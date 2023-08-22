@@ -66,7 +66,7 @@ Noch ist kein Regen in Sicht, aber die Luft hat sich vor allem nachts und morgen
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -113,6 +113,6 @@ Heisse Konfitüre in die sauberen und sterilisierten Gläser füllen, verschlies
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

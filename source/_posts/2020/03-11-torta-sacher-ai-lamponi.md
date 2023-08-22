@@ -85,7 +85,7 @@ Qui in Svizzera stiamo aspettando. Sì, aspettiamo. I test positivi continuano a
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -126,6 +126,6 @@ Mettete la torta in frigo e fatela riposare per un'oretta. Poi fate sciogliere a
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

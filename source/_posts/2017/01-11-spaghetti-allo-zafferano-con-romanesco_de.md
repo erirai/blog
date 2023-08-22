@@ -58,7 +58,7 @@ Kennt ihr diese Gerichte, die man schnell schnell vorbereitet, weil man wieder e
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -76,6 +76,6 @@ Spaghetti in die Teller geben und schön heiss geniessen!
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

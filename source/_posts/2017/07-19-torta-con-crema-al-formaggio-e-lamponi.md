@@ -116,7 +116,7 @@ Stavo cercando su Pinterest Foto di acconciature facili da fare e non so perché
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -152,6 +152,6 @@ Poi infornate nel forno preriscaldato ventilato a 180°C per 40-45min. Fate semp
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

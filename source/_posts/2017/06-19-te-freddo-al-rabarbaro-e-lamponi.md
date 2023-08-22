@@ -56,7 +56,7 @@ Ho usato pochissimo il rabarbaro quest'anno e questo non va bene! La stagione pu
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -83,6 +83,6 @@ Servite questo té freddo con dei cubetti di ghiaccio, qualche fogliolina di men
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

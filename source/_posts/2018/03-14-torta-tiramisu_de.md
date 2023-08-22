@@ -109,7 +109,7 @@ Aber heute ist ein besonderer Tag... unser Sohn wird 3 Jahre alt! Gioele eine sÃ
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -149,6 +149,6 @@ Vor dem Servieren mit Schokoraspeln dekorieren und Kakaopulver darÃ¼ber streuen,
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

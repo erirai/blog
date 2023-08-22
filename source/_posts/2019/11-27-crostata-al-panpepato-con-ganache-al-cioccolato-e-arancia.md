@@ -88,7 +88,7 @@ Dovete sapere che amo tantissimo le torte natalizie, quelle decorate sono una me
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -123,6 +123,6 @@ Versate la Ganache sul guscio di frolla e mettete la crostata in frigo finché l
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

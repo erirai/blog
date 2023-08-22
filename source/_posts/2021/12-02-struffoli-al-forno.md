@@ -97,7 +97,7 @@ Ma questa ricetta l'ho preparata anche per un altro motivo molto speciale, infat
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -162,6 +162,6 @@ Conservati in un contenitore ermetico, tengono benissimo per qualche giorno.
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

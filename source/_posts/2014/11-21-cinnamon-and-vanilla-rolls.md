@@ -98,7 +98,7 @@ Finalmente oggi ho fatto le famose Cinnamon Rolls e dato che a mio marito non pi
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -131,6 +131,6 @@ E poi con un cucchiaino fatela colare sulle girelle. Vi consiglio di mangiarle a
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

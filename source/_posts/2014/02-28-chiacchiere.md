@@ -76,7 +76,7 @@ Chiacchiere di Carnevale fritte e al forno, voi quale preferite? Quando ancora l
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -109,7 +109,7 @@ Per la versione al forno dopo che avrete tagliato dei rettangoli, metteteli su d
 
 <h3>
   <font color="#FFCC00">
-    <i class="fa fa-lightbulb-o"></i>
+    <i class="fa-regular fa-lightbulb"></i>
   </font> P.S.
 </h3>
 
@@ -117,6 +117,6 @@ Le chiacchiere si possono fare benissimo anche vegane usando della margarina e s
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

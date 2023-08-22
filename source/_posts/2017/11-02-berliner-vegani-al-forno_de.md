@@ -84,7 +84,7 @@ Aber nun zu den veganen Ofenberliner. Ich mag es nicht zu frittieren, darum habe
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -109,6 +109,6 @@ Ofenberliner für 10min in der vorgeheizten Ofen bei 210°C Ober- und Unterhitze
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

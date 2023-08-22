@@ -43,7 +43,7 @@ C'è chi li ama e chi li odia. Io faccio parte della categoria: li adorooooooooo
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -55,6 +55,6 @@ Infornateli nel forno preriscadato a 200°C ventilato per 20-30min, devono essre
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

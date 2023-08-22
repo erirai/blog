@@ -64,7 +64,7 @@ A Halloween ho preparato per mia sorella dei Cupcakes per i suoi colleghi in uff
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -87,6 +87,6 @@ Infornate i cookies nel forno preriscaldato statico a 190°C per 12-15min. Fatel
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

@@ -72,7 +72,7 @@ A me piace così, senza la spolverata di zucchero a velo o glassa allo zucchero,
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -114,6 +114,6 @@ Infornate il **Plumcake al Mandarino** nel forno preriscaldato a 170°C statico 
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

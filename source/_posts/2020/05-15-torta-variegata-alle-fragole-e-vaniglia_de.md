@@ -116,7 +116,7 @@ Unsere "Quarantäne" hat Mitte März mit dem Geburtstag von unserem Sohn begonne
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -186,6 +186,6 @@ Marmorkuchen für ca. 1h im vorgeheizten Ofen bei 180C°C Ober- und Unterhitze b
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

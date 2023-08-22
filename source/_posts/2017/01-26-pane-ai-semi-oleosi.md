@@ -62,7 +62,7 @@ Grazie di cuore alle Instamamme per avermi contattata, è un vero piacere far pa
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -91,6 +91,6 @@ Infornate il pane nel forno preriscaldato a 220°C statico per mezz'oretta o fin
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

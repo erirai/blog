@@ -70,7 +70,7 @@ Ogni tanto succede anche a voi che di colpo vi viene voglia di una torta semplic
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -95,6 +95,6 @@ E poi quando la natura ci regala questa meraviglia, che fai, non ci fai la foto?
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

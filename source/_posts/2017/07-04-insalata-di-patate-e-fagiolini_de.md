@@ -54,7 +54,7 @@ Dieser Salat bedeutet für mich SOMMER! Dieses Gericht ist so einfach, hat aber 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -68,6 +68,6 @@ Alles zusammen kochen lassen, bis die Kartoffeln gar sind. Nun Wasser abgiessen,
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

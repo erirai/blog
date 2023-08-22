@@ -111,7 +111,7 @@ Quasi due settimane fa siamo stati al fiume, sono stata molto coraggiosa e ho fa
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -160,6 +160,6 @@ Sono buone sia calde che fredde. Inzuppatele nella Tzatziki o farciteci dei pani
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

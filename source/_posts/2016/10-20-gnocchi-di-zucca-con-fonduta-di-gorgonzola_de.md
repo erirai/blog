@@ -60,7 +60,7 @@ Hier sind wir, nochmals mit einem Kürbisrezept. Ja ich weiss, ich bin langweili
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -96,6 +96,6 @@ Gnocchi auftischen und schön heiss geniessen!
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

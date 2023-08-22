@@ -69,7 +69,7 @@ E devo dire ancora una cosa... Bentornata Estate! Felicissima di riaverti qui! F
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -89,6 +89,6 @@ Una volta freddo condite il cavolfiore con succo di limone, aglio in polvere, ol
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

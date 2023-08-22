@@ -59,7 +59,7 @@ Gebackener Feta mit Tomaten, Kapern und Oliven, ein schnelles Essen mit wenigen 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -87,6 +87,6 @@ Nochmals für weitere 10-15min backen und schön warm geniessen.
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

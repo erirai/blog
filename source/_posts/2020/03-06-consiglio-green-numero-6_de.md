@@ -164,6 +164,6 @@ Orchideenblüten sind sooo schön. Wenn ihr den richtigen Standort gefunden habt
 
 <h4>Danke für eure Hilfe...
   <font color="green">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

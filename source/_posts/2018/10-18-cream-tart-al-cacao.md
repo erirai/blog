@@ -99,7 +99,7 @@ Come ogni anno, il 18 Ottobre, colgo l'occasione per ringraziare ogni uno di voi
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -133,6 +133,6 @@ Fate riposare in frigo per un'oretta e decorate a piacere poco prima di servirla
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

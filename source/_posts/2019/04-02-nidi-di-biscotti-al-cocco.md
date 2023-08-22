@@ -57,7 +57,7 @@ lang: it
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -81,6 +81,6 @@ Infornate i nidi di biscotti al cocco nel forno preriscaldato a 180°C ventilato
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

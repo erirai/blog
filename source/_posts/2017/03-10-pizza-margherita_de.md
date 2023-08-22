@@ -62,7 +62,7 @@ Ich habe schon öfters auf Instagram Fotos meiner Pizza veröffentlicht, aber ei
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -85,6 +85,6 @@ Die Pizza kommt in den vorgeheizten Ofen bei 220°C Ober- und Unterhitze. Nach 1
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

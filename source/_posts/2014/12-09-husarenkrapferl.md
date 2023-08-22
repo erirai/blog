@@ -71,7 +71,7 @@ Mia sorella ed io oggi abbiamo fatto questi buonissimi Husarenkrapfen vegani. Io
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -111,6 +111,6 @@ Poi fate raffreddare completamente i biscotti su di una griglia e magnateli!
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

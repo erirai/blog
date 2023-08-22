@@ -103,7 +103,7 @@ In etwas mehr als zwei Wochen ist schon Ostern, darum werden die nächsten Rezep
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -126,6 +126,6 @@ Für den Salat den Radicchio waschen und wenn nötig in mundgerechte Stücke sch
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

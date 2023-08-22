@@ -117,7 +117,7 @@ Lasst mich also die Idee recyceln und damit den Monat Oktober willkommen zu heis
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -180,6 +180,6 @@ In einem luftdichten Behälter aufbewahren.
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

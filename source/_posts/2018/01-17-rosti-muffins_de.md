@@ -54,7 +54,7 @@ Mögt ihr Rösti? Ich sehr, leider muss ich aber noch etwas üben für das Origi
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -74,6 +74,6 @@ Kartoffelgemisch in ein bebuttertes Muffinblech geben, besser aus Silikon. Ihr k
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

@@ -86,7 +86,7 @@ Ich weiss nicht wie es euch geht, aber mit dieser Kälte habe ich extrem Lust au
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -122,6 +122,6 @@ Dieser herzhafte Kuchen kommt für ca. 45min in den vorgeheizten Ofen bei 180°C
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

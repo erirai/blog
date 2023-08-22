@@ -102,7 +102,7 @@ Questa è una di quelle torte buonissime che si fanno in un attimo, ma che lasci
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -120,6 +120,6 @@ Infornate nel forno preriscaldato a 175°C statico per ca. 35min, mi raccomando 
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

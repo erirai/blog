@@ -81,7 +81,7 @@ Wusstet ihr, dass heute ein besonderer Tag ist? Ja, genau vor 12 Jahren, haben m
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -104,6 +104,6 @@ Die Linzer Torte kommt für ca. 40min in den vorgeheizten Ofen bei 180°C Umluft
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

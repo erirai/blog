@@ -87,7 +87,7 @@ Morgen ist Halloween und damit endet auch der Monat Oktober... Dieser Monat ist 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -121,6 +121,6 @@ Die Pumpkin Cinnamon Rolls kommen für 15-17min in der vorgeheizten Ofen bei 190
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

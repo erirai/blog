@@ -62,7 +62,7 @@ Ho pubblicato già diverse volte foto delle mie Pizze su Instagram ma non ho mai
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -85,6 +85,6 @@ Infornate la pizza nel forno preriscaldato a 220°C statico per 10min. Poi aggiu
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

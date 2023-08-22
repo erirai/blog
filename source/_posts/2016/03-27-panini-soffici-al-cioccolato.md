@@ -70,7 +70,7 @@ Il giardino è pieno di fiori, è primavera, c'è il sole, abbiamo cambiato l'or
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -88,6 +88,6 @@ Infornate i coniglietti nel forno preriscaldato a 180°C statico per 15-20min, o
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

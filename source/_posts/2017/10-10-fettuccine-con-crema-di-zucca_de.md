@@ -65,7 +65,7 @@ Am Montag haben die Herbstferien begonnen. Die ersten zwei Kindergartenmonate si
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -79,6 +79,6 @@ In einem Kochtopf genügend Wasser aufkochen, salzen und Pasta darin garen. Soba
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

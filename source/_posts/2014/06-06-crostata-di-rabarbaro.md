@@ -101,7 +101,7 @@ Oggi avevo voglia di una bella crostata con la pasta frolla e avevo in frigo il 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -167,6 +167,6 @@ Infornate la crostata nel ripiano più basso del forno a 175°C statico per ca. 
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

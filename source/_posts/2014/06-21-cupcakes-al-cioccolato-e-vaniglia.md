@@ -105,7 +105,7 @@ Mia commare Daniela mi ha chiesto se avevo voglia di fare dei Cupcakes per il ma
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -130,6 +130,6 @@ Questi sono tutti i tipi di Cupcakes che ho fatto...
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

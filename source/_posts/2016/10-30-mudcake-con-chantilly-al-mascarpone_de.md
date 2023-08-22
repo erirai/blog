@@ -115,7 +115,7 @@ Wir haben gestern Abend bereits Halloween gefeiert, darum gibt es den Halloween-
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -161,6 +161,6 @@ Lasst den Kuchen für einige Stunden im Kühlschrank ruhen, besser noch die ganz
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

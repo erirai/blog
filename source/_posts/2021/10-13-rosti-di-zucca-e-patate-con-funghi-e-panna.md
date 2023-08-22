@@ -89,7 +89,7 @@ Con questo piatto partecipo anche alla 29. Foodie Challenge mensile, organizzata
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -132,6 +132,6 @@ Mettete un **Rösti di zucca e patate** sul piatto e aggiungete un po' di salsa 
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

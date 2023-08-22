@@ -108,7 +108,7 @@ Dopo la Torta di Carote Salata di lunedì scorso, oggi vi propongo una torta di 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -150,6 +150,6 @@ Mettete il resto della crema in un sac à poche e decorate la torta a piacere. S
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

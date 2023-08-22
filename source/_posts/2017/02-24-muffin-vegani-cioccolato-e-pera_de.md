@@ -72,7 +72,7 @@ Aber kommen wir zu diesen Muffins mit herbst-winter Geschmack und Frühlingsfarb
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -96,6 +96,6 @@ Diese Muffins kommen für 30min in den vorgeheizten Ofen bei 180°C Ober- und Un
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

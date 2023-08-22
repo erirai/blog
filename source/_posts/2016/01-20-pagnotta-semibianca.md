@@ -48,7 +48,7 @@ Ieri sera ho preparato l'impasto per il pane però con pochissimo lievito. Così
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -72,7 +72,7 @@ Infornate le pagnotte nel forno caldo a 220°C per 25-30min o anche di più, dip
 
 <h3>
   <font color="#FFCC00">
-    <i class="fa fa-lightbulb-o"></i>
+    <i class="fa-regular fa-lightbulb"></i>
   </font> P.S.
 </h3>
 
@@ -80,6 +80,6 @@ Sapete come piace a me da morire il pane appena sfornato? Così: semplicemente c
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

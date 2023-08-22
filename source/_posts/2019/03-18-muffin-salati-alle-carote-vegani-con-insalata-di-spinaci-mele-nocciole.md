@@ -118,7 +118,7 @@ Uno dei miei buoni propositi di quest'anno è diminuire l'utilizzo/lo spreco del
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -157,6 +157,6 @@ Adagiate gli spinaci, le mele e le nocciole su di un piatto o in una coppa e con
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

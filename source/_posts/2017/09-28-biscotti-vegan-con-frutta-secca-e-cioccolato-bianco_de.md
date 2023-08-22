@@ -67,7 +67,7 @@ Wie hat bei euch der Herbst begonnen? Hier ein Traum... Wir stehen mit dem Nebel
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -90,6 +90,6 @@ Backblech mit den Cookies für eine halbe Stunde im Kühlschrank ruhen lassen, d
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

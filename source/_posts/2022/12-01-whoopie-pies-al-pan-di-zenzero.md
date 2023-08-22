@@ -123,7 +123,7 @@ Vi auguro un sereno avvento, evitatiamo le cose inutili e superflue, passiamo il
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -180,6 +180,6 @@ Lasciateli in frigo finché li servirete!
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

@@ -118,7 +118,7 @@ Einer meiner guten Vorsätzen in diesem Jahr ist es, die Verwendung von Plastik 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -157,6 +157,6 @@ Spinat, Apfelscheiben und Haselnüsse auf einen Teller verteilen (oder in eine S
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

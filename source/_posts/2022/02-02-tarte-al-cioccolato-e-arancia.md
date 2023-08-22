@@ -104,7 +104,7 @@ Vedo tantissimi dolci fatti con fragole, lamponi ma febbraio non è periodo di f
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -187,6 +187,6 @@ Decorate **Tarte al Cioccolato e Arancia** con i biscotti cuoricini e servitela 
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

@@ -92,7 +92,7 @@ Ma ci rendiamo conto che siamo arrivati a Settembre?! Boh... Il freschetto di ma
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -147,6 +147,6 @@ Fate raffreddare leggermente, poi uscite i barattoli dall'acqua e fateli raffred
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

@@ -92,7 +92,7 @@ Ho scoperto questa meraviglia di crema frangipane e la ADORO! Mi piaciono tantis
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -115,6 +115,6 @@ Per non scordarci della vittoria contro la Spagna ho fatto una foto anche con la
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

@@ -81,7 +81,7 @@ In realtà con le temperature che sta facendo, ci vorrebbe un dolce estivo perch
 
 <h3>
     <font color="grey">
-        <i class="fa fa-cogs"></i>
+        <i class="fa-solid fa-gears"></i>
     </font> Preparazione
 </h3>
 
@@ -131,6 +131,6 @@ Infornate la torta nel forno preriscaldato statico a 180°C per circa 50min. Dop
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

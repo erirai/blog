@@ -76,7 +76,7 @@ Situazione seguente: avete appena fatto colazione, aprite il frigo per vedere co
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -106,6 +106,6 @@ Infornate la teglia nel forno preriscaldato a 180°C statico per mezz'oretta o a
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

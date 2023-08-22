@@ -37,7 +37,7 @@ Wenn ihr das Wort "Granita" hört, an was denkt ihr? Welche Geschmacksrichtung? 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -55,6 +55,6 @@ Mandelmilcheiswürfel nun aus dem Tiefkühler nehmen, im Mixer pürieren und sof
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

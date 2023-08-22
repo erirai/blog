@@ -77,7 +77,7 @@ Questo piatto mi ricorda molto una persona a me molto cara, Santina! Quando erav
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -97,6 +97,6 @@ Quando avrete preparato tutte le crespelle, salate il brodo e aggiungete il prez
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

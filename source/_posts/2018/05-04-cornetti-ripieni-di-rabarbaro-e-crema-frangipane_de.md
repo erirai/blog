@@ -96,7 +96,7 @@ Rhabarber-Frangipane-Hörnchen, um die Rhabarber-Saison einzuläuten, die ich so
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -143,6 +143,6 @@ Hörnchen für 15-20min im vorgeheizten Ofen bei 175°C backen. Auf dem Blech et
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

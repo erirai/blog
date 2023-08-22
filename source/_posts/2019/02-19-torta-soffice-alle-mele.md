@@ -90,7 +90,7 @@ Ecco, non male direi! Adesso mi resta smistare l'armadione con le giacche e le s
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -112,6 +112,6 @@ Infornate la torta nel forno preriscaldato a 180°C statico per 50-60min circa, 
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

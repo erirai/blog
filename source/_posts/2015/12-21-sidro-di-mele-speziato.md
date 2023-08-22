@@ -56,7 +56,7 @@ Beh, quest'anno l'atmosfera natalizia non è proprio al massimo. Fuori sembra pi
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -69,7 +69,7 @@ Portate ad ebollizione il tutto, poi filtratelo, versatelo in una tazza e bevete
 
 <h3>
   <font color="#FFCC00">
-    <i class="fa fa-lightbulb-o"></i>
+    <i class="fa-regular fa-lightbulb"></i>
   </font> P.S.
 </h3>
 
@@ -77,6 +77,6 @@ Se non avete il sidro di mele potete prendere del succo d'uva o per la versione 
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

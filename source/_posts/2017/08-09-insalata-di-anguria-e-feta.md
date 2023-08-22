@@ -50,7 +50,7 @@ In estate mangiamo tantissima anguria, ma non ho mai fatto altro che mangiarla c
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -65,6 +65,6 @@ Tagliate e pezzettini l'anguria. Se come me volete presentarla nella buccia dell
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

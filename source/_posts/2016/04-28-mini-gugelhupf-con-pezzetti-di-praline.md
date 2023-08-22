@@ -79,7 +79,7 @@ Dopo tutti i dolci con la frutta, avevo voglia di qualcosa di semplice con del c
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -100,6 +100,6 @@ Allora, andrebbero benissimo già così con una spolverata di zucchero a velo. M
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

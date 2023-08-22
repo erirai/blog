@@ -60,7 +60,7 @@ Noi ogni domenica a colazione mangiamo una bella treccia al burro. Per questa do
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -93,6 +93,6 @@ La morte della treccia al burro secondo me è con burro e marmellata, ma è otti
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

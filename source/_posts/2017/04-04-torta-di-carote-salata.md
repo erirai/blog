@@ -108,7 +108,7 @@ Oggi vi propongo un'altra torta salata da servire per il pranzo di Pasqua o per 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -131,6 +131,6 @@ Non togliete subito la torta dalla forma perché si sfalda tutta, ma fatela inti
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

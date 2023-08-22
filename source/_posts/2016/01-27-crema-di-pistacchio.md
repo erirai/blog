@@ -60,7 +60,7 @@ Per il dolce che vedrete nel prossimo post, mi serviva la crema di pistacchio. P
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 Mettete i pistacchi su di una leccarda con sotto della carta forno, infornateli nel forno preriscaldato a 150°C per 15min circa, almeno finché sentirete l'odore dei pistacchi tostati. Mi raccomando non fateli bruciare!
@@ -84,7 +84,7 @@ Mettete la crema di pistacchio dentro i vasetti e chiudete bene.
 
 <h3>
   <font color="#FFCC00">
-    <i class="fa fa-lightbulb-o"></i>
+    <i class="fa-regular fa-lightbulb"></i>
   </font> P.S.
 </h3>
 
@@ -92,6 +92,6 @@ Tenete la crema di pistacchio in frigo. Non vi so dire quanto tempo tenga, ma so
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

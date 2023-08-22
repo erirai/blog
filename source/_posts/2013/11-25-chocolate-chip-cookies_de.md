@@ -77,7 +77,7 @@ Mein Mann wollte für morgen ein paar Süssigkeiten, die er für eine Reise im A
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -119,6 +119,6 @@ Legt maximal 9 Cookies auf ein Backblech mit Backpapier und backt sie im vorgehe
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

@@ -88,7 +88,7 @@ Ein ganz einfacher Kuchen, der immer gelingt. Ihr braucht dafür nicht einmal ei
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -108,6 +108,6 @@ Der Beeren-Becherkuchen kommt für ca. 45min in den vorgeheizten Ofen bei 170°C
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

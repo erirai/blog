@@ -88,7 +88,7 @@ Noch eine kleine Vorschau: heute Abend bereite ich eine wunderbare no bake Chees
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -114,6 +114,6 @@ Diese Focaccia sollte schön warm gegessen werden. Als Beilage könnt ihr einen 
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

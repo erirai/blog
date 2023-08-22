@@ -88,7 +88,7 @@ A mia sorella, che è incinta, è venuta voglia di Arancine... quindi per evitar
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -133,7 +133,7 @@ Mangiatele ben calde, ma attenzione a non bruciarvi!
 
 <h3>
   <font color="#FFCC00">
-    <i class="fa fa-lightbulb-o"></i>
+    <i class="fa-regular fa-lightbulb"></i>
   </font> P.S.
 </h3>
 
@@ -141,6 +141,6 @@ Se volete congelare le Arancine, fatelo dopo che le avete passate nel pan gratta
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

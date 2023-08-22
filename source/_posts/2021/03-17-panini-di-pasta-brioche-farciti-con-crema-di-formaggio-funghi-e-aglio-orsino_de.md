@@ -121,7 +121,7 @@ Aber dieses Jahr habe ich mir das Leben leichter gemacht und habe einen einfache
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -180,6 +180,6 @@ Alles für 20min im vorgeheizten Ofen auf 180°C Ober- und Unterhitze backen ode
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

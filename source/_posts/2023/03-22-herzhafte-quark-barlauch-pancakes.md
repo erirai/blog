@@ -84,7 +84,7 @@ Ich wollte diese herzhaften Pancakes mit einem ganz einfachen Karottensalat serv
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -142,6 +142,6 @@ Als Beilage könnt ihr die Karotten schälen und gleich mit dem Kartoffelschäle
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

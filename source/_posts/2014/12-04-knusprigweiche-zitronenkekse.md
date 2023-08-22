@@ -82,7 +82,7 @@ Sie schmecken nach Zitrone und sind sehr einfach zuzubereiten. Ihr Duft macht si
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -152,6 +152,6 @@ Jetzt die Kugeln im vorgeheizten Ofen bei 180°C Umluft ca. 12min backen. Bewahr
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

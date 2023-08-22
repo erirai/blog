@@ -89,7 +89,7 @@ Erwartungen? Nö! Inzwischen wissen wir, dass sich die Probleme mit dem neuen Ja
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -140,6 +140,6 @@ Den **Dreikönigskuchen** ca. 15min im vorgeheizten Ofen bei 220°C Ober- und Un
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

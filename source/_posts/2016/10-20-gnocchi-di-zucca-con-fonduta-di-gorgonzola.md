@@ -60,7 +60,7 @@ Eccoci qua con un'altra ricetta con la zucca. Lo so, sono monotona, ma il mese d
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -96,6 +96,6 @@ Impiattate gli gnocchi e mangiateli ancora belli caldi!
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

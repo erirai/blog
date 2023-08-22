@@ -84,7 +84,7 @@ Ieri e l'altro ieri ho decorato casa, ho fatto con calma. Normalmente addobbo tu
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -128,6 +128,6 @@ Infornate nel forno preriscaldato a 180°C ventilato per 20min. Sfornate e fate 
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

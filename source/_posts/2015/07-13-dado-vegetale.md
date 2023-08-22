@@ -47,7 +47,7 @@ L'anno scorso per curiosità ho fatto ho fatto del dado vegetale ed è venuto ve
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -68,6 +68,6 @@ Se volete un dado bello fino basta frullare il tutto nel mixer. Poi lasciate il 
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

@@ -89,7 +89,7 @@ So, nicht schlecht würde ich sagen! Nun muss ich nur noch den Schrank mit den J
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -111,6 +111,6 @@ Der Kuchen kommt für ca. 50-60min in den vorgeheizten Ofen bei 180°C Ober- und
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

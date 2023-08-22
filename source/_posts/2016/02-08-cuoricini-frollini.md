@@ -64,7 +64,7 @@ Passiamo dalla modalità Carnevale in modalità San Valentino! Quest'anno sono p
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -89,7 +89,7 @@ Immergete i cuoricini nel cioccolato bianco, metà o tutto, come preferite...
 
 <h3>
   <font color="#FFCC00">
-    <i class="fa fa-lightbulb-o"></i>
+    <i class="fa-regular fa-lightbulb"></i>
   </font> P.S.
 </h3>
 
@@ -97,6 +97,6 @@ Conservate questi biscotti in un contenitore di latta, così terrano sicuramente
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

@@ -81,7 +81,7 @@ Inoltre mi sembra un'ottima ricetta per smaltire il cioccolato di Pasqua avanzat
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -154,6 +154,6 @@ Fate sciogliere a Bagnomaria i restanti 50gr di cioccolato fondente, poi fatelo 
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

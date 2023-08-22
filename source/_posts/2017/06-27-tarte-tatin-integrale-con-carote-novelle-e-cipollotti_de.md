@@ -86,7 +86,7 @@ Vor ca. zwei Monaten, habe ich ein paar Kochhefte meiner Mutter ausgeliehen. Ich
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -116,6 +116,6 @@ Die Tarte Tatin kommt für ca. 30min in den vorgeheizten Ofen bei 190°C Ober- u
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

@@ -56,7 +56,7 @@ Eh si! Esattamente un anno fa ho caricato sul mio Blog il mio primo post... è g
 
 <h3>
 	<font color="grey">
-		<i class="fa fa-cogs"></i>
+		<i class="fa-solid fa-gears"></i>
 	</font> Preparazione
 </h3>
 
@@ -108,6 +108,6 @@ Ora mettete in frigo per almeno 3 ore. Se la forma è quella grande può essere 
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

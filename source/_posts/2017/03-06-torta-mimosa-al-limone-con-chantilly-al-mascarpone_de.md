@@ -96,7 +96,7 @@ Letzten Freitag hat mich meine Cousine besucht. Sie ist nach dem Mittag gekommen
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -130,6 +130,6 @@ Sobald die nötige Zeit vorbei ist, denn Kuchen aus dem Kühlschrank nehmen und 
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

@@ -77,7 +77,7 @@ Oggi Overdose di zucca!!! Abbiamo comprato una zucca bella grande per fare tanti
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -122,6 +122,6 @@ Inoltre abbiamo mangiato dei panini a forma di zucca, la vellutata di zucca e la
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

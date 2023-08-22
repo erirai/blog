@@ -75,7 +75,7 @@ L'impasto è molto appiccicoso e molliccio, per questo è molto importante che i
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -124,6 +124,6 @@ Distribuite un po' di olio sulle polpette e infornatele nel forno ventilato prer
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

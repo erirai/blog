@@ -85,7 +85,7 @@ Mio Papà oggi compie 55 anni e per l'occasione gli ho preparato una torta a for
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -141,6 +141,6 @@ Ho fatto anche dei muffin alla mandorla e lamponi (per fare i tre muffin per occ
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

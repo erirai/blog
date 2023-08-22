@@ -71,7 +71,7 @@ Sta sera a cena mangiamo dei Zucca Burger, quindi cosa serve? Giusto! Dei buoni 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -91,6 +91,6 @@ Adesso infornateli e cuoceteli fino a doratura, ci vorrano una ventina di minuti
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

@@ -79,7 +79,7 @@ Cosa si mangia sta sera? Boooooooooo! Il pane si è finito, in frigo ci sono due
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -98,6 +98,6 @@ Adesso infornateli nel forno preriscaldato a 200°C statico per 15min. Per rende
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

@@ -97,7 +97,7 @@ E pensare che questa torta è nata un po' per sbaglio, dopo un errore epico. Vi 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -166,6 +166,6 @@ Adagiate il disco di frolla su di un piatto da portata. Prendete la crema al lim
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

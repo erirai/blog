@@ -66,7 +66,7 @@ lang: it
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -100,7 +100,7 @@ Prima di servirlo, finite con una bella spolverata di zucchero a velo e possibil
 
 <h3>
   <font color="#FFCC00">
-    <i class="fa fa-lightbulb-o"></i>
+    <i class="fa-regular fa-lightbulb"></i>
   </font> P.S.
 </h3>
 
@@ -108,6 +108,6 @@ Non lo so, ma secondo me questo strudel è buonissimo anche con le ciliegie o le
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

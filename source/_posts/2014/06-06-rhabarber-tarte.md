@@ -101,7 +101,7 @@ Heute hatte ich Lust auf eine leckere Tarte mit Mürbeteig und ich hatte Rhabarb
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -167,6 +167,6 @@ Die Tarte auf der untersten Schiene des Ofens für 45min bei 175°C Ober- und Un
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

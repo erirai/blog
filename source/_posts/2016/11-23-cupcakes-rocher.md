@@ -105,7 +105,7 @@ L'idea del gusto Rocher però, mi è venuta mentre guardavo la loro pubblicità.
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -144,6 +144,6 @@ Ed ecco i Cupcakes con il logo.
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

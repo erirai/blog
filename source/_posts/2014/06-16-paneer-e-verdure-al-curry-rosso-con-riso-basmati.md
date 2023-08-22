@@ -80,7 +80,7 @@ Mentre facevo la spesa ho visto questa cosa che si chiama Paneer, mi sono incuri
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -100,6 +100,6 @@ Potete servire il riso e la verdura separatamente o mischiare il tutto direttame
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

@@ -88,7 +88,7 @@ Aber werft einen Blick auf <a href="https://www.farmy.ch" target="_blank">Farmy<
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -130,6 +130,6 @@ Sobald die Kartoffeln und die Spiesse gar sind, aus dem Ofen nehmen, nachwürzen
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

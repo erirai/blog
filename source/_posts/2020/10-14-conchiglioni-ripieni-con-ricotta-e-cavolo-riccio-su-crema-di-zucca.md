@@ -109,7 +109,7 @@ Questi **Conchiglioni ripieni con Ricotta e Cavolo Riccio su Crema di Zucca** li
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -165,6 +165,6 @@ Finite con una bella grattugiata di parmigiano, coprite con un foglio di carta d
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

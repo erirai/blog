@@ -79,7 +79,7 @@ Sobald man von Comfort Food spricht, muss ich sofort an diese Linsensuppe denken
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -96,6 +96,6 @@ Sobald die Linsen gar sind Lorbeerblätter entfernen und salzen. Zum Schluss etw
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

@@ -75,7 +75,7 @@ E con questa ricetta saluto questo mese di Febbraio che non vuole finire. C'è s
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -112,6 +112,6 @@ Servite come contorno o come piatto unico insieme a del pane tostato...
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

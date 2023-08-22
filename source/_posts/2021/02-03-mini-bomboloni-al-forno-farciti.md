@@ -128,7 +128,7 @@ Poi vorrei dare il benvenuto al mese di Febbraio, l'ultimo mese invernale, che Ã
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -177,6 +177,6 @@ Mangiateli subito e conservate quelli avanzati in un contenitore chiuso ermetica
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

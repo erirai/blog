@@ -72,7 +72,7 @@ Ma parliamo di questi Muffin dal gusto autunnale-invernale ma dai colori primave
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -96,6 +96,6 @@ Infornateli nel forno preriscaldato a 180°C statico per 30min, mi raccomando fa
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

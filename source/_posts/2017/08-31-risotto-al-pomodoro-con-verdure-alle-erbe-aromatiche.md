@@ -76,7 +76,7 @@ Ma parliamo di questa ricettina tanto bella e buona che mi mette subito di buon 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -99,6 +99,6 @@ Appena il riso è pronto impiattate. Decidete voi se servire le due cose separat
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

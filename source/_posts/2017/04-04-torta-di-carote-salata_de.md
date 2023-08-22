@@ -108,7 +108,7 @@ Heute zeige ich euch einen herzhaften Kuchen für Ostern oder für den Ostermont
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -131,6 +131,6 @@ Nehmt den Kuchen nicht sofort aus der Form, sonst zergeht er, lasst ihn etwas da
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

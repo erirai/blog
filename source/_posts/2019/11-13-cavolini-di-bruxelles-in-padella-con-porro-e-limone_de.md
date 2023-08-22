@@ -57,7 +57,7 @@ Im November-Warenkorb der Foodie Challenge, organisiert von <a href="https://www
 
 <h3>
 	<font color="grey">
-		<i class="fa fa-cogs"></i>
+		<i class="fa-solid fa-gears"></i>
 	</font> Zubereitung
 </h3>
 
@@ -85,6 +85,6 @@ Sobald der Rosenkohl gar ist, mehr Zitronensaft dazu geben (wenn gewünscht), sa
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

@@ -84,7 +84,7 @@ In dieser Jahreszeit, ist ein Fest nach dem anderen. Erst der Valentinstag, kurz
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -108,6 +108,6 @@ Die Donuts kommen für ca. 20min in den vorgeheizten Ofen bei 180°C Umluft, imm
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

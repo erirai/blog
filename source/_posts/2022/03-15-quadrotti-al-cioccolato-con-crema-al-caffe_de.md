@@ -98,7 +98,7 @@ Sie haben mir sehr geschmeckt! Also sind sie nicht sehr leicht, aber sie werden 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -162,6 +162,6 @@ Bewahrt sie gut verschlossen im Kühlschrank auf, bis sie gegessen werden...
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

@@ -108,7 +108,7 @@ Avevo voglia di una Cheesecake. Punto. E quando ho voglia di qualcosa in partico
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -144,6 +144,6 @@ A questo punto mettete la Cheesecake in congelatore per 3-4 ore. Se la lasciate 
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

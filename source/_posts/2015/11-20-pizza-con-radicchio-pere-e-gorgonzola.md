@@ -86,7 +86,7 @@ Qualche tempo fa il magnifico Bonci Bonci Bo Bo Bo ha fatto questa meravigliosa 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -120,6 +120,6 @@ Tagliate la pizza a spicchi, mettete qualche cubetto di Gorgonzola (se volete po
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

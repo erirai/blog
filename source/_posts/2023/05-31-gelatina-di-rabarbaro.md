@@ -65,7 +65,7 @@ E con questa conserva do il via alla stagione della preparazione delle conserve!
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -123,6 +123,6 @@ Controllate se si è creato il sottovuoto, semplicemente schiacciando il centro 
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

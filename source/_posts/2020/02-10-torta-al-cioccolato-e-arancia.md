@@ -96,7 +96,7 @@ Questa ricetta l'ho presa dal giornalino Sweet Dreams di Gennaio/Febbraio 2020 (
 
 <h3>
 	<font color="grey">
-		<i class="fa fa-cogs"></i>
+		<i class="fa-solid fa-gears"></i>
 	</font> Preparazione
 </h3>
 
@@ -140,6 +140,6 @@ Fate intiepidire la torta prima di uscirla dallo stampo. Una volta fredda, fate 
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

@@ -68,7 +68,7 @@ Gennaio finalmente è finito, che gioia. Manca solo Febbraio e l'inverno sarà p
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -97,6 +97,6 @@ Fate raffreddare il Budino al Cioccolato a temperatura ambiente, poi mettete in 
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

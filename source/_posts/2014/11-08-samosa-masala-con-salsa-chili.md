@@ -144,7 +144,7 @@ Per la cena di sta sera abbiamo pensato di fare un po' di Samosa. Dato che c'era
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -186,7 +186,7 @@ Mettete i Samosa su di una teglia se li volete cucinare al forno se no friggetel
 
 <h3>
   <font color="#FFCC00">
-    <i class="fa fa-lightbulb-o"></i>
+    <i class="fa-regular fa-lightbulb"></i>
   </font> P.S.
 </h3>
 
@@ -195,6 +195,6 @@ Potete sostituire le patate con delle patate dolci o con della zucca Hokkaido. V
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

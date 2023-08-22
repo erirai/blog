@@ -72,7 +72,7 @@ Siamo felici anche per te, perché non vedevi l’ora di iniziare e far vedere a
 
 <h3>
 	<font color="grey">
-		<i class="fa fa-cogs"></i>
+		<i class="fa-solid fa-gears"></i>
 	</font> Preparazione
 </h3>
 
@@ -102,6 +102,6 @@ A questo punto decidete voi se togliere l'aglio o meno, eliminate gli steli più
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

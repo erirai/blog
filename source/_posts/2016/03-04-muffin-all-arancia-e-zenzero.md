@@ -78,7 +78,7 @@ Eh si, finalmente è arrivato Marzo! Marzo porta la primavera, il sole, i fiori.
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -97,6 +97,6 @@ Ed infornateli nel forno preriscaldato a 180°C statico per 20min, mi raccomando
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

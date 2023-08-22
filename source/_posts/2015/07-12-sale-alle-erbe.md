@@ -67,7 +67,7 @@ Nel nostro giardino le erbette aromatiche crescono molto bene, quindi a giugno/l
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -103,6 +103,6 @@ Adesso aggiungete tutto il sale che volete e conservate il **Sale alle Erbe** in
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

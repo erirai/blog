@@ -70,7 +70,7 @@ A maggio quando siamo stati giù in Sicilia, mia cugina ha cucinato la pasta con
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -92,6 +92,6 @@ Appena la pasta è cotta, scolatela e versatela nella padella con i pomodorini. 
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

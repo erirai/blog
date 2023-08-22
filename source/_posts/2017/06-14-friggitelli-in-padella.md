@@ -44,7 +44,7 @@ I friggitelli in padella, la mia felicità! Adoro il gusto amarognolo di questi 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -60,6 +60,6 @@ A questo punto chiudete con un coperchio e fateli cuocere a fiamma media. Si dev
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

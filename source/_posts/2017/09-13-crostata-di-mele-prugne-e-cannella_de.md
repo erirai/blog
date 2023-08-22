@@ -78,7 +78,7 @@ Habt ihr auch ein Dessert, dass ihr sehr gerne mögt aber aus unerklärlichen Gr
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -105,6 +105,6 @@ Die Wähe kommt für 30-40min (für Einzelportionen reichen 15-20min) in den vor
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>s

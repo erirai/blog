@@ -113,7 +113,7 @@ Questa ricetta l'ho presa dal giornalino Sweet Dreams di Maggio/Giugno 2020 (not
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -169,6 +169,6 @@ Fate riposare in frigo per almeno un'oretta, poi decorate con altre fragole fres
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

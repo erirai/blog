@@ -104,7 +104,7 @@ Ich habe mir eine schöne Pause vom Blog genommen, tatsächlich stammt der letzt
 
 <h3>
     <font color="grey">
-        <i class="fa fa-cogs"></i>
+        <i class="fa-solid fa-gears"></i>
     </font> Zubereitung
 </h3>
 
@@ -159,6 +159,6 @@ Das Parfait mind. 15min vor dem Servieren aus dem Gefrierschrank nehmen. Auf ein
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

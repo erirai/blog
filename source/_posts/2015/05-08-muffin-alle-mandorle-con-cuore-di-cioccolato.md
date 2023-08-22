@@ -81,7 +81,7 @@ Volevo preparare un dolce ma non avevo tanto tempo... poi mi è venuto in mente,
 
 <h3>
 	<font color="grey">
-		<i class="fa fa-cogs"></i>
+		<i class="fa-solid fa-gears"></i>
 	</font> Preparazione
 </h3>
 
@@ -99,6 +99,6 @@ Adesso infornateli nel forno preriscaldato a 180°C statico per ca. 20min, mi ra
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

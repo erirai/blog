@@ -89,7 +89,7 @@ Ich habe den Kuchen heute schon gemacht und morgen werde ich <a href="https://fr
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -128,6 +128,6 @@ Nehmt jeweils eine Farbe und versucht, die Schokolade mit einem Löffel über de
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

@@ -37,7 +37,7 @@ Quando sentite la parola "Granita", a cosa pensate? Quale gusto? Limone, mandorl
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -55,6 +55,6 @@ Al momento che vi servirà, lo tirate fuori dal congelatore, lo frullate nel mix
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

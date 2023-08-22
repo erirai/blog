@@ -111,6 +111,6 @@ Wenn ihr das Weihnachtsmenü nicht ganz mit saisonalen Zutaten zubereiten könnt
 
 <h4>Danke für eure Hilfe...
   <font color="green">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

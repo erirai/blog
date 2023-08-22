@@ -51,6 +51,6 @@ Und wenn wir uns daran gewöhnen immer unsere Trinkflasche mit uns zu tragen, wi
 
 <h4>Danke für eure Hilfe...
   <font color="green">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

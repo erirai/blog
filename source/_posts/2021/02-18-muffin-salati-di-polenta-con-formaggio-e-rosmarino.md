@@ -79,7 +79,7 @@ E niente, sono buonissimi! Potete mangiarli con una bella insalatona o delle ver
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -121,6 +121,6 @@ Infornate i Muffin salati di Polenta con Formaggio e Rosmarino nel forno prerisc
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

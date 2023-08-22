@@ -63,7 +63,7 @@ Come ho già scritto un paio di volte, non mi piace friggere ma i dolci di carne
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -124,6 +124,6 @@ Servite queste **Frittelle di Carnevale Svizzere** cosparse con tantissimo zucch
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

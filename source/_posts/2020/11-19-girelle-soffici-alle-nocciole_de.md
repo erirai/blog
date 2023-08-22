@@ -111,7 +111,7 @@ Im Laufe der Jahre habe ich etwas Wichtiges über Nussschnecken, Cinnamon Rolls 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -162,6 +162,6 @@ Die fluffigen Nussschnecken für 15min im vorgeheizten Ofen bei 190°C Ober- und
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

@@ -92,7 +92,7 @@ Parliamo un attimino della torta... La ricetta l'ho presa dal libro "Le Fluffose
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -136,6 +136,6 @@ Spalmate la Ganache su tutta la torta... e non dimenticate di leccare la spatoli
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

@@ -86,7 +86,7 @@ Con questo piatto partecipo anche alla 27. Foodie Challenge mensile, organizzata
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -116,6 +116,6 @@ Quando tutto si sarà raffreddato o almeno intiepidito, condite la pasta con le 
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

@@ -68,7 +68,7 @@ Passiert es euch auch, dass ihr manchmal ganz plötzlich Lust auf einen einfache
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -93,6 +93,6 @@ Wenn uns die Natur diese Schönheiten schenkt, muss man unbedingt ein Foto davon
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

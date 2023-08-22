@@ -57,7 +57,7 @@ Für den Herbstbeginn durfte ein Pilzgericht nicht fehlen... Genaugesagt ein Ger
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -78,6 +78,6 @@ Frische Petersilie und etwas vom Kochwasser noch dazu und 2-3min bei mittlerer H
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

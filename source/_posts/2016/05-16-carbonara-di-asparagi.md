@@ -66,7 +66,7 @@ Quando ancora non eravamo vegetariani, facevo spesso la Carbonara, la adoravo! S
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -88,6 +88,6 @@ Allora, c'è a chi piace la cremina, quindi l'uovo rimane crudino, c'è invece a
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

@@ -72,7 +72,7 @@ Bevor ich Vegetarierin wurde, habe ich oft diese Frittata-Röllchen gemacht. Ich
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -142,6 +142,6 @@ Vor dem Servieren die Rolle in max. 1cm dicke Scheiben/Röllchen schneiden.
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

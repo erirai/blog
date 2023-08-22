@@ -85,7 +85,7 @@ Ah, keine Sorge, ich habe die guten Vorsätze für dieses Jahr nicht vergessen. 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -129,6 +129,6 @@ Den **veganen Zitrus-Gugelhupf** im vorgeheizten Ofen bei 180°C Ober- und Unter
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

@@ -62,7 +62,7 @@ I funghi noi comunque li mangiamo più che altro in autunno... Il resto dell'ann
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -101,10 +101,8 @@ Dovranno essere belli dorati. Poi metteteli su un foglio di carta da cucina e sa
   </div>
 </p>
 
-![](risultato9.jpeg "frangipani © Erica")
-
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

@@ -79,7 +79,7 @@ A proposito di Veganuary... Ho ordinato gli ingredienti da <a href="https://www.
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -122,6 +122,6 @@ Alla fine aggiungete la crème fraîche e una spolverata d'erba cipollina fresca
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

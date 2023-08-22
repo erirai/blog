@@ -109,7 +109,7 @@ In questo breve periodo infatti ne mangiamo molto e ce li godiamo, dopo arrivera
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -157,6 +157,6 @@ Infornate la **Ciambella alle Mandorle con Cuore di Ricotta e Rabarbaro** a 180Â
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

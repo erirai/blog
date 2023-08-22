@@ -65,7 +65,7 @@ Und nun wünsche ich euch frohe Weihnachten, ein Weihnachtsfest voller Freude un
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -126,6 +126,6 @@ Den **Brotkranz mit Leinsamen** im vorgeheizten Backofen bei 250°C Ober- und Un
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

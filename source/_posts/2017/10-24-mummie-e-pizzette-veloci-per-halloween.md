@@ -89,7 +89,7 @@ Ed ecco la seconda ricetta per uno snack dedicato alla festa di Halloween. È un
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -117,6 +117,6 @@ Infornate anche le mummie nel forno preriscaldato a 180°C statico per 10-15min.
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

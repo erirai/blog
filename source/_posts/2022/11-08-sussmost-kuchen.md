@@ -97,7 +97,7 @@ November. NOvember. No me gusta. Es ist so eine Hautsache. Zu dunkel, meist nass
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -144,6 +144,6 @@ Kuchen in der Form leicht abkühlen lassen, dann aus der Form stürzen und auf e
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

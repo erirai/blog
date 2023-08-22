@@ -127,7 +127,7 @@ Due anni fa ho fatto questa <a href="https://frangipani.raiano.ch/2015-11-27-bak
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -162,6 +162,6 @@ Versate la salsa Mou con noci pecan sulla Cheesecake e godetevi l'attimo...
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

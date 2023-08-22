@@ -109,7 +109,7 @@ Che emozione, nostra figlia qualche giorno fa ha fatto un anno!!! Che bello! Va 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -142,6 +142,6 @@ Eccoli pronti da mangiare...
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

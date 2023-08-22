@@ -122,7 +122,7 @@ Invece per la comunione ha scelto i fiori nei colori azzurro, giallo e bianco e 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -182,6 +182,6 @@ Spalmate la restante crema sulla torta e decorate con le fragole a piacere! Cons
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

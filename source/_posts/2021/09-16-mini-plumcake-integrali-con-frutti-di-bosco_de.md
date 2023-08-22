@@ -85,7 +85,7 @@ Mit diesem Rezept nehme ich an der 28. monatlichen Foodie Challenge teil, die vo
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -131,6 +131,6 @@ Die Küchlein für 20min im vorgeheizten Ofen bei 170°C Ober- und Unterhitze ba
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

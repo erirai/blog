@@ -98,7 +98,7 @@ Mio marito qualche settimana fa mi ha fatto notare, che l'ultima videoricetta l'
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -133,6 +133,6 @@ Infornate la ciambella alla zucca con cuore cremoso alla cannella nel forno prer
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

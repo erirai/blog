@@ -69,7 +69,7 @@ Ich wollte etwas mit Quinoa kochen und habe in der Küche ein bisschen experimen
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -100,6 +100,6 @@ Mit einem Schuss Öl beträufeln und dann die Quinoa-Zucchini-Bällchen im vorge
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

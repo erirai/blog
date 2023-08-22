@@ -63,7 +63,7 @@ Ci sono mio cognato e mia sorella da noi e stiamo aspettando l'inizio della part
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -84,7 +84,7 @@ Il classico è servirli con lo sciroppo d'acero ma vi assicuro che sono buonissi
 
 <h3>
   <font color="#FFCC00">
-    <i class="fa fa-lightbulb-o"></i>
+    <i class="fa-regular fa-lightbulb"></i>
   </font> P.S.
 </h3>
 
@@ -92,6 +92,6 @@ Naturalmente potete prendere anche il latte normale al posto del latte di riso. 
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

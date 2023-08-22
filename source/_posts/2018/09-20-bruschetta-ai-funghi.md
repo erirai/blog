@@ -56,7 +56,7 @@ lang: it
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -82,6 +82,6 @@ Tagliate il pane a fette e tostatelo nel forno, nella padella o nel tostapane. M
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

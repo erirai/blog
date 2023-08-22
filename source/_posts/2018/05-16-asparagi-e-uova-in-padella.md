@@ -57,7 +57,7 @@ Però il giorno del suo compleanno siamo dovuti andare dal dottore... Tonsillite
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -76,6 +76,6 @@ Eliminate la parte dura e legnosa degli asparagi. Mettete un filo d'olio in una 
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

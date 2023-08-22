@@ -97,7 +97,7 @@ Novembre. NOvembre. No me gusta. È così, a pelle. Troppo buio, solitamente umi
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -143,6 +143,6 @@ Fate intiepidire leggermente la torta nella teglia, poi uscitela dalla forma e m
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

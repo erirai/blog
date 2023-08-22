@@ -95,7 +95,7 @@ Sono in pieno mood estivo! Settimana scorsa ha fatto un caldo da sogno... Forse 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -128,6 +128,6 @@ A questo punto iniziate ad arrotolare, anzi a piegare il rotolo aiutandovi con l
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

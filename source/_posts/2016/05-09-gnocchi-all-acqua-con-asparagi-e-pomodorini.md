@@ -65,7 +65,7 @@ Quando ci sono queste giornate belle, non mi va proprio di passare troppo tempo 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -95,6 +95,6 @@ Procedete in questo modo finché avrete cotto tutti gli gnocchi. Alla fine aggiu
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

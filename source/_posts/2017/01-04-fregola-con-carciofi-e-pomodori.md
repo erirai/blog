@@ -66,7 +66,7 @@ Come ogni anno ci sono i famosi buoni propositi... Purtroppo sono una di quelle 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -82,6 +82,6 @@ Quando il sughetto sarà pronto, a parte cuocete la fregola come scritto sulla c
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

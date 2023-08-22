@@ -96,7 +96,7 @@ Oggi ho fatto questa buonissima crostata di arance... è veramente buona, poi è
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -115,7 +115,7 @@ Infornate la crostata a 180°C per ca. 35min. Controllate sempre che il tempo di
 
 <h3>
   <font color="#FFCC00">
-    <i class="fa fa-lightbulb-o"></i>
+    <i class="fa-regular fa-lightbulb"></i>
   </font> P.S.
 </h3>
 
@@ -124,6 +124,6 @@ Come decorazione potete usare anche delle arance caramellate da mettere sopra qu
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

@@ -120,7 +120,7 @@ E sì, benvenuto Luglio! Porti l'estate, la fine dell'anno scolastico, le vacanz
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -165,6 +165,6 @@ Infornate le Girelle soffici ai pistacchi e lamponi nel forno preriscaldato a 19
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

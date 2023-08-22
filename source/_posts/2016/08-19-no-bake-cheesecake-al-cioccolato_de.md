@@ -72,7 +72,7 @@ Uuups, I did it again! Naja, ich wiederhohle mich, aber ich habe nochmals eine n
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -110,6 +110,6 @@ Jetzt kommt die Cheesecake für 3-4 Stunden in den Kühlschrank, noch besser fü
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

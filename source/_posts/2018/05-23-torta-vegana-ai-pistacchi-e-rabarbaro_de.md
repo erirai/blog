@@ -85,7 +85,7 @@ Veganer Pistazien-Rhabarber-Kuchen, ein super leckeres und saftiges Dessert! Abe
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -121,6 +121,6 @@ Den veganen Pistazien-Rhabarber-Kuchen fÃ¼r ca. 1h im vorgeheizten Ofen bei 180Â
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

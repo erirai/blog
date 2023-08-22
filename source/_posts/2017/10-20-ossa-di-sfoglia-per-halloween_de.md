@@ -39,7 +39,7 @@ Wir werden bereits am Samstag vor Halloween feiern, da es unter der Woche etwas 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -57,6 +57,6 @@ Knochen für 10-15min im vorgeheizten Ofen bei 180°C Ober- und Unterhitze backe
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

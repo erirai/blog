@@ -60,7 +60,7 @@ Der Mürbeteigkuchen mit kinder Schokolade ist die Antwort, wenn ihr nicht wisst
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -89,6 +89,6 @@ Mit dem restlichen Teig abdecken...
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

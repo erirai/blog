@@ -117,7 +117,7 @@ Ich weiss nicht wie es euch geht, aber zum Apéro serviere ich nicht so gerne Er
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -151,6 +151,6 @@ Serviert die Blätterteigsterne so wie es euch am meisten gefällt...
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

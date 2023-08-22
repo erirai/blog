@@ -94,7 +94,7 @@ Non sono molti i punti da fare, ma se sommate il tutto con le cose che verranno,
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -131,6 +131,6 @@ Infornate nel forno preriscaldato a 150°C statico per 1ora e 30min. Mi raccoman
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

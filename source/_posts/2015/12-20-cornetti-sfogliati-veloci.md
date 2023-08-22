@@ -65,7 +65,7 @@ Per questi giorni di festa e di vacanze volevo preparare un po' di cornetti da t
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -109,6 +109,6 @@ In tutti e tre i casi infornate i cornetti nel forno preriscaldato a 180°C stat
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

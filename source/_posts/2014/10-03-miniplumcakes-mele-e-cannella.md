@@ -73,7 +73,7 @@ Mele mele mele, è periodo di mele e sono troppe da mangiarle così, quindi facc
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -92,6 +92,6 @@ Prima di servirle mettete ancora dello zucchero mischiato a della cannella sulle
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

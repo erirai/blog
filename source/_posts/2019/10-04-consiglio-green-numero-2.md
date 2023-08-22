@@ -58,6 +58,6 @@ Ovviamente non buttate via i tovaglioli di carta o la carta da cucina che già a
 
 <h4>Grazie per l'aiuto...
   <font color="green">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

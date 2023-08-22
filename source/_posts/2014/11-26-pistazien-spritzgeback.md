@@ -74,7 +74,7 @@ Heute habe ich mit den ersten Weihnachtsplätzchen angefangen. Ich entdeckte in 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -136,6 +136,6 @@ Für die nicht weihnachtliche Variante, einfach eine andere Schablone benutzen..
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

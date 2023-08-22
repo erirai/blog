@@ -90,7 +90,7 @@ Devo ammettere che mi era venuta un'insicurezza terribile. Non so perché, ma se
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -150,6 +150,6 @@ Infornate la torta nel forno preriscaldato a 180°C ventilato per 10min, poi abb
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

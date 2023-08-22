@@ -75,7 +75,7 @@ Domani ultimo giorno di asilo e poi iniziano le vacanze estive. Finalmente! Cinq
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -95,6 +95,6 @@ Versate il riso nero cotto e scolato nella padella con le zucchine, aggiungete i
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

@@ -108,7 +108,7 @@ Seit wir Vegetarier sind, haben wir begonnen, unsere Art zu essen viel mehr zu v
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -140,6 +140,6 @@ Teller füllen, etwas Öl hinzufügen, wenn ihr mögt noch etwas geriebenen Parm
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

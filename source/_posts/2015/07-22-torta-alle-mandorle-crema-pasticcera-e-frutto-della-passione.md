@@ -122,7 +122,7 @@ Tanti auguri a me, tanti auguri aaa meee... Oggi compio 28 anni e mi avvicino se
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -165,7 +165,7 @@ Adesso mettete la torta in frigo finché la servirete...
 
 <h3>
   <font color="#FFCC00">
-    <i class="fa fa-lightbulb-o"></i>
+    <i class="fa-regular fa-lightbulb"></i>
   </font> P.S.
 </h3>
 
@@ -173,6 +173,6 @@ Preparate la torta il giorno prima e lasciatela in frigo almeno per tutta la not
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

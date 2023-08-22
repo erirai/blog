@@ -50,7 +50,7 @@ Im Sommer essen wir sehr viel Wassermelone, aber ich hab sie nie anderes als pur
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -65,6 +65,6 @@ Wassermelone in Stücke schneiden. Falls ihr den Salat auch in der Wassermelonen
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

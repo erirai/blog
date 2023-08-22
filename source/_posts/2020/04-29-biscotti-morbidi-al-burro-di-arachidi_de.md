@@ -97,7 +97,7 @@ Als nächste ist Gaia dran, auch sie während dem Lockdown... Sie hingegen mag e
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -133,6 +133,6 @@ Kekse auf dem Blech leicht auskühlen lassen. Sobald sie komplett ausgekühlt si
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

@@ -76,7 +76,7 @@ Eh si, tre giorni fa mia mamma ha festeggiato il suo primo mezzo secolo... Per n
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -95,6 +95,6 @@ Vi consiglio di mettere le piadine in un piatto con sotto un panno bello grande.
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

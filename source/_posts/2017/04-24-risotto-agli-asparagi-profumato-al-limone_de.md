@@ -60,7 +60,7 @@ Leider mache ich nicht so viele Gerichte mit Reis... Ich weiss gar nicht wieso, 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -74,6 +74,6 @@ Den Zitronensaft dazu geben und bei mittlerer Hitze unter gelegentlichem Rühren
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

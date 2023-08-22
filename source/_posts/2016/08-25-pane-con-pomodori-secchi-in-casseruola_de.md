@@ -57,7 +57,7 @@ Diese Menge ist ideal für einen Topf mit einem Fassungsvermögen von 3l (meiner
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -84,6 +84,6 @@ Sobald das Brot goldbraun gebacken ist, nehmt diesen schnell aus dem Bräter und
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

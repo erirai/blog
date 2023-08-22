@@ -77,7 +77,7 @@ Mio marito per domani voleva dei dolcetti da potersi portare per un viaggetto in
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -119,6 +119,6 @@ Mettete massimo 9 Cookies su di una teglia con della carta forno e infornateli n
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

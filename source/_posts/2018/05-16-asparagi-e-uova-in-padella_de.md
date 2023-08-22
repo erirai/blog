@@ -57,7 +57,7 @@ Leider mussten wir aber an ihrem Geburtstag zum Arzt... Bakterielle Angina, zehn
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -76,6 +76,6 @@ Das holzige Ender der Spargeln entfernen. Etwas Olivenöl in die Bratpfanne gebe
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

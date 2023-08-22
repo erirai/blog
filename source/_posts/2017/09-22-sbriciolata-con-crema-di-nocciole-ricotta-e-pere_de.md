@@ -80,7 +80,7 @@ Aber all das hat mich nicht vom Kochen und Backen abgehalten. Heute zeige ich eu
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -110,6 +110,6 @@ Der Streuselkuchen kommt für ca. 40min in den vorgeheizten Ofen bei 180°C Ober
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

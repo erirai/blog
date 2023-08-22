@@ -64,7 +64,7 @@ Quando ho un po' di verdure a casa e anche la salsa di soia, mi piace tanto fare
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -80,7 +80,7 @@ Si cucinano come la pasta normale, solo che sono pronte in soli 5 minuti... Scol
 
 <h3>
   <font color="#FFCC00">
-    <i class="fa fa-lightbulb-o"></i>
+    <i class="fa-regular fa-lightbulb"></i>
   </font> P.S.
 </h3>
 
@@ -88,6 +88,6 @@ Se non riuscite a trovare le linguine cinesi vanno benissimo anche le linguine n
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

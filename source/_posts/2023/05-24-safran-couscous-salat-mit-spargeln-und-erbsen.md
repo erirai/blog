@@ -81,7 +81,7 @@ Die Kombination dieser Zutaten war wirklich gut! Der Safran gibt ihm die besonde
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -117,6 +117,6 @@ Die Zwiebel fein hacken und in einer Pfanne mit etwas Öl und einer Prise Salz a
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

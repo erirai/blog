@@ -136,7 +136,7 @@ Al mercato ho trovato uno stand, che ha tanta frutta e verdura dalla Sicilia. No
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -173,7 +173,7 @@ Ecco, quando avete tutto pronto, servite il tutto e godetevi queste cotolette ch
 
 <h3>
   <font color="#FFCC00">
-    <i class="fa fa-lightbulb-o"></i>
+    <i class="fa-regular fa-lightbulb"></i>
   </font> P.S.
 </h3>
 
@@ -181,6 +181,6 @@ Un piccolo consiglio: se rimangono, sono ottime anche fredde il giorno dopo, met
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

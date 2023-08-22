@@ -94,7 +94,7 @@ Ho fatto un cuore da circa 30x30cm, più un'altra piccola Cream Tart con le due 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -136,6 +136,6 @@ Fate riposare in frigo per un'oretta e decorate a piacere poco prima di servirla
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

@@ -86,7 +86,7 @@ Circa due mesetti fa ho preso a casa di mia mamma tutti i giornalini di cucina c
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -116,6 +116,6 @@ Infornate il tutto nel forno preriscaldato statico a 190° per ca. 30min. Aspett
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

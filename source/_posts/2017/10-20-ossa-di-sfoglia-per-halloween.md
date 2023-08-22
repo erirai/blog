@@ -39,7 +39,7 @@ Noi festeggeremo il sabato prima, anche perché durante la settimana è scomodo.
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -57,6 +57,6 @@ Infornatele nel forno preriscaldato statico a 180°C per 10-15min. Servite con d
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

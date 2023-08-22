@@ -89,7 +89,7 @@ Und hier ist das zweite Halloween-Snack-Rezept. Es ist ein ganz einfacher und sc
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -117,6 +117,6 @@ Die Mumien kommen für 10-15min in den vorgeheizten Ofen bei 180°C Ober- und Un
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

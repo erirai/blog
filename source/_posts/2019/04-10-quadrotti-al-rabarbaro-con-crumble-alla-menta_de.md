@@ -116,7 +116,7 @@ Diese Woche bin ich sehr beschäftigt mit der Organisation der nächsten Woche! 
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -153,6 +153,6 @@ Blechkuchen für 35min in den vorgeheizten Ofen bei 180°C Umluft backen, wie im
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

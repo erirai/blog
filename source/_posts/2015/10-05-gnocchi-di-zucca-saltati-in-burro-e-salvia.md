@@ -62,7 +62,7 @@ Siiiiiiiii, oggi finalmente ce l'ho fatta a fare gli Gnocchi di Zucca! Sto sfrut
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -89,6 +89,6 @@ Fate saltare gli gnocchi ancora per qualche minuto, poi impiattate e servite!
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

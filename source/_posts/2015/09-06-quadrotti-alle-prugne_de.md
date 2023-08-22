@@ -130,7 +130,7 @@ Da bin ich wieder nach den ersten Ferien, mit unseren beiden Kindern, das kleine
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -195,6 +195,6 @@ Der Kuchen sollte etwa 1h ruhen, bevor er in Quadrate geschnitten werden kann. L
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

@@ -140,7 +140,7 @@ Ich wünsche euch frohe Weihnachten und ein besseres neues Jahr... Lebewohl gute
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -224,6 +224,6 @@ Legt die Pavlova auf eine Servierplatte, verteilt die Vanillecrème im Krater (r
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

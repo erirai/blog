@@ -119,7 +119,7 @@ Der letzte Chiffon Cake ist schon lange her. Aber welchen mache ich jetzt? Im Bu
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -158,6 +158,6 @@ Lasst den Kuchen kurz ruhen, damit die Schokolade etwas hart werden kann.
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

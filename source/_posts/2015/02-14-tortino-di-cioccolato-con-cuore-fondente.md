@@ -66,7 +66,7 @@ Lo so che non è una ricetta superinnovativa ma scusatemi: è troppo buono e non
 
 <h3>
 	<font color="grey">
-		<i class="fa fa-cogs"></i>
+		<i class="fa-solid fa-gears"></i>
 	</font> Preparazione
 </h3>
 
@@ -90,7 +90,7 @@ Poi fateli intiepidire leggermente e capovolgeteli su di un piattino e spolverat
 
 <h3>
   <font color="#FFCC00">
-    <i class="fa fa-lightbulb-o"></i>
+    <i class="fa-regular fa-lightbulb"></i>
   </font> P.S.
 </h3>
 
@@ -98,6 +98,6 @@ Questi tortini sono ottimi accompagnati con del gelato...
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

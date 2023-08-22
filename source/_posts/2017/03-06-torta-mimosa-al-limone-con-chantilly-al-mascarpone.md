@@ -96,7 +96,7 @@ Venerdì scorso è venuta a trovarmi mia cugina. È venuta dopo pranzo, quando i
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -131,6 +131,6 @@ Passato il tempo necessario, uscitela dal frigo e ricoprite tutta la torta con i
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

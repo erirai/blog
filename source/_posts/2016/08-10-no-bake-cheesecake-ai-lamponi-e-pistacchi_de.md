@@ -108,7 +108,7 @@ Ich hatte Lust auf Cheesecake. Punkt. Und wenn ich auf etwas spezielles Lust hab
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -144,6 +144,6 @@ Nun könnt ihr die Cheesecake für 3-4 Stunden in den Gefrierschrank legen. Fall
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

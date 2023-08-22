@@ -84,7 +84,7 @@ Halloween si avvicina e mica vogliamo farci trovare impreparati?! Sto sperimenta
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -106,7 +106,7 @@ Per il frosting al mascarpone frullate con le fruste elettriche il mascarpone co
 
 <h3>
   <font color="#FFCC00">
-    <i class="fa fa-lightbulb-o"></i>
+    <i class="fa-regular fa-lightbulb"></i>
   </font> P.S.
 </h3>
 
@@ -114,6 +114,6 @@ Lo zucchero di fiori di cocco non è nient'altro che il nettare dei fiori di coc
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

@@ -144,7 +144,7 @@ Ich begrüsse diesen Monat mit diesen wunderbaren schweizer Brombeeren! Ich lieb
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Zubereitung
 </h3>
 
@@ -172,6 +172,6 @@ Sobald der Kuchen kalt ist, kann dieser glasiert und gegessen werden!
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>

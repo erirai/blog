@@ -91,7 +91,7 @@ Passato il matrimonio di mia sorella, mia figlia si è ammalata, poi ci siamo am
 
 <h3>
   <font color="grey">
-    <i class="fa fa-cogs"></i>
+    <i class="fa-solid fa-gears"></i>
   </font> Preparazione
 </h3>
 
@@ -113,7 +113,7 @@ Poi infornate a 190°C nel forno ventilato per ca. 30min. Prima di tagliare la Q
 
 <h3>
   <font color="#FFCC00">
-    <i class="fa fa-lightbulb-o"></i>
+    <i class="fa-regular fa-lightbulb"></i>
   </font> P.S.
 </h3>
 
@@ -122,6 +122,6 @@ Se non trovate il Tofu rosso naturalmente potete prendere quello al naturale o a
 
 <h4>Buon appetito
   <font color="red">
-    <i class="fa fa-smile-o"></i>
+    <i class="fa-regular fa-face-smile"></i>
   </font>
 </h4>
