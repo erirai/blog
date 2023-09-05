@@ -4,7 +4,7 @@
   
   <link href="https://frangipani.raiano.ch/it/atom.xml" rel="self"/>
   <link href="https://frangipani.raiano.ch/"/>
-  <updated>2023-08-23T08:58:28.837Z</updated>
+  <updated>2023-09-05T15:37:19.539Z</updated>
   <id>https://frangipani.raiano.ch/</id>
   
   <author>
@@ -13,6 +13,161 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title xml:lang="it">Gnocchi in Padella con Verdure</title>
+    <link href="https://frangipani.raiano.ch/2023-09-06-gnocchi-in-padella-con-verdure/"/>
+    <id>https://frangipani.raiano.ch/2023-09-06-gnocchi-in-padella-con-verdure/</id>
+    <published>2023-09-05T22:00:00.000Z</published>
+    <updated>2023-09-05T15:37:19.539Z</updated>
+    <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Gnocchi in Padella con Verdure&lt;/strong&gt; un primo piatto molto gustoso e vegano, pieno di verdure e morbidi gnocchi. Questo è un modo sfizioso per preparare gli gnocchi, che solitamente si mangiano solo bolliti con condimento a piacere. In questo caso però li ho prima bolliti e poi passati in padella per renderli belli croccanti. Così facendo avranno un una crosticina, ma al centro rimarranno comunque morbidi, così come conosciamo gli gnocchi.&lt;/p&gt;
+&lt;p&gt;Questa ricetta può essere fatta in ogni stagione, basta adattare le verdure e scegliere quelle di stagione. In questo caso ho usato peperoni, broccoli e pomodorini del nostro giardino, ma sentitevi liberi di usare quello che vi piace. Per rendere il condimento più cremoso, ho aggiunto della panna vegetale. La panna vegetale dona cremosità, senza appesantire il piatto. Ovviamente potete usare anche la panna fresca normale. &lt;/p&gt;
+&lt;p&gt;Ed eccoci arrivati a Settembre! Il mio mese preferito... Potrebbe sembrare strano essendo amante dell’estate, ma c’è una piccolissima cosa che mi disturba dell’estate. In un certo modo, in estate ci si sente obbligati a stare fuori, ad intraprendere cose per godersi il bel tempo, non so se mi spiego. Amo stare fuori, amo sfruttare ogni singolo raggio di sole e ho bisogno di farlo, ma spesso ci si dimentica di riposarsi, di stare semplicemente a casa senza fare niente.
+E la cosa bella di Settembre è proprio questa: fa ancora caldo, quindi possiamo goderci ancora la meravigliosa tarda estate, ma l’arrivo dell’autunno porta con se automaticamente anche un certo rallentamento…&lt;/p&gt;
+&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
+  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
+    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
+      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Gnocchi in Padella con Verdure&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Salato&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Gnocchi in Padella con Verdure, un primo piatto molto gustoso e vegano, pieno di verdure e gnocchi croccanti e morbidi.&lt;/span&gt;
+      &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
+      &lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;     
+            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Gnocchi&lt;/b&gt;&lt;/td&gt;
+          &lt;/tr&gt; 
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1kg&lt;/td&gt;
+            &lt;td&gt;patate farinose&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qb&lt;/td&gt;
+            &lt;td&gt;noce moscata&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qb&lt;/td&gt;
+            &lt;td&gt;parmigiano grattugiato (facoltativo)&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;circa 400gr&lt;/td&gt;
+            &lt;td&gt;farina&lt;/td&gt;
+         &lt;tr&gt;
+            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Condimento&lt;/b&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qb&lt;/td&gt;
+            &lt;td&gt;olio evo&lt;/td&gt;     
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1&lt;/td&gt;
+            &lt;td&gt;cipolla&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1&lt;/td&gt;
+            &lt;td&gt;peperone&lt;/td&gt;     
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1&lt;/td&gt;
+            &lt;td&gt;broccolo piccolino&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 manciata&lt;/td&gt;
+            &lt;td&gt;pomodorini colorati&lt;/td&gt;     
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;200ml&lt;/td&gt;
+            &lt;td&gt;panna vegetale&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qb&lt;/td&gt;
+            &lt;td&gt;sale&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qb&lt;/td&gt;
+            &lt;td&gt;paprika&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qb&lt;/td&gt;
+            &lt;td&gt;basilico fresco&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;
+      &lt;br&gt;&lt;/br&gt;
+      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot;&gt;per 4 persone&lt;/i&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h3&gt;
+  &lt;font color=&quot;grey&quot;&gt;
+    &lt;i class=&quot;fa-solid fa-gears&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt; Preparazione
+&lt;/h3&gt;
+
+&lt;p&gt;Per prima cosa preparate gli gnocchi: lavate bene le patate (con la buccia) e fatele bollire finché saranno cotte. Scolatele e fatele riposare un attimino, poi pelatele ancora calde, passatele nello schiacciapatate e raccoglietele in una coppa capiente. Fate intiepidire le patate schiacciate, poi aggiungete la noce moscata, se volete del parmigiano grattugiato e un po&amp;#39; di farina. Iniziate ad impastare con le mani e man mano aggiungete altra farina finché l&amp;#39;impasto degli gnocchi non sarà più appiccicoso, ma ancora morbido. Prendete un pezzetto dell&amp;#39;impasto, formate un salsicciotto non troppo sottile e tagliatelo a tocchetti . Metteteli da parte, spolverateci sopra un po&amp;#39; di farina e fateli riposare un po&amp;#39;.
+&lt;img src=&quot;gnocchi.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Preparate il condimento: Lavate e pulite tutte le verdure, tagliate finemente la cipolla e a pezzettini il peperone, staccate e tagliate le cimette del broccolo, pelate lo stelo del broccolo e tagliatelo a pezzetti, tagliate a metà i pomodorini. In una padella capiente mettete un abbondante filo d&amp;#39;olio, la cipolla ed una spolverata di sale. Fate soffriggere la cipolla, poi aggiungete le verdure, fate rosolare un attimo, aggiungete un pochino d&amp;#39;acqua, coprite e fate cuocere a temperatura media. Se c&amp;#39;è bisogno aggiungete altra acqua, poca alla volta, alla fine il sughetto non dovrà essere troppo liquido. Aggiungete la panna vegetale, aggiustate di sale e paprika e lasciatelo sui fornelli a temperatura bassissima.
+&lt;br /&gt;
+Prendete una pentola abbastanza grande, fate bollire dell&amp;#39;acqua e poi salate. Prendete un po&amp;#39; di gnocchi alla volta e buttateli nell&amp;#39;acqua bollente. Quando gli gnocchi verranno a galla scolateli con una schiumarola e metteteli in una padella già calda leggermente unta. Fate abbrustolire gli gnocchi, finché avranno una leggera crosticina, non dovranno bruciarsi però. Versate gli gnocchi abbrustoliti nel condimento e continuate finché avrete cotto ed abbrustolito tutti gli gnocchi.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;condimento.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;padella.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Amalgamate bene il tutto e finite aggiungendo del basilico spezzettato, poi impiattate.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h4&gt;Buon appetito
+  &lt;font color=&quot;red&quot;&gt;
+    &lt;i class=&quot;fa-regular fa-face-smile&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt;
+&lt;/h4&gt;</content>
+    <summary type="html" xml:lang="it">
+    
+      &lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Gnocchi in Padella con Verdure&lt;/strong&gt; un primo piatto molto gustoso e
+    
+    </summary>
+    
+      <category term="Salato" scheme="https://frangipani.raiano.ch/categories/Salato/"/>
+    
+      <category term="Primi Piatti" scheme="https://frangipani.raiano.ch/categories/Salato/Primi-Piatti/"/>
+    
+    
+      <category term="estate" scheme="https://frangipani.raiano.ch/tags/estate/"/>
+    
+      <category term="vegan" scheme="https://frangipani.raiano.ch/tags/vegan/"/>
+    
+  </entry>
   
   <entry>
     <title xml:lang="it">Gelato al Cannolo senza gelatiera</title>
@@ -2921,148 +3076,6 @@ Con l&amp;#39;aggiunta delle mele, le girelle risulteranno più succose. Io le m
       <category term="vegan" scheme="https://frangipani.raiano.ch/tags/vegan/"/>
     
       <category term="autunno" scheme="https://frangipani.raiano.ch/tags/autunno/"/>
-    
-      <category term="inverno" scheme="https://frangipani.raiano.ch/tags/inverno/"/>
-    
-  </entry>
-  
-  <entry>
-    <title xml:lang="it">Ciambella vegana agli Agrumi</title>
-    <link href="https://frangipani.raiano.ch/2023-01-17-ciambella-vegana-agli-agrumi/"/>
-    <id>https://frangipani.raiano.ch/2023-01-17-ciambella-vegana-agli-agrumi/</id>
-    <published>2023-01-16T23:00:00.000Z</published>
-    <updated>2023-08-15T20:38:47.765Z</updated>
-    <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Ciambella vegana agli Agrumi&lt;/strong&gt; una torta che sprigiona un profumo di agrumi pazzesco. Soffice, umida, buona e vegana. Senza tralasciare il fatto che è facilissima da preparare... Mischiare gli ingredienti asciutti, aggiungere gli ingredienti liquidi ed il gioco è fatto! È proprio questo il bello dei dolci vegani, si preparano in un attimo e in più spesso sono fatti con ingredienti che abbiamo sempre in dispensa.
-&lt;br /&gt;
-Per profumare questa ciambella ho usato arance, limoni e mandarini, ma potete usare anche altri agrumi come il pompelmo, il lime o le clementine. Per esaltarne il sapore, frullate lo zucchero con le scorze degli agrumi. In questo modo gli odori si distribuiranno in tutta la torta. Piccolo truccheto...&lt;/p&gt;
-&lt;p&gt;In più gennaio è il mese del Veganuary, quindi provo a cucinare il più possibile vegano, anche se in realtà lo faccio tutto l&amp;#39;anno. Ma non riusciamo a mangiare completamente vegano, anzi non è una cosa che al momento mi sento di fare, per noi va bene così, vegetariani. &lt;/p&gt;
-&lt;p&gt;Ah, tranquilli, non mi sono scordata dei buoni propositi per questo 2023. Semplicemente ho smesso di farlo. Mi sono accorta che la cosa dei buoni propositi mi metteva un sacco sotto pressione. Mi autocostringevo a fare cose anche quando magari non mi sentivo di farlo e poi mi sentivo in colpa. Penso che questo non sia il senso dei buoni propositi... Se ho degli obiettivi che vorrei o devo raggiungere, mi impegno, ma in questo caso sono obiettivi di cui ho bisogno, quindi il discorso cambia. Riflettete un po&amp;#39; su questo...&lt;/p&gt;
-&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
-  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
-    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
-      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Ciambella vegana agli Agrumi&lt;/span&gt;
-      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Dolce&lt;/span&gt;
-      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;header.jpeg&quot;/&gt;
-      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
-      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Ciambella vegana agli Agrumi, una torta che sprigiona un profumo di agrumi pazzesco. Soffice, umida, buona e vegana.&lt;/span&gt;
-      &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
-      &lt;table&gt;
-        &lt;tbody&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;120gr&lt;/td&gt;
-            &lt;td&gt;zucchero&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1&lt;/td&gt;
-            &lt;td&gt;arancia bio&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1&lt;/td&gt;
-            &lt;td&gt;limone bio&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;2&lt;/td&gt;
-            &lt;td&gt;mandarini bio&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;275gr&lt;/td&gt;
-            &lt;td&gt;farina&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 cucchiaino&lt;/td&gt;
-            &lt;td&gt;bicarbonato&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 cucchiaino&lt;/td&gt;
-            &lt;td&gt;lievito per dolci&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 pizzico&lt;/td&gt;
-            &lt;td&gt;sale&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;300ml&lt;/td&gt;
-            &lt;td&gt;succo di agrumi (mix arancia, limone, mandarini)&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;5 cucchiai&lt;/td&gt;
-            &lt;td&gt;olio di semi&lt;/td&gt;        
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 cucchiaio&lt;/td&gt;
-            &lt;td&gt;aceto di mele&lt;/td&gt;
-          &lt;/tr&gt;
-        &lt;/tbody&gt;
-      &lt;/table&gt;
-      &lt;br&gt;&lt;/br&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;h3&gt;
-  &lt;font color=&quot;grey&quot;&gt;
-    &lt;i class=&quot;fa-solid fa-gears&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt; Preparazione
-&lt;/h3&gt;
-
-&lt;p&gt;Frullate finemente lo zucchero con le scorze degli agrumi poi mettetelo in una coppa capiente con la farina, il bicarbonato, il lievito ed il sale e date una mescolata. Aggiungete il succo di agrumi, l&amp;#39;olio e l&amp;#39;aceto. Amalgamate bene con una frusta a mano.
-&lt;br /&gt;
-Versate l&amp;#39;impasto in una teglia per ciambelle precedentemente imburrata ed infarinata.
-&lt;img src=&quot;teglia.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Infornate la ciambella nel forno preriscaldato a 180°C statico per 40min circa, mi raccomando fate la prova stecchino. Fatela intiepidire un&amp;#39;attimino, poi toglietela dalla forma. Una volta fredda, a piacere finite con una spolverata di zucchero a velo o una glassa allo zucchero, ma va benissimo anche senza niente.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;h4&gt;Buon appetito
-  &lt;font color=&quot;red&quot;&gt;
-    &lt;i class=&quot;fa-regular fa-face-smile&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt;
-&lt;/h4&gt;
-</content>
-    <summary type="html" xml:lang="it">
-    
-      &lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Ciambella vegana agli Agrumi&lt;/strong&gt; una torta che sprigiona un profum
-    
-    </summary>
-    
-      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
-    
-      <category term="Torte" scheme="https://frangipani.raiano.ch/categories/Dolce/Torte/"/>
-    
-    
-      <category term="vegan" scheme="https://frangipani.raiano.ch/tags/vegan/"/>
     
       <category term="inverno" scheme="https://frangipani.raiano.ch/tags/inverno/"/>
     
