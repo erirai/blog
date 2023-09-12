@@ -156,6 +156,17 @@
         var pages = json.pages;
         var tags = extractToSet(json, 'tags');
         var categories = extractToSet(json, 'categories');
+        if (document.documentElement.lang) { // filter by lng
+            posts = posts.filter(function (p) { return !p.lang || p.lang === document.documentElement.lang; });
+            pages = pages.filter(function (p) { return !p.lang || p.lang === document.documentElement.lang; });
+            categories = categories.map(function (c) {
+                c.name = CONFIG.TRANSLATION.categoriesMapping[c.name] ? unescape(CONFIG.TRANSLATION.categoriesMapping[c.name]) : c.name;
+                if (c.permalink.indexOf('/' + document.documentElement.lang + '/') < 0) {
+                    c.permalink = c.permalink.replace('/categories/', '/' + document.documentElement.lang + '/categories/');
+                }
+                return c;
+            });
+        }
         return {
             posts: posts.filter(FILTERS.POST).sort(function (a, b) { return WEIGHTS.POST(b) - WEIGHTS.POST(a); }).slice(0, 5),
             pages: pages.filter(FILTERS.PAGE).sort(function (a, b) { return WEIGHTS.PAGE(b) - WEIGHTS.PAGE(a); }).slice(0, 5),
