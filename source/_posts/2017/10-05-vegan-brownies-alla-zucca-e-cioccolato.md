@@ -1,12 +1,10 @@
 ---
-title: "vegan Brownies alla Zucca e Cioccolato"
+title: "Brownies vegani alla Zucca e Cioccolato"
 date: 2017-10-05
 tags:
-- dolci 
-- biscotti
 - vegan
 - zucca
-- cioccolato
+- autunno
 - halloween
 categories:
 - Dolce
@@ -14,7 +12,9 @@ categories:
 label: 2017-10-05-vegan-brownies-alla-zucca-e-cioccolato
 lang: it 
 ---
-![](header.jpg "frangipani © Erica")
+![](header.jpeg "frangipani © Erica")
+
+**Brownies vegani alla Zucca e Cioccolato** dei piccoli dolcetti profumatissimi, speziati e confortanti. Sanno proprio di autunno, non saprei descriverli diversamente. Il colore è dato dalla purea di zucca ed il profumo dal Pumpkin Spice. 
 
 Questo mese sarà molto zuccoso, mi dispiace ma Ottobre per me è sinonimo di zucca! Per fare i dolci con la zucca, c'è bisogno della purea di zucca. Ci sono diversi modi per preparare la purea di zucca. Io la preparo al forno. Dunque taglio la zucca a metà o in quattro ed elimino i semi ed i filamenti. Appoggio la zucca su di una teglia da forno con sotto della carta forno con la parte tagliata verso giù. La faccio cuocere in forno a 200°C ventilato per 15-30min, dipende dal tipo di zucca. Infilzate la zucca con una forchetta, se entra facilmente la zucca è cotta. Con un cucchiaio stacco la polpa dalla buccia. Frullo la polpa della zucca con un goccio d'acqua rendendola bella liscia e cremosa. A questo punto potete congelarla, magari la dividete in piccole porzioni. La sera prima, la uscite dal congelatore e la mettete in frigo per scongelarla. Se usate molta purea di zucca, vi consiglio di farne una bella quantità e congelarla. In questo modo ce l'avete sempre pronta per l'uso. 
 
@@ -22,58 +22,63 @@ Un atra cosa che uso molto in questo periodo è il Pumpkin Spice. Il Pumpkin Spi
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
-    <div class="ingredients">
+    <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
+      <span itemprop="name" style="display:none;">Brownies vegani alla Zucca e Cioccolato</span>
+      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <span itemprop="author" style="display:none;">Erica Raiano</span>
+      <span itemprop="description" style="display:none;">Dei piccoli dolcetti profumatissimi, speziati e confortanti. Sanno proprio di autunno, non saprei descriverli diversamente.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
-          <tr>
-            <td>225gr</td>
+          <tr itemprop="recipeIngredient">
+            <td>110gr</td>
             <td>burro o margarina morbida</td>
           </tr>
-          <tr>
-            <td>180gr</td>
+          <tr itemprop="recipeIngredient">
+            <td>80gr</td>
             <td>zucchero</td>
           </tr>
-          <tr>
-            <td>1 cucchiaino</td>
+          <tr itemprop="recipeIngredient">
+            <td>2 cucchiaini</td>
             <td>essenza di vaniglia</td>
           </tr>
-          <tr>
-            <td>70gr</td>
+          <tr itemprop="recipeIngredient">
+            <td>35gr</td>
             <td>latte vegetale</td>
           </tr>
-          <tr>
-            <td>210gr</td>
+          <tr itemprop="recipeIngredient">
+            <td>110gr</td>
             <td>purea di zucca</td>
           </tr>
-          <tr>
-            <td>260gr</td>
+          <tr itemprop="recipeIngredient">
+            <td>130gr</td>
             <td>farina</td>
           </tr>
-          <tr>
-            <td>1 cucchiaio</td>
+          <tr itemprop="recipeIngredient">
+            <td>1/2 cucchiaio</td>
             <td>fecola di patate o simile</td>
           </tr>
-          <tr>  
+          <tr itemprop="recipeIngredient"> 
             <td>1 cucchiaino</td>
             <td>lievito per dolci</td>
           </tr>
-          <tr>
-            <td>1/2 cucchiaino</td>
+          <tr itemprop="recipeIngredient">
+            <td>1/4 cucchiaino</td>
             <td>sale</td>
           </tr>
-          <tr>
-             <td>1 cucchiaio raso</td>
+          <tr itemprop="recipeIngredient">
+             <td>2 cucchiaini</td>
             <td>Pumpkin Spice (facoltativo)</td>
           </tr>
-          <tr> 
-            <td>250gr</td>
+          <tr itemprop="recipeIngredient">
+            <td>100gr</td>
             <td>cioccolato fondente</td>  
           </tr>
         </tbody>
       </table>
       <br></br>
-      <i class="pull-right" style="font-size: 80%;">per una teglia da massimo 33x23cm</i>
+      <i class="pull-right" style="font-size: 80%;">per una teglia da massimo 24x24cm</i>
     </div>
   </div>
 </div>
@@ -85,17 +90,37 @@ Un atra cosa che uso molto in questo periodo è il Pumpkin Spice. Il Pumpkin Spi
   </font> Preparazione
 </h3>
 
-Montate il burro insieme allo zucchero finché diventa bello cremoso, poi aggiungete l'essenza di vaniglia ed il latte e continuate a mescolare. Adesso aggiungete la purea di zucca ed incorporate bene. In una coppa a parte mescolate la farina, la fecola, il lievito, il sale ed il Pumpkin Spice (facoltatico, va bene anche solo un po' di cannella o niente). Versate gli ingredienti asciutti negli ingredienti umidi e mescolate bene. Per ultimo aggiungete il cioccolato fondente tagliato a pezzettini. Versate il tutto in una teglia da massimo 33x23cm foderata con della carta forno.
-![](teglia.jpg "frangipani © Erica")
+Montate il burro insieme allo zucchero finché diventa bello cremoso, poi aggiungete l'essenza di vaniglia ed il latte e continuate a mescolare. Adesso aggiungete la purea di zucca ed incorporate bene. In una coppa a parte mescolate la farina, la fecola, il lievito, il sale ed il Pumpkin Spice (facoltatico, va bene anche solo un po' di cannella o niente). Versate gli ingredienti asciutti negli ingredienti umidi e mescolate bene. Per ultimo aggiungete il cioccolato fondente tagliato a pezzettini. Versate il tutto in una teglia da massimo 24x24cm foderata con della carta forno.
+![](teglia.jpeg "frangipani © Erica")
 
 Infornate nel forno preriscaldato a 160°C ventilato per 30min, mi raccomando fate la prova stecchino. Fatelo raffreddare, poi tagliatelo a quadrotti.
-![](risultato1.jpg "frangipani © Erica")
+<p>
+  <div style="width: 100%; margin-bottom: 0">
+    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <div style="clear: both;"></div>
+  </div>
+</p>
 
-![](risultato2.jpg "frangipani © Erica")
+<p>
+  <div style="width: 100%; margin-bottom: 0">
+    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <div style="clear: both;"></div>
+  </div>
+</p>
 
-![](risultato3.jpg "frangipani © Erica")
+<p>
+  <div style="width: 100%; margin-bottom: 0">
+    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <div style="clear: both;"></div>
+  </div>
+</p>
 
-![](risultato4.jpg "frangipani © Erica")
+![](risultato7.jpeg "frangipani © Erica")
+
+![](risultato8.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

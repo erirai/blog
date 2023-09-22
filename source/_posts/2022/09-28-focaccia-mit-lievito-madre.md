@@ -116,7 +116,7 @@ Nun den Teig mit Hilfe einer Teigkarte aus der Schüssel lösen und auf die gut 
 
 Ein 27x38cm Backblech gut einölen (mit diesen Mengen ist das Backblech dieser Grösse perfekt, ihr könnt natürlich auch zwei kleinere oder eine grössere machen, aber sie wird weniger hoch sein). Teig vorsichtig ins Backblech legen. Den Teig mit seinem Eigengewicht leicht auseinanderziehen, zu diesem Zeitpunkt nicht zu stark ziehen oder drücken. Zugedeckt 30min ruhen lassen.
 <br />
-Oberfläche der Focaccia einölen, die Finger in den Teig tauchen und so in Form ziehen. Zugedeckt 1 Stunde ruhen lassen.
+Oberfläche der Focaccia einölen, die Finger in den Teig tauchen und so in Form ziehen. Zugedeckt 1h ruhen lassen.
 <br />
 An dieser Stelle kann die Focaccia nach Wunsch belegt werden, wichtig ist, dass das Gemüse gut in den Teig gedrückt wird, damit überall etwas vom Belag ist, salzen nicht vergessen... Mein Favorit ist mit Peperoni, Kirschtomaten und Zwiebel. Es gäbe aber auch die Variante mit Kartoffeln und Rosmarin, nur Kirschtomaten, aber auch ganz einfach mit grobem Salz, Öl und Rosmarin.
 <p>
