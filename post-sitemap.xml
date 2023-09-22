@@ -9,6 +9,38 @@
 
 
     <url>
+        <loc>https://frangipani.raiano.ch/2022-09-28-focaccia-mit-lievito-madre/</loc>
+        <lastmod>2023-09-22T13:07:20.923Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2023-09-06-gnocchi-gemuse-pfanne/</loc>
+        <lastmod>2023-09-20T08:08:46.540Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2017-10-05-vegane-kurbis-schoko-brownies/</loc>
+        <lastmod>2023-09-15T13:03:04.807Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2017-10-05-vegan-brownies-alla-zucca-e-cioccolato/</loc>
+        <lastmod>2023-09-15T12:33:32.500Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://frangipani.raiano.ch/2023-09-13-zwetschgen-zimt-galette/</loc>
         <lastmod>2023-09-12T09:25:18.974Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -19,14 +51,6 @@
     <url>
         <loc>https://frangipani.raiano.ch/2023-09-13-galette-alle-prugne-e-cannella/</loc>
         <lastmod>2023-09-12T09:17:13.258Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2023-09-06-gnocchi-gemuse-pfanne/</loc>
-        <lastmod>2023-09-05T15:44:44.137Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -89,22 +113,6 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2014-11-08-samosa-masala-con-salsa-chili/</loc>
-        <lastmod>2023-08-15T20:40:05.249Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2016-04-13-cotolette-di-melanzane-con-patate-alle-erbe-aromatiche-e-salsa-allo-yogurt/</loc>
-        <lastmod>2023-08-15T20:40:05.249Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://frangipani.raiano.ch/2015-02-14-tortino-di-cioccolato-con-cuore-fondente/</loc>
         <lastmod>2023-08-15T20:40:05.249Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -145,24 +153,16 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2016-01-20-pagnotta-semibianca/</loc>
-        <lastmod>2023-08-15T20:40:05.248Z</lastmod>
+        <loc>https://frangipani.raiano.ch/2014-11-08-samosa-masala-con-salsa-chili/</loc>
+        <lastmod>2023-08-15T20:40:05.249Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2016-02-08-cuoricini-frollini/</loc>
-        <lastmod>2023-08-15T20:40:05.248Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2016-06-01-fluffosa-alle-fragole-con-crema-al-limone/</loc>
-        <lastmod>2023-08-15T20:40:05.248Z</lastmod>
+        <loc>https://frangipani.raiano.ch/2016-04-13-cotolette-di-melanzane-con-patate-alle-erbe-aromatiche-e-salsa-allo-yogurt/</loc>
+        <lastmod>2023-08-15T20:40:05.249Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -233,6 +233,30 @@
     </url>
 
     <url>
+        <loc>https://frangipani.raiano.ch/2016-01-20-pagnotta-semibianca/</loc>
+        <lastmod>2023-08-15T20:40:05.248Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2016-02-08-cuoricini-frollini/</loc>
+        <lastmod>2023-08-15T20:40:05.248Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2016-06-01-fluffosa-alle-fragole-con-crema-al-limone/</loc>
+        <lastmod>2023-08-15T20:40:05.248Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://frangipani.raiano.ch/2014-02-14-torta-al-cioccolato-e-lamponi/</loc>
         <lastmod>2023-08-15T20:40:05.228Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -281,7 +305,7 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2014-03-07-strudel-ai-mirtilli-de/</loc>
+        <loc>https://frangipani.raiano.ch/2014-03-07-strudel-ai-mirtilli/</loc>
         <lastmod>2023-08-15T20:40:05.204Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -289,7 +313,7 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2014-03-07-strudel-ai-mirtilli/</loc>
+        <loc>https://frangipani.raiano.ch/2014-03-07-strudel-ai-mirtilli-de/</loc>
         <lastmod>2023-08-15T20:40:05.204Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -385,7 +409,7 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2014-01-14-muffin-con-mirtilli-e-cioccolato-de/</loc>
+        <loc>https://frangipani.raiano.ch/2014-01-14-muffin-con-mirtilli-e-cioccolato/</loc>
         <lastmod>2023-08-15T20:38:54.667Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -393,7 +417,7 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2014-01-14-muffin-con-mirtilli-e-cioccolato/</loc>
+        <loc>https://frangipani.raiano.ch/2014-01-14-muffin-con-mirtilli-e-cioccolato-de/</loc>
         <lastmod>2023-08-15T20:38:54.667Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -937,7 +961,7 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2022-06-28-crostata-al-limone-de/</loc>
+        <loc>https://frangipani.raiano.ch/2022-06-28-crostata-al-limone/</loc>
         <lastmod>2023-08-15T20:38:54.613Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -945,7 +969,7 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2022-06-28-crostata-al-limone/</loc>
+        <loc>https://frangipani.raiano.ch/2022-06-28-crostata-al-limone-de/</loc>
         <lastmod>2023-08-15T20:38:54.613Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1137,7 +1161,7 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2022-03-15-quadrotti-al-cioccolato-con-crema-al-caffe/</loc>
+        <loc>https://frangipani.raiano.ch/2022-02-22-fasnachtschuechli-de/</loc>
         <lastmod>2023-08-15T20:38:54.612Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1145,7 +1169,7 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2022-02-22-fasnachtschuechli-de/</loc>
+        <loc>https://frangipani.raiano.ch/2022-03-15-quadrotti-al-cioccolato-con-crema-al-caffe/</loc>
         <lastmod>2023-08-15T20:38:54.612Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1201,7 +1225,7 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2022-05-31-poke-cake-al-limone-con-fragole/</loc>
+        <loc>https://frangipani.raiano.ch/2022-04-12-pupi-con-uovo-de/</loc>
         <lastmod>2023-08-15T20:38:54.612Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1209,7 +1233,7 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2022-04-12-pupi-con-uovo-de/</loc>
+        <loc>https://frangipani.raiano.ch/2022-05-31-poke-cake-al-limone-con-fragole/</loc>
         <lastmod>2023-08-15T20:38:54.612Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1314,14 +1338,6 @@
 
     <url>
         <loc>https://frangipani.raiano.ch/2022-09-14-susser-hefeteigzopf-mit-zwetschgen-und-vanillecreme/</loc>
-        <lastmod>2023-08-15T20:38:54.612Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2022-09-28-focaccia-mit-lievito-madre/</loc>
         <lastmod>2023-08-15T20:38:54.612Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1585,6 +1601,14 @@
     </url>
 
     <url>
+        <loc>https://frangipani.raiano.ch/2015-10-28-torta-salata-halloweeniana/</loc>
+        <lastmod>2023-08-15T20:38:54.611Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://frangipani.raiano.ch/2015-10-31-panini-al-latte-con-semi-di-zucca/</loc>
         <lastmod>2023-08-15T20:38:54.611Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1594,14 +1618,6 @@
 
     <url>
         <loc>https://frangipani.raiano.ch/2015-10-31-veganer-halloween-marmorkuchen/</loc>
-        <lastmod>2023-08-15T20:38:54.611Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2015-10-28-torta-salata-halloweeniana/</loc>
         <lastmod>2023-08-15T20:38:54.611Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1667,126 +1683,6 @@
     <url>
         <loc>https://frangipani.raiano.ch/2015-12-25-timballo-di-pasta-in-crosta/</loc>
         <lastmod>2023-08-15T20:38:54.611Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2018-01-17-rosti-muffins-de/</loc>
-        <lastmod>2023-08-15T20:38:54.610Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2018-03-14-torta-tiramisu-de/</loc>
-        <lastmod>2023-08-15T20:38:54.610Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2018-03-22-focaccia-farcita-con-farinata-e-scarola-de/</loc>
-        <lastmod>2023-08-15T20:38:54.610Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2018-04-24-cream-tart-al-limone/</loc>
-        <lastmod>2023-08-15T20:38:54.610Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2018-04-24-cream-tart-al-limone-de/</loc>
-        <lastmod>2023-08-15T20:38:54.610Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2018-05-23-torta-vegana-ai-pistacchi-e-rabarbaro-de/</loc>
-        <lastmod>2023-08-15T20:38:54.610Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2018-05-30-torta-al-latte-caldo-e-caffe-de/</loc>
-        <lastmod>2023-08-15T20:38:54.610Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2018-07-04-sbriciolata-alle-pesche-con-rosmarino/</loc>
-        <lastmod>2023-08-15T20:38:54.610Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2018-07-17-pasta-con-pomodoro-fresco-de/</loc>
-        <lastmod>2023-08-15T20:38:54.610Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2018-07-24-zuccotto-di-gelato-alla-vaniglia-con-lamponi-e-meringhe-de/</loc>
-        <lastmod>2023-08-15T20:38:54.610Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2018-09-26-torta-di-ricotta-con-gocce-di-cioccolato/</loc>
-        <lastmod>2023-08-15T20:38:54.610Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2018-10-24-mele-al-cioccolato-per-halloween/</loc>
-        <lastmod>2023-08-15T20:38:54.610Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2018-11-20-barbabietola-al-cartoccio-con-erbette-e-sale-grosso/</loc>
-        <lastmod>2023-08-15T20:38:54.610Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2018-12-04-mini-tortine-multigusto/</loc>
-        <lastmod>2023-08-15T20:38:54.610Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2018-12-20-scones-vegani-con-cranberries-profumati-all-arancia/</loc>
-        <lastmod>2023-08-15T20:38:54.610Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -1922,6 +1818,126 @@
 
     <url>
         <loc>https://frangipani.raiano.ch/2015-12-20-cornetti-sfogliati-veloci/</loc>
+        <lastmod>2023-08-15T20:38:54.610Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2018-01-17-rosti-muffins-de/</loc>
+        <lastmod>2023-08-15T20:38:54.610Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2018-03-14-torta-tiramisu-de/</loc>
+        <lastmod>2023-08-15T20:38:54.610Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2018-03-22-focaccia-farcita-con-farinata-e-scarola-de/</loc>
+        <lastmod>2023-08-15T20:38:54.610Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2018-04-24-cream-tart-al-limone/</loc>
+        <lastmod>2023-08-15T20:38:54.610Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2018-04-24-cream-tart-al-limone-de/</loc>
+        <lastmod>2023-08-15T20:38:54.610Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2018-05-23-torta-vegana-ai-pistacchi-e-rabarbaro-de/</loc>
+        <lastmod>2023-08-15T20:38:54.610Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2018-05-30-torta-al-latte-caldo-e-caffe-de/</loc>
+        <lastmod>2023-08-15T20:38:54.610Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2018-07-04-sbriciolata-alle-pesche-con-rosmarino/</loc>
+        <lastmod>2023-08-15T20:38:54.610Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2018-07-17-pasta-con-pomodoro-fresco-de/</loc>
+        <lastmod>2023-08-15T20:38:54.610Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2018-07-24-zuccotto-di-gelato-alla-vaniglia-con-lamponi-e-meringhe-de/</loc>
+        <lastmod>2023-08-15T20:38:54.610Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2018-09-26-torta-di-ricotta-con-gocce-di-cioccolato/</loc>
+        <lastmod>2023-08-15T20:38:54.610Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2018-10-24-mele-al-cioccolato-per-halloween/</loc>
+        <lastmod>2023-08-15T20:38:54.610Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2018-11-20-barbabietola-al-cartoccio-con-erbette-e-sale-grosso/</loc>
+        <lastmod>2023-08-15T20:38:54.610Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2018-12-04-mini-tortine-multigusto/</loc>
+        <lastmod>2023-08-15T20:38:54.610Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2018-12-20-scones-vegani-con-cranberries-profumati-all-arancia/</loc>
         <lastmod>2023-08-15T20:38:54.610Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2913,7 +2929,7 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2021-11-02-torta-allo-yogurt-e-melagrana/</loc>
+        <loc>https://frangipani.raiano.ch/2019-09-03-torta-di-more-e-pere/</loc>
         <lastmod>2023-08-15T20:38:54.562Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2921,7 +2937,7 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2019-09-03-torta-di-more-e-pere/</loc>
+        <loc>https://frangipani.raiano.ch/2021-11-02-torta-allo-yogurt-e-melagrana/</loc>
         <lastmod>2023-08-15T20:38:54.562Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2931,14 +2947,6 @@
     <url>
         <loc>https://frangipani.raiano.ch/2019-12-06-consiglio-green-numero-4/</loc>
         <lastmod>2023-08-15T20:38:54.561Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2021-03-03-madeleines-con-scorza-di-arancia-e-limone-de/</loc>
-        <lastmod>2023-08-15T20:38:54.558Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -3043,6 +3051,110 @@
     <url>
         <loc>https://frangipani.raiano.ch/2019-11-27-crostata-al-panpepato-con-ganache-al-cioccolato-e-arancia-de/</loc>
         <lastmod>2023-08-15T20:38:54.558Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2021-03-03-madeleines-con-scorza-di-arancia-e-limone-de/</loc>
+        <lastmod>2023-08-15T20:38:54.558Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2019-01-31-budino-al-cioccolato-de/</loc>
+        <lastmod>2023-08-15T20:38:54.557Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2019-02-05-cuori-di-sfoglia-con-pesto-rosso/</loc>
+        <lastmod>2023-08-15T20:38:54.557Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2019-02-11-cheesecake-ai-lamponi/</loc>
+        <lastmod>2023-08-15T20:38:54.557Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2019-02-19-torta-soffice-alle-mele-de/</loc>
+        <lastmod>2023-08-15T20:38:54.557Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2019-03-18-muffin-salati-alle-carote-vegani-con-insalata-di-spinaci-mele-nocciole-de/</loc>
+        <lastmod>2023-08-15T20:38:54.557Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2019-04-02-nidi-di-biscotti-al-cocco-de/</loc>
+        <lastmod>2023-08-15T20:38:54.557Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2019-04-10-quadrotti-al-rabarbaro-con-crumble-alla-menta-de/</loc>
+        <lastmod>2023-08-15T20:38:54.557Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2019-06-21-galette-integrale-con-pesto-pomodori-e-feta/</loc>
+        <lastmod>2023-08-15T20:38:54.557Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2019-08-29-pane-farcito-con-parmigiana-di-melanzane-de/</loc>
+        <lastmod>2023-08-15T20:38:54.557Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2019-09-26-zucca-funghi-pomodori-al-forno-de/</loc>
+        <lastmod>2023-08-15T20:38:54.557Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2019-10-23-torta-brownie-per-Halloween-de/</loc>
+        <lastmod>2023-08-15T20:38:54.557Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2019-11-08-consiglio-green-numero-3/</loc>
+        <lastmod>2023-08-15T20:38:54.557Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -3162,102 +3274,6 @@
 
     <url>
         <loc>https://frangipani.raiano.ch/2021-12-02-struffoli-al-forno-de/</loc>
-        <lastmod>2023-08-15T20:38:54.557Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2019-01-31-budino-al-cioccolato-de/</loc>
-        <lastmod>2023-08-15T20:38:54.557Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2019-02-05-cuori-di-sfoglia-con-pesto-rosso/</loc>
-        <lastmod>2023-08-15T20:38:54.557Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2019-02-11-cheesecake-ai-lamponi/</loc>
-        <lastmod>2023-08-15T20:38:54.557Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2019-02-19-torta-soffice-alle-mele-de/</loc>
-        <lastmod>2023-08-15T20:38:54.557Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2019-03-18-muffin-salati-alle-carote-vegani-con-insalata-di-spinaci-mele-nocciole-de/</loc>
-        <lastmod>2023-08-15T20:38:54.557Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2019-04-02-nidi-di-biscotti-al-cocco-de/</loc>
-        <lastmod>2023-08-15T20:38:54.557Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2019-04-10-quadrotti-al-rabarbaro-con-crumble-alla-menta-de/</loc>
-        <lastmod>2023-08-15T20:38:54.557Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2019-06-21-galette-integrale-con-pesto-pomodori-e-feta/</loc>
-        <lastmod>2023-08-15T20:38:54.557Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2019-08-29-pane-farcito-con-parmigiana-di-melanzane-de/</loc>
-        <lastmod>2023-08-15T20:38:54.557Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2019-09-26-zucca-funghi-pomodori-al-forno-de/</loc>
-        <lastmod>2023-08-15T20:38:54.557Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2019-10-23-torta-brownie-per-Halloween-de/</loc>
-        <lastmod>2023-08-15T20:38:54.557Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2019-11-08-consiglio-green-numero-3/</loc>
         <lastmod>2023-08-15T20:38:54.557Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -3489,6 +3505,22 @@
     </url>
 
     <url>
+        <loc>https://frangipani.raiano.ch/2020-05-05-pane-di-semola-siciliano-de/</loc>
+        <lastmod>2023-08-15T20:38:47.766Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2023-01-17-veganer-zitrus-gugelhupf/</loc>
+        <lastmod>2023-08-15T20:38:47.766Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://frangipani.raiano.ch/2021-02-18-muffin-salati-di-polenta-con-formaggio-e-rosmarino-de/</loc>
         <lastmod>2023-08-15T20:38:47.766Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -3529,55 +3561,7 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2023-01-17-veganer-zitrus-gugelhupf/</loc>
-        <lastmod>2023-08-15T20:38:47.766Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2020-05-05-pane-di-semola-siciliano-de/</loc>
-        <lastmod>2023-08-15T20:38:47.766Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2021-01-12-torta-morbida-con-fiocchi-d-avena-e-pere/</loc>
-        <lastmod>2023-08-15T20:38:47.765Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2021-06-01-pancake-salato-con-asparagi-cotto-al-forno-de/</loc>
-        <lastmod>2023-08-15T20:38:47.765Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2021-09-16-mini-plumcake-integrali-con-frutti-di-bosco-de/</loc>
-        <lastmod>2023-08-15T20:38:47.765Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2021-10-13-rosti-di-zucca-e-patate-con-funghi-e-panna/</loc>
-        <lastmod>2023-08-15T20:38:47.765Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2021-10-18-crostata-di-pere-e-cioccolato/</loc>
+        <loc>https://frangipani.raiano.ch/2020-01-10-consiglio-green-numero-5/</loc>
         <lastmod>2023-08-15T20:38:47.765Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -3625,7 +3609,7 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2023-03-09-olivenbrot/</loc>
+        <loc>https://frangipani.raiano.ch/2023-02-23-orangen-caprese/</loc>
         <lastmod>2023-08-15T20:38:47.765Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -3633,7 +3617,7 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2023-02-23-orangen-caprese/</loc>
+        <loc>https://frangipani.raiano.ch/2023-03-09-olivenbrot/</loc>
         <lastmod>2023-08-15T20:38:47.765Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -3769,8 +3753,144 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2020-01-10-consiglio-green-numero-5/</loc>
+        <loc>https://frangipani.raiano.ch/2021-01-12-torta-morbida-con-fiocchi-d-avena-e-pere/</loc>
         <lastmod>2023-08-15T20:38:47.765Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2021-06-01-pancake-salato-con-asparagi-cotto-al-forno-de/</loc>
+        <lastmod>2023-08-15T20:38:47.765Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2021-09-16-mini-plumcake-integrali-con-frutti-di-bosco-de/</loc>
+        <lastmod>2023-08-15T20:38:47.765Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2021-10-13-rosti-di-zucca-e-patate-con-funghi-e-panna/</loc>
+        <lastmod>2023-08-15T20:38:47.765Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2021-10-18-crostata-di-pere-e-cioccolato/</loc>
+        <lastmod>2023-08-15T20:38:47.765Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2020-01-30-vellutata-di-ceci-zucca-e-carote-profumata-al-curry/</loc>
+        <lastmod>2023-08-15T20:38:47.764Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2020-02-20-frittelle-di-ricotta-all-arancia-de/</loc>
+        <lastmod>2023-08-15T20:38:47.764Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2020-04-29-biscotti-morbidi-al-burro-di-arachidi-de/</loc>
+        <lastmod>2023-08-15T20:38:47.764Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2020-05-05-pane-di-semola-siciliano/</loc>
+        <lastmod>2023-08-15T20:38:47.764Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2020-06-16-crostata-con-crema-frangipane-e-ganache-al-cioccolato-bianco-e-fragole-de/</loc>
+        <lastmod>2023-08-15T20:38:47.764Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2020-07-16-insalata-di-pomodori-cetrioli-e-melanzane-arrosto-con-hummus-de/</loc>
+        <lastmod>2023-08-15T20:38:47.764Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2020-08-12-semifreddo-di-ricotta-e-yogurt-con-frutti-di-bosco-e-croccante-di-pistacchi/</loc>
+        <lastmod>2023-08-15T20:38:47.764Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2020-08-12-semifreddo-di-ricotta-e-yogurt-con-frutti-di-bosco-e-croccante-di-pistacchi-de/</loc>
+        <lastmod>2023-08-15T20:38:47.764Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2020-10-01-biscotti-vegani-alla-zucca-speziati/</loc>
+        <lastmod>2023-08-15T20:38:47.764Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2020-10-14-conchiglioni-ripieni-con-ricotta-e-cavolo-riccio-su-crema-di-zucca-de/</loc>
+        <lastmod>2023-08-15T20:38:47.764Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2020-10-26-biscotti-vegani-al-cioccolato-con-cuore-di-cioccolato-bianco-de/</loc>
+        <lastmod>2023-08-15T20:38:47.764Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2020-11-25-biscotti-linzer-vegani-de/</loc>
+        <lastmod>2023-08-15T20:38:47.764Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2020-12-14-pavlova-con-crema-pasticcera-e-mele-alla-cannella-de/</loc>
+        <lastmod>2023-08-15T20:38:47.764Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -3882,110 +4002,6 @@
 
     <url>
         <loc>https://frangipani.raiano.ch/2023-07-12-veganer-zitronen-heidelbeer-kuchen/</loc>
-        <lastmod>2023-08-15T20:38:47.764Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2020-01-30-vellutata-di-ceci-zucca-e-carote-profumata-al-curry/</loc>
-        <lastmod>2023-08-15T20:38:47.764Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2020-02-20-frittelle-di-ricotta-all-arancia-de/</loc>
-        <lastmod>2023-08-15T20:38:47.764Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2020-04-29-biscotti-morbidi-al-burro-di-arachidi-de/</loc>
-        <lastmod>2023-08-15T20:38:47.764Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2020-05-05-pane-di-semola-siciliano/</loc>
-        <lastmod>2023-08-15T20:38:47.764Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2020-06-16-crostata-con-crema-frangipane-e-ganache-al-cioccolato-bianco-e-fragole-de/</loc>
-        <lastmod>2023-08-15T20:38:47.764Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2020-07-16-insalata-di-pomodori-cetrioli-e-melanzane-arrosto-con-hummus-de/</loc>
-        <lastmod>2023-08-15T20:38:47.764Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2020-08-12-semifreddo-di-ricotta-e-yogurt-con-frutti-di-bosco-e-croccante-di-pistacchi/</loc>
-        <lastmod>2023-08-15T20:38:47.764Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2020-08-12-semifreddo-di-ricotta-e-yogurt-con-frutti-di-bosco-e-croccante-di-pistacchi-de/</loc>
-        <lastmod>2023-08-15T20:38:47.764Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2020-10-01-biscotti-vegani-alla-zucca-speziati/</loc>
-        <lastmod>2023-08-15T20:38:47.764Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2020-10-14-conchiglioni-ripieni-con-ricotta-e-cavolo-riccio-su-crema-di-zucca-de/</loc>
-        <lastmod>2023-08-15T20:38:47.764Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2020-10-26-biscotti-vegani-al-cioccolato-con-cuore-di-cioccolato-bianco-de/</loc>
-        <lastmod>2023-08-15T20:38:47.764Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2020-11-25-biscotti-linzer-vegani-de/</loc>
-        <lastmod>2023-08-15T20:38:47.764Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2020-12-14-pavlova-con-crema-pasticcera-e-mele-alla-cannella-de/</loc>
         <lastmod>2023-08-15T20:38:47.764Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -4481,22 +4497,6 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2017-10-05-vegan-brownies-alla-zucca-e-cioccolato/</loc>
-        <lastmod>2023-08-15T20:38:47.687Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2017-10-05-vegan-brownies-alla-zucca-e-cioccolato-de/</loc>
-        <lastmod>2023-08-15T20:38:47.687Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://frangipani.raiano.ch/2017-10-18-ciambella-alla-zucca-con-cuore-cremoso-alla-cannella/</loc>
         <lastmod>2023-08-15T20:38:47.687Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -4729,7 +4729,7 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2017-06-19-te-freddo-al-rabarbaro-e-lamponi-de/</loc>
+        <loc>https://frangipani.raiano.ch/2017-06-19-te-freddo-al-rabarbaro-e-lamponi/</loc>
         <lastmod>2023-08-15T20:38:47.686Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -4737,7 +4737,7 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2017-06-19-te-freddo-al-rabarbaro-e-lamponi/</loc>
+        <loc>https://frangipani.raiano.ch/2017-06-19-te-freddo-al-rabarbaro-e-lamponi-de/</loc>
         <lastmod>2023-08-15T20:38:47.686Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -4777,14 +4777,6 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2017-08-25-granita-alle-mandorle-de/</loc>
-        <lastmod>2023-08-15T20:38:47.686Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://frangipani.raiano.ch/2017-08-31-risotto-al-pomodoro-con-verdure-alle-erbe-aromatiche-de/</loc>
         <lastmod>2023-08-15T20:38:47.686Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -4794,6 +4786,14 @@
 
     <url>
         <loc>https://frangipani.raiano.ch/2017-09-05-cobbler-di-more/</loc>
+        <lastmod>2023-08-15T20:38:47.686Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2017-08-25-granita-alle-mandorle-de/</loc>
         <lastmod>2023-08-15T20:38:47.686Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -5401,6 +5401,62 @@
     </url>
 
     <url>
+        <loc>https://frangipani.raiano.ch/2016-02-05-polpettone-di-pane-ripieno-con-spinaci-e-mozzarella/</loc>
+        <lastmod>2023-08-15T20:38:47.661Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2016-03-05-coniglietti-soffici-al-burro/</loc>
+        <lastmod>2023-08-15T20:38:47.661Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2016-08-04-gnocchi-al-basilico-con-crema-di-peperoni-de/</loc>
+        <lastmod>2023-08-15T20:38:47.661Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2016-09-09-berry-pie/</loc>
+        <lastmod>2023-08-15T20:38:47.661Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2016-09-09-berry-pie-de/</loc>
+        <lastmod>2023-08-15T20:38:47.661Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2016-10-12-pumpkin-spice-latte/</loc>
+        <lastmod>2023-08-15T20:38:47.661Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2016-10-18-black-beauty/</loc>
+        <lastmod>2023-08-15T20:38:47.661Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://frangipani.raiano.ch/2017-01-18-torta-rovesciata-alle-arance-vegan-de/</loc>
         <lastmod>2023-08-15T20:38:47.661Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -5481,7 +5537,7 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2017-10-02-pasta-con-finferli-e-panna-vegan/</loc>
+        <loc>https://frangipani.raiano.ch/2017-10-02-pasta-con-finferli-e-panna-vegan-de/</loc>
         <lastmod>2023-08-15T20:38:47.661Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -5489,7 +5545,7 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2017-10-02-pasta-con-finferli-e-panna-vegan-de/</loc>
+        <loc>https://frangipani.raiano.ch/2017-10-02-pasta-con-finferli-e-panna-vegan/</loc>
         <lastmod>2023-08-15T20:38:47.661Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -5522,62 +5578,6 @@
 
     <url>
         <loc>https://frangipani.raiano.ch/2017-12-12-paccheri-risottati-con-pomodorini-capperi-e-olive-de/</loc>
-        <lastmod>2023-08-15T20:38:47.661Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2016-02-05-polpettone-di-pane-ripieno-con-spinaci-e-mozzarella/</loc>
-        <lastmod>2023-08-15T20:38:47.661Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2016-03-05-coniglietti-soffici-al-burro/</loc>
-        <lastmod>2023-08-15T20:38:47.661Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2016-08-04-gnocchi-al-basilico-con-crema-di-peperoni-de/</loc>
-        <lastmod>2023-08-15T20:38:47.661Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2016-09-09-berry-pie/</loc>
-        <lastmod>2023-08-15T20:38:47.661Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2016-09-09-berry-pie-de/</loc>
-        <lastmod>2023-08-15T20:38:47.661Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2016-10-12-pumpkin-spice-latte/</loc>
-        <lastmod>2023-08-15T20:38:47.661Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2016-10-18-black-beauty/</loc>
         <lastmod>2023-08-15T20:38:47.661Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
