@@ -13,7 +13,7 @@ lang: it
 ---
 ![](header.jpeg "frangipani © Erica")
 
-**Curry di Zucca** un piatto pieno di verdure, cremoso e speziato che riscalda da dentro. Secondo me il curry di verdure si mangia con il riso Basmati o con il pane pita, in questo caso ho scelto il riso.
+**Curry di Zucca con riso Basmati** un piatto pieno di verdure, cremoso e speziato che riscalda da dentro. Secondo me il curry di verdure si mangia con il riso Basmati o con il pane pita, in questo caso ho scelto il riso.
 <br />
 Adoro il curry di verdure che si può fare durante tutto l'anno, semplicemente usando verdura di stagione. Però secondo me il curry più buono è quello di zucca con aggiunta di peperoni. La zucca perché risulterà bella cremosa mangiandola ed esalta ancora di più la cremosità del latte di cocco. Poi il peperone perché secondo me è uno degli ingredienti principali nella cucina orientale. Senza non è la stessa cosa.
 
