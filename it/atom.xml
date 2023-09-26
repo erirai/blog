@@ -4,7 +4,7 @@
   
   <link href="https://frangipani.raiano.ch/it/atom.xml" rel="self"/>
   <link href="https://frangipani.raiano.ch/"/>
-  <updated>2023-09-12T09:17:13.258Z</updated>
+  <updated>2023-09-26T16:20:54.876Z</updated>
   <id>https://frangipani.raiano.ch/</id>
   
   <author>
@@ -13,6 +13,165 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title xml:lang="it">Curry di Zucca con riso Basmati</title>
+    <link href="https://frangipani.raiano.ch/2023-09-27-curry-di-zucca-con-riso-basmati/"/>
+    <id>https://frangipani.raiano.ch/2023-09-27-curry-di-zucca-con-riso-basmati/</id>
+    <published>2023-09-26T22:00:00.000Z</published>
+    <updated>2023-09-26T16:20:54.876Z</updated>
+    <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Curry di Zucca&lt;/strong&gt; un piatto pieno di verdure, cremoso e speziato che riscalda da dentro. Secondo me il curry di verdure si mangia con il riso Basmati o con il pane pita, in questo caso ho scelto il riso.
+&lt;br /&gt;
+Adoro il curry di verdure che si può fare durante tutto l&amp;#39;anno, semplicemente usando verdura di stagione. Però secondo me il curry più buono è quello di zucca con aggiunta di peperoni. La zucca perché risulterà bella cremosa mangiandola ed esalta ancora di più la cremosità del latte di cocco. Poi il peperone perché secondo me è uno degli ingredienti principali nella cucina orientale. Senza non è la stessa cosa.&lt;/p&gt;
+&lt;p&gt;Come spezie ho usato il curry ovviamente, la paprika e lo zenzero. Volendo potete aggiungere anche la pasta al curry per dare più sapore, scegliendo il grado di piccantezza che più vi piace.
+&lt;br /&gt;
+Vi starete chiedendo: Ma dov&amp;#39;è il coriandolo? Ok, mettiamo in chiaro una cosa... A me il coriandolo non piace, non lo uso, per me non esiste. Usandolo potete rovinarmi tutto il piatto, uguale come l&amp;#39;uvetta. Quindi, no non lo metto! Al suo posto metto il prezzemolo, voi naturalmente potete aggiungerlo.&lt;/p&gt;
+&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
+  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
+    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
+      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Curry di Zucca&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Salato&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Curry di Zucca, un piatto pieno di verdure, cremoso e speziato che riscalda da dentro.&lt;/span&gt;
+      &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
+      &lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1&lt;/td&gt;
+            &lt;td&gt;cipolla&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1&lt;/td&gt;
+            &lt;td&gt;spicchio d&#39;aglio&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qb&lt;/td&gt;
+            &lt;td&gt;olio di semi&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;3 cucchiaini&lt;/td&gt;
+            &lt;td&gt;curry&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 cucchiaino&lt;/td&gt;
+            &lt;td&gt;paprika&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 pezzetino&lt;/td&gt;
+            &lt;td&gt;zenzero&lt;/td&gt;     
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1/2&lt;/td&gt;
+            &lt;td&gt;zucca Hokkaido&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1&lt;/td&gt;
+            &lt;td&gt;peperone&lt;/td&gt;     
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1&lt;/td&gt;
+            &lt;td&gt;zucchina&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;2 cucchiai&lt;/td&gt;
+            &lt;td&gt;concentrato di pomodoro&lt;/td&gt;     
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 lattina&lt;/td&gt;
+            &lt;td&gt;latte di cocco&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;400gr&lt;/td&gt;
+            &lt;td&gt;riso Basmati&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;600ml&lt;/td&gt;
+            &lt;td&gt;acqua&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qb&lt;/td&gt;
+            &lt;td&gt;prezzemolo o coriandolo&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qb&lt;/td&gt;
+            &lt;td&gt;lime&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;
+      &lt;br&gt;&lt;/br&gt;
+      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot;&gt;per 4 persone&lt;/i&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h3&gt;
+  &lt;font color=&quot;grey&quot;&gt;
+    &lt;i class=&quot;fa-solid fa-gears&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt; Preparazione
+&lt;/h3&gt;
+
+&lt;p&gt;Mettete in ammollo il riso Basmati per 20min, poi sciacquatelo di nuovo e mettetelo in una pentola con 600ml di acqua e lasciate di nuovo in ammollo per 10min. Aggiungete 1 cucchiaino raso di sale, accendete il fornello, appena bolle abbassate la temperatura e lasciate cuocere per 10-15min coperto con un coperchio o finché si sarà assorbita tutta l&amp;#39;acqua. Togliete dai fornelli e lasciatelo riposare ancora per 10min sempre chiuso con il coperchio.&lt;/p&gt;
+&lt;p&gt;Per il curry mettete un filo d&amp;#39;olio in una padella, aggiungete la cipolla tagliata finemente, lo spicchio d&amp;#39;aglio intero o tritato, il curry, la paprika e lo zenzero grattugiato finemente. Fate rosolare il tutto, poi aggiungete la zucca, le zucchine ed il peperone tutto precedentemente pulito e tagliato a pezzetti. Se usate la zucca Hokkaido biologica, potete usarla con tutta la buccia. Fate rosolare un po&amp;#39;, aggiungete il concentrato di pomodoro, il latte di cocco ed un goccio d&amp;#39;acqua. Mescolate, coprite e lasciate cuocere a temperatura media finché il tutto non sarà cotto. Se c&amp;#39;è bisogno aggiungete altra acqua, poca alla volta e alla fine salate. Se avete messo lo spicchio d&amp;#39;aglio intero, non scordatevi di eliminarlo prima di servire il curry di zucca.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;cipolla.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;curry.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Mettete un po&amp;#39; di riso in una coppetta, schiacciate un po&amp;#39; poi scaravoltatelo in un piatto. Aggiungete il &lt;strong&gt;Curry di Zucca&lt;/strong&gt;, un po&amp;#39; di prezzemolo (o coriandolo se vi piace, a me no) e uno spicchio di lime. &lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h4&gt;Buon appetito
+  &lt;font color=&quot;red&quot;&gt;
+    &lt;i class=&quot;fa-regular fa-face-smile&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt;
+&lt;/h4&gt;</content>
+    <summary type="html" xml:lang="it">
+    
+      &lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Curry di Zucca&lt;/strong&gt; un piatto pieno di verdure, cremoso e speziato 
+    
+    </summary>
+    
+      <category term="Salato" scheme="https://frangipani.raiano.ch/categories/Salato/"/>
+    
+      <category term="Piatti Unici" scheme="https://frangipani.raiano.ch/categories/Salato/Piatti-Unici/"/>
+    
+    
+      <category term="vegan" scheme="https://frangipani.raiano.ch/tags/vegan/"/>
+    
+      <category term="zucca" scheme="https://frangipani.raiano.ch/tags/zucca/"/>
+    
+      <category term="autunno" scheme="https://frangipani.raiano.ch/tags/autunno/"/>
+    
+  </entry>
   
   <entry>
     <title xml:lang="it">Galette alle Prugne e Cannella</title>
@@ -2890,203 +3049,6 @@ Nel frattempo con una forchetta schiacciate ed ammorbidite la ricotta, poi aggiu
       <category term="piccola pasticceria" scheme="https://frangipani.raiano.ch/tags/piccola-pasticceria/"/>
     
       <category term="carnevale" scheme="https://frangipani.raiano.ch/tags/carnevale/"/>
-    
-  </entry>
-  
-  <entry>
-    <title xml:lang="it">Éclairs con Crema Diplomatica e Cioccolato Ruby</title>
-    <link href="https://frangipani.raiano.ch/2023-02-07-eclairs-con-crema-diplomatica-e-cioccolato-ruby/"/>
-    <id>https://frangipani.raiano.ch/2023-02-07-eclairs-con-crema-diplomatica-e-cioccolato-ruby/</id>
-    <published>2023-02-06T23:00:00.000Z</published>
-    <updated>2023-08-15T20:38:47.765Z</updated>
-    <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Éclairs con Crema Diplomatica e Cioccolato Ruby&lt;/strong&gt; dei dolcetti francesi delicatissimi, perfetti per San Valentino, anzi no, vanno bene sempre! Gli Éclairs non sono altro che la versione allungata dei nostri Bignè. La Pasta Choux è sempre quella e invece di farcirli solo con la panna montata, ho deciso di fare la Crema Diplomatica (o Chantilly). Per dargli una nota fruttata (in assenza di frutti di bosco al momento), li ho glassati con il cioccolato Ruby, che gli da anche quel tocco rosa molto romantico.&lt;/p&gt;
-&lt;p&gt;Ok, lo so, la ricetta potrebbe sembrare difficile ed articolata, ma ho deciso di uscire dalla mia comfort zone e provare a fare delle ricette che non avevo il coraggio di fare. Per prima cosa ho proprio deciso di fare la Pasta Choux, mai fatta prima, quindi questa è una vera è proprio Première! Anche se devo dire che con la Pasta Choux non era solo questione di coraggio, ma avevo un leggero trauma con i Bignè. Mi ricordo che tanti anni fa i Bignè, ma soprattutto i Profiteroles, si mangiavano molto spesso e a me non piacevano per niente perchè erano farciti con la panna montata e a me non piace. Quindi nella mia testa avevo chiuso con la Pasta Choux. Ma la cosa non mi piaceva, perché la Pasta Choux a se è neutra come gusto, il gusto si conferisce con il ripieno e la glassa, quindi mi sono data una mossa e mi sono detta di provarci almeno... e meno male devo dire! Infatti mi sono piaciuti tantissimissimo con la Crema Diplomatica ed il cioccolato Ruby! Mi sono piaciuti così tanto, che per il compleanno di mia sorella ho provato addirittura a fare i Profiteroles e sono venuti veramente ottimi!&lt;/p&gt;
-&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
-  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
-    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
-      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Éclairs con Crema Diplomatica e Cioccolato Ruby&lt;/span&gt;
-      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Dolce&lt;/span&gt;
-      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;header.jpeg&quot;/&gt;
-      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
-      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Éclairs con Crema Diplomatica e Cioccolato Ruby dei dolcetti francesi delicatissimi, perfetti per San Valentino, anzi no, vanno bene sempre!&lt;/span&gt;
-      &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
-      &lt;table&gt;
-        &lt;tbody&gt;
-          &lt;tr&gt;
-            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Pasta Choux&lt;/b&gt;&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;250ml&lt;/td&gt;
-            &lt;td&gt;acqua&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;75gr&lt;/td&gt;
-            &lt;td&gt;burro&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 cucchiaio&lt;/td&gt;
-            &lt;td&gt;zucchero&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 pizzico&lt;/td&gt;
-            &lt;td&gt;sale&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;150gr&lt;/td&gt;
-            &lt;td&gt;farina&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;4&lt;/td&gt;
-            &lt;td&gt;uova medie&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr style=&quot;height: 15px;&quot;&gt;&lt;/tr&gt;
-          &lt;tr&gt;          
-            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Crema Diplomatica&lt;/b&gt;&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;6&lt;/td&gt;
-            &lt;td&gt;tuorli d&#39;uovo&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;      
-            &lt;td&gt;100gr&lt;/td&gt;
-            &lt;td&gt;zucchero&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;40gr&lt;/td&gt;
-            &lt;td&gt;fecola di patate o amido di mais&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 pizzico&lt;/td&gt;
-            &lt;td&gt;sale&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;500gr&lt;/td&gt;
-            &lt;td&gt;latte&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1&lt;/td&gt;
-            &lt;td&gt;stecca di vaniglia&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;500ml&lt;/td&gt;
-            &lt;td&gt;panna da montare&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;50gr&lt;/td&gt;
-            &lt;td&gt;zucchero a velo&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;200gr&lt;/td&gt;
-            &lt;td&gt;cioccolato ruby&lt;/td&gt;
-          &lt;/tr&gt;
-        &lt;/tbody&gt;
-      &lt;/table&gt;
-      &lt;br&gt;&lt;/br&gt;
-      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot;&gt;per ca. 15 Éclairs&lt;/i&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;h3&gt;
-  &lt;font color=&quot;grey&quot;&gt;
-    &lt;i class=&quot;fa-solid fa-gears&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt; Preparazione
-&lt;/h3&gt;
-
-&lt;p&gt;Per prima cosa preparate la crema pasticcera: in una coppa mescolate i tuorli con lo zucchero e l&amp;#39;amido o la fecola finché avrete un composto bello liscio. A parte portate quasi a bollore il latte con la stecca di vaniglia precedentemente aperta, poi sempre mescolando, versate il latte bollente nella coppa con i tuorli. Mescolate bene e versate il tutto di nuovo nella pentola e a temperatura moderata e sempre mescolando, cuocete finché si sarà addensata. Versate la crema pasticcera in una coppa, coprite con la pellicola a contatto e fate raffreddare completamente.
-&lt;br /&gt;
-Iniziate a montare la panna, quando inizia ad addensarsi aggiungete lo zucchero a velo setacciato e continuate a montere finché sarà ben montata. Prendete la crema pasticcera, date una mescolata e delicatamente con un movimento dall&amp;#39;alto verso il basso incorporate poca alla volta la panna montata. Coprite bene e tenete in frigo la Crema Diplomatica, io l&amp;#39;ho preparate il giorno prima.
-&lt;img src=&quot;chantilly.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Adesso passiamo alla Pasta Choux: in una pentola mettete acqua, burro, zucchero e sale e portate ad ebollizione. Aggiungete la farina tutta d&amp;#39;un colpo e con un cucchiaio di legno mescolate facendo compattare il tutto. Fate cuocere la pasta choux ancora per qualche minuto sempre mescolando, si dovrà staccare completamente dalla pentola e lasciare un leggero strato biancastro sul fondo. Passate il composto in una coppa capiente, allargatelo e fatelo raffreddare.
-&lt;br /&gt;
-Una volta freddo vanno incorporate le uova. Io preferisco farlo a mano con un cucchiaio di legno (ci vuole più tempo, ma si sente meglio la consistenza). Dunque aggiungete un uovo alla volta, il prossimo si aggiunge solo quando il precedente sarà completamente assorbito. A questo punto passate la pasta choux in una sacca da pasticcere con bocchetta larga liscia o a stella. Prendete un foglio di carta forno e disegnate delle linee da 10cm ben distanti una dall&amp;#39;altra (gli Éclairs gonfieranno molto in cottura). Per la mia teglia ho fatto due file da 5 linee. Questo procedimento vi aiuterà a fare degli Éclairs dritti e tutti della stessa grandezza. Girate il foglio e appoggiatelo sulla teglia. Adesso prendete la sacca da pasticcere e formate i salsicciotti direttamente sulla linea, con un dito leggermente umido schiacciate un po&amp;#39; la puntina finale.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 32%; margin-right: 1%;&quot; src=&quot;choux.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 32%; margin-right: 1%; margin-left: 1%;&quot; src=&quot;choux2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 32%; margin-left: 1%;&quot; src=&quot;teglia.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Infornate gli Éclairs nel forno preriscaldato a 210°C statico per 25min, spegnete il forno, apritelo pochissimissimo e lasciateli dentro ancora per 15min poi sfornateli e fateli raffreddare completamente.
-&lt;br /&gt;
-Mettete la crema diplomatica in una sacca da pasticcere con punta stretta. Una volta freddi potete scegliere se farcirli così interi o tagliandoli a metà. Per farcirli interi, con un coltello fate sotto gli Éclairs tre buchini poi riempite con la crema aiutandovi con la sacca da pasticcere. Per la seconda variante, tagliate a metà per il lungo gli Éclairs (tagliandoli a metà vedete se sono riusciti bene, infatti devono essere vuoti dentro), farcite la parte di sotto con la crema, sempre con l&amp;#39;aiuto della sacca da pasticcere, poi chiudete con la parte superiore. Una volta farciti tutti, metteteli in frigo.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 32%; margin-right: 1%;&quot; src=&quot;eclairs.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 32%; margin-right: 1%; margin-left: 1%;&quot; src=&quot;tagliati.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 32%; margin-left: 1%;&quot; src=&quot;farciti.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Così sono già ottimi, magari con una bella spolverata di zucchero a velo ma vi consiglio di glassarli con del cioccolato Ruby per dargli un tocco fruttato. Dunque fate sciogliere a Bagnomaria il cioccolato Ruby poi immergete la parte superiore degli Éclairs nel cioccolato, fatelo asciugare prima di servirli.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato9.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato10.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;risultato11.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;h4&gt;Buon appetito
-  &lt;font color=&quot;red&quot;&gt;
-    &lt;i class=&quot;fa-regular fa-face-smile&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt;
-&lt;/h4&gt;</content>
-    <summary type="html" xml:lang="it">
-    
-      &lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Éclairs con Crema Diplomatica e Cioccolato Ruby&lt;/strong&gt; dei dolcetti f
-    
-    </summary>
-    
-      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
-    
-      <category term="Piccola Pasticceria" scheme="https://frangipani.raiano.ch/categories/Dolce/Piccola-Pasticceria/"/>
-    
-    
-      <category term="festa della mamma" scheme="https://frangipani.raiano.ch/tags/festa-della-mamma/"/>
-    
-      <category term="san valentino" scheme="https://frangipani.raiano.ch/tags/san-valentino/"/>
-    
-      <category term="piccola pasticceria" scheme="https://frangipani.raiano.ch/tags/piccola-pasticceria/"/>
     
   </entry>
   

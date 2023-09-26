@@ -4,7 +4,7 @@
   
   <link href="https://frangipani.raiano.ch/de/atom.xml" rel="self"/>
   <link href="https://frangipani.raiano.ch/"/>
-  <updated>2023-09-20T08:08:46.540Z</updated>
+  <updated>2023-09-26T16:25:40.190Z</updated>
   <id>https://frangipani.raiano.ch/</id>
   
   <author>
@@ -13,6 +13,165 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title xml:lang="de">Kürbis-Curry mit Basmatireis</title>
+    <link href="https://frangipani.raiano.ch/2023-09-27-kurbis-curry-mit-basmatireis/"/>
+    <id>https://frangipani.raiano.ch/2023-09-27-kurbis-curry-mit-basmatireis/</id>
+    <published>2023-09-26T22:00:00.000Z</published>
+    <updated>2023-09-26T16:25:40.190Z</updated>
+    <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2023-09-27-curry-di-zucca-con-riso-basmati/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kürbis-Curry mit Basmatireis&lt;/strong&gt; ein Gericht voller Gemüse, cremig und würzig, das von innen wärmt. Am liebsten essen wir Gemüse-Curry mit Basmatireis oder Fladenbrot, in diesem Fall habe ich mich für Reis entschieden.
+&lt;br /&gt;
+Ich liebe Gemüse-Curry, welches das ganze Jahr über zubereitet werden kann, indem einfach saisonales Gemüse verwendet wird. Aber für mich ist das beste Curry, das Kürbis-Curry mit der Zugabe von Paprika. Kürbis, weil er beim Verzehr schön cremig ist und die Cremigkeit der Kokosmilch noch verstärkt. Dann die Paprika, denn meiner Meinung nach ist sie eine der Hauptzutaten der orientalischen Küche. Ohne ist es nicht dasselbe.&lt;/p&gt;
+&lt;p&gt;Als Gewürze habe ich natürlich Curry, Paprika und Ingwer verwendet. Wenn ihr möchtet, könnt ihr auch Currypaste hinzufügen, um dem Gericht noch mehr Geschmack zu verleihen, und wählt dabei die Schärfe, die euch am besten gefällt.
+&lt;br /&gt;
+Ihr fragt euch vielleicht: Aber wo ist der Koriander? Ok, lasst mich eines klarstellen... Ich mag Koriander nicht, ich verwende ihn nicht, er existiert für mich nicht. Wenn ich Koriander in einem Teller sehe, kann man mir das ganze Gericht ruinieren, genau wie mit Rosinen. Darum nein, danke! Stattdessen habe ich Petersilie darüber verteilt, ihr könnt aber selbstverständlich Koriander nehmen.&lt;/p&gt;
+&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
+  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
+    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
+      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Kürbis-Curry mit Basmatireis&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Herzhaftes&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2023-09-27-curry-di-zucca-con-riso-basmati/header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Gemüse-Halloumi-Spiesse mit Kräuterkartoffeln und Joghurtsauce, ein perfektes Sommerrezept für uns Vegetarier oder Veganer für ein toller Grillplausch.&lt;/span&gt;
+      &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
+      &lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1&lt;/td&gt;
+            &lt;td&gt;Zwiebel&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1&lt;/td&gt;
+            &lt;td&gt;Knoblauchzehe&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qs&lt;/td&gt;
+            &lt;td&gt;Sonnenblumenöl&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;3 Teelöffel&lt;/td&gt;
+            &lt;td&gt;Curry&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 Teelöffel&lt;/td&gt;
+            &lt;td&gt;Paprikapulver&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 Stückchen&lt;/td&gt;
+            &lt;td&gt;Ingwer&lt;/td&gt;     
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1/2&lt;/td&gt;
+            &lt;td&gt;Hokkaidokürbis&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1&lt;/td&gt;
+            &lt;td&gt;Paprika&lt;/td&gt;     
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1&lt;/td&gt;
+            &lt;td&gt;Zucchetti&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;2 Esslöffel&lt;/td&gt;
+            &lt;td&gt;Tomatenkonzentrat&lt;/td&gt;     
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 Büchse&lt;/td&gt;
+            &lt;td&gt;Kokosmilch&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;400gr&lt;/td&gt;
+            &lt;td&gt;Basmatireis&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;600ml&lt;/td&gt;
+            &lt;td&gt;Wasser&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qs&lt;/td&gt;
+            &lt;td&gt;Petersilie oder Koriander&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qs&lt;/td&gt;
+            &lt;td&gt;limette&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;
+      &lt;br&gt;&lt;/br&gt;
+      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot;&gt;für 4 Personen&lt;/i&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h3&gt;
+  &lt;font color=&quot;grey&quot;&gt;
+    &lt;i class=&quot;fa-solid fa-gears&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt; Zubereitung
+&lt;/h3&gt;
+
+&lt;p&gt;Den Basmatireis 20min lang einweichen, abspülen und in einen Topf mit 600ml Wasser geben und erneut 10min lang einweichen. 1 gestrichenen Teelöffel Salz hinzufügen, den Herd einschalten, sobald es kocht, die Temperatur senken und 10-15min lang zugedeckt köcheln lassen, bis das gesamte Wasser aufgesogen ist. Vom Herd nehmen und weitere 10min ruhen lassen, immer mit geschlossenem Deckel.&lt;/p&gt;
+&lt;p&gt;Für das Curry einen Schuss Öl in eine Pfanne geben, die fein gehackte Zwiebel, die ganze oder gehackte Knoblauchzehe, das Currypulver, das Paprikapulver und den fein geriebenen Ingwer hinzufügen. Alles anbraten, dann den zuvor gereinigten und in kleine Stücke geschnittenen Kürbis, die Zucchini und die Paprika dazugeben. Wenn ihr Bio-Hokkaido-Kürbis verwendet, könnt ihr diesen mit der ganzen Schale verwenden. Etwas anbraten lassen, Tomatenmark, Kokosmilch und einen Tropfen Wasser hinzufügen. Umrühren, abdecken und bei mittlerer Temperatur kochen, bis alles gar ist. Bei Bedarf nach und nach noch mehr Wasser hinzufügen und zum Schluss Salz hinzufügen. Wenn ihr die Knoblauchzehe ganz mitgekocht habt, vergesst nicht, diese vor dem Servieren zu entfernen.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-09-27-curry-di-zucca-con-riso-basmati/cipolla.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-09-27-curry-di-zucca-con-riso-basmati/curry.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Gebt etwas Basmatireis in ein Schüsselchen, drückt es ein wenig an und stürzt das Ganze dann auf einen Teller. Fügt das &lt;strong&gt;Kürbis-Curry&lt;/strong&gt;, etwas Petersilie (oder Koriander, wenn ihr es mögt, ich nicht) und einen Limettenschnitz hinzu.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-09-27-curry-di-zucca-con-riso-basmati/risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-09-27-curry-di-zucca-con-riso-basmati/risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-09-27-curry-di-zucca-con-riso-basmati/risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-09-27-curry-di-zucca-con-riso-basmati/risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-09-27-curry-di-zucca-con-riso-basmati/risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-09-27-curry-di-zucca-con-riso-basmati/risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h4&gt;Buon appetito
+  &lt;font color=&quot;red&quot;&gt;
+    &lt;i class=&quot;fa-regular fa-face-smile&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt;
+&lt;/h4&gt;</content>
+    <summary type="html" xml:lang="de">
+    
+      &lt;p&gt;&lt;img src=&quot;../2023-09-27-curry-di-zucca-con-riso-basmati/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kürbis-Curry mit Basmatir
+    
+    </summary>
+    
+      <category term="Salato" scheme="https://frangipani.raiano.ch/categories/Salato/"/>
+    
+      <category term="Piatti Unici" scheme="https://frangipani.raiano.ch/categories/Salato/Piatti-Unici/"/>
+    
+    
+      <category term="vegan" scheme="https://frangipani.raiano.ch/tags/vegan/"/>
+    
+      <category term="zucca" scheme="https://frangipani.raiano.ch/tags/zucca/"/>
+    
+      <category term="autunno" scheme="https://frangipani.raiano.ch/tags/autunno/"/>
+    
+  </entry>
   
   <entry>
     <title xml:lang="de">Zwetschgen-Zimt-Galette</title>
@@ -2886,203 +3045,6 @@ In der Zwischenzeit den Ricotta mit einer Gabel weich zerdrücken, dann Puderzuc
       <category term="piccola pasticceria" scheme="https://frangipani.raiano.ch/tags/piccola-pasticceria/"/>
     
       <category term="carnevale" scheme="https://frangipani.raiano.ch/tags/carnevale/"/>
-    
-  </entry>
-  
-  <entry>
-    <title xml:lang="de">Éclairs mit Diplomatencrème und Ruby-Schokolade</title>
-    <link href="https://frangipani.raiano.ch/2023-02-07-eclairs-mit-diplomatencreme-und-ruby-schokolade/"/>
-    <id>https://frangipani.raiano.ch/2023-02-07-eclairs-mit-diplomatencreme-und-ruby-schokolade/</id>
-    <published>2023-02-06T23:00:00.000Z</published>
-    <updated>2023-08-15T20:38:47.764Z</updated>
-    <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2023-02-07-eclairs-con-crema-diplomatica-e-cioccolato-ruby/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Éclairs mit Diplomatencrème und Ruby-Schokolade&lt;/strong&gt; sehr zarte französische Desserts, perfekt für den Valentinstag, nein, sie sind immer gut! Éclairs sind nichts anderes als die längliche Version der Windbeutel. Der Brandteig ist der selbe und anstatt sie nur mit Schlagsahne zu füllen, habe ich mich für Diplomatencrème (oder Chantilly) entschieden. Um ihnen eine fruchtige Note zu verleihen (da es momentan keine Beeren gibt), habe ich sie mit Ruby-Schokolade glasiert, was ihnen auch diesen sehr romantischen rosa Touch verleiht.&lt;/p&gt;
-&lt;p&gt;Ok, ich weiss, das Rezept mag schwierig und komplex erscheinen, aber ich habe beschlossen, meine Komfortzone zu verlassen und zu versuchen, Rezepte zu machen, zu denen ich nicht den Mut hatte. Ich habe mich entschieden, zuerst Brandteig zu machen, den ich noch nie zuvor gemacht hatte, also ist dies eine echte Première! Wobei ich sagen muss, dass es bei Brandteig nicht nur eine Frage des Mutes war, sondern ich hatte bei den Windbeuteln ein leichtes Trauma. Ich erinnere mich, dass vor vielen Jahren Windbeutel, aber vor allem Profiteroles, sehr oft gegessen wurden und ich sie überhaupt nicht mochte, weil sie mit Schlagrahm gefüllt waren und ich es nicht mag. Also hatte ich in meinem Kopf mit Brandteig abgeschlossen. Das gefiel mir aber nicht, denn der Brandteig an sich ist geschmacksneutral, der Geschmack ergibt sich durch die Füllung und die Glasur. Also habe ich mir einen Ruck gegeben und mir gesagt, ich könnte es zumindest mal probieren... zum Glück muss ich sagen! Tatsächlich mochte ich sie sehr mit der Diplomatencrème und der Ruby-Schokolade! Ich mochte sie so sehr, dass ich zum Geburtstag meiner Schwester sogar versucht habe, Profiteroles zu machen, und sie sind wirklich gut geworden!&lt;/p&gt;
-&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
-  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
-    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
-      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Éclairs mit Diplomatencrème und Ruby-Schokolade&lt;/span&gt;
-      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Süsses&lt;/span&gt;
-      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2023-02-07-eclairs-con-crema-diplomatica-e-cioccolato-ruby/header.jpeg&quot;/&gt;
-      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
-      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Éclairs mit Diplomatencrème und Ruby-Schokolade, sehr zarte französische Desserts, perfekt für den Valentinstag, nein, sie sind immer gut!&lt;/span&gt;
-      &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
-      &lt;table&gt;
-        &lt;tbody&gt;
-          &lt;tr&gt;
-            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Brandteig&lt;/b&gt;&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;250ml&lt;/td&gt;
-            &lt;td&gt;Wasser&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;75gr&lt;/td&gt;
-            &lt;td&gt;Butter&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 Esslöffel&lt;/td&gt;
-            &lt;td&gt;Zucker&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 Prise&lt;/td&gt;
-            &lt;td&gt;Salz&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;150gr&lt;/td&gt;
-            &lt;td&gt;Mehl&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;4&lt;/td&gt;
-            &lt;td&gt;Eier mittelgross&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr style=&quot;height: 15px;&quot;&gt;&lt;/tr&gt;
-          &lt;tr&gt;          
-            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Diplomatencrème&lt;/b&gt;&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;6&lt;/td&gt;
-            &lt;td&gt;Eigelb&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;      
-            &lt;td&gt;100gr&lt;/td&gt;
-            &lt;td&gt;Zucker&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;40gr&lt;/td&gt;
-            &lt;td&gt;Kartoffel- oder Maisstärke&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 Prise&lt;/td&gt;
-            &lt;td&gt;Salz&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;500gr&lt;/td&gt;
-            &lt;td&gt;Milch&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1&lt;/td&gt;
-            &lt;td&gt;Vanilleschote&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;500ml&lt;/td&gt;
-            &lt;td&gt;Vollrahm&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;50gr&lt;/td&gt;
-            &lt;td&gt;Puderzucker&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;200gr&lt;/td&gt;
-            &lt;td&gt;Ruby Schokolade&lt;/td&gt;
-          &lt;/tr&gt;
-        &lt;/tbody&gt;
-      &lt;/table&gt;
-      &lt;br&gt;&lt;/br&gt;
-      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot;&gt;für ca. 15 Éclairs&lt;/i&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;h3&gt;
-  &lt;font color=&quot;grey&quot;&gt;
-    &lt;i class=&quot;fa-solid fa-gears&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt; Zubereitung
-&lt;/h3&gt;
-
-&lt;p&gt;Zuerst die Crème zubereiten: In einer Schüssel Eigelbe mit dem Zucker und der Stärke gut aufschlagen, bis eine schöne glatte Mischung entsteht. Die Milch separat mit der zuvor geöffneten Vanilleschote fast zum Kochen bringen, dann die kochende Milch unter ständigem Rühren in die Schüssel mit dem Eigelb giessen. Gut vermischen und alles zurück in den Topf geben und bei mässiger Temperatur und ständigem Rühren kochen, bis sie eindickt. Die Crème in eine Schüssel füllen, die Frischhaltefolie direkt auf die Crème legen und vollständig auskühlen lassen.
-&lt;br /&gt;
-Rahm aufschlagen, sobald sie beginnt fest zu werden, den gesiebten Puderzucker hinzufügen und weiterschlagen, bis sie gut geschlagen ist. Die Crème nehmen, umrühren und vorsichtig den Schlagrahm nach und nach unterheben. Die Diplomatencrème gut abdecken und im Kühlschrank aufbewahren, ich habe sie am Vortag zubereitet.
-&lt;img src=&quot;../2023-02-07-eclairs-con-crema-diplomatica-e-cioccolato-ruby/chantilly.jpeg&quot; title=&quot;Frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Kommen wir nun zum Brandteig: Wasser, Butter, Zucker und Salz in einen Topf geben und zum Kochen bringen. Das Mehl auf einmal dazugeben und mit einem Holzlöffel vermengen, sodass alles kompakt wird. Den Brandteig unter ständigem Rühren noch einige Minuten kochen, er muss sich vollständig vom Topf lösen und am Boden eine leichte weissliche Schicht hinterlassen. Den Teig in eine grosse Schüssel geben, verteilen und abkühlen lassen.
-&lt;br /&gt;
-Sobald er kalt ist, die Eier hinzufügen. Ich mache es am liebsten von Hand mit einem Holzlöffel (dauert länger, aber man spürt die Konsistenz besser). Also ein Ei nach dem anderen hinzufügen, das nächste wird erst hinzugefügt, wenn das vorherige vollständig absorbiert ist. An dieser Stelle den Brandteig in einen Spritzbeutel mit einer grossen glatten oder sternförmigen Tülle geben. Ein Backpapier nehmen und 10cm lange Linien mit grossem Abstand zueinander (die Éclairs quellen während des Garens stark auf) zeichnen. Für mein Backblech habe ich zwei Reihen mit 5 Linien gemacht. Dieses Verfahren hilft euch dabei, gerade Éclairs zu spritzen, die alle die selbe Grösse haben. Das Backpapier umdrehen und auf das Backblech legen. Den Spritzbeutel nehmen und die Würstchen direkt auf den Linien spritzen. Mit einem leicht angefeuchteten Finger die Spitze am Ende etwas platt drücken.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 32%; margin-right: 1%;&quot; src=&quot;../2023-02-07-eclairs-con-crema-diplomatica-e-cioccolato-ruby/choux.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 32%; margin-right: 1%; margin-left: 1%;&quot; src=&quot;../2023-02-07-eclairs-con-crema-diplomatica-e-cioccolato-ruby/choux2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 32%; margin-left: 1%;&quot; src=&quot;../2023-02-07-eclairs-con-crema-diplomatica-e-cioccolato-ruby/teglia.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Die Éclairs im vorgeheizten Ofen bei 210°C Ober- und Unterhitze für 25min backen, Ofen ausschalten, Backofentür ganz leicht öffnen und weitere 15min darin lassen. Nehmt sie dann aus dem Ofen und lasst sie vollständig abkühlen.
-&lt;br /&gt;
-Die Diplomatencrème in einen Spritzbeutel mit kleiner Tülle geben. Nach dem Erkalten könnt ihr wählen, ob ihr sie für das Füllen ganz lassen oder halbieren möchtet. Um sie ganz zu füllen, mit einem Messer drei Löcher unter die Éclairs bohren und dann mit dem Spritzbeutel mit der Crème füllen. Für die zweite Variante die Éclairs der Länge nach halbieren (indem ihr sie halbiert, seht ihr, ob sie gut geworden sind, tatsächlich müssen sie innen hohl sein). Auf den unteren Teil die Crème drauf dressieren, wieder mit Hilfe des Spritzbeutels, dann mit dem oberen Teil schliessen. Sobald alle gefüllt sind, stellt sie in den Kühlschrank.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 32%; margin-right: 1%;&quot; src=&quot;../2023-02-07-eclairs-con-crema-diplomatica-e-cioccolato-ruby/eclairs.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 32%; margin-right: 1%; margin-left: 1%;&quot; src=&quot;../2023-02-07-eclairs-con-crema-diplomatica-e-cioccolato-ruby/tagliati.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 32%; margin-left: 1%;&quot; src=&quot;../2023-02-07-eclairs-con-crema-diplomatica-e-cioccolato-ruby/farciti.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;So sind sie schon ausgezeichnet, vielleicht noch mit Puderzucker bestäubt, aber ich schlage vor, sie mit Ruby-Schokolade zu glasieren, um ihnen eine fruchtige Note zu verleihen. Lasst also die Ruby-Schokolade in einem Wasserbad schmelzen, taucht die Oberseite der Éclairs in die Schokolade und lasst sie vor dem Servieren trocknen.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-02-07-eclairs-con-crema-diplomatica-e-cioccolato-ruby/risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-02-07-eclairs-con-crema-diplomatica-e-cioccolato-ruby/risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-02-07-eclairs-con-crema-diplomatica-e-cioccolato-ruby/risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-02-07-eclairs-con-crema-diplomatica-e-cioccolato-ruby/risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-02-07-eclairs-con-crema-diplomatica-e-cioccolato-ruby/risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-02-07-eclairs-con-crema-diplomatica-e-cioccolato-ruby/risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-02-07-eclairs-con-crema-diplomatica-e-cioccolato-ruby/risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-02-07-eclairs-con-crema-diplomatica-e-cioccolato-ruby/risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-02-07-eclairs-con-crema-diplomatica-e-cioccolato-ruby/risultato9.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-02-07-eclairs-con-crema-diplomatica-e-cioccolato-ruby/risultato10.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../2023-02-07-eclairs-con-crema-diplomatica-e-cioccolato-ruby/risultato11.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;h4&gt;Buon appetito
-  &lt;font color=&quot;red&quot;&gt;
-    &lt;i class=&quot;fa-regular fa-face-smile&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt;
-&lt;/h4&gt;</content>
-    <summary type="html" xml:lang="de">
-    
-      &lt;p&gt;&lt;img src=&quot;../2023-02-07-eclairs-con-crema-diplomatica-e-cioccolato-ruby/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Éclairs m
-    
-    </summary>
-    
-      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
-    
-      <category term="Piccola Pasticceria" scheme="https://frangipani.raiano.ch/categories/Dolce/Piccola-Pasticceria/"/>
-    
-    
-      <category term="festa della mamma" scheme="https://frangipani.raiano.ch/tags/festa-della-mamma/"/>
-    
-      <category term="san valentino" scheme="https://frangipani.raiano.ch/tags/san-valentino/"/>
-    
-      <category term="piccola pasticceria" scheme="https://frangipani.raiano.ch/tags/piccola-pasticceria/"/>
     
   </entry>
   
