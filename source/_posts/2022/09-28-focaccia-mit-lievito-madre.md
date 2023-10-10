@@ -128,7 +128,7 @@ An dieser Stelle kann die Focaccia nach Wunsch belegt werden, wichtig ist, dass 
   </div>
 </p>
 
-Die Focaccia im vorgeheizten Backofen bei 250°C Ober- und Unterhitze ca. 20min backen. Gut kontrollieren, damit sie nicht anbrennt. Sobald sie aus dem Ofen genommen wird, direkt vom Backblech auf ein Auskühlgitter begen, auf diese Weise bleibt sie aussen knusprig, aber innen schön fluffig. Wenn noch Öl im Backblech ist, dieses auf die Focaccia giessen.
+Die Focaccia im vorgeheizten Backofen bei 250°C Ober- und Unterhitze ca. 20min backen. Gut kontrollieren, damit sie nicht anbrennt. Sobald sie aus dem Ofen genommen wird, direkt vom Backblech auf ein Auskühlgitter legen, auf diese Weise bleibt sie aussen knusprig, aber innen schön fluffig. Wenn noch Öl im Backblech ist, dieses auf die Focaccia giessen.
 <p>
   <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2022-09-28-focaccia-sofficissima-con-lievito-madre/risultato1.jpeg" alt="" title="frangipani © Erica" />
