@@ -9,6 +9,30 @@
 
 
     <url>
+        <loc>https://frangipani.raiano.ch/2022-09-28-focaccia-mit-lievito-madre/</loc>
+        <lastmod>2023-10-10T13:35:14.659Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2023-10-11-kurbis-rosmarin-focaccia/</loc>
+        <lastmod>2023-10-10T13:34:36.130Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2023-10-11-focaccia-alla-zucca-e-rosmarino/</loc>
+        <lastmod>2023-10-10T13:25:33.634Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://frangipani.raiano.ch/2023-09-27-curry-di-zucca-con-riso-basmati/</loc>
         <lastmod>2023-09-26T19:21:03.283Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -35,14 +59,6 @@
     <url>
         <loc>https://frangipani.raiano.ch/2021-09-01-sbriciolata-con-prugne-e-crema-alla-cannella/</loc>
         <lastmod>2023-09-25T10:05:52.002Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2022-09-28-focaccia-mit-lievito-madre/</loc>
-        <lastmod>2023-09-22T13:07:20.923Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
