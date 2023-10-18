@@ -46,10 +46,10 @@ Glücklicherweise hat sich auch die Qualität der Fotos etwas verbessert, auch w
 <p>
   <div style="width: 100%; margin-bottom: 0">
     <span style="float: left; width: 49%; margin-right: 1%">
-      2013: <a href="/2015-10-18-minnie-mickey-mouse-cookie-pops/">Minnie & Mickey Mouse Cookie Pops</a>
+      2015: <a href="/2015-10-18-minnie-mickey-mouse-cookie-pops/">Minnie & Mickey Mouse Cookie Pops</a>
     </span>
     <span style="float: left; width: 49%; margin-left: 1%">
-      2014: <a href="/2016-10-18-black-beauty-de/">Black Beauty (vegan Chocolate Chiffon Cake)</a>
+      2016: <a href="/2016-10-18-black-beauty-de/">Black Beauty (vegan Chocolate Chiffon Cake)</a>
     </span>
     <div style="clear: both;"></div>
   </div>
@@ -63,10 +63,10 @@ Glücklicherweise hat sich auch die Qualität der Fotos etwas verbessert, auch w
 <p>
   <div style="width: 100%; margin-bottom: 0">
     <span style="float: left; width: 49%; margin-right: 1%">
-      2013: <a href="/2017-10-18-ciambella-alla-zucca-con-cuore-cremoso-alla-cannella-de/">Kürbis-Gugelhupf mit Zimt-Frischkäse-Füllung</a>
+      2017: <a href="/2017-10-18-ciambella-alla-zucca-con-cuore-cremoso-alla-cannella-de/">Kürbis-Gugelhupf mit Zimt-Frischkäse-Füllung</a>
     </span>
     <span style="float: left; width: 49%; margin-left: 1%">
-      2014: <a href="/2018-10-18-cream-tart-al-cacao-de/">Kakao-Cream Tart</a>
+      2018: <a href="/2018-10-18-cream-tart-al-cacao-de/">Kakao-Cream Tart</a>
     </span>
     <div style="clear: both;"></div>
   </div>
@@ -80,10 +80,10 @@ Glücklicherweise hat sich auch die Qualität der Fotos etwas verbessert, auch w
 <p>
   <div style="width: 100%; margin-bottom: 0">
     <span style="float: left; width: 49%; margin-right: 1%">
-      2013: <a href="/2019-10-18-pancake-alle-mele-de/">Apfel-Zimt-Pancakes</a>
+      2019: <a href="/2019-10-18-pancake-alle-mele-de/">Apfel-Zimt-Pancakes</a>
     </span>
     <span style="float: left; width: 49%; margin-left: 1%">
-      2014: <a href="/2020-10-18-pumpkin-pie-de/">Pumpkin Pie (würzige Kürbistarte)</a>
+      2020: <a href="/2020-10-18-pumpkin-pie-de/">Pumpkin Pie (würzige Kürbistarte)</a>
     </span>
     <div style="clear: both;"></div>
   </div>
@@ -97,10 +97,10 @@ Glücklicherweise hat sich auch die Qualität der Fotos etwas verbessert, auch w
 <p>
   <div style="width: 100%; margin-bottom: 0">
     <span style="float: left; width: 49%; margin-right: 1%">
-      2013: <a href="/2021-10-18-crostata-di-pere-e-cioccolato-de/">Birnen-Schokolade-Mürbeteigtarte</a>
+      2021: <a href="/2021-10-18-crostata-di-pere-e-cioccolato-de/">Birnen-Schokolade-Mürbeteigtarte</a>
     </span>
     <span style="float: left; width: 49%; margin-left: 1%">
-      2014: <a href="/2022-10-18-tiramisu-pavlova/">Tiramisù-Pavlova</a>
+      2022: <a href="/2022-10-18-tiramisu-pavlova/">Tiramisù-Pavlova</a>
     </span>
     <div style="clear: both;"></div>
   </div>

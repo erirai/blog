@@ -46,10 +46,10 @@ Fortunatamente è migliorata anche un po' la qualità delle foto, anche se la ca
 <p>
   <div style="width: 100%; margin-bottom: 0">
     <span style="float: left; width: 49%; margin-right: 1%">
-      2013: <a href="/2015-10-18-minnie-mickey-mouse-cookie-pops/">Minnie & Mickey Mouse Cookie Pops</a>
+      2015: <a href="/2015-10-18-minnie-mickey-mouse-cookie-pops/">Minnie & Mickey Mouse Cookie Pops</a>
     </span>
     <span style="float: left; width: 49%; margin-left: 1%">
-      2014: <a href="/2016-10-18-black-beauty/">Black Beauty (Fluffosa al Cioccolato vegan)</a>
+      2016: <a href="/2016-10-18-black-beauty/">Black Beauty (Fluffosa al Cioccolato vegan)</a>
     </span>
     <div style="clear: both;"></div>
   </div>
@@ -63,10 +63,10 @@ Fortunatamente è migliorata anche un po' la qualità delle foto, anche se la ca
 <p>
   <div style="width: 100%; margin-bottom: 0">
     <span style="float: left; width: 49%; margin-right: 1%">
-      2013: <a href="/2017-10-18-ciambella-alla-zucca-con-cuore-cremoso-alla-cannella/">Ciambella alla Zucca con Cuore Cremoso alla Cannella</a>
+      2017: <a href="/2017-10-18-ciambella-alla-zucca-con-cuore-cremoso-alla-cannella/">Ciambella alla Zucca con Cuore Cremoso alla Cannella</a>
     </span>
     <span style="float: left; width: 49%; margin-left: 1%">
-      2014: <a href="/2018-10-18-cream-tart-al-cacao/">Cream Tart al Cacao</a>
+      2018: <a href="/2018-10-18-cream-tart-al-cacao/">Cream Tart al Cacao</a>
     </span>
     <div style="clear: both;"></div>
   </div>
@@ -80,10 +80,10 @@ Fortunatamente è migliorata anche un po' la qualità delle foto, anche se la ca
 <p>
   <div style="width: 100%; margin-bottom: 0">
     <span style="float: left; width: 49%; margin-right: 1%">
-      2013: <a href="/2019-10-18-pancake-alle-mele/">Pancake alle Mele e Cannella</a>
+      2019: <a href="/2019-10-18-pancake-alle-mele/">Pancake alle Mele e Cannella</a>
     </span>
     <span style="float: left; width: 49%; margin-left: 1%">
-      2014: <a href="/2020-10-18-pumpkin-pie/">Pumpkin Pie (Crostata di Zucca speziata)</a>
+      2020: <a href="/2020-10-18-pumpkin-pie/">Pumpkin Pie (Crostata di Zucca speziata)</a>
     </span>
     <div style="clear: both;"></div>
   </div>
@@ -97,10 +97,10 @@ Fortunatamente è migliorata anche un po' la qualità delle foto, anche se la ca
 <p>
   <div style="width: 100%; margin-bottom: 0">
     <span style="float: left; width: 49%; margin-right: 1%">
-      2013: <a href="/2021-10-18-crostata-di-pere-e-cioccolato/">Crostata di Pere e Cioccolato</a>
+      2021: <a href="/2021-10-18-crostata-di-pere-e-cioccolato/">Crostata di Pere e Cioccolato</a>
     </span>
     <span style="float: left; width: 49%; margin-left: 1%">
-      2014: <a href="/2022-10-18-pavlova-al-tiramisu/">Pavlova al Tiramisù</a>
+      2022: <a href="/2022-10-18-pavlova-al-tiramisu/">Pavlova al Tiramisù</a>
     </span>
     <div style="clear: both;"></div>
   </div>
