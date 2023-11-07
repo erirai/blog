@@ -4,7 +4,7 @@
   
   <link href="https://frangipani.raiano.ch/de/atom.xml" rel="self"/>
   <link href="https://frangipani.raiano.ch/"/>
-  <updated>2023-10-23T08:55:09.733Z</updated>
+  <updated>2023-11-06T13:28:13.274Z</updated>
   <id>https://frangipani.raiano.ch/</id>
   
   <author>
@@ -15,11 +15,187 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title xml:lang="de">Vanille Knoten</title>
+    <link href="https://frangipani.raiano.ch/2023-11-08-vanille-knoten/"/>
+    <id>https://frangipani.raiano.ch/2023-11-08-vanille-knoten/</id>
+    <published>2023-11-07T23:00:00.000Z</published>
+    <updated>2023-11-06T12:40:25.858Z</updated>
+    <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2023-11-08-nodini-alla-vaniglia/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vanille Knoten&lt;/strong&gt; herrlich fluffiges Hefegebäck. Zart, duftend... So wie Hefegebäck sein sollte! Ich bin verrückt nach Hefegebäck, aber statt Vanillecrème kann man auch Haselnussaufstrich, Pistaziencrème, Konfitüre oder Marmelade oder Zimt-Zucker verwenden, die Wahl liegt bei euch.&lt;/p&gt;
+&lt;p&gt;Da ist meine grösste Schwäche, das Hefegebäck. Ich kann nicht widerstehen! Ich liebe es so sehr, besonders das mit Crème oder Ricotta. Die mit Schokolade, Pistazien oder Marmelade wähle ich praktisch nie. Wenn ich mich zwischen diesen dreien und einem leeren ohne Füllung entscheiden müsste, würde ich mich wohl für den leeren entscheiden. Aber das ungefüllte Hefegebäck sollte in Kristallzucker gewälzt worden sein, wisst ihr, was ich meine?&lt;/p&gt;
+&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
+  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
+    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
+      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Vanille Knoten&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Süsses&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2023-11-08-nodini-alla-vaniglia/header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Vanille Knoten, herrlich fluffiges Hefegebäck. Zart, duftend...&lt;/span&gt;
+      &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
+      &lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;     
+            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Hefeteig&lt;/b&gt;&lt;/td&gt;
+          &lt;/tr&gt; 
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;250gr&lt;/td&gt;
+            &lt;td&gt;Mehl&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;35gr&lt;/td&gt;
+            &lt;td&gt;Zucker&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1/2 Teelöffel&lt;/td&gt;
+            &lt;td&gt;Salz&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;100ml&lt;/td&gt;
+            &lt;td&gt;Milch&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;20gr&lt;/td&gt;
+            &lt;td&gt;Butter&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;2gr&lt;/td&gt;
+            &lt;td&gt;frische Hefe&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1&lt;/td&gt;
+            &lt;td&gt;kleines Ei&lt;/td&gt;
+         &lt;tr&gt;
+            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Vanillecrème&lt;/b&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;250ml&lt;/td&gt;
+            &lt;td&gt;Milch&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1&lt;/td&gt;
+            &lt;td&gt;Vanilleschote&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1&lt;/td&gt;
+            &lt;td&gt;Ei&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;30gr&lt;/td&gt;
+            &lt;td&gt;Zucker&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;20gr&lt;/td&gt;
+            &lt;td&gt;Mehl&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 Prise&lt;/td&gt;
+            &lt;td&gt;Salz&lt;/td&gt;      
+        &lt;/tbody&gt;
+      &lt;/table&gt;
+      &lt;br&gt;&lt;/br&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h3&gt;
+  &lt;font color=&quot;grey&quot;&gt;
+    &lt;i class=&quot;fa-solid fa-gears&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt; Zubereitung
+&lt;/h3&gt;
+
+&lt;p&gt;Für den Hefeteig Mehl, Zucker und Salz in die Küchenmaschine geben und kurz vermengen. In einem kleinen Kochtopf Milch mit der Butter etwas aufwärmen, dann vom Herd nehmen und die Hefe darin auflösen. Milchgemisch auch in die Küchenmaschine geben. Zuletzt noch das Ei zufügen. Nun für ca. 10min auf mittlerer Stufe kneten lassen. Der Teig sollte schön geschmeidig, glatt und nicht klebrig sein. Schüssel gut abdecken und für mindestens 8h bei Raumtemperatur aufgehen lassen oder bis sich sein Volumen verdoppelt hat.
+&lt;br /&gt;
+Für die Crème das Ei mit dem Zucker und einer Prise Salz aufschlagen, bis es hellschaumig ist. An diesem Punkt das Mehl hinzufügen und mischen. In einem grossen Topf die Milch mit der zuvor geöffneten Vanilleschote aufkochen. Sobald die Milch kocht, vom Herd nehmen, die Eimasse zur Milch geben, schnell umrühren und wieder auf den Herd stellen. Sobald es kocht, gut rühren, die Crème ist bereits eingedickt und bereit. Die Vanillecrème mit Frischhaltefolie abgedeckt abkühlen lassen.&lt;/p&gt;
+&lt;p&gt;Den Teig nehmen und mit einem Nudelholz zu einem Rechteck auswallen. Die Crème auf die kurze Hälfte streichen, dabei einen Rand von 1cm frei lassen. Dann den Teig falten dabei den Teil mit der Crème bedecken. Abdecken und 1h gehen lassen.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-11-08-nodini-alla-vaniglia/crema.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-11-08-nodini-alla-vaniglia/chiuso.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Das Rechteck in 1.5cm breite Streifen schneiden, einen Streifen nehmen und etwas auseinander ziehen, sodass er sich verlängert. Den Streifen in sich drehen/schrauben, dann ein Ende auf die Arbeitsfläche legen und zu einem Knoten/Haufen aufwickeln. Das zweite Ende unter dem Knoten drücken. Die Knoten auf ein Backblech mit Backpapier darunter legen, aber nicht zu dicht beieinander, da sie noch etwas aufgehen. Abdecken und nochmals 1h aufgehen lassen.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-11-08-nodini-alla-vaniglia/strisce.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-11-08-nodini-alla-vaniglia/teglia.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vanille Knoten&lt;/strong&gt; im vorgeheizten Backofen bei 190°C Ober- und Unterhitze etwa 15min backen oder bis sie schön goldbraun gebacken sind. Aus dem Ofen nehmen und auf einem Auskühlgitter abkühlen lassen.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-11-08-nodini-alla-vaniglia/risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-11-08-nodini-alla-vaniglia/risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-11-08-nodini-alla-vaniglia/risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-11-08-nodini-alla-vaniglia/risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-11-08-nodini-alla-vaniglia/risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-11-08-nodini-alla-vaniglia/risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-11-08-nodini-alla-vaniglia/risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-11-08-nodini-alla-vaniglia/risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-11-08-nodini-alla-vaniglia/risultato9.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-11-08-nodini-alla-vaniglia/risultato10.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h4&gt;Buon appetito
+  &lt;font color=&quot;red&quot;&gt;
+    &lt;i class=&quot;fa-regular fa-face-smile&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt;
+&lt;/h4&gt;
+</content>
+    <summary type="html" xml:lang="de">
+    
+      &lt;p&gt;&lt;img src=&quot;../2023-11-08-nodini-alla-vaniglia/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vanille Knoten&lt;/strong&gt; herrlich flu
+    
+    </summary>
+    
+      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
+    
+      <category term="Panificati" scheme="https://frangipani.raiano.ch/categories/Dolce/Panificati/"/>
+    
+    
+      <category term="vaniglia" scheme="https://frangipani.raiano.ch/tags/vaniglia/"/>
+    
+      <category term="colazione" scheme="https://frangipani.raiano.ch/tags/colazione/"/>
+    
+  </entry>
+  
+  <entry>
     <title xml:lang="de">Spaghetti mit Tomatensugo und Mozzarella-Oliven-Augen</title>
     <link href="https://frangipani.raiano.ch/2023-10-24-spaghetti-mit-tomatensauce-und-mozzarella-oliven-augen/"/>
     <id>https://frangipani.raiano.ch/2023-10-24-spaghetti-mit-tomatensauce-und-mozzarella-oliven-augen/</id>
     <published>2023-10-23T22:00:00.000Z</published>
-    <updated>2023-10-23T08:55:09.733Z</updated>
+    <updated>2023-11-06T13:28:13.274Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2023-10-24-spaghetti-al-pomodoro-con-occhietti-di-mozzarella-e-olive-nere/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Spaghetti mit Tomatensugo und Mozzarella-Oliven-Augen&lt;/strong&gt; ein tolles Pastagericht für Halloween, bei dem ihr euch beobachtet fühlen werdet. Eine witzige und gruselige Art, ein ganz einfaches Gericht aus Spaghetti mit Tomaten zum Thema Halloween zu präsentieren. Und mit ganz wenig Aufwand könnt ihr eure kleinen Gäste oder Kinder eine Freude machen.
 &lt;br /&gt;
@@ -136,6 +312,8 @@ Wir lieben Pasta mit Tomatensugo, aber wenn ich Lust auf Spaghetti mit Sugo habe
     
     
       <category term="halloween" scheme="https://frangipani.raiano.ch/tags/halloween/"/>
+    
+      <category term="pasta" scheme="https://frangipani.raiano.ch/tags/pasta/"/>
     
       <category term="pomodoro" scheme="https://frangipani.raiano.ch/tags/pomodoro/"/>
     
@@ -3070,161 +3248,6 @@ In einer separaten Schüssel Stärke, Backpulver, Zimt und Nelkenpulver mischen.
       <category term="glutenfree" scheme="https://frangipani.raiano.ch/tags/glutenfree/"/>
     
       <category term="pasqua" scheme="https://frangipani.raiano.ch/tags/pasqua/"/>
-    
-  </entry>
-  
-  <entry>
-    <title xml:lang="de">Herzhafte Quark-Bärlauch-Pancakes</title>
-    <link href="https://frangipani.raiano.ch/2023-03-22-herzhafte-quark-barlauch-pancakes/"/>
-    <id>https://frangipani.raiano.ch/2023-03-22-herzhafte-quark-barlauch-pancakes/</id>
-    <published>2023-03-21T23:00:00.000Z</published>
-    <updated>2023-08-15T20:38:47.765Z</updated>
-    <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2023-03-22-pancake-salati-al-quark-e-aglio-orsino/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Herzhafte Quark-Bärlauch-Pancakes&lt;/strong&gt; sehr fluffig, schön schmackhaft aber zart zugleich. Dazu ein Karottensalat oder was auch immer ihr bevorzugt.
-&lt;br /&gt;
-Ich habe noch nie herzhafte Pfannkuchen gemacht, aber ich war schon lange neugierig darauf, also hier sind sie. Ich wollte sie mit Quark machen und da der Frühling endlich hier ist, habe ich noch Bärlauch dazugegeben, den wir hier in der Nähe gesammelt haben. Ihr könnt Bärlauch natürlich auch durch andere Kräuter wie Schnittlauch, Minze, Basilikum und/oder Petersilie ersetzen. Den Quark kann man problemlos auch durch Ricotta ersetzen.&lt;/p&gt;
-&lt;p&gt;Ich wollte diese herzhaften Pancakes mit einem ganz einfachen Karottensalat servieren. Einerseits, weil es mir wegen der Farben gefällt und andererseits im Moment nicht viel anderes zur Auswahl steht. Ich kann den Spargel, die frischen Erbsen, die Erdbeeren und all das Gute, das in den wärmeren Monaten wächst, kaum erwarten...&lt;/p&gt;
-&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
-  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
-    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
-      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Herzhafte Quark-Bärlauch-Pancakes&lt;/span&gt;
-      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Herzhaftes&lt;/span&gt;
-      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2023-03-22-pancake-salati-al-quark-e-aglio-orsino/header.jpeg&quot;/&gt;
-      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
-      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Herzhafte Quark-Bärlauch-Pancakes sehr fluffig, schön schmackhaft aber zart zugleich.&lt;/span&gt;
-      &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
-      &lt;table&gt;
-        &lt;tbody&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;3&lt;/td&gt;
-            &lt;td&gt;Eier&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;150gr&lt;/td&gt;
-            &lt;td&gt;Quark oder Ricotta&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;150ml&lt;/td&gt;
-            &lt;td&gt;Milch&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qs&lt;/td&gt;
-            &lt;td&gt;Bärlauch (und/oder andere Kräuter)&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;280gr&lt;/td&gt;
-            &lt;td&gt;Mehl&lt;/td&gt;     
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 Teelöffel&lt;/td&gt;
-            &lt;td&gt;Backpulver&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;2 Esslöffel&lt;/td&gt;
-            &lt;td&gt;geriebenen Parmesankäse&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qs&lt;/td&gt;
-            &lt;td&gt;Karotten&lt;/td&gt;     
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qs&lt;/td&gt;
-            &lt;td&gt;Salz&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qs&lt;/td&gt;
-            &lt;td&gt;Olivenöl&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qs&lt;/td&gt;
-            &lt;td&gt;Zitronensaft&lt;/td&gt;
-          &lt;/tr&gt;
-        &lt;/tbody&gt;
-      &lt;/table&gt;
-      &lt;br&gt;&lt;/br&gt;
-      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot;&gt;für ca. 15 Pancakes&lt;/i&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;h3&gt;
-  &lt;font color=&quot;grey&quot;&gt;
-    &lt;i class=&quot;fa-solid fa-gears&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt; Zubereitung
-&lt;/h3&gt;
-
-&lt;p&gt;Die Eier trennen und das Eiweiss mit einer Prise Salz zu Schnee schlagen, beiseite stellen. In eine separate Schüssel die Eigelbe mit dem Quark und einem Teelöffel Salz geben und mit einem Schneebesen gut vermischen. Die Milch hinzugeben und nochmals mischen, dann den fein gehackten Bärlauch dazugeben. An dieser Stelle Mehl, Backpulver und geriebenen Parmesan hinzugeben und gut vermischen. Zum Schluss das Eiweiss vorsichtig unterheben.&lt;/p&gt;
-&lt;p&gt;Eine beschichtete Bratpfanne erhitzen, leicht mit Butter einfetten, dann eine Schöpfkelle des Teigs hineingeben, wenn Platz ist, mehr gut verteilte Häufchen machen. Sobald auf der Oberfläche Bläschen/Löcher erscheinen und die Kontaktfläche mit der Pfanne eine goldbraune Farbe angenommen hat, können sie gewendet und auf der anderen Seite fertig gegart werden.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-03-22-pancake-salati-al-quark-e-aglio-orsino/impasto.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-03-22-pancake-salati-al-quark-e-aglio-orsino/padella.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Als Beilage könnt ihr die Karotten schälen und gleich mit dem Kartoffelschäler viele dünne Streifen schneiden. Mit Salz, Öl und Zitronensaft würzen. Legt einige &lt;strong&gt;herzhafte Quark-Bärlauch-Pancakes&lt;/strong&gt; auf einen Teller und legt die Karotten (oder anderes Gemüse) darauf.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-03-22-pancake-salati-al-quark-e-aglio-orsino/risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-03-22-pancake-salati-al-quark-e-aglio-orsino/risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-03-22-pancake-salati-al-quark-e-aglio-orsino/risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-03-22-pancake-salati-al-quark-e-aglio-orsino/risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-03-22-pancake-salati-al-quark-e-aglio-orsino/risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-03-22-pancake-salati-al-quark-e-aglio-orsino/risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-03-22-pancake-salati-al-quark-e-aglio-orsino/risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-03-22-pancake-salati-al-quark-e-aglio-orsino/risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-03-22-pancake-salati-al-quark-e-aglio-orsino/risultato9.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-03-22-pancake-salati-al-quark-e-aglio-orsino/risultato10.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;h4&gt;Buon appetito
-  &lt;font color=&quot;red&quot;&gt;
-    &lt;i class=&quot;fa-regular fa-face-smile&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt;
-&lt;/h4&gt;</content>
-    <summary type="html" xml:lang="de">
-    
-      &lt;p&gt;&lt;img src=&quot;../2023-03-22-pancake-salati-al-quark-e-aglio-orsino/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Herzhafte Quark-Bä
-    
-    </summary>
-    
-      <category term="Salato" scheme="https://frangipani.raiano.ch/categories/Salato/"/>
-    
-      <category term="Torte salate, Muffin salati..." scheme="https://frangipani.raiano.ch/categories/Salato/Torte-salate-Muffin-salati/"/>
-    
-    
-      <category term="pancakes" scheme="https://frangipani.raiano.ch/tags/pancakes/"/>
-    
-      <category term="Bärlauch" scheme="https://frangipani.raiano.ch/tags/Barlauch/"/>
     
   </entry>
   

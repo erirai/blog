@@ -4,7 +4,7 @@
   
   <link href="https://frangipani.raiano.ch/it/atom.xml" rel="self"/>
   <link href="https://frangipani.raiano.ch/"/>
-  <updated>2023-10-23T08:55:30.360Z</updated>
+  <updated>2023-11-06T13:28:03.309Z</updated>
   <id>https://frangipani.raiano.ch/</id>
   
   <author>
@@ -15,11 +15,187 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title xml:lang="it">Nodini alla Vaniglia</title>
+    <link href="https://frangipani.raiano.ch/2023-11-08-nodini-alla-vaniglia/"/>
+    <id>https://frangipani.raiano.ch/2023-11-08-nodini-alla-vaniglia/</id>
+    <published>2023-11-07T23:00:00.000Z</published>
+    <updated>2023-11-06T12:38:20.391Z</updated>
+    <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nodini alla Vaniglia&lt;/strong&gt; dei soffici dolcetti lievitati pazzeschi. Delicati, profumati... Così come devono essere i lievitati! Io vado matta per i lievitati alla crema, ma al posto della crema pasticcera potete usare la crema di nocciole, la crema di pistacchi, della confettura o marmellata o zucchero e cannella, a voi la scelta.&lt;/p&gt;
+&lt;p&gt;Il mio più grande debole sono proprio loro, i lievitati. Non resisto! Li amo tanto tanto, soprattutto quelli con la crema o la ricotta. Non scelgo praticamente mai quelli con il cioccolato, il pistacchio o la confettura. Se dovessi scegliere tra quei tre e un lievitato vuoto senza ripieno, penso sceglierei quello vuoto. Però quello vuoto dovrebbe avere lo zucchero semolato attorno, non so se mi spiego.&lt;/p&gt;
+&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
+  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
+    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
+      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Nodini alla Vaniglia&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Dolce&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Nodini alla Vaniglia, dei soffici dolcetti lievitati pazzeschi. Delicati, profumati...&lt;/span&gt;
+      &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
+      &lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;     
+            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Pasta Lievita&lt;/b&gt;&lt;/td&gt;
+          &lt;/tr&gt; 
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;250gr&lt;/td&gt;
+            &lt;td&gt;farina&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;35gr&lt;/td&gt;
+            &lt;td&gt;zucchero&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1/2 cucchiaino&lt;/td&gt;
+            &lt;td&gt;sale&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;100ml&lt;/td&gt;
+            &lt;td&gt;latte&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;20gr&lt;/td&gt;
+            &lt;td&gt;burro&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;2gr&lt;/td&gt;
+            &lt;td&gt;lievito fresco&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1&lt;/td&gt;
+            &lt;td&gt;uovo piccolino&lt;/td&gt;
+         &lt;tr&gt;
+            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Crema Pasticcera&lt;/b&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;250ml&lt;/td&gt;
+            &lt;td&gt;latte&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1&lt;/td&gt;
+            &lt;td&gt;stecca di vaniglia&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1&lt;/td&gt;
+            &lt;td&gt;uovo&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;30gr&lt;/td&gt;
+            &lt;td&gt;zucchero&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;20gr&lt;/td&gt;
+            &lt;td&gt;farina&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 pizzico&lt;/td&gt;
+            &lt;td&gt;sale&lt;/td&gt;      
+        &lt;/tbody&gt;
+      &lt;/table&gt;
+      &lt;br&gt;&lt;/br&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h3&gt;
+  &lt;font color=&quot;grey&quot;&gt;
+    &lt;i class=&quot;fa-solid fa-gears&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt; Preparazione
+&lt;/h3&gt;
+
+&lt;p&gt;Per la pasta lievita mettete farina, zucchero e sale nella planetaria e mescolate. In un pentolino a parte, fate riscaldare leggermente il latte con il burro. Togliete dai fornelli e fate sciogliere il lievito nel latte e burro. Aggiungete anche questo nella planetaria, più l&amp;#39;uovo leggermente sbattuto. Fate impastare per ca. 10min a velocità media. Otterrete un impasto bello morbido, liscio e non appiccicoso. Chiudete e fate lievitare almeno 8h a temperatura ambiente o finché avrà raddoppiato il suo volume.
+&lt;br /&gt;
+Per la crema montate l&amp;#39;uovo con lo zucchero ed un pizzico di sale finché sarà chiaro e gonfio. A questo punto aggiungete la fecola e mescolate. In una pentola capiente portate ad ebollizione il latte con la stecca di vaniglia precedentemente aperta. Appena il latte bolle, togliete dai fornelli, versate il composto con l&amp;#39;uovo nella pentola con il latte, mescolate velocemente e mettete di nuovo sui fornelli. Appena bolle, iniziate a mescolare, la crema sarà già densa e pronta. Fatela raffreddare coperta a contatto con la pellicola.&lt;/p&gt;
+&lt;p&gt;Prendete l&amp;#39;impasto e aiutandovi con un mattarello stendetelo formando un rettangolo. Spalmate sulla metà corta la crema, lasciando un bordo di 1cm. Poi piegate l&amp;#39;impasto a metà coprendo la parte con la crema. Coprite e fate lievitare per un&amp;#39;oretta.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;crema.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;chiuso.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Tagliate il rettangolo a strisce da 1.5cm, prendete una striscia e tiratela facendola allungare e girate la striscia su se stessa (tipo avvitandola). Poi appoggiate un lembo sul piano da lavoro e iniziate ad avvolgerlo formando un nodino/mucchietto, la punta finale mettetela sotto il nodo. Appoggiate i nodini su di una teglia con sotto della carta forno, ma non troppo vicini perché cresceranno ancora un po&amp;#39;. Copriteli e fateli lievitare per un&amp;#39;oretta.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;strisce.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;teglia.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Infornate i &lt;strong&gt;Nodini alla Vaniglia&lt;/strong&gt; nel forno preriscaldato a 190°C statico per 15min circa o finché avranno un bel colore dorato. Usciteli dal forno e fateli intiepidire su di una griglia.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato9.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato10.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h4&gt;Buon appetito
+  &lt;font color=&quot;red&quot;&gt;
+    &lt;i class=&quot;fa-regular fa-face-smile&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt;
+&lt;/h4&gt;
+</content>
+    <summary type="html" xml:lang="it">
+    
+      &lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nodini alla Vaniglia&lt;/strong&gt; dei soffici dolcetti lievitati pazzeschi.
+    
+    </summary>
+    
+      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
+    
+      <category term="Panificati" scheme="https://frangipani.raiano.ch/categories/Dolce/Panificati/"/>
+    
+    
+      <category term="vaniglia" scheme="https://frangipani.raiano.ch/tags/vaniglia/"/>
+    
+      <category term="colazione" scheme="https://frangipani.raiano.ch/tags/colazione/"/>
+    
+  </entry>
+  
+  <entry>
     <title xml:lang="it">Spaghetti al Pomodoro con Occhietti di Mozzarella e Olive Nere</title>
     <link href="https://frangipani.raiano.ch/2023-10-24-spaghetti-al-pomodoro-con-occhietti-di-mozzarella-e-olive-nere/"/>
     <id>https://frangipani.raiano.ch/2023-10-24-spaghetti-al-pomodoro-con-occhietti-di-mozzarella-e-olive-nere/</id>
     <published>2023-10-23T22:00:00.000Z</published>
-    <updated>2023-10-23T08:55:30.360Z</updated>
+    <updated>2023-11-06T13:28:03.309Z</updated>
     <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Spaghetti al Pomodoro con Occhietti di Mozzarella e Olive Nere&lt;/strong&gt; un ottimo piatto di pasta per Halloween che vi farà sentire osservati. Un modo spiritoso, anzi pauroso, per presentare un semplicissimo piatto di spaghetti al pomodoro in tema di Halloween. In più con pochissimo sforzo potete rendere felici i vostri piccoli ospiti o i vostri bimbi.
 &lt;br /&gt;
@@ -136,6 +312,8 @@ Noi amiamo la pasta col sugo, ma quando ho voglia di spaghetti al pomodoro, il s
     
     
       <category term="halloween" scheme="https://frangipani.raiano.ch/tags/halloween/"/>
+    
+      <category term="pasta" scheme="https://frangipani.raiano.ch/tags/pasta/"/>
     
       <category term="pomodoro" scheme="https://frangipani.raiano.ch/tags/pomodoro/"/>
     
@@ -3074,161 +3252,6 @@ In una ciotolina a parte mescolate l&amp;#39;amido, il lievito, la cannella ed i
       <category term="glutenfree" scheme="https://frangipani.raiano.ch/tags/glutenfree/"/>
     
       <category term="pasqua" scheme="https://frangipani.raiano.ch/tags/pasqua/"/>
-    
-  </entry>
-  
-  <entry>
-    <title xml:lang="it">Pancake salati al Quark e Aglio Orsino</title>
-    <link href="https://frangipani.raiano.ch/2023-03-22-pancake-salati-al-quark-e-aglio-orsino/"/>
-    <id>https://frangipani.raiano.ch/2023-03-22-pancake-salati-al-quark-e-aglio-orsino/</id>
-    <published>2023-03-21T23:00:00.000Z</published>
-    <updated>2023-08-15T20:38:47.765Z</updated>
-    <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Pancake salati al Quark e Aglio Orsino&lt;/strong&gt; sofficissimi, belli saporiti ma delicati allo stesso tempo. Accompagnati da un&amp;#39;insalatina di carote o con quello che preferite voi.
-&lt;br /&gt;
-Non avevo mai fatto i pancake salati, ma la cosa ormai mi incuriosiva da tantissimo tempo, quindi eccoli qui. Li ho voluti fare con il Quark e siccome la primavera è arrivata, ho messo anche l&amp;#39;aglio orsino che siamo andati a raccogliere qui vicino. Ovviamente potete sostituire l&amp;#39;aglio orsino con altre erbe aromatiche, come l&amp;#39;erba cipollina, la menta, il basilico e/o il prezzemolo. Se non trovate il Quark (a quanto pare non è facile trovarlo il Italia) potete sostituirlo con la ricotta.&lt;/p&gt;
-&lt;p&gt;Ho voluto servire questi Pancake salati con una semplicissima insalatina di carote. Da una parte perchè mi piace per via dei colori e poi al momento non c&amp;#39;è molto altro da scegliere. Non vedo l&amp;#39;ora che arrivino gli asparagi, i piselli freschi, le fragole e tutte quelle bontà che crescono durante la bella stagione...&lt;/p&gt;
-&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
-  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
-    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
-      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Pancake salati al Quark e Aglio Orsino&lt;/span&gt;
-      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Salato&lt;/span&gt;
-      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;header.jpeg&quot;/&gt;
-      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
-      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Pancake salati al Quark e Aglio Orsino sofficissimi, belli saporiti ma delicati allo stesso tempo.&lt;/span&gt;
-      &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
-      &lt;table&gt;
-        &lt;tbody&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;3&lt;/td&gt;
-            &lt;td&gt;uova&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;150gr&lt;/td&gt;
-            &lt;td&gt;ricotta o Quark&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;150ml&lt;/td&gt;
-            &lt;td&gt;latte&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qb&lt;/td&gt;
-            &lt;td&gt;aglio orsino (e/o altre erbe aromatiche)&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;280gr&lt;/td&gt;
-            &lt;td&gt;farina&lt;/td&gt;     
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 cucchiaino&lt;/td&gt;
-            &lt;td&gt;lievito per dolci&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;2 cucchiai&lt;/td&gt;
-            &lt;td&gt;parmigiano grattugiato&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qb&lt;/td&gt;
-            &lt;td&gt;carote&lt;/td&gt;     
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qb&lt;/td&gt;
-            &lt;td&gt;sale&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qb&lt;/td&gt;
-            &lt;td&gt;olio evo&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qb&lt;/td&gt;
-            &lt;td&gt;succo di limone&lt;/td&gt;
-          &lt;/tr&gt;
-        &lt;/tbody&gt;
-      &lt;/table&gt;
-      &lt;br&gt;&lt;/br&gt;
-      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot;&gt;per ca. 15 pancake&lt;/i&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;h3&gt;
-  &lt;font color=&quot;grey&quot;&gt;
-    &lt;i class=&quot;fa-solid fa-gears&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt; Preparazione
-&lt;/h3&gt;
-
-&lt;p&gt;Separate le uova e montate a neve gli albumi con un pizzico di sale, mettete da parte. In una ciotola a parte mettete i tuorli con il Quark ed un cucchiaino di sale e amalgamate bene con una frusta a mano. Aggiungete il latte e mescolate ancora, poi incorporate l&amp;#39;aglio orsino tritato finemente. A questo punto aggiungete la farina, il lievito per dolci ed il parmigiano grattugiato e mescolate bene il tutto. Per ultimo incorporate delicatamente gli albumi con un movimento dall&amp;#39;alto verso il basso.&lt;/p&gt;
-&lt;p&gt;Riscaldate una padella antiaderente, ungete leggermente con del burro poi aggiungete un mestolino dell&amp;#39;impasto, se c&amp;#39;è posto fate più mucchietti ben distanziati. Quando inizierà a fare dei buchini e la superficie a contatto con la padella avrà preso un bel colorito, potete girarli e finire la cottura anche dall&amp;#39;altra parte.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;impasto.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;padella.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Come accompagnamento potete pelare le carote e con lo stesso pelapatate ricavarne tante strisce sottili. Conditele con sale, olio e succo di limone. Adagiate qualche &lt;strong&gt;Pancake salato al Quark e Aglio Orsino&lt;/strong&gt; su di un piatto e sopra mettete le carote (o altre verdure).&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato9.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato10.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;h4&gt;Buon appetito
-  &lt;font color=&quot;red&quot;&gt;
-    &lt;i class=&quot;fa-regular fa-face-smile&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt;
-&lt;/h4&gt;</content>
-    <summary type="html" xml:lang="it">
-    
-      &lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Pancake salati al Quark e Aglio Orsino&lt;/strong&gt; sofficissimi, belli sap
-    
-    </summary>
-    
-      <category term="Salato" scheme="https://frangipani.raiano.ch/categories/Salato/"/>
-    
-      <category term="Torte salate, Muffin salati..." scheme="https://frangipani.raiano.ch/categories/Salato/Torte-salate-Muffin-salati/"/>
-    
-    
-      <category term="pancakes" scheme="https://frangipani.raiano.ch/tags/pancakes/"/>
-    
-      <category term="Bärlauch" scheme="https://frangipani.raiano.ch/tags/Barlauch/"/>
     
   </entry>
   
