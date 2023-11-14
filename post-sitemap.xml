@@ -9,6 +9,30 @@
 
 
     <url>
+        <loc>https://frangipani.raiano.ch/2023-11-15-muffin-alle-noci-e-miele/</loc>
+        <lastmod>2023-11-13T09:48:10.956Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2017-11-20-linzertorte-vegana/</loc>
+        <lastmod>2023-11-08T15:04:46.332Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2017-11-20-vegane-linzer-torte/</loc>
+        <lastmod>2023-11-08T14:15:14.399Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://frangipani.raiano.ch/2022-12-13-pistazien-roulade-mit-orangen-und-mascarponecreme/</loc>
         <lastmod>2023-11-06T13:30:58.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -35,6 +59,14 @@
     <url>
         <loc>https://frangipani.raiano.ch/2023-10-24-spaghetti-al-pomodoro-con-occhietti-di-mozzarella-e-olive-nere/</loc>
         <lastmod>2023-11-06T13:28:03.309Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2023-11-15-baumnuss-honig-muffins/</loc>
+        <lastmod>2023-11-06T13:23:02.071Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -5186,22 +5218,6 @@
 
     <url>
         <loc>https://frangipani.raiano.ch/2017-10-30-pumpkin-cinnamon-rolls-de/</loc>
-        <lastmod>2023-08-15T20:38:47.685Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2017-11-20-linzertorte-vegana/</loc>
-        <lastmod>2023-08-15T20:38:47.685Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2017-11-20-linzertorte-vegana-de/</loc>
         <lastmod>2023-08-15T20:38:47.685Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>

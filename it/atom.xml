@@ -4,7 +4,7 @@
   
   <link href="https://frangipani.raiano.ch/it/atom.xml" rel="self"/>
   <link href="https://frangipani.raiano.ch/"/>
-  <updated>2023-11-06T13:28:03.309Z</updated>
+  <updated>2023-11-13T09:48:10.956Z</updated>
   <id>https://frangipani.raiano.ch/</id>
   
   <author>
@@ -13,6 +13,149 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title xml:lang="it">Muffin alle Noci e Miele</title>
+    <link href="https://frangipani.raiano.ch/2023-11-15-muffin-alle-noci-e-miele/"/>
+    <id>https://frangipani.raiano.ch/2023-11-15-muffin-alle-noci-e-miele/</id>
+    <published>2023-11-14T23:00:00.000Z</published>
+    <updated>2023-11-13T09:48:10.956Z</updated>
+    <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Pubblicità: &lt;strong&gt;Muffin alle Noci e Miele&lt;/strong&gt; in collaborazione con &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt;. Dei Muffin sofficissimi, super autunnali, pieni di noci e belli mielosi. Sono fatti &amp;quot;senza aggiunta di zucchero&amp;quot; ma dolcificati solo con il miele. Questi Muffin sono vegani, se fate parte di quei vegani che mangiano il miele, altrimenti potete sostituire il miele con lo zucchero.
+&lt;br /&gt;
+Il miele si sente molto, quindi vi consiglio di usare del miele che vi piace. Il mio miele preferito è quello di fiori d&amp;#39;arancio che ho preso su &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt; come anche le noci, lo yogurt vegetale e l&amp;#39;amido.
+&lt;img src=&quot;spesa.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Potete tranquillamente aggiungere anche delle gocce di cioccolato o altra frutta secca. Se li avessi preparati solo per i miei bimbi, avrei messo anche l&amp;#39;uvetta.&lt;/p&gt;
+&lt;p&gt;E si possono anche acquistare pirottini per muffin su &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt;. Così come muffin molto buoni, perché ogni tanto si può semplicemente essere pigri e lasciarli fare dai professionisti.&lt;/p&gt;
+&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
+  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
+    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
+      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Muffin alle Noci e Miele&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Dolce&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Muffin alle Noci e Miele, dei Muffin sofficissimi, super autunnali, pieni di noci e belli mielosi.&lt;/span&gt;
+      &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
+      &lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;200gr&lt;/td&gt;
+            &lt;td&gt;farina&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;40gr&lt;/td&gt;
+            &lt;td&gt;amido o fecola&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;9gr&lt;/td&gt;
+            &lt;td&gt;lievito per dolci&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 pizzico&lt;/td&gt;
+            &lt;td&gt;sale&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;200gr&lt;/td&gt;
+            &lt;td&gt;yogurt naturale vegetale&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;100gr&lt;/td&gt;
+            &lt;td&gt;olio di semi&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;80gr&lt;/td&gt;
+            &lt;td&gt;miele o zucchero&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qb&lt;/td&gt;
+            &lt;td&gt;essenza di vaniglia&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;60gr&lt;/td&gt;
+            &lt;td&gt;noci sgusciate e tritate grossolanamente&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;
+      &lt;br&gt;&lt;/br&gt;
+      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot; itemprop=&quot;recipeYield&quot;&gt;per 12 Muffin&lt;/i&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h3&gt;
+  &lt;font color=&quot;grey&quot;&gt;
+    &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt; Preparazione
+&lt;/h3&gt;
+
+&lt;p&gt;In una coppa capiente mettete farina, amido, lievito per dolci ed un pizzico di sale e mescolate. Adesso aggiungete lo yogurt e l&amp;#39;olio, date una mescolata veloce, poi aggiungete anche il miele e l&amp;#39;essenza di vaniglia (se usate lo zucchero al posto del miele mettete lo zucchero insieme alla farina) e amalgamate bene il tutto. Per ultimo aggiungete le noci e incorporatele bene. Aiutandovi con un porzionatore per gelato riempite i pirottini per Muffin riempendoli fino a 3/4.
+&lt;img src=&quot;teglia.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Infornate i &lt;strong&gt;Muffin alle Noci e Miele&lt;/strong&gt; nel forno preriscaldato a 200°C statico per 20min, mi raccomando fate sempre la prova stecchino.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato9.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato10.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h4&gt;Buon appetito
+  &lt;font color=&quot;red&quot;&gt;
+    &lt;i class=&quot;fa-regular fa-face-smile&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt;
+&lt;/h4&gt;</content>
+    <summary type="html" xml:lang="it">
+    
+      &lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Pubblicità: &lt;strong&gt;Muffin alle Noci e Miele&lt;/strong&gt; in collaborazione con &lt;a 
+    
+    </summary>
+    
+      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
+    
+      <category term="Muffin, Cupcakes, Cake Pops..." scheme="https://frangipani.raiano.ch/categories/Dolce/Muffin-Cupcakes-Cake-Pops/"/>
+    
+    
+      <category term="vegan" scheme="https://frangipani.raiano.ch/tags/vegan/"/>
+    
+      <category term="noci" scheme="https://frangipani.raiano.ch/tags/noci/"/>
+    
+      <category term="autunno" scheme="https://frangipani.raiano.ch/tags/autunno/"/>
+    
+  </entry>
   
   <entry>
     <title xml:lang="it">Nodini alla Vaniglia</title>
@@ -3105,153 +3248,6 @@ Riprendete l&amp;#39;impasto e con l&amp;#39;aiuto di un matterello formate un r
       <category term="panificati" scheme="https://frangipani.raiano.ch/tags/panificati/"/>
     
       <category term="colazione" scheme="https://frangipani.raiano.ch/tags/colazione/"/>
-    
-  </entry>
-  
-  <entry>
-    <title xml:lang="it">Torta di Carote Svizzera (Aargauer Rüeblitorte)</title>
-    <link href="https://frangipani.raiano.ch/2023-03-28-torta-di-carote-svizzera/"/>
-    <id>https://frangipani.raiano.ch/2023-03-28-torta-di-carote-svizzera/</id>
-    <published>2023-03-27T22:00:00.000Z</published>
-    <updated>2023-08-15T20:38:47.765Z</updated>
-    <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Torta di Carote Svizzera (Aargauer Rüeblitorte)&lt;/strong&gt;, mi dispiace, ma non esiste torta di carote più buona al mondo, inoltre è pure senza glutine e lattosio. È un classico della tradizione svizzera e deve avere esattamente queste caratteristiche: umida, rustica, un leggerissimo gusto di cannella e chiodi di garofano e una glassa al limone. Le carotine di marzapane sono un optional, ma diciamo che completano il tutto, tadizionalmente vanno messe. &lt;/p&gt;
-&lt;p&gt;È una torta senza glutine e senza lattosio. Una di quelle torte dove aggiungi gli albumi separatamente. È una torta che richiede un po&amp;#39; di tempo per prepararla perché si devono montare le uova con lo zucchero, si devono grattugiare finemente le carote, poi devi montare gli albumi, incorporare a mano gli albumi e infine l&amp;#39;amido e le spezie. E la cottura è anche lunghina, ma vi assicuro che ne vale assolutissimamente la pena.
-&lt;br /&gt;
-Lo so, non tutti amano la glassa di zucchero, neanche io, ma in questo caso ci sta. Ci sta benissimo il gusto del limone con il sapore delle carote e delle mandorle. Io vi consiglio di metterla, ma volendo va bene anche un frosting al formaggio, una spolverata di zucchero a velo o semplicemente niente.&lt;/p&gt;
-&lt;p&gt;Non facevo questa torta esattamente da 8 anni, quando ero incinta di Gioele. Mi ricordo che una sera mi venne una matta ed improvvisa voglia di questa torta di carote. Erano già passate le 19 quindi il supermercato in paese era già chiuso. Dovetti farmela io. Preparai la torta, ne mangiai un pezzo, andai a letto felice. Perché proprio questa torta di carote? Boh, non lo so... Chiedete a Gioele!
-&lt;br /&gt;
-Non l&amp;#39;ho mai più fatta, ma ce l&amp;#39;avevo sempre in qualche parte nella mia testa perché volevo proprio metterla nel Blog. Ammetto che quest&amp;#39;anno proprio non sapevo che ricetta preparare per Pasqua, quindi pensai che fosse la volta buona per rifare questa &lt;strong&gt;Torta di Carote Svizzera&lt;/strong&gt;. Ed eccola a voi. La amerete!&lt;/p&gt;
-&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
-  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
-    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
-      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Torta di Carote Svizzera (Aargauer Rüeblitorte)&lt;/span&gt;
-      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Dolce&lt;/span&gt;
-      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;header.jpeg&quot;/&gt;
-      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
-      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Torta di Carote Svizzera (Aargauer Rüeblitorte), mi dispiace, ma non esiste torta di carote più buona al mondo, inoltre è pure senza glutine e lattosio.&lt;/span&gt;
-      &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
-      &lt;table&gt;
-        &lt;tbody&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;3&lt;/td&gt;
-            &lt;td&gt;uova&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;150gr&lt;/td&gt;
-            &lt;td&gt;zucchero&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 pizzico&lt;/td&gt;
-            &lt;td&gt;sale&lt;/td&gt;
-           &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1&lt;/td&gt;
-            &lt;td&gt;limone&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;180gr&lt;/td&gt;
-            &lt;td&gt;carote grattugiate finemente&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;180gr&lt;/td&gt;
-            &lt;td&gt;mandorle macinate&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;25gr&lt;/td&gt;
-            &lt;td&gt;fecola di patate o simile&lt;/td&gt;
-           &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 cucchiaino raso&lt;/td&gt;
-            &lt;td&gt;lievito per dolci&lt;/td&gt; 
-           &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 pizzico&lt;/td&gt;
-            &lt;td&gt;cannella in polvere&lt;/td&gt; 
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 pizzico&lt;/td&gt;
-            &lt;td&gt;chiodi di garofano in polvere&lt;/td&gt;
-           &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;60gr&lt;/td&gt;
-            &lt;td&gt;zucchero a velo&lt;/td&gt;     
-          &lt;/tr&gt;
-        &lt;/tbody&gt;
-      &lt;/table&gt;
-      &lt;br&gt;&lt;/br&gt;
-      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot;&gt;per una tortiera rotonda da 20cm&lt;/i&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;h3&gt;
-  &lt;font color=&quot;grey&quot;&gt;
-    &lt;i class=&quot;fa-solid fa-gears&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt; Preparazione
-&lt;/h3&gt;
-
-&lt;p&gt;Separate gli albumi dai tuorli. Montate i tuorli con 115gr di zucchero, il sale e la scorza del limone finché non saranno belli chiari e gonfi. Aggiungete le carote precedentemente grattugiate finemente mischiate con un cucchiaio di succo di limone e le mandorle. Amalgamate bene.
-&lt;br /&gt;
-Monate a neve gli albumi, appena inizano a diventare bianchi, aggiungete poco alla volta i restanti 35gr di zucchero. Prendete il composto con le carote e con un leccapentole incorporate con un movimento dall&amp;#39;alto verso il basso pochi alla volta gli albumi.
-&lt;br /&gt;
-In una ciotolina a parte mescolate l&amp;#39;amido, il lievito, la cannella ed i chiodi di garofano. Setacciate queste polveri direttamente sopra l&amp;#39;impasto, poi incorporate delicatamente senza farlo smontare. Versate l&amp;#39;impasto in una teglia rotonda foderata con della carta forno.
-&lt;img src=&quot;teglia.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Infornate la &lt;strong&gt;Torta di Carote Svizzera&lt;/strong&gt; nel forno preriscaldato statico a 180°C nella parte bassa del forno per 50-60min, fate sempre la prova stecchino, ma comunque la torta rimane umidina. Lasciate la torta ancora un po&amp;#39; nel forno spento e aperto, poi sfornatela e una volta fredda passatela su di un piatto da portata.&lt;/p&gt;
-&lt;p&gt;Preparate la glassa allo zucchero mescolando lo zucchero a velo con un pochino di succo di limone alla volta, dovrà essere densa ma fluida. Poi spalmate la glassa sulla superficie e fatela asciugare. Per ultimo aggiungete le carotine di marzapane (sono un optional, ma tradizionalmente ci vanno).&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;h4&gt;Buon appetito
-  &lt;font color=&quot;red&quot;&gt;
-    &lt;i class=&quot;fa-regular fa-face-smile&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt;
-&lt;/h4&gt;</content>
-    <summary type="html" xml:lang="it">
-    
-      &lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Torta di Carote Svizzera (Aargauer Rüeblitorte)&lt;/strong&gt;, mi dispiace, 
-    
-    </summary>
-    
-      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
-    
-      <category term="Torte" scheme="https://frangipani.raiano.ch/categories/Dolce/Torte/"/>
-    
-    
-      <category term="glutenfree" scheme="https://frangipani.raiano.ch/tags/glutenfree/"/>
-    
-      <category term="pasqua" scheme="https://frangipani.raiano.ch/tags/pasqua/"/>
     
   </entry>
   
