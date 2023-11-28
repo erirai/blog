@@ -4,7 +4,7 @@
   
   <link href="https://frangipani.raiano.ch/it/atom.xml" rel="self"/>
   <link href="https://frangipani.raiano.ch/"/>
-  <updated>2023-11-13T09:48:10.956Z</updated>
+  <updated>2023-11-16T13:14:14.729Z</updated>
   <id>https://frangipani.raiano.ch/</id>
   
   <author>
@@ -13,6 +13,148 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title xml:lang="it">Spaghetti all&#39;Arancia con Semi di Papavero</title>
+    <link href="https://frangipani.raiano.ch/2023-11-29-spaghetti-all-arancia-con-semi-di-papavero/"/>
+    <id>https://frangipani.raiano.ch/2023-11-29-spaghetti-all-arancia-con-semi-di-papavero/</id>
+    <published>2023-11-28T23:00:00.000Z</published>
+    <updated>2023-11-16T13:14:14.729Z</updated>
+    <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Spaghetti all&amp;#39;Arancia con Semi di Papavero&lt;/strong&gt; un piatto di pasta delicato, fresco, vegano e con una nota croccante. Basta il tempo della cottura della pasta per prepararlo ed avrete un piatto speciale e perché no, anche molto festivo (Natale è ormai alle porte).&lt;/p&gt;
+&lt;p&gt;Sul mio Blog ho già la ricetta dei &lt;a href=&quot;/2016-02-01-spaghetti-al-limone-con-pangrattato-alle-erbette/&quot;&gt;Spaghetti al Limone con Pangrattato alle Erbette&lt;/a&gt; e anche il &lt;a href=&quot;/2016-12-27-risotto-all-arancia/&quot;&gt;Risotto all&amp;#39;Arancia&lt;/a&gt; ma non avevo ancora fatto la pasta con una salsa all&amp;#39;arancia. All&amp;#39;inizio volevo andare sul classico per dare la nota croccante, ovvero aggiungere alla fine dei pistacchi tritati tostati. Poi però ho cambiato idea e ho messo i semi di papavero che secondo me si sposano benissimo con gli agrumi. Quindi se preferite i pistacchi, mettete tranquillamente i pistacchi.
+&lt;br /&gt;
+Questo piatto è vegano, perché per renderlo più cremoso ho aggiunto della panna vegetale. Non so perché, ma quando lavoro con gli agrumi, preferisco non usare latticini. In più con la panna vegetale non si appesantisce il piatto...&lt;/p&gt;
+&lt;p&gt;E con infinita gioia saluto Novembre! Ormai lo sapete... non mi piace proprio questo mese e non si è smentito affatto, neanche ci prova a farsi piacere. Grigio su grigio praticamente tutto il mese, una settimana sono stata senza voce, qualche giorno dopo di nuovo malaticcia, ma fortunatamente ci siamo ripresi presto. Ho già messo tutte le decorazioni natalizie che non se ne poteva più di quel grigiore... e direi di dare definitivamente il via alla pasticceria natalizia!&lt;/p&gt;
+&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
+  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
+    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
+      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Spaghetti all&#39;Arancia con Semi di Papavero&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Salato&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Spaghetti all&#39;Arancia con Semi di Papavero, un piatto di pasta delicato, fresco, vegano e con una nota croccante.&lt;/span&gt;
+      &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
+      &lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;350gr&lt;/td&gt;
+            &lt;td&gt;Spaghetti&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qb&lt;/td&gt;
+            &lt;td&gt;olio evo&lt;/td&gt;
+          &lt;/tr&gt; 
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1&lt;/td&gt;
+            &lt;td&gt;cipolla piccolina&lt;/td&gt;
+          &lt;/tr&gt;  
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1-2&lt;/td&gt;
+            &lt;td&gt;arance&lt;/td&gt;
+          &lt;/tr&gt;  
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;250ml&lt;/td&gt;
+            &lt;td&gt;panna vegetale&lt;/td&gt;
+          &lt;/tr&gt;      
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qb&lt;/td&gt;
+            &lt;td&gt;sale&lt;/td&gt;
+          &lt;/tr&gt;  
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qb&lt;/td&gt;
+            &lt;td&gt;prezzemolo&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qb&lt;/td&gt;
+            &lt;td&gt;semi di papavero&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;
+      &lt;br&gt;&lt;/br&gt;
+      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot; itemprop=&quot;recipeYield&quot;&gt;per 4 persone&lt;/i&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h3&gt;
+  &lt;font color=&quot;grey&quot;&gt;
+    &lt;i class=&quot;fa-solid fa-gears&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt; Preparazione
+&lt;/h3&gt;
+
+&lt;p&gt;In una padella capiente fate rosolare la cipolla tagliata molto finemente con un filo d&amp;#39;olio ed una spolverata di sale. Aggiungete il succo di 1-2 arance e la panna vegetale. Abbassate un po&amp;#39; la temperatura, coprite con un coperchio e fate andare finché si sarà addensata leggermente e aggiustate di sale.&lt;/p&gt;
+&lt;p&gt;Nel frattempo portate ad ebollizione l&amp;#39;acqua per la pasta, buttate gli spaghetti e salate l&amp;#39;acqua. Scolateli leggermente al dente e versateli direttamente nella padella con la salsa all&amp;#39;arancia e finite la cottura aggiungendo man mano un pochino d&amp;#39;acqua di cottura degli spaghetti. Alla fine aggiungete il prezzemolo fresco.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;spaghetti.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;occhi.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Impiattate e se volete mettete una spolverata di semi di papavero precedentemente tostati (se non avete si semi di papavero o non vi piacciono, potete sostituirli con dei pistacchi tritati).&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h4&gt;Buon appetito
+  &lt;font color=&quot;red&quot;&gt;
+    &lt;i class=&quot;fa-regular fa-face-smile&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt;
+&lt;/h4&gt;</content>
+    <summary type="html" xml:lang="it">
+    
+      &lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Spaghetti all&amp;#39;Arancia con Semi di Papavero&lt;/strong&gt; un piatto di pa
+    
+    </summary>
+    
+      <category term="Salato" scheme="https://frangipani.raiano.ch/categories/Salato/"/>
+    
+      <category term="Primi Piatti" scheme="https://frangipani.raiano.ch/categories/Salato/Primi-Piatti/"/>
+    
+    
+      <category term="vegan" scheme="https://frangipani.raiano.ch/tags/vegan/"/>
+    
+      <category term="natale" scheme="https://frangipani.raiano.ch/tags/natale/"/>
+    
+      <category term="pasta" scheme="https://frangipani.raiano.ch/tags/pasta/"/>
+    
+      <category term="inverno" scheme="https://frangipani.raiano.ch/tags/inverno/"/>
+    
+      <category term="arance" scheme="https://frangipani.raiano.ch/tags/arance/"/>
+    
+  </entry>
   
   <entry>
     <title xml:lang="it">Muffin alle Noci e Miele</title>
@@ -3061,193 +3203,6 @@ Fate sciogliere a Bagnomaria i restanti 50gr di cioccolato fondente, poi fatelo 
       <category term="cioccolato" scheme="https://frangipani.raiano.ch/tags/cioccolato/"/>
     
       <category term="festa del papà" scheme="https://frangipani.raiano.ch/tags/festa-del-papa/"/>
-    
-  </entry>
-  
-  <entry>
-    <title xml:lang="it">Brioche Suisse</title>
-    <link href="https://frangipani.raiano.ch/2023-04-12-brioche-suisse/"/>
-    <id>https://frangipani.raiano.ch/2023-04-12-brioche-suisse/</id>
-    <published>2023-04-11T22:00:00.000Z</published>
-    <updated>2023-08-15T20:38:47.764Z</updated>
-    <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Brioche Suisse&lt;/strong&gt; delle brioches francesi sofficissime con un ripieno di crema pasticcera e gocce di cioccolato. Inutile dirvi che sono divine!&lt;/p&gt;
-&lt;p&gt;Non conoscevo queste brioches, le ho viste tempo fa in una rivista e anche a Parigi dove siamo stati l&amp;#39;anno scorso. Dunque, io ho una grandissima debolezza per i lievitati, quindi appena vedo queste cose, addio. La &lt;strong&gt;Brioche Suisse&lt;/strong&gt; è una viennoiserie, ovvero un dolce da forno la cui preparazione è simile al pane. In Francia fanno infatti la distinzione tra viennoiserie, dolci da forno, e pâtisserie, dolci alle creme.
-&lt;br /&gt;
-L&amp;#39;impasto è molto morbido, quindi per poterlo lavorare bene, dopo la lievitazione, va messo un po&amp;#39; in frigo e in freezer. È la prima volta che lavoro un impasto per lievitati con così tante uova e con il metodo di raffreddamento in frigo e freezer.&lt;/p&gt;
-&lt;p&gt;Il risultato è fantastico, un po&amp;#39; diverso dal nostro impasto brioche. Bisogna veramente impastare un bel po&amp;#39;. L&amp;#39;impasto deve diventare liscio, staccarsi completamente dalle pareti della ciotola e quindi incordarsi. In questo modo l&amp;#39;impasto non sarà appiccicoso. Io come sempre uso poco lievito, se voi avete fretta, usate più lievito. Nella ricetta originale vanno messe le gocce di cioccolato, io in alternativa ho messo il cioccolato fondente tagliato a pezzettini, perché sinceramente preferisco quello.
-&lt;br /&gt;
-Se vi avanzano, potete chiuderli ermeticamente e il giorno dopo saranno ancora sofficissimi!&lt;/p&gt;
-&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
-  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
-    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
-      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Brioche Suisse&lt;/span&gt;
-      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Dolce&lt;/span&gt;
-      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;header.jpeg&quot;/&gt;
-      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
-      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Brioche Suisse, delle brioches francesi sofficissime con un ripieno di crema pasticcera e gocce di cioccolato.&lt;/span&gt;
-      &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
-      &lt;table&gt;
-        &lt;tbody&gt;
-          &lt;tr&gt;
-            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Impasto&lt;/b&gt;&lt;/td&gt;
-          &lt;/tr&gt;
-            &lt;td&gt;250gr&lt;/td&gt;
-            &lt;td&gt;farina&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1/2 cucchiaino&lt;/td&gt;
-            &lt;td&gt;sale&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;30gr&lt;/td&gt;
-            &lt;td&gt;zucchero&lt;/td&gt;
-           &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;2gr&lt;/td&gt;
-            &lt;td&gt;lievito fresco&lt;/td&gt;
-           &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 goccio&lt;/td&gt;
-            &lt;td&gt;latte&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;3&lt;/td&gt;
-            &lt;td&gt;uova&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;125gr&lt;/td&gt;
-            &lt;td&gt;burro morbido&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr style=&quot;height: 15px;&quot;&gt;&lt;/tr&gt;
-          &lt;tr&gt;          
-            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Crema Pasticcera/Altro&lt;/b&gt;&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;250ml&lt;/td&gt;
-            &lt;td&gt;latte&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;      
-            &lt;td&gt;2&lt;/td&gt;
-            &lt;td&gt;tuorli&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;      
-            &lt;td&gt;40gr&lt;/td&gt;
-            &lt;td&gt;zucchero&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;25gr&lt;/td&gt;
-            &lt;td&gt;fecola di patate o amido di mais&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;      
-            &lt;td&gt;1&lt;/td&gt;
-            &lt;td&gt;stecca di vaniglia&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;      
-            &lt;td&gt;80gr&lt;/td&gt;
-            &lt;td&gt;gocce di cioccolato&lt;/td&gt;  
-          &lt;/tr&gt;
-        &lt;/tbody&gt;
-      &lt;/table&gt;
-      &lt;br&gt;&lt;/br&gt;
-      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot;&gt;per 6-7 pezzi&lt;/i&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;h3&gt;
-  &lt;font color=&quot;grey&quot;&gt;
-    &lt;i class=&quot;fa-solid fa-gears&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt; Preparazione
-&lt;/h3&gt;
-
-&lt;p&gt;Per l&amp;#39;impasto mettete la farina, il sale e lo zucchero nella planetaria. Fate sciogliere il lievito in un goccio di latte, poi versatelo nella farina insieme alle uova. Iniziate ad impastare a velocità media. Appena si saranno amalgamati tutti gli ingredienti e non vedrete più farina, aggiungete poco alla volta il burro morbido. A questo punto continuate ad impastare per 10-15min, l&amp;#39;impasto si dovrà incordare, quindi staccare dalle pareti della ciotola ed essere bello liscio ed elastico.
-&lt;br /&gt;
-Dunque coprite l&amp;#39;impasto e lasciatelo lievitare per 12h o per tutta la notte. Riprendete l&amp;#39;impasto, appiattitelo formando un rettangolo, avvolgetelo nella pellicola e mettetelo prima 40min in frigo, poi 20min in congelatore.
-&lt;br /&gt;
-Durante la lievitazione (o il giorno prima) preparate la crema pasticcera: sbattete i tuorli con lo zucchero e l&amp;#39;amido finché saranno chiari. A parte portate quasi a bollore il latte con la stecca di vaniglia precedentemente aperta. A questo punto versate il latte a filo nel composto con i tuorli, mescolate bene, versate il tutto di nuovo nella pentola e spostatevi di nuovo sui fornelli. A temperatura media e sempre mescolando fate addensare la crema. Versate la crema pasticcera in una coppetta, coprite a contatto con della pellicola e fatela raffreddare completamente.
-&lt;br /&gt;
-Riprendete l&amp;#39;impasto e con l&amp;#39;aiuto di un matterello formate un rettangolo da 30x40cm circa. Spalmate la crema pasticcera su metà impasto (parte bassa), distribuite sopra alla crema le gocce o i pezzetti di cioccolato, schiacciate un pochettino, poi ripiegate l&amp;#39;impasto coprendo tutto. Schiacciate delicatamente, avvolgete con della pellicola e mettete in frigo per mezz&amp;#39;oretta. &lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 32%; margin-right: 1%;&quot; src=&quot;impasto.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 32%; margin-right: 1%; margin-left: 1%;&quot; src=&quot;farcire.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 32%; margin-left: 1%;&quot; src=&quot;piegato.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;A questo punto uscite l&amp;#39;impasto dal frigo, con un coltello ben affilato tagliate delle strisce regolari da 5cm. Distribuite le Brioches ben distanziate su di una teglia con della carta forno di sotto, coprite e fate lievitare per altre 2 orette. Poi spennellate la superficie delle &lt;strong&gt;Brioches Suisses&lt;/strong&gt; con del latte o tuorlo d&amp;#39;uovo.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;tagliato.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;teglia.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Infornate nel forno preriscaldato a 180°C statico per 15min. Fateli intiepidire prima di gustarli.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato9.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato10.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;h4&gt;Buon appetito
-  &lt;font color=&quot;red&quot;&gt;
-    &lt;i class=&quot;fa-regular fa-face-smile&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt;
-&lt;/h4&gt;</content>
-    <summary type="html" xml:lang="it">
-    
-      &lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Brioche Suisse&lt;/strong&gt; delle brioches francesi sofficissime con un rip
-    
-    </summary>
-    
-      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
-    
-      <category term="Panificati" scheme="https://frangipani.raiano.ch/categories/Dolce/Panificati/"/>
-    
-    
-      <category term="panificati" scheme="https://frangipani.raiano.ch/tags/panificati/"/>
-    
-      <category term="colazione" scheme="https://frangipani.raiano.ch/tags/colazione/"/>
     
   </entry>
   
