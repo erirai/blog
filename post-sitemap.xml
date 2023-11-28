@@ -9,6 +9,22 @@
 
 
     <url>
+        <loc>https://frangipani.raiano.ch/2023-11-29-spaghetti-mit-orangen-und-mohn/</loc>
+        <lastmod>2023-11-28T19:33:58.442Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2023-11-29-spaghetti-all-arancia-con-semi-di-papavero/</loc>
+        <lastmod>2023-11-28T19:33:25.644Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://frangipani.raiano.ch/2015-01-06-dreikoenigskuchen/</loc>
         <lastmod>2023-11-27T14:27:41.866Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -19,22 +35,6 @@
     <url>
         <loc>https://frangipani.raiano.ch/2015-01-06-dreikoenigskuchen-de/</loc>
         <lastmod>2023-11-27T14:26:58.916Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2023-11-29-spaghetti-mit-orangen-und-mohn/</loc>
-        <lastmod>2023-11-16T13:28:30.321Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2023-11-29-spaghetti-all-arancia-con-semi-di-papavero/</loc>
-        <lastmod>2023-11-16T13:14:14.729Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
