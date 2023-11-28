@@ -82,15 +82,9 @@ E con infinita gioia saluto Novembre! Ormai lo sapete... non mi piace proprio qu
 </h3>
 
 In una padella capiente fate rosolare la cipolla tagliata molto finemente con un filo d'olio ed una spolverata di sale. Aggiungete il succo di 1-2 arance e la panna vegetale. Abbassate un po' la temperatura, coprite con un coperchio e fate andare finché si sarà addensata leggermente e aggiustate di sale.
+![](salsaarancia.jpeg "frangipani © Erica")
 
 Nel frattempo portate ad ebollizione l'acqua per la pasta, buttate gli spaghetti e salate l'acqua. Scolateli leggermente al dente e versateli direttamente nella padella con la salsa all'arancia e finite la cottura aggiungendo man mano un pochino d'acqua di cottura degli spaghetti. Alla fine aggiungete il prezzemolo fresco.
-<p>
-  <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="spaghetti.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="occhi.jpeg" alt="" title="frangipani © Erica" />
-    <div style="clear: both;"></div>
-  </div>
-</p>
 
 Impiattate e se volete mettete una spolverata di semi di papavero precedentemente tostati (se non avete si semi di papavero o non vi piacciono, potete sostituirli con dei pistacchi tritati).
 <p>

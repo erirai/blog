@@ -82,15 +82,9 @@ Und mit unendlicher Freude verabschiede ich den November! Mittlerweile wisst ihr
 </h3>
 
 In einer grossen Bratpfanne die sehr fein gehackte Zwiebel mit etwas Öl und einer Prise Salz anbraten. Den Saft der Orangen hinzufügen, sowie auch die Sahne. Die Temperatur etwas reduzieren, mit einem Deckel bedecken und köcheln lassen, bis es leicht eindickt, dann salzen.
+![](../2023-11-29-spaghetti-all-arancia-con-semi-di-papavero/salsaarancia.jpeg "frangipani © Erica")
 
 In der Zwischenzeit das Wasser für die Spaghetti zum Kochen bringen, die Spaghetti hineingeben und das Wasser salzen. Die Spaghetti noch etwas al dente abtropfen und direkt in die Pfanne mit der Orangensauce geben. Diese in der Sauce fertiggaren, dabei nach und nach etwas Spaghetti-Kochwasser hinzufügen. Zum Schluss Petersilie dazu geben.
-<p>
-  <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-11-29-spaghetti-all-arancia-con-semi-di-papavero/spaghetti.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-11-29-spaghetti-all-arancia-con-semi-di-papavero/occhi.jpeg" alt="" title="frangipani © Erica" />
-    <div style="clear: both;"></div>
-  </div>
-</p>
 
 Spaghetti anrichten und nach Belieben mit zuvor geröstetem Mohn bestreuen (wer keinen Mohn hat oder diesen nicht mag, kann ihn durch gehackte Pistazien ersetzen).
 <p>
