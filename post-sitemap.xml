@@ -9,6 +9,38 @@
 
 
     <url>
+        <loc>https://frangipani.raiano.ch/2023-12-13-coux-au-craquelin-mit-mandel-orangen-creme/</loc>
+        <lastmod>2023-12-11T12:49:28.012Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2023-12-13-bigne-craquelin-con-crema-alle-mandorle-e-arancia/</loc>
+        <lastmod>2023-12-11T12:40:45.757Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2023-11-29-spaghetti-mit-orangen-und-mohn/</loc>
+        <lastmod>2023-12-11T12:24:44.724Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2023-11-29-spaghetti-all-arancia-con-semi-di-papavero/</loc>
+        <lastmod>2023-12-11T12:24:33.629Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://frangipani.raiano.ch/2023-12-07-ofen-camembert-mit-granatapfel-und-karamellisierten-zwiebeln/</loc>
         <lastmod>2023-12-06T20:32:10.719Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -19,22 +51,6 @@
     <url>
         <loc>https://frangipani.raiano.ch/2023-12-07-camembert-al-forno-con-melagrana-e-cipolle-caramellate/</loc>
         <lastmod>2023-12-06T20:12:18.450Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2023-11-29-spaghetti-mit-orangen-und-mohn/</loc>
-        <lastmod>2023-11-28T19:33:58.442Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2023-11-29-spaghetti-all-arancia-con-semi-di-papavero/</loc>
-        <lastmod>2023-11-28T19:33:25.644Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -913,14 +929,6 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2014-12-04-biscotti-al-burro-e-arancia/</loc>
-        <lastmod>2023-08-15T20:38:54.666Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://frangipani.raiano.ch/2014-12-09-husarenkrapferl/</loc>
         <lastmod>2023-08-15T20:38:54.666Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -930,6 +938,14 @@
 
     <url>
         <loc>https://frangipani.raiano.ch/2014-12-24-polpette-di-patate-alla-siciliana/</loc>
+        <lastmod>2023-08-15T20:38:54.666Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2014-12-04-biscotti-al-burro-e-arancia/</loc>
         <lastmod>2023-08-15T20:38:54.666Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
