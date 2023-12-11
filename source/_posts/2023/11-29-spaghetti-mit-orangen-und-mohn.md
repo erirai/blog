@@ -48,7 +48,7 @@ Und mit unendlicher Freude verabschiede ich den November! Mittlerweile wisst ihr
           </tr>  
           <tr itemprop="recipeIngredient">
             <td>1-2</td>
-            <td>Orangen</td>
+            <td>Orangen bio und unbehandelt</td>
           </tr>  
           <tr itemprop="recipeIngredient">
             <td>250ml</td>

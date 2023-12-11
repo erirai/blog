@@ -48,7 +48,7 @@ E con infinita gioia saluto Novembre! Ormai lo sapete... non mi piace proprio qu
           </tr>  
           <tr itemprop="recipeIngredient">
             <td>1-2</td>
-            <td>arance</td>
+            <td>arance bio non trattate</td>
           </tr>  
           <tr itemprop="recipeIngredient">
             <td>250ml</td>
