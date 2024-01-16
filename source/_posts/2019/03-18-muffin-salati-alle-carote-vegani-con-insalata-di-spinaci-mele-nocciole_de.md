@@ -7,7 +7,7 @@ tags:
 - aperitivo
 - vegan
 categories:
-- Dolce
+- Salato
 - "Torte salate, Muffin salati..."
 label: 2019-03-18-muffin-salati-alle-carote-vegani-con-insalata-di-spinaci-mele-nocciole
 lang: de
