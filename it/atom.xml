@@ -4,7 +4,7 @@
   
   <link href="https://frangipani.raiano.ch/it/atom.xml" rel="self"/>
   <link href="https://frangipani.raiano.ch/"/>
-  <updated>2024-01-16T16:30:25.942Z</updated>
+  <updated>2024-01-23T10:25:25.300Z</updated>
   <id>https://frangipani.raiano.ch/</id>
   
   <author>
@@ -13,6 +13,150 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title xml:lang="it">Crostata vegana ai Pistacchi e Arancia</title>
+    <link href="https://frangipani.raiano.ch/2024-01-24-crostata-vegana-ai-pistacchi-e-arancia/"/>
+    <id>https://frangipani.raiano.ch/2024-01-24-crostata-vegana-ai-pistacchi-e-arancia/</id>
+    <published>2024-01-23T23:00:00.000Z</published>
+    <updated>2024-01-23T10:25:25.300Z</updated>
+    <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Crostata vegana ai Pistacchi e Arancia&lt;/strong&gt; una crostata molto buona e morbida che sa di Sicilia. Era veramente ottima, soprattutto perché le arance ed i pistacchi stanno divinamente bene insieme. 
+&lt;br /&gt;
+Ok, per essere sincera questa crostata non è altro che una versione siciliana della &lt;a href=&quot;/2017-11-20-linzertorte-vegana/&quot;&gt;Linzer Torte&lt;/a&gt;. Non ho fatto altro che sostituire le mandorle e le nocciole con i pistacchi e la confettura di ribes con la marmellata di arance. In questo caso non ho usato spezie, tranne un po&amp;#39; di vaniglia. Se non vi piace la marmellata di arance, potete usare anche la confettura di lamponi.
+&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Eccoci qua, Gennaio sta per finire e la cosa mi rende molto felice. Una volta passato Gennaio, c&amp;#39;è solo Febbraio che solitamente passa molto velocemente perché i bimbi hanno le vacanze invernali. E poi? Siii arriva Marzo ed il peggio sarà passato... capite?&lt;/p&gt;
+&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
+  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
+    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
+      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Crostata vegana ai Pistacchi e Arancia&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Dolce&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Crostata vegana ai Pistacchi e Arancia, una crostata molto buona e morbida che sa di Sicilia.&lt;/span&gt;
+      &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
+      &lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;200gr&lt;/td&gt;
+            &lt;td&gt;farina&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;150gr&lt;/td&gt;
+            &lt;td&gt;pistacchi non salati macinati&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qb&lt;/td&gt;
+            &lt;td&gt;scorza d&#39;arancia&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qb&lt;/td&gt;
+            &lt;td&gt;vaniglia&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;100gr&lt;/td&gt;
+            &lt;td&gt;zucchero di canna&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 pizzico&lt;/td&gt;
+            &lt;td&gt;sale&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;150gr&lt;/td&gt;
+            &lt;td&gt;margarina o burro&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qb&lt;/td&gt;
+            &lt;td&gt;latte vegetale&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;350gr&lt;/td&gt;
+            &lt;td&gt;marmellata di arance&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;
+      &lt;br&gt;&lt;/br&gt;
+      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot; itemprop=&quot;recipeYield&quot;&gt;per una tortiera da 22-24cm&lt;/i&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h3&gt;
+  &lt;font color=&quot;grey&quot;&gt;
+    &lt;i class=&quot;fa-solid fa-gears&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt; Preparazione
+&lt;/h3&gt;
+
+&lt;p&gt;Per la frolla mettete farina, pistacchi macinati, scorza d&amp;#39;arancia, vaniglia, zucchero di canna e sale in una coppa e mescolate. Aggiungete la margarina o il burro e pochissimo latte e iniziate ad impastare. Se vedete che l&amp;#39;impasto non si compatta, aggiungete altro latte, ma sempre pochissimo alla volta. Formate un panetto, avvolgetelo nella pellicola trasparente e lasciatelo riposare in frigo per 1h. &lt;/p&gt;
+&lt;p&gt;Stendete l&amp;#39;impasto tra due fogli di carta forno fino ad uno spessore di 5mm e rivestite la teglia con fondo removibile (altrimenti rivestite la teglia con carta forno). Aggiustate bene i bordi, bucherellate tutto il fondo poi distribuite sulla base la marmellata di arance. Stendete l&amp;#39;impasto rimasto, tagliate delle strisce e adagiatele come una griglia sulla marmellata e aggiustate di nuovo bene il bordo.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;frolla.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;teglia.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Infornate la crostata nel forno preriscaldato a 180°C ventilato per circa 40min o finché avrà un bel colore. Fatela raffreddare, poi uscitela dalla teglia.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;risultato9.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;h4&gt;Buon appetito
+  &lt;font color=&quot;red&quot;&gt;
+    &lt;i class=&quot;fa-regular fa-face-smile&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt;
+&lt;/h4&gt;
+</content>
+    <summary type="html" xml:lang="it">
+    
+      &lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Crostata vegana ai Pistacchi e Arancia&lt;/strong&gt; una crostata molto buon
+    
+    </summary>
+    
+      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
+    
+      <category term="Crostate, Tartes..." scheme="https://frangipani.raiano.ch/categories/Dolce/Crostate-Tartes/"/>
+    
+    
+      <category term="vegan" scheme="https://frangipani.raiano.ch/tags/vegan/"/>
+    
+      <category term="inverno" scheme="https://frangipani.raiano.ch/tags/inverno/"/>
+    
+      <category term="arance" scheme="https://frangipani.raiano.ch/tags/arance/"/>
+    
+  </entry>
   
   <entry>
     <title xml:lang="it">Polpette vegane di Patate e Verdure con Salsa vegana</title>
@@ -3108,136 +3252,6 @@ A questo punto versate la &lt;strong&gt;Gelatina di Rabarbaro&lt;/strong&gt; anc
       <category term="conserve" scheme="https://frangipani.raiano.ch/tags/conserve/"/>
     
       <category term="rabarbaro" scheme="https://frangipani.raiano.ch/tags/rabarbaro/"/>
-    
-      <category term="primavera" scheme="https://frangipani.raiano.ch/tags/primavera/"/>
-    
-  </entry>
-  
-  <entry>
-    <title xml:lang="it">Insalata di Cous Cous allo Zafferano con Asparagi e Piselli</title>
-    <link href="https://frangipani.raiano.ch/2023-05-24-insalata-di-cous-cous-allo-zafferano-con-asparagi-e-piselli/"/>
-    <id>https://frangipani.raiano.ch/2023-05-24-insalata-di-cous-cous-allo-zafferano-con-asparagi-e-piselli/</id>
-    <published>2023-05-23T22:00:00.000Z</published>
-    <updated>2023-08-15T20:38:47.764Z</updated>
-    <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Insalata di Cous Cous allo Zafferano con Asparagi e Piselli&lt;/strong&gt; un&amp;#39;insalatina sfiziosa, buonissima che si prepara in un attimo. Perfetta da portare via, ma anche per un pranzetto veloce da preparare in anticipo. &lt;/p&gt;
-&lt;p&gt;Con la bella stagione inizio a tirare fuori il Cous Cous. In inverno non lo uso quasi mai, perché preferisco i piatti caldi. Ma appena si alzano le temperature, adoro preparare insalate di ogni tipo. I miei bimbi amano il Cous Cous, mio marito meno, quindi lo preparo quasi sempre a pranzo per i miei due teppistelli.
-&lt;br /&gt;
-La combinazione di questi ingredienti era veramente ottima! Lo zafferano dà quel tocco in più e lo rende speciale e l&amp;#39;olio alla menta con il limone arrotonda il tutto. Volendo potete anche aggiungere del formaggio Feta o del Tofu precedentemente saltato in padella. E se finalmente il tempo decide di aggiustarsi, possiamo preparare questa &lt;strong&gt;Insalata di Cous Cous allo Zafferano con Asparagi e Piselli&lt;/strong&gt; anche per una bella scampagnata o un tranquillo picnic! Io non vedo l&amp;#39;ora...&lt;/p&gt;
-&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
-  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
-    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
-      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Insalata di Cous Cous allo Zafferano con Asparagi e Piselli&lt;/span&gt;
-      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Salato&lt;/span&gt;
-      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;header.jpeg&quot;/&gt;
-      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
-      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Insalata di Cous Cous allo Zafferano con Asparagi e Piselli, un&#39;insalatina sfiziosa, buonissima che si prepara in un attimo.&lt;/span&gt;
-      &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
-      &lt;table&gt;
-        &lt;tbody&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 tazza&lt;/td&gt;
-            &lt;td&gt;cous cous&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 tazza&lt;/td&gt;
-            &lt;td&gt;acqua o brodo vegetale&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 bustina&lt;/td&gt;
-            &lt;td&gt;zafferano&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1&lt;/td&gt;
-            &lt;td&gt;cipolla&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 mazzo&lt;/td&gt;
-            &lt;td&gt;asparagi&lt;/td&gt;     
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;3 manciate&lt;/td&gt;
-            &lt;td&gt;piselli surgelati&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qb&lt;/td&gt;
-            &lt;td&gt;mentuccia fresca&lt;/td&gt;     
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qb&lt;/td&gt;
-            &lt;td&gt;succo e scorza di limone&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qb&lt;/td&gt;
-            &lt;td&gt;olio evo&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qb&lt;/td&gt;
-            &lt;td&gt;sale&lt;/td&gt;
-          &lt;/tr&gt;
-        &lt;/tbody&gt;
-      &lt;/table&gt;
-      &lt;br&gt;&lt;/br&gt;
-      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot;&gt;per 3-4 persone&lt;/i&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;h3&gt;
-  &lt;font color=&quot;grey&quot;&gt;
-    &lt;i class=&quot;fa-solid fa-gears&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt; Preparazione
-&lt;/h3&gt;
-
-&lt;p&gt;Prendete una pentola larga o una padella mettete l&amp;#39;acqua, lo zafferano, mezzo cucchiaino di sale e un filo d&amp;#39;olio e portatela a bollore. A questo punto togliete dai fuochi, aggiungete il cous cous facendo attenzione che sia tutto coperto con l&amp;#39;acqua e coprite con un coperchio. Lasciate riposare per 5-10min (o quanto c&amp;#39;è scritto sulle istruzioni). Passato il tempo necessario, sgranate il cous cous aiutandovi con una forchetta, poi lasciatelo raffreddare.&lt;/p&gt;
-&lt;p&gt;Tagliate finemente la cipolla e fatela soffriggere in una padella con un filo d&amp;#39;olio ed un pizzico di sale. Aggiungete i piselli, fate saltare per 1min, poi aggiungete anche gli asparagi tagliati a rondelline piccole, tenendo da parte le punte. Fate cuocere il tutto a temperatura media, se c&amp;#39;è bisogno aggiungete un goccio d&amp;#39;acqua, le punte degli asparagi li aggiungerete verso fine cottura. La verdura deve essere cotta, ma ancora croccante, non scotta. Aggiustate di sale e fate raffreddare.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;couscous.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;verdure.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Mettete in un mortaio (o nel frullatore ad immersione) olio, mentuccia, sale e succo di limone e mescolate tutto amalgamandoli bene. Una volta freddi, mischiate il cous cous con le verdure, poi condite con l&amp;#39;olio alla menta e finite con della scorza di limone.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;risultato3.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;h4&gt;Buon appetito
-  &lt;font color=&quot;red&quot;&gt;
-    &lt;i class=&quot;fa-regular fa-face-smile&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt;
-&lt;/h4&gt;</content>
-    <summary type="html" xml:lang="it">
-    
-      &lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Insalata di Cous Cous allo Zafferano con Asparagi e Piselli&lt;/strong&gt; un
-    
-    </summary>
-    
-      <category term="Salato" scheme="https://frangipani.raiano.ch/categories/Salato/"/>
-    
-      <category term="Piatti Unici" scheme="https://frangipani.raiano.ch/categories/Salato/Piatti-Unici/"/>
-    
-    
-      <category term="vegan" scheme="https://frangipani.raiano.ch/tags/vegan/"/>
-    
-      <category term="asparagi" scheme="https://frangipani.raiano.ch/tags/asparagi/"/>
     
       <category term="primavera" scheme="https://frangipani.raiano.ch/tags/primavera/"/>
     
