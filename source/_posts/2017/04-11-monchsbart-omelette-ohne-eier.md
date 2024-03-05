@@ -1,5 +1,5 @@
 ---
-title: "Mönchsbart-Omelette ohne Eier"
+title: "Mönchsbart-Omelett ohne Eier"
 date: 2017-04-11
 tags:
 - ceci
@@ -14,20 +14,20 @@ lang: de
 ---
 ![](../2017-04-11-frittata-di-agretti-senza-uova/header.jpeg "frangipani © Erica")
 
-**Mönchsbart-Omelette ohne Eier** eine vegane Frittata, glutenfrei und super schmackhaft.
+**Mönchsbart-Omelett ohne Eier** eine vegane Frittata, glutenfrei und super schmackhaft.
 <br />
 In ein paar Tagen feiern wir nicht nur Ostern, sondern auch ein spezieller Geburtstag... Am Ostermontag wird mein Mann 30! Wenn ich nur daran denke, läuft es mir kalt über den Rücken... Zum Glück ist er zuerst dran! Aus diesem Grund bin ich mehr darauf konzentriert, was ich an seinem Geburtstag vorbereite, anstatt an Ostern zu denken. Er feiert gar nicht gern seinen Geburtstag, darum kommen Überraschungspartys bei ihm überhaupt nicht in Frage! Wir haben uns für einen Brunch entschieden, war die beste Lösung für einen Ostermontag... Ich hoffe nur, dass wir schönes Wetter haben, damit wir draussen im Garten feiern können! Es werden anstrengende Tage sein zwischen essen, kochen für Ostern und für Ostermontag... aber das kommt gut!
 
-Diese Omelette könnte auch Teil des Geburtstags-Brunchs sein. Die Saison vom Mönchsbart ist leider sehr kurz und leider findet man sie hier nur am Wochenmarkt, viele wissen nicht mal was es ist. Ich mache damit sehr gerne Omelette, aber nicht mit Eiern... Mit Eiern habe ich es auch schon probiert, aber geschmacklich ist diese Omelette mit Kichererbsenmehl viel besser. Im Brötchen oder mit einem leckereren Salat und schon habt ihr etwas gutes zum Essen. Kauft den Mönchsbart solange es noch hat und falls ihr nicht wisst was ihr damit machen sollt, Omelette ist immer eine gute Lösung!
+Dieses Omelett könnte auch Teil des Geburtstags-Brunchs sein. Die Saison vom Mönchsbart ist leider sehr kurz und leider findet man sie hier nur am Wochenmarkt, viele wissen nicht mal was es ist. Ich mache damit sehr gerne Omelett, aber nicht mit Eiern... Mit Eiern habe ich es auch schon probiert, aber geschmacklich ist dieses Omelett mit Kichererbsenmehl viel besser. Im Brötchen oder mit einem leckereren Salat und schon habt ihr etwas gutes zum Essen. Kauft den Mönchsbart solange es noch hat und falls ihr nicht wisst was ihr damit machen sollt, Omelett ist immer eine gute Lösung!
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
-      <span itemprop="name" style="display:none;">Mönchsbart-Omelette ohne Eier</span>
+      <span itemprop="name" style="display:none;">Mönchsbart-Omelett ohne Eier</span>
       <span itemprop="recipeCategory" style="display:none;">Herzhaftes</span>
       <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2017-04-11-frittata-di-agretti-senza-uova/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
-      <span itemprop="description" style="display:none;">Mönchsbart-Omelette ohne Eier eine vegane Frittata, glutenfrei und super schmackhaft.</span>
+      <span itemprop="description" style="display:none;">Mönchsbart-Omelett ohne Eier eine vegane Frittata, glutenfrei und super schmackhaft.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
@@ -80,7 +80,7 @@ Nun den Teig vorbereiten. Kichererbsenmehl in eine Schüssel geben, nach und nac
   </div>
 </p>
 
-Den Mönchsbart zum Kichererbsenteig geben und gut vermengen. Dann alles wieder in einer leicht geölten antihaftbeschichteten Bratpfanne leeren. Mit einem Topfdeckel verschliessen und bei mittlerer Hitze kochen lassen. Nach ein paar Minuten löst sich die Omelette. Kontrolliert, ob sie auf der unteren Seite eine schöne Farbe hat, wenn ja kann sie umgedreht werden.
+Den Mönchsbart zum Kichererbsenteig geben und gut vermengen. Dann alles wieder in einer leicht geölten antihaftbeschichteten Bratpfanne leeren. Mit einem Topfdeckel verschliessen und bei mittlerer Hitze kochen lassen. Nach ein paar Minuten löst sich das Omelett. Kontrolliert, ob sie auf der unteren Seite eine schöne Farbe hat, wenn ja kann sie umgedreht werden.
 <p>
   <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2017-04-11-frittata-di-agretti-senza-uova/padella.jpeg" alt="" title="frangipani © Erica" />
