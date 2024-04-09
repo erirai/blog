@@ -3,6 +3,13 @@
 
 
     <url>
+        <loc>https://frangipani.raiano.ch/tags/pasta/</loc>
+        <lastmod>2024-04-09T18:34:15.158Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://frangipani.raiano.ch/tags/pasqua/</loc>
         <lastmod>2024-04-02T14:38:55.943Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -60,13 +67,6 @@
 
     <url>
         <loc>https://frangipani.raiano.ch/tags/inverno/</loc>
-        <lastmod>2024-01-29T10:54:39.804Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/tags/pasta/</loc>
         <lastmod>2024-01-29T10:54:39.804Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
