@@ -18,7 +18,7 @@ lang: it
 La stagione del rabarbaro è molto breve, quindi ne uso parecchio. Spesso lo pulisco, lo taglio a pezzettini e lo congelo. Quest'anno però ho fatto un sacchettino anche con gli scarti del rabarbaro e l'ho tenuto in congelatore, man mano aggiungendo altri scarti. Ma attenzione, è molto importante eliminare la parte superiore dove ci sono attaccate le foglie del rabarbaro, perché sono velenose. Ma il resto, ovvero la buccia ed i filamenti vanno benissimo:
 ![](scarti.jpeg "frangipani © Erica")
 
-Se avete intenzione di fare questa **Gelatina di Rabarbaro**, potete iniziare ad accumulare gli scarti appena inizia la stagione e tenerli in congelatore. Man mano ne aggiungete altri e alla fine della stagione del rabarbaro pesate gli scarti e adattate le guantità del resto degli ingredienti.
+Se avete intenzione di fare questa **Gelatina di Rabarbaro**, potete iniziare ad accumulare gli scarti appena inizia la stagione e tenerli in congelatore. Man mano ne aggiungete altri e alla fine della stagione del rabarbaro pesate gli scarti e adattate le quantità del resto degli ingredienti.
 
 Quando si fanno le conserve, è molto importante essere molto puliti. I vasetti vanno precedentemente sterilizzati per evitare (o minimizzare) il rischio di contaminazione. C'è un metodo molto facile per sterilizzare i vasetti che ho imparato da <a href="https://marlenessweetthings.ch" target="_blank">Marlene</a>. Ovvero mettere i vasetti di vetro in forno per 15min a 150°C ventilato e far bollire i coperchi per 5min in acqua e un goccio di aceto. Prima di usarli, i coperchi vanno asciugati bene e i bordi dei vasetti vanno puliti con un panno pulito da eventuali schizzi prima di chiuderli.
 
