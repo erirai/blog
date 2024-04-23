@@ -4,7 +4,42 @@
 
     <url>
         <loc>https://frangipani.raiano.ch/tags/primavera/</loc>
-        <lastmod>2024-04-14T15:53:18.132Z</lastmod>
+        <lastmod>2024-04-23T17:55:08.027Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/tags/asparagi/</loc>
+        <lastmod>2024-04-23T17:55:08.027Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/tags/vegan/</loc>
+        <lastmod>2024-04-23T17:55:08.027Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/tags/riso/</loc>
+        <lastmod>2024-04-17T08:53:57.159Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/tags/pasqua/</loc>
+        <lastmod>2024-04-17T08:53:57.159Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/tags/glutenfree/</loc>
+        <lastmod>2024-04-17T08:53:57.159Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -31,13 +66,6 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/tags/pasqua/</loc>
-        <lastmod>2024-04-02T14:38:55.943Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://frangipani.raiano.ch/tags/colazione/</loc>
         <lastmod>2024-04-02T14:38:55.943Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -53,20 +81,6 @@
 
     <url>
         <loc>https://frangipani.raiano.ch/tags/ceci/</loc>
-        <lastmod>2024-03-05T16:47:10.211Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/tags/glutenfree/</loc>
-        <lastmod>2024-03-05T16:47:10.211Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/tags/vegan/</loc>
         <lastmod>2024-03-05T16:47:10.211Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -367,13 +381,6 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/tags/riso/</loc>
-        <lastmod>2023-08-15T20:40:05.248Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://frangipani.raiano.ch/tags/pesche/</loc>
         <lastmod>2023-08-15T20:40:05.248Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -647,13 +654,6 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/tags/lasagne/</loc>
-        <lastmod>2023-08-15T20:38:54.666Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://frangipani.raiano.ch/tags/ribes/</loc>
         <lastmod>2023-08-15T20:38:54.666Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -662,13 +662,6 @@
 
     <url>
         <loc>https://frangipani.raiano.ch/tags/cioccolato-bianco/</loc>
-        <lastmod>2023-08-15T20:38:54.666Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/tags/asparagi/</loc>
         <lastmod>2023-08-15T20:38:54.666Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -1159,6 +1152,13 @@
 
     <url>
         <loc>https://frangipani.raiano.ch/tags/carciofi/</loc>
+        <lastmod>2023-08-15T20:38:47.686Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/tags/lasagne/</loc>
         <lastmod>2023-08-15T20:38:47.686Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
