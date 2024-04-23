@@ -3,7 +3,7 @@ title: "Asparagi Croccanti con Sesamo e Salsa allo Yogurt con Senape e Miele"
 date: 2021-05-12
 tags: 
 - primavera
-- contorno
+- asparagi
 - vegan
 categories:
 - Salato

@@ -3,7 +3,7 @@ title: "Knusprige Spargeln mit Sesam und Joghurt-Senf-Honig-Sauce"
 date: 2021-05-12
 tags: 
 - primavera
-- contorno
+- asparagi
 - vegan
 categories:
 - Salato
