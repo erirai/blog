@@ -4,7 +4,7 @@
   
   <link href="https://frangipani.raiano.ch/de/atom.xml" rel="self"/>
   <link href="https://frangipani.raiano.ch/"/>
-  <updated>2024-05-06T15:26:56.903Z</updated>
+  <updated>2024-05-14T16:44:32.137Z</updated>
   <id>https://frangipani.raiano.ch/</id>
   
   <author>
@@ -13,6 +13,136 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title xml:lang="de">Erdbeer-Cookies</title>
+    <link href="https://frangipani.raiano.ch/2024-05-15-erdbeer-cookies/"/>
+    <id>https://frangipani.raiano.ch/2024-05-15-erdbeer-cookies/</id>
+    <published>2024-05-14T22:00:00.000Z</published>
+    <updated>2024-05-14T16:44:32.137Z</updated>
+    <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2024-05-15-biscotti-morbidi-alle-fragole/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Werbung: &lt;strong&gt;Erdbeer-Cookies&lt;/strong&gt; in Zusammenarbeit mit &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt;. Kekse, die aussen knusprig und innen weich sind. Sie schmecken sehr nach Erdbeeren und sind innen schön saftig. Sie werden mit Erdbeerpüree zubereitet und wenn ihr pflanzliche Butter benutzt, erhaltet ihr vegane Kekse. Ich habe diese Erdbeerkekse mit Zitronenschale aromatisiert, aber wenn ihr möchtet, könnt ihr nach Belieben auch etwas Schokolade hinzufügen.&lt;/p&gt;
+&lt;p&gt;Die Schweizer Erdbeeren sind endlich da! Dieses Jahr etwas später als sonst... Ich erinnere mich, dass sie in den letzten Jahren bereits etwa Ende April da waren. Aber das überrascht mich bei der Kälte Ende April nicht.
+&lt;img src=&quot;../2024-05-15-biscotti-morbidi-alle-fragole/spesa.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Ich versichere euch, dass diese Kekse wirklich ausgezeichnet sind, auch wenn sie nicht grossartig aussehen. Sie sind einfach zuzubereiten und können auch problemlos mit anderen Früchten zubereitet werden. Obst, das ihr auch auf der &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt;-Website finden könnt. Ich werde sie auf jeden Fall später auch mit Heidelbeeren oder anderen Beeren probieren.&lt;/p&gt;
+&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
+  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
+    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
+      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Erdbeer-Cookies&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Süsses&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2024-05-15-biscotti-morbidi-alle-fragole/header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Erdbeer-Cookies, Kekse, die aussen knusprig und innen weich sind. Sie schmecken sehr nach Erdbeeren und sind innen schön saftig.&lt;/span&gt;
+      &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
+      &lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;80gr&lt;/td&gt;
+            &lt;td&gt;Erdbeeren&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;135gr&lt;/td&gt;
+            &lt;td&gt;Mehl&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1/2 Teelöffel&lt;/td&gt;
+            &lt;td&gt;Backpulver&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 Prise&lt;/td&gt;
+            &lt;td&gt;Salz&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;75gr&lt;/td&gt;
+            &lt;td&gt;Butter&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;50gr&lt;/td&gt;
+            &lt;td&gt;Zucker&lt;/td&gt;
+         &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1&lt;/td&gt;
+            &lt;td&gt;Zitrone&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;
+      &lt;br&gt;&lt;/br&gt;
+      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot; itemprop=&quot;recipeYield&quot;&gt;für ca. 12 Cookies&lt;/i&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h3&gt;
+  &lt;font color=&quot;grey&quot;&gt;
+    &lt;i class=&quot;fa-solid fa-gears&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt; Zubereitung
+&lt;/h3&gt;
+
+&lt;p&gt;Die Erdbeeren waschen und rüsten, dann mit einem Stabmixer pürieren, bis ein glattes Püree entsteht, beiseite stellen. In einer Schüssel Mehl, Backpulver und Salz vermischen und beiseite stellen. In einer grossen Schüssel die Butter mit dem Zucker cremig rühren. Das Erdbeerpüree dazugeben und mindestens 5min rühren. Anschliessend die trockenen Zutaten und die Zitronenschale hinzufügen. Alles mit dem Mixer rühren und dann kurz mit den Händen zu Ende kneten. Abdecken und eine halbe Stunde im Kühlschrank ruhen lassen.
+&lt;br /&gt;
+Nach Ablauf der Ruhezeit mit einem Eisportionierer ca. 12 Bälle formen.
+&lt;img src=&quot;../2024-05-15-biscotti-morbidi-alle-fragole/teglia.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Die &lt;strong&gt;Erdbeer-Cookies&lt;/strong&gt; im vorgeheizten Ofen bei 200°C Ober- und Unterhitze 10min lang backen. Die Kekse einen Moment auf dem Backblech abkühlen lassen und dann zum vollständigen Abkühlen auf ein Gitter stellen. Die Kekse luftdicht aufbewahren, aber so schnell wie möglich verzehren.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2024-05-15-biscotti-morbidi-alle-fragole/risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2024-05-15-biscotti-morbidi-alle-fragole/risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2024-05-15-biscotti-morbidi-alle-fragole/risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2024-05-15-biscotti-morbidi-alle-fragole/risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2024-05-15-biscotti-morbidi-alle-fragole/risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2024-05-15-biscotti-morbidi-alle-fragole/risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2024-05-15-biscotti-morbidi-alle-fragole/risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2024-05-15-biscotti-morbidi-alle-fragole/risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h4&gt;Buon appetito
+  &lt;font color=&quot;red&quot;&gt;
+    &lt;i class=&quot;fa-regular fa-face-smile&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt;
+&lt;/h4&gt;
+</content>
+    <summary type="html" xml:lang="de">
+    
+      &lt;p&gt;&lt;img src=&quot;../2024-05-15-biscotti-morbidi-alle-fragole/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Werbung: &lt;strong&gt;Erdbeer-Cookies&lt;/s
+    
+    </summary>
+    
+      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
+    
+      <category term="Biscotti" scheme="https://frangipani.raiano.ch/categories/Dolce/Biscotti/"/>
+    
+    
+      <category term="vegan" scheme="https://frangipani.raiano.ch/tags/vegan/"/>
+    
+      <category term="estate" scheme="https://frangipani.raiano.ch/tags/estate/"/>
+    
+      <category term="fragole" scheme="https://frangipani.raiano.ch/tags/fragole/"/>
+    
+      <category term="primavera" scheme="https://frangipani.raiano.ch/tags/primavera/"/>
+    
+  </entry>
   
   <entry>
     <title xml:lang="de">Pasta mit Spargel-Crème</title>
@@ -3004,175 +3134,6 @@ Erica&lt;/p&gt;
     
     
       <category term="mele" scheme="https://frangipani.raiano.ch/tags/mele/"/>
-    
-      <category term="autunno" scheme="https://frangipani.raiano.ch/tags/autunno/"/>
-    
-  </entry>
-  
-  <entry>
-    <title xml:lang="de">Kürbis-Rosmarin-Focaccia</title>
-    <link href="https://frangipani.raiano.ch/2023-10-11-kurbis-rosmarin-focaccia/"/>
-    <id>https://frangipani.raiano.ch/2023-10-11-kurbis-rosmarin-focaccia/</id>
-    <published>2023-10-10T22:00:00.000Z</published>
-    <updated>2023-10-10T13:34:36.130Z</updated>
-    <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2023-10-11-focaccia-alla-zucca-e-rosmarino/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Werbung: &lt;strong&gt;Kürbis-Rosmarin-Focaccia&lt;/strong&gt; in Zusammenarbeit mit &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt;. Eine sehr fluffige Focaccia mit einer duftenden und knusprigen Kruste. Voller Blasen und mit einer Farbe, die an den Herbst erinnert, denn im Inneren steckt der König des Herbstes... der Kürbis! Ich liebe Focaccia mit Rosmarin, aber dieses Mal wollte ich es mit Kürbispüree versuchen. Und was soll ich sagen? Einfach hervorragend!&lt;/p&gt;
-&lt;p&gt;Ach ja, Herbst ist Kürbiszeit und ich esse ihn sehr gerne. Ich verwende gerne verschiedene Kürbissorten, vor allem weil es für jede Zubereitung den passenden Kürbis gibt. Bei &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt; findet ihr eine grosse Auswahl an Kürbissen und ich rate euch, zu variieren und verschiedene auszuprobieren... Und für die Herbstdekoliebhaber, gibt es bei &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt; auch wunderschöne Dekokürbisse.
-&lt;br /&gt;
-Für die Zubereitung von Kürbispüree verwende ich, aus folgenden Gründen, sehr gerne Hokkaido-Kürbis: Wenn er biologisch ist, kann man ihn mit der ganzen Schale verwenden und vermeidet so, dass man sich die Finger schneidet. Nach dem Kochen behält er seine kräftige orange Farbe, er hat eine kurze Garzeit und ist er ist nicht wässrig.&lt;/p&gt;
-&lt;p&gt;Ach, die Zubereitung des Kürbispürees ist ganz einfach: Schneidet den Kürbis in grosse Stücke und gart ihn im Ofen. Sobald er gar ist, püriert ihn. Das war&amp;#39;s.&lt;/p&gt;
-&lt;p&gt;Jetzt, wo die Tage kühler und grauer werden, ist der Lieferservice von &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt; wirklich praktisch... Nutzt es aus!&lt;/p&gt;
-&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
-  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
-    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
-      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Kürbis-Rosmarin-Focaccia&lt;/span&gt;
-      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Herzhaftes&lt;/span&gt;
-      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2023-10-11-focaccia-alla-zucca-e-rosmarino/header.jpeg&quot;/&gt;
-      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
-      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Kürbis-Rosmarin-Focaccia, eine sehr fluffige Focaccia mit einer duftenden und knusprigen Kruste. Voller Blasen und mit einer Farbe, die an den Herbst erinnert...&lt;/span&gt;
-      &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
-      &lt;table&gt;
-        &lt;tbody&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;550gr&lt;/td&gt;
-            &lt;td&gt;Wasser lauwarm&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;250gr&lt;/td&gt;
-            &lt;td&gt;Kürbispüree&lt;/td&gt;
-          &lt;/tr&gt;  
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;2gr&lt;/td&gt;
-            &lt;td&gt;frische Hefe&lt;/td&gt;
-          &lt;/tr&gt;        
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;750gr&lt;/td&gt;
-            &lt;td&gt;helles Dinkelmehl&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;20gr&lt;/td&gt;
-            &lt;td&gt;Salz&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qs&lt;/td&gt;
-            &lt;td&gt;Rosmarin&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qs&lt;/td&gt;
-            &lt;td&gt;Olivenöl&lt;/td&gt; 
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qs&lt;/td&gt;
-            &lt;td&gt;grobes Salz&lt;/td&gt; 
-          &lt;/tr&gt;
-        &lt;/tbody&gt;
-      &lt;/table&gt;
-      &lt;br&gt;&lt;/br&gt;
-      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot; itemprop=&quot;recipeYield&quot;&gt;für ein 27x38cm Blech&lt;/i&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;h3&gt;
-  &lt;font color=&quot;grey&quot;&gt;
-    &lt;i class=&quot;fa-solid fa-gears&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt; Zubereitung
-&lt;/h3&gt;
-
-&lt;p&gt;Das lauwarme Wasser und das Kürbispüree in eine grosse Schüssel mit Deckel geben und vermischen. Die Hefe im Wasser auflösen und dann das Mehl hinzufügen. Alles mit den Händen vermischen, dann den Teig zwischen den Fingern zerdrücken/quetschen, bis keine Klümpchen mehr zu spüren sind. Es wird nicht geknetet, sondern tatsächlich zerdrückt, gequetscht. Abdecken und 30min bei Zimmertemperatur ruhen lassen.
-&lt;br /&gt;
-Den Teig nehmem, Salz hinzugeben und den Teig erneut zerdrücken, bis kein Salz mehr im Teig zu spüren ist. Verschliessen und 45min bei Zimmertemperatur ruhen lassen.&lt;/p&gt;
-&lt;p&gt;Beginnen wir nun mit dem Falten: Teig nehmen, Hände befeuchten und noch in der Schüssel, eine Seite des Teiges leicht dehnen und in die Mitte legen. 3-4 weitere Male rundum wiederholen. Verschliessen und 1h bei Zimmertemperatur ruhen lassen.
-&lt;br /&gt;
-Den Teig nehmen und erneut falten, genau wie beim ersten Mal. Verschliessen und 1h bei Raumtemperatur ruhen lassen, dann 24h in den Kühlschrank stellen.&lt;/p&gt;
-&lt;p&gt;Nun den Teig aus dem Kühlschrank nehmem und 1-2h bei Zimmertemperatur ruhen lassen.
-&lt;br /&gt;
-Nun den Teig mit Hilfe einer Teigkarte aus der Schüssel lösen und auf die gut bemehlte Arbeitsfläche rutschen lassen. Zwei schnelle Falten machen, dafür einfach den Teig an einem Ende etwas dehnen und in die Mitte legen, dann am anderen Ende wiederholen. Den Teig etwas bemehlen, mit einem Tuch abdecken und 30min ruhen lassen.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-10-11-focaccia-alla-zucca-e-rosmarino/impastolievitato.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-10-11-focaccia-alla-zucca-e-rosmarino/spianatoia.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Ein 27x38cm Backblech gut einölen (mit diesen Mengen ist das Backblech dieser Grösse perfekt, ihr könnt natürlich auch zwei kleinere oder eine grössere machen, aber sie wird weniger hoch sein). Teig vorsichtig ins Backblech legen. Den Teig mit seinem Eigengewicht leicht auseinanderziehen, zu diesem Zeitpunkt nicht zu stark ziehen oder drücken. Zugedeckt 30min ruhen lassen.
-&lt;br /&gt;
-Oberfläche der Focaccia einölen, die Finger in den Teig tauchen und so in Form ziehen. Zugedeckt 1h ruhen lassen.
-&lt;br /&gt;
-Nun den Rosmarin auf der Focaccia verteilen, gut eindrücken und zugedeckt 1h ruhen lassen.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-10-11-focaccia-alla-zucca-e-rosmarino/teglia.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-10-11-focaccia-alla-zucca-e-rosmarino/tegliafinita.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Etwas grobes Salz auf der Focaccia verteilen und dann im vorgeheizten Backofen bei 250°C Ober- und Unterhitze ca. 20min backen. Gut kontrollieren, damit sie nicht anbrennt. Sobald sie aus dem Ofen genommen wird, direkt vom Backblech auf ein Auskühlgitter legen, auf diese Weise bleibt sie aussen knusprig, aber innen schön fluffig. Wenn noch Öl im Backblech ist, dieses auf die Focaccia giessen.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-10-11-focaccia-alla-zucca-e-rosmarino/risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-10-11-focaccia-alla-zucca-e-rosmarino/risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-10-11-focaccia-alla-zucca-e-rosmarino/risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-10-11-focaccia-alla-zucca-e-rosmarino/risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-10-11-focaccia-alla-zucca-e-rosmarino/risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-10-11-focaccia-alla-zucca-e-rosmarino/risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-10-11-focaccia-alla-zucca-e-rosmarino/risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-10-11-focaccia-alla-zucca-e-rosmarino/risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-10-11-focaccia-alla-zucca-e-rosmarino/risultato9.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-10-11-focaccia-alla-zucca-e-rosmarino/risultato10.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;h4&gt;Buon appetito
-  &lt;font color=&quot;red&quot;&gt;
-    &lt;i class=&quot;fa-regular fa-face-smile&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt;
-&lt;/h4&gt;</content>
-    <summary type="html" xml:lang="de">
-    
-      &lt;p&gt;&lt;img src=&quot;../2023-10-11-focaccia-alla-zucca-e-rosmarino/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Werbung: &lt;strong&gt;Kürbis-Rosmarin-
-    
-    </summary>
-    
-      <category term="Salato" scheme="https://frangipani.raiano.ch/categories/Salato/"/>
-    
-      <category term="Panificati" scheme="https://frangipani.raiano.ch/categories/Salato/Panificati/"/>
-    
-    
-      <category term="pane" scheme="https://frangipani.raiano.ch/tags/pane/"/>
-    
-      <category term="vegan" scheme="https://frangipani.raiano.ch/tags/vegan/"/>
-    
-      <category term="zucca" scheme="https://frangipani.raiano.ch/tags/zucca/"/>
     
       <category term="autunno" scheme="https://frangipani.raiano.ch/tags/autunno/"/>
     
