@@ -4,7 +4,7 @@
   
   <link href="https://frangipani.raiano.ch/it/atom.xml" rel="self"/>
   <link href="https://frangipani.raiano.ch/"/>
-  <updated>2024-05-28T19:47:15.966Z</updated>
+  <updated>2024-06-04T15:38:16.386Z</updated>
   <id>https://frangipani.raiano.ch/</id>
   
   <author>
@@ -13,6 +13,136 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title xml:lang="it">Sformato di Rabarbaro e Quark</title>
+    <link href="https://frangipani.raiano.ch/2024-06-05-sformato-di-rabarbaro-e-quark/"/>
+    <id>https://frangipani.raiano.ch/2024-06-05-sformato-di-rabarbaro-e-quark/</id>
+    <published>2024-06-04T22:00:00.000Z</published>
+    <updated>2024-06-04T15:38:16.386Z</updated>
+    <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sformato di Rabarbaro e Quark&lt;/strong&gt; un dolce delicato e tanto confortevole. È morbido, succoso e fruttato, uno di quei dolci da mangiare ancora caldo. Ci vuole pochissimo per prepararlo ed è ottimo sia per colazione che per merenda. Non trovate il rabarbaro? Fa niente, usate altra frutta come fragole, frutti di bosco, mele, pesche... quello che volete. Non trovate il Quark? Fa niente, usate la ricotta.
+&lt;br /&gt;
+Come vedete, una ricetta molto versatile e adattabile ai propri gusti.&lt;/p&gt;
+&lt;p&gt;Ed ecco qua Giugno. In Italia probabilmente vi state già preparando per le vacanze estive o addirittura siete già in vacanza. Noi qui dobbiamo resistere ancora un po&amp;#39;. Saranno delle settimane piene con feste, primi camposcuola e spero tanto anche piene di sole, caldo e bagnetti.&lt;/p&gt;
+&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
+  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
+    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
+      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Sformato di Rabarbaro e Quark&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Dolce&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Sformato di Rabarbaro e Quark, un dolce delicato e tanto confortevole. È morbido, succoso e fruttato, uno di quei dolci da mangiare ancora caldo.&lt;/span&gt;
+      &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
+      &lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;3-4&lt;/td&gt;
+            &lt;td&gt;stecche di rabarbaro&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;2&lt;/td&gt;
+            &lt;td&gt;uova&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 pizzico&lt;/td&gt;
+            &lt;td&gt;sale&lt;/td&gt;   
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;50gr&lt;/td&gt;
+            &lt;td&gt;burro a temperatura ambiente&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;50gr&lt;/td&gt;
+            &lt;td&gt;zucchero a velo&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 pizzico&lt;/td&gt;
+            &lt;td&gt;vaniglia&lt;/td&gt; 
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;250gr&lt;/td&gt;
+            &lt;td&gt;Quark o ricotta&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;3 cucchiai&lt;/td&gt;
+            &lt;td&gt;semolino&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;
+      &lt;br&gt;&lt;/br&gt;
+      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot;&gt;per una pirofila da 20cm circa&lt;/i&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h3&gt;
+  &lt;font color=&quot;grey&quot;&gt;
+    &lt;i class=&quot;fa-solid fa-gears&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt; Preparazione
+&lt;/h3&gt;
+
+&lt;p&gt;Lavate e pulite il rabarbaro. Eliminate la parte verde, pelatelo e tagliatelo a pezzettini, tenete da parte.
+&lt;br /&gt;
+Separate le uova e montate a neve gli albumi con un pizzico di sale, poi metteteli da parte. In una coppa a parte montate il burro con lo zucchero a velo e la vaniglia finché sarà bello cremoso. Aggiungete i tuorli e mescolate poi aggiungete il Quark ed il semolino. Finite di mescolare, poi aggiungete gli albumi in più volte incorporandoli con un movimento dall&amp;#39;alto verso il basso.
+&lt;br /&gt;
+Versate la pastella in una pirofila ben imburrata e distribuiteci sopra il rabarbaro.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;pastella.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;teglia.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Infornate lo &lt;strong&gt;Sformato di Rabarbaro e Quark&lt;/strong&gt; nel forno preriscaldato a 180°C ventilato per 40-45min. Prima di servirlo, se volete, finite con una spolverata di zucchero a velo e mangiatelo ancora bello caldo...&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h4&gt;Buon appetito
+  &lt;font color=&quot;red&quot;&gt;
+    &lt;i class=&quot;fa-regular fa-face-smile&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt;
+&lt;/h4&gt;</content>
+    <summary type="html" xml:lang="it">
+    
+      &lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sformato di Rabarbaro e Quark&lt;/strong&gt; un dolce delicato e tanto confor
+    
+    </summary>
+    
+      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
+    
+      <category term="Dolci al cucchiaio, Gelati..." scheme="https://frangipani.raiano.ch/categories/Dolce/Dolci-al-cucchiaio-Gelati/"/>
+    
+    
+      <category term="rabarbaro" scheme="https://frangipani.raiano.ch/tags/rabarbaro/"/>
+    
+      <category term="primavera" scheme="https://frangipani.raiano.ch/tags/primavera/"/>
+    
+  </entry>
   
   <entry>
     <title xml:lang="it">Muffin vegani alle Mandorle con Rabarbaro e Fragole</title>
@@ -2866,135 +2996,6 @@ Per la crema montate l&amp;#39;uovo con lo zucchero ed un pizzico di sale finch�
       <category term="vaniglia" scheme="https://frangipani.raiano.ch/tags/vaniglia/"/>
     
       <category term="colazione" scheme="https://frangipani.raiano.ch/tags/colazione/"/>
-    
-  </entry>
-  
-  <entry>
-    <title xml:lang="it">Spaghetti al Pomodoro con Occhietti di Mozzarella e Olive Nere</title>
-    <link href="https://frangipani.raiano.ch/2023-10-24-spaghetti-al-pomodoro-con-occhietti-di-mozzarella-e-olive-nere/"/>
-    <id>https://frangipani.raiano.ch/2023-10-24-spaghetti-al-pomodoro-con-occhietti-di-mozzarella-e-olive-nere/</id>
-    <published>2023-10-23T22:00:00.000Z</published>
-    <updated>2023-11-06T13:28:03.309Z</updated>
-    <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Spaghetti al Pomodoro con Occhietti di Mozzarella e Olive Nere&lt;/strong&gt; un ottimo piatto di pasta per Halloween che vi farà sentire osservati. Un modo spiritoso, anzi pauroso, per presentare un semplicissimo piatto di spaghetti al pomodoro in tema di Halloween. In più con pochissimo sforzo potete rendere felici i vostri piccoli ospiti o i vostri bimbi.
-&lt;br /&gt;
-Noi amiamo la pasta col sugo, ma quando ho voglia di spaghetti al pomodoro, il sugo no lo cuocio nella pentola facendolo andare per ore e ore. In quel caso faccio una salsa, sempre con la passata di pomodoro, ma la faccio nella padella con uno spicchio d&amp;#39;aglio e poi finisco di cuocere gli spaghetti ancora al dente direttamente nella salsa. In questo modo sarà più cremosa e bella amalgamata. Poi alla fine dovrete solo impiattarla facendo dei mucchietti arrotolando gli spaghetti e distribuiteci sopra gli occhietti fatti con le perle di mozzarella e le olive nere.&lt;/p&gt;
-&lt;p&gt;Ho appena visto che l&amp;#39;ultima &lt;a href=&quot;/tags/halloween/&quot;&gt;ricetta per Halloween&lt;/a&gt; l&amp;#39;ho fatta nel 2020. Non so dirvi perché, ma il periodo dalle vacanze estive fino alle vacanze autunnali è sempre molto molto molto frenetico. Inizio Ottobre ci sono due settimane di vacanze autunnali e durante le vacanze è sempre difficile. Però questa volta ce l&amp;#39;ho fatta e i bimbi erano molto contenti, hanno apprezzato molto!&lt;/p&gt;
-&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
-  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
-    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
-      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Spaghetti al Pomodoro con Occhietti di Mozzarella e Olive Nere&lt;/span&gt;
-      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Salato&lt;/span&gt;
-      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;header.jpeg&quot;/&gt;
-      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
-      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Spaghetti al Pomodoro con Occhietti di Mozzarella e Olive Nere, un ottimo piatto di pasta per Halloween che vi farà sentire osservati.&lt;/span&gt;
-      &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
-      &lt;table&gt;
-        &lt;tbody&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;350gr&lt;/td&gt;
-            &lt;td&gt;Spaghetti&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qb&lt;/td&gt;
-            &lt;td&gt;olio evo&lt;/td&gt;
-          &lt;/tr&gt;  
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1&lt;/td&gt;
-            &lt;td&gt;spicchio d&#39;aglio&lt;/td&gt;
-          &lt;/tr&gt;  
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qb&lt;/td&gt;
-            &lt;td&gt;sale&lt;/td&gt;
-          &lt;/tr&gt;        
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 bottiglia&lt;/td&gt;
-            &lt;td&gt;passata di pomodoro&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qb&lt;/td&gt;
-            &lt;td&gt;basilico&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qb&lt;/td&gt;
-            &lt;td&gt;perle di mozzarella&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qb&lt;/td&gt;
-            &lt;td&gt;olive nere&lt;/td&gt; 
-          &lt;/tr&gt;
-        &lt;/tbody&gt;
-      &lt;/table&gt;
-      &lt;br&gt;&lt;/br&gt;
-      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot; itemprop=&quot;recipeYield&quot;&gt;per 4 persone&lt;/i&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;h3&gt;
-  &lt;font color=&quot;grey&quot;&gt;
-    &lt;i class=&quot;fa-solid fa-gears&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt; Preparazione
-&lt;/h3&gt;
-
-&lt;p&gt;In una padella capiente fate rosolare uno spicchio d&amp;#39;aglio con un filo d&amp;#39;olio ed una spolverata di sale. Aggiungete la passata di pomodoro e mezza bottiglia della passata d&amp;#39;aqua. Abbassate un po&amp;#39; la temperatura, coprite con un coperchio e fate andare finché si sarà addensata.&lt;/p&gt;
-&lt;p&gt;Nel frattempo portate ad ebollizione l&amp;#39;acqua per la pasta, buttate gli spaghetti e salate l&amp;#39;acqua. Scolateli ancora molto al dente e versateli direttamente nella padella con la salsa al pomodoro e finite la cottura aggiungendo man mano un pochino d&amp;#39;acqua di cottura degli spaghetti. Alla fine aggiungete il basilico fresco.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;spaghetti.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;occhi.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Prendete una bella forchettata di spaghetti ed arrotolateli aiutandovi con un cucchiaio, poi adagiateli nel piatto. Ripetete un paio di volte, facendo qualche mucchietto. Poi tagliate a rondelle le olive nere, appogiatele sulle perle di mozzarelle creando degli occhietti. A questo punto mettete un occhietto su ogni mucchietto di spaghetti e se volete anche sparsi un po&amp;#39; qui e la.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;h4&gt;Buon appetito
-  &lt;font color=&quot;red&quot;&gt;
-    &lt;i class=&quot;fa-regular fa-face-smile&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt;
-&lt;/h4&gt;</content>
-    <summary type="html" xml:lang="it">
-    
-      &lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Spaghetti al Pomodoro con Occhietti di Mozzarella e Olive Nere&lt;/strong&gt;
-    
-    </summary>
-    
-      <category term="Salato" scheme="https://frangipani.raiano.ch/categories/Salato/"/>
-    
-      <category term="Piatti Unici" scheme="https://frangipani.raiano.ch/categories/Salato/Piatti-Unici/"/>
-    
-    
-      <category term="halloween" scheme="https://frangipani.raiano.ch/tags/halloween/"/>
-    
-      <category term="pasta" scheme="https://frangipani.raiano.ch/tags/pasta/"/>
-    
-      <category term="pomodoro" scheme="https://frangipani.raiano.ch/tags/pomodoro/"/>
     
   </entry>
   
