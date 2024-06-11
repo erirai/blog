@@ -14,7 +14,7 @@ lang: de
 ---
 ![](../2024-06-12-crostini-con-stracciatella-di-burrata-pomodori-confit-e-asparagi/header.jpeg "frangipani © Erica")
 
-Werbung: **Crostini mit Stracciatella di Burrata, Confit-Tomaten und Spargeln** in Zusammenarbeit mit <a href="https://www.farmy.ch" target="_blank">Farmy</a>. Viel Geschmack konzentriert auf einer Scheibe gutem Brot. Die Cremigkeit der Stracciatella di Burrata, der herrliche Geschmack der Confit-Tomaten, die einen echten Suchtfaktor erzeugen, und dann die Knusprigkeit des Spargels.
+Werbung mit Rabattcode: **Crostini mit Stracciatella di Burrata, Confit-Tomaten und Spargeln** in Zusammenarbeit mit <a href="https://www.farmy.ch" target="_blank">Farmy</a>. Viel Geschmack konzentriert auf einer Scheibe gutem Brot. Die Cremigkeit der Stracciatella di Burrata, der herrliche Geschmack der Confit-Tomaten, die einen echten Suchtfaktor erzeugen, und dann die Knusprigkeit des Spargels.
 <br />
 Kennt ihr die Stracciatella di Burrata? Es ist nichts anderes als das Herz der Burrata, der cremige Teil, der sich im Inneren befindet und fantastisch lecker ist. Es ist gar nicht so einfach, sie zu finden, aber ihr könnt sie bei <a href="https://www.farmy.ch" target="_blank">Farmy</a> finden. Und wenn ihr sie nicht findet, könnt ihr auch Burrata, Büffelmozzarella, normalen Mozzarella, aber auch einen guten Frischkäse verwenden...
 ![](../2024-06-12-crostini-con-stracciatella-di-burrata-pomodori-confit-e-asparagi/spesa.jpeg "frangipani © Erica")
