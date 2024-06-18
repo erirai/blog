@@ -4,7 +4,7 @@
   
   <link href="https://frangipani.raiano.ch/de/atom.xml" rel="self"/>
   <link href="https://frangipani.raiano.ch/"/>
-  <updated>2024-06-11T18:55:09.196Z</updated>
+  <updated>2024-06-17T08:42:13.131Z</updated>
   <id>https://frangipani.raiano.ch/</id>
   
   <author>
@@ -13,6 +13,189 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title xml:lang="de">Ricotta-Erdbeer-Streuselkuchen</title>
+    <link href="https://frangipani.raiano.ch/2024-06-19-ricotta-erdbeer-streuselkuchen/"/>
+    <id>https://frangipani.raiano.ch/2024-06-19-ricotta-erdbeer-streuselkuchen/</id>
+    <published>2024-06-18T22:00:00.000Z</published>
+    <updated>2024-06-17T08:42:13.131Z</updated>
+    <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2024-06-19-sbriciolata-di-ricotta-e-fragole/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ricotta-Erdbeer-Streuselkuchen&lt;/strong&gt; ein delikater Kuchen gefüllt mit cremigem Ricotta und saftigen Erdbeeren. Und das alles umhüllt von einer krümeligen Mürbeteighülle.
+&lt;br /&gt;
+Dieser Kuchen ist so einfach, nach dem Motto: minimaler Aufwand, maximaler Ertrag. Er ist sehr, sehr lecker, sehr zart und was soll man zum Mürbeteig sagen? Nun, ich nicht viel, denn ich liebe Mürbeteig. Anstelle von Erdbeeren kann man auch jedes andere Obst hinzufügen, das ihr mögt. Auf meinem Blog findet ihr auch andere Rezepte für Streuselkuchen wie &lt;a href=&quot;/2021-09-01-sbriciolata-con-prugne-e-crema-alla-cannella-de/&quot;&gt;Zwetschgen-Streuselkuchen mit Zimtcrème&lt;/a&gt;, die nach Spätsommer schmeckt, &lt;a href=&quot;/2022-07-20-heidelbeer-mandel-streuselkuchen/&quot;&gt;Heidelbeer-Mandel-Streuselkuchen&lt;/a&gt; ist eines der besten Dinge überhaupt, &lt;a href=&quot;/2020-06-04-sbriciolata-con-crema-alla-vaniglia-e-lamponi-de/&quot;&gt;Streuselkuchen mit Vanillecreme und Himbeeren&lt;/a&gt;, das drei Dinge enthält, die ich liebe, &lt;a href=&quot;/2018-07-04-sbriciolata-alle-pesche-con-rosmarino-de/&quot;&gt;Pfirsich-Streuselkuchen mit Rosmarin&lt;/a&gt; mit ungewöhnlichen, aber sehr guten Aromen und &lt;a href=&quot;/2017-09-22-sbriciolata-con-crema-di-nocciole-ricotta-e-pere-de/&quot;&gt;Streuselkuchen mit Nuss-Nougat-Creme, Ricotta und Birnen&lt;/a&gt; für ein Herbstdessert.
+&lt;br /&gt;
+Ich liebe dieses Dessert, weil es so einfach zuzubereiten ist. Eine Ruhepause ist nicht nötig, in diesem Fall kann der Teig sofort verwendet werden.&lt;/p&gt;
+&lt;p&gt;Ich möchte euch etwas sagen...
+&lt;br /&gt;
+Vor einiger Zeit ist es uns gelungen, einen grossen Traum von uns zu verwirklichen. Und zwar, ein eigenes Haus mit grossem Garten. Die Suche war gar nicht so einfach. Der Immobilienmarkt ist gnadenlos und die Preise sind absurd. Wie es der Zufall wollte, haben wir die richtigen Leute getroffen, denen ich nie genug danken werde. Es waren Menschen mit unglaublicher Menschlichkeit, Menschen, bei denen das Geld nicht an erster Stelle stand. Eine Eigenschaft, die mittlerweile sehr selten geworden ist. Da es sich um ein Haus aus den 70er Jahren handelt, muss es komplett renoviert werden. Die Renovierung eines Hauses oder einfach nur der Bau eines Hauses ist kein Zuckerschlecken.
+&lt;img src=&quot;../2024-06-19-sbriciolata-di-ricotta-e-fragole/cucina.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Es gibt viele Hindernisse, aber wir überwinden sie alle und wenn alles gut geht, könnten wir im Herbst in unsere Casina einziehen.&lt;/p&gt;
+&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
+  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
+    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
+      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Ricotta-Erdbeer-Streuselkuchen&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Süsses&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2024-06-19-sbriciolata-di-ricotta-e-fragole/header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Ricotta-Erdbeer-Streuselkuchen, ein delikater Kuchen gefüllt mit cremigem Ricotta und saftigen Erdbeeren. Und das alles umhüllt von einer krümeligen Mürbeteighülle.&lt;/span&gt;
+      &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
+      &lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Mürbeteig&lt;/b&gt;&lt;/td&gt;
+          &lt;/tr&gt;      
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;        
+            &lt;td&gt;250gr&lt;/td&gt;
+            &lt;td&gt;Mehl&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;80gr&lt;/td&gt;
+            &lt;td&gt;brauner Zucker&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 Prise&lt;/td&gt;
+            &lt;td&gt;Salz&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;125gr&lt;/td&gt;
+            &lt;td&gt;kalte Butter in Stücke&lt;/td&gt;
+          &lt;/tr&gt;      
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1&lt;/td&gt;
+            &lt;td&gt;kleine Ei&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr style=&quot;height: 15px;&quot;&gt;&lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Füllung&lt;/b&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;250gr&lt;/td&gt;
+            &lt;td&gt;Ricotta&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;      
+            &lt;td&gt;2 Esslöffel&lt;/td&gt;
+            &lt;td&gt;Zucker&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 Esslöffel gestrichen&lt;/td&gt;
+            &lt;td&gt;Mehl&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 Prise&lt;/td&gt;
+            &lt;td&gt;Vanille&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;etwas&lt;/td&gt;
+            &lt;td&gt;Zitronenabrieb&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 Prise&lt;/td&gt;
+            &lt;td&gt;Salz&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;200gr&lt;/td&gt;
+            &lt;td&gt;Erdbeeren&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;
+      &lt;br&gt;&lt;/br&gt;
+      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot; itemprop=&quot;recipeYield&quot;&gt;für eine 20cm Backform&lt;/i&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3&gt;
+  &lt;font color=&quot;grey&quot;&gt;
+    &lt;i class=&quot;fa-solid fa-gears&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt; Zubereitung
+&lt;/h3&gt;
+
+&lt;p&gt;Für den Teig Mehl, Zucker, Salz, Butter und Ei zügig verkneten. Es sollte eine sandige, krümelige Masse entstehen.
+&lt;br /&gt;
+Für die Füllung Ricotta, Zucker, Mehl, Vanille, Zitronenabrieb und Salz in eine Schüssel geben und gut rühren. Die gewaschenen Erdbeeren vierteln.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2024-06-19-sbriciolata-di-ricotta-e-fragole/briciole.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2024-06-19-sbriciolata-di-ricotta-e-fragole/ricotta.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;2/3 der Streusel in eine runde, mit Backpapier ausgelegte Springform füllen und mit den Händen gut andrücken, dabei auch einen Rand formen. Nun den Ricotta auf dem Boden verteilen. Die Erdbeeren in den Ricotta tauchen und den Rest der Mischung über die Erdbeeren streuen.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2024-06-19-sbriciolata-di-ricotta-e-fragole/teglia1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2024-06-19-sbriciolata-di-ricotta-e-fragole/teglia2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Den &lt;strong&gt;Ricotta-Erdbeer-Streuselkuchen&lt;/strong&gt; im vorgeheizten Ofen bei 180°C Ober- und Unterhitze ca. 40min backen. Er sollte schön goldbraun gebacken sein, nicht zu dunkel. Vollständig abkühlen lassen, bevor der Kuchen aus der Form genommen wird. Im Kühlschrank aufbewahren...&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2024-06-19-sbriciolata-di-ricotta-e-fragole/risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2024-06-19-sbriciolata-di-ricotta-e-fragole/risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2024-06-19-sbriciolata-di-ricotta-e-fragole/risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2024-06-19-sbriciolata-di-ricotta-e-fragole/risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2024-06-19-sbriciolata-di-ricotta-e-fragole/risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2024-06-19-sbriciolata-di-ricotta-e-fragole/risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2024-06-19-sbriciolata-di-ricotta-e-fragole/risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2024-06-19-sbriciolata-di-ricotta-e-fragole/risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2024-06-19-sbriciolata-di-ricotta-e-fragole/risultato9.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2024-06-19-sbriciolata-di-ricotta-e-fragole/risultato10.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h4&gt;Buon appetito
+  &lt;font color=&quot;red&quot;&gt;
+    &lt;i class=&quot;fa-regular fa-face-smile&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt;
+&lt;/h4&gt;</content>
+    <summary type="html" xml:lang="de">
+    
+      &lt;p&gt;&lt;img src=&quot;../2024-06-19-sbriciolata-di-ricotta-e-fragole/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ricotta-Erdbeer-Streusel
+    
+    </summary>
+    
+      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
+    
+      <category term="Crostate, Tartes..." scheme="https://frangipani.raiano.ch/categories/Dolce/Crostate-Tartes/"/>
+    
+    
+      <category term="estate" scheme="https://frangipani.raiano.ch/tags/estate/"/>
+    
+      <category term="fragole" scheme="https://frangipani.raiano.ch/tags/fragole/"/>
+    
+      <category term="primavera" scheme="https://frangipani.raiano.ch/tags/primavera/"/>
+    
+  </entry>
   
   <entry>
     <title xml:lang="de">Crostini mit Stracciatella di Burrata, Confit-Tomaten und Spargeln</title>
@@ -2811,149 +2994,6 @@ Dieses Gericht ist vegan, denn um es cremiger zu machen, habe ich pflanzliche Sa
       <category term="inverno" scheme="https://frangipani.raiano.ch/tags/inverno/"/>
     
       <category term="arance" scheme="https://frangipani.raiano.ch/tags/arance/"/>
-    
-  </entry>
-  
-  <entry>
-    <title xml:lang="de">Baumnuss-Honig-Muffins</title>
-    <link href="https://frangipani.raiano.ch/2023-11-15-baumnuss-honig-muffins/"/>
-    <id>https://frangipani.raiano.ch/2023-11-15-baumnuss-honig-muffins/</id>
-    <published>2023-11-14T23:00:00.000Z</published>
-    <updated>2023-11-06T13:23:02.071Z</updated>
-    <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2023-11-15-muffin-alle-noci-e-miele/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Werbung: &lt;strong&gt;Baumnuss-Honig-Muffins&lt;/strong&gt; in Zusammenarbeit mit &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt;. Sehr fluffige Muffins, sehr herbstlich, voller Nüsse und duften herrlich nach Honig. Sie werden &amp;quot;ohne Zuckerzusatz&amp;quot; zubereitet, sondern nur mit Honig gesüsst. Diese Muffins sind vegan, wenn ihr zu den Veganern gehört, die Honig essen, ansonsten könnt ihr den Honig durch Zucker ersetzen.
-&lt;br /&gt;
-Man schmeckt den Honig sehr stark, daher empfehle ich euch, einen Honig zu verwenden, den ihr mögt. Mein Lieblingshonig ist Orangenblütenhonig, den ich auf &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt; gekauft habe, sowie auch die Baumnüsse, den pflanzlichen Joghurt und die Stärke.
-&lt;img src=&quot;../2023-11-15-muffin-alle-noci-e-miele/spesa.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Ihr könnt auch problemlos einige Schokoladenstückchen oder andere Trockenfrüchte hinzufügen. Wenn ich sie nur für meine Kinder zubereitet hätte, hätte ich auch Rosinen hinzugefügt.&lt;/p&gt;
-&lt;p&gt;Ach ja, auch Muffinförmchen könnt ihr bei &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt; kaufen. Sowie auch sehr leckere Muffins, weil man einfach auch mal faul sein und die Profis backen lassen darf.&lt;/p&gt;
-&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
-  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
-    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
-      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Baumnuss-Honig-Muffins&lt;/span&gt;
-      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Süsses&lt;/span&gt;
-      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2023-11-15-muffin-alle-noci-e-miele/header.jpeg&quot;/&gt;
-      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
-      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Baumnuss-Honig-Muffins, sehr fluffige Muffins, sehr herbstlich, voller Nüsse und duften herrlich nach Honig.&lt;/span&gt;
-      &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
-      &lt;table&gt;
-        &lt;tbody&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;200gr&lt;/td&gt;
-            &lt;td&gt;Mehl&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;40gr&lt;/td&gt;
-            &lt;td&gt;Kartoffel- oder Maisstärke&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;9gr&lt;/td&gt;
-            &lt;td&gt;Backpulver&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 Prise&lt;/td&gt;
-            &lt;td&gt;Salz&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;200gr&lt;/td&gt;
-            &lt;td&gt;pflanzlicher Naturjoghurt&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;100gr&lt;/td&gt;
-            &lt;td&gt;Sonnenblumenöl&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;80gr&lt;/td&gt;
-            &lt;td&gt;Honig oder Zucker&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qs&lt;/td&gt;
-            &lt;td&gt;Venilleessenz&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;60gr&lt;/td&gt;
-            &lt;td&gt;Baumnüsse gehackt&lt;/td&gt;
-          &lt;/tr&gt;
-        &lt;/tbody&gt;
-      &lt;/table&gt;
-      &lt;br&gt;&lt;/br&gt;
-      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot; itemprop=&quot;recipeYield&quot;&gt;für 12 Muffins&lt;/i&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;h3&gt;
-  &lt;font color=&quot;grey&quot;&gt;
-    &lt;i class=&quot;fa fa-cogs&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt; Zubereitung
-&lt;/h3&gt;
-
-&lt;p&gt;Mehl, Stärke, Backpulver und eine Prise Salz in eine grosse Schüssel geben und vermischen. Den Joghurt und das Öl dazu geben, kurz rühren, dann auch den Honig und die Vanilleessenz hinzufügen (wenn ihr statt Honig Zucker verwendet, den Zucker zusammen mit dem Mehl mischen) und alles gut vermischen. Zum Schluss die Baumnüsse dazugeben und gut vermengen. Die Muffinförmchen mit Hilfe eines Eisportionierers zu 3/4 füllen.
-&lt;img src=&quot;../2023-11-15-muffin-alle-noci-e-miele/teglia.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Die &lt;strong&gt;Baumnuss-Honig-Muffins&lt;/strong&gt; im vorgeheizten Backofen bei 200°C Ober- und Unterhitze 20min lang backen, immer die Stäbchenprobe machen.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-11-15-muffin-alle-noci-e-miele/risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-11-15-muffin-alle-noci-e-miele/risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-11-15-muffin-alle-noci-e-miele/risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-11-15-muffin-alle-noci-e-miele/risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-11-15-muffin-alle-noci-e-miele/risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-11-15-muffin-alle-noci-e-miele/risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-11-15-muffin-alle-noci-e-miele/risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-11-15-muffin-alle-noci-e-miele/risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2023-11-15-muffin-alle-noci-e-miele/risultato9.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2023-11-15-muffin-alle-noci-e-miele/risultato10.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;h4&gt;Buon appetito
-  &lt;font color=&quot;red&quot;&gt;
-    &lt;i class=&quot;fa-regular fa-face-smile&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt;
-&lt;/h4&gt;</content>
-    <summary type="html" xml:lang="de">
-    
-      &lt;p&gt;&lt;img src=&quot;../2023-11-15-muffin-alle-noci-e-miele/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Werbung: &lt;strong&gt;Baumnuss-Honig-Muffins&lt;
-    
-    </summary>
-    
-      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
-    
-      <category term="Muffin, Cupcakes, Cake Pops..." scheme="https://frangipani.raiano.ch/categories/Dolce/Muffin-Cupcakes-Cake-Pops/"/>
-    
-    
-      <category term="vegan" scheme="https://frangipani.raiano.ch/tags/vegan/"/>
-    
-      <category term="noci" scheme="https://frangipani.raiano.ch/tags/noci/"/>
-    
-      <category term="autunno" scheme="https://frangipani.raiano.ch/tags/autunno/"/>
     
   </entry>
   
