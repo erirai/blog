@@ -92,7 +92,7 @@ Mit der Zugabe von Äpfeln werden die Zimtschnecken saftiger. Ich benutze die Ä
   </font> Zubereitung
 </h3>
 
-Mehl, Salz und Zucker in die Küchenmaschine geben und mischen. Die Milch mit der Butter in einem Topf leicht aufwärmen, vom Herd nehmen und die Hefe in der Milch auflösen. Die Milch in die Küchenmaschine giessen und kneten, bis der Teig schön glatt und homogen ist. Zugedeckt mindestens 12 Stunden oder über Nacht aufgehen lassen (das Volumen muss sich verdoppeln).
+Mehl, Salz und Zucker in die Küchenmaschine geben und mischen. Die Milch mit der Butter in einem Topf leicht aufwärmen, vom Herd nehmen und die Hefe in der Milch auflösen. Die Milch in die Küchenmaschine giessen und kneten, bis der Teig schön glatt und homogen ist. Zugedeckt mindestens 12h oder über Nacht aufgehen lassen (das Volumen muss sich verdoppeln).
 
 Bevor man mit dem Teig fortfährt, Äpfel schälen, Kerngehäuse entfernen, dann zuerst in Schnitze und dann in kleine, dünne Scheiben schneiden. Die Apfelstückchen in eine Schüssel geben, Zucker und Zimt hinzufügen, mischen und in den Kühlschrank stellen.
 

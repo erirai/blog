@@ -1,5 +1,5 @@
 ---
-title: "fluffige Pistazien-Himbeer-Schnecken"
+title: "Fluffige Pistazien-Himbeer-Schnecken"
 date: 2021-07-06
 tags:
 - lamponi

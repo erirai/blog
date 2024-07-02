@@ -30,7 +30,7 @@ Nella tradizione svizzera ogni anno il 6 dicembre San Nicolao viene a trovare i 
             <td>farina finissima</td>
           </tr>
           <tr>
-            <td>1/2 cucchiaio</td>
+            <td>1 cucchiaino</td>
             <td>sale</td>
           </tr>
           <tr>
