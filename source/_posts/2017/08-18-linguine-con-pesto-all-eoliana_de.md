@@ -15,7 +15,7 @@ lang: de
 ---
 ![](../2017-08-18-linguine-con-pesto-all-eoliana/header.jpg "frangipani © Erica")
 
-Im Mai, als wir in Sizilien waren, hat meine Cousine Pasta mit diesem Pesto nach Äolischer Art gekocht. Ich wusste nicht, was es für ein Pesto war, aber es war perfekt! Frisch, schmackhaft, würzig... einfach lecker! Ich hab sie nicht einmal nach dem Rezept gefragt, aber vor ein paar Wochen, musste ich wieder daran denken. Sie hat mir das Rezept gegeben und ich habe es sofort vorbereitet. Ich mag es sehr und es eignet sich besonders für diese noch warmen Sommertage, vor allem, weil wir Mitten in der Tomatensaison sind. Dieser Pesto ist sehr leicht, kann auch für Pasta, Kartoffeln-, Broccoli- oder Rosenkohlsalate gebraucht werden... Ich setze dieses Rezept auf die Liste meiner Lieblingsrezepte! Und ihr?
+Im Mai, als wir in Sizilien waren, hat meine Cousine Pasta mit diesem Pesto nach Äolischer Art gekocht. Ich wusste nicht, was es für ein Pesto war, aber es war perfekt! Frisch, schmackhaft, würzig... einfach lecker! Ich hab sie nicht einmal nach dem Rezept gefragt, aber vor ein paar Wochen, musste ich wieder daran denken. Sie hat mir das Rezept gegeben und ich habe es sofort vorbereitet. Ich mag es sehr und es eignet sich besonders für diese noch warmen Sommertage, vor allem, weil wir Mitten in der Tomatensaison sind. Dieses Pesto ist sehr leicht, kann auch für Pasta, Kartoffeln-, Broccoli- oder Blumenkohlsalate gebraucht werden... Ich setze dieses Rezept auf die Liste meiner Lieblingsrezepte! Und ihr?
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
@@ -40,24 +40,24 @@ Im Mai, als wir in Sizilien waren, hat meine Cousine Pasta mit diesem Pesto nach
             <td>Cherrytomaten</td>
           </tr>
           <tr>
-            <td>qs</td>
+            <td>etwas</td>
             <td>Mandeln geschält</td>
           </tr>
           <tr>
-            <td>qs</td>
+            <td>etwas</td>
             <td>Kapern in Salz</td>
           </tr>
           <tr>
-            <td>qs</td>
+            <td>etwas</td>
             <td>Basilikum</td>
           </tr>
           <tr>
-            <td>qs</td>
+            <td>etwas</td>
             <td>Olivenöl</td>
           </tr>
           <tr>
-            <td>qs</td>
-            <td>Salu</td>
+            <td>etwas</td>
+            <td>Salz</td>
           </tr>
         </tbody>
       </table>
