@@ -21,7 +21,7 @@ Auf der <a href="https://www.farmy.ch" target="_blank">Farmy</a>-Website findet 
 
 Wenn ihr Zeit und Lust habt, Burger Buns selbst zuzubereiten, könnt ihr mein <a href="/2015-09-23-burger-buns/">Rezept</a> verwenden, andernfalls kauft sie bequem bei <a href="https://www.farmy.ch" target="_blank">Farmy</a>.
 
-Jetzt sind wir alle bereit für das sommerliche Grillen oder wenn das Wetter nicht mitspielt, können wir jederzeit den Ofen oder die Grillpfanne nutzen, um diesen **mediterranen Halloumi-Burger** zuzubereiten. Mit dem Code ERICA20 erhaltet ihr 20CHF Rabatt auf eine Bestellung über 100CHF (nur einmal pro Kunde einlösbar und nicht kumilierbar, gültig bis 31.07.24).
+Jetzt sind wir alle bereit für das sommerliche Grillen oder wenn das Wetter nicht mitspielt, können wir jederzeit den Ofen oder die Grillpfanne nutzen, um diesen **mediterranen Halloumi-Burger** zuzubereiten. Mit dem Code ERICA20 erhaltet ihr 20CHF Rabatt auf eine Bestellung über 100CHF (nur einmal pro Kunde einlösbar und nicht kumulierbar, gültig bis 31.07.24).
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
