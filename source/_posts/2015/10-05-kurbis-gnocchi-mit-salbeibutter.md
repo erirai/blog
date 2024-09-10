@@ -31,7 +31,7 @@ Jaaa, heute habe ich es endlich geschafft, **Kürbis-Gnocchi** zuzubereiten! Ich
           </tr>
           <tr itemprop="recipeIngredient"> 
             <td>600gr</td>
-            <td>Kürbis Hokaido oder Butternut</td>
+            <td>Kürbis Hokkaido oder Butternut</td>
           </tr>
           <tr itemprop="recipeIngredient"> 
             <td>200gr</td>

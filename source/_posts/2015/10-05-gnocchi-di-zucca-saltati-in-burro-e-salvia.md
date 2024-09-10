@@ -31,7 +31,7 @@ Siii, oggi finalmente ce l'ho fatta a fare gli **Gnocchi di Zucca**! Sto sfrutta
           </tr>
           <tr itemprop="recipeIngredient"> 
             <td>600gr</td>
-            <td>zucca tipo Hokaido o Butternut</td>
+            <td>zucca tipo Hokkaido o Butternut</td>
           </tr>
           <tr itemprop="recipeIngredient"> 
             <td>200gr</td>
