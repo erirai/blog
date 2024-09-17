@@ -3,6 +3,27 @@
 
 
     <url>
+        <loc>https://frangipani.raiano.ch/tags/prugne/</loc>
+        <lastmod>2024-09-17T17:51:41.912Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/tags/autunno/</loc>
+        <lastmod>2024-09-17T17:51:41.912Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/tags/estate/</loc>
+        <lastmod>2024-09-17T17:51:41.912Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://frangipani.raiano.ch/tags/zucca/</loc>
         <lastmod>2024-09-05T09:23:16.342Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -38,13 +59,6 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/tags/autunno/</loc>
-        <lastmod>2024-09-04T10:00:51.219Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://frangipani.raiano.ch/tags/melanzane/</loc>
         <lastmod>2024-09-01T15:44:37.881Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -53,13 +67,6 @@
 
     <url>
         <loc>https://frangipani.raiano.ch/tags/pasta/</loc>
-        <lastmod>2024-09-01T15:44:37.881Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/tags/estate/</loc>
         <lastmod>2024-09-01T15:44:37.881Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -502,13 +509,6 @@
     <url>
         <loc>https://frangipani.raiano.ch/tags/bulgur/</loc>
         <lastmod>2023-08-15T20:40:05.206Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/tags/prugne/</loc>
-        <lastmod>2023-08-15T20:40:05.204Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
