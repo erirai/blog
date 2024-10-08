@@ -3,14 +3,35 @@
 
 
     <url>
-        <loc>https://frangipani.raiano.ch/tags/prugne/</loc>
-        <lastmod>2024-09-17T17:51:41.912Z</lastmod>
+        <loc>https://frangipani.raiano.ch/tags/autunno/</loc>
+        <lastmod>2024-10-03T11:55:24.198Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/tags/autunno/</loc>
+        <loc>https://frangipani.raiano.ch/tags/zucca/</loc>
+        <lastmod>2024-10-03T11:55:24.198Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/tags/inverno/</loc>
+        <lastmod>2024-10-03T11:55:24.198Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/tags/halloween/</loc>
+        <lastmod>2024-10-03T11:55:24.198Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/tags/prugne/</loc>
         <lastmod>2024-09-17T17:51:41.912Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -19,20 +40,6 @@
     <url>
         <loc>https://frangipani.raiano.ch/tags/estate/</loc>
         <lastmod>2024-09-17T17:51:41.912Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/tags/zucca/</loc>
-        <lastmod>2024-09-05T09:23:16.342Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/tags/halloween/</loc>
-        <lastmod>2024-09-05T09:23:16.342Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -131,13 +138,6 @@
     <url>
         <loc>https://frangipani.raiano.ch/tags/panificati/</loc>
         <lastmod>2024-06-21T08:07:14.982Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/tags/inverno/</loc>
-        <lastmod>2024-06-21T07:34:14.576Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
