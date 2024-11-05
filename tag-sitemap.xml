@@ -4,7 +4,28 @@
 
     <url>
         <loc>https://frangipani.raiano.ch/tags/autunno/</loc>
-        <lastmod>2024-10-22T08:17:19.120Z</lastmod>
+        <lastmod>2024-11-04T14:37:12.201Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/tags/inverno/</loc>
+        <lastmod>2024-11-04T14:37:12.201Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/tags/nocciole/</loc>
+        <lastmod>2024-11-04T14:37:12.201Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/tags/cioccolato/</loc>
+        <lastmod>2024-11-04T14:37:12.201Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -19,13 +40,6 @@
     <url>
         <loc>https://frangipani.raiano.ch/tags/muffin-salati/</loc>
         <lastmod>2024-10-22T08:17:19.120Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/tags/inverno/</loc>
-        <lastmod>2024-10-17T19:30:29.951Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -222,13 +236,6 @@
     <url>
         <loc>https://frangipani.raiano.ch/tags/conserve/</loc>
         <lastmod>2024-04-14T15:53:18.132Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/tags/cioccolato/</loc>
-        <lastmod>2024-04-02T14:38:55.943Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -704,13 +711,6 @@
 
     <url>
         <loc>https://frangipani.raiano.ch/tags/paneer/</loc>
-        <lastmod>2023-08-15T20:38:54.645Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/tags/nocciole/</loc>
         <lastmod>2023-08-15T20:38:54.645Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
