@@ -4,7 +4,7 @@
   
   <link href="https://frangipani.raiano.ch/de/atom.xml" rel="self"/>
   <link href="https://frangipani.raiano.ch/"/>
-  <updated>2024-11-04T14:37:12.201Z</updated>
+  <updated>2024-11-12T15:07:52.303Z</updated>
   <id>https://frangipani.raiano.ch/</id>
   
   <author>
@@ -13,6 +13,146 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title xml:lang="de">Kartoffel-Pilz-Suppe</title>
+    <link href="https://frangipani.raiano.ch/2024-11-13-kartoffel-pilz-suppe/"/>
+    <id>https://frangipani.raiano.ch/2024-11-13-kartoffel-pilz-suppe/</id>
+    <published>2024-11-12T23:00:00.000Z</published>
+    <updated>2024-11-12T15:07:52.303Z</updated>
+    <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2024-11-13-vellutata-ai-funghi-e-patate/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Werbung: &lt;strong&gt;Kartoffel-Pilz-Suppe&lt;/strong&gt; in Zusammenarbeit mit &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt;, super lecker und wärmend, genau das, was man bei dieser Kälte braucht.&lt;/p&gt;
+&lt;p&gt;Als Pilze habe ich Champignons und Steinpilze verwendet, es steht euch aber völlig frei, die Pilze zu verwenden, die ihr bevorzugt. Auf &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt; hat man eine ausgezeichnete und grosse Auswahl an Pilzen... Um der Suppe einen guten, vollmundigen Geschmack zu verleihen, ist es wichtig, die Pilze gut anzubraten, damit das gesamte Wasser austritt. Danach die Kartoffeln dazu geben, diese mit den Pilzen gut vermengen und dann mit der Gemüsebrühe ablöschen.
+&lt;br /&gt;
+Die Farbe ist also nicht die beste, aber das Aussehen wird durch den Geschmack grosszügig kompensiert! Um die Suppe noch cremiger zu machen, habe ich noch etwas pflanzliche Sahne hinzugefügt. Passt die Konsistenz mit der Gemüsebrühe an... Die einen mögen sie dickflüssiger, die anderen bevorzugen eher flüssigere Suppen.&lt;/p&gt;
+&lt;p&gt;Ich liebe es, geröstete Pilze als Topping für Suppen zu verwenden... Sie verleihen dem Ganzen die besondere Note, die alles interessanter macht!&lt;/p&gt;
+&lt;p&gt;Wenn ihr, wie ich, bei diesem grauen und kalten Wetter lieber nicht rausgehen möchtet, empfehle ich euch, alles, was ihr braucht, bei &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt; zu bestellen und benutzt mein Code &lt;strong&gt;erica20&lt;/strong&gt;, so erhaltet ihr 20CHF Rabatt auf eine Bestellung über 100CHF (nur einmal pro Kunde einlösbar und nicht kumulierbar, gültig bis 31.12.24).&lt;/p&gt;
+&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
+  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
+    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
+      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Kartoffel-Pilz-Suppe&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Herzhaftes&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2024-11-13-vellutata-ai-funghi-e-patate/header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Kartoffel-Pilz-Suppe, super lecker und wärmend, genau das, was man bei dieser Kälte braucht.&lt;/span&gt;
+      &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
+      &lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1&lt;/td&gt;
+            &lt;td&gt;Lauch&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;400gr&lt;/td&gt;
+            &lt;td&gt;gemischte Pilze&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;800gr&lt;/td&gt;
+            &lt;td&gt;Kartoffeln&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;etwas&lt;/td&gt;
+            &lt;td&gt;Gemüsebrühe&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;200ml&lt;/td&gt;
+            &lt;td&gt;pflanzliche Sahne&lt;/td&gt;     
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;etwas&lt;/td&gt;
+            &lt;td&gt;Rosmarin&lt;/td&gt;
+           &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1&lt;/td&gt;
+            &lt;td&gt;Knoblauchzehe&lt;/td&gt;  
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;etwas&lt;/td&gt;
+            &lt;td&gt;Butter oder Olivenöl&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;etwas&lt;/td&gt;
+            &lt;td&gt;Salz&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;
+      &lt;br&gt;&lt;/br&gt;
+      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot;&gt;für 3-4 Personen&lt;/i&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h3&gt;
+  &lt;font color=&quot;grey&quot;&gt;
+    &lt;i class=&quot;fa-solid fa-gears&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt; Zubereitung
+&lt;/h3&gt;
+
+&lt;p&gt;Die Pilze putzen (ich Champignons und Steinpilze), in kleine Stücke schneiden und beiseite stellen. Kartoffeln schälen und in kleine Stücke schneiden und ebenfalls beiseite stellen. Den Lauch putzen, in dünne Scheiben schneiden und anschliessend mit einem Stück Butter oder Olivenöl, einer Prise Salz und Rosmarin anbraten. Sobald der Lauch goldbraun ist, die Pilze hinzufügen, 50–100gr davon beiseite halten und alles gut anbraten, bis die Pilze ihr Wasser verloren haben. Nun die Kartoffeln dazugeben, kurz anbraten, dann mit der Gemüsebrühe bedecken und bei mittlerer Temperatur kochen, bis die Kartoffeln gar sind.
+&lt;br /&gt;
+An diesem Punkt salzen, noch etwas Gemüsebrühe dazugeben und alles gut pürieren. Wieder auf den Herd stellen, die pflanzliche Sahne und bei Bedarf noch etwas Gemüsebrühe hinzu fügen und mit Salz abschmecken. Bei sehr niedriger Temperatur noch einige Minuten köcheln lassen.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2024-11-13-vellutata-ai-funghi-e-patate/funghiepatate.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2024-11-13-vellutata-ai-funghi-e-patate/zuppa.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Zum Schluss ein kleines Stück Butter oder Olivenöl und den ganzen Knoblauch in eine Pfanne geben und kurz anbraten, dann die restlichen Pilze hinzufügen und rösten lassen, bis sie ihr gesamtes Wasser verloren haben. Zum Schluss Salz hinzufügen.
+&lt;br /&gt;
+Die Suppe in eine kleine Schüssel giessen, die Pilze hinzu fügen und einen Schuss Öl und geniesst die Suppe noch heiss, vielleicht mit einer Scheibe Brot.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2024-11-13-vellutata-ai-funghi-e-patate/risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2024-11-13-vellutata-ai-funghi-e-patate/risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2024-11-13-vellutata-ai-funghi-e-patate/risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2024-11-13-vellutata-ai-funghi-e-patate/risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2024-11-13-vellutata-ai-funghi-e-patate/risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2024-11-13-vellutata-ai-funghi-e-patate/risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h4&gt;Buon appetito
+  &lt;font color=&quot;red&quot;&gt;
+    &lt;i class=&quot;fa-regular fa-face-smile&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt;
+&lt;/h4&gt;</content>
+    <summary type="html" xml:lang="de">
+    
+      &lt;p&gt;&lt;img src=&quot;../2024-11-13-vellutata-ai-funghi-e-patate/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Werbung: &lt;strong&gt;Kartoffel-Pilz-Supp
+    
+    </summary>
+    
+      <category term="Salato" scheme="https://frangipani.raiano.ch/categories/Salato/"/>
+    
+      <category term="Primi Piatti" scheme="https://frangipani.raiano.ch/categories/Salato/Primi-Piatti/"/>
+    
+    
+      <category term="vegan" scheme="https://frangipani.raiano.ch/tags/vegan/"/>
+    
+      <category term="inverno" scheme="https://frangipani.raiano.ch/tags/inverno/"/>
+    
+      <category term="autunno" scheme="https://frangipani.raiano.ch/tags/autunno/"/>
+    
+      <category term="funghi" scheme="https://frangipani.raiano.ch/tags/funghi/"/>
+    
+  </entry>
   
   <entry>
     <title xml:lang="de">Tiroler Nusskuchen</title>
@@ -3031,160 +3171,6 @@ Wir Italiener wissen, wie man Pasta zubereitet, wie man Tomatensugo kocht... die
     
     
       <category term="pasta" scheme="https://frangipani.raiano.ch/tags/pasta/"/>
-    
-  </entry>
-  
-  <entry>
-    <title xml:lang="de">Schokoladen-Donuts</title>
-    <link href="https://frangipani.raiano.ch/2024-04-03-schokoladen-donuts/"/>
-    <id>https://frangipani.raiano.ch/2024-04-03-schokoladen-donuts/</id>
-    <published>2024-04-02T22:00:00.000Z</published>
-    <updated>2024-04-02T14:38:55.943Z</updated>
-    <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2024-04-03-ciambelle-al-cioccolato/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Schokoladen-Donuts&lt;/strong&gt; sehr schokoladige Küchlein, super zum Verarbeiten von viel Schokolade. Für die Donuts kann man Milch- oder dunkle Schokolade verwenden. Mit Milchschokolade werden sie etwas süsser. Für die Glasur kann man jedoch jede Schokolade verwenden, die man möchte oder hat, denn ich bin mir sicher, dass wir alle ziemlich viel Osterschokolade übrig haben.
-&lt;br /&gt;
-Wenn ihr kein Donuts-Backblech habt, könnt ihr ganz einfach Muffins backen oder wenn ihr andere Formen wie kleine Gugelhupfs oder kleine Kastenküchlein habt, sind diese genauso gut.&lt;/p&gt;
-&lt;p&gt;Was macht ihr mit der übriggebliebenen Osterschokolade? Ich versuche, ein paar schokoladige Desserts zuzubereiten oder sie zu zerstückeln und einzufrieren. So habe ich immer Schokolade für Kuchen, süsse Brötchen, für Schoko-Glasur oder &lt;a href=&quot;/2013-10-26-brownies-de/&quot;&gt;Brownies&lt;/a&gt;. Glaubt mir, wenn ich euch sage, dass Brownies mit Osterschokolade die besten sind! Fragt nicht warum, aber es ist so.&lt;/p&gt;
-&lt;p&gt;Und herzlich willkommen auch dir, April! Ostern ist vorbei, der Frühling scheint angekommen, aber ich habe immer noch ein bitzeli Angst, dass es wieder schneien könnte. Das ist schon mehrmals passiert, es ist jedes Mal schrecklich, besonders wenn man alles in Blüte sieht. Aber was willst du machen?! Richtig, positiv denken und hoffen, dass es nicht passiert. Ich kann es kaum erwarten, die Winterjacken, Schals und Stiefeletten endlich weg zu räumen, kann sie nicht mehr ausstehen. Ich möchte endlich meine Jeansjacke anziehen und schauen, ob ich noch Knöchel habe...&lt;/p&gt;
-&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
-  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
-    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
-      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Schokoladen-Donuts&lt;/span&gt;
-      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Süsses&lt;/span&gt;
-      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2024-04-03-ciambelle-al-cioccolato/header.jpeg&quot;/&gt;
-      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
-      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Schokoladen-Donuts, super schokoladige Küchlein, super zum Verarbeiten von viel Schokolade.&lt;/span&gt;
-      &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
-      &lt;table&gt;
-        &lt;tbody&gt;
-          &lt;tr&gt;     
-            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Schoko-Teig&lt;/b&gt;&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;140gr&lt;/td&gt;
-            &lt;td&gt;Schokolade (Milch- oder dunkel)&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;2&lt;/td&gt;
-            &lt;td&gt;Eier&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;60gr&lt;/td&gt;
-            &lt;td&gt;Zucker&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;65gr&lt;/td&gt;
-            &lt;td&gt;Sonnenblumenöl&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;135gr&lt;/td&gt;
-            &lt;td&gt;Milch&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;150gr&lt;/td&gt;
-            &lt;td&gt;Mehl&lt;/td&gt;
-         &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;15gr&lt;/td&gt;
-            &lt;td&gt;Kakaopulver&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1/2 Päckchen&lt;/td&gt;
-            &lt;td&gt;Backpulver&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 Prise&lt;/td&gt;
-            &lt;td&gt;Salz&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;etwas&lt;/td&gt;
-            &lt;td&gt;Vanille&lt;/td&gt;
-           &lt;tr&gt;     
-            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Glasur&lt;/b&gt;&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;150gr&lt;/td&gt;
-            &lt;td&gt;Schokolade&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;2-3 Esslöffel&lt;/td&gt;
-            &lt;td&gt;Rahm&lt;/td&gt;
-          &lt;/tr&gt;
-        &lt;/tbody&gt;
-      &lt;/table&gt;
-      &lt;br&gt;&lt;/br&gt;
-      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot; itemprop=&quot;recipeYield&quot;&gt;für ca. 10 Donuts&lt;/i&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;h3&gt;
-  &lt;font color=&quot;grey&quot;&gt;
-    &lt;i class=&quot;fa-solid fa-gears&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt; Zubereitung
-&lt;/h3&gt;
-
-&lt;p&gt;Die Schokolade im Wasserbad schmelzen und beiseite stellen. In der Zwischenzeit die Eier mit dem Zucker hellschaumig schlagen. Die geschmolzene Schokolade, dann das Öl und die Hälfte der Milch unter ständigem Rühren hinzufügen. Mehl, Kakao, Backpulver, Salz und Vanille mischen. Das Mehlgemisch und die restliche Milch immer abwechselnd hinzu geben und verrühren, bis eine schöne, glatte Masse entsteht.&lt;/p&gt;
-&lt;p&gt;Den Teig in einen Spritzbeutel giessen und die Mulden der Donutform füllen (evtl. muss man das Blech zuerst bebuttern und bemehlen, wenn ihr keine Donutform habt, gehen auch Muffins oder andere Formen).
-&lt;br /&gt;
-Die &lt;strong&gt;Schokoladen-Donuts&lt;/strong&gt; im vorgeheizten Backofen bei 180°C Ober- und Unterhitze etwa 20 Minuten lang backen. Lasst sie einen Moment in der Backform abkühlen und gebt sie dann zum vollständigen Abkühlen auf ein Gitter.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2024-04-03-ciambelle-al-cioccolato/teglia.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2024-04-03-ciambelle-al-cioccolato/ciambelle.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Für die Glasur die Schokolade im Wasserbad mit 2-3 Esslöffel Rahm (Sahne) schmelzen. Sobald die Schokolade geschmolzen ist, taucht die Donuts in die Glasur und lasst alles trocknen, bevor ihr sie esst...&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2024-04-03-ciambelle-al-cioccolato/risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2024-04-03-ciambelle-al-cioccolato/risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2024-04-03-ciambelle-al-cioccolato/risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2024-04-03-ciambelle-al-cioccolato/risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2024-04-03-ciambelle-al-cioccolato/risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2024-04-03-ciambelle-al-cioccolato/risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;h4&gt;Buon appetito
-  &lt;font color=&quot;red&quot;&gt;
-    &lt;i class=&quot;fa-regular fa-face-smile&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt;
-&lt;/h4&gt;
-</content>
-    <summary type="html" xml:lang="de">
-    
-      &lt;p&gt;&lt;img src=&quot;../2024-04-03-ciambelle-al-cioccolato/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Schokoladen-Donuts&lt;/strong&gt; sehr 
-    
-    </summary>
-    
-      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
-    
-      <category term="Muffin, Cupcakes, Cake Pops..." scheme="https://frangipani.raiano.ch/categories/Dolce/Muffin-Cupcakes-Cake-Pops/"/>
-    
-    
-      <category term="cioccolato" scheme="https://frangipani.raiano.ch/tags/cioccolato/"/>
-    
-      <category term="colazione" scheme="https://frangipani.raiano.ch/tags/colazione/"/>
-    
-      <category term="pasqua" scheme="https://frangipani.raiano.ch/tags/pasqua/"/>
     
   </entry>
   
