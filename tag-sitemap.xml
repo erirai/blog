@@ -3,6 +3,27 @@
 
 
     <url>
+        <loc>https://frangipani.raiano.ch/tags/panificati/</loc>
+        <lastmod>2024-11-20T15:27:27.252Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/tags/vegan/</loc>
+        <lastmod>2024-11-20T15:27:27.252Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/tags/pane/</loc>
+        <lastmod>2024-11-20T15:27:27.252Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://frangipani.raiano.ch/tags/funghi/</loc>
         <lastmod>2024-11-12T15:25:20.158Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -18,13 +39,6 @@
 
     <url>
         <loc>https://frangipani.raiano.ch/tags/inverno/</loc>
-        <lastmod>2024-11-12T15:25:20.158Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/tags/vegan/</loc>
         <lastmod>2024-11-12T15:25:20.158Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -171,13 +185,6 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/tags/panificati/</loc>
-        <lastmod>2024-06-21T08:07:14.982Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://frangipani.raiano.ch/tags/pasta-lievita/</loc>
         <lastmod>2024-06-20T09:36:33.197Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -313,13 +320,6 @@
     <url>
         <loc>https://frangipani.raiano.ch/tags/vaniglia/</loc>
         <lastmod>2023-11-06T12:40:25.858Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/tags/pane/</loc>
-        <lastmod>2023-10-10T13:35:14.659Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
