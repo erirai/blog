@@ -29,7 +29,7 @@ Dann ist es auch mein erstes neues Rezept aus dem neuen Haus... Es scheint viell
       <span itemprop="recipeCategory" style="display:none;">Süsses</span>
       <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2024-11-06-torta-di-nocciole-alla-tirolese/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
-      <span itemprop="description" style="display:none;">Tiroler Nusskuchen, ein rustikaler Kuchen mit kräftigen Aromen und sehr einfach zuzubereiten. Er gehört in die Kategorie: Alle Zutaten in eine Schüssel geben, rühren und fertig</span>
+      <span itemprop="description" style="display:none;">Tiroler Nusskuchen, ein rustikaler Kuchen mit kräftigen Aromen und sehr einfach zuzubereiten. Er gehört in die Kategorie: Alle Zutaten in eine Schüssel geben, rühren und fertig.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
