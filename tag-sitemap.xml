@@ -3,14 +3,28 @@
 
 
     <url>
-        <loc>https://frangipani.raiano.ch/tags/arancia/</loc>
-        <lastmod>2024-11-26T17:24:38.147Z</lastmod>
+        <loc>https://frangipani.raiano.ch/tags/inverno/</loc>
+        <lastmod>2024-12-03T19:45:59.101Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://frangipani.raiano.ch/tags/natale/</loc>
+        <lastmod>2024-12-03T19:45:59.101Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/tags/vegan/</loc>
+        <lastmod>2024-12-03T19:45:59.101Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/tags/arancia/</loc>
         <lastmod>2024-11-26T17:24:38.147Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -24,21 +38,7 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/tags/vegan/</loc>
-        <lastmod>2024-11-26T17:24:38.147Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://frangipani.raiano.ch/tags/autunno/</loc>
-        <lastmod>2024-11-26T17:21:56.663Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/tags/inverno/</loc>
         <lastmod>2024-11-26T17:21:56.663Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
