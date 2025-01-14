@@ -24,7 +24,7 @@ Benvenuto Ottobre, benvenuto autunno, benvenuto freschetto, benvenuta lentezza, 
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Gnocchi di Zucca Gratinati con Cipolle Caramellate e Fonduta di Groviera e Gorgonzola</span>
-      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <span itemprop="recipeCategory" style="display:none;">Salato</span>
       <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Gnocchi di Zucca Gratinati con Cipolle Caramellate e Fonduta di Groviera e Gorgonzola, un godurioso tripudio di bontà! Sono cremosi, sono gustosi, sono semplicemente ottimi!</span>
@@ -103,7 +103,7 @@ Benvenuto Ottobre, benvenuto autunno, benvenuto freschetto, benvenuta lentezza, 
 
 Lavate la zucca, tagliatela a metà, eliminate i semi ed i filamenti e mettetela con la parte del taglio su di una teglia con sotto della carta forno. Infornatela nel forno ventilato a 180°C per ca. 30min o finché sarà bella morbida. Nel frattempo lessate le patate in abbondante acqua. Quando le patate saranno cotte, pelatele e passatele nello schiacciapatate. Pelate la zucca cotta e passatela anche nello schiacciapatate. Aggiungete la farina e una grattugiata di noce moscata e impastate finché avrete un impasto omogeneo e bello elastico. Se l'impasto risulta troppo appiccicoso, aggiungete altra farina. Ora prendete un po’ d’impasto alla volta, fate dei salsicciotti e tagliateli a tocchetti. Metteteli da parte e spolverateci sopra un po’ di farina.
 
-Tagliate finemente la cipolla e fatela rosolare in una padella con un filo d'olio. Salate, aggiungete un goccio d'acqua, il miele e l'aceto, coprite con un coperchio e fate andare a temperatura media finché non si saranno completamente ammorbidite. Se c'è bisogno aggiungete ancora acqua, ma sempe un goccino alla volta.
+Tagliate finemente la cipolla e fatela rosolare in una padella con un filo d'olio. Salate, aggiungete un goccio d'acqua, il miele e l'aceto, coprite con un coperchio e fate andare a temperatura media finché non si saranno completamente ammorbidite. Se c'è bisogno aggiungete ancora acqua, ma sempre un goccino alla volta.
 <p>
   <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="gnocchi.jpeg" alt="" title="frangipani © Erica" />

@@ -14,7 +14,7 @@ lang: it
 
 **Ciambella vegana agli Agrumi** una torta che sprigiona un profumo di agrumi pazzesco. Soffice, umida, buona e vegana. Senza tralasciare il fatto che è facilissima da preparare... Mischiare gli ingredienti asciutti, aggiungere gli ingredienti liquidi ed il gioco è fatto! È proprio questo il bello dei dolci vegani, si preparano in un attimo e in più spesso sono fatti con ingredienti che abbiamo sempre in dispensa.
 <br />
-Per profumare questa ciambella ho usato arance, limoni e mandarini, ma potete usare anche altri agrumi come il pompelmo, il lime o le clementine. Per esaltarne il sapore, frullate lo zucchero con le scorze degli agrumi. In questo modo gli odori si distribuiranno in tutta la torta. Piccolo truccheto...
+Per profumare questa ciambella ho usato arance, limoni e mandarini, ma potete usare anche altri agrumi come il pompelmo, il lime o le clementine. Per esaltarne il sapore, frullate lo zucchero con le scorze degli agrumi. In questo modo gli odori si distribuiranno in tutta la torta. Piccolo trucchetto...
 
 In più gennaio è il mese del Veganuary, quindi provo a cucinare il più possibile vegano, anche se in realtà lo faccio tutto l'anno. Ma non riusciamo a mangiare completamente vegano, anzi non è una cosa che al momento mi sento di fare, per noi va bene così, vegetariani. 
 
