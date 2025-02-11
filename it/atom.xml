@@ -4,7 +4,7 @@
   
   <link href="https://frangipani.raiano.ch/it/atom.xml" rel="self"/>
   <link href="https://frangipani.raiano.ch/"/>
-  <updated>2025-01-20T15:23:14.112Z</updated>
+  <updated>2025-02-10T10:24:02.972Z</updated>
   <id>https://frangipani.raiano.ch/</id>
   
   <author>
@@ -13,6 +13,166 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title xml:lang="it">Crostata di Marmellata</title>
+    <link href="https://frangipani.raiano.ch/2025-02-12-crostata-di-marmellata/"/>
+    <id>https://frangipani.raiano.ch/2025-02-12-crostata-di-marmellata/</id>
+    <published>2025-02-11T23:00:00.000Z</published>
+    <updated>2025-02-10T10:24:02.972Z</updated>
+    <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Pubblicità: &lt;strong&gt;Crostata di Marmellata&lt;/strong&gt; in collaborazione con &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt;. La crostata più semplice in assoluto, perfetta per la colazione o per la merenda. Vi serve solo fare la pasta frolla e farcirla con la marmellata o la confettura che preferite. Io preferisco di gran lunga la confettura di lamponi o di ciliegie, ma diciamo che la classica sarebbe con la confettura di albicocche... Va bene tutto, anche una marmellata di arance per dire!
+&lt;br /&gt;
+Ne ho approfittato del mese di Febbraio per fare una crostata bella cuoricinosa, ma ovviamente la tipica griglia va più che bene. Se per San Valentino avete voglia di un buon dolce con poco lavoro, ecco quello che fa per voi. La frolla la potete preparare comodamente anche il giorno prima, così sarete ancora più veloci.
+&lt;br /&gt;
+Per la frolla ci vogliono pochi ingredienti, ma buoni. Farina, zucchero a velo, sale, burro e uova. In realtà ingredienti di base che solitamente abbiamo in casa e che si possono comprare sul sito di &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt;. Hanno anche una vastissima scelta di marmellate e confetture veramente buone!&lt;/p&gt;
+&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
+  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
+    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
+      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Crostata di Marmellata&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Dolce&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Crostata di Marmellata, la crostata più semplice in assoluto, perfetta per la colazione o per la merenda.&lt;/span&gt;
+      &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
+      &lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;       
+            &lt;td&gt;300gr&lt;/td&gt;
+            &lt;td&gt;farina&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;100gr&lt;/td&gt;
+            &lt;td&gt;zucchero a velo&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 pizzico&lt;/td&gt;
+            &lt;td&gt;sale&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;150gr&lt;/td&gt;
+            &lt;td&gt;burro freddo&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1&lt;/td&gt;
+            &lt;td&gt;uovo piccolino&lt;/td&gt;
+          &lt;/tr&gt;      
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qb&lt;/td&gt;
+            &lt;td&gt;marmellata o confettura a piacere&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;
+      &lt;br&gt;&lt;/br&gt;
+      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot; itemprop=&quot;recipeYield&quot;&gt;per una teglia da 24-26cm di diametro&lt;/i&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3&gt;
+  &lt;font color=&quot;grey&quot;&gt;
+    &lt;i class=&quot;fa-solid fa-gears&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt; Preparazione
+&lt;/h3&gt;
+
+&lt;p&gt;Preparate la frolla: mettete farina, zucchero a velo e sale in una coppa capiente e amalgamete tutte le polveri. Aggiungete il burro freddo a cubetti e con le punte delle dita iniziate a impastare rendendo il composto sabbioso. A questo punto aggiungete l&amp;#39;uovo e impastate velocemente sempre a mano finché avrete un panetto liscio e omogeneo. Avvolgete la pasta frolla nella pellicola alimentare, appiattite il panetto e mettete in frigo per almeno 1h.&lt;/p&gt;
+&lt;p&gt;Passato il tempo necessario, uscite la frolla dal frigo e lasciatela a temperatura ambiente per 10min circa per farla ammorbidire un pochino. Se non volete fare questo coperchio con i cuori come ho fatto io, saltate il prossimo passaggio e alla fine fate la classica griglia tipica delle crostate. Dunque, mettete un velo di farina sul piano di lavoro, prendete metà dell&amp;#39;impasto, mettete un velo di farina anche sulla frolla e aiutandovi con un mattarello stendetelo fino a uno spessore di 4mm. Prendete la teglia e usatela come coppapasta, ricavandone un disco. Mettete il disco di frolla su una teglia e con una formina a cuore fate qualche decoro. Mettete il disco in frigo.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;frolla.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;coperchio.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Adesso prendete il resto della frolla, mettete un velo di farina sul piano di lavoro, mettete un velo di farina anche sulla frolla e aiutandovi con un mattarello stendetelo fino a uno spessore di 4mm. Rivestite la teglia con la frolla, aggiustate i bordi e fate aderire bene il bordo alla teglia. Con una forchetta fate tanti buchini sulla base della crostata per non farla gonfiare in cottura. Distribuite uniformemente la marmellata o la confettura di vostro piacimento su tutta la base, non troppa, non poca. Prendete il disco di frolla e molto delicatamente appoggiatelo sulla marmellata. Con gli scarti della frolla potete fare qualche altro cuoricino e metterlo come decorazione. Fate riposare la &lt;strong&gt;Crostata di Marmellata&lt;/strong&gt; in frigo per mezz&amp;#39;oretta.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;marmellata.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;teglia.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Infornate la &lt;strong&gt;Crostata di Marmellata&lt;/strong&gt; nella parte bassa del forno (se avete 5 ripiani, mettetela al secondo da sotto per capirci) preriscaldato a 170°C statico per 35-40min. Passata le mezz&amp;#39;oretta tenetela sotto controllo per non farla bruciare. Una volta sfornata, fatela intiepidire prima di toglierla dalla forma.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato9.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato10.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato11.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato12.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato13.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato14.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h4&gt;Buon appetito
+  &lt;font color=&quot;red&quot;&gt;
+    &lt;i class=&quot;fa-regular fa-face-smile&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt;
+&lt;/h4&gt;</content>
+    <summary type="html" xml:lang="it">
+    
+      &lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Pubblicità: &lt;strong&gt;Crostata di Marmellata&lt;/strong&gt; in collaborazione con &lt;a hr
+    
+    </summary>
+    
+      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
+    
+      <category term="Crostate, Tartes..." scheme="https://frangipani.raiano.ch/categories/Dolce/Crostate-Tartes/"/>
+    
+    
+      <category term="pasta frolla" scheme="https://frangipani.raiano.ch/tags/pasta-frolla/"/>
+    
+      <category term="san valentino" scheme="https://frangipani.raiano.ch/tags/san-valentino/"/>
+    
+  </entry>
   
   <entry>
     <title xml:lang="it">Gyoza vegani</title>
@@ -3246,189 +3406,6 @@ Sul sito di &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot
       <category term="estate" scheme="https://frangipani.raiano.ch/tags/estate/"/>
     
       <category term="halloumi" scheme="https://frangipani.raiano.ch/tags/halloumi/"/>
-    
-  </entry>
-  
-  <entry>
-    <title xml:lang="it">Sbriciolata di Ricotta e Fragole</title>
-    <link href="https://frangipani.raiano.ch/2024-06-19-sbriciolata-di-ricotta-e-fragole/"/>
-    <id>https://frangipani.raiano.ch/2024-06-19-sbriciolata-di-ricotta-e-fragole/</id>
-    <published>2024-06-18T22:00:00.000Z</published>
-    <updated>2024-06-17T08:17:36.477Z</updated>
-    <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sbriciolata di Ricotta e Fragole&lt;/strong&gt; una torta delicata piena di cremosa ricotta e succose fragole. E il tutto racchiuso in un guscio di frolla sbriciolosa.
-&lt;br /&gt;
-È di una facilità incredibile, per la serie: minimo sforzo, massima resa. È molto molto buona, delicatissima e che dire della frolla? Beh, io niente perché la amo follemente (o frollemente). Al posto delle fragole potete mettere anche altra frutta a piacere. Anzi, qui sul Blog trovate anche altre ricette per Sbriciolate come la &lt;a href=&quot;/2021-09-01-sbriciolata-con-prugne-e-crema-alla-cannella/&quot;&gt;Sbriciolata con Prugne e Crema alla Cannella&lt;/a&gt; che sa di tarda estate, la &lt;a href=&quot;/2022-07-20-sbriciolata-alle-mandorle-e-mirtilli/&quot;&gt;Sbriciolata alle Mandorle e Mirtilli&lt;/a&gt; una delle cose più buone in assoluto, la &lt;a href=&quot;/2020-06-04-sbriciolata-con-crema-alla-vaniglia-e-lamponi/&quot;&gt;Sbriciolata con Crema alla Vaniglia e Lamponi&lt;/a&gt; che racchiude tre cose che adoro, la &lt;a href=&quot;/2018-07-04-sbriciolata-alle-pesche-con-rosmarino/&quot;&gt;Sbriciolata alle Pesche con Rosmarino&lt;/a&gt; dai gusti insoliti ma molto buoni e la &lt;a href=&quot;/2017-09-22-sbriciolata-con-crema-di-nocciole-ricotta-e-pere/&quot;&gt;Sbriciolata con Crema di Nocciole, Ricotta e Pere&lt;/a&gt; per un dolce autunnale.
-&lt;br /&gt;
-Adoro questo dolce perché è facilissimo prepararlo. Non c&amp;#39;è bisogno di riposo, in questo caso la frolla infatti si può usare subito.&lt;/p&gt;
-&lt;p&gt;Vorrei raccontarvi una cosa...
-&lt;br /&gt;
-Un po&amp;#39; di tempo fa siamo riusciti a realizzare un nostro grande sogno. Ovvero una casa tutta nostra con un grande giardino. La ricerca non è stata per niente facile. Il mercato immobiliare è spietato ed i prezzi assurdi. Il caso ha voluto che incontrassimo le persone giuste che non smetterò mai di ringraziare. Sono state persone con un&amp;#39;umanità pazzesca, persone che non hanno messo al primo posto i soldi. Caratteristica diventata ormai molto rara. Essendo una casa degli anni 70, andava ristrutturata completamente. Ristrutturare casa o semplicemente costruire casa non è una passeggiata. 
-&lt;img src=&quot;cucina.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Ci sono tantissimi ostacoli, ma li stiamo superando tutti e se tutto andrà bene, in autunno potremmo entrare nella nostra Casina.&lt;/p&gt;
-&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
-  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
-    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
-      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Sbriciolata di Ricotta e Fragole&lt;/span&gt;
-      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Dolce&lt;/span&gt;
-      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;header.jpeg&quot;/&gt;
-      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
-      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Sbriciolata con Prugne e Crema alla Cannella una torta che sa di tarda estate, di autunno. Dai gusti caldi e confortevoli, come le prugne cotte con la cannella. E il tutto racchiuso in un guscio di frolla sbriciolosa.&lt;/span&gt;
-      &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
-      &lt;table&gt;
-        &lt;tbody&gt;
-          &lt;tr&gt;
-            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Frolla&lt;/b&gt;&lt;/td&gt;
-          &lt;/tr&gt;      
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;        
-            &lt;td&gt;250gr&lt;/td&gt;
-            &lt;td&gt;farina&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;80gr&lt;/td&gt;
-            &lt;td&gt;zucchero di canna&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 pizzico&lt;/td&gt;
-            &lt;td&gt;sale&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;125gr&lt;/td&gt;
-            &lt;td&gt;burro freddo a pezzetti&lt;/td&gt;
-          &lt;/tr&gt;      
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1&lt;/td&gt;
-            &lt;td&gt;uovo piccolo&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr style=&quot;height: 15px;&quot;&gt;&lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Ripieno&lt;/b&gt;&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;250gr&lt;/td&gt;
-            &lt;td&gt;ricotta&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;      
-            &lt;td&gt;2 cucchiai rasi&lt;/td&gt;
-            &lt;td&gt;zucchero&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 cucchiaio raso&lt;/td&gt;
-            &lt;td&gt;farina&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 pizzico&lt;/td&gt;
-            &lt;td&gt;vaniglia&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qb&lt;/td&gt;
-            &lt;td&gt;scorza di limone&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 pizzico&lt;/td&gt;
-            &lt;td&gt;sale&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;200gr&lt;/td&gt;
-            &lt;td&gt;fragole&lt;/td&gt;
-          &lt;/tr&gt;
-        &lt;/tbody&gt;
-      &lt;/table&gt;
-      &lt;br&gt;&lt;/br&gt;
-      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot; itemprop=&quot;recipeYield&quot;&gt;per una tortiera da 20cm&lt;/i&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h3&gt;
-  &lt;font color=&quot;grey&quot;&gt;
-    &lt;i class=&quot;fa-solid fa-gears&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt; Preparazione
-&lt;/h3&gt;
-
-&lt;p&gt;Per la frolla impastate velocemente farina, zucchero, sale, burro e uovo. Dovrete ottenere un composto sabbioso, bricioloso.
-&lt;br /&gt;
-Per il ripieno mettete in una coppetta ricotta, zucchero, farina, vaniglia, scorza di limone e sale e mescolate bene. A parte tagliate in 4 le fragole precedentemente lavate.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;briciole.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;ricotta.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Versate 2/3 dell&amp;#39;impasto bricioloso in una teglia rotonda a cerniera ricoperta di carta forno e con le mani schiacciate bene formando anche un bordo. A questo punto spalmate sulla base la ricotta. Affondate le fragole nella ricotta e sbriciolate il resto dell&amp;#39;impasto sopra alle fragole.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;teglia1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;teglia2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Infornate la &lt;strong&gt;Sbriciolata di Ricotta e Fragole&lt;/strong&gt; nel forno preriscaldato statico a 180°C per ca. 40min. Dovrà avere un colore dorato, non troppo scuro. Fatela raffreddare completamente prima di toglierla dalla teglia. Conservatela in frigo...&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato9.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato10.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;h4&gt;Buon appetito
-  &lt;font color=&quot;red&quot;&gt;
-    &lt;i class=&quot;fa-regular fa-face-smile&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt;
-&lt;/h4&gt;</content>
-    <summary type="html" xml:lang="it">
-    
-      &lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sbriciolata di Ricotta e Fragole&lt;/strong&gt; una torta delicata piena di c
-    
-    </summary>
-    
-      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
-    
-      <category term="Crostate, Tartes..." scheme="https://frangipani.raiano.ch/categories/Dolce/Crostate-Tartes/"/>
-    
-    
-      <category term="estate" scheme="https://frangipani.raiano.ch/tags/estate/"/>
-    
-      <category term="fragole" scheme="https://frangipani.raiano.ch/tags/fragole/"/>
-    
-      <category term="primavera" scheme="https://frangipani.raiano.ch/tags/primavera/"/>
     
   </entry>
   

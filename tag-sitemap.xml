@@ -3,6 +3,20 @@
 
 
     <url>
+        <loc>https://frangipani.raiano.ch/tags/san-valentino/</loc>
+        <lastmod>2025-02-10T10:30:57.423Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/tags/pasta-frolla/</loc>
+        <lastmod>2025-02-10T10:30:57.423Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://frangipani.raiano.ch/tags/autunno/</loc>
         <lastmod>2025-01-20T16:09:02.391Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -438,20 +452,6 @@
 
     <url>
         <loc>https://frangipani.raiano.ch/tags/muffin/</loc>
-        <lastmod>2023-08-15T20:40:05.249Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/tags/san-valentino/</loc>
-        <lastmod>2023-08-15T20:40:05.249Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/tags/pasta-frolla/</loc>
         <lastmod>2023-08-15T20:40:05.249Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
