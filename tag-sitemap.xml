@@ -3,6 +3,27 @@
 
 
     <url>
+        <loc>https://frangipani.raiano.ch/tags/frittelle/</loc>
+        <lastmod>2025-02-19T13:14:19.240Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/tags/carnevale/</loc>
+        <lastmod>2025-02-19T13:14:19.240Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/tags/biscotti/</loc>
+        <lastmod>2025-02-19T13:14:19.240Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://frangipani.raiano.ch/tags/san-valentino/</loc>
         <lastmod>2025-02-10T10:30:57.423Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -95,13 +116,6 @@
 
     <url>
         <loc>https://frangipani.raiano.ch/tags/arancia/</loc>
-        <lastmod>2024-11-26T17:24:38.147Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/tags/biscotti/</loc>
         <lastmod>2024-11-26T17:24:38.147Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -299,13 +313,6 @@
     <url>
         <loc>https://frangipani.raiano.ch/tags/ceci/</loc>
         <lastmod>2024-03-05T16:47:10.211Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/tags/carnevale/</loc>
-        <lastmod>2024-02-06T17:16:50.303Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -572,13 +579,6 @@
     <url>
         <loc>https://frangipani.raiano.ch/tags/torta-salata/</loc>
         <lastmod>2023-08-15T20:40:05.181Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/tags/frittelle/</loc>
-        <lastmod>2023-08-15T20:40:05.161Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
