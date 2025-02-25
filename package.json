@@ -10,8 +10,8 @@
     "start": "npm run work",
     "generate": "hexo generate",
     "static": "hexo server --static",
-    "deploy": "rm -rf public && hexo deploy --generate",
-    "publish": "hexo deploy",
+    "deploy": "rm -rf public && node --max-old-space-size=16384 ./node_modules/.bin/hexo deploy --generate",
+    "publish": "node --max-old-space-size=16384 ./node_modules/.bin/hexo deploy",
     "finish": "npm run push && npm run deploy",
     "clean": "rm -rf node_modules && rm -f package-lock.json && npm i"
   },
