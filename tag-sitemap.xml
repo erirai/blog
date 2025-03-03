@@ -4,7 +4,14 @@
 
     <url>
         <loc>https://frangipani.raiano.ch/tags/zuppa/</loc>
-        <lastmod>2025-02-24T12:53:51.515Z</lastmod>
+        <lastmod>2025-03-03T09:22:33.582Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/tags/piselli/</loc>
+        <lastmod>2025-03-03T09:22:33.582Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -424,13 +431,6 @@
 
     <url>
         <loc>https://frangipani.raiano.ch/tags/peperoncino/</loc>
-        <lastmod>2023-08-15T20:40:05.249Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/tags/piselli/</loc>
         <lastmod>2023-08-15T20:40:05.249Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
