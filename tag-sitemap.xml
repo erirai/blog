@@ -4,14 +4,21 @@
 
     <url>
         <loc>https://frangipani.raiano.ch/tags/zuppa/</loc>
-        <lastmod>2025-03-03T09:22:33.582Z</lastmod>
+        <lastmod>2025-03-03T10:10:27.891Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://frangipani.raiano.ch/tags/piselli/</loc>
-        <lastmod>2025-03-03T09:22:33.582Z</lastmod>
+        <lastmod>2025-03-03T10:10:27.891Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/tags/natale/</loc>
+        <lastmod>2025-03-03T09:26:59.867Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -124,13 +131,6 @@
     <url>
         <loc>https://frangipani.raiano.ch/tags/halloween/</loc>
         <lastmod>2025-01-14T10:11:29.872Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/tags/natale/</loc>
-        <lastmod>2025-01-02T19:28:20.178Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

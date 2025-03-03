@@ -10,7 +10,7 @@
 
     <url>
         <loc>https://frangipani.raiano.ch/2025-03-05-sizilianische-erbsensuppe/</loc>
-        <lastmod>2025-03-03T09:22:33.582Z</lastmod>
+        <lastmod>2025-03-03T10:10:27.891Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -18,7 +18,15 @@
 
     <url>
         <loc>https://frangipani.raiano.ch/2025-03-05-macco-di-piselli/</loc>
-        <lastmod>2025-03-03T09:17:01.682Z</lastmod>
+        <lastmod>2025-03-03T09:48:27.497Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2024-12-11-lussekaka/</loc>
+        <lastmod>2025-03-03T09:26:59.867Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -147,14 +155,6 @@
     <url>
         <loc>https://frangipani.raiano.ch/2024-12-11-lussekaka-de/</loc>
         <lastmod>2024-12-10T08:52:54.690Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2024-12-11-lussekaka/</loc>
-        <lastmod>2024-12-10T08:51:46.090Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
