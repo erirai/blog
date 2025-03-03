@@ -118,14 +118,6 @@ Servite bello caldo con un filo d'olio e dei crostini di pane o volendo, si può
   </div>
 </p>
 
-<p>
-  <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
-    <div style="clear: both;"></div>
-  </div>
-</p>
-
 <h4>Buon appetito
   <font color="red">
     <i class="fa-regular fa-face-smile"></i>

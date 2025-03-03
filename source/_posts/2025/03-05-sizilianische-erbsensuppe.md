@@ -118,14 +118,6 @@ Heiss mit etwas Öl und geröstetem Brot servieren. Wer mag, kann auch etwas Pas
   </div>
 </p>
 
-<p>
-  <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-03-05-macco-di-piselli/risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-03-05-macco-di-piselli/risultato10.jpeg" alt="" title="frangipani © Erica" />
-    <div style="clear: both;"></div>
-  </div>
-</p>
-
 <h4>Buon appetito
   <font color="red">
     <i class="fa-regular fa-face-smile"></i>
