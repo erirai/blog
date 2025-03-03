@@ -12,9 +12,9 @@ lang: it
 ---
 ![](header.jpeg "frangipani © Erica")
 
-**Macco di Piselli** una zuppa bella densa della tradizione siciliana. Il Macco è vegano e si fa con pochissimi ingredienti semplicissimi: piselli o fave secche, cipolla, carote e sedano. In realtà u Maccu si fa con le fave, ma per questioni di salute mio figlio e io non possiamo mangiarle. Però la versione con i piselli è veramente molto molto buona.
+**Macco di Piselli** una zuppa bella densa della tradizione siciliana. Il Macco è vegano e si fa con pochissimi ingredienti semplicissimi: piselli o fave secche, cipolla, carote e sedano. In realtà **u Maccu** si fa con le fave, ma per questioni di salute mio figlio e io non possiamo mangiarle. Però la versione con i piselli è veramente molto molto buona.
 <br />
-La ricetta del Macco è veramente molto molto antica... sembra risalire all'epoca greca addirittura. Eh ormai si sa che dalla Sicilia sono passati tantissimi popoli, tantissime culture e si nota nella nostra cucina. Ognuno ha un po' la proprio ricetta... Gli ingredienti base rimangono quelli, ma c'è chi aggiunge il finocchietto selvatico, l'aglio, l'alloro o la pasta.
+La ricetta del Macco è molto molto antica... sembra risalire all'epoca greca addirittura. Eh ormai si sa che dalla Sicilia sono passati tantissimi popoli, tantissime culture e si nota nella nostra cucina. Ognuno ha un po' la proprio ricetta... Gli ingredienti base rimangono quelli, ma c'è chi aggiunge il finocchietto selvatico, l'aglio, l'alloro o la pasta.
 <br />
 Il colore non è proprio bellissimo da vedere, ma vi assicuro che il gusto è veramente ottimo. Se preferite preparare la ricetta originale con le fave, il procedimento è lo stesso. Sostituite semplicemente i piselli secchi con le fave secche. Il macco deve essere bello denso, ma potete anche cuocerci la pasta corta o la pastina, in questo caso dovrete aggiungere più acqua per poter cuocere la pasta.
 
@@ -76,7 +76,7 @@ Aaaaaaaaah vi rendete conto che siamo a Marzooo?! Che meraviglia! E anche quest'
 
 Sciacquate i piselli e metteteli in ammollo in abbondante acqua almeno per una notte. Il giorno dopo tritate finemente una cipolla, pelate le carote e pulite il sedano, poi tagliate tutto a dadini piccolini. Prendete una casseruola capiente, mettete un filo d'olio e aggiungete la cipolla e un pizzico di sale. Fate rosolare un attimino, poi aggiungete anche le carote e il sedano, fate rosolare ancora un po'. A questo punto scolate i piselli e sciacquateli, aggiungeteli al soffritto e mescolate.
 <br />
-Coprite completamente con acqua o brodo vegetale e fate andare a temperatura alta per circa 90min. Se c'è bisogno aggiungete altra acqua man mano, ma verso fine cottura fate attenzione di non mettere troppa acqua, perché il **Macco di Piselli** dovrà essere bello denso. Solo alla fine aggiustate di sale. Per una sonsistenza più cremosa e omogenea, vi consiglio di frullare il **Macco** con il frullatore ad immersione.
+Coprite completamente con acqua o brodo vegetale e fate andare a temperatura alta per circa 90min. Se c'è bisogno aggiungete altra acqua man mano, ma verso fine cottura fate attenzione di non mettere troppa acqua, perché il **Macco di Piselli** dovrà essere bello denso. Solo alla fine aggiustate di sale. Per una consistenza più cremosa e omogenea, vi consiglio di frullare il **Macco** con il frullatore ad immersione.
 <p>
   <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="piselli.jpeg" alt="" title="frangipani © Erica" />

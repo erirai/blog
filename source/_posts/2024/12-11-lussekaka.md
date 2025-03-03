@@ -30,7 +30,7 @@ Erica
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
-      <span itemprop="name" style="display:none;">Lussekaka - Torta di Natale Svedesea</span>
+      <span itemprop="name" style="display:none;">Lussekaka - Torta di Natale Svedese</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
       <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>

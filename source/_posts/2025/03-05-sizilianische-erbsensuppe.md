@@ -12,7 +12,7 @@ lang: de
 ---
 ![](../2025-03-05-macco-di-piselli/header.jpeg "frangipani © Erica")
 
-**Sizilianische Erbsensuppe (Macco di Piselli)** eine schöne dicke Suppe aus der sizilianischen Tradition. Macco ist vegan und wird aus nur wenigen einfachen Zutaten hergestellt: getrockneten Erbsen oder Ackerbohnen, Zwiebeln, Karotten und Sellerie. Eigentlich wird "u Maccu" aus Ackerbohnen zubereitet, aber aus gesundheitlichen Gründen können mein Sohn und ich diese nicht essen. Aber die Variante mit Erbsen ist richtig, richtig gut.
+**Sizilianische Erbsensuppe (Macco di Piselli)** eine schöne dicke Suppe aus der sizilianischen Tradition. Macco ist vegan und wird aus nur wenigen einfachen Zutaten hergestellt: getrockneten Erbsen oder Ackerbohnen, Zwiebeln, Karotten und Sellerie. Eigentlich wird **"u Maccu"** aus Ackerbohnen zubereitet, aber aus gesundheitlichen Gründen können mein Sohn und ich diese nicht essen. Aber die Variante mit Erbsen ist richtig, richtig gut.
 <br />
 Das Rezept für Macco ist wirklich sehr, sehr alt... es scheint aus der griechischen Zeit zu stammen. Nun, mittlerweile wissen wir, dass viele Völker und Kulturen durch Sizilien gereist sind und das spiegelt sich in unserer Küche wider. Jeder hat sein eigenes Rezept... Die Grundzutaten bleiben dieselben, manche fügen jedoch wilden Fenchel, Knoblauch, Lorbeerblätter oder Pasta hinzu.
 <br />
@@ -71,12 +71,12 @@ Aaaaaaaaah, ist euch bewusst, dass es März ist?! Wie wundervoll! Und auch diese
 <h3>
   <font color="grey">
     <i class="fa-solid fa-gears"></i>
-  </font> Zubereitungh
+  </font> Zubereitung
 </h3>
 
-Die Erbsen abspülen und mindestens über Nacht in reichlich Wasser einweichen. Am nächsten Tag eine Zwiebel fein hacken, die Karotten schälen und den Sellerie rüsten, anschliessend alles in kleine Würfel schneiden. Einen grossen Kochtopf nehmen, einen Schuss Öl und Zwiebel und eine Prise Salz hinzu geben. Kurz anbraten, dann Karotten und Sellerie dazugeben und noch etwas weiter anbraten. Nun die Erbsen abgiessen, abspülen und zum Soffritto geben und vermengen.
+Die Erbsen abspülen und mindestens über Nacht in reichlich Wasser einweichen. Am nächsten Tag eine Zwiebel fein hacken, die Karotten schälen und den Sellerie rüsten, anschliessend alles in kleine Würfel schneiden. Einen grossen Kochtopf nehmen, einen Schuss Öl, die Zwiebel und eine Prise Salz hinzu geben. Kurz anbraten, dann Karotten und Sellerie dazugeben und noch etwas weiter anbraten. Nun die Erbsen abgiessen, abspülen und zum Soffritto geben und vermengen.
 <br />
-Mit Wasser oder Gemüsebrühe vollständig bedecken und bei hoher Temperatur etwa 90 Minuten kochen lassen. Bei Bedarf nach und nach noch Wasser hinzufügen, aber gegen Ende der Kochzeit darauf achten, nicht zu viel Wasser hinzuzugeben, denn der **Macco di Piselli** muss schön dick sein. Salz erst zum Schluss hinzufügen. Für eine cremigere und geschmeidigere Konsistenz empfehle ich, den **Macco** mit einem Stabmixer zu pürieren.
+Mit Wasser oder Gemüsebrühe vollständig bedecken und bei mittelhoher Temperatur etwa 90min kochen lassen. Bei Bedarf nach und nach noch Wasser hinzufügen, aber gegen Ende der Kochzeit darauf achten, nicht zu viel Wasser hinzuzugeben, denn der **Macco di Piselli** muss schön dick sein. Salz erst zum Schluss hinzufügen. Für eine cremigere und geschmeidigere Konsistenz empfehle ich, den **Macco** mit einem Stabmixer zu pürieren.
 <p>
   <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2025-03-05-macco-di-piselli/piselli.jpeg" alt="" title="frangipani © Erica" />
