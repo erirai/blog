@@ -9,6 +9,30 @@
 
 
     <url>
+        <loc>https://frangipani.raiano.ch/2025-03-12-tiramisu-tarte/</loc>
+        <lastmod>2025-03-05T10:11:51.454Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2025-03-12-crostata-tiramisu/</loc>
+        <lastmod>2025-03-05T09:58:52.374Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2022-10-18-tiramisu-pavlova/</loc>
+        <lastmod>2025-03-05T08:59:15.452Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://frangipani.raiano.ch/2025-03-05-sizilianische-erbsensuppe/</loc>
         <lastmod>2025-03-03T13:51:51.618Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -2034,14 +2058,6 @@
 
     <url>
         <loc>https://frangipani.raiano.ch/2022-10-05-parmigiana-di-zucca-e-porri/</loc>
-        <lastmod>2023-08-15T20:38:54.613Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2022-10-18-tiramisu-pavlova/</loc>
         <lastmod>2023-08-15T20:38:54.613Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
