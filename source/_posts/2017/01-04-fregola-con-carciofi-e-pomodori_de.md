@@ -70,7 +70,7 @@ Auch dieses Jahr gibt es die berühmten Vorsätzte... Leider gehöre ich zu dies
   </font> Zubereitung
 </h3>
 
-Artischockenstiele putzen und die äusserste harte Schicht entfernen, dann in dünne Scheiben schneiden. Zwiebel ebenfalls fein schneiden und in einem Kochtopf mit etwas Öl und einer Prise Salz rösten lassen. Dann die Artischockenstiele dazu geben und kurz mitrösten. Nun kommen die Dosentomaten und etwas Wasser dazu. Das Ganze auf mittlerer Stufe köcheln lassen, bis alles gar ist. Zum Schluss salzen, mit Basilikum abschmecken und so viel Wasser wie nötig ist dazu geben um die Fregola dann anzurichten.
+Artischockenstiele putzen und die äusserste harte Schicht entfernen, dann in dünne Scheiben schneiden. Zwiebel ebenfalls fein schneiden und in einem Kochtopf mit etwas Öl und einer Prise Salz rösten lassen. Dann die Artischockenstiele dazu geben und kurz mitrösten. Nun kommen die Dosentomaten und etwas Wasser dazu. Das Ganze auf mittlerer Stufe köcheln lassen, bis alles gar ist, es braucht sicher 1h. Zum Schluss salzen, mit Basilikum abschmecken und so viel Wasser wie nötig ist dazu geben um die Fregola dann anzurichten.
 ![](../2017-01-04-fregola-con-carciofi-e-pomodori/sughetto.jpg "frangipani © Erica")
 
 Sobald di Sauce bereit ist, könnt ihr die Fregola kochen, so wie es auf der Packungsbeilage steht. Dann abgiessen, in die Teller geben und mit der Artischocken-Tomatensauce bedecken.

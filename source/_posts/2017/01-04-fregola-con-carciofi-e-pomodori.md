@@ -70,7 +70,7 @@ Come ogni anno ci sono i famosi buoni propositi... Purtroppo sono una di quelle 
   </font> Preparazione
 </h3>
 
-Pulite i gambi dei carciofi, eliminando la parte esterna più dura dei filamenti e tagliateli a rondelle non troppo spesse. Tagliate finemente anche la cipolla e fatela rosolare in un tegame con un filo d'olio ed un pizzico di sale. Aggiungete i gambi dei carciofi e fate rosolare un attimino. Dunque aggiungete i pomodori pelati tritati e allungate con un pochettino d'acqua e fate andare a fiamma moderata finché i gambi dei carciofi saranno cotti. A fine cottura salate, aggiungete le foglie di basilico e acqua quanto basta per poi condire la fregola.
+Pulite i gambi dei carciofi, eliminando la parte esterna più dura dei filamenti e tagliateli a rondelle non troppo spesse. Tagliate finemente anche la cipolla e fatela rosolare in un tegame con un filo d'olio ed un pizzico di sale. Aggiungete i gambi dei carciofi e fate rosolare un attimino. Dunque aggiungete i pomodori pelati tritati e allungate con un pochettino d'acqua e fate andare a fiamma moderata finché i gambi dei carciofi saranno cotti, ci vorrà sicuramente 1h. A fine cottura salate, aggiungete le foglie di basilico e acqua quanto basta per poi condire la fregola.
 ![](sughetto.jpg "frangipani © Erica")
 
 Quando il sughetto sarà pronto, a parte cuocete la fregola come scritto sulla confezione. Scolatela, impiattatela e conditela con il sughetto ai carciofi e pomodori.
