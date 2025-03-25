@@ -9,6 +9,38 @@
 
 
     <url>
+        <loc>https://frangipani.raiano.ch/2017-01-04-fregola-con-carciofi-e-pomodori/</loc>
+        <lastmod>2025-03-25T10:51:16.063Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2017-01-04-fregola-con-carciofi-e-pomodori-de/</loc>
+        <lastmod>2025-03-25T10:50:58.121Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2025-03-26-blatterteig-barlauch-stangen/</loc>
+        <lastmod>2025-03-21T16:14:58.052Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2025-03-26-grissini-di-sfoglia-all-aglio-orsino/</loc>
+        <lastmod>2025-03-21T16:14:49.769Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://frangipani.raiano.ch/2025-03-12-tiramisu-tarte/</loc>
         <lastmod>2025-03-05T10:11:51.454Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -5723,22 +5755,6 @@
     <url>
         <loc>https://frangipani.raiano.ch/2017-12-14-pandoro-facile/</loc>
         <lastmod>2023-08-15T20:38:47.686Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2017-01-04-fregola-con-carciofi-e-pomodori/</loc>
-        <lastmod>2023-08-15T20:38:47.685Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2017-01-04-fregola-con-carciofi-e-pomodori-de/</loc>
-        <lastmod>2023-08-15T20:38:47.685Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
