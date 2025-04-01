@@ -9,6 +9,14 @@
 
 
     <url>
+        <loc>https://frangipani.raiano.ch/2025-04-02-murbeteigkekse-mit-lemon-curd/</loc>
+        <lastmod>2025-04-01T08:01:27.143Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://frangipani.raiano.ch/2017-01-04-fregola-con-carciofi-e-pomodori/</loc>
         <lastmod>2025-03-25T10:51:16.063Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -19,6 +27,14 @@
     <url>
         <loc>https://frangipani.raiano.ch/2017-01-04-fregola-con-carciofi-e-pomodori-de/</loc>
         <lastmod>2025-03-25T10:50:58.121Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2025-04-02-frollini-con-lemon-curd/</loc>
+        <lastmod>2025-03-25T10:48:34.528Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
