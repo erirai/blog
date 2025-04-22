@@ -4,7 +4,7 @@
   
   <link href="https://frangipani.raiano.ch/it/atom.xml" rel="self"/>
   <link href="https://frangipani.raiano.ch/"/>
-  <updated>2025-04-08T18:52:57.353Z</updated>
+  <updated>2025-04-22T19:02:53.614Z</updated>
   <id>https://frangipani.raiano.ch/</id>
   
   <author>
@@ -13,6 +13,143 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title xml:lang="it">Scones allo Yogurt</title>
+    <link href="https://frangipani.raiano.ch/2025-04-23-scones-allo-yogurt/"/>
+    <id>https://frangipani.raiano.ch/2025-04-23-scones-allo-yogurt/</id>
+    <published>2025-04-22T22:00:00.000Z</published>
+    <updated>2025-04-22T19:02:53.614Z</updated>
+    <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Pubblicità: &lt;strong&gt;Scones allo Yogurt&lt;/strong&gt; in collaborazione con &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt;. Una specie di panini dolci e friabili che si preparano in un attimo. Sono un dolce tipico delle isole britanniche. Vengono serviti durante l&amp;#39;ora del té e si mangiano tradizionalmente spezzandoli a metà e spalmandoci sopra clotted cream e confettura.&lt;br&gt;&lt;br /&gt;
+A noi piacciono tantissimo gli Scones e li faccio spessissimo. Per variare un po&amp;#39; ho voluto provare questa versione con lo yogurt e sono veramente ottimi. Con lo yogurt restano più umidi all&amp;#39;interno. Per una variante vegana, basta sostituire il burro con del burro vegetale e lo yogurt con dello yogurt vegetale, tutto qui. Su &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt; c&amp;#39;è una vastissima scelta di alternative vegetali per i classici latticini. Se non trovate la clotted cream su &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt; ci sono tante altre alternative come del formaggio spalmabile o semplicemente il burro.
+&lt;br /&gt;
+Per quanto riguarda la confettura, su &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt; trovate veramente tante confetture e marmellate per tutti i gusti.&lt;/p&gt;
+&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
+  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
+    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
+      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Scones allo Yogurt&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Dolce&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Scones allo Yogurt, una specie di panini dolci e friabili che si preparano in un attimo.&lt;/span&gt;
+      &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
+      &lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;       
+            &lt;td&gt;240gr&lt;/td&gt;
+            &lt;td&gt;farina&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 cucchiaio&lt;/td&gt;
+            &lt;td&gt;zucchero a velo&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1/4 cucchiaino&lt;/td&gt;
+            &lt;td&gt;sale&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;2 cucchiaini&lt;/td&gt;
+            &lt;td&gt;lievito per dolci&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qb&lt;/td&gt;
+            &lt;td&gt;vaniglia&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;60gr&lt;/td&gt;
+            &lt;td&gt;burro o burro vegetale freddo&lt;/td&gt;
+          &lt;/tr&gt;      
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;180gr&lt;/td&gt;
+            &lt;td&gt;yogurt (vegetale) bianco&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;
+      &lt;br&gt;&lt;/br&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3&gt;
+  &lt;font color=&quot;grey&quot;&gt;
+    &lt;i class=&quot;fa-solid fa-gears&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt; Preparazione
+&lt;/h3&gt;
+
+&lt;p&gt;In una ciotola capiente mescolate farina, zucchero a velo, sale, lievito e vaniglia. Aggiungete il burro a pezzettini e con le punte delle dita iniziate a impastare rendendo il tutto sabbioso/bricioloso. Aggiungete lo yogurt e mescolate velocemente con un cucchiaio, poi cercate di piegare (impastare) sempre l&amp;#39;impasto finché non vedrete più farina. L&amp;#39;impasto non dovrà risultare completamente omogeneo, anzi.&lt;/p&gt;
+&lt;p&gt;Infarinate leggermente il piano di lavoro e con le mani formate un disco piatto da ca. 25cm di diametro. Tagliate il disco in 8 spicchi e per una lievitazione migliore, tagliate anche il lato &amp;quot;tondo&amp;quot; di ogni spicchio. In questo modo avrete tutti e tre i lati dei triangoli tagliati. Con i ritagli formate una pallina e appiattitela. Adagiate gli Scones su di una teglia con sotto della carta forno (meglio se un tappetino microforato). Ovviamante invece di farli così a triangoli, potete farli anche con un coppapasta a cerchio...&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;impasto.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;teglia.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Infornate gli &lt;strong&gt;Scones allo Yogurt&lt;/strong&gt; nel forno preriscaldato a 220°C statico per circa 15min e mangiateli ancora belli caldi.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato9.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato10.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h4&gt;Buon appetito
+  &lt;font color=&quot;red&quot;&gt;
+    &lt;i class=&quot;fa-regular fa-face-smile&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt;
+&lt;/h4&gt;</content>
+    <summary type="html" xml:lang="it">
+    
+      &lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Pubblicità: &lt;strong&gt;Scones allo Yogurt&lt;/strong&gt; in collaborazione con &lt;a href=&quot;
+    
+    </summary>
+    
+      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
+    
+      <category term="Colazione" scheme="https://frangipani.raiano.ch/categories/Dolce/Colazione/"/>
+    
+    
+      <category term="vegan" scheme="https://frangipani.raiano.ch/tags/vegan/"/>
+    
+      <category term="colazione" scheme="https://frangipani.raiano.ch/tags/colazione/"/>
+    
+  </entry>
   
   <entry>
     <title xml:lang="it">Colomba Salata Vegetariana Veloce</title>
@@ -3205,178 +3342,6 @@ Erica&lt;/p&gt;
       <category term="mele" scheme="https://frangipani.raiano.ch/tags/mele/"/>
     
       <category term="inverno" scheme="https://frangipani.raiano.ch/tags/inverno/"/>
-    
-      <category term="autunno" scheme="https://frangipani.raiano.ch/tags/autunno/"/>
-    
-  </entry>
-  
-  <entry>
-    <title xml:lang="it">Gnocchi di Zucca Gratinati con Cipolle Caramellate e Fonduta di Groviera e Gorgonzola</title>
-    <link href="https://frangipani.raiano.ch/2024-10-09-gnocchi-di-zucca-gratinati-con-cipolle-caramellate-e-fonduta/"/>
-    <id>https://frangipani.raiano.ch/2024-10-09-gnocchi-di-zucca-gratinati-con-cipolle-caramellate-e-fonduta/</id>
-    <published>2024-10-08T22:00:00.000Z</published>
-    <updated>2025-01-14T10:11:29.872Z</updated>
-    <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Gnocchi di Zucca Gratinati con Cipolle Caramellate e Fonduta di Groviera e Gorgonzola&lt;/strong&gt; un godurioso tripudio di bontà! Sono cremosi, sono gustosi, sono semplicemente ottimi!
-&lt;br /&gt;
-Noi andiamo matti per gli Gnocchi, i bimbi sono sempre felicissimi di mangiarli e anche di aiutarmi a prepararli quando ci sono. In autunno e inverno mi piace molto fare gli Gnocchi con la zucca perché posso nasconderla, dato che i bimbi non la gradiscono tanto. Solitamente ne faccio metà &lt;a href=&quot;/2014-01-15-gnocchi-di-patate-gratinati/&quot;&gt;gratinati col sugo&lt;/a&gt; e l&amp;#39;altra metà &lt;a href=&quot;/2015-10-05-gnocchi-di-zucca-saltati-in-burro-e-salvia/&quot;&gt;con burro e salvia&lt;/a&gt;. Ma devo dire che con il freschetto, questa versione bella sostanziosa non dispiace! Per la fonduta ho usato Gorgonzola e Groviera, due formaggi molto saporiti. Il Gorgonzola perché secondo me si sposa benissimo con la zucca e il Groviera perché si scioglie che è una meraviglia ed è troppo buono! Se voi preferite altri formaggi, fate pure tranquillamente.&lt;/p&gt;
-&lt;p&gt;Benvenuto Ottobre, benvenuto autunno, benvenuto freschetto, benvenuta lentezza, benvenute zucche! Ok, il freschetto non è proprio benvenutissimo, ma finché non fa freddo freddo va ancora bene... Ci stiamo ambientando piano piano alla casa nuova, mancano ancora delle cosine piccole ma non c&amp;#39;è fretta!&lt;/p&gt;
-&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
-  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
-    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
-      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Gnocchi di Zucca Gratinati con Cipolle Caramellate e Fonduta di Groviera e Gorgonzola&lt;/span&gt;
-      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Salato&lt;/span&gt;
-      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;header.jpg&quot;/&gt;
-      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
-      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Gnocchi di Zucca Gratinati con Cipolle Caramellate e Fonduta di Groviera e Gorgonzola, un godurioso tripudio di bontà! Sono cremosi, sono gustosi, sono semplicemente ottimi!&lt;/span&gt;
-      &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
-      &lt;table&gt;
-        &lt;tbody&gt;
-          &lt;tr&gt;
-            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Gnocchi&lt;/b&gt;&lt;/td&gt;
-          &lt;/tr&gt; 
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt; 
-            &lt;td&gt;800gr&lt;/td&gt;
-            &lt;td&gt;zucca tipo Hokkaido o Butternut&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt; 
-            &lt;td&gt;400gr&lt;/td&gt;
-            &lt;td&gt;patate farinose&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt; 
-            &lt;td&gt;ca. 500gr&lt;/td&gt;
-            &lt;td&gt;farina&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt; 
-            &lt;td&gt;qb&lt;/td&gt;
-            &lt;td&gt;noce moscata&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr style=&quot;height: 15px;&quot;&gt;&lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Condimento&lt;/b&gt;&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt; 
-            &lt;td&gt;1&lt;/td&gt;
-            &lt;td&gt;cipolla molto grande&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt; 
-            &lt;td&gt;1/2 cucchiaino&lt;/td&gt;
-            &lt;td&gt;miele o zucchero&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt; 
-            &lt;td&gt;1 goccio&lt;/td&gt;
-            &lt;td&gt;aceto&lt;/td&gt;   
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt; 
-            &lt;td&gt;400ml&lt;/td&gt;
-            &lt;td&gt;panna fresca&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt; 
-            &lt;td&gt;150gr&lt;/td&gt;
-            &lt;td&gt;Gorgonzola&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt; 
-            &lt;td&gt;150gr&lt;/td&gt;
-            &lt;td&gt;Groviera grattugiato&lt;/td&gt;      
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt; 
-            &lt;td&gt;qb&lt;/td&gt;
-            &lt;td&gt;salvia&lt;/td&gt;       
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt; 
-            &lt;td&gt;qb&lt;/td&gt;
-            &lt;td&gt;noce moscata&lt;/td&gt;   
-          &lt;/tr&gt;
-        &lt;/tbody&gt;
-      &lt;/table&gt;
-      &lt;br&gt;&lt;/br&gt;
-      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot;&gt;per ca. 4 persone&lt;/i&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;h3&gt;
-  &lt;font color=&quot;grey&quot;&gt;
-    &lt;i class=&quot;fa-solid fa-gears&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt; Preparazione
-&lt;/h3&gt;
-
-&lt;p&gt;Lavate la zucca, tagliatela a metà, eliminate i semi ed i filamenti e mettetela con la parte del taglio su di una teglia con sotto della carta forno. Infornatela nel forno ventilato a 180°C per ca. 30min o finché sarà bella morbida. Nel frattempo lessate le patate in abbondante acqua. Quando le patate saranno cotte, pelatele e passatele nello schiacciapatate. Pelate la zucca cotta e passatela anche nello schiacciapatate. Aggiungete la farina e una grattugiata di noce moscata e impastate finché avrete un impasto omogeneo e bello elastico. Se l&amp;#39;impasto risulta troppo appiccicoso, aggiungete altra farina. Ora prendete un po’ d’impasto alla volta, fate dei salsicciotti e tagliateli a tocchetti. Metteteli da parte e spolverateci sopra un po’ di farina.&lt;/p&gt;
-&lt;p&gt;Tagliate finemente la cipolla e fatela rosolare in una padella con un filo d&amp;#39;olio. Salate, aggiungete un goccio d&amp;#39;acqua, il miele e l&amp;#39;aceto, coprite con un coperchio e fate andare a temperatura media finché non si saranno completamente ammorbidite. Se c&amp;#39;è bisogno aggiungete ancora acqua, ma sempre un goccino alla volta.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;gnocchi.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;cipolla.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;A questo punto aggiungete alla cipolla la salvia, la noce moscata e la panna fresca. Mescolate ed aggiungete il Gorgonzola ed il Groviera (lasciate da parte un pochino di Groviera se avete intenzione di gratinare gli gnocchi) e fate sciogliere a temperatura bassa.&lt;/p&gt;
-&lt;p&gt;Portate ad ebollizione abbondante acqua in una pentola bella grande, appena bolle salate. Prendete un po’ di gnocchi alla volta e buttateli nell’acqua bollente. Quando gli gnocchi verranno a galla scolateli con una schiumarola e metteteli nella padella con la fonduta. Continuate finché avrete cotto tutti gli gnocchi.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;fonduta.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;padella.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;A questo punto decidete se servirli subito così che sono ottimi o se gratinarli. Per gratinarli versate gli gnocchi in una pirofila e distribuiteci sopra il resto del Groviera grattugiato. Infornate gli &lt;strong&gt;Gnocchi di Zucca&lt;/strong&gt; coperti con un foglio di carta d&amp;#39;alluminio nel forno preriscaldato a 180°C ventilato per 20min circa, poi altri 5-10min senza carta per far fare una bella crosticina... Servite ancora bollenti!&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;h4&gt;Buon appetito
-  &lt;font color=&quot;red&quot;&gt;
-    &lt;i class=&quot;fa-regular fa-face-smile&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt;
-&lt;/h4&gt;</content>
-    <summary type="html" xml:lang="it">
-    
-      &lt;p&gt;&lt;img src=&quot;header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Gnocchi di Zucca Gratinati con Cipolle Caramellate e Fonduta di Grovier
-    
-    </summary>
-    
-      <category term="Salato" scheme="https://frangipani.raiano.ch/categories/Salato/"/>
-    
-      <category term="Primi Piatti" scheme="https://frangipani.raiano.ch/categories/Salato/Primi-Piatti/"/>
-    
-    
-      <category term="halloween" scheme="https://frangipani.raiano.ch/tags/halloween/"/>
-    
-      <category term="inverno" scheme="https://frangipani.raiano.ch/tags/inverno/"/>
-    
-      <category term="zucca" scheme="https://frangipani.raiano.ch/tags/zucca/"/>
     
       <category term="autunno" scheme="https://frangipani.raiano.ch/tags/autunno/"/>
     

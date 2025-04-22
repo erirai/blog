@@ -4,7 +4,7 @@
   
   <link href="https://frangipani.raiano.ch/de/atom.xml" rel="self"/>
   <link href="https://frangipani.raiano.ch/"/>
-  <updated>2025-04-08T18:53:35.687Z</updated>
+  <updated>2025-04-22T19:08:52.940Z</updated>
   <id>https://frangipani.raiano.ch/</id>
   
   <author>
@@ -13,6 +13,144 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title xml:lang="de">Joghurt-Scones</title>
+    <link href="https://frangipani.raiano.ch/2025-04-23-joghurt-scones/"/>
+    <id>https://frangipani.raiano.ch/2025-04-23-joghurt-scones/</id>
+    <published>2025-04-22T22:00:00.000Z</published>
+    <updated>2025-04-22T19:08:52.940Z</updated>
+    <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2025-04-23-scones-allo-yogurt/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Werbung: &lt;strong&gt;Joghurt-Scones&lt;/strong&gt; in Zusammenarbeit mit &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt;. Eine Art süsses und mürbes Brötchen, das im Handumdrehen zubereitet ist. Das ist ein typisches Dessert der Britischen Inseln. Sie werden zur Teezeit serviert und traditionell bricht man sie in zwei Hälften und bestreicht sie mit Clotted Cream und Konfitüre.
+&lt;br /&gt;
+Wir lieben Scones und machen sie sehr oft. Um ein wenig Abwechslung zu haben, wollte ich diese Version mit Joghurt ausprobieren und sie ist wirklich ausgezeichnet. Mit Joghurt bleiben sie innen saftiger. Für eine vegane Variante ersetzt einfach die Butter durch pflanzliche Butter und den Joghurt durch pflanzlichen Joghurt, das ist alles. Bei &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt; gibt es eine riesige Auswahl an pflanzlichen Alternativen zu klassischen Milchprodukten. Wenn ihr keine Clotted Cream findet, gibt es bei &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt; viele andere Alternativen wie Streichkäse oder einfach Butter.
+&lt;br /&gt;
+Was Konfitüre betrifft, findet ihr auf &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt; viele Konfitüren und Marmeladen für jeden Geschmack.&lt;/p&gt;
+&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
+  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
+    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
+      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Joghurt-Scones&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Süsses&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2025-04-23-scones-allo-yogurt/header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Joghurt-Scones, eine Art süsses und mürbes Brötchen, das im Handumdrehen zubereitet ist.&lt;/span&gt;
+      &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
+      &lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;       
+            &lt;td&gt;240gr&lt;/td&gt;
+            &lt;td&gt;Mehl&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 Esslöffel&lt;/td&gt;
+            &lt;td&gt;Puderzucker&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1/4 Teelöffel&lt;/td&gt;
+            &lt;td&gt;Salz&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;2 Teelöffel&lt;/td&gt;
+            &lt;td&gt;Backpulver&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;etwas&lt;/td&gt;
+            &lt;td&gt;Vanille&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;60gr&lt;/td&gt;
+            &lt;td&gt;kalte (vegane) Butter&lt;/td&gt;
+          &lt;/tr&gt;      
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;180gr&lt;/td&gt;
+            &lt;td&gt;(pflanzliches) Naturjoghurt&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;
+      &lt;br&gt;&lt;/br&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3&gt;
+  &lt;font color=&quot;grey&quot;&gt;
+    &lt;i class=&quot;fa-solid fa-gears&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt; Zubereitung
+&lt;/h3&gt;
+
+&lt;p&gt;In einer grossen Schüssel Mehl, Puderzucker, Salz, Backpulver und Vanille vermischen. Die Butter in kleinen Stücken dazugeben und mit den Fingerspitzen kneten, bis die Masse sandig/krümelig wird. Den Joghurt dazugeben und mit einem Löffel schnell verrühren, dann versuchen, den Teig immer wieder zu falten (kneten), bis kein Mehl mehr zu sehen ist. Die Mischung sollte nicht völlig homogen sein, im Gegenteil.&lt;/p&gt;
+&lt;p&gt;Die Arbeitsfläche leicht mit Mehl bestäuben und mit den Händen eine flache Scheibe von ca. 25cm Durchmesser formen. Die Scheibe in 8 Schnitze teilen und, zum besseren Aufgehen, auch die „runde“ Seite jedes Schnitzes einschneiden. Auf diese Weise werden alle drei Seiten der Dreiecke angeschnitten. Aus den Resten eine Kugel formen und flach drücken. Die Scones auf ein Backblech mit Backpapier (am besten eine mikroperforierte Unterlage) legen. Anstatt sie in Dreiecken zu formen, kann man sie natürlich auch mit einem runden Teigausstecher formen...&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2025-04-23-scones-allo-yogurt/impasto.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2025-04-23-scones-allo-yogurt/teglia.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Die &lt;strong&gt;Joghurt-Scones&lt;/strong&gt; im vorgeheizten Backofen bei 220°C etwa 15min lang backen und esst sie, solange sie noch heiss sind.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2025-04-23-scones-allo-yogurt/risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2025-04-23-scones-allo-yogurt/risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2025-04-23-scones-allo-yogurt/risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2025-04-23-scones-allo-yogurt/risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2025-04-23-scones-allo-yogurt/risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2025-04-23-scones-allo-yogurt/risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2025-04-23-scones-allo-yogurt/risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2025-04-23-scones-allo-yogurt/risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2025-04-23-scones-allo-yogurt/risultato9.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2025-04-23-scones-allo-yogurt/risultato10.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h4&gt;Buon appetito
+  &lt;font color=&quot;red&quot;&gt;
+    &lt;i class=&quot;fa-regular fa-face-smile&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt;
+&lt;/h4&gt;</content>
+    <summary type="html" xml:lang="de">
+    
+      &lt;p&gt;&lt;img src=&quot;../2025-04-23-scones-allo-yogurt/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Werbung: &lt;strong&gt;Joghurt-Scones&lt;/strong&gt; in Zu
+    
+    </summary>
+    
+      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
+    
+      <category term="Colazione" scheme="https://frangipani.raiano.ch/categories/Dolce/Colazione/"/>
+    
+    
+      <category term="vegan" scheme="https://frangipani.raiano.ch/tags/vegan/"/>
+    
+      <category term="colazione" scheme="https://frangipani.raiano.ch/tags/colazione/"/>
+    
+  </entry>
   
   <entry>
     <title xml:lang="de">Herzhafte und einfache vegetarische Colomba</title>
@@ -3205,178 +3343,6 @@ Erica&lt;/p&gt;
       <category term="mele" scheme="https://frangipani.raiano.ch/tags/mele/"/>
     
       <category term="inverno" scheme="https://frangipani.raiano.ch/tags/inverno/"/>
-    
-      <category term="autunno" scheme="https://frangipani.raiano.ch/tags/autunno/"/>
-    
-  </entry>
-  
-  <entry>
-    <title xml:lang="de">Überbackene Kürbis-Gnocchi mit Karamellisierten Zwiebeln und Grogonzola-Gruyère-Sauce</title>
-    <link href="https://frangipani.raiano.ch/2024-10-09-uberbackene-kurbis-gnocchi-mit-karamellisierten-zwiebeln-und-gorgonzola-gruyere-sauce/"/>
-    <id>https://frangipani.raiano.ch/2024-10-09-uberbackene-kurbis-gnocchi-mit-karamellisierten-zwiebeln-und-gorgonzola-gruyere-sauce/</id>
-    <published>2024-10-08T22:00:00.000Z</published>
-    <updated>2024-10-03T11:55:24.198Z</updated>
-    <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2024-10-09-gnocchi-di-zucca-gratinati-con-cipolle-caramellate-e-fonduta/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Überbackene Kürbis-Gnocchi mit Karamellisierten Zwiebeln und Grogonzola-Gruyère-Sauce&lt;/strong&gt; eine herrlich prächtige Leckerei! Sie sind cremig, sie sind lecker, sie sind einfach grossartig!
-&lt;br /&gt;
-Wir sind verrückt nach Gnocchi, die Kinder essen sie immer sehr gerne und helfen mir auch bei der Zubereitung, wenn sie mal anwesend sind. Im Herbst und Winter mache ich Gnocchi mit Kürbis sehr gerne, weil ich den Kürbis verstecken kann, da meine Kinder ihn nicht so sehr mögen. Normalerweise mache ich die Hälfte &lt;a href=&quot;/2014-01-15-gnocchi-di-patate-gratinati-de/&quot;&gt;mit Tomatensugo überbacken&lt;/a&gt; und die andere Hälfte &lt;a href=&quot;/2015-10-05-kurbis-gnocchi-mit-salbeibutter/&quot;&gt;mit Salbei-Butter&lt;/a&gt;. Aber ich muss sagen, dass diese deftigere Variante mit der Kälte echt passend ist! Für die Käsesauce habe ich Gorgonzola und Gruyère verwendet, zwei sehr würzige Käsesorten. Gorgonzola, weil er meiner Meinung nach sehr gut zu Kürbis passt und Gruyère, weil er wunderbar schmilzt und so gut schmeckt! Wenn ihr andere Käsesorten bevorzugt, könnt ihr dies gerne tun.&lt;/p&gt;
-&lt;p&gt;Willkommen Oktober, willkommen Herbst, willkommen Kühle, willkommen Gemütlichkeit, willkommen Kürbisse! Ok, das kühle Wetter ist nicht gerade sehr willkommen, aber solange es nicht kalt ist, ist es trotzdem in Ordnung... Wir gewöhnen uns langsam an das neue Haus, es fehlen noch ein paar Kleinigkeiten, aber es eilt nicht!&lt;/p&gt;
-&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
-  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
-    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
-      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Überbackene Kürbis-Gnocchi mit Karamellisierten Zwiebeln und Grogonzola-Gruyère-Sauce&lt;/span&gt;
-      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Herzhaftes&lt;/span&gt;
-      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2024-10-09-gnocchi-di-zucca-gratinati-con-cipolle-caramellate-e-fonduta/header.jpeg&quot;/&gt;
-      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
-      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Überbackene Kürbis-Gnocchi mit Karamellisierten Zwiebeln und Grogonzola-Gruyère-Sauce, eine herrlich prächtige Leckerei! Sie sind cremig, sie sind lecker, sie sind einfach grossartig!&lt;/span&gt;
-      &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
-      &lt;table&gt;
-        &lt;tbody&gt;
-          &lt;tr&gt;
-            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Gnocchi&lt;/b&gt;&lt;/td&gt;
-          &lt;/tr&gt; 
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt; 
-            &lt;td&gt;800gr&lt;/td&gt;
-            &lt;td&gt;Kürbis Hokkaido oder Butternut&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt; 
-            &lt;td&gt;400gr&lt;/td&gt;
-            &lt;td&gt;Kartoffeln mehligkochend&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt; 
-            &lt;td&gt;ca. 500gr&lt;/td&gt;
-            &lt;td&gt;Mehl&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt; 
-            &lt;td&gt;etwas&lt;/td&gt;
-            &lt;td&gt;Muskatnuss&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr style=&quot;height: 15px;&quot;&gt;&lt;/tr&gt;
-          &lt;tr&gt;
-            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Käsesauce&lt;/b&gt;&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt; 
-            &lt;td&gt;1&lt;/td&gt;
-            &lt;td&gt;grosse Gemüsezwiebel&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt; 
-            &lt;td&gt;1/2 Teelöffel&lt;/td&gt;
-            &lt;td&gt;Honig oder Zucker&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt; 
-            &lt;td&gt;1 Gutsch&lt;/td&gt;
-            &lt;td&gt;Essig&lt;/td&gt;   
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt; 
-            &lt;td&gt;400ml&lt;/td&gt;
-            &lt;td&gt;Saucenhalbrahm&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt; 
-            &lt;td&gt;150gr&lt;/td&gt;
-            &lt;td&gt;Gorgonzola&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt; 
-            &lt;td&gt;150gr&lt;/td&gt;
-            &lt;td&gt;Gruyère gerieben&lt;/td&gt;      
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt; 
-            &lt;td&gt;etwas&lt;/td&gt;
-            &lt;td&gt;Salbei&lt;/td&gt;       
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt; 
-            &lt;td&gt;etwas&lt;/td&gt;
-            &lt;td&gt;Muskatnuss&lt;/td&gt;   
-          &lt;/tr&gt;
-        &lt;/tbody&gt;
-      &lt;/table&gt;
-      &lt;br&gt;&lt;/br&gt;
-      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot;&gt;für ca. 4 Personen&lt;/i&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;h3&gt;
-  &lt;font color=&quot;grey&quot;&gt;
-    &lt;i class=&quot;fa-solid fa-gears&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt; Zubereitung
-&lt;/h3&gt;
-
-&lt;p&gt;Den Kürbis waschen, halbieren, Kerne und Fäden entfernen und mit der Schnittfläche nach unten auf ein mit Backpapier ausgelegtes Backblech legen. Im Ofen bei 180°C Umluft ca. 30min backen oder bis es schön weich ist. In der Zwischenzeit die Kartoffeln in reichlich Wasser kochen. Die gekochten Kartoffeln schälen und durch die Kartoffelpresse geben. Den gekochten Kürbis schälen und ebenfalls durch die Kartoffelpresse passieren. Mehl und geriebene Muskatnuss hinzufügen und kneten, bis ein glatter und schön elastischer Teig entsteht. Wenn der Teig zu klebrig ist, mehr Mehl hinzufügen. Jeweils ein wenig Teig nehmen, eine Wurst formen und diese in kleine Stücke schneiden. Beiseite legen und etwas Mehl darüber streuen.&lt;/p&gt;
-&lt;p&gt;Die Zwiebel fein hacken und in einer Pfanne mit etwas Öl anbraten. Salzen, einen Tropfen Wasser, Honig und Essig hinzufügen, mit einem Deckel abdecken und bei mittlerer Temperatur köcheln lassen, bis sie vollständig weich sind. Bei Bedarf mehr Wasser hinzufügen, jedoch immer tropfenweise.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2024-10-09-gnocchi-di-zucca-gratinati-con-cipolle-caramellate-e-fonduta/gnocchi.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2024-10-09-gnocchi-di-zucca-gratinati-con-cipolle-caramellate-e-fonduta/cipolla.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Nun den Salbei, die Muskatnuss und den Saucenhalbrahm zur Zwiebel geben. Gorgonzola und Gruyère dazugeben (ein wenig Gruyère beiseite lassen, wenn ihr die Gnocchi überbacken möchtet) und bei niedriger Temperatur schmelzen lassen.&lt;/p&gt;
-&lt;p&gt;In einem grossen Topf reichlich Wasser zum Kochen bringen, dann salzen. Ein paar Gnocchi nehmen und ins kochendes Wasser geben. Wenn die Gnocchi an der Wasseroberfläche schwimmen, mit einem Schaumlöffel auffangen und in die Pfanne mit der Käsesauce geben. Fortfahren, bis alle Gnocchi gekocht sind.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2024-10-09-gnocchi-di-zucca-gratinati-con-cipolle-caramellate-e-fonduta/fonduta.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2024-10-09-gnocchi-di-zucca-gratinati-con-cipolle-caramellate-e-fonduta/padella.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Entscheidet an dieser Stelle, ob ihr sie sofort servieren möchtet, so sind sie nämlich auch sehr lecker, oder ob ihr sie überbacken möchtet. Zum Überbacken die Gnocchi in eine Auflaufform füllen und den restlichen geriebenen Gruyère darauf verteilen. Die &lt;strong&gt;Kürbis-Gnocchi&lt;/strong&gt; abgedeckt mit einem Blatt Alufolie im vorgeheizten Ofen bei 180°C Umluft für ca. 20min backen, dann weitere 5-10min ohne Folie, um eine schöne Kruste zu bilden... Schön heiss geniessen!&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2024-10-09-gnocchi-di-zucca-gratinati-con-cipolle-caramellate-e-fonduta/risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2024-10-09-gnocchi-di-zucca-gratinati-con-cipolle-caramellate-e-fonduta/risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2024-10-09-gnocchi-di-zucca-gratinati-con-cipolle-caramellate-e-fonduta/risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2024-10-09-gnocchi-di-zucca-gratinati-con-cipolle-caramellate-e-fonduta/risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2024-10-09-gnocchi-di-zucca-gratinati-con-cipolle-caramellate-e-fonduta/risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2024-10-09-gnocchi-di-zucca-gratinati-con-cipolle-caramellate-e-fonduta/risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2024-10-09-gnocchi-di-zucca-gratinati-con-cipolle-caramellate-e-fonduta/risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2024-10-09-gnocchi-di-zucca-gratinati-con-cipolle-caramellate-e-fonduta/risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;h4&gt;Buon appetito
-  &lt;font color=&quot;red&quot;&gt;
-    &lt;i class=&quot;fa-regular fa-face-smile&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt;
-&lt;/h4&gt;</content>
-    <summary type="html" xml:lang="de">
-    
-      &lt;p&gt;&lt;img src=&quot;../2024-10-09-gnocchi-di-zucca-gratinati-con-cipolle-caramellate-e-fonduta/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;str
-    
-    </summary>
-    
-      <category term="Salato" scheme="https://frangipani.raiano.ch/categories/Salato/"/>
-    
-      <category term="Primi Piatti" scheme="https://frangipani.raiano.ch/categories/Salato/Primi-Piatti/"/>
-    
-    
-      <category term="halloween" scheme="https://frangipani.raiano.ch/tags/halloween/"/>
-    
-      <category term="inverno" scheme="https://frangipani.raiano.ch/tags/inverno/"/>
-    
-      <category term="zucca" scheme="https://frangipani.raiano.ch/tags/zucca/"/>
     
       <category term="autunno" scheme="https://frangipani.raiano.ch/tags/autunno/"/>
     
