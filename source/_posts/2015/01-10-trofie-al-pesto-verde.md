@@ -4,7 +4,6 @@ date: 2015-01-10
 tags:
 - pesto
 - avocado
-- primi
 - pasta
 - vegan
 categories:

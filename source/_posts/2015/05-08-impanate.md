@@ -2,7 +2,8 @@
 title: "Impanate"
 date: 2015-05-08
 tags:
-- panificati
+- lievitati
+- ricette siciliane
 - vegan
 categories:
 - Salato

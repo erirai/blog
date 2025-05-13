@@ -2,7 +2,7 @@
 title: Pancake vegani
 date: 2014-06-14
 tags:
-- colazione
+- pancake
 - vegan
 categories:
 - Dolce

@@ -3,7 +3,6 @@ title: Linguine Cinesi con Verdure e Salsa di Soia
 date: 2014-06-26
 tags:
 - pasta
-- piatto unico
 - vegan
 categories:
 - Salato

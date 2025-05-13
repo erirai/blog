@@ -3,7 +3,6 @@ title: "No bake Cheesecake al Cioccolato"
 date: 2016-08-19
 tags:
 - cheesecake
-- dolci
 - cioccolato
 categories:
 - Dolce

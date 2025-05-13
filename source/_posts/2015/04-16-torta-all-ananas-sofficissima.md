@@ -3,8 +3,6 @@ title: "Torta all'Ananas sofficissima"
 date: 2015-04-16
 tags:
 - ananas
-- torta
-- dolci
 categories:
 - Dolce
 - Torte

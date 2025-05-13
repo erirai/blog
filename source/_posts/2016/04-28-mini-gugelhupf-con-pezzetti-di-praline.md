@@ -3,7 +3,6 @@ title: "Mini Gugelhupf vegani con Pezzetti di Praline"
 date: 2016-04-28
 tags:
 - muffin
-- dolci
 - cioccolato
 - festa della mamma
 - vegan

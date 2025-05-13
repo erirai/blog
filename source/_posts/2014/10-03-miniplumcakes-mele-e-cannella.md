@@ -2,7 +2,7 @@
 title: Mini-Plumcakes vegani Mele e Cannella
 date: 2014-10-03
 tags:
-- dolci
+- autunno
 - mele
 - muffin
 - vegan

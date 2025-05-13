@@ -2,9 +2,11 @@
 title: "Berry Pie"
 date: 2016-09-09
 tags:
-- tarte
-- dolci
-- frutti di bosco
+- lamponi
+- more
+- ribes
+- mirtilli
+- crostata
 - vegan
 categories:
 - Dolce

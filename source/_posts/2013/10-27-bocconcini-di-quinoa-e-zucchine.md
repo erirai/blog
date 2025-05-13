@@ -2,7 +2,6 @@
 title: "Polpette di Quinoa e Zucchine"
 date: 2013-10-27
 tags:
-- quinoa
 - glutenfree
 - zucchine
 - estate

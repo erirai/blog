@@ -4,7 +4,7 @@ date: 2016-11-11
 tags:
 - crostata
 - mele
-- vaniglia
+- autunno
 - pasta frolla
 categories:
 - Dolce

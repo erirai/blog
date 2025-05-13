@@ -3,7 +3,7 @@ title: "Pasta mit Paprika und Erdbeeren"
 date: 2014-06-04
 tags:
 - pasta
-- primi
+- estate
 - fragole
 - peperoni
 - vegan

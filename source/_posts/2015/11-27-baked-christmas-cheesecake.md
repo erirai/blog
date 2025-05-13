@@ -3,7 +3,6 @@ title: "Baked Christmas Cheesecake"
 date: 2015-11-27
 tags:
 - cheesecake
-- dolci
 - pasta frolla
 - natale
 categories:

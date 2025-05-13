@@ -2,8 +2,9 @@
 title: "Cucuzza e Tenerume in Umido"
 date: 2015-09-14
 tags:
-- secondi
-- zucchina siciliana
+- zucchine
+- ricette siciliane
+- estate
 - glutenfree
 - vegan
 categories:

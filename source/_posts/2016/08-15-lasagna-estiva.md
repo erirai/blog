@@ -2,10 +2,11 @@
 title: "Lasagna Estiva"
 date: 2016-08-15
 tags:
-- primi
+- pasta
 - peperoni
 - zucchine
 - melanzane
+- estate
 categories:
 - Salato
 - "Primi Piatti"

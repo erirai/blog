@@ -2,8 +2,7 @@
 title: "Strudel ai Mirtilli"
 date: 2014-03-07
 tags:
-- dolci
-- strudel
+- estate
 - mirtilli
 - vegan
 categories:

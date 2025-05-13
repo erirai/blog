@@ -2,7 +2,7 @@
 title: "Marmellata di Gocce d'Oro"
 date: 2014-08-04
 tags:
-- marmellata
+- estate
 - prugne
 - conserve
 categories:

@@ -2,8 +2,7 @@
 title: "Zucchinikuchen"
 date: 2014-01-28
 tags:
-- dolci
-- torta
+- estate
 - zucchine
 categories:
 - Dolce

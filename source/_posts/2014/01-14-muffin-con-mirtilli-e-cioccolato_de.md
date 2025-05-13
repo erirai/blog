@@ -6,7 +6,7 @@ tags:
 - mirtilli
 - cioccolato
 - vegan
-- dolci
+- estate
 categories:
 - Dolce
 - "Muffin, Cupcakes, Cake Pops..."

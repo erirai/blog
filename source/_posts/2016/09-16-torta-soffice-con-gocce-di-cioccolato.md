@@ -3,8 +3,6 @@ title: "Torta Soffice con Gocce di Cioccolato"
 date: 2016-09-16
 tags:
 - cioccolato
-- dolci
-- torta
 categories:
 - Dolce
 - Torte

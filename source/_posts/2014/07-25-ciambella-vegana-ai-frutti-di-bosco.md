@@ -3,8 +3,10 @@ title: "Ciambella vegana ai Frutti di Bosco"
 date: 2014-07-25
 tags:
 - estate
-- dolci
-- torta
+- lamponi
+- more
+- ribes
+- mirtilli
 - festa della mamma
 - vegan
 categories:

@@ -3,10 +3,7 @@ title: "Sfoglia di Mele con Crema alla Vaniglia"
 date: 2013-11-10
 tags:
 - mele
-- crema pasticcera
-- vaniglia
-- dolci
-- crostata
+- autunno
 - festa della mamma
 categories:
 - Dolce

@@ -2,9 +2,7 @@
 title: "Spring Rolls"
 date: 2016-02-04
 tags:
-- aperitivo
-- piatto unico
-- involtini
+- peperoni
 - vegan
 categories:
 - Salato

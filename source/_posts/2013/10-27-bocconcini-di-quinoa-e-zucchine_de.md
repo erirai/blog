@@ -2,7 +2,6 @@
 title: "Quinoa-Zucchini-Bällchen"
 date: 2013-10-27
 tags:
-- quinoa
 - glutenfree
 - zucchine
 - estate

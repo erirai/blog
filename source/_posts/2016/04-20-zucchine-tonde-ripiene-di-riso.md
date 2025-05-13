@@ -2,10 +2,12 @@
 title: "Zucchine Tonde ripiene di Riso"
 date: 2016-04-20
 tags:
-- primi
+- primavera
+- estate
 - zucchine
 - glutenfree
 - riso
+- vegan
 categories:
 - Salato
 - "Primi Piatti"

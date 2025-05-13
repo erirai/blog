@@ -2,9 +2,7 @@
 title: "Burger Buns"
 date: 2015-09-23
 tags:
-- burger
-- pasta lievita
-- panificati
+- lievitati
 - vegan
 categories:
 - Salato

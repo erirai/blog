@@ -2,10 +2,7 @@
 title: "Biscotti vegani al Matcha e Zenzero"
 date: 2016-12-01
 tags:
-- zenzero
-- matcha
 - biscotti
-- dolci
 - vegan
 - natale
 categories:

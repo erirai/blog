@@ -3,9 +3,7 @@ title: "veganer Orangen-Cranberry-Bundt Cake"
 date: 2016-12-12
 tags:
 - arance
-- cranberry
-- dolci
-- torta
+- inverno
 - natale
 - vegan
 categories:

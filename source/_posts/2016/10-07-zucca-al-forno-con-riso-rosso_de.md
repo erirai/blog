@@ -4,8 +4,8 @@ date: 2016-10-07
 tags:
 - zucca
 - riso
-- piatto unico
-- pomodori secchi
+- pomodori
+- autunno
 - halloween
 - glutenfree
 - vegan

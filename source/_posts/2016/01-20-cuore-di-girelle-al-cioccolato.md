@@ -2,11 +2,7 @@
 title: "Girelle di Pane al Cioccolato"
 date: 2016-01-20
 tags:
-- panificati
-- pasta lievita
-- pane
-- dolci
-- colazione
+- lievitati
 - vegan
 - san valentino
 categories:

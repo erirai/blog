@@ -2,7 +2,8 @@
 title: "Carbonara di Asparagi"
 date: 2016-05-16
 tags:
-- primi
+- pasta
+- primavera
 - asparagi
 categories:
 - Salato

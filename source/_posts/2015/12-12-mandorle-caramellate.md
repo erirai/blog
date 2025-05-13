@@ -2,7 +2,6 @@
 title: "Mandorle Caramellate"
 date: 2015-12-12
 tags:
-- piccola pasticceria
 - mandorle
 - natale
 - vegan

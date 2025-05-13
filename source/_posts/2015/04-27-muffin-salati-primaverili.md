@@ -6,7 +6,7 @@ tags:
 - zucchine
 - asparagi
 - melanzane
-- aperitivo
+- primavera
 - vegan
 categories:
 - Salato

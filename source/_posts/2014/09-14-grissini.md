@@ -2,8 +2,6 @@
 title: Grissini
 date: 2014-09-14
 tags:
-- grissini 
-- aperitivo
 - vegan
 categories:
 - Salato

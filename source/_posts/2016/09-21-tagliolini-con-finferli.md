@@ -2,9 +2,9 @@
 title: "Tagliolini con Finferli"
 date: 2016-09-21
 tags:
-- primi
-- funghi
 - pasta
+- funghi
+- autunno
 - vegan
 categories:
 - Salato

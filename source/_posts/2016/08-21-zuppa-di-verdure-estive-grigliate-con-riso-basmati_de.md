@@ -7,7 +7,7 @@ tags:
 - zucchine
 - melanzane
 - pomodori
-- piatto unico
+- estate
 - glutenfree
 - vegan
 categories:

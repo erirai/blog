@@ -2,7 +2,8 @@
 title: "Pan Brioche vegano farcito con Coste e Patate"
 date: 2016-09-26
 tags:
-- panificati
+- lievitati
+- patate
 - vegan
 - pasqua
 categories:

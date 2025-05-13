@@ -2,8 +2,7 @@
 title: "Grittibänz vegani (Omini di Pane Dolce)"
 date: 2014-12-06
 tags:
-- panificati
-- pasta lievita
+- lievitati
 - vegan
 - natale
 categories:

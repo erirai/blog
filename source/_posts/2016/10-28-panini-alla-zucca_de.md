@@ -2,9 +2,8 @@
 title: "Kürbisbrötchen"
 date: 2016-10-28
 tags:
-- panificati
-- pane
-- pasta lievita
+- lievitati
+- autunno
 - zucca
 - halloween
 - vegan

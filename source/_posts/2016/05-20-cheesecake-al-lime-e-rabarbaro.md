@@ -3,7 +3,7 @@ title: "Cheesecake a Pois al Lime e Rabarbaro"
 date: 2016-05-20
 tags:
 - cheesecake
-- dolci
+- primavera
 - pasta frolla
 - rabarbaro
 categories:

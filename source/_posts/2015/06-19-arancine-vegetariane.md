@@ -2,9 +2,8 @@
 title: "Arancine vegetariane"
 date: 2015-06-19
 tags:
-- piatto unico
 - riso
-- aperitivo
+- ricette siciliane
 categories:
 - Salato
 - "Piatti Unici"

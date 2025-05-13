@@ -2,9 +2,8 @@
 title: "Noodles con Verdure in Agrodolce"
 date: 2016-05-20
 tags:
-- primi
+- pasta
 - peperoni
-- piatto unico
 - vegan
 categories:
 - Salato

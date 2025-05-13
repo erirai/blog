@@ -2,10 +2,10 @@
 title: "Rotkohl-Risotto mit Zitronenduft"
 date: 2016-12-07
 tags:
-- primi
 - riso
 - limone
-- cavolo
+- autunno
+- inverno
 - glutenfree
 - vegan
 categories:

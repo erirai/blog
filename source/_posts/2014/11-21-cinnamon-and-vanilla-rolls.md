@@ -2,11 +2,9 @@
 title: Cinnamon and Vanilla Rolls vegani
 date: 2014-11-21
 tags:
-- panificati
-- dolci
-- pasta lievita
-- cannella
-- vaniglia
+- lievitati
+- autunno
+- inverno
 - natale
 - vegan
 categories:

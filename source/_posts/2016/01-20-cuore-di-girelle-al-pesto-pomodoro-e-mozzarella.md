@@ -2,10 +2,8 @@
 title: "Girelle di Pane al Pesto, Pomodoro e Mozzarella"
 date: 2016-01-20
 tags:
-- panificati
-- pasta lievita
-- pane
-- aperitivo
+- lievitati
+- pesto
 - san valentino
 categories:
 - Salato

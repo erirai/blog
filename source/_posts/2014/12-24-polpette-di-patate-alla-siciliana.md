@@ -2,10 +2,10 @@
 title: Polpette di Patate alla Siciliana
 date: 2014-12-24
 tags:
-- piatto unico
 - patate
 - polpette
 - vegan
+- ricette siciliane
 categories:
 - Salato
 - "Piatti Unici"

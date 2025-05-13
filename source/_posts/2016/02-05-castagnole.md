@@ -2,7 +2,6 @@
 title: "Castagnole"
 date: 2016-02-05
 tags:
-- dolci
 - carnevale
 - frittelle
 categories:

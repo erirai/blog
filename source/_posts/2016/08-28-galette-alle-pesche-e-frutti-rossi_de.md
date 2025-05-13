@@ -3,12 +3,11 @@ title: "vegane Pfirsich-Beeren-Galette"
 date: 2016-08-28
 tags:
 - crostata
-- galette
-- dolci
 - pesche
 - lamponi
 - ribes
 - vegan
+- estate
 categories:
 - Dolce
 - "Crostate, Tartes..."

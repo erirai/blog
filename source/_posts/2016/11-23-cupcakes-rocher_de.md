@@ -6,7 +6,6 @@ tags:
 - natale
 - muffin
 - cupcakes
-- dolci
 - cioccolato
 categories:
 - Dolce

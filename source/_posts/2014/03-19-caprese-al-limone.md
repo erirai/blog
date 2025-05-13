@@ -3,9 +3,7 @@ title: Caprese al Limone
 date: 2014-03-19
 tags:
 - limone
-- cioccolato bianco
-- dolci
-- torta
+- cioccolato
 - glutenfree
 - festa del papà
 categories:

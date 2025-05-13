@@ -2,10 +2,11 @@
 title: "Girelle di Pasta con Piselli, Asparagi e Patate"
 date: 2016-04-14
 tags:
-- primi
+- pasta
 - piselli
 - asparagi
 - patate
+- primavera
 categories:
 - Salato
 - "Primi Piatti"

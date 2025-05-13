@@ -2,8 +2,8 @@
 title: "Polpettone di Pane ripieno con Spinaci e Mozzarella"
 date: 2016-02-05
 tags:
-- polpettone
-- secondi
+- spinaci
+- polpette
 categories:
 - Salato
 - "Secondi Piatti e Contorni"

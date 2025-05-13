@@ -2,9 +2,7 @@
 title: "Cornetti Sfogliati Veloci"
 date: 2015-12-20
 tags:
-- cornetti sfogliati
-- panificati
-- colazione
+- lievitati
 categories:
 - Dolce
 - Colazione

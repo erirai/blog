@@ -2,10 +2,10 @@
 title: "Risotto con Zucchine e Pomodorini Gialli"
 date: 2016-07-23
 tags:
-- primi
 - riso
 - zucchine
 - pomodori
+- estate
 - glutenfree
 - vegan
 categories:

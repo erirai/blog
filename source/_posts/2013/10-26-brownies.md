@@ -3,9 +3,9 @@ title: "Brownies"
 date: 2013-10-26
 tags:
 - cioccolato
-- noci
-- dolci
 - biscotti
+- inverno
+- autunno
 - natale
 categories:
 - Dolce

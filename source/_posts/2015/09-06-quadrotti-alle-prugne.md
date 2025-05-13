@@ -4,8 +4,7 @@ date: 2015-09-06
 tags:
 - estate
 - autunno
-- dolci
-- torta
+- prugne
 categories:
 - Dolce
 - Torte

@@ -2,10 +2,9 @@
 title: "Fluffosa alle Fragole con Crema al Limone"
 date: 2016-06-01
 tags:
-- dolci
-- torta
 - fragole
-- fluffosa
+- estate
+- primavera
 - limone
 - festa della mamma
 categories:

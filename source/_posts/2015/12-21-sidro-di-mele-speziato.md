@@ -2,9 +2,9 @@
 title: "Sidro di Mele Speziato"
 date: 2015-12-21
 tags:
-- bevande
+- autunno
 - natale
-- sidro di mele
+- mele
 categories:
 - Dolce
 - Bevande

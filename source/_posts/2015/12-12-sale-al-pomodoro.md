@@ -2,9 +2,8 @@
 title: "Sale al Pomodoro"
 date: 2015-12-12
 tags:
-- sale
 - conserve
-- pomodori secchi
+- pomodori
 categories:
 - Salato
 - Conserve

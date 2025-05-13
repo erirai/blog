@@ -3,8 +3,6 @@ title: "Timballo di Pasta in Crosta"
 date: 2015-12-25
 tags:
 - pasta
-- piatto unico
-- primi
 - pasta sfoglia
 - natale
 categories:

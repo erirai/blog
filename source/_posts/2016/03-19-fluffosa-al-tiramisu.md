@@ -2,12 +2,7 @@
 title: "Fluffosa al Tiramisù"
 date: 2016-03-19
 tags:
-- dolci
-- torta
-- mascarpone
-- fluffosa
 - caffé
-- cacao
 - festa del papà
 categories:
 - Dolce

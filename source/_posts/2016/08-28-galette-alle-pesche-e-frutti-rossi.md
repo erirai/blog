@@ -3,12 +3,11 @@ title: "Galette alle Pesche e Frutti Rossi vegana"
 date: 2016-08-28
 tags:
 - crostata
-- galette
-- dolci
 - pesche
 - lamponi
 - ribes
 - vegan
+- estate
 categories:
 - Dolce
 - "Crostate, Tartes..."

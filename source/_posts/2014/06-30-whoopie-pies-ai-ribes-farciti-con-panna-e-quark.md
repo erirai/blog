@@ -2,9 +2,8 @@
 title: "Whoopie Pies ai Ribes farciti con Panna e Quark"
 date: 2014-06-30
 tags:
-- dolci
 - ribes
-- whoopies
+- estate
 categories:
 - Dolce
 - "Muffin, Cupcakes, Cake Pops..."

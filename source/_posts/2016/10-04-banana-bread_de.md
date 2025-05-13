@@ -2,7 +2,6 @@
 title: "vegan Banana Bread"
 date: 2016-10-04
 tags:
-- torta
 - banane
 - vegan
 categories:

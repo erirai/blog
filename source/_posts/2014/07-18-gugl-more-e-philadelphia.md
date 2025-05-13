@@ -4,9 +4,8 @@ date: 2014-07-18
 tags:
 - san valentino
 - festa della mamma
-- dolci
 - more
-- financiers
+- estate
 categories:
 - Dolce
 - "Piccola Pasticceria"

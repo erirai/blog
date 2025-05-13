@@ -3,7 +3,6 @@ title: "Schokoladen no bake Cheesecake"
 date: 2016-08-19
 tags:
 - cheesecake
-- dolci
 - cioccolato
 categories:
 - Dolce

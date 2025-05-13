@@ -2,9 +2,8 @@
 title: Paneer e Verdure al Curry Rosso con Riso Basmati
 date: 2014-06-16
 tags:
-- piatto unico
 - riso
-- paneer
+- vegan
 categories:
 - Salato
 - "Piatti Unici"

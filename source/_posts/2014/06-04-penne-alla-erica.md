@@ -3,7 +3,7 @@ title: "Pasta con Peperoni e Fragole"
 date: 2014-06-04
 tags:
 - pasta
-- primi
+- estate
 - fragole
 - peperoni
 - vegan

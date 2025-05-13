@@ -5,6 +5,7 @@ tags:
 - muffin
 - mele
 - vegan
+- autunno
 categories:
 - Dolce
 - "Muffin, Cupcakes, Cake Pops..."

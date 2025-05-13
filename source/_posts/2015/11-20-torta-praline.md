@@ -3,11 +3,10 @@ title: "Torta Praliné vegana"
 date: 2015-11-20
 tags:
 - san valentino
-- tarte
-- dolci
 - cioccolato
 - festa del papà
 - vegan
+- nocciole
 categories:
 - Dolce
 - "Crostate, Tartes..."

@@ -2,11 +2,10 @@
 title: Torta a Strati con Mandorle, Lamponi e More
 date: 2014-07-08
 tags:
-- torta
-- dolci
 - lamponi
 - more
 - mandorle
+- estate
 categories:
 - Dolce
 - Torte

@@ -2,8 +2,6 @@
 title: "Pasta con Legumi e Cereali"
 date: 2016-01-17
 tags:
-- primi
-- piatto unico
 - legumi
 - cereali
 - pasta

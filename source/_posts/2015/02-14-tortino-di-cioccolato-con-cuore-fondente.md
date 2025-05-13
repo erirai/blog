@@ -3,9 +3,8 @@ title: Tortino di Cioccolato con Cuore fondente
 date: 2015-02-14
 tags:
 - san valentino
-- dolci
 - cioccolato
-- torta
+- dolci al cucchiaio
 categories:
 - Dolce
 - Torte

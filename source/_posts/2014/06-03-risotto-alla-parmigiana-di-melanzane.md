@@ -2,8 +2,8 @@
 title: Risotto alla Parmigiana di Melanzane
 date: 2014-06-03
 tags:
-- primi
 - riso
+- estate
 - melanzane
 - glutenfree
 categories:

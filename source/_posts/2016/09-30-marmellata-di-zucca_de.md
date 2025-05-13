@@ -4,7 +4,7 @@ date: 2016-09-30
 tags:
 - zucca
 - conserve
-- marmellata
+- autunno
 categories:
 - Dolce
 - Conserve

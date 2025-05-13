@@ -3,7 +3,6 @@ title: "Biscotti Stelline dal Cielo"
 date: 2015-12-08
 tags:
 - biscotti
-- dolci
 - arance
 - limone
 - pasta frolla

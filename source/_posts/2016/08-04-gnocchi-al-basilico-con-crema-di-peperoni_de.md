@@ -3,7 +3,7 @@ title: "Basilikumgnocchi mit Paprikacreme"
 date: 2016-08-04
 tags:
 - gnocchi
-- primi
+- estate
 - peperoni
 - vegan
 categories:

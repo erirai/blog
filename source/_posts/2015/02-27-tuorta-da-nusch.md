@@ -2,11 +2,11 @@
 title: "Tuorta da Nusch vegana (Torta di Noci Grigionese vegana)"
 date: 2015-02-27
 tags:
-- dolci
-- noci
+- crostata
 - pasta frolla
-- tarte
+- inverno
 - vegan
+- ricette svizzere
 categories:
 - Dolce
 - Torte

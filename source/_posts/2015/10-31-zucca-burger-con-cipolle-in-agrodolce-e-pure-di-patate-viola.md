@@ -2,8 +2,7 @@
 title: "Zucca Burger con Cipolle in Agrodolce e Puré di Patate Viola"
 date: 2015-10-31
 tags:
-- piatto unico
-- burger
+- autunno
 - zucca
 - patate
 - halloween

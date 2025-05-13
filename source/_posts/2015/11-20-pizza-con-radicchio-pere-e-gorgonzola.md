@@ -2,11 +2,10 @@
 title: "Pizza con Radicchio, Pere e Gorgonzola"
 date: 2015-11-20
 tags:
-- panificati
-- radicchio
+- lievitati
 - pere
-- gorgonzola
-- pizza
+- autunno
+- inverno
 categories:
 - Salato
 - Panificati

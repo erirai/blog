@@ -5,8 +5,7 @@ tags:
 - torta salata
 - pasta sfoglia
 - patate
-- cipolle
-- mozzarella
+- vegan
 categories:
 - Salato
 - "Torte salate, Muffin salati..."

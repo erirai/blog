@@ -2,7 +2,8 @@
 title: "veganer herzhafter Hefekranz gefüllt mit Krautstiel und Kartoffeln"
 date: 2016-09-26
 tags:
-- panificati
+- lievitati
+- patate
 - vegan
 - pasqua
 categories:

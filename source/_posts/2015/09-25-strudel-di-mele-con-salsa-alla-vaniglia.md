@@ -2,10 +2,8 @@
 title: "Strudel di Mele con Salsa alla Vaniglia"
 date: 2015-09-25
 tags:
-- strudel
+- autunno
 - mele
-- dolci
-- vaniglia
 - vegan
 categories:
 - Dolce

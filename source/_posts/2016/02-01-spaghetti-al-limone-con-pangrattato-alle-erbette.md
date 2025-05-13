@@ -2,9 +2,8 @@
 title: "Spaghetti al Limone con Pangrattato alle Erbette"
 date: 2016-02-01
 tags:
-- primi
+- pasta
 - limone
-- erbe aromatiche
 - vegan
 categories:
 - Salato

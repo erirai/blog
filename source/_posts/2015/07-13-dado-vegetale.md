@@ -3,7 +3,7 @@ title: "Dado Vegetale"
 date: 2015-07-13
 tags:
 - conserve
-- sale
+- estate
 categories:
 - Salato
 - Conserve

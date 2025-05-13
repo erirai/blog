@@ -2,7 +2,7 @@
 title: "Tiramisù con uova pastorizzate"
 date: 2014-03-04
 tags:
-- caffe
+- caffé
 - dolci al cucchiaio
 categories:
 - Dolce

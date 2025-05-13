@@ -4,10 +4,8 @@ date: 2014-08-16
 tags:
 - san valentino
 - festa della mamma 
-- dolci
 - cupcakes
 - muffin
-- cioccolato bianco
 - vegan
 categories:
 - Dolce

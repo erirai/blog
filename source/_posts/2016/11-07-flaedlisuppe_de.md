@@ -3,8 +3,7 @@ title: "Flädlisuppe"
 date: 2016-11-07
 tags:
 - zuppa
-- antipasti
-- piatto unico
+- ricette svizzere
 categories:
 - Salato
 - Antipasti

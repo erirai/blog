@@ -2,10 +2,8 @@
 title: "Fluffosa vegana alla Zucca e Spezie"
 date: 2016-10-10
 tags:
-- fluffosa
+- autunno
 - zucca
-- dolci
-- torta
 - halloween
 - vegan
 categories:

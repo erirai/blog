@@ -2,7 +2,8 @@
 title: "Crumble di Prugne"
 date: 2014-08-24
 tags:
-- dolci
+- estate
+- autunno
 - crumble
 - prugne
 - vegan

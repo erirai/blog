@@ -3,9 +3,8 @@ title: "Torta di Castagne"
 date: 2015-11-13
 tags:
 - castagne
-- torta
+- autunno
 - glutenfree
-- dolci
 categories:
 - Dolce
 - Torte

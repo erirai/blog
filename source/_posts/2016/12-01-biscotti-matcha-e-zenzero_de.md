@@ -2,10 +2,7 @@
 title: "vegane Matcha-Ingwer-Cookies"
 date: 2016-12-01
 tags:
-- zenzero
-- matcha
 - biscotti
-- dolci
 - vegan
 - natale
 categories:

@@ -4,7 +4,7 @@ date: 2016-09-14
 tags:
 - zucca
 - contorno
-- cipolle
+- autunno
 - halloween
 - vegan
 categories:

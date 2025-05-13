@@ -2,10 +2,8 @@
 title: Samosa Masala con Salsa Chili
 date: 2014-11-08
 tags:
-- aperitivo
 - patate
 - piselli
-- peperoncino
 - vegan
 categories:
 - Salato

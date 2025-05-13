@@ -8,6 +8,7 @@ tags:
 - patate
 - pasta sfoglia
 - vegan
+- autunno
 categories:
 - Salato
 - "Torte salate, Muffin salati..."

@@ -3,11 +3,11 @@ title: "Mostarda d'Uva"
 date: 2014-10-17
 tags:
 - dolci al cucchiaio
-- dolci
-- semolino
+- autunno
 - mandorle
 - uva
 - vegan
+- ricette siciliane
 categories:
 - Dolce
 - "Dolci al cucchiaio, Gelati..."

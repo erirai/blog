@@ -3,8 +3,7 @@ title: "Panini Soffici al Cioccolato"
 date: 2016-03-27
 tags:
 - pasqua
-- pasta lievita
-- colazione
+- lievitati
 - cioccolato
 - vegan
 categories:

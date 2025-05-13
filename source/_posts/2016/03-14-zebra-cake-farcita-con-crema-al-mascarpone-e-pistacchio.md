@@ -2,11 +2,8 @@
 title: "Zebra Cake farcita con Crema al Mascarpone e Pistacchio"
 date: 2016-03-14
 tags:
-- dolci
-- torta
-- mascarpone
 - pistacchi
-- zebra cake
+- vegan
 categories:
 - Dolce
 - Torte

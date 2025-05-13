@@ -2,11 +2,11 @@
 title: "Treccia Russa (Treccia dolce con ripieno alle Nocciole)"
 date: 2013-12-06
 tags:
-- nocciole
-- dolci
+- lievitati
 - natale
-- pasta lievita
-- panificati
+- autunno
+- inverno
+- nocciole
 categories:
 - Dolce
 - Panificati

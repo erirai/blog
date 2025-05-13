@@ -2,9 +2,7 @@
 title: "Panini al Latte con Semi di Zucca"
 date: 2015-10-31
 tags:
-- panificati
-- burger
-- pasta lievita
+- lievitati
 - vegan
 categories:
 - Salato

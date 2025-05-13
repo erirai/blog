@@ -2,7 +2,7 @@
 title: "Pasta con Borlotti e Pomodoro"
 date: 2016-05-12
 tags:
-- primi
+- pasta
 - legumi
 - pomodori
 - vegan

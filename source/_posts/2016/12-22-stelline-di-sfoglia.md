@@ -2,9 +2,11 @@
 title: "Stelline di Sfoglia"
 date: 2016-12-22
 tags:
-- aperitivo
 - pasta sfoglia
 - natale
+- vegan
+- avocado
+- ceci
 categories:
 - Salato
 - Aperitivi

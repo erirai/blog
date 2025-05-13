@@ -3,9 +3,10 @@ title: "No bake Cheesecake ai Lamponi e Pistacchi"
 date: 2016-08-10
 tags:
 - cheesecake
-- dolci
+- estate
 - lamponi
 - pistacchi
+- vegan
 categories:
 - Dolce
 - "Crostate, Tartes..."

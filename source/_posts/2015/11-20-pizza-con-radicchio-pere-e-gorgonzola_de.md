@@ -2,11 +2,10 @@
 title: "Pizza mit Radicchio, Birnen und Gorgonzola"
 date: 2015-11-20
 tags:
-- panificati
-- radicchio
+- lievitati
 - pere
-- gorgonzola
-- pizza
+- autunno
+- inverno
 categories:
 - Salato
 - Panificati

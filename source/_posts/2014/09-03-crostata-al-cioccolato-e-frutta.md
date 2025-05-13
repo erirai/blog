@@ -7,7 +7,6 @@ tags:
 - crostata
 - cioccolato
 - pasta frolla
-- dolci
 categories:
 - Dolce
 - "Crostate, Tartes..."

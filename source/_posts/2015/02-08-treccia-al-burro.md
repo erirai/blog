@@ -2,8 +2,8 @@
 title: Treccia al Burro
 date: 2015-02-08
 tags:
-- pasta lievita
-- colazione
+- lievitati
+- ricette svizzere
 - vegan
 categories:
 - Dolce

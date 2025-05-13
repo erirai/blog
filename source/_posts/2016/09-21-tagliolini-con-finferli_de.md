@@ -2,9 +2,9 @@
 title: "Tagliolini mit Eierschwämmli"
 date: 2016-09-21
 tags:
-- primi
-- funghi
 - pasta
+- funghi
+- autunno
 - vegan
 categories:
 - Salato

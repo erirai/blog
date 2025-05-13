@@ -2,8 +2,7 @@
 title: "Focaccia in der Bratpfanne"
 date: 2016-08-08
 tags:
-- focaccia
-- panificati
+- lievitati
 categories:
 - Salato
 - Panificati

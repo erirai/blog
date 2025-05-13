@@ -3,7 +3,6 @@ title: "Polpette di Pane"
 date: 2015-05-28
 tags:
 - polpette
-- secondi
 categories:
 - Salato
 - "Secondi Piatti e Contorni"

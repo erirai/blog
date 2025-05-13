@@ -2,9 +2,8 @@
 title: "Cacoccili Rrustuti (Carciofi arrostiti)"
 date: 2016-01-11
 tags:
-- secondi
-- contorno
 - carciofi
+- inverno
 - glutenfree
 - vegan
 categories:

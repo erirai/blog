@@ -3,7 +3,11 @@ title: "Plumcake Primavera Salato"
 date: 2016-06-06
 tags:
 - torta salata
-- aperitivo
+- piselli
+- asparagi
+- primavera
+- zucchine
+- tofu
 - vegan
 categories:
 - Salato

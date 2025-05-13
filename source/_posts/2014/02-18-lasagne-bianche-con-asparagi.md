@@ -5,6 +5,7 @@ tags:
 - primavera
 - pasqua
 - asparagi
+- pasta
 categories:
 - Salato
 - "Primi Piatti"

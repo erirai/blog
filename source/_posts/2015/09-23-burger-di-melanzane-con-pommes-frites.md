@@ -2,8 +2,7 @@
 title: "Burger di Melanzane con Pommes Frites"
 date: 2015-09-23
 tags:
-- piatto unico
-- burger
+- estate
 - melanzane
 - patate
 - vegan

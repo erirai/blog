@@ -2,9 +2,8 @@
 title: "Johannisbeeren-Whoopie Pies mit Quark-Sahne-Crème"
 date: 2014-06-30
 tags:
-- dolci
 - ribes
-- whoopies
+- estate
 categories:
 - Dolce
 - "Muffin, Cupcakes, Cake Pops..."

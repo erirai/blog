@@ -2,10 +2,8 @@
 title: Halloween Cake Pops
 date: 2014-10-31
 tags:
-- dolci
 - cioccolato
 - halloween
-- cake pops
 - vegan
 categories:
 - Dolce

@@ -4,7 +4,7 @@ date: 2016-12-27
 tags:
 - riso
 - arance
-- primi
+- inverno
 - vegan
 - glutenfree
 - natale

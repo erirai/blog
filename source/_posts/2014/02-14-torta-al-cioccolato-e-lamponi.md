@@ -3,10 +3,8 @@ title: Torta vegana al Cioccolato e Lamponi
 date: 2014-02-14
 tags:
 - san valentino
-- dolci
 - cioccolato
 - lamponi
-- torta
 - festa del papà
 - vegan
 categories:

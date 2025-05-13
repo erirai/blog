@@ -2,8 +2,7 @@
 title: Bulgur con Verdura e Germogli
 date: 2014-04-23
 tags:
-- bulgur
-- piatto unico
+- estate
 - vegan
 categories:
 - Salato

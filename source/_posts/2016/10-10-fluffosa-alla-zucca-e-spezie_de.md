@@ -2,10 +2,8 @@
 title: "vegan Pumpkin Spice Chiffon Cake"
 date: 2016-10-10
 tags:
-- fluffosa
+- autunno
 - zucca
-- dolci
-- torta
 - halloween
 - vegan
 categories:

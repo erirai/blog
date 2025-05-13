@@ -2,8 +2,6 @@
 title: "Torta Rustica vegana al Cioccolato e Nocciole"
 date: 2016-02-24
 tags:
-- dolci
-- torta
 - cioccolato
 - nocciole
 - festa del papà

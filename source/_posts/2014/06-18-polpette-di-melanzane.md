@@ -4,7 +4,6 @@ date: 2014-06-18
 tags:
 - melanzane
 - polpette
-- secondi
 - vegan
 categories:
 - Salato

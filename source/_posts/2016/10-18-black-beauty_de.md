@@ -2,10 +2,7 @@
 title: "Black Beauty (vegan Chocolate Chiffon Cake)"
 date: 2016-10-18
 tags:
-- fluffosa
 - cioccolato
-- dolci
-- torta
 - festa del papà
 - halloween
 - vegan

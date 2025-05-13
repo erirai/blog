@@ -2,7 +2,8 @@
 title: "Älplermagronen"
 date: 2014-01-29
 tags:
-- primi
+- inverno
+- ricette svizzere
 - pasta
 - patate
 categories:

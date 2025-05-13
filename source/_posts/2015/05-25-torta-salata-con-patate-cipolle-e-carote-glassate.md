@@ -6,8 +6,6 @@ tags:
 - torta salata
 - patate
 - carote
-- cipolle
-- "pasta brisé"
 categories:
 - Salato
 - "Torte salate, Muffin salati..."

@@ -2,7 +2,8 @@
 title: "Chiappe (Pomodori Secchi sott'Olio)"
 date: 2015-08-15
 tags:
-- pomodori secchi
+- pomodori
+- estate
 - conserve
 categories:
 - Salato

@@ -2,10 +2,8 @@
 title: "Brot mit getrockneten Tomaten im Bräter"
 date: 2016-08-25
 tags:
-- panificati
-- pasta lievita
-- pane
-- pomodori secchi
+- lievitati
+- pomodori
 - vegan
 categories:
 - Salato

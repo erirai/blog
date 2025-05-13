@@ -3,8 +3,7 @@ title: "Zuppa d'Orzo"
 date: 2016-02-07
 tags:
 - zuppa
-- piatto unico
-- orzo
+- cereali
 - vegan
 categories:
 - Salato

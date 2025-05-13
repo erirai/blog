@@ -4,6 +4,8 @@ date: 2015-10-05
 tags:
 - zucca
 - halloween
+- gnocchi
+- autunno
 - vegan
 categories:
 - Salato

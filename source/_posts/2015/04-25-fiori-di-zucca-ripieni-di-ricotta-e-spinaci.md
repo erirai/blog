@@ -5,7 +5,6 @@ tags:
 - fiori di zucca
 - ricotta
 - spinaci
-- aperitivo
 categories:
 - Salato
 - Aperitivi

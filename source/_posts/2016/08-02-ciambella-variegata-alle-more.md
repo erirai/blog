@@ -2,8 +2,7 @@
 title: "Ciambella Variegata alle More vegana"
 date: 2016-08-02
 tags:
-- dolci
-- torta
+- estate
 - more
 - vegan
 categories:

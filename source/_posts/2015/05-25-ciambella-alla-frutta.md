@@ -2,9 +2,8 @@
 title: "Ciambella vegana alla Frutta"
 date: 2015-05-25
 tags:
-- torta
-- dolci
 - fragole
+- estate
 - ciliegie
 - pesche
 - festa della mamma

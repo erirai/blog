@@ -2,9 +2,9 @@
 title: "Quadrotti alle Fragole"
 date: 2016-04-12
 tags:
-- torta
 - fragole
-- dolci
+- primavera
+- estate
 - festa della mamma
 categories:
 - Dolce

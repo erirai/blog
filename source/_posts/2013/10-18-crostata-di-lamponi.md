@@ -3,7 +3,7 @@ title: "Crostata di Lamponi"
 date: 2013-10-18
 tags:
 - lamponi
-- dolci
+- estate
 - pasta frolla
 - crostata
 - festa della mamma

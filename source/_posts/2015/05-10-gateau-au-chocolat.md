@@ -3,9 +3,7 @@ title: "Gâteau au Chocolat vegano"
 date: 2015-05-10
 tags:
 - san valentino
-- torta
 - cioccolato
-- dolci
 - vegan
 categories:
 - Dolce

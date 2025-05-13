@@ -2,8 +2,6 @@
 title: "Il Cioccolatone"
 date: 2015-04-16
 tags:
-- torta
-- dolci
 - cioccolato
 - festa del papà
 categories:

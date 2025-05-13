@@ -3,8 +3,7 @@ title: "Osterkuchen (Torta di Pasqua svizzera)"
 date: 2014-04-19
 tags:
 - pasqua
-- dolci
-- tarte
+- crostata
 categories:
 - Dolce
 - "Crostate, Tartes..."

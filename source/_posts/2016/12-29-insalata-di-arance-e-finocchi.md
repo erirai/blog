@@ -2,9 +2,9 @@
 title: "Insalata di Arance e Finocchi"
 date: 2016-12-29
 tags:
-- antipasti
 - arance
 - finocchi
+- inverno
 - natale
 - glutenfree
 - vegan

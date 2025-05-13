@@ -3,7 +3,9 @@ title: "Plumcake Salato Autunnale"
 date: 2016-11-28
 tags:
 - torta salata
-- aperitivo
+- zucca
+- tofu
+- autunno
 - vegan
 categories:
 - Salato

@@ -5,6 +5,8 @@ tags:
 - zucca
 - torta salata
 - halloween
+- autunno
+- vegan
 categories:
 - Salato
 - "Torte salate, Muffin salati..."

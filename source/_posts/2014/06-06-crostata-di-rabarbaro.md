@@ -5,6 +5,7 @@ tags:
 - rabarbaro
 - primavera
 - festa della mamma
+- crostata
 categories:
 - Dolce
 - "Crostate, Tartes..."

@@ -5,7 +5,6 @@ tags:
 - muffin
 - cioccolato
 - mandorle
-- dolci
 - vegan
 categories:
 - Dolce

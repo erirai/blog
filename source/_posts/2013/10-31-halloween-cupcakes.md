@@ -2,7 +2,6 @@
 title: "Halloween Cupcakes - Muffin al Cacao con Crema al Mascarpone"
 date: 2013-10-31
 tags:
-- dolci
 - halloween
 - cupcakes
 categories:

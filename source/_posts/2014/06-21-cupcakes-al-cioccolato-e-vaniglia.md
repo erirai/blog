@@ -3,10 +3,8 @@ title: Cupcakes vegani al Cioccolato e Vaniglia
 date: 2014-06-21
 tags:
 - san valentino
-- dolci
 - cupcakes
 - cioccolato
-- vaniglia
 - muffin
 - vegan
 categories:

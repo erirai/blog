@@ -2,7 +2,7 @@
 title: "Gnocchi all'Acqua con Asparagi e Pomodorini"
 date: 2016-05-09
 tags:
-- primi
+- primavera
 - gnocchi
 - asparagi
 - pomodori

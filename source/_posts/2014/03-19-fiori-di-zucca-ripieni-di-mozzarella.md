@@ -3,8 +3,8 @@ title: Fiori di Zucca ripieni di Mozzarella
 date: 2014-03-19
 tags:
 - fiori di zucca
-- mozzarella
-- aperitivo
+- primavera
+- estate
 categories:
 - Salato
 - Aperitivi

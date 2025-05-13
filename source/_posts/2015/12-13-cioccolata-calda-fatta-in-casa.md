@@ -2,7 +2,8 @@
 title: "Cioccolata Calda fatta in Casa"
 date: 2015-12-13
 tags:
-- cioccolata calda
+- cioccolato
+- inverno
 - natale
 categories:
 - Dolce

@@ -4,8 +4,7 @@ date: 2016-09-24
 tags:
 - cioccolato
 - pere
-- dolci
-- torta
+- autunno
 - vegan
 categories:
 - Dolce

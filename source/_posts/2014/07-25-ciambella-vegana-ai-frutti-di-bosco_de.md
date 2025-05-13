@@ -3,8 +3,10 @@ title: "veganer Beeren-Gugelhupf"
 date: 2014-07-25
 tags:
 - estate
-- dolci
-- torta
+- lamponi
+- more
+- mirtilli
+- ribes
 - festa della mamma
 - vegan
 categories:

@@ -2,8 +2,7 @@
 title: Agnellino di Pane ai tre Pesti
 date: 2015-04-05
 tags:
-- panificati
-- pasta lievita
+- lievitati
 - pesto
 - pasqua
 categories:

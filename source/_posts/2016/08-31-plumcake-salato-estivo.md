@@ -3,7 +3,10 @@ title: "Plumcake Salato Estivo"
 date: 2016-08-31
 tags:
 - torta salata
-- aperitivo
+- estate
+- tofu
+- zucchine
+- melanzane
 - vegan
 categories:
 - Salato

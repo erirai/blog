@@ -3,7 +3,6 @@ title: "Cuoricini Frollini"
 date: 2016-02-08
 tags:
 - san valentino
-- dolci
 - biscotti
 - pasta frolla
 categories:

@@ -2,7 +2,7 @@
 title: "Conchiglie con Crema di Mandorle e Porro profumate al Limone"
 date: 2016-06-30
 tags:
-- primi
+- pasta
 - mandorle
 - limone
 - vegan

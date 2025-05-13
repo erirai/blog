@@ -2,10 +2,8 @@
 title: "Pane con Pomodori Secchi in Casseruola"
 date: 2016-08-25
 tags:
-- panificati
-- pasta lievita
-- pane
-- pomodori secchi
+- lievitati
+- pomodori
 - vegan
 categories:
 - Salato

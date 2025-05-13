@@ -2,9 +2,8 @@
 title: "Focaccia Pugliese"
 date: 2015-04-30
 tags:
-- pasta lievita
 - patate
-- panificati
+- lievitati
 - vegan
 categories:
 - Salato

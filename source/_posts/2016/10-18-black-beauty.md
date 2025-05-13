@@ -2,10 +2,7 @@
 title: "Black Beauty (Fluffosa al Cioccolato vegan)"
 date: 2016-10-18
 tags:
-- fluffosa
 - cioccolato
-- dolci
-- torta
 - festa del papà
 - halloween
 - vegan

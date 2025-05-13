@@ -2,7 +2,7 @@
 title: "Timballo di Rigatoni"
 date: 2016-12-15
 tags:
-- primi
+- estate
 - melanzane
 - pasta
 - pomodori

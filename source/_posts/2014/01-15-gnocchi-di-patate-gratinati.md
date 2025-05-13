@@ -3,7 +3,7 @@ title: "Gnocchi di Patate Gratinati"
 date: 2014-01-15
 tags:
 - patate
-- primi
+- gnocchi
 categories:
 - Salato
 - "Primi Piatti"

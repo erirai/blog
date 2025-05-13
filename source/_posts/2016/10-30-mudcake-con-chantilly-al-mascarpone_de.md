@@ -2,10 +2,7 @@
 title: "Mud Cake mit Mascarpone-Chantilly"
 date: 2016-10-30
 tags:
-- torta
-- dolci
 - cioccolato
-- mascarpone
 - halloween
 categories:
 - Dolce

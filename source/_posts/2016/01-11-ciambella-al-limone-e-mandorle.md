@@ -2,8 +2,6 @@
 title: "Ciambella vegana al Limone e Mandorle"
 date: 2016-01-11
 tags:
-- dolci
-- torta
 - limone
 - mandorle
 - vegan

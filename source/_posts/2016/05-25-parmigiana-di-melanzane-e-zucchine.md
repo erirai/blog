@@ -4,9 +4,9 @@ date: 2016-05-25
 tags:
 - melanzane
 - zucchine
-- secondi
-- contorno
+- estate
 - glutenfree
+- vegan
 categories:
 - Salato
 - "Secondi Piatti e Contorni"

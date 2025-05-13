@@ -2,8 +2,7 @@
 title: "Brioches vegane"
 date: 2015-06-13
 tags:
-- brioche
-- colazione
+- lievitati
 - vegan
 categories:
 - Dolce

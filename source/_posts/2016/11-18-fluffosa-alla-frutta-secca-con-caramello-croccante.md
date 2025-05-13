@@ -2,14 +2,11 @@
 title: "Fluffosa alla Frutta Secca con Caramello Croccante"
 date: 2016-11-18
 tags:
-- torta
-- fluffosa
-- dolci
-- noci
 - nocciole
 - mandorle
 - natale
-- caramello
+- autunno
+- inverno
 categories:
 - Dolce
 - Torte

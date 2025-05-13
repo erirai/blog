@@ -2,9 +2,8 @@
 title: "Torta Soffice vegana al Rabarbaro Affogato"
 date: 2016-04-25
 tags:
-- torta
-- dolci
 - rabarbaro
+- primavera
 - festa della mamma
 - vegan
 categories:

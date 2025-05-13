@@ -2,11 +2,10 @@
 title: "Muffin vegani alla Zucca e Cioccolato con Frosting al Mascarpone"
 date: 2015-10-23
 tags:
-- dolci
 - muffin
 - zucca
 - halloween
-- mascarpone
+- autunno
 - vegan
 categories:
 - Dolce

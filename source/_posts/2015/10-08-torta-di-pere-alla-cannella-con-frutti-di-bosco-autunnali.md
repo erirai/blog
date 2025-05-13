@@ -2,13 +2,12 @@
 title: "Torta di Pere alla Cannella vegana con Frutti di Bosco Autunnali"
 date: 2015-10-08
 tags:
-- dolci
-- torta
 - pere
 - lamponi
 - more
 - ribes
 - mirtilli
+- autunno
 - vegan
 categories:
 - Dolce

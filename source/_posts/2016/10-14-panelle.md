@@ -3,8 +3,8 @@ title: "Panelle"
 date: 2016-10-14
 tags:
 - ceci
-- piatto unico
-- aperitivo
+- ricette siciliane
+- legumi
 - glutenfree
 - vegan
 categories:

@@ -2,11 +2,9 @@
 title: "Torta Brisé con Crema Frangipane e Albicocche"
 date: 2016-06-28
 tags:
-- dolci
-- torta
 - albicocche
 - mandorle
-- pasta brisé
+- estate
 categories:
 - Dolce
 - Torte

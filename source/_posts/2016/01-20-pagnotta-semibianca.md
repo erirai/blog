@@ -2,9 +2,7 @@
 title: "Pane (ricetta base)"
 date: 2016-01-20
 tags:
-- panificati
-- pasta lievita
-- pane
+- lievitati
 categories:
 - Salato
 - Panificati

@@ -2,7 +2,6 @@
 title: Chiacchiere di Carnevale fritte e al forno
 date: 2014-02-28
 tags:
-- dolci
 - carnevale
 - frittelle
 categories:

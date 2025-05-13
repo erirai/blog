@@ -5,7 +5,7 @@ tags:
 - muffin salati
 - zucchine
 - fiori di zucca
-- aperitivo
+- estate
 categories:
 - Salato
 - "Torte salate, Muffin salati..."
