@@ -4,6 +4,7 @@ date: 2015-06-19
 tags:
 - riso
 - ricette siciliane
+- zafferano
 categories:
 - Salato
 - "Piatti Unici"

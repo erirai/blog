@@ -2,8 +2,10 @@
 title: "Rösti di Zucca e Patate con Funghi e Panna"
 date: 2021-10-13
 tags: 
-- primi
-- piatto unico
+- ricette svizzere
+- patate
+- zucca
+- funghi
 - autunno
 - inverno
 - vegan

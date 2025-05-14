@@ -3,7 +3,9 @@ title: "Dinkelbrot mit Walnüssen"
 date: 2020-11-05
 tags:
 - vegan
-- pane
+- lievitati
+- autunno
+- inverno
 categories:
 - Salato
 - Panificati

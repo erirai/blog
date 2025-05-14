@@ -3,7 +3,8 @@ title: "Sizilianische Oster-Kekse mit gekochtem Ei (Pupi con l'Uovo)"
 date: 2022-04-12
 tags:
 - pasqua
-- piccola pasticceria
+- ricette siciliane
+- pasta frolla
 - biscotti
 categories:
 - Dolce

@@ -3,8 +3,6 @@ title: "Consiglio Green Numero 3: Portare la Borraccia sempre con se"
 date: 2019-11-08
 tags:
 - consigli green
-- plasticfree
-- no waste
 categories:
 - "Z_Ambiente"
 - "Consigli Green"

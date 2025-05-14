@@ -4,8 +4,6 @@ date: 2019-10-23
 tags:
 - halloween
 - cioccolato
-- torta
-- dolci
 categories:
 - Dolce
 - Torte

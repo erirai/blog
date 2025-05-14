@@ -1,15 +1,14 @@
 ---
 title: "Struffoli al forno"
-lang: it
-
 date: 2021-12-02
 tags:
-  - natale
-  - biscotti
+- natale
+- biscotti
 categories:
-  - Dolce
-  - "Piccola Pasticceria"
+- Dolce
+- "Piccola Pasticceria"
 label: 2021-12-02-struffoli-al-forno
+lang: it
 ---
 ![](header.jpeg "frangipani © Erica")
 

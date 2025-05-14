@@ -3,7 +3,8 @@ title: "Süsse Brotfladen"
 date: 2020-06-10
 tags:
 - vegan
-- pane
+- lievitati
+- frittelle
 categories:
 - Dolce
 - Panificati

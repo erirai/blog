@@ -5,8 +5,8 @@ tags:
 - vegan
 - estate
 - autunno
-- piatto unico
-- contorno
+- lenticchie
+- legumi
 categories:
 - Salato
 - "Piatti Unici"

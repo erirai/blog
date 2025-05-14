@@ -5,6 +5,7 @@ tags:
 - crostata
 - mirtilli
 - estate
+- mandorle
 categories:
 - Dolce
 - "Crostate, Tartes..."

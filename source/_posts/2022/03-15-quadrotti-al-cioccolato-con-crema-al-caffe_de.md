@@ -3,7 +3,8 @@ title: "Schoko-Schnitten mit Kaffee-Crème"
 date: 2022-03-15
 tags:
 - festa del papà
-- piccola pasticceria
+- caffé
+- cioccolato
 categories:
 - Dolce
 - "Piccola Pasticceria"

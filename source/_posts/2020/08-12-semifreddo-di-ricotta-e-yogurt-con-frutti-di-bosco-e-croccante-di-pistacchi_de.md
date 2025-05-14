@@ -3,8 +3,12 @@ title: "Ricotta-Joghurt-Parfait (ohne Eier) mit Beeren und Pistazienkrokant"
 date: 2020-08-12
 tags:
 - estate
-- dolci
 - gelato
+- ricotta
+- lamponi
+- more
+- mirtilli
+- pistacchi
 categories:
 - Dolce
 - "Dolci al cucchiaio, Gelati..."

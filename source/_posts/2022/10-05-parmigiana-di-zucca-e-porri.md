@@ -2,7 +2,6 @@
 title: "Parmigiana di Zucca e Porri"
 date: 2022-10-05
 tags: 
-- contorno
 - zucca
 - autunno
 categories:

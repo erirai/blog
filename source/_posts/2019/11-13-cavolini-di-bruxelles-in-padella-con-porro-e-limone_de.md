@@ -2,10 +2,11 @@
 title: "Gebratener Rosenkohl mit Lauch und Zitrone"
 date: 2019-11-13
 tags:
-- cavolo
 - glutenfree
 - vegan
-- contorno
+- autunno
+- inverno
+- limone
 categories:
 - Salato
 - "Secondi Piatti e Contorni"

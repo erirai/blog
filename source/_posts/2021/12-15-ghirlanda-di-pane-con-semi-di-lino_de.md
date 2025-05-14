@@ -1,15 +1,14 @@
 ---
 title: "Brotkranz mit Leinsamen"
-lang: de
-
 date: 2021-12-15
 tags:
-  - pane
-  - natale
+- lievitati
+- natale
 categories:
-  - Salato
-  - Panificati
+- Salato
+- Panificati
 label: 2021-12-15-ghirlanda-di-pane-con-semi-di-lino
+lang: de
 ---
 ![](../2021-12-15-ghirlanda-di-pane-con-semi-di-lino/header.jpeg "frangipani © Erica")
 

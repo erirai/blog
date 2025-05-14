@@ -2,10 +2,10 @@
 title: "Brombeeren-Birnen-Kuchen"
 date: 2019-09-03
 tags:
-- torta
 - crostata
 - more
 - pere
+- autunno
 categories:
 - Dolce
 - "Crostate, Tartes..."

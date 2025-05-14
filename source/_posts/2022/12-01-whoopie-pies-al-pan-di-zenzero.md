@@ -3,7 +3,6 @@ title: "Whoopie Pies al Pan di Zenzero"
 date: 2022-12-01
 tags:
 - natale
-- whoopies
 categories:
 - Dolce
 - "Muffin, Cupcakes, Cake Pops..."

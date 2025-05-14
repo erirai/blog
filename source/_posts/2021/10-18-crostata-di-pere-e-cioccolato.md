@@ -2,8 +2,8 @@
 title: "Crostata di Pere e Cioccolato"
 date: 2021-10-18
 tags:
-- dolci 
 - pere
+- cioccolato
 - autunno
 - inverno
 - crostata

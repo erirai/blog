@@ -3,9 +3,8 @@ title: "Mischung für hausgemachte heisse Schokolade"
 date: 2019-12-12
 tags:
 - natale
-- diy
 - cioccolato
-- bevande
+- inverno
 categories:
 - Dolce
 - Bevande

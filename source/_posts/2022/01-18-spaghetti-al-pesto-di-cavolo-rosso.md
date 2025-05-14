@@ -4,6 +4,8 @@ date: 2022-01-18
 tags: 
 - autunno
 - inverno
+- pesto
+- pasta
 - vegan
 categories:
 - Salato

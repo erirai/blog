@@ -4,7 +4,10 @@ date: 2020-02-18
 tags:
 - autunno
 - inverno
-- panificati
+- lievitati
+- barbabietola
+- patate
+- vegan
 categories:
 - Salato
 - Panificati

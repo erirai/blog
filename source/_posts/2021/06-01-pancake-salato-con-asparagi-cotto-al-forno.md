@@ -2,9 +2,7 @@
 title: "Pancake Salato con Asparagi cotto al forno (Dutch Baby salato)"
 date: 2021-06-01
 tags: 
-- secondi
 - asparagi
-- aperitivo
 - primavera
 categories:
 - Salato

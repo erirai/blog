@@ -2,11 +2,10 @@
 title: "Wasserkuchen mit Rhabarber und weisser Schokolade"
 date: 2019-05-14
 tags:
-- torta
-- dolci
 - festa della mamma
-- cioccolato bianco
+- cioccolato
 - rabarbaro
+- primavera
 - vegan
 categories:
 - Dolce

@@ -2,7 +2,9 @@
 title: "Risotto alla Zucca con Semi di Zucca"
 date: 2022-09-21
 tags: 
-- primi
+- riso
+- glutenfree
+- vegan
 - zucca
 - autunno
 categories:

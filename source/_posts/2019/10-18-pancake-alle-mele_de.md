@@ -3,7 +3,7 @@ title: "Apfel-Zimt-Pancakes"
 date: 2019-10-18
 tags:
 - mele
-- colazione
+- autunno
 categories:
 - Dolce
 - Colazione

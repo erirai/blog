@@ -1,15 +1,15 @@
 ---
 title: "Dreikönigskuchen al Cioccolato (Corona dei Re Magi)"
-lang: it
-
 date: 2022-01-04
 tags:
   - natale
-  - brioche
+  - lievitati
+  - ricette svizzere
 categories:
   - Dolce
   - Panificati
 label: 2021-01-04-dreikonigskuchen-al-cioccolato
+lang: it
 ---
 ![](header.jpeg "frangipani © Erica")
 

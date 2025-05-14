@@ -4,8 +4,7 @@ date: 2020-09-22
 tags:
 - vegan
 - autunno
-- piatto unico
-- contorno
+- funghi
 categories:
 - Salato
 - "Secondi Piatti e Contorni"

@@ -5,9 +5,8 @@ tags:
 - autunno
 - inverno
 - natale
-- dolce al cucchiaio
 - glutenfree
-- pavlova
+- mele
 categories:
 - Dolce
 - "Crostate, Tartes..."

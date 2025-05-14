@@ -3,6 +3,8 @@ title: "Oster-Ricotta-Spinat-Törtchen mit Ei (Mini Pasqualine)"
 date: 2022-04-05
 tags: 
 - pasqua
+- spinaci
+- ricotta
 - muffin salati
 categories:
 - Salato

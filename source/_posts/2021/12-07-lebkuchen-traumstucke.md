@@ -1,15 +1,15 @@
 ---
 title: "Biscotti Pezzi di Sogno al Pan di Zenzero e Arancia"
-lang: it
-
 date: 2021-12-07
 tags:
-  - biscotti
-  - natale
+- biscotti
+- arance
+- natale
 categories:
-  - Dolce
-  - Biscotti
+- Dolce
+- Biscotti
 label: 2021-12-07-lebkuchen-traumstucke
+lang: it
 ---
 ![](header.jpeg "frangipani © Erica")
 

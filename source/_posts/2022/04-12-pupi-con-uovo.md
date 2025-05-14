@@ -3,7 +3,8 @@ title: "Pupi cu l'Ova (senza strutto)"
 date: 2022-04-12
 tags:
 - pasqua
-- piccola pasticceria
+- ricette siciliane
+- pasta frolla
 - biscotti
 categories:
 - Dolce

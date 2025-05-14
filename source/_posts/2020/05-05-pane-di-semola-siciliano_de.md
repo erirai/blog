@@ -3,7 +3,8 @@ title: "Sizilianisches Hartweizengriess-Brot mit Sesam"
 date: 2020-05-05
 tags:
 - vegan
-- pane
+- lievitati
+- ricette siciliane
 categories:
 - Salato
 - Panificati

@@ -4,7 +4,8 @@ date: 2020-02-20
 tags:
 - frittelle
 - carnevale
-- dolci
+- ricotta
+- arance
 categories:
 - Dolce
 - "Piccola Pasticceria" 

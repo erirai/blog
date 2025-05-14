@@ -3,7 +3,9 @@ title: "Pumpkin Pie (Crostata di Zucca speziata)"
 date: 2020-10-18
 tags:
 - autunno
+- zucca
 - halloween
+- crostata
 categories:
 - Dolce
 - "Crostate, Tartes..."

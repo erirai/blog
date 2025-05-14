@@ -2,7 +2,7 @@
 title: "Treccia Salata farcita con Salsa al Pomodoro, Spinaci e Mozzarella"
 date: 2019-03-28
 tags:
-- panificati
+- lievitati
 - spinaci
 - pomodori
 - pasqua

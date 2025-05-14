@@ -3,8 +3,6 @@ title: "Green Tip Nummer 5: Frischhaltefolie durch Bienenwachstücher ersetzen"
 date: 2020-01-10
 tags:
 - consigli green
-- plasticfree
-- no waste
 categories:
 - "Z_Ambiente"
 - "Consigli Green"

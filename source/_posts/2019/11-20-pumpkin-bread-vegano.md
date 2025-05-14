@@ -3,11 +3,8 @@ title: "Pumpkin Bread vegano (Plumcake alla Zucca)"
 date: 2019-11-20
 tags:
 - zucca
-- colazione
 - vegan
 - autunno
-- dolce
-- torta
 categories:
 - Dolce
 - Torte

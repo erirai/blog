@@ -2,9 +2,8 @@
 title: "Hot Cross Buns senza uvetta"
 date: 2020-04-03
 tags:
-- panificati
+- lievitati
 - pasqua
-- dolci
 categories:
 - Dolce
 - Panificati

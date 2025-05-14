@@ -1,15 +1,14 @@
 ---
 title: "Ghirlanda di Pane con Semi di Lino"
-lang: it
-
 date: 2021-12-15
 tags:
-  - pane
-  - natale
+- lievitati
+- natale
 categories:
-  - Salato
-  - Panificati
+- Salato
+- Panificati
 label: 2021-12-15-ghirlanda-di-pane-con-semi-di-lino
+lang: it
 ---
 ![](header.jpeg "frangipani © Erica")
 

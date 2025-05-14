@@ -6,7 +6,8 @@ tags:
 - inverno
 - natale
 - zucca
-- aperitivo
+- pasta sfoglia
+- vegan
 categories:
 - Salato
 - Aperitivi

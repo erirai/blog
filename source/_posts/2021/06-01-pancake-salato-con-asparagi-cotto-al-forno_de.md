@@ -2,9 +2,7 @@
 title: "Herzhafter Ofen-Pancake mit Spargeln (herzhafter Dutch Baby)"
 date: 2021-06-01
 tags: 
-- secondi
 - asparagi
-- aperitivo
 - primavera
 categories:
 - Salato

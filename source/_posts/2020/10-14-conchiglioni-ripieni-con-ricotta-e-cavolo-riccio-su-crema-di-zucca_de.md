@@ -3,7 +3,8 @@ title: "Muschelpasta gefüllt mit Ricotta und Federkohl auf Kürbiscreme"
 date: 2020-10-14
 tags:
 - autunno
-- primi
+- zucca
+- pasta
 categories:
 - Salato
 - "Primi Piatti"

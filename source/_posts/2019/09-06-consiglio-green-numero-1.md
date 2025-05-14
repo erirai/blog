@@ -3,7 +3,6 @@ title: "Consiglio Green Numero 1: Comprare frutta e verdura di stagione e senza 
 date: 2019-09-06
 tags:
 - consigli green
-- plasticfree
 categories:
 - "Z_Ambiente"
 - "Consigli Green"

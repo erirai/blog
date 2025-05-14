@@ -4,7 +4,8 @@ date: 2022-09-14
 tags:
 - autunno
 - estate
-- panificati
+- lievitati
+- prunge
 categories:
 - Dolce
 - Panificati

@@ -2,10 +2,11 @@
 title: "Cavolini di Bruxelles in Padella con Porro e Limone"
 date: 2019-11-13
 tags:
-- cavolo
 - glutenfree
 - vegan
-- contorno
+- autunno
+- inverno
+- limone
 categories:
 - Salato
 - "Secondi Piatti e Contorni"

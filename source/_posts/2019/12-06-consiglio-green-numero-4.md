@@ -3,8 +3,6 @@ title: "Consiglio Green Numero 4: Consigli per un Natale più green e sostenibil
 date: 2019-12-06
 tags:
 - consigli green
-- plasticfree
-- no waste
 categories:
 - "Z_Ambiente"
 - "Consigli Green"

@@ -3,6 +3,7 @@ title: "Ciambella alle Mandorle con Cuore di Ricotta e Rabarbaro"
 date: 2022-06-14
 tags:
 - primavera
+- mandorle
 - rabarbaro
 categories:
 - Dolce

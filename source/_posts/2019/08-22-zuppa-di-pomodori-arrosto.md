@@ -5,8 +5,8 @@ tags:
 - pomodori
 - glutenfree
 - vegan
-- piatto unico
-- antipasto
+- zuppa
+- estate
 categories:
 - Salato
 - "Piatti Unici"

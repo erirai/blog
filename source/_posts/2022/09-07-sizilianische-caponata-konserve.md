@@ -3,8 +3,8 @@ title: "Sizilianische Caponata (Konserve)"
 date: 2022-09-07
 tags: 
 - estate
-- contorno
-- conserva
+- ricette siciliane
+- conserve
 - melanzane
 - peperoni
 categories:

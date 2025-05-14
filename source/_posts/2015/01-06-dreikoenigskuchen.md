@@ -3,6 +3,7 @@ title: "Dreikönigskuchen vegano (Corona dei Re Magi)"
 date: 2015-01-06
 tags:
 - natale
+- ricette svizzere
 - lievitati
 - vegan
 categories:

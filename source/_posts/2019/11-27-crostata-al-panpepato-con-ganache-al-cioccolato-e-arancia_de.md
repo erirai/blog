@@ -2,11 +2,10 @@
 title: "Lebkuchentarte mit Schoko-Orangen-Ganache"
 date: 2019-11-27
 tags:
-- dolci
 - natale
 - cioccolato
 - crostata
-- tarte
+- arance
 categories:
 - Dolce
 - "Crostate, Tartes..."

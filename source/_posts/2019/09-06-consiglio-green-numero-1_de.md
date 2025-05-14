@@ -3,7 +3,6 @@ title: "Green Tip Nummer 1: Obst und Gemüse saisonal und plastikfrei einkaufen"
 date: 2019-09-06
 tags:
 - consigli green
-- plasticfree
 categories:
 - "Z_Ambiente"
 - "Consigli Green"

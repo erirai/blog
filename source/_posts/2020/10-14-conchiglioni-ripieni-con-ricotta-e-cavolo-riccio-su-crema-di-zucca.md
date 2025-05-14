@@ -3,7 +3,8 @@ title: "Conchiglioni ripieni con Ricotta e Cavolo Riccio su Crema di Zucca"
 date: 2020-10-14
 tags:
 - autunno
-- primi
+- zucca
+- pasta
 categories:
 - Salato
 - "Primi Piatti"

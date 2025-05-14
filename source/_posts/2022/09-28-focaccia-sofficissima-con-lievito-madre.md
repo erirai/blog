@@ -2,7 +2,7 @@
 title: "Focaccia Sofficissima con Lievito Madre"
 date: 2022-09-28
 tags: 
-- pane
+- lievitati
 - vegan
 categories:
 - Salato

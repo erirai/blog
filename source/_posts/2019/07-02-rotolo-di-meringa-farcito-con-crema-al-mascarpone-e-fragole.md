@@ -2,11 +2,8 @@
 title: "Rotolo di Meringa farcito con Crema al Mascarpone e Fragole"
 date: 2019-07-02
 tags:
-- torta
-- dolci
 - fragole
-- meringa
-- dolce al cucchiaio
+- estate
 - glutenfree
 categories:
 - Dolce

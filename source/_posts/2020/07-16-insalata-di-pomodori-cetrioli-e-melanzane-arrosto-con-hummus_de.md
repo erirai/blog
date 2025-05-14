@@ -4,7 +4,11 @@ date: 2020-07-16
 tags:
 - vegan
 - estate
-- aperitivo
+- pomodori
+- melanzane
+- cetrioli
+- ceci
+- legumi
 categories:
 - Salato
 - Aperitivi

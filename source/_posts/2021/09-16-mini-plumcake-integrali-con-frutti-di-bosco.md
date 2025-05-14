@@ -2,7 +2,10 @@
 title: "Mini Plumcake Integrali con Frutti di Bosco"
 date: 2021-09-16
 tags:
-- dolci 
+- lamponi
+- more
+- mirtilli
+- yogurt
 - estate
 - autunno
 - muffin

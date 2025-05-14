@@ -3,7 +3,9 @@ title: "Pane al Farro con Noci"
 date: 2020-11-05
 tags:
 - vegan
-- pane
+- lievitati
+- autunno
+- inverno
 categories:
 - Salato
 - Panificati

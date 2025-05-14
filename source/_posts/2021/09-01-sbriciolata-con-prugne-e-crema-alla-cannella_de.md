@@ -2,10 +2,10 @@
 title: "Zwetschgen-Streuselkuchen mit Zimtcrème"
 date: 2021-09-01
 tags:
-- dolci 
+- prugne
 - estate
 - autunno
-- torta
+- crumble
 categories:
 - Dolce
 - "Crostate, Tartes..."

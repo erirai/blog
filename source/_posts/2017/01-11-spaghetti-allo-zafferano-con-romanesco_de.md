@@ -6,6 +6,7 @@ tags:
 - estate
 - cavolo romano
 - vegan
+- zafferano
 categories:
 - Salato
 - "Primi Piatti"

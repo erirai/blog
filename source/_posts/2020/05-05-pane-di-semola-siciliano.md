@@ -3,7 +3,8 @@ title: "Pane Siciliano di Semola con Sesamo"
 date: 2020-05-05
 tags:
 - vegan
-- pane
+- lievitati
+- ricette siciliane
 categories:
 - Salato
 - Panificati

@@ -3,8 +3,9 @@ title: "Brioche-Brötchen gefüllt mit Frischkäse-Champignons-Bärlauch-Crème"
 date: 2021-03-17
 tags: 
 - pasqua
-- aperitivo
-- panificati
+- lievitati
+- aglio orsino
+- funghi
 - primavera
 categories:
 - Salato

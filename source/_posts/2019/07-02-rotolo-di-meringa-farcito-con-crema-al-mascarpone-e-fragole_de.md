@@ -2,11 +2,8 @@
 title: "Meringue-Rolle mit Mascarpone-Crème und Erdbeeren"
 date: 2019-07-02
 tags:
-- torta
-- dolci
 - fragole
-- meringa
-- dolce al cucchiaio
+- estate
 - glutenfree
 categories:
 - Dolce

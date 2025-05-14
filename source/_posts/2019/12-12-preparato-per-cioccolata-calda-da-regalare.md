@@ -3,9 +3,8 @@ title: "Preparato per Cioccolata Calda fatta in casa"
 date: 2019-12-12
 tags:
 - natale
-- diy
 - cioccolato
-- bevande
+- inverno
 categories:
 - Dolce
 - Bevande

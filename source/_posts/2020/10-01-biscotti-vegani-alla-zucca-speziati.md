@@ -3,7 +3,9 @@ title: "Biscotti vegani alla Zucca speziati"
 date: 2020-10-01
 tags:
 - autunno
-- dolci
+- zucca
+- cioccolato
+- vegan
 - biscotti
 categories:
 - Dolce

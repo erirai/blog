@@ -3,8 +3,6 @@ title: "Green Tip Nummer 4: Tipps für ein grüneres und nachhaltigeres Weihnach
 date: 2019-12-06
 tags:
 - consigli green
-- plasticfree
-- no waste
 categories:
 - "Z_Ambiente"
 - "Consigli Green"

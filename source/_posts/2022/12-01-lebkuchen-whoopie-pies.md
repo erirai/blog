@@ -3,7 +3,6 @@ title: "Lebkuchen Whoopie Pies"
 date: 2022-12-01
 tags:
 - natale
-- whoopies
 categories:
 - Dolce
 - "Muffin, Cupcakes, Cake Pops..."

@@ -4,7 +4,7 @@ date: 2022-08-25
 tags: 
 - autunno
 - conserve
-- marmellata
+- prugne
 - vegan
 categories:
 - Dolce

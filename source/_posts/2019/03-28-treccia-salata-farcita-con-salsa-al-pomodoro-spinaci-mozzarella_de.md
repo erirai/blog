@@ -2,7 +2,7 @@
 title: "Herzhafter Hefezopf gefüllt mit Tomatensauce, Spinat und Mozzarella"
 date: 2019-03-28
 tags:
-- panificati
+- lievitati
 - spinaci
 - pomodori
 - pasqua

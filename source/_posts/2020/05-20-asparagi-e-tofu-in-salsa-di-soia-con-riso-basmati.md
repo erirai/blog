@@ -4,7 +4,10 @@ date: 2020-05-20
 tags:
 - vegan
 - primavera
-- piatto unico
+- tofu
+- asparagi
+- riso
+- glutenfree
 categories:
 - Salato
 - "Piatti Unici"

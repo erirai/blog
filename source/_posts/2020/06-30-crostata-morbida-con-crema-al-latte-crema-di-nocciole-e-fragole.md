@@ -2,9 +2,10 @@
 title: "Crostata Morbida con Crema al latte, Crema di Nocciole e Fragole"
 date: 2020-06-30
 tags:
-- dolci 
 - estate
-- torta
+- crostata
+- fragole
+- cioccolato
 categories:
 - Dolce
 - "Crostate, Tartes..."

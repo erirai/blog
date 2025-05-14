@@ -2,8 +2,8 @@
 title: "Biscotti vegani al Cioccolato con Cuore di Cioccolato Bianco"
 date: 2020-10-26
 tags:
-- autunno
-- dolci
+- cioccolato
+- biscotti
 - halloween
 - vegan
 categories:

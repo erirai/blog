@@ -6,7 +6,6 @@ tags:
 - fragole
 - muffin
 - primavera
-- dolce
 - vegan
 categories:
 - Dolce

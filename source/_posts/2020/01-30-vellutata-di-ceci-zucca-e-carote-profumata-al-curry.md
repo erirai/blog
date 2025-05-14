@@ -3,7 +3,12 @@ title: "Vellutata di Ceci, Zucca e Carote profumata al Curry"
 date: 2020-01-30
 tags:
 - inverno
-- piatto unico
+- zuppa
+- ceci
+- legumi
+- zucca
+- carote
+- autunno
 - vegan
 categories:
 - Salato

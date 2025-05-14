@@ -3,11 +3,8 @@ title: "veganes Pumpkin Bread (veganes Kürbisbrot)"
 date: 2019-11-20
 tags:
 - zucca
-- colazione
 - vegan
 - autunno
-- dolce
-- torta
 categories:
 - Dolce
 - Torte

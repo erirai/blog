@@ -3,8 +3,6 @@ title: "Green Tip Nummer 3: Trinkflasche immer mitnehmen"
 date: 2019-11-08
 tags:
 - consigli green
-- plasticfree
-- no waste
 categories:
 - "Z_Ambiente"
 - "Consigli Green"

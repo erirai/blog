@@ -2,8 +2,10 @@
 title: "Kürbis-Kartoffelrösti mit Pilz-Rahmsauce"
 date: 2021-10-13
 tags: 
-- primi
-- piatto unico
+- ricette svizzere
+- patate
+- zucca
+- funghi
 - autunno
 - inverno
 - vegan

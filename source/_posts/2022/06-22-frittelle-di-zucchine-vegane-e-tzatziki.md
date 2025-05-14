@@ -4,8 +4,10 @@ date: 2022-06-22
 tags: 
 - primavera
 - estate
-- contorno
-- aperitivo
+- zucchine
+- yogurt
+- cetrioli
+- vegan
 categories:
 - Salato
 - "Secondi Piatti e Contorni"

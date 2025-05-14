@@ -1,10 +1,11 @@
 ---
-title: "Erdbeer-Obstboden mit Milchcreme und Haselnussaufstrich"
+title: "Erdbeer-Obstboden mit Milchcrème und Haselnussaufstrich"
 date: 2020-06-30
 tags:
-- dolci 
 - estate
-- torta
+- crostata
+- fragole
+- cioccolato
 categories:
 - Dolce
 - "Crostate, Tartes..."

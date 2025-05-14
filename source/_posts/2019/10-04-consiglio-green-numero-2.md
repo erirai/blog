@@ -3,8 +3,6 @@ title: "Consiglio Green Numero 2: Usare Tovaglioli di Stoffa"
 date: 2019-10-04
 tags:
 - consigli green
-- plasticfree
-- no waste
 categories:
 - "Z_Ambiente"
 - "Consigli Green"

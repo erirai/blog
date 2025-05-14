@@ -5,7 +5,6 @@ tags:
 - pasqua
 - asparagi
 - primavera
-- aperitivo
 - glutenfree
 categories:
 - Salato

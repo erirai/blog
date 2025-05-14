@@ -2,12 +2,11 @@
 title: "Fiori di Zucca farciti con Patate ed Erbette Aromatiche"
 date: 2019-06-06
 tags:
-- antipasti
-- contorno
 - fiori di zucca
 - patate
 - glutenfree
-- erbe aromatiche
+- primavera
+- estate
 - vegan
 categories:
 - Salato

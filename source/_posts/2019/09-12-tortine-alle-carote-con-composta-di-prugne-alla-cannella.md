@@ -3,11 +3,9 @@ title: "Tortine alle Carote con Composta di Prugne alla Cannella"
 date: 2019-09-12
 tags:
 - carote
-- dolci
 - prugne
-- cannella
 - muffin
-- lactosefree
+- autunno
 categories:
 - Dolce
 - "Muffin, Cupcakes, Cake Pops..."

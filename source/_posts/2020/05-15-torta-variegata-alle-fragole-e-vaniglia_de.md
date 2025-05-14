@@ -4,7 +4,6 @@ date: 2020-05-15
 tags:
 - primavera
 - estate
-- dolci
 - fragole
 categories:
 - Dolce

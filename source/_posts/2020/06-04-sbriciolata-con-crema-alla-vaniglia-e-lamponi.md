@@ -2,9 +2,9 @@
 title: "Sbriciolata con Crema alla Vaniglia e Lamponi"
 date: 2020-06-04
 tags:
-- dolci 
+- lamponi
 - estate
-- torta
+- crumble
 categories:
 - Dolce
 - "Crostate, Tartes..."

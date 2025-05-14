@@ -2,10 +2,11 @@
 title: "Spargel-Erdbeer-Salat mit Zitronenmelisse"
 date: 2019-05-17
 tags:
-- antipasti
+- insalata
 - asparagi
 - fragole
 - glutenfree
+- primavera
 - vegan
 categories:
 - Salato

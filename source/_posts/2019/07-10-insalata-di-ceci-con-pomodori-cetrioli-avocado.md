@@ -9,8 +9,8 @@ tags:
 - avocado
 - glutenfree
 - vegan
-- piatto unico
-- contorno
+- estate
+- legumi
 categories:
 - Salato
 - "Piatti Unici"

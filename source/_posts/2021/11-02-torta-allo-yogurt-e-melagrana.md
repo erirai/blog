@@ -1,16 +1,15 @@
 ---
 title: "Torta allo Yogurt e Melagrana"
-lang: it
-
 date: 2021-11-02
 tags:
-  - dolci 
-  - autunno
-  - melagrana
+- yogurt
+- autunno
+- melograno
 categories:
-  - Dolce
-  - Torte
+- Dolce
+- Torte
 label: 2021-11-02-torta-allo-yogurt-e-melagrana
+lang: it
 ---
 ![](header.jpeg "frangipani © Erica")
 

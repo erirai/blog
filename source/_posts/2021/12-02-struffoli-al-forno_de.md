@@ -1,15 +1,14 @@
 ---
 title: "Ofen-Struffoli (Italienische Honigbällchen)"
-lang: de
-
 date: 2021-12-02
 tags:
-  - natale
-  - biscotti
+- natale
+- biscotti
 categories:
-  - Dolce
-  - "Piccola Pasticceria"
+- Dolce
+- "Piccola Pasticceria"
 label: 2021-12-02-struffoli-al-forno
+lang: de
 ---
 ![](../2021-12-02-struffoli-al-forno/header.jpeg "frangipani © Erica")
 

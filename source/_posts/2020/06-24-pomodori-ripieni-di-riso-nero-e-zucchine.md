@@ -4,7 +4,10 @@ date: 2020-06-24
 tags:
 - vegan
 - estate
-- primi
+- pomodori
+- riso
+- glutenfree
+- zucchine
 categories:
 - Salato
 - "Primi Piatti"

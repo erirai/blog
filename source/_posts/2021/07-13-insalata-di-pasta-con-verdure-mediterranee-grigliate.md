@@ -2,7 +2,11 @@
 title: "Insalata di Pasta con Verdure Mediterranee grigliate"
 date: 2021-07-13
 tags: 
-- primi
+- peperoni
+- zucchine
+- melanzane
+- pomodori
+- feta
 - pasta
 - estate
 - vegan 

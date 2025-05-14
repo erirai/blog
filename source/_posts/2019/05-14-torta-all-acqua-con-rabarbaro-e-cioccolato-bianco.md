@@ -2,11 +2,10 @@
 title: "Torta all'Acqua con Rabarbaro e Cioccolato Bianco"
 date: 2019-05-14
 tags:
-- torta
-- dolci
 - festa della mamma
-- cioccolato bianco
+- cioccolato
 - rabarbaro
+- primavera
 - vegan
 categories:
 - Dolce

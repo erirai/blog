@@ -2,7 +2,7 @@
 title: "Gratin di Patate e Porri"
 date: 2021-11-16
 tags: 
-- contorno
+- patate
 - autunno
 - inverno
 categories:

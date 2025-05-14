@@ -3,7 +3,6 @@ title: "Muffin salati di Polenta con Formaggio Svizzero e Rosmarino"
 date: 2021-02-18
 tags: 
 - muffin salati
-- antipasto
 - vegan
 categories:
 - Salato

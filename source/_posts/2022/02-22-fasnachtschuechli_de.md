@@ -3,6 +3,7 @@ title: "Fasnachtschüechli"
 date: 2022-02-22
 tags:
 - carnevale
+- ricette svizzere
 - frittelle
 categories:
 - Dolce

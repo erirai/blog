@@ -1,15 +1,15 @@
 ---
 title: "Schoko-Dreikönigskuchen"
-lang: de
-
 date: 2022-01-04
 tags:
-  - natale
-  - brioche
+- natale
+- lievitati
+- ricette svizzere
 categories:
-  - Dolce
-  - Panificati
+- Dolce
+- Panificati
 label: 2021-01-04-dreikonigskuchen-al-cioccolato
+lang: de
 ---
 ![](../2022-01-04-dreikonigskuchen-al-cioccolato/header.jpeg "frangipani © Erica")
 

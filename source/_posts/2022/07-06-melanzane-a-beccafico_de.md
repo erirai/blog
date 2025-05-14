@@ -3,8 +3,7 @@ title: "Auberginenröllchen gefüllt mit Paniermehl (Auberginen Beccafico)"
 date: 2022-07-06
 tags: 
 - estate
-- contorno
-- aperitivo
+- ricette siciliane
 - melanzane
 categories:
 - Salato

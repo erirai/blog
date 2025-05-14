@@ -3,8 +3,6 @@ title: "Consiglio Green Numero 6: Circondatevi di piante"
 date: 2020-03-06
 tags:
 - consigli green
-- plasticfree
-- no waste
 categories:
 - "Z_Ambiente"
 - "Consigli Green"

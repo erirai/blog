@@ -2,8 +2,8 @@
 title: "Birnen-Schokolade-Mürbeteigtarte"
 date: 2021-10-18
 tags:
-- dolci 
 - pere
+- cioccolato
 - autunno
 - inverno
 - crostata

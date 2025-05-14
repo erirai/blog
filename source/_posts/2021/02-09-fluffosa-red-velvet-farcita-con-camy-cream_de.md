@@ -4,8 +4,6 @@ date: 2021-02-09
 tags: 
 - san valentino
 - natale
-- dolce
-- torta
 categories:
 - Dolce
 - Torte

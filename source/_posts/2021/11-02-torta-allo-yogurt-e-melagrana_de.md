@@ -1,16 +1,15 @@
 ---
 title: "Granatapfel-Joghurtkuchen"
-lang: de
-
 date: 2021-11-02
 tags:
-  - dolci 
-  - autunno
-  - melagrana
+- yogurt
+- autunno
+- melograno
 categories:
-  - Dolce
-  - Torte
+- Dolce
+- Torte
 label: 2021-11-02-torta-allo-yogurt-e-melagrana
+lang: de
 ---
 ![](../2021-11-02-torta-allo-yogurt-e-melagrana/header.jpeg "frangipani © Erica")
 

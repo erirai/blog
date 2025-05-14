@@ -2,8 +2,8 @@
 title: "Madeleines con Scorza d'Arancia e Limone"
 date: 2021-03-03
 tags: 
-- piccola pasticceria
-- dolce
+- arance
+- limone
 categories:
 - Dolce
 - "Piccola Pasticceria"

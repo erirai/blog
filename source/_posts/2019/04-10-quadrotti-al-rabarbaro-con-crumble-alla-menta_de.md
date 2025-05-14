@@ -2,9 +2,7 @@
 title: "Rhabarber-Blechkuchen mit Minze-Crumble"
 date: 2019-04-10
 tags:
-- torta
-- piccola pasticceria
-- dolci
+- primavera
 - rabarbaro
 - crumble
 categories:

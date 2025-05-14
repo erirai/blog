@@ -2,10 +2,12 @@
 title: "Crostata con Crema Frangipane e Ganache al Cioccolato Bianco e Fragole"
 date: 2020-06-16
 tags:
-- dolci 
 - estate
 - primavera
 - crostata
+- fragole
+- mandorle
+- cioccolato
 categories:
 - Dolce
 - "Crostate, Tartes..."

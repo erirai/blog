@@ -2,10 +2,10 @@
 title: "Sbriciolata con Prugne e Crema alla Cannella"
 date: 2021-09-01
 tags:
-- dolci 
+- prugne
 - estate
 - autunno
-- torta
+- crumble
 categories:
 - Dolce
 - "Crostate, Tartes..."

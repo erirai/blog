@@ -2,7 +2,11 @@
 title: "Pastasalat mit gegrilltem mediterranem Gemüse"
 date: 2021-07-13
 tags: 
-- primi
+- peperoni
+- zucchine
+- melanzane
+- pomodori
+- feta
 - pasta
 - estate
 - vegan 

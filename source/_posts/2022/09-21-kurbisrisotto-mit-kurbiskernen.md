@@ -2,7 +2,9 @@
 title: "Kürbisrisotto mit Kürbiskernen"
 date: 2022-09-21
 tags: 
-- primi
+- riso
+- glutenfree
+- vegan
 - zucca
 - autunno
 categories:

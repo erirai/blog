@@ -3,8 +3,12 @@ title: "Semifreddo di Ricotta e Yogurt (senza uova) con Frutti di Bosco e Crocca
 date: 2020-08-12
 tags:
 - estate
-- dolci
 - gelato
+- ricotta
+- lamponi
+- more
+- mirtilli
+- pistacchi
 categories:
 - Dolce
 - "Dolci al cucchiaio, Gelati..."

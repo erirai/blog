@@ -2,8 +2,8 @@
 title: "vegane Schokokekse mit Herz aus weisser Schokolade"
 date: 2020-10-26
 tags:
-- autunno
-- dolci
+- cioccolato
+- biscotti
 - halloween
 - vegan
 categories:

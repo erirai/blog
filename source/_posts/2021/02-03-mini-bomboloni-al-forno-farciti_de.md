@@ -3,8 +3,8 @@ title: "Gefüllte Ofen-Hefeteigbällchen (Bomboloni)"
 date: 2021-02-03
 tags: 
 - carnevale
-- panificati
-- dolce
+- lievitati
+- cioccolato
 categories:
 - Dolce
 - Panificati

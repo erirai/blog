@@ -3,7 +3,12 @@ title: "Kichererbsen-Kürbis-Karotten-Suppe mit Curry"
 date: 2020-01-30
 tags:
 - inverno
-- piatto unico
+- zuppa
+- ceci
+- legumi
+- zucca
+- carote
+- autunno
 - vegan
 categories:
 - Salato

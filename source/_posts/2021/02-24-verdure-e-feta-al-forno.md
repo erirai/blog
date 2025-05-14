@@ -4,7 +4,9 @@ date: 2021-02-24
 tags: 
 - autunno
 - inverno
-- contorno
+- feta
+- zucca
+- barbabietola
 categories:
 - Salato
 - "Secondi Piatti e Contorni"

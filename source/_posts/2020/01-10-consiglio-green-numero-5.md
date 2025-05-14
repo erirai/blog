@@ -3,8 +3,6 @@ title: "Consiglio Green Numero 5: Sostituire la pellicola alimentare con i Beesw
 date: 2020-01-10
 tags:
 - consigli green
-- plasticfree
-- no waste
 categories:
 - "Z_Ambiente"
 - "Consigli Green"

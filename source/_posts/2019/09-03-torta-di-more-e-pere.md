@@ -2,10 +2,10 @@
 title: "Torta di More e Pere"
 date: 2019-09-03
 tags:
-- torta
 - crostata
 - more
 - pere
+- autunno
 categories:
 - Dolce
 - "Crostate, Tartes..."

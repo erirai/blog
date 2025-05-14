@@ -5,7 +5,7 @@ tags:
 - pomodori
 - glutenfree
 - vegan
-- contorno
+- autunno
 - funghi
 - zucca
 categories:

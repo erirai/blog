@@ -3,8 +3,6 @@ title: "Green Tip Nummer 2: Stoffservietten benutzen"
 date: 2019-10-04
 tags:
 - consigli green
-- plasticfree
-- no waste
 categories:
 - "Z_Ambiente"
 - "Consigli Green"

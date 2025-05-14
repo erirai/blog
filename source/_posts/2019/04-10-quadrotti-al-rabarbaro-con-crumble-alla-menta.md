@@ -2,9 +2,7 @@
 title: "Quadrotti al Rabarbaro con Crumble alla Menta"
 date: 2019-04-10
 tags:
-- torta
-- piccola pasticceria
-- dolci
+- primavera
 - rabarbaro
 - crumble
 categories:

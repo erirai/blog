@@ -2,10 +2,12 @@
 title: "Mandeltarte mit weisser Erdbeer-Ganache"
 date: 2020-06-16
 tags:
-- dolci 
 - estate
 - primavera
 - crostata
+- fragole
+- mandorle
+- cioccolato
 categories:
 - Dolce
 - "Crostate, Tartes..."

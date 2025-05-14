@@ -4,6 +4,7 @@ date: 2021-05-12
 tags: 
 - primavera
 - asparagi
+- yogurt
 - vegan
 categories:
 - Salato

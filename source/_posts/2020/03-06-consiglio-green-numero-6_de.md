@@ -3,8 +3,6 @@ title: "Green Tip Nummer 6: Umgebt euch mit Pflanzen"
 date: 2020-03-06
 tags:
 - consigli green
-- plasticfree
-- no waste
 categories:
 - "Z_Ambiente"
 - "Consigli Green"

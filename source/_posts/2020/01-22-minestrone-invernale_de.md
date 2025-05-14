@@ -3,7 +3,9 @@ title: "Winter-Minestrone"
 date: 2020-01-22
 tags:
 - inverno
-- piatto unico
+- zuppa
+- legumi
+- fagioli
 - vegan
 categories:
 - Salato

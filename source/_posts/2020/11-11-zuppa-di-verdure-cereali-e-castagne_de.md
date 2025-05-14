@@ -4,7 +4,9 @@ date: 2020-11-11
 tags:
 - autunno
 - inverno
-- piatto unico
+- cereali
+- castagne
+- zuppa
 - vegan
 categories:
 - Salato

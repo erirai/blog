@@ -3,8 +3,9 @@ title: "Panini di Pasta Brioche farciti con Crema di Formaggio, Funghi e Aglio O
 date: 2021-03-17
 tags: 
 - pasqua
-- aperitivo
-- panificati
+- lievitati
+- aglio orsino
+- funghi
 - primavera
 categories:
 - Salato

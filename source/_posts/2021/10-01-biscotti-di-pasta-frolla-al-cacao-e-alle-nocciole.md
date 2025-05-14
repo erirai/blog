@@ -2,7 +2,8 @@
 title: "Biscotti di Pasta Frolla al Cacao e alle Nocciole"
 date: 2021-10-01
 tags:
-- dolci 
+- nocciole
+- cioccolato
 - autunno
 - biscotti
 categories:
