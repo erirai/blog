@@ -2,12 +2,12 @@
 title: "Biscotti vegan con Frutta Secca e Cioccolato Bianco"
 date: 2017-09-28
 tags:
-- dolci 
 - biscotti
 - vegan
 - nocciole
-- noci
 - mandorle
+- autunno
+- cioccolato
 categories:
 - Dolce
 - Biscotti

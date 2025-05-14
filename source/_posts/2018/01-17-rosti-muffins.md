@@ -4,7 +4,7 @@ date: 2018-01-17
 tags:
 - patate
 - muffin salati
-- contorno
+- ricette svizzere
 - pasqua
 - glutenfree
 categories:

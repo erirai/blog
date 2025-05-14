@@ -2,9 +2,8 @@
 title: "Vollkorn-Crêpes ohne Eier mit Rucola, Parmesan und Walnüssen"
 date: 2018-01-25
 tags:
-- piatto unico
-- crespelle
-- antipasti
+- vegan
+- inverno
 categories:
 - Salato
 - "Piatti Unici"

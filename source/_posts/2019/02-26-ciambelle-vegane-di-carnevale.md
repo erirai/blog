@@ -5,7 +5,6 @@ tags:
 - carnevale
 - vegan
 - muffin
-- dolci
 categories:
 - Dolce
 - "Muffin, Cupcakes, Cake Pops..."

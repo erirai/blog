@@ -6,7 +6,6 @@ tags:
 - patate
 - legumi
 - pasta
-- primi
 - vegan
 categories:
 - Salato

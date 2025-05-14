@@ -3,9 +3,8 @@ title: "Spaghetti allo Zafferano con Romanesco"
 date: 2017-01-11
 tags:
 - pasta
+- estate
 - cavolo romano
-- zafferano
-- primi
 - vegan
 categories:
 - Salato

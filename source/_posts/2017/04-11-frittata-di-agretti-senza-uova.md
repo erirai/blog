@@ -3,6 +3,7 @@ title: "Frittata di Agretti senza Uova"
 date: 2017-04-11
 tags:
 - ceci
+- legumi
 - pasqua
 - glutenfree
 - vegan

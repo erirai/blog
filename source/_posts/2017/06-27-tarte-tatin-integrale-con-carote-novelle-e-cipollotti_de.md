@@ -3,10 +3,8 @@ title: "Vollkorn-Tarte-Tatin mit Frühlingskarotten und Frühlingszwiebeln"
 date: 2017-06-27
 tags:
 - torta salata
-- aperitivo
 - carote
 - pasqua
-- cipolle
 - vegan
 categories:
 - Salato

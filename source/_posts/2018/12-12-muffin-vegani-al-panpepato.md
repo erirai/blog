@@ -6,7 +6,6 @@ tags:
 - muffin
 - vegan
 - cupcakes
-- dolci
 categories:
 - Dolce
 - "Muffin, Cupcakes, Cake Pops..."

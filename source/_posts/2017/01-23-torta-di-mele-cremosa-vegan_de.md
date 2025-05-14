@@ -3,8 +3,7 @@ title: "Cremiger Apfelkuchen vegan"
 date: 2017-01-23
 tags:
 - mele
-- dolci
-- torta
+- autunno
 - vegan
 categories:
 - Dolce

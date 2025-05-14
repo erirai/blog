@@ -2,11 +2,10 @@
 title: "Veganer Joghurtkuchen mit Zwetschgen und Zimt"
 date: 2018-08-24
 tags:
-- torta
 - prugne
 - vegan
-- cannella
-- dolci
+- autunno
+- yogurt
 categories:
 - Dolce
 - Torte

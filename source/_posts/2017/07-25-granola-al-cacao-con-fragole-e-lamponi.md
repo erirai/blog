@@ -2,8 +2,7 @@
 title: "Granola al Cacao con Fragole e Lamponi"
 date: 2017-07-25
 tags:
-- granola
-- colazione
+- cereali
 - lamponi 
 - fragole 
 - vegan 

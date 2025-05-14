@@ -2,8 +2,6 @@
 title: "Cream Tart al Cacao"
 date: 2018-10-18
 tags:
-- tarte
-- dolci
 - festa del papà
 - cioccolato
 categories:

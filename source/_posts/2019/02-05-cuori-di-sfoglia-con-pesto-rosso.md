@@ -2,9 +2,8 @@
 title: "Cuori di Sfoglia con Pesto Rosso"
 date: 2019-02-05
 tags:
-- aperitivo
 - san valentino
-- pomodori secchi
+- pomodori
 - pasta sfoglia
 - vegan
 categories:

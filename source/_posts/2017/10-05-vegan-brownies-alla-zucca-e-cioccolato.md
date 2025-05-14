@@ -4,6 +4,7 @@ date: 2017-10-05
 tags:
 - vegan
 - zucca
+- cioccolato
 - autunno
 - halloween
 categories:

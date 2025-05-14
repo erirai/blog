@@ -2,11 +2,9 @@
 title: "Grüne Bohnen-Kartoffel-Salat"
 date: 2017-07-04
 tags:
-- contorno
 - insalata
 - fagiolini
 - patate
-- cipolle
 - glutenfree
 - vegan
 categories:

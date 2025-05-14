@@ -3,7 +3,6 @@ title: "Ossa di Sfoglia per Halloween"
 date: 2017-10-20
 tags:
 - pasta sfoglia
-- aperitivo
 - halloween
 categories:
 - Salato

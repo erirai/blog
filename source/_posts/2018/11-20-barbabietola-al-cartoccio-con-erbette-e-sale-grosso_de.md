@@ -3,7 +3,9 @@ title: "Gebackene rote Bete in Folie mit Kräutern und grobem Salz"
 date: 2018-11-20
 tags:
 - barbabietola
-- contorno
+- inverno
+- autunno
+- glutenfree
 - vegan
 categories:
 - Salato

@@ -2,9 +2,7 @@
 title: "Sfoglia Natalizia ripiena di Brie e Cranberries"
 date: 2017-12-07
 tags:
-- aperitivo
 - pasta sfoglia
-- cranberry
 - natale
 categories:
 - Salato

@@ -3,10 +3,8 @@ title: "Paccheri risottati con Pomodorini, Capperi e Olive"
 date: 2017-12-12
 tags:
 - pomodori
-- capperi
-- olive
 - pasta
-- natale 
+- estate
 - vegan
 categories:
 - Salato

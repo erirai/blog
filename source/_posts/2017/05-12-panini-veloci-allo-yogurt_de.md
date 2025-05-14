@@ -2,14 +2,12 @@
 title: "Schnelle Joghurt-Brötchen"
 date: 2017-05-12
 tags:
-- panificati
-- antipasti
-- aperitivo
+- lievitati
 - yogurt 
 categories:
 - Salato
 - Aperitivi
-label: 2017-05-12-insalata-di-pasta-primaverile
+label: 2017-05-12-panini-veloci-allo-yogurt
 lang: de
 ---
 ![](../2017-05-12-panini-veloci-allo-yogurt/header.jpg "frangipani © Erica")

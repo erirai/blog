@@ -2,7 +2,6 @@
 title: "Mürbeteigkuchen mit kinder Schokolade"
 date: 2018-02-16
 tags:
-- dolci
 - cioccolato
 - pasta frolla
 - crostata

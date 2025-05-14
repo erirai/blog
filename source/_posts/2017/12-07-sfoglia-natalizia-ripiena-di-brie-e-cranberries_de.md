@@ -2,9 +2,7 @@
 title: "Weihnachtlicher Blätterteig gefüllt mit Brie und Cranberries"
 date: 2017-12-07
 tags:
-- aperitivo
 - pasta sfoglia
-- cranberry
 - natale
 categories:
 - Salato

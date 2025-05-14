@@ -3,8 +3,7 @@ title: "Frittelle di Ricotta e Mele"
 date: 2018-01-30
 tags:
 - carnevale
-- dolci
-- frittelle
+- frittelle 
 - ricotta
 - mele
 categories:

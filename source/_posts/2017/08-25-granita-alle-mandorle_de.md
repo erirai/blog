@@ -3,9 +3,10 @@ title: "Mandel-Granita"
 date: 2017-08-25
 tags:
 - gelato
-- dolci
 - glutenfree
 - mandorle
+- ricette siciliane
+- estate
 - vegan
 categories:
 - Dolce

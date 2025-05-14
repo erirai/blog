@@ -2,11 +2,10 @@
 title: "Reginette mit Ricotta-Walnuss-Pesto und knackigem Radicchio"
 date: 2018-02-01
 tags:
-- primi
 - pasta
 - radicchio
 - ricotta
-- noci
+- inverno
 categories:
 - Salato
 - "Primi Piatti"

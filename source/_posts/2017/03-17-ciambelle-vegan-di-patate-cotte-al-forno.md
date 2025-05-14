@@ -3,11 +3,8 @@ title: "Ciambelle vegan di Patate cotte al forno"
 date: 2017-03-17
 tags:
 - vegan
-- dolci
-- panificati
-- ciambelle
+- lievitati
 - carnevale
-- colazione
 categories:
 - Dolce
 - Colazione 

@@ -2,12 +2,12 @@
 title: "Salat mit Pfirsich, Himbeeren und Fetakäse"
 date: 2017-08-01
 tags:
-- contorno
 - insalata
 - pesche
 - glutenfree
 - lamponi 
-- feta 
+- estate
+- feta
 categories:
 - Salato
 - "Secondi Piatti e Contorni"

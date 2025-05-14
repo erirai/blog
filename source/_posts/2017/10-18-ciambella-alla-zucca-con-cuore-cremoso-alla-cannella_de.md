@@ -2,8 +2,7 @@
 title: "Kürbis-Gugelhupf mit Zimt-Frischkäse-Füllung"
 date: 2017-10-18
 tags:
-- dolci 
-- torta
+- autunno
 - zucca
 - halloween
 categories:

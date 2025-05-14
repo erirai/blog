@@ -4,7 +4,6 @@ date: 2015-02-14
 tags:
 - san valentino
 - cioccolato
-- dolci al cucchiaio
 categories:
 - Dolce
 - Torte

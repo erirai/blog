@@ -2,11 +2,10 @@
 title: "veganer Schoko-Zucchini-Kuchen"
 date: 2017-04-28
 tags:
-- torta
-- dolci
 - festa del papà
 - cioccolato
 - zucchine 
+- estate
 - vegan
 categories:
 - Dolce

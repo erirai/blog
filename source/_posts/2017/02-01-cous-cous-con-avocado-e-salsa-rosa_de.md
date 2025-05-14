@@ -4,7 +4,6 @@ date: 2017-02-01
 tags:
 - cous cous
 - avocado
-- antipasti
 - san valentino
 - vegan
 categories:

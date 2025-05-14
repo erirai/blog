@@ -2,14 +2,12 @@
 title: "Panini veloci allo Yogurt"
 date: 2017-05-12
 tags:
-- panificati
-- antipasti
-- aperitivo
-- yogurt 
+- lievitati
+- yogurt  
 categories:
 - Salato
 - Aperitivi
-label: 2017-05-12-insalata-di-pasta-primaverile
+label: 2017-05-12-panini-veloci-allo-yogurt
 lang: it
 ---
 ![](header.jpg "frangipani © Erica")

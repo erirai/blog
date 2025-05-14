@@ -4,9 +4,10 @@ date: 2018-10-04
 tags:
 - zucca
 - halloween
-- contorno
 - feta
 - glutenfree
+- autunno
+- vegan
 categories:
 - Salato
 - "Secondi Piatti e Contorni"

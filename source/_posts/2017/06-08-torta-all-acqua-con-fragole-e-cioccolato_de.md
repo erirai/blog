@@ -2,9 +2,9 @@
 title: "Wasserkuchen mit Erdbeeren und Schokolade"
 date: 2017-06-08
 tags:
-- torta
-- dolci
 - festa della mamma
+- primavera
+- estate
 - cioccolato
 - fragole
 - vegan

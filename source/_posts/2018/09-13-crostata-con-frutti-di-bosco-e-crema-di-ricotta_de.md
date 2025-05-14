@@ -2,14 +2,14 @@
 title: "Beeren-Quark-Tarte"
 date: 2018-09-13
 tags:
-- torta
 - crostata
-- frutti di bosco
 - lamponi
 - more
 - ribes
+- mirtilli
 - ricotta
-- dolci
+- estate
+- autunno
 categories:
 - Dolce
 - "Crostate, Tartes..."

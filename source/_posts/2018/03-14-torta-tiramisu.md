@@ -2,11 +2,8 @@
 title: "Torta Tiramisù"
 date: 2018-03-14
 tags:
-- torta
-- dolci
 - festa del papà
-- caffe
-- mascarpone
+- caffé
 categories:
 - Dolce
 - Torte 

@@ -2,8 +2,6 @@
 title: "Torta al Cioccolato due Ingredienti"
 date: 2017-04-19
 tags:
-- torta
-- dolci
 - festa del papà
 - cioccolato
 - glutenfree

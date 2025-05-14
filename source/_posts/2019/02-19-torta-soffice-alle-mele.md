@@ -3,8 +3,7 @@ title: "Torta Soffice alle Mele"
 date: 2019-02-19
 tags:
 - mele
-- torta
-- dolci
+- autunno
 categories:
 - Dolce
 - Torte

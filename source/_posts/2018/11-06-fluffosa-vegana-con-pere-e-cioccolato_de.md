@@ -2,12 +2,10 @@
 title: "Veganer Chiffon Cake mit Birnen und Schokolade"
 date: 2018-11-06
 tags:
-- fluffosa
 - cioccolato
-- dolci
-- torta
 - festa del papà
 - pere
+- autunno
 - vegan
 categories:
 - Dolce

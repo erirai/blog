@@ -2,7 +2,6 @@
 title: "Schokoladentarte nach Ernst Knam"
 date: 2017-10-13
 tags:
-- dolci 
 - pasta frolla
 - cioccolato
 - crostata

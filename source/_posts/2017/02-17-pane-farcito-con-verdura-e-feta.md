@@ -2,9 +2,8 @@
 title: "Pane Farcito con Verdura e Feta"
 date: 2017-02-17
 tags:
-- pane
-- panificati
-- pizza
+- lievitati
+- feta
 categories:
 - Salato
 - Panificati

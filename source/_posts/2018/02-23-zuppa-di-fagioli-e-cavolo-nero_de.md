@@ -3,6 +3,9 @@ title: "Palmkohl-Bohnen-Suppe"
 date: 2018-02-23
 tags:
 - inverno
+- zuppa
+- fagioli
+- legumi
 - glutenfree
 - vegan
 categories:

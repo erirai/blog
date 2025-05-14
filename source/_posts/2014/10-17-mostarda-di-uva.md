@@ -2,7 +2,6 @@
 title: "Mostarda d'Uva"
 date: 2014-10-17
 tags:
-- dolci al cucchiaio
 - autunno
 - mandorle
 - uva

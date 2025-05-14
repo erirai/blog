@@ -2,8 +2,7 @@
 title: "Pizza Margherita"
 date: 2017-03-10
 tags:
-- pizza
-- panificati
+- lievitati
 categories:
 - Salato
 - Panificati

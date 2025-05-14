@@ -5,8 +5,6 @@ tags:
 - cioccolato
 - san valentino
 - festa del papà
-- dolci
-- torta
 - glutenfree
 categories:
 - Dolce

@@ -2,12 +2,11 @@
 title: "Sbriciolata con Crema di Nocciole, Ricotta e Pere"
 date: 2017-09-22
 tags:
-- dolci 
 - pasta frolla
 - pere
 - ricotta
 - cioccolato
-- torta
+- autunno
 categories:
 - Dolce
 - Torte

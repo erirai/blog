@@ -2,12 +2,11 @@
 title: "Gefüllte Crêpes mit Sommergemüse und Feta"
 date: 2018-08-30
 tags:
-- primi
-- crespelle
 - peperoni
 - melanzane
 - zucchine
 - feta
+- estate
 categories:
 - Salato
 - "Primi Piatti"

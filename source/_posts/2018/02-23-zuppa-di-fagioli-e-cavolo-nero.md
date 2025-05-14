@@ -2,10 +2,10 @@
 title: "Zuppa di Fagioli e Cavolo Nero"
 date: 2018-02-23
 tags:
-- primi
-- fagioli
-- cavolo
+- inverno
 - zuppa
+- fagioli
+- legumi
 - glutenfree
 - vegan
 categories:

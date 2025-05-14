@@ -3,9 +3,7 @@ title: "Mini Tortine Multigusto"
 date: 2018-12-04
 tags:
 - natale
-- piccola pasticceria
 - biscotti
-- dolci
 categories:
 - Dolce
 - "Piccola Pasticceria"

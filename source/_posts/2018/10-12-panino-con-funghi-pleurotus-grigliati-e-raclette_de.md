@@ -3,7 +3,7 @@ title: "Brötchen mit gegrillten Austernpilzen und Raclette"
 date: 2018-10-12
 tags:
 - funghi
-- piatto unico
+- autunno
 categories:
 - Salato
 - "Piatti Unici"

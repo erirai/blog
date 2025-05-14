@@ -2,7 +2,6 @@
 title: "Crostata di Frolla Montata e cioccolato kinder"
 date: 2018-02-16
 tags:
-- dolci
 - cioccolato
 - pasta frolla
 - crostata

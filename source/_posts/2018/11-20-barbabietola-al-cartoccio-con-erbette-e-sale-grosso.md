@@ -3,7 +3,9 @@ title: "Barbabietola al Cartoccio con Erbette e Sale Grosso"
 date: 2018-11-20
 tags:
 - barbabietola
-- contorno
+- inverno
+- autunno
+- glutenfree
 - vegan
 categories:
 - Salato

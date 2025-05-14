@@ -2,10 +2,8 @@
 title: "Hot Milk Cake mit Kaffee"
 date: 2018-05-30
 tags:
-- caffe
-- torta
+- caffé
 - festa del papà
-- dolci
 categories:
 - Dolce
 - Torte

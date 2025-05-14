@@ -2,10 +2,7 @@
 title: "Ricotta-Brioche mit Vanilleduft"
 date: 2018-03-01
 tags:
-- dolci 
-- panificati
-- colazione
-- brioche
+- lievitati
 - ricotta
 categories:
 - Dolce

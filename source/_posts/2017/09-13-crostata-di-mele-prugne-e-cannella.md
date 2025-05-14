@@ -2,11 +2,12 @@
 title: "Crostata di Mele, Prugne e Cannella "
 date: 2017-09-13
 tags:
-- dolci 
 - mele 
 - prugne
 - pasta sfoglia
 - crostata
+- ricette svizzere
+- autunno
 categories:
 - Dolce
 - "Crostate, Tartes..." 

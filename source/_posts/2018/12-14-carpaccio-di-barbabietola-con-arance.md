@@ -2,11 +2,11 @@
 title: "Carpaccio di Barbabietola con Arance"
 date: 2018-12-14
 tags:
-- antipasti
 - arance
 - barbabietola
 - natale
 - glutenfree
+- inverno
 - vegan
 categories:
 - Salato

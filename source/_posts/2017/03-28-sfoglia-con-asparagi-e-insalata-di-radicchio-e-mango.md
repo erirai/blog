@@ -6,9 +6,10 @@ tags:
 - asparagi
 - ricotta
 - radicchio 
-- mango 
 - pasqua
 - torta salata
+- primavera
+- vegan
 categories:
 - Salato
 - "Torte salate, Muffin salati..."

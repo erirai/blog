@@ -2,8 +2,7 @@
 title: "Torta Soffice alle Pesche"
 date: 2017-07-10
 tags:
-- torta
-- dolci
+- estate
 - pesche 
 categories:
 - Dolce

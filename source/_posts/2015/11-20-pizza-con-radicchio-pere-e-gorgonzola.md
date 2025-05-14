@@ -3,6 +3,7 @@ title: "Pizza con Radicchio, Pere e Gorgonzola"
 date: 2015-11-20
 tags:
 - lievitati
+- radicchio
 - pere
 - autunno
 - inverno

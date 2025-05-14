@@ -3,9 +3,9 @@ title: "Pasta mit getrockneten Tomaten und Zucchiniblüten"
 date: 2017-06-01  
 tags:
 - pasta
-- pomodori secchi 
+- pomodori
 - fiori di zucca 
-- primi
+- primavera
 - vegan
 categories:
 - Salato

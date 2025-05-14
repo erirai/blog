@@ -2,10 +2,10 @@
 title: "Pumpkin Cinnamon Rolls vegani"
 date: 2017-10-30
 tags:
-- dolci 
-- panificati
+- autunno
+- inverno
+- lievitati
 - zucca
-- colazione
 - halloween
 - vegan
 categories:

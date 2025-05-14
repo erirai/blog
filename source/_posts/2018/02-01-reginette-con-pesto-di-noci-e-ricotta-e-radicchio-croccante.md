@@ -2,11 +2,10 @@
 title: "Reginette con Pesto di Noci e Ricotta e Radicchio croccante"
 date: 2018-02-01
 tags:
-- primi
 - pasta
 - radicchio
 - ricotta
-- noci
+- inverno
 categories:
 - Salato
 - "Primi Piatti"

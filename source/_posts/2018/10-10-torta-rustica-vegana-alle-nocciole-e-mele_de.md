@@ -3,10 +3,9 @@ title: "Rustikaler veganer Haselnusskuchen mit Äpfeln"
 date: 2018-10-10
 tags:
 - nocciole
-- dolci
 - mele
 - vegan
-- torta
+- autunno
 categories:
 - Dolce
 - Torte

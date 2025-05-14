@@ -2,11 +2,12 @@
 title: "Torta 7 Vasetti ai Frutti di Bosco"
 date: 2017-08-21
 tags:
-- torta
-- dolci
-- frutti di bosco 
+- estate
 - lamponi 
 - more 
+- mirtilli
+- ribes
+- festa della mamma
 - san valentino
 categories:
 - Dolce

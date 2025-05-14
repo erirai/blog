@@ -4,10 +4,10 @@ date: 2017-09-19
 tags:
 - zucca
 - pomodoro
-- contorno
 - vegan
 - glutenfree
 - halloween
+- autunno
 categories:
 - Salato
 - "Secondi Piatti e Contorni"

@@ -3,7 +3,7 @@ title: "Bruschetta mit Pilzen"
 date: 2018-09-20
 tags:
 - funghi
-- antipasti
+- autunno
 - vegan
 categories:
 - Salato

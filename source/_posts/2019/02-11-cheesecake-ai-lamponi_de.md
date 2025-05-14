@@ -6,8 +6,7 @@ tags:
 - san valentino
 - lamponi
 - festa della mamma
-- torta
-- dolci
+- estate
 categories:
 - Dolce
 - "Crostate, Tartes..."

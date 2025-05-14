@@ -3,8 +3,7 @@ title: "Torta soffice con Melagrana"
 date: 2018-11-16
 tags:
 - melograno
-- torta
-- dolci
+- autunno
 categories:
 - Dolce
 - Torte

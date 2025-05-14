@@ -3,7 +3,8 @@ title: "Rhabarber-Frangipane-Hörnchen"
 date: 2018-05-04
 tags:
 - biscotti
-- dolci
+- mandorle
+- primavera
 - rabarbaro
 categories:
 - Dolce

@@ -3,9 +3,9 @@ title: "Torta di Carote Salata"
 date: 2017-04-04
 tags:
 - torta salata
-- aperitivo
 - carote 
 - pasqua
+- vegan
 categories:
 - Salato
 - "Torte salate, Muffin salati..."

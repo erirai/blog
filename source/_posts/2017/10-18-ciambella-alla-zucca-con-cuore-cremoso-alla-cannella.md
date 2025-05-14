@@ -2,8 +2,7 @@
 title: "Ciambella alla Zucca con Cuore Cremoso alla Cannella"
 date: 2017-10-18
 tags:
-- dolci 
-- torta
+- autunno
 - zucca
 - halloween
 categories:

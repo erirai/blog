@@ -2,8 +2,8 @@
 title: "Friggitelli in Padella"
 date: 2017-06-14
 tags:
-- secondi 
 - peperoni
+- estate
 - glutenfree
 - vegan
 categories:

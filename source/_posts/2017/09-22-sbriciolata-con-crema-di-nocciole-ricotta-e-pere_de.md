@@ -2,12 +2,11 @@
 title: "Streuselkuchen mit Nuss-Nougat-Creme, Ricotta und Birnen"
 date: 2017-09-22
 tags:
-- dolci 
 - pasta frolla
 - pere
 - ricotta
 - cioccolato
-- torta
+- autunno
 categories:
 - Dolce
 - Torte

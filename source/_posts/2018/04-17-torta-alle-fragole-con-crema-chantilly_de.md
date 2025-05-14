@@ -2,10 +2,10 @@
 title: "Erdbeertorte mit Vanillecreme"
 date: 2018-04-17
 tags:
-- torta
-- dolci
 - festa della mamma
 - fragole
+- primavera 
+- estate
 categories:
 - Dolce
 - Torte 

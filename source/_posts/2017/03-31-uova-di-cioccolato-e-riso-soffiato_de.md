@@ -2,8 +2,7 @@
 title: "Schokoladeneier mit gepufftem Reis"
 date: 2017-03-31
 tags:
-- piccola pasticceria
-- dolci
+- cioccolato
 - pasqua
 - glutenfree
 - vegan

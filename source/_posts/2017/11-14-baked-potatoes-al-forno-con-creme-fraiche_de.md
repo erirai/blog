@@ -2,7 +2,6 @@
 title: "Baked Potatoes im Backofen mit Sour Cream"
 date: 2017-11-14
 tags:
-- contorno
 - patate
 - glutenfree
 categories:

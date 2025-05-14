@@ -2,9 +2,8 @@
 title: "einfacher Pandoro"
 date: 2017-12-14
 tags:
-- dolci 
+- lievitati
 - natale
-- panificati
 categories:
 - Dolce
 - Panificati

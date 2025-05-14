@@ -2,8 +2,6 @@
 title: "Torta di Carote Cremosa"
 date: 2018-03-20
 tags:
-- torta
-- dolci
 - pasqua
 - carote
 categories:

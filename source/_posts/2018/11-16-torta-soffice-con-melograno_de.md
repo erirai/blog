@@ -3,8 +3,7 @@ title: "Blechkuchen mit Granatapfel"
 date: 2018-11-16
 tags:
 - melograno
-- torta
-- dolci
+- autunno
 categories:
 - Dolce
 - Torte

@@ -2,9 +2,8 @@
 title: "Girelle vegan ai Lamponi"
 date: 2017-02-07
 tags:
-- colazione
+- estate
 - san valentino
-- dolci
 - lamponi
 - vegan
 categories:

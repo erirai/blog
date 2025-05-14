@@ -2,8 +2,7 @@
 title: "Kakao-Granola mit Erdbeeren und Himbeeren"
 date: 2017-07-25
 tags:
-- granola
-- colazione
+- cereali
 - lamponi 
 - fragole 
 - vegan 

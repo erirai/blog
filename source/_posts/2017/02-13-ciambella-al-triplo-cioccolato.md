@@ -4,9 +4,7 @@ date: 2017-02-13
 tags:
 - san valentino
 - festa del papà
-- dolci
 - cioccolato
-- torta
 categories:
 - Dolce
 - Torte

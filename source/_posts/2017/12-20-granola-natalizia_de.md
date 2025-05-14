@@ -2,8 +2,7 @@
 title: "Christmas Granola"
 date: 2017-12-20
 tags:
-- granola
-- colazione
+- cereali
 - natale 
 - vegan 
 categories:

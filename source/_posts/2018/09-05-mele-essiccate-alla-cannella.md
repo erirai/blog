@@ -4,8 +4,7 @@ date: 2018-09-05
 tags:
 - mele
 - vegan
-- cannella
-- dolci
+- autunno
 - conserve
 - glutenfree
 categories:

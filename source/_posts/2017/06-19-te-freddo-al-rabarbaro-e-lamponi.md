@@ -3,9 +3,10 @@ title: "Té Freddo al Rabarbaro e Lamponi"
 date: 2017-06-19
 tags:
 - rabarbaro
-- bevande
-- té
+- estate
+- primavera
 - lamponi 
+- vegan
 categories:
 - Dolce
 - Bevande

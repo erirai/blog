@@ -2,10 +2,9 @@
 title: "Fregola con Carciofi e Pomodori"
 date: 2017-01-04
 tags:
-- fregola
+- inverno
 - carciofi
 - pomodori
-- primi
 - vegan
 categories:
 - Salato

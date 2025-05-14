@@ -2,7 +2,6 @@
 title: "Crostata al Cioccolato di Ernst Knam"
 date: 2017-10-13
 tags:
-- dolci 
 - pasta frolla
 - cioccolato
 - crostata

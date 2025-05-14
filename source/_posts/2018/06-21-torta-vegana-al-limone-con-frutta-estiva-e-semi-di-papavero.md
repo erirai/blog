@@ -2,14 +2,13 @@
 title: "Torta vegana al Limone con Frutta Estiva e Semi di Papavero"
 date: 2018-06-21
 tags:
-- torta
-- dolci
 - limone
 - ciliegie
 - fragole
 - albicocche
 - pesche
 - vegan
+- estate
 categories:
 - Dolce
 - Torte 

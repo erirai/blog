@@ -3,7 +3,7 @@ title: "Torta Salata con Carciofi e Patate"
 date: 2017-04-21
 tags:
 - torta salata
-- aperitivo
+- primavera
 - carciofi
 - pasqua
 - patate 

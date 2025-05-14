@@ -3,9 +3,10 @@ title: "Granita alle Mandorle facile e veloce"
 date: 2017-08-25
 tags:
 - gelato
-- dolci
-- mandorle
 - glutenfree
+- mandorle
+- ricette siciliane
+- estate
 - vegan
 categories:
 - Dolce

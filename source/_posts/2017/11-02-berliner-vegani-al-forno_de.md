@@ -2,9 +2,7 @@
 title: "vegane Ofenberliner"
 date: 2017-11-02
 tags:
-- dolci 
-- panificati
-- colazione
+- lievitati
 - carnevale
 - vegan
 categories:

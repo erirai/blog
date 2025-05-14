@@ -5,6 +5,7 @@ tags:
 - funghi
 - pasta 
 - vegan
+- autunno
 categories:
 - Salato
 - "Primi Piatti"

@@ -3,7 +3,8 @@ title: "Vegane Scones mit Cranberries und Orangenduft"
 date: 2018-12-20
 tags:
 - natale
-- colazione
+- arance
+- inverno
 - vegan
 categories:
 - Dolce

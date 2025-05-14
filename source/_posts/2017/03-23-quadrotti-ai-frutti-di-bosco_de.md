@@ -2,10 +2,11 @@
 title: "Beeren-Blechkuchen"
 date: 2017-03-23
 tags:
-- torta
-- piccola pasticceria
-- dolci
-- frutti di bosco
+- lamponi
+- more
+- mirtilli
+- ribes
+- estate
 categories:
 - Dolce
 - "Piccola Pasticceria"

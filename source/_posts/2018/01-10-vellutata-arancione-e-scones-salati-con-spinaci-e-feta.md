@@ -5,8 +5,10 @@ tags:
 - zucca
 - feta
 - spinaci
-- piatto unico
+- zuppa
 - halloween 
+- autunno
+- inverno
 - vegan
 categories:
 - Salato

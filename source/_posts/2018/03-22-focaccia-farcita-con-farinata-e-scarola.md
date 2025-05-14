@@ -2,11 +2,11 @@
 title: "Focaccia farcita con Farinata di Ceci e Scarola"
 date: 2018-03-22
 tags:
-- panificati
+- lievitati
 - torta salata
-- pane
 - ceci
 - pasqua
+- inverno
 - vegan
 categories:
 - Salato

@@ -2,11 +2,9 @@
 title: "Fluffosa Variegata al Cacao e Arancia"
 date: 2018-01-23
 tags:
-- torta
-- dolci
 - cioccolato
 - arance
-- fluffosa 
+- inverno
 categories:
 - Dolce
 - Torte 

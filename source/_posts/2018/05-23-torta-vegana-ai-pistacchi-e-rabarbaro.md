@@ -3,10 +3,10 @@ title: "Torta vegana ai Pistacchi e Rabarbaro"
 date: 2018-05-23
 tags:
 - pistacchi
-- torta
 - festa della mamma
-- dolci
 - rabarbaro
+- primavera
+- vegan
 categories:
 - Dolce
 - Torte

@@ -4,8 +4,7 @@ date: 2018-06-06
 tags:
 - feta
 - pomodori
-- piatto unico
-- secondi
+- estate
 - glutenfree
 categories:
 - Salato

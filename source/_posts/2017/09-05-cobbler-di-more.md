@@ -2,9 +2,9 @@
 title: "Cobbler di More"
 date: 2017-09-05
 tags:
-- dolci
-- autunno
+- more
 - estate
+- autunno
 categories:
 - Dolce
 - "Crostate, Tartes..." 

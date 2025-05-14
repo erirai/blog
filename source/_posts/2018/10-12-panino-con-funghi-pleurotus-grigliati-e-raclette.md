@@ -3,7 +3,7 @@ title: "Panino con Funghi Pleurotus grigliati e Raclette"
 date: 2018-10-12
 tags:
 - funghi
-- piatto unico
+- autunno
 categories:
 - Salato
 - "Piatti Unici"

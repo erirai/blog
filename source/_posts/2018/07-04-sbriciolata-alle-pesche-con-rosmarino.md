@@ -3,8 +3,7 @@ title: "Sbriciolata alle Pesche con Rosmarino"
 date: 2018-07-04
 tags:
 - crumble
-- torta
-- dolci
+- estate
 - pesche
 categories:
 - Dolce

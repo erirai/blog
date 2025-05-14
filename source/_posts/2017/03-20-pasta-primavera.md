@@ -6,7 +6,7 @@ tags:
 - piselli
 - asparagi
 - carciofi
-- primi
+- primavera
 - vegan
 categories:
 - Salato

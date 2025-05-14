@@ -2,9 +2,8 @@
 title: "Crêpes Integrali senza Uova con Rucola, Parmigiano e Noci"
 date: 2018-01-25
 tags:
-- piatto unico
-- crespelle
-- antipasti
+- vegan
+- inverno
 categories:
 - Salato
 - "Piatti Unici"

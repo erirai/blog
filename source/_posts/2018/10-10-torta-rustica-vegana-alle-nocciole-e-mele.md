@@ -3,10 +3,9 @@ title: "Torta Rustica vegana alle Nocciole e Mele"
 date: 2018-10-10
 tags:
 - nocciole
-- dolci
 - mele
 - vegan
-- torta
+- autunno
 categories:
 - Dolce
 - Torte

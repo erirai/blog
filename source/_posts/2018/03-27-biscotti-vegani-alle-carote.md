@@ -3,9 +3,9 @@ title: "Biscotti vegani alle Carote"
 date: 2018-03-27
 tags:
 - biscotti
-- dolci
 - pasqua
 - carote
+- vegan
 categories:
 - Dolce
 - Biscotti

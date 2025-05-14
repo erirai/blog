@@ -2,10 +2,8 @@
 title: "Ricottakuchen mit Schokostückchen"
 date: 2018-09-26
 tags:
-- torta
 - cioccolato
 - ricotta
-- dolci
 categories:
 - Dolce
 - Torte

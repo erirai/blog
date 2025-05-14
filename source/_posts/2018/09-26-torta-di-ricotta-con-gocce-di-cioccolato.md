@@ -2,10 +2,8 @@
 title: "Torta di Ricotta con Gocce di Cioccolato"
 date: 2018-09-26
 tags:
-- torta
 - cioccolato
 - ricotta
-- dolci
 categories:
 - Dolce
 - Torte

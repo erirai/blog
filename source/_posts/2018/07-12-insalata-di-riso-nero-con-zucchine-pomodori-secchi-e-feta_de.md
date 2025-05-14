@@ -3,10 +3,10 @@ title: "Schwarzer Reissalat mit Zucchini, getrockneten Tomaten und Feta"
 date: 2018-07-12
 tags:
 - riso
-- pomodori secchi
+- pomodori
 - feta
 - zucchine
-- piatto unico
+- estate
 - glutenfree
 categories:
 - Salato

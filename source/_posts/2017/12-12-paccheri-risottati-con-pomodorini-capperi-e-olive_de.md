@@ -3,10 +3,8 @@ title: "Pasta risottata mit Tomaten, Kapern und Oliven"
 date: 2017-12-12
 tags:
 - pomodori
-- capperi
-- olive
 - pasta
-- natale 
+- estate
 - vegan
 categories:
 - Salato

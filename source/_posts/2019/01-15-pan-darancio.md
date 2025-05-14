@@ -3,8 +3,8 @@ title: "Pan d'Arancio"
 date: 2019-01-15
 tags:
 - arance
-- torta
-- dolci
+- inverno
+- ricette siciliane
 categories:
 - Dolce
 - Torte

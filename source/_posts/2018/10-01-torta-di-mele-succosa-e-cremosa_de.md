@@ -2,9 +2,8 @@
 title: "Saftiger und Cremiger Apfelkuchen"
 date: 2018-10-01
 tags:
-- torta
 - mele
-- dolci
+- autunno
 categories:
 - Dolce
 - Torte

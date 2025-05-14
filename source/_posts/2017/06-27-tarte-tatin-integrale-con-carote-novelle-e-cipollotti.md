@@ -3,10 +3,8 @@ title: "Tarte Tatin Integrale con Carote Novelle e Cipollotti"
 date: 2017-06-27
 tags:
 - torta salata
-- aperitivo
 - carote
 - pasqua
-- cipolle
 - vegan
 categories:
 - Salato

@@ -3,10 +3,10 @@ title: "Insalata di Riso Nero con Zucchine, Pomodori Secchi e Feta"
 date: 2018-07-12
 tags:
 - riso
-- pomodori secchi
+- pomodori
 - feta
 - zucchine
-- piatto unico
+- estate
 - glutenfree
 categories:
 - Salato

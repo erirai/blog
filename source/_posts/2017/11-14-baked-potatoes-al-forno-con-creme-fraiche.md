@@ -2,7 +2,6 @@
 title: "Baked Potatoes al Forno con Crème Fraîche"
 date: 2017-11-14
 tags:
-- contorno
 - patate
 - glutenfree
 categories:

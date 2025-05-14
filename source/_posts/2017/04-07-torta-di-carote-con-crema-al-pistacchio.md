@@ -2,8 +2,7 @@
 title: "Torta di Carote con Crema al Pistacchio"
 date: 2017-04-07
 tags:
-- torta
-- dolci
+- pistacchi
 - carote 
 - pasqua
 categories:

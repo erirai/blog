@@ -2,11 +2,10 @@
 title: "veganer Orangenkuchen mit Schokostückchen"
 date: 2018-03-09
 tags:
-- torta
-- dolci
 - arance
 - cioccolato
 - festa del papà
+- inverno
 - vegan
 categories:
 - Dolce

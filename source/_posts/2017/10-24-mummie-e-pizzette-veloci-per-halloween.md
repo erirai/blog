@@ -2,7 +2,7 @@
 title: "Mummie e Pizzette veloci per Halloween"
 date: 2017-10-24
 tags:
-- aperitivo
+- lievitati
 - halloween
 categories:
 - Salato

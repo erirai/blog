@@ -4,7 +4,6 @@ date: 2018-02-08
 tags:
 - san valentino
 - festa del papà
-- dolci
 - cioccolato
 categories:
 - Dolce

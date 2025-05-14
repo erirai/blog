@@ -2,12 +2,12 @@
 title: "Insalata con Pesche, Lamponi e Feta"
 date: 2017-08-01
 tags:
-- contorno
 - insalata
 - pesche
-- lamponi 
 - glutenfree
-- feta 
+- lamponi 
+- estate
+- feta
 categories:
 - Salato
 - "Secondi Piatti e Contorni"

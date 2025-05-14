@@ -3,8 +3,7 @@ title: "Torta di Mele Cremosa vegan"
 date: 2017-01-23
 tags:
 - mele
-- dolci
-- torta
+- autunno
 - vegan
 categories:
 - Dolce

@@ -2,9 +2,9 @@
 title: "Blackberry Cobbler"
 date: 2017-09-05
 tags:
-- dolci 
 - more
-- cobbler
+- estate
+- autunno
 categories:
 - Dolce
 - "Crostate, Tartes..." 

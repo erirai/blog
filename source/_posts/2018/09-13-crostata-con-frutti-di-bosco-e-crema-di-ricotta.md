@@ -2,14 +2,14 @@
 title: "Crostata con Frutti di Bosco e Crema di Ricotta"
 date: 2018-09-13
 tags:
-- torta
 - crostata
-- frutti di bosco
 - lamponi
 - more
 - ribes
+- mirtilli
 - ricotta
-- dolci
+- estate
+- autunno
 categories:
 - Dolce
 - "Crostate, Tartes..."

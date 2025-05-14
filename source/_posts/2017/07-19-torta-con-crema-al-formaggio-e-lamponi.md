@@ -2,8 +2,7 @@
 title: "Torta con Crema al Formaggio e Lamponi"
 date: 2017-07-19
 tags:
-- torta
-- dolci
+- estate
 - lamponi 
 - cheesecake  
 categories:

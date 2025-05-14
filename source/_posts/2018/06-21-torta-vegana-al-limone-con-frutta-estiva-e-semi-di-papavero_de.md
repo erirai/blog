@@ -2,14 +2,13 @@
 title: "veganer Zitronenkuchen mit Sommerfrüchten und Mohnsamen"
 date: 2018-06-21
 tags:
-- torta
-- dolci
 - limone
 - ciliegie
 - fragole
 - albicocche
 - pesche
 - vegan
+- estate
 categories:
 - Dolce
 - Torte 

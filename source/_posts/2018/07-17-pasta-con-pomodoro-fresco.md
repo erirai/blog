@@ -3,8 +3,8 @@ title: "Pasta con Pomodoro fresco"
 date: 2018-07-17
 tags:
 - pasta
-- primi
-- pomodoro
+- estate
+- pomodori
 - vegan
 categories:
 - Salato

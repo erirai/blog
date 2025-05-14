@@ -4,8 +4,6 @@ date: 2019-01-31
 tags:
 - cioccolato
 - san valentino
-- dolci al cucchiaio
-- dolci
 categories:
 - Dolce
 - "Dolci al cucchiaio, Gelati..."

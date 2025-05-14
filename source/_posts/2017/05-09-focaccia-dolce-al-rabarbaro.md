@@ -2,9 +2,8 @@
 title: "Focaccia Dolce al Rabarbaro"
 date: 2017-05-09
 tags:
-- panificati
-- dolci
-- colazione 
+- lievitati
+- primavera
 - rabarbaro
 - vegan
 categories:

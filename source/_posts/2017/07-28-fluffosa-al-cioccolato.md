@@ -2,10 +2,7 @@
 title: "Fluffosa al Cioccolato"
 date: 2017-07-28
 tags:
-- torta
-- dolci
 - cioccolato
-- fluffosa 
 categories:
 - Dolce
 - Torte 

@@ -4,7 +4,7 @@ date: 2018-07-24
 tags:
 - lamponi
 - gelato
-- dolci
+- estate
 categories:
 - Dolce
 - "Dolci al cucchiaio, Gelati..." 

@@ -3,7 +3,6 @@ title: "Ricotta-Apfel-Krapfen"
 date: 2018-01-30
 tags:
 - carnevale
-- dolci
 - frittelle 
 - ricotta
 - mele

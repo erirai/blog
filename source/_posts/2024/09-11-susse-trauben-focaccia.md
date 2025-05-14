@@ -4,7 +4,7 @@ date: 2024-09-11
 tags:
 - uva
 - autunno
-- vagan
+- vegan
 categories:
 - Dolce
 - Panificati
