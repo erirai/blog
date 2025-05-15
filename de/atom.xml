@@ -4,7 +4,7 @@
   
   <link href="https://frangipani.raiano.ch/de/atom.xml" rel="self"/>
   <link href="https://frangipani.raiano.ch/"/>
-  <updated>2025-05-13T07:39:51.807Z</updated>
+  <updated>2025-05-15T10:25:40.225Z</updated>
   <id>https://frangipani.raiano.ch/</id>
   
   <author>
@@ -19,7 +19,7 @@
     <link href="https://frangipani.raiano.ch/2025-05-14-schnelle-skyr-schokobrotchen/"/>
     <id>https://frangipani.raiano.ch/2025-05-14-schnelle-skyr-schokobrotchen/</id>
     <published>2025-05-13T22:00:00.000Z</published>
-    <updated>2025-05-13T07:39:51.807Z</updated>
+    <updated>2025-05-15T10:25:40.225Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2025-05-14-panini-veloci-allo-skyr-e-cioccolato/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Schnelle Skyr-Schokoladenbrötchen&lt;/strong&gt; superweiche Brötchen, die im Handumdrehen zubereitet sind. Alle Zutaten verrühren, Brötchen formen und backen. Fertig. Eigentlich nicht, damit ist es noch nicht getan, denn sie müssen auch gegessen werden, und ich versichere euch, dass sie fantastisch sind! Sie eignen sich hervorragend zum z&amp;#39;Vieri, aber auch für ein gemütliches Frühstück, da man sie augenblicklich zubereiten kann.
 &lt;br /&gt;
@@ -140,6 +140,8 @@ Aber was ist eigentlich Skyr? Skyr ist ein Milchprodukt isländischen Ursprungs.
     
       <category term="colazione" scheme="https://frangipani.raiano.ch/tags/colazione/"/>
     
+      <category term="yogurt" scheme="https://frangipani.raiano.ch/tags/yogurt/"/>
+    
   </entry>
   
   <entry>
@@ -147,7 +149,7 @@ Aber was ist eigentlich Skyr? Skyr ist ein Milchprodukt isländischen Ursprungs.
     <link href="https://frangipani.raiano.ch/2025-05-07-zweifarbige-hefeteigrosen-gefullt-mit-pistaziencreme/"/>
     <id>https://frangipani.raiano.ch/2025-05-07-zweifarbige-hefeteigrosen-gefullt-mit-pistaziencreme/</id>
     <published>2025-05-06T22:00:00.000Z</published>
-    <updated>2025-05-05T14:15:45.443Z</updated>
+    <updated>2025-05-15T10:25:24.152Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2025-05-07-rose-di-brioche-bicolore-farcite-con-crema-di-pistacchio/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Zweifarbige Hefeteigrosen gefüllt mit Pistaziencrème&lt;/strong&gt; ein fluffiges, sehr schönes Dessert, das sich auch hervorragend zum Muttertag zubereiten lässt. Es scheint schwierig zu sein, ist es aber nicht... Mir gefiel die Idee, es mit zwei verschiedenfarbigen Teigen zuzubereiten und die Rosen mit Pistaziencrème zu füllen. Ihr könnt es aber auch nur mit dem weissen oder schwarzen Teig machen und wenn ihr keine Pistaziencrème habt, funktioniert auch Haselnusscrème, Marmelade, Erdnussbutter... was immer ihr mögt!&lt;/p&gt;
 &lt;p&gt;Es ist ein sehr schönes Dessert, das einen tollen Eindruck macht! Wir haben sie zum z&amp;#39;Vieri gegessen, mit Gästen, aber zum Frühstück oder Brunch sind sie auch mega. Wenn ihr möchtet, könnt ihr die Rosen auch einzeln backen. Die Backzeit beträgt dann etwa 15–20min. Aber, wenn sie zusammen in einer grösseren Backformform gebacken werden, werden sie fluffiger, weil sie weniger Kruste haben... Wisst ihr, was ich meine?
@@ -334,6 +336,10 @@ Apropos Muttertag... Wie immer feiert Gaia ihren Geburtstag rund um den Mutterta
     
       <category term="colazione" scheme="https://frangipani.raiano.ch/tags/colazione/"/>
     
+      <category term="pistacchi" scheme="https://frangipani.raiano.ch/tags/pistacchi/"/>
+    
+      <category term="lievitati" scheme="https://frangipani.raiano.ch/tags/lievitati/"/>
+    
   </entry>
   
   <entry>
@@ -341,7 +347,7 @@ Apropos Muttertag... Wie immer feiert Gaia ihren Geburtstag rund um den Mutterta
     <link href="https://frangipani.raiano.ch/2025-04-23-joghurt-scones/"/>
     <id>https://frangipani.raiano.ch/2025-04-23-joghurt-scones/</id>
     <published>2025-04-22T22:00:00.000Z</published>
-    <updated>2025-04-22T19:08:52.940Z</updated>
+    <updated>2025-05-15T10:24:53.052Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2025-04-23-scones-allo-yogurt/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Werbung: &lt;strong&gt;Joghurt-Scones&lt;/strong&gt; in Zusammenarbeit mit &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt;. Eine Art süsses und mürbes Brötchen, das im Handumdrehen zubereitet ist. Das ist ein typisches Dessert der Britischen Inseln. Sie werden zur Teezeit serviert und traditionell bricht man sie in zwei Hälften und bestreicht sie mit Clotted Cream und Konfitüre.
 &lt;br /&gt;
@@ -472,6 +478,8 @@ Was Konfitüre betrifft, findet ihr auf &lt;a href=&quot;https://www.farmy.ch&qu
     
       <category term="colazione" scheme="https://frangipani.raiano.ch/tags/colazione/"/>
     
+      <category term="yogurt" scheme="https://frangipani.raiano.ch/tags/yogurt/"/>
+    
   </entry>
   
   <entry>
@@ -479,7 +487,7 @@ Was Konfitüre betrifft, findet ihr auf &lt;a href=&quot;https://www.farmy.ch&qu
     <link href="https://frangipani.raiano.ch/2025-04-09-herzhafte-einfache-vegetarische-colomba/"/>
     <id>https://frangipani.raiano.ch/2025-04-09-herzhafte-einfache-vegetarische-colomba/</id>
     <published>2025-04-08T22:00:00.000Z</published>
-    <updated>2025-04-08T18:53:35.687Z</updated>
+    <updated>2025-05-15T10:24:46.880Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2025-04-09-colomba-salata-veloce/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Herzhafte und einfache vegetarische Colomba&lt;/strong&gt; eine schnellere und einfachere Version der klassischen herzhaften Hefeteig-Colomba. Letztendlich handelt es sich um einen herzhaften Kuchen, der in der Colomba-Form gebacken wird. Wenn ihr keine Taubenform habt, verwendet eine Kastenform, eine runde Kuchenform oder sogar eine Gugelhupfform... Sie ist super fluffig und ein wenig brotartig und voller Gemüse. Tatsächlich habe ich Erbsen, Spargel und Karotten verwendet, aber verwendet einfach, was ihr im Kühlschrank habt. Um mehr Geschmack zu verleihen, habe ich einige Kräuter wie Basilikum, Petersilie und Bärlauch mit dem Öl gemixt und dann in den Teig gegeben. Dazu habe ich auch Provolone-Käse hinzugefügt, der wirklich gut dazu passt. Gruyère ist auch super!
 &lt;br /&gt;
@@ -666,6 +674,8 @@ Die Mandelscheiben in ein separates Schüsselchen geben, einen Schuss Öl hinzuf
     
       <category term="torta salata" scheme="https://frangipani.raiano.ch/tags/torta-salata/"/>
     
+      <category term="primavera" scheme="https://frangipani.raiano.ch/tags/primavera/"/>
+    
   </entry>
   
   <entry>
@@ -840,7 +850,7 @@ Alle Kekse mit Puderzucker bestreuen und mit dem Stiel einer Schöpfkelle oder s
     <link href="https://frangipani.raiano.ch/2025-03-26-blatterteig-barlauch-stangen/"/>
     <id>https://frangipani.raiano.ch/2025-03-26-blatterteig-barlauch-stangen/</id>
     <published>2025-03-25T23:00:00.000Z</published>
-    <updated>2025-03-21T16:14:58.052Z</updated>
+    <updated>2025-05-15T10:24:06.071Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2025-03-26-grissini-di-sfoglia-all-aglio-orsino/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Werbung: &lt;strong&gt;Blätterteig-Bärlauch-Stangen&lt;/strong&gt; in Zusammenarbeit mit &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt;. Leckere Blätterteig-Stangen gefüllt mit einer köstlichen Ricotta-Walnuss-Bärlauch-Crème. Sie sind ganz einfach zuzubereiten und können eurem Geschmack angepasst werden.
 &lt;br /&gt;
@@ -983,6 +993,8 @@ Den Blätterteig entrollen und die Hälfte des Teiges mit der Ricottacrème best
     
       <category term="pasta sfoglia" scheme="https://frangipani.raiano.ch/tags/pasta-sfoglia/"/>
     
+      <category term="primavera" scheme="https://frangipani.raiano.ch/tags/primavera/"/>
+    
       <category term="aglio orsino" scheme="https://frangipani.raiano.ch/tags/aglio-orsino/"/>
     
   </entry>
@@ -992,7 +1004,7 @@ Den Blätterteig entrollen und die Hälfte des Teiges mit der Ricottacrème best
     <link href="https://frangipani.raiano.ch/2025-03-12-tiramisu-tarte/"/>
     <id>https://frangipani.raiano.ch/2025-03-12-tiramisu-tarte/</id>
     <published>2025-03-11T23:00:00.000Z</published>
-    <updated>2025-03-05T10:11:51.454Z</updated>
+    <updated>2025-05-15T10:23:55.915Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2025-03-12-crostata-tiramisu/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Tiramisù Tarte&lt;/strong&gt; ein Mürbeteigboden, ein Bett aus in Kaffee getränkten Löffelbisquits und die wunderbare Mascarpone-Crème... ich weiss nicht, muss ich noch etwas hinzufügen? Das Rezept scheint schwierig zu sein, aber letztendlich ist es einfach nur ein Tiramisù in einem Mürbeteigboden, das ist alles.
 &lt;br /&gt;
@@ -1196,6 +1208,8 @@ Die Löffelbisquits im Kaffee tränken und auf den Mürbeteigboden verteilen, so
     
       <category term="pasta frolla" scheme="https://frangipani.raiano.ch/tags/pasta-frolla/"/>
     
+      <category term="crostata" scheme="https://frangipani.raiano.ch/tags/crostata/"/>
+    
       <category term="festa del papà" scheme="https://frangipani.raiano.ch/tags/festa-del-papa/"/>
     
       <category term="caffé" scheme="https://frangipani.raiano.ch/tags/caffe/"/>
@@ -1207,7 +1221,7 @@ Die Löffelbisquits im Kaffee tränken und auf den Mürbeteigboden verteilen, so
     <link href="https://frangipani.raiano.ch/2025-03-05-sizilianische-erbsensuppe/"/>
     <id>https://frangipani.raiano.ch/2025-03-05-sizilianische-erbsensuppe/</id>
     <published>2025-03-04T23:00:00.000Z</published>
-    <updated>2025-03-03T13:51:51.618Z</updated>
+    <updated>2025-05-15T10:23:37.474Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2025-03-05-macco-di-piselli/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Sizilianische Erbsensuppe (Macco di Piselli)&lt;/strong&gt; eine schöne dicke Suppe aus der sizilianischen Tradition. Macco ist vegan und wird aus nur wenigen einfachen Zutaten hergestellt: getrockneten Erbsen oder Ackerbohnen, Zwiebeln, Karotten und Sellerie. Eigentlich wird &lt;strong&gt;&amp;quot;u Maccu&amp;quot;&lt;/strong&gt; aus Ackerbohnen zubereitet, aber aus gesundheitlichen Gründen können mein Sohn und ich diese nicht essen. Aber die Variante mit Erbsen ist richtig, richtig gut.
 &lt;br /&gt;
@@ -1330,9 +1344,15 @@ Mit Wasser oder Gemüsebrühe vollständig bedecken und bei mittelhoher Temperat
       <category term="Primi Piatti" scheme="https://frangipani.raiano.ch/categories/Salato/Primi-Piatti/"/>
     
     
+      <category term="vegan" scheme="https://frangipani.raiano.ch/tags/vegan/"/>
+    
       <category term="piselli" scheme="https://frangipani.raiano.ch/tags/piselli/"/>
     
+      <category term="legumi" scheme="https://frangipani.raiano.ch/tags/legumi/"/>
+    
       <category term="zuppa" scheme="https://frangipani.raiano.ch/tags/zuppa/"/>
+    
+      <category term="ricette siciliane" scheme="https://frangipani.raiano.ch/tags/ricette-siciliane/"/>
     
   </entry>
   
@@ -1341,7 +1361,7 @@ Mit Wasser oder Gemüsebrühe vollständig bedecken und bei mittelhoher Temperat
     <link href="https://frangipani.raiano.ch/2025-02-26-nudelsuppe-mit-ei/"/>
     <id>https://frangipani.raiano.ch/2025-02-26-nudelsuppe-mit-ei/</id>
     <published>2025-02-25T23:00:00.000Z</published>
-    <updated>2025-02-24T12:53:51.515Z</updated>
+    <updated>2025-05-15T10:23:03.713Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2025-02-26-pastina-con-uovo/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Nudelsuppe mit Ei&lt;/strong&gt; ein Gericht mit einfachen Vorratszutaten, die wir immer zu Hause finden. Ein wohltuendes Gericht. Ein Gericht, das mich schon immer begleitet hat. Ein Gericht, das nach Zuhause schmeckt...&lt;/p&gt;
 &lt;p&gt;Ihr müsst wissen, dass in meiner Familie, mütterlicherseits, sehr gerne Nudelsuppe oder vielmehr Brühe gegessen wird. Das habe ich auch an meinen Sohn weitergegeben, aber meine Tochter ist nicht so brühig, mein Mann auch nicht. Wenn ich Nudelsuppe mache, teilen wir uns tatsächlich in zwei Hälften: Mein Sohn und ich gerne mit viel Brühe, meine Tochter und mein Mann je weniger Brühe, desto besser!
@@ -1474,6 +1494,8 @@ Dies ist ein Gericht, das ich sehr oft zubereite, besonders wenn ich nicht weiss
     
       <category term="zuppa" scheme="https://frangipani.raiano.ch/tags/zuppa/"/>
     
+      <category term="ricette siciliane" scheme="https://frangipani.raiano.ch/tags/ricette-siciliane/"/>
+    
   </entry>
   
   <entry>
@@ -1481,7 +1503,7 @@ Dies ist ein Gericht, das ich sehr oft zubereite, besonders wenn ich nicht weiss
     <link href="https://frangipani.raiano.ch/2025-02-19-ofen-schenkeli/"/>
     <id>https://frangipani.raiano.ch/2025-02-19-ofen-schenkeli/</id>
     <published>2025-02-18T23:00:00.000Z</published>
-    <updated>2025-02-19T13:14:19.240Z</updated>
+    <updated>2025-05-15T10:22:48.215Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2025-02-19-schenkeli-al-forno/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ofen-Schenkeli&lt;/strong&gt; ein Fasnachtsgebäck aus der schweizer Tradition. Es handelt sich dabei um ein ganz einfaches frittiertes Gebäck bzw. in der gebackenen Variante um Kekse, die aus ganz wenigen und einfachen Zutaten hergestellt werden. Die frittierte Variante hat eine dunklere Farbe und eine schmelzendere Konsistenz. Beim Frittieren platzen sie, das ist typisch. Ich liebe frittierte Sachen, aber ich hasse es, zu frittieren. Die Absicht bestand darin, das Originalrezept zuzubereiten, d. h. sie zu frittieren, das Rezept ist schlussendlich das gleiche. Aber am Ende habe ich sie doch lieber gebacken und sie waren wirklich richtig gut! Sie sehen zwar etwas blasser aus und man muss ihnen ein wenig nachhelfen, damit sie in der Mitte reissen, aber sie sind eine durchaus leckere Alternative. Ihr könnt sie auch problemlos frittieren, dann entfällt das Anschneiden.&lt;/p&gt;
 &lt;p&gt;Dieses Jahr liegen die Feiertage etwas weiter auseinander... Wir können ein Fest nach dem anderen &amp;quot;feiern&amp;quot;. Zuerst war der Valentinstag und nun können wir uns dem Karneval widmen. &lt;a href=&quot;/tags/carnevale/&quot;&gt;Hier&lt;/a&gt; findet ihr noch viele weitere Fasnachtsrezepte, die ich persönlich am liebsten eins nach dem anderen essen würde, aber lassen wir das, ist besser so. Die italienische Küche bietet zahlreiche Rezepte für Fasnachtsdesserts, eines besser als das andere. Aber auch mit der Schweizer Küche ist nicht zu spassen! Nach den &lt;a href=&quot;/2022-02-22-fasnachtschuechli-de/&quot;&gt;Fasnachtschüechli&lt;/a&gt; wollte ich mich mal an der Herstellung von &lt;strong&gt;Schenkeli&lt;/strong&gt; versuchen und vielleicht weiss ich schon, welches Fasnachtsgebäck ich nächstes Jahr backen werde…&lt;/p&gt;
@@ -1619,6 +1641,8 @@ Zum Schluss in der Mitte jedes Stückes einen dünnen, oberflächlichen Schnitt 
     
       <category term="frittelle" scheme="https://frangipani.raiano.ch/tags/frittelle/"/>
     
+      <category term="ricette svizzere" scheme="https://frangipani.raiano.ch/tags/ricette-svizzere/"/>
+    
   </entry>
   
   <entry>
@@ -1626,7 +1650,7 @@ Zum Schluss in der Mitte jedes Stückes einen dünnen, oberflächlichen Schnitt 
     <link href="https://frangipani.raiano.ch/2025-02-12-marmeladen-tarte/"/>
     <id>https://frangipani.raiano.ch/2025-02-12-marmeladen-tarte/</id>
     <published>2025-02-11T23:00:00.000Z</published>
-    <updated>2025-02-10T10:30:57.423Z</updated>
+    <updated>2025-05-15T10:22:09.869Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2025-02-12-crostata-di-marmellata/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Werbung: &lt;strong&gt;Marmeladen-Tarte (Crostata di Marmellata)&lt;/strong&gt; in Zusammenarbeit mit &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt;. Die einfachste Tarte aller Zeiten, perfekt zum Frühstück oder als Snack. Alles, was ihr tun müsst, ist den Mürbeteig zuzubereiten und ihn mit eurer Lieblingsmarmelade oder -konfitüre zu füllen. Ich bevorzuge Himbeer- oder Kirschkonfitüre, aber sagen wir mal, der Klassiker wäre Aprikosenkonfitüre... Alles geht in Ordnung, auch Orangenmarmelade zum Beispiel!
 &lt;br /&gt;
@@ -1777,6 +1801,10 @@ Für den Mürbeteig braucht man wenige, dafür aber gute Zutaten. Mehl, Puderzuc
     
       <category term="pasta frolla" scheme="https://frangipani.raiano.ch/tags/pasta-frolla/"/>
     
+      <category term="crostata" scheme="https://frangipani.raiano.ch/tags/crostata/"/>
+    
+      <category term="colazione" scheme="https://frangipani.raiano.ch/tags/colazione/"/>
+    
       <category term="san valentino" scheme="https://frangipani.raiano.ch/tags/san-valentino/"/>
     
   </entry>
@@ -1786,7 +1814,7 @@ Für den Mürbeteig braucht man wenige, dafür aber gute Zutaten. Mehl, Puderzuc
     <link href="https://frangipani.raiano.ch/2025-01-22-vegane-gyoza/"/>
     <id>https://frangipani.raiano.ch/2025-01-22-vegane-gyoza/</id>
     <published>2025-01-21T23:00:00.000Z</published>
-    <updated>2025-01-20T16:09:02.391Z</updated>
+    <updated>2025-05-15T10:21:45.626Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2025-01-22-gyoza-vegani/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Vegane Gyoza&lt;/strong&gt; asiatische Teigtaschen gefüllt mit duftendem Gemüse. Sie werden im Dampfgarer gekocht oder in der Bratpfanne, so dass sich an der Unterseite eine knusprige Kruste bildet, und anschliessend mit Wasser und dessen Dampf fertig gegart.
 &lt;br /&gt;
@@ -2023,6 +2051,8 @@ Bei der sofortigen Zubereitung könnt ihr zwischen Dämpfen und Braten wählen. 
     
       <category term="inverno" scheme="https://frangipani.raiano.ch/tags/inverno/"/>
     
+      <category term="zucca" scheme="https://frangipani.raiano.ch/tags/zucca/"/>
+    
       <category term="autunno" scheme="https://frangipani.raiano.ch/tags/autunno/"/>
     
   </entry>
@@ -2032,7 +2062,7 @@ Bei der sofortigen Zubereitung könnt ihr zwischen Dämpfen und Braten wählen. 
     <link href="https://frangipani.raiano.ch/2025-01-15-hummus-aus-weissen-bohnen-mit-grostetem-wintergemuse/"/>
     <id>https://frangipani.raiano.ch/2025-01-15-hummus-aus-weissen-bohnen-mit-grostetem-wintergemuse/</id>
     <published>2025-01-14T23:00:00.000Z</published>
-    <updated>2025-01-14T08:28:17.178Z</updated>
+    <updated>2025-05-15T10:21:22.856Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2025-01-15-hummus-di-fagioli-bianchi-con-roast-di-verdure-invernali/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Werbung: &lt;strong&gt;Hummus aus weissen Bohnen mit geröstetem Wintergemüse&lt;/strong&gt; in Zusammenarbeit mit &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt;. Ein leckeres, farbenfrohes und veganes Gericht, das euch überraschen wird! Kichererbsen-Hummus ist unschlagbar, aber der mit weissen Bohnen ist auch nicht ganz ohne... Er hat einen feineren Geschmack und eine cremigere Konsistenz. Ich wechsle die beiden Hummus-Sorten gerne ab.
 &lt;br /&gt;
@@ -2176,7 +2206,13 @@ Bei den Zutaten habe ich alle Gemüsesorten aufgeschrieben, die ich für den Roa
     
       <category term="inverno" scheme="https://frangipani.raiano.ch/tags/inverno/"/>
     
+      <category term="zucca" scheme="https://frangipani.raiano.ch/tags/zucca/"/>
+    
       <category term="autunno" scheme="https://frangipani.raiano.ch/tags/autunno/"/>
+    
+      <category term="legumi" scheme="https://frangipani.raiano.ch/tags/legumi/"/>
+    
+      <category term="fagioli" scheme="https://frangipani.raiano.ch/tags/fagioli/"/>
     
   </entry>
   
@@ -2185,7 +2221,7 @@ Bei den Zutaten habe ich alle Gemüsesorten aufgeschrieben, die ich für den Roa
     <link href="https://frangipani.raiano.ch/2025-01-03-galette-des-rois-de/"/>
     <id>https://frangipani.raiano.ch/2025-01-03-galette-des-rois-de/</id>
     <published>2025-01-02T23:00:00.000Z</published>
-    <updated>2025-01-02T19:28:20.178Z</updated>
+    <updated>2025-05-15T10:20:51.521Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2025-01-03-galette-des-rois/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Galette des Rois&lt;/strong&gt; das typische französische Dessert zur Feier der Heiligen Drei Könige. Es ist ein sehr einfaches Dessert. Tatsächlich handelt es sich dabei um zwei mit Frangipane-Crème gefüllte Blätterteigscheiben. Ich habe auch Varianten mit der Zugabe von Vanillecrème gesehen, aber mir gefiel die einfache Version besser. Natürlich kann man den Blätterteig auch selbst herstellen, ich habe es aus Zeitgründen jedoch vorgezogen, ihn zu kaufen.
 &lt;br /&gt;
@@ -2338,6 +2374,8 @@ Die beiden Blätterteigscheiben nehmen und zwei kleinere Scheiben mit 22cm Durch
     
       <category term="natale" scheme="https://frangipani.raiano.ch/tags/natale/"/>
     
+      <category term="mandorle" scheme="https://frangipani.raiano.ch/tags/mandorle/"/>
+    
   </entry>
   
   <entry>
@@ -2345,7 +2383,7 @@ Die beiden Blätterteigscheiben nehmen und zwei kleinere Scheiben mit 22cm Durch
     <link href="https://frangipani.raiano.ch/2024-12-11-lussekaka-de/"/>
     <id>https://frangipani.raiano.ch/2024-12-11-lussekaka-de/</id>
     <published>2024-12-10T23:00:00.000Z</published>
-    <updated>2024-12-10T08:52:54.690Z</updated>
+    <updated>2025-05-15T09:36:27.640Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2024-12-11-lussekaka/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Lussekaka - Schwedischer Weihnachtskuchen&lt;/strong&gt; ein Kuchen mit einem buttrigen Boden, ähnlich wie ein weicher Mürbeteig, und einem köstlichen Topping aus Mandeln. Dieser Kuchen, oder eigentlich würde ich fast sagen, dieser riesige Keks, riecht nach Weihnachtsmarkt, anders könnte ich es nicht beschreiben. Man nimmt den Duft von Butter und karamellisierten Mandeln wahr. Es ist eines dieser Desserts, die gut tun, mit einfachen, aber guten Zutaten. Ich kann kein Schwedisch, aber ich denke, dass Lussekaka übersetzt „Lucia-Kuchen“ bedeutet... Ich möchte mich allerdings nicht zu weit aus dem Fenster lehnen. Tatsächlich, ist in dieser Gegend die Heilige Lucia sehr präsent und wird auch am 13. Dezember gefeiert.
 &lt;br /&gt;
@@ -2520,6 +2558,8 @@ Eine runde 20cm-Backform bebuttern und bemehlen und den Teig darin mit den Finge
     
       <category term="natale" scheme="https://frangipani.raiano.ch/tags/natale/"/>
     
+      <category term="mandorle" scheme="https://frangipani.raiano.ch/tags/mandorle/"/>
+    
   </entry>
   
   <entry>
@@ -2690,7 +2730,7 @@ Den Apfel schälen, grob reiben und die Zwiebel fein hacken. In einer Pfanne die
     <link href="https://frangipani.raiano.ch/2024-11-27-gingerbread-orangen-sables/"/>
     <id>https://frangipani.raiano.ch/2024-11-27-gingerbread-orangen-sables/</id>
     <published>2024-11-26T23:00:00.000Z</published>
-    <updated>2024-11-26T17:24:38.147Z</updated>
+    <updated>2025-05-15T09:36:02.524Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2024-11-27-biscotti-sable-gingerbread-e-arancia/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Gingerbread-Orangen-Sablès&lt;/strong&gt; buttrige und duftende Kekse, die sehr einfach zuzubereiten sind. Das Gingerbreadgewürz darf an Weihnachten nicht fehlen... Es sind super wärmend und comfy. Ich kombiniere diese Gewürzmischung sehr gerne mit Orangen, um einen Hauch von Frische zu verleihen. Wenn euch der Geschmack von Gingerbread jedoch nicht gefällt, könnt ihr einfach nur Zimt verwenden.
 &lt;br /&gt;
@@ -2836,7 +2876,7 @@ Zwei Würstchen mit einem Durchmesser von ca. 4cm formen. Auf einem Backblech od
     
       <category term="natale" scheme="https://frangipani.raiano.ch/tags/natale/"/>
     
-      <category term="arancia" scheme="https://frangipani.raiano.ch/tags/arancia/"/>
+      <category term="arance" scheme="https://frangipani.raiano.ch/tags/arance/"/>
     
   </entry>
   
@@ -2845,7 +2885,7 @@ Zwei Würstchen mit einem Durchmesser von ca. 4cm formen. Auf einem Backblech od
     <link href="https://frangipani.raiano.ch/2024-11-20-sizilianische-hartweizengriess-brotchen/"/>
     <id>https://frangipani.raiano.ch/2024-11-20-sizilianische-hartweizengriess-brotchen/</id>
     <published>2024-11-19T23:00:00.000Z</published>
-    <updated>2024-11-20T15:27:27.252Z</updated>
+    <updated>2025-05-15T09:35:44.184Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2024-11-20-mafalde-siciliane/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Sizilianische Hartweizengriess-Brötchen (Mafalde Siciliane)&lt;/strong&gt; sehr fluffige Brötchen aus Hartweizengriessmehl, bedeckt mit Sesam. Diese Brötchen sind typisch für die sizilianische Küche und aufgrund des Sesams sicherlich auch von der arabischen Kultur beeinflusst.
 &lt;br /&gt;
@@ -2999,11 +3039,13 @@ Am nächsten Tag den Teig aus dem Kühlschrank nehmen und 2h bei Zimmertemperatu
       <category term="Panificati" scheme="https://frangipani.raiano.ch/categories/Salato/Panificati/"/>
     
     
-      <category term="pane" scheme="https://frangipani.raiano.ch/tags/pane/"/>
-    
       <category term="vegan" scheme="https://frangipani.raiano.ch/tags/vegan/"/>
     
-      <category term="panificati" scheme="https://frangipani.raiano.ch/tags/panificati/"/>
+      <category term="colazione" scheme="https://frangipani.raiano.ch/tags/colazione/"/>
+    
+      <category term="lievitati" scheme="https://frangipani.raiano.ch/tags/lievitati/"/>
+    
+      <category term="ricette siciliane" scheme="https://frangipani.raiano.ch/tags/ricette-siciliane/"/>
     
   </entry>
   
@@ -3012,7 +3054,7 @@ Am nächsten Tag den Teig aus dem Kühlschrank nehmen und 2h bei Zimmertemperatu
     <link href="https://frangipani.raiano.ch/2024-11-13-kartoffel-pilz-suppe/"/>
     <id>https://frangipani.raiano.ch/2024-11-13-kartoffel-pilz-suppe/</id>
     <published>2024-11-12T23:00:00.000Z</published>
-    <updated>2024-11-12T15:07:52.303Z</updated>
+    <updated>2025-05-15T09:35:10.117Z</updated>
     <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2024-11-13-vellutata-ai-funghi-e-patate/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Werbung: &lt;strong&gt;Kartoffel-Pilz-Suppe&lt;/strong&gt; in Zusammenarbeit mit &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt;, super lecker und wärmend, genau das, was man bei dieser Kälte braucht.&lt;/p&gt;
 &lt;p&gt;Als Pilze habe ich Champignons und Steinpilze verwendet, es steht euch aber völlig frei, die Pilze zu verwenden, die ihr bevorzugt. Auf &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt; hat man eine ausgezeichnete und grosse Auswahl an Pilzen... Um der Suppe einen guten, vollmundigen Geschmack zu verleihen, ist es wichtig, die Pilze gut anzubraten, damit das gesamte Wasser austritt. Danach die Kartoffeln dazu geben, diese mit den Pilzen gut vermengen und dann mit der Gemüsebrühe ablöschen.
@@ -3140,6 +3182,8 @@ Die Suppe in eine kleine Schüssel giessen, die Pilze hinzu fügen und einen Sch
       <category term="vegan" scheme="https://frangipani.raiano.ch/tags/vegan/"/>
     
       <category term="inverno" scheme="https://frangipani.raiano.ch/tags/inverno/"/>
+    
+      <category term="patate" scheme="https://frangipani.raiano.ch/tags/patate/"/>
     
       <category term="autunno" scheme="https://frangipani.raiano.ch/tags/autunno/"/>
     
