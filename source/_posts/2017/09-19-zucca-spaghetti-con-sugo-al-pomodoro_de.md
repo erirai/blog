@@ -3,7 +3,7 @@ title: "Spaghettikürbis mit Tomatensauce"
 date: 2017-09-19
 tags:
 - zucca
-- pomodoro
+- pomodori
 - vegan
 - glutenfree
 - halloween

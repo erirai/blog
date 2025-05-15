@@ -5,7 +5,7 @@ tags:
 - autunno
 - estate
 - lievitati
-- prunge
+- prugne
 - colazione
 categories:
 - Dolce

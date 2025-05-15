@@ -3,7 +3,7 @@ title: "Tomatenrisotto mit Kräuter-Gemüse"
 date: 2017-08-31
 tags:
 - riso 
-- pomodoro 
+- pomodori
 - piselli 
 - broccoli
 - glutenfree 

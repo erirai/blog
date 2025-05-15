@@ -3,7 +3,7 @@ title: "Zucca Spaghetti con Sugo al Pomodoro"
 date: 2017-09-19
 tags:
 - zucca
-- pomodoro
+- pomodori
 - vegan
 - glutenfree
 - halloween

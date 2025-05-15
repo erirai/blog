@@ -3,7 +3,7 @@ title: "Risotto al Pomodoro con Verdure alle Erbe Aromatiche"
 date: 2017-08-31
 tags:
 - riso 
-- pomodoro 
+- pomodori
 - piselli 
 - broccoli
 - glutenfree 
