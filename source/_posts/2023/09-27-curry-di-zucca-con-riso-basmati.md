@@ -5,6 +5,9 @@ tags:
 - vegan
 - zucca
 - autunno
+- riso
+- glutenfree
+- peperoni
 categories:
 - Salato
 - "Piatti Unici"

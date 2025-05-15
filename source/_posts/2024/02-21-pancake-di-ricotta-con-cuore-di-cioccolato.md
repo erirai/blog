@@ -2,6 +2,9 @@
 title: "Pancake di Ricotta con Cuore di Cioccolato"
 date: 2024-02-21
 tags:
+- pancake
+- ricotta
+- cioccolato
 - colazione
 categories:
 - Dolce

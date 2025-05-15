@@ -6,6 +6,7 @@ tags:
 - conserve
 - prugne
 - vegan
+- colazione
 categories:
 - Dolce
 - Conserve

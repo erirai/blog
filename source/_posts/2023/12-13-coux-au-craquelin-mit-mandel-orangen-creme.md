@@ -5,6 +5,7 @@ tags:
 - natale
 - arance
 - mandorle
+- pasta choux
 categories:
 - Dolce
 - "Piccola Pasticceria"

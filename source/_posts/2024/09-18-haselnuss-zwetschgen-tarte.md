@@ -5,6 +5,8 @@ tags:
 - autunno
 - estate
 - prugne
+- crostata
+- nocciole
 categories:
 - Dolce
 - "Crostate, Tartes..."

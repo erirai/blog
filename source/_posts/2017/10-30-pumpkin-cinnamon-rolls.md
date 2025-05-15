@@ -8,6 +8,7 @@ tags:
 - zucca
 - halloween
 - vegan
+- colazione
 categories:
 - Dolce
 - Colazione

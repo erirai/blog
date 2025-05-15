@@ -3,6 +3,7 @@ title: "Pasta con Crema di Asparagi"
 date: 2024-05-08
 tags: 
 - asparagi
+- pasta
 - primavera
 - vegan
 categories:

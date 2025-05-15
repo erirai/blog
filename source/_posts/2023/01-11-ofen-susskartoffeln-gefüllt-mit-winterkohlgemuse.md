@@ -4,6 +4,7 @@ date: 2023-01-11
 tags: 
 - autunno
 - inverno
+- patate
 - vegan
 categories:
 - Salato

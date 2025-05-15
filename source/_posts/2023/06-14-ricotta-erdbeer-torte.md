@@ -5,6 +5,7 @@ tags:
 - fragole
 - estate
 - primavera
+- ricotta
 categories:
 - Dolce
 - Torte

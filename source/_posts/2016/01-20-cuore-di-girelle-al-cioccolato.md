@@ -5,6 +5,7 @@ tags:
 - lievitati
 - vegan
 - san valentino
+- colazione
 categories:
 - Dolce
 - Panificati

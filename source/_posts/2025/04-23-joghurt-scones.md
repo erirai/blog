@@ -4,6 +4,7 @@ date: 2025-04-23
 tags:
 - colazione
 - vegan
+- yogurt
 categories:
 - Dolce
 - Colazione

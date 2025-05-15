@@ -5,6 +5,7 @@ tags:
 - vegan
 - lievitati
 - ricette siciliane
+- colazione
 categories:
 - Salato
 - Panificati

@@ -4,6 +4,7 @@ date: 2014-06-14
 tags:
 - pancake
 - vegan
+- colazione
 categories:
 - Dolce
 - Colazione

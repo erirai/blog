@@ -3,6 +3,9 @@ title: "Hummus aus weissen Bohnen mit geröstetem Wintergemüse"
 date: 2025-01-15
 tags:
 - vegan
+- fagioli
+- legumi
+- zucca
 - autunno
 - inverno
 categories:

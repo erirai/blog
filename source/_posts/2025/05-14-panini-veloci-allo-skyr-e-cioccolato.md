@@ -4,6 +4,7 @@ date: 2025-05-14
 tags:
 - colazione
 - cioccolato
+- yogurt
 categories:
 - Dolce
 - Colazione

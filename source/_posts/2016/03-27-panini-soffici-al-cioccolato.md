@@ -6,6 +6,7 @@ tags:
 - lievitati
 - cioccolato
 - vegan
+- colazione
 categories:
 - Dolce
 - Colazione

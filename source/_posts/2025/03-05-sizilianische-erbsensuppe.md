@@ -4,6 +4,9 @@ date: 2025-03-05
 tags: 
 - zuppa
 - piselli
+- legumi
+- ricette siciliane
+- vegan
 categories:
 - Salato
 - "Primi Piatti"

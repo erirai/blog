@@ -2,8 +2,9 @@
 title: "Mafalde Siciliane"
 date: 2024-11-20
 tags: 
-- pane
-- panificati
+- lievitati
+- ricette siciliane
+- colazione
 - vegan
 categories:
 - Salato

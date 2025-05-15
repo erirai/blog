@@ -4,6 +4,7 @@ date: 2025-02-26
 tags: 
 - pasta
 - zuppa
+- ricette siciliane
 categories:
 - Salato
 - "Primi Piatti"

@@ -3,6 +3,7 @@ title: "Tarte Flambée con Asparagi e finto Salmone di Carote"
 date: 2023-04-26
 tags: 
 - asparagi
+- carote
 - primavera
 - vegan
 categories:

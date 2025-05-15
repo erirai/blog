@@ -4,6 +4,7 @@ date: 2017-01-26
 tags:
 - lievitati
 - vegan
+- colazione
 categories:
 - Salato
 - Panificati

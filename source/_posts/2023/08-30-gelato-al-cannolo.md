@@ -3,6 +3,8 @@ title: "Gelato al Cannolo senza gelatiera"
 date: 2023-08-30
 tags:
 - estate
+- gelato
+- ricette siciliane
 - ricotta
 categories:
 - Dolce

@@ -3,6 +3,8 @@ title: "Crostata vegana ai Pistacchi e Arancia"
 date: 2024-01-24
 tags:
 - inverno
+- crostata
+- pistacchi
 - arance
 - vegan
 categories:

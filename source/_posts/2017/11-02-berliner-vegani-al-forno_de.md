@@ -5,6 +5,7 @@ tags:
 - lievitati
 - carnevale
 - vegan
+- colazione
 categories:
 - Dolce
 - Colazione

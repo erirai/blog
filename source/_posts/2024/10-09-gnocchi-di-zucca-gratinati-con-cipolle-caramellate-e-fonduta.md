@@ -6,6 +6,8 @@ tags:
 - halloween
 - autunno
 - inverno
+- patate
+- gnocchi
 categories:
 - Salato
 - "Primi Piatti"

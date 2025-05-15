@@ -2,6 +2,9 @@
 title: "Ricotta-Pancakes mit flüssigem Schoko-Herz"
 date: 2024-02-21
 tags:
+- pancake
+- ricotta
+- cioccolato
 - colazione
 categories:
 - Dolce

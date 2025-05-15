@@ -5,6 +5,7 @@ tags:
 - caffé
 - festa del papà
 - pasta frolla
+- crostata
 categories:
 - Dolce
 - "Crostate, Tartes..."

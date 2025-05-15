@@ -5,6 +5,7 @@ tags:
 - carnevale
 - frittelle
 - biscotti
+- ricette svizzere
 categories:
 - Dolce
 - "Piccola Pasticceria"

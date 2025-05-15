@@ -3,6 +3,7 @@ title: "Pasta con Sugo al Pomodoro e Burrata"
 date: 2024-04-10
 tags: 
 - pasta
+- pomodori
 categories:
 - Salato
 - "Primi Piatti"

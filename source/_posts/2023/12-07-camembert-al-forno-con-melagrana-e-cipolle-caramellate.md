@@ -5,6 +5,7 @@ tags:
 - natale
 - autunno
 - inverno
+- melograno
 categories:
 - Salato
 - Aperitivi 

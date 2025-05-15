@@ -5,6 +5,8 @@ tags:
 - primavera 
 - estate
 - fragole
+- ricotta
+- crumble
 categories:
 - Dolce
 - "Crostate, Tartes..."

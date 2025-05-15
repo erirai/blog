@@ -3,6 +3,7 @@ title: "Torta alle Fragole con Crema Chantilly"
 date: 2018-04-17
 tags:
 - festa della mamma
+- ricette svizzere
 - fragole
 - primavera 
 - estate

@@ -3,6 +3,7 @@ title: "Gnocchi al Basilico con Crema di Peperoni"
 date: 2016-08-04
 tags:
 - gnocchi
+- patate
 - estate
 - peperoni
 - vegan

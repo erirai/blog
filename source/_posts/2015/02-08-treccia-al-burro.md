@@ -5,6 +5,7 @@ tags:
 - lievitati
 - ricette svizzere
 - vegan
+- colazione
 categories:
 - Dolce
 - Colazione

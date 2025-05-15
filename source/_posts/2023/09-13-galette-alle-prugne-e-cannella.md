@@ -3,6 +3,8 @@ title: "Galette alle Prugne e Cannella"
 date: 2023-09-13
 tags:
 - autunno
+- prugne
+- crostata
 - estate
 - vegan
 categories:

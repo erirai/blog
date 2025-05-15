@@ -3,7 +3,7 @@ title: "Kürbis-Rosmarin-Focaccia"
 date: 2023-10-11
 tags: 
 - autunno
-- pane
+- lievitati
 - zucca
 - vegan
 categories:

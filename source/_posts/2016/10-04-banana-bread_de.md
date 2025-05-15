@@ -4,6 +4,7 @@ date: 2016-10-04
 tags:
 - banane
 - vegan
+- colazione
 categories:
 - Dolce
 - Torte

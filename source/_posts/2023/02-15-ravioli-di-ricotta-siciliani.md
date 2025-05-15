@@ -3,7 +3,8 @@ title: "Ravioli di Ricotta Siciliani"
 date: 2023-02-15
 tags:
 - carnevale
-- piccola pasticceria
+- ricotta
+- ricette siciliane
 categories:
 - Dolce
 - "Piccola Pasticceria"

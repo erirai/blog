@@ -3,6 +3,9 @@ title: "Torta di Carote Svizzera (Aargauer Rüeblitorte)"
 date: 2023-03-28
 tags: 
 - pasqua
+- ricette svizzere
+- carote
+- mandorle
 - glutenfree
 categories:
 - Dolce

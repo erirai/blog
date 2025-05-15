@@ -3,8 +3,9 @@ title: "Baumnuss-Honig-Muffins"
 date: 2023-11-15
 tags:
 - autunno
-- noci
+- muffin
 - vegan
+- colazione
 categories:
 - Dolce
 - "Muffin, Cupcakes, Cake Pops..."

@@ -3,6 +3,8 @@ title: "Zwetschgen-Zimt-Galette"
 date: 2023-09-13
 tags:
 - autunno
+- prugne
+- crostata
 - estate
 - vegan
 categories:

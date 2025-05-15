@@ -3,6 +3,9 @@ title: "Filo-Gemüse-Dreiecke"
 date: 2024-07-10
 tags: 
 - estate
+- zucchine
+- peperoni
+- carote
 - vegan
 categories:
 - Salato

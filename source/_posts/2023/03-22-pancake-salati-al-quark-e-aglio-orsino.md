@@ -2,8 +2,11 @@
 title: "Pancake salati al Quark e Aglio Orsino"
 date: 2023-03-22
 tags: 
-- pancakes
-- Bärlauch
+- pancake
+- aglio orsino
+- ricotta
+- carote
+- colazione
 categories:
 - Salato
 - "Torte salate, Muffin salati..."

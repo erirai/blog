@@ -3,6 +3,14 @@ title: "Gemüse-Halloumi-Spiesse mit Kräuterkartoffeln und Joghurtsauce"
 date: 2023-07-05
 tags: 
 - estate
+- halloumi
+- yogurt
+- peperoni
+- zucchine
+- melanzane
+- pomodori
+- patate
+- tofu
 - vegan
 categories:
 - Salato

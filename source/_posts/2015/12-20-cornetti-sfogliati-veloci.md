@@ -3,6 +3,7 @@ title: "Cornetti Sfogliati Veloci"
 date: 2015-12-20
 tags:
 - lievitati
+- colazione
 categories:
 - Dolce
 - Colazione

@@ -4,6 +4,7 @@ date: 2015-06-13
 tags:
 - lievitati
 - vegan
+- colazione
 categories:
 - Dolce
 - Colazione

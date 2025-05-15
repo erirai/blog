@@ -7,6 +7,7 @@ tags:
 - inverno
 - natale
 - vegan
+- colazione
 categories:
 - Dolce
 - Panificati

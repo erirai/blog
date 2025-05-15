@@ -4,6 +4,9 @@ date: 2023-05-24
 tags: 
 - primavera
 - asparagi
+- cous cous
+- piselli
+- zafferano
 - vegan
 categories:
 - Salato

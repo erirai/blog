@@ -3,6 +3,9 @@ title: "Hummus di Fagioli Bianchi con Roast di Verdure Invernali"
 date: 2025-01-15
 tags:
 - vegan
+- fagioli
+- legumi
+- zucca
 - autunno
 - inverno
 categories:

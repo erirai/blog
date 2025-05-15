@@ -4,7 +4,8 @@ date: 2023-02-07
 tags:
 - san valentino
 - festa della mamma
-- piccola pasticceria
+- pasta choux
+- cioccolato
 categories:
 - Dolce
 - "Piccola Pasticceria"

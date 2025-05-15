@@ -4,6 +4,7 @@ date: 2015-10-05
 tags:
 - zucca
 - halloween
+- patate
 - gnocchi
 - autunno
 - vegan

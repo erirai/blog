@@ -5,6 +5,7 @@ tags:
 - pasta sfoglia
 - vegan
 - aglio orsino
+- primavera
 categories:
 - Salato
 - Aperitivi

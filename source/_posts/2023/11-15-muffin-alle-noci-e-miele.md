@@ -3,8 +3,9 @@ title: "Muffin alle Noci e Miele"
 date: 2023-11-15
 tags:
 - autunno
-- noci
+- muffin
 - vegan
+- colazione
 categories:
 - Dolce
 - "Muffin, Cupcakes, Cake Pops..."

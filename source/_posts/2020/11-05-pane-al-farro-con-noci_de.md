@@ -6,6 +6,7 @@ tags:
 - lievitati
 - autunno
 - inverno
+- colazione
 categories:
 - Salato
 - Panificati

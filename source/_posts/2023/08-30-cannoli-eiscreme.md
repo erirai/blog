@@ -3,6 +3,8 @@ title: "Cannoli-Eiscrème (Ricotta-Eiscrème mit Schokolade und Cannoli-Schalen)
 date: 2023-08-30
 tags:
 - estate
+- gelato
+- ricette siciliane
 - ricotta
 categories:
 - Dolce

@@ -6,6 +6,7 @@ tags:
 - primavera
 - rabarbaro
 - vegan
+- colazione
 categories:
 - Dolce
 - Panificati  

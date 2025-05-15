@@ -2,8 +2,12 @@
 title: "Ciambella Pasquale farcita di Ricotta profumata agli Agrumi"
 date: 2024-03-20
 tags:
-- colazione
+- lievitati
+- arance
+- limone
+- ricotta
 - pasqua
+- colazione
 categories:
 - Dolce
 - Panificati

@@ -4,6 +4,9 @@ date: 2024-01-17
 tags: 
 - autunno
 - inverno
+- polpette
+- patate
+- yogurt
 - vegan
 categories:
 - Salato

@@ -3,6 +3,9 @@ title: "Triangoli di Pasta Fillo e Verdure"
 date: 2024-07-10
 tags: 
 - estate
+- zucchine
+- peperoni
+- carote
 - vegan
 categories:
 - Salato

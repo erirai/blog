@@ -5,6 +5,8 @@ tags:
 - festa della mamma
 - vegan
 - colazione
+- lievitati
+- pistacchi
 categories:
 - Dolce
 - Panificati

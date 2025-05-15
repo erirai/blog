@@ -5,6 +5,7 @@ tags:
 - vegan
 - autunno
 - inverno
+- zucca
 categories:
 - Salato
 - "Primi Piatti"

@@ -2,8 +2,11 @@
 title: "Herzhafte Quark-Bärlauch-Pancakes"
 date: 2023-03-22
 tags: 
-- pancakes
-- Bärlauch
+- pancake
+- aglio orsino
+- ricotta
+- carote
+- colazione
 categories:
 - Salato
 - "Torte salate, Muffin salati..."

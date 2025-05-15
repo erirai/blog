@@ -3,6 +3,8 @@ title: "Vegane Pistazien-Orangen-Tarte"
 date: 2024-01-24
 tags:
 - inverno
+- crostata
+- pistacchi
 - arance
 - vegan
 categories:

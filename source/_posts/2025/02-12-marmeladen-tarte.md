@@ -4,6 +4,8 @@ date: 2025-02-12
 tags:
 - san valentino
 - pasta frolla
+- crostata
+- colazione
 categories:
 - Dolce
 - "Crostate, Tartes..."

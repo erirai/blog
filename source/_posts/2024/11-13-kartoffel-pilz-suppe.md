@@ -5,6 +5,7 @@ tags:
 - autunno
 - inverno
 - funghi
+- patate
 - vegan
 categories:
 - Salato

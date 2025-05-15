@@ -3,7 +3,7 @@ title: "Spaghetti al Pomodoro con Occhietti di Mozzarella e Olive Nere"
 date: 2023-10-24
 tags: 
 - halloween
-- pomodoro
+- pomodori
 - pasta
 categories:
 - Salato

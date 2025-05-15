@@ -3,6 +3,10 @@ title: "Gnocchi in Padella con Verdure"
 date: 2023-09-06
 tags: 
 - vegan
+- gnocchi
+- patate
+- peperoni
+- broccoli
 - estate
 categories:
 - Salato

@@ -7,6 +7,7 @@ tags:
 - cioccolato
 - vegan
 - estate
+- colazione
 categories:
 - Dolce
 - "Muffin, Cupcakes, Cake Pops..."

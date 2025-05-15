@@ -6,6 +6,7 @@ tags:
 - san valentino
 - lamponi
 - vegan
+- colazione
 categories:
 - Dolce
 - Colazione

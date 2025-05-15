@@ -3,6 +3,7 @@ title: "Galette des Rois"
 date: 2025-01-03
 tags:
 - natale
+- mandorle
 categories:
 - Dolce
 - Torte

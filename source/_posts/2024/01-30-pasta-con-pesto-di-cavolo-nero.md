@@ -3,6 +3,7 @@ title: "Pasta con Pesto di Cavolo Nero"
 date: 2024-01-30
 tags: 
 - pasta
+- pesto
 - vegan
 - inverno
 categories:

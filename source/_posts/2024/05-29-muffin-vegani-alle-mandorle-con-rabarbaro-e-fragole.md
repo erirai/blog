@@ -6,6 +6,7 @@ tags:
 - estate
 - fragole
 - rabarbaro
+- mandorle
 - vegan
 categories:
 - Dolce

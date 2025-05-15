@@ -3,7 +3,7 @@ title: "Spaghetti mit Tomatensugo und Mozzarella-Oliven-Augen"
 date: 2023-10-24
 tags: 
 - halloween
-- pomodoro
+- pomodori
 - pasta
 categories:
 - Salato

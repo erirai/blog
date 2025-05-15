@@ -5,6 +5,7 @@ tags:
 - pasqua
 - lievitati
 - vegan
+- colazione
 categories:
 - Dolce
 - Colazione

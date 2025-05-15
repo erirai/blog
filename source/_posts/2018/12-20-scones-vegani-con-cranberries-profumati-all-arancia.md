@@ -6,6 +6,7 @@ tags:
 - arance
 - inverno
 - vegan
+- colazione
 categories:
 - Dolce
 - "Piccola Pasticceria"

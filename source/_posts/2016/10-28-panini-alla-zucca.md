@@ -7,6 +7,7 @@ tags:
 - zucca
 - halloween
 - vegan
+- colazione
 categories:
 - Salato
 - Panificati

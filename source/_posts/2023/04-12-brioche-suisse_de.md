@@ -2,8 +2,9 @@
 title: "Brioche Suisse"
 date: 2023-04-12
 tags: 
+- lievitati
+- cioccolato
 - colazione
-- panificati
 categories:
 - Dolce
 - Panificati

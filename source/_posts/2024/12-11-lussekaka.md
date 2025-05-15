@@ -3,6 +3,7 @@ title: "Lussekaka - Torta di Natale Svedese"
 date: 2024-12-11
 tags:
 - natale
+- mandorle
 categories:
 - Dolce
 - Torte
