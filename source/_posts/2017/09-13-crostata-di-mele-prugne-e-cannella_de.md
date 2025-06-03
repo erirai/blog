@@ -108,4 +108,4 @@ Die Wähe kommt für 30-40min (für Einzelportionen reichen 15-20min) in den vor
   <font color="red">
     <i class="fa-regular fa-face-smile"></i>
   </font>
-</h4>s
+</h4>

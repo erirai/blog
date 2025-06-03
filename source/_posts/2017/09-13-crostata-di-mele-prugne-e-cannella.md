@@ -1,5 +1,5 @@
 ---
-title: "Crostata di Mele, Prugne e Cannella "
+title: "Pasta Sfoglia con Mele, Prugne e Cannella "
 date: 2017-09-13
 tags:
 - mele 
