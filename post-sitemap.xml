@@ -9,6 +9,38 @@
 
 
     <url>
+        <loc>https://frangipani.raiano.ch/2025-06-04-rhabarber-galette/</loc>
+        <lastmod>2025-06-02T14:27:41.948Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2025-06-04-galette-al-rabarbaro/</loc>
+        <lastmod>2025-06-02T13:40:04.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2017-09-13-crostata-di-mele-prugne-e-cannella/</loc>
+        <lastmod>2025-05-20T09:15:53.949Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2017-09-13-crostata-di-mele-prugne-e-cannella-de/</loc>
+        <lastmod>2025-05-20T09:13:53.291Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://frangipani.raiano.ch/2025-05-21-knuspriger-spargel-fladen/</loc>
         <lastmod>2025-05-20T08:27:49.110Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -4579,22 +4611,6 @@
     <url>
         <loc>https://frangipani.raiano.ch/2017-09-22-sbriciolata-con-crema-di-nocciole-ricotta-e-pere-de/</loc>
         <lastmod>2025-05-14T05:38:03.464Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2017-09-13-crostata-di-mele-prugne-e-cannella/</loc>
-        <lastmod>2025-05-14T05:37:31.808Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2017-09-13-crostata-di-mele-prugne-e-cannella-de/</loc>
-        <lastmod>2025-05-14T05:37:27.009Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
