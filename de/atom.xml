@@ -4,7 +4,7 @@
   
   <link href="https://frangipani.raiano.ch/de/atom.xml" rel="self"/>
   <link href="https://frangipani.raiano.ch/"/>
-  <updated>2025-06-02T14:27:41.948Z</updated>
+  <updated>2025-06-10T15:06:06.973Z</updated>
   <id>https://frangipani.raiano.ch/</id>
   
   <author>
@@ -13,6 +13,139 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title xml:lang="de">Pasta mit Zwiebeln</title>
+    <link href="https://frangipani.raiano.ch/2025-06-11-pasta-mit-zwiebeln/"/>
+    <id>https://frangipani.raiano.ch/2025-06-11-pasta-mit-zwiebeln/</id>
+    <published>2025-06-10T22:00:00.000Z</published>
+    <updated>2025-06-10T15:06:06.973Z</updated>
+    <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2025-06-11-pasta-con-la-cipolla/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Werbung: &lt;strong&gt;Pasta mit Zwiebeln&lt;/strong&gt; in Zusammenarbeit mit &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt;. Ein sehr leckeres, einfaches und easy Gericht. Es braucht nur wenige Zutaten, die wir normalerweise zu Hause haben, und mit diesen wenigen Zutaten zaubert ihr ein Märchen!&lt;/p&gt;
+&lt;p&gt;Ich weiss, viele von euch rümpfen jetzt die Nase, wenn ihr an &lt;strong&gt;Pasta mit Zwiebeln&lt;/strong&gt; denkt, aber ich empfehle euch dringend, es auszuprobieren... Ihr werdet es nicht bereuen! Ich koche Zwiebeln oft so und verwende sie als Pastasauce, für Pizza oder Focaccia, aber auch als besonderes Highlight für Burger oder Sandwiches. Seid nicht geizig, denn Zwiebeln sind wie Spinat: Einmal gekocht, sind nicht mehr viele übrig!&lt;/p&gt;
+&lt;p&gt;Dieses Rezept besteht praktisch nur aus Zutaten aus der Vorratskammer: Pasta, Zwiebeln, Tomatenmark, Lorbeerblätter, Öl, Essig, Paprika und Salz. Auf der &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt;-Website findet ihr viele sehr gute Zutaten für die Vorratskammer. Verschiedene Mehl- und Pastasorten, Reis, Müsli, Kekse, Cracker, Konserven und Eingemachtes, Öl, Essig, Gewürze... aber auch jede Menge frisches saisonales Obst und Gemüse!&lt;/p&gt;
+&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
+  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
+    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
+      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Pasta mit Zwiebeln&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Herzhaftes&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2025-06-11-pasta-con-la-cipolla/header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Pasta mit Zwiebeln, ein sehr leckeres, einfaches und easy Gericht.&lt;/span&gt;
+      &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
+      &lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;320gr&lt;/td&gt;
+            &lt;td&gt;Pasta&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;6&lt;/td&gt;
+            &lt;td&gt;grosse Zwiebeln (Gemüsezwiebeln)&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;etwas&lt;/td&gt;
+            &lt;td&gt;Olivenöl&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;2 Esslöffel&lt;/td&gt;
+            &lt;td&gt;Tomatenmark&lt;/td&gt;   
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1-2 Esslöffel&lt;/td&gt;
+            &lt;td&gt;Essig&lt;/td&gt; 
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;2&lt;/td&gt;
+            &lt;td&gt;Lorbeerblätter&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;etwas&lt;/td&gt;
+            &lt;td&gt;Paprikapulver edelsüss&lt;/td&gt; 
+           &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;etwas&lt;/td&gt;
+            &lt;td&gt;Salz&lt;/td&gt;  
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;
+      &lt;br&gt;&lt;/br&gt;
+      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot;&gt;für 4 Personen&lt;/i&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h3&gt;
+  &lt;font color=&quot;grey&quot;&gt;
+    &lt;i class=&quot;fa-solid fa-gears&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt; Zubereitung
+&lt;/h3&gt;
+
+&lt;p&gt;Die Zwiebeln rüsten und in dünne Streifen schneiden. Einen grosszügigen Schuss Öl in eine grosse Bratpfanne geben, die Zwiebeln mit einer Prise Salz hinzufügen und bei mittlerer bis hoher Hitze anbraten, bis sie weich werden. Dann Tomatenmark, Essig, Lorbeerblätter und edelsüsses Paprikapulver hinzufügen und verrühren. Zwei Gläser Wasser hinzufügen, abdecken und bei schwacher Hitze köcheln. Sobald das Wasser verdampft ist, mehr Wasser hinzufügen. Die Zwiebeln sollten sich fast auflösen. Die Kochzeit beträgt etwa eine Stunde.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2025-06-11-pasta-con-la-cipolla/cipolla1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2025-06-11-pasta-con-la-cipolla/cipolla2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Sobald die Zwiebeln gar sind, das Wasser für die Pasta zum Kochen bringen. Die Pasta ins Wasser geben, salzen und dann al dente abgiessen, dabei etwas Pastakochwasser abfangen. Die Pasta in die Pfanne mit den Zwiebeln geben, sowie auch etwas Pastawasser und verrührt alles gut. Mit geriebenem Parmesan servieren.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2025-06-11-pasta-con-la-cipolla/risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2025-06-11-pasta-con-la-cipolla/risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2025-06-11-pasta-con-la-cipolla/risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2025-06-11-pasta-con-la-cipolla/risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2025-06-11-pasta-con-la-cipolla/risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2025-06-11-pasta-con-la-cipolla/risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2025-06-11-pasta-con-la-cipolla/risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2025-06-11-pasta-con-la-cipolla/risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h4&gt;Buon appetito
+  &lt;font color=&quot;red&quot;&gt;
+    &lt;i class=&quot;fa-regular fa-face-smile&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt;
+&lt;/h4&gt;</content>
+    <summary type="html" xml:lang="de">
+    
+      &lt;p&gt;&lt;img src=&quot;../2025-06-11-pasta-con-la-cipolla/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Werbung: &lt;strong&gt;Pasta mit Zwiebeln&lt;/strong&gt;
+    
+    </summary>
+    
+      <category term="Salato" scheme="https://frangipani.raiano.ch/categories/Salato/"/>
+    
+      <category term="Primi Piatti" scheme="https://frangipani.raiano.ch/categories/Salato/Primi-Piatti/"/>
+    
+    
+      <category term="vegan" scheme="https://frangipani.raiano.ch/tags/vegan/"/>
+    
+      <category term="pasta" scheme="https://frangipani.raiano.ch/tags/pasta/"/>
+    
+  </entry>
   
   <entry>
     <title xml:lang="de">Rhabarber-Galette</title>
@@ -3219,175 +3352,6 @@ Zwei Würstchen mit einem Durchmesser von ca. 4cm formen. Auf einem Backblech od
       <category term="natale" scheme="https://frangipani.raiano.ch/tags/natale/"/>
     
       <category term="arance" scheme="https://frangipani.raiano.ch/tags/arance/"/>
-    
-  </entry>
-  
-  <entry>
-    <title xml:lang="de">Sizilianische Hartweizengriess-Brötchen (Mafalde Siciliane)</title>
-    <link href="https://frangipani.raiano.ch/2024-11-20-sizilianische-hartweizengriess-brotchen/"/>
-    <id>https://frangipani.raiano.ch/2024-11-20-sizilianische-hartweizengriess-brotchen/</id>
-    <published>2024-11-19T23:00:00.000Z</published>
-    <updated>2025-05-15T09:35:44.184Z</updated>
-    <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;../2024-11-20-mafalde-siciliane/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sizilianische Hartweizengriess-Brötchen (Mafalde Siciliane)&lt;/strong&gt; sehr fluffige Brötchen aus Hartweizengriessmehl, bedeckt mit Sesam. Diese Brötchen sind typisch für die sizilianische Küche und aufgrund des Sesams sicherlich auch von der arabischen Kultur beeinflusst.
-&lt;br /&gt;
-Sie sind innen weich und aussen knusprig. Sie duften sehr stark, sowohl wegen des Griessmehls, aber vor allem wegen des Sesams. Diese Brötchen gibt es praktisch bei jedem Bäcker, zumindest dort, wo ich herkomme in Sizilien.&lt;/p&gt;
-&lt;p&gt;Sie sind super vielseitig, denn sie sind die perfekten Brötchen zum Füllen mit Panelle oder Kartoffelbällchen (Crocchè), aber auch einfach mit Käse, Gemüse, Aufschnitt... oder als Snack mit Haselnusscreme. Ich habe diese Dinge nicht zufällig ausgewählt, tatsächlich habe so viele Erinnerungen, die mit diesen Brötchen verbunden sind...
-&lt;br /&gt;
-Es sind die Brötchen, die mein Onkel immer in der Bäckerei Spasciamaronna kaufte, weil sie dort besser waren, und die wir dann alle zusammen mit Panelle und/oder Kartoffelbällchen gefüllt assen. Ja, weil wir sie Kartoffelbällchen nennen, nicht Crocchè. Eine Kohlenhydratenbombe, aber niemand interessierte es, denn es gibt kaum etwas leckereres als diese Brötchen.
-&lt;br /&gt;
-Es sind die Brötchen, die meine Grosseltern beim Bäcker kauften, der mit seinem kleinen weissen Lieferwagen durch die Strassen fuhr. Dieser kleine Lieferwagen, der jedes Mal nach Gutem roch, wenn er die Türen öffnete. Anschliessend assen wir diese Brötchen zum z&amp;#39;Vieri halbiert mit einer grosszügigen Schicht Haselnusscreme. Diese Haselnusscreme, die es in Gläsern mit Trickfilm-Bildern gab (meine Grosseltern hatten ein ganzes Set dieser Gläser) und die in Italien schon immer viel besser geschmeckt hat als hier...
-&lt;br /&gt;
-Es sind die Brötchen, die einen bitteren Nachgeschmack hatten, weil es die Sandwiches waren, die wir auf der Rückreise im Zug assen, nachdem wir 5 Wochen in Sizilien verbracht hatten. Diese Brötchen wurden meistens mit Schinken und  Provola-Käse-Scheiben belegt.&lt;/p&gt;
-&lt;p&gt;Ich wollte diese &lt;strong&gt;Mafalde Siciliane&lt;/strong&gt; schon lange machen, aber naja... Ich bin so glücklich, sie gemacht zu haben, weil sie viele schöne Erinnerungen geweckt haben. Sie waren gut, aber es war nicht dasselbe... es könnte an der Meerluft liegen, an der fehlenden Gesellschaft oder am Bewusstsein, dass dieser z&amp;#39;Vieri nie wieder so schmecken wird wie zuvor.&lt;/p&gt;
-&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
-  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
-    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
-      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Sizilianische Hartweizengriess-Brötchen (Mafalde Siciliane)&lt;/span&gt;
-      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Herzhaftes&lt;/span&gt;
-      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2024-11-20-mafalde-siciliane/header.jpeg&quot;/&gt;
-      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
-      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Kartoffel-Pilz-Suppe, super lecker und wärmend, genau das, was man bei dieser Kälte braucht.&lt;/span&gt;
-      &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
-      &lt;table&gt;
-        &lt;tbody&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;500gr&lt;/td&gt;
-            &lt;td&gt;Hartweizengriessmehl (Knöpfli-/Pastamehl)&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;2 Teelöffel&lt;/td&gt;
-            &lt;td&gt;Salz&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;300ml&lt;/td&gt;
-            &lt;td&gt;Wasser&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 Teelöffel&lt;/td&gt;
-            &lt;td&gt;Honig&lt;/td&gt;     
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;2gr&lt;/td&gt;
-            &lt;td&gt;frische Hefe&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;50gr&lt;/td&gt;
-            &lt;td&gt;Olivenöl&lt;/td&gt;
-           &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;etwas&lt;/td&gt;
-            &lt;td&gt;Sesam&lt;/td&gt;  
-          &lt;/tr&gt;
-        &lt;/tbody&gt;
-      &lt;/table&gt;
-      &lt;br&gt;&lt;/br&gt;
-      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot;&gt;für 8 Brötchen&lt;/i&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;h3&gt;
-  &lt;font color=&quot;grey&quot;&gt;
-    &lt;i class=&quot;fa-solid fa-gears&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt; Zubereitung
-&lt;/h3&gt;
-
-&lt;p&gt;Griessmehl und Salz in die Küchenmaschine geben und mischen. Honig und Hefe im Wasser auflösen und zum Griessmehl geben, zuletzt das Öl hinzufügen. Alles kneten, bis sich der Teig vom Schüsselrand löst. Eine Kugel formen, abdecken und etwa 2h aufgehen lassen. Sobald ersichtlich ist, dass er anfängt aufzugehen, den Teig kurz falten und weitere 2h aufgehen lassen. Dann den Teig über Nacht in den Kühlschrank ruhen lassen (Dieser ganze Vorgang dient dazu, den Teig &amp;quot;reifen“ zu lassen, wodurch die Brötchen weicher werden. Wenn ihr nicht diese ganze Zeit habt, erhöht die Menge der Hefe und lasst den Teig aufgehen, bis sich sein Volumen verdoppelt hat und fahrt dann mit dem Formen der Brötchen fort).
-&lt;br /&gt;
-Am nächsten Tag den Teig aus dem Kühlschrank nehmen und 2h bei Zimmertemperatur ruhen lassen. Den Teig in 8 gleiche Teile teilen, abdecken und einen Moment ruhen lassen, damit sich der Teig entspannt. Ein Stück Teig nehmen und der Länge nach mit den Händen flach drücken. Dann auf einer Seite beginnen den Teig zu einer kleinen Rolle einzurollen. Mit allen Teigstücken wiederholen, abdecken und eine halbe Stunde ruhen lassen.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2024-11-20-mafalde-siciliane/pieghe.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2024-11-20-mafalde-siciliane/fagottini.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Eine kleine Rolle nehmen und eine lange Wurst formen. Beginnt die Wurst S-Förmig zu schlängeln und dann das Ende der Wurst über die gesamte Form zu legen. Dies mit allen Rollen wiederholen.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2024-11-20-mafalde-siciliane/salsicciotto.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2024-11-20-mafalde-siciliane/mafalde1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2024-11-20-mafalde-siciliane/mafalde2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2024-11-20-mafalde-siciliane/mafalde3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Etwas Sesam in einen Teller geben, die Oberfläche der Brötchen mit Wasser bestreichen und die feuchte Seite der Brötchen in den Sesam drücken. Brötchen mit genug Abstand auf ein mit Backpapier belegtes Blech legen, abdecken und 1h aufgehen lassen.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2024-11-20-mafalde-siciliane/sesamo.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2024-11-20-mafalde-siciliane/teglia.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Ofen auf 200°C Ober- und Unterhitze vorheizen und die &lt;strong&gt;Mafalde Siciliane&lt;/strong&gt; im mittleren Teil Ofens 20–25min lang backen oder bis sie goldbraun (aber nicht verbrannt) sind. Sie eignen sich hervorragend zum Füllen mit Panelle oder Kartoffelbällchen (Crocché), aber auch mit Haselnusscreme...&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2024-11-20-mafalde-siciliane/risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2024-11-20-mafalde-siciliane/risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2024-11-20-mafalde-siciliane/risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2024-11-20-mafalde-siciliane/risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2024-11-20-mafalde-siciliane/risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2024-11-20-mafalde-siciliane/risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2024-11-20-mafalde-siciliane/risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2024-11-20-mafalde-siciliane/risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;h4&gt;Buon appetito
-  &lt;font color=&quot;red&quot;&gt;
-    &lt;i class=&quot;fa-regular fa-face-smile&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt;
-&lt;/h4&gt;</content>
-    <summary type="html" xml:lang="de">
-    
-      &lt;p&gt;&lt;img src=&quot;../2024-11-20-mafalde-siciliane/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Sizilianische Hartweizengriess-Brötchen
-    
-    </summary>
-    
-      <category term="Salato" scheme="https://frangipani.raiano.ch/categories/Salato/"/>
-    
-      <category term="Panificati" scheme="https://frangipani.raiano.ch/categories/Salato/Panificati/"/>
-    
-    
-      <category term="vegan" scheme="https://frangipani.raiano.ch/tags/vegan/"/>
-    
-      <category term="colazione" scheme="https://frangipani.raiano.ch/tags/colazione/"/>
-    
-      <category term="lievitati" scheme="https://frangipani.raiano.ch/tags/lievitati/"/>
-    
-      <category term="ricette siciliane" scheme="https://frangipani.raiano.ch/tags/ricette-siciliane/"/>
     
   </entry>
   
