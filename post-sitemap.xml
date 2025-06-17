@@ -9,8 +9,16 @@
 
 
     <url>
-        <loc>https://frangipani.raiano.ch/2025-06-11-pasta-mit-zwiebeln/</loc>
-        <lastmod>2025-06-10T15:06:06.973Z</lastmod>
+        <loc>https://frangipani.raiano.ch/2025-06-18-grillierte-spargeln-mit-frischen-tomaten-auf-ricottacreme/</loc>
+        <lastmod>2025-06-17T19:58:30.920Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2025-06-18-asparagi-arrosto-con-pomodori-freschi-su-crema-di-ricotta/</loc>
+        <lastmod>2025-06-17T19:30:58.395Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -18,7 +26,15 @@
 
     <url>
         <loc>https://frangipani.raiano.ch/2025-06-11-pasta-con-la-cipolla/</loc>
-        <lastmod>2025-06-03T07:09:58.710Z</lastmod>
+        <lastmod>2025-06-17T18:46:25.560Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2025-06-11-pasta-mit-zwiebeln/</loc>
+        <lastmod>2025-06-10T15:06:06.973Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
