@@ -25,7 +25,7 @@ Questa ricetta è fatta praticamente solo con ingredienti da dispensa: pasta, ci
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
       <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
-      <span itemprop="description" style="display:none;">Pasta con la Cipolla, un piatto saporitissimo, povero e facilissimo da cucinare. </span>
+      <span itemprop="description" style="display:none;">Pasta con la Cipolla, un piatto saporitissimo, povero e facilissimo da cucinare.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
