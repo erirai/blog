@@ -14,10 +14,10 @@ lang: de
 ![](../2025-07-02-peperoni-in-agrodolce/header.jpeg "frangipani © Erica")
 
 **Peperoni Süss-Sauer** eine vielseitige Sommerbeilage, die ihr lieben werdet! Serviert sie auf geröstetem Brot mit Burrata, als Beilage zum Grillen, als Beilage für einen Veggie-Burger oder Burrito (diese Peperoni passen hervorragend zu Bohnen) oder mit Pasta, warm oder kalt... Ihr seht, es gibt unzählige Möglichkeiten!
+<br />
+Ich bereite Peperoni sehr oft so zu, weil wir sie alle vier mögen. Es braucht etwas Geduld, da das Kochen ziemlich lange dauert, aber es lohnt sich absolut.
 
-Ich bereite Peperonbi sehr oft so zu, weil wir sie alle vier mögen. Es braucht etwas Geduld, da das Kochen ziemlich lange dauert, aber es lohnt sich absolut.
-
-Wenn es um süss-sauer geht, sind Peproni meiner Meinung nach ein Muss! Verwendet grosse Peperoni, damit geht es schneller, und ich empfehle keine bitteren grünen. Mischt rote, orange und gelbe Peperoni für ein super buntes Ergebnis. Und vergesst nicht das frische Basilikum zum Schluss, das gibt den letzten Kick!
+Wenn es um süss-sauer geht, sind Peperoni meiner Meinung nach ein Muss! Verwendet grosse Peperoni, damit geht es schneller, und ich empfehle keine bitteren grünen. Mischt rote, orange und gelbe Peperoni für ein super buntes Ergebnis. Und vergesst nicht das frische Basilikum zum Schluss, das gibt den letzten Kick!
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">

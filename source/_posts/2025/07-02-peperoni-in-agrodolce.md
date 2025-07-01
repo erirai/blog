@@ -13,7 +13,7 @@ lang: it
 ---
 ![](header.jpeg "frangipani © Erica")
 
-**Peperoni in Agrodolce** un contorno o un condimento estivo molto versatile che amerete! Servitelo su dei crostoni di pane con della burrata, come contorno durante una grigliata, come condimento per un burger vegetale o un burrito (con i fagioli questi peperoni stanno benissimo) o come condimento per la pasta, sia calda che fredda... Come vedete, le idee non mancano!
+**Peperoni in Agrodolce** un contorno o un condimento estivo molto versatile che amerete! Servitelo su dei crostoni di pane con della Burrata, come contorno durante una grigliata, come condimento per un Burger vegetale o un Burrito (con i fagioli questi peperoni stanno benissimo) o come condimento per la pasta, sia calda che fredda... Come vedete, le idee non mancano!
 <br />
 Li preparo veramente spesso così i peperoni, perché piacciono a tutti e quattro. Ci vuole un pochino di pazienza perché la cottura è abbastanza lunga, ma ne vale assolutamente la pena. 
 
