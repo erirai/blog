@@ -10,12 +10,12 @@ categories:
 label: 2024-04-10-pasta-con-sugo-al-pomodoro-e-burrata
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2024-04-10-pasta-con-sugo-al-pomodoro-e-burrata/header.jpeg "frangipani © Erica")
 
 Pubblicità: **Pasta con Sugo al Pomodoro e Burrata** in collaborazione con <a href="https://www.farmy.ch" target="_blank">Farmy</a>. Un piatto di pasta semplicissimo, ma di grande effetto! Pochissimi ingredienti, ma buoni. Minimo sforzo, massima resta.
 <br />
 Per questo tipo di ricetta vi consiglio di usare i Rigatoni, i Tortiglioni o i Paccheri e comprate delle Burratine o Burrate di qualità!
-![](spesa.jpeg "frangipani © Erica")
+![](../2024-04-10-pasta-con-sugo-al-pomodoro-e-burrata/spesa.jpeg "frangipani © Erica")
 
 Abbiamo mangiato questo piatto con i Paccheri più di un anno fa ad un battesimo. Nel piatto doveva esserci anche il prosciutto crudo, ma a noi ovviamente non lo avevano messo... Sono rimasta sorpresa dalla semplicità e la bontà di questo piatto e mi sono chiesta: Perché non ci sei arrivata tu?! Non è altro che un piatto di pasta col sugo con l'aggiunta della Burrata. Ed è la burrata che fa la differenza! Era troppo buono e volevo replicare la ricetta.
 <br />
@@ -35,7 +35,7 @@ Ecco, con queste piccole accortezze non possiamo sbagliare e possiamo goderci un
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Pasta con Sugo al Pomodoro e Burrata</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2024-04-10-pasta-con-sugo-al-pomodoro-e-burrata/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Pasta con Sugo al Pomodoro e Burrata, un piatto di pasta semplicissimo, ma di grande effetto! Pochissimi ingredienti, ma buoni. Minimo sforzo, massima resta.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -89,8 +89,8 @@ Tagliate finemente la cipolla e fatela rosolare in una pentola con un filo d'oli
 Portate ad ebollizione abbondante acqua, buttate la pasta e salate. Una volta cotta scolate la pasta e conditela con il sugo, lasciandone da parte un pochino da mettere dopo nel piatto sopra alla pasta.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="sugo.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="pasta.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-04-10-pasta-con-sugo-al-pomodoro-e-burrata/sugo.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-04-10-pasta-con-sugo-al-pomodoro-e-burrata/pasta.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -98,32 +98,32 @@ Portate ad ebollizione abbondante acqua, buttate la pasta e salate. Una volta co
 Impiattate, mettete un pochino di sugo sulla pasta e poi prendete una Burratina o mezza Burrata ed adagiatela sulla pasta.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-04-10-pasta-con-sugo-al-pomodoro-e-burrata/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-04-10-pasta-con-sugo-al-pomodoro-e-burrata/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-04-10-pasta-con-sugo-al-pomodoro-e-burrata/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-04-10-pasta-con-sugo-al-pomodoro-e-burrata/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-04-10-pasta-con-sugo-al-pomodoro-e-burrata/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-04-10-pasta-con-sugo-al-pomodoro-e-burrata/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-04-10-pasta-con-sugo-al-pomodoro-e-burrata/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-04-10-pasta-con-sugo-al-pomodoro-e-burrata/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

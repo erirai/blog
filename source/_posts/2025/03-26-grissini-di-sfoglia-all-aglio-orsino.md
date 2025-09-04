@@ -12,7 +12,7 @@ categories:
 label: 2025-03-26-grissini-di-sfoglia-all-aglio-orsino
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2025-03-26-grissini-di-sfoglia-all-aglio-orsino/header.jpeg "frangipani © Erica")
 
 Pubblicità: **Grissini di Sfoglia all'Aglio Orsino** in collaborazione con <a href="https://www.farmy.ch" target="_blank">Farmy</a>. Dei sfiziosi grissini di pasta sfoglia farciti con una deliziosa crema di ricotta, noci e aglio orsino. Sono facilissimi da preparare e adattabili ai propri gusti.
 <br />
@@ -27,7 +27,7 @@ Sperando che l'inverno sia passato finalmente e che ritorni la stagione degli ap
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Grissini di Sfoglia all'Aglio Orsino</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2025-03-26-grissini-di-sfoglia-all-aglio-orsino/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Grissini di Sfoglia all'Aglio Orsino, dei sfiziosi grissini di pasta sfoglia farciti con una deliziosa crema di ricotta, noci e aglio orsino.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -81,8 +81,8 @@ Fate scolare la ricotta, mettetela in una ciotola e aggiungete le noci, l'aglio 
 Srotolate il rotolo di pasta sfoglia e spalmate la crema di ricotta su metà della sfoglia. Chiudete la sfoglia, cospargete la superficie con del sesamo nero (o bianco) e fate una leggera pressione per far aderire il sesamo.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="crema.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="sfoglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-03-26-grissini-di-sfoglia-all-aglio-orsino/crema.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-03-26-grissini-di-sfoglia-all-aglio-orsino/sfoglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -90,8 +90,8 @@ Srotolate il rotolo di pasta sfoglia e spalmate la crema di ricotta su metà del
 Con una rotellina o un coltello ritagliate tante strisce larghe 1.5cm circa e attorcigliate/avvitate ogni striscia su se stessa per formare delle spirali. Disponete tutto su di una teglia con sotto della carta forno, non metteteli troppo vicini.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="grissini.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-03-26-grissini-di-sfoglia-all-aglio-orsino/grissini.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-03-26-grissini-di-sfoglia-all-aglio-orsino/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -99,40 +99,40 @@ Con una rotellina o un coltello ritagliate tante strisce larghe 1.5cm circa e at
 Infornate i **Grissini di Sfoglia all'Aglio Orsino** nel forno preriscaldato a 220°C statico per 15min circa o fino a doratura. Mangiati ancora caldi o tiepidi sono il massimo, ma anche freddi vanno più che bene.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-03-26-grissini-di-sfoglia-all-aglio-orsino/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-03-26-grissini-di-sfoglia-all-aglio-orsino/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-03-26-grissini-di-sfoglia-all-aglio-orsino/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-03-26-grissini-di-sfoglia-all-aglio-orsino/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-03-26-grissini-di-sfoglia-all-aglio-orsino/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-03-26-grissini-di-sfoglia-all-aglio-orsino/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-03-26-grissini-di-sfoglia-all-aglio-orsino/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-03-26-grissini-di-sfoglia-all-aglio-orsino/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-03-26-grissini-di-sfoglia-all-aglio-orsino/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-03-26-grissini-di-sfoglia-all-aglio-orsino/risultato10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

@@ -12,7 +12,7 @@ categories:
 - Biscotti
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2014-12-04-baci-di-dama-al-cioccolato/header.jpeg "frangipani © Erica")
 
 E finiamo la sessione di biscotti di oggi con un classico: Baci di Dama! Sono troppo buoni e la cioccolosità è anche stata approvata da mio marito. Mamma che buoni...
 
@@ -82,8 +82,8 @@ Mettete tutti gli ingredienti asciutti in una ciotola e mescolate il tutto con l
 Dopo un'ora uscite l'impasto dal frigo tagliate dei pezzetti da 8gr e formate delle palline. È un po' una scocciatura pesare tutte le palline ma solo in questo modo avrete dei Baci di Dama tutti uguali. Mettete le palline su di una teglia con sotto della carta forno.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="impasto.jpg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-12-04-baci-di-dama-al-cioccolato/impasto.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-12-04-baci-di-dama-al-cioccolato/teglia.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -93,8 +93,8 @@ Ora mettete la teglia con le palline in frigo per mezz'oretta e poi infornateli 
 Quando i biscotti saranno completamente freddi fate sciogliere a Bagnomaria il cioccolato fondente e mettete su metà dei biscotti un po' di cioccolato sciolto.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="sfornati.jpg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="farcire.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-12-04-baci-di-dama-al-cioccolato/sfornati.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-12-04-baci-di-dama-al-cioccolato/farcire.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -102,18 +102,18 @@ Quando i biscotti saranno completamente freddi fate sciogliere a Bagnomaria il c
 A questo punto fate rassodare un pochettino il cioccolato, in modo che non esca tutto dai lati. Dopo qualche minuto ricoprite con un altro biscotto solamente appoggiandolo, senza premere. Fate in modo che siano tutti belli dritti e mettete in frigo per fare asciugare velocemente il cioccolato.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-12-04-baci-di-dama-al-cioccolato/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-12-04-baci-di-dama-al-cioccolato/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato3.jpeg "frangipani © Erica")
+![](../2014-12-04-baci-di-dama-al-cioccolato/risultato3.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-12-04-baci-di-dama-al-cioccolato/risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-12-04-baci-di-dama-al-cioccolato/risultato5.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

@@ -10,7 +10,7 @@ categories:
 label: 2024-02-07-migliaccio-napoletano
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2024-02-07-migliaccio-napoletano/header.jpeg "frangipani © Erica")
 
 **Migliaccio Napoletano** un dolce di carnevale della tradizione napoletana fatto a base di semolino. Per questo ha questa fantastica consistenza cremosa. Gli ingredienti sono pochi e semplici come latte, uova, burro, semolino e ricotta. In più si aggiungono gli odori che lo rendono profumatissimo come vaniglia, limone e arancia. Come profumi mi ricorda molto anche la Pastiera Napoletana, ma anche il ripieno delle Sfogliatelle che io ADORO!
 <br />
@@ -27,7 +27,7 @@ Fatemi scrivere un'ultima cosa... Benvenuto Febbraio! Benvenuto ultimo mese inve
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Migliaccio Napoletano</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2024-02-07-migliaccio-napoletano/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Migliaccio Napoletano, un dolce di carnevale della tradizione napoletana fatto a base di semolino.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -97,44 +97,44 @@ In un pentolino capiente versate il latte, l'acqua, 50gr di zucchero, il burro, 
 In una coppa a parte montate le uova con il resto dello zucchero ed i semi dell'altra metà della bacca di vaniglia. Montate il tutto finché risulterà bello chiaro, voluminoso e spumoso. A questo punto aggiungete la ricotta e le scorze grattugiate del resto dell'arancia e del limone e mescolate bene per incorporare bene il tutto.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="semolino.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="impasto.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-02-07-migliaccio-napoletano/semolino.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-02-07-migliaccio-napoletano/impasto.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 Poco alla volta aggiungete la crema di semolino incorporandola bene nel composto di uova. Versate il composto in una teglia imburrata ed infarinata.
-![](teglia.jpeg "frangipani © Erica")
+![](../2024-02-07-migliaccio-napoletano/teglia.jpeg "frangipani © Erica")
 
 Infornate il **Migliaccio Napoletano** nel forno preriscaldato a 180°C ventilato per circa 1h, se verso la fine vedete che la superficie prende troppo colore, coprite con un foglio di carta d'alluminio. La durata della cottura dipende anche dallo spessore del Migliaccio, quindi tenetela sotto controllo. Fatela raffreddare completamente nella teglia prima di uscirla. Prima di servirla, finite con una bella spolverata di zucchero a velo. Conservatela in frigo.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-02-07-migliaccio-napoletano/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-02-07-migliaccio-napoletano/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-02-07-migliaccio-napoletano/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-02-07-migliaccio-napoletano/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-02-07-migliaccio-napoletano/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-02-07-migliaccio-napoletano/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-02-07-migliaccio-napoletano/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-02-07-migliaccio-napoletano/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

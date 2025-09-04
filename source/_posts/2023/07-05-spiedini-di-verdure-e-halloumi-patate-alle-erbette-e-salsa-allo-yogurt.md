@@ -18,12 +18,12 @@ categories:
 label: 2023-07-05-spiedini-di-verdure-e-halloumi-con-patate-alle-erbette-e-salsa-allo-yogurt
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2023-07-05-spiedini-di-verdure-e-halloumi-patate-alle-erbette-e-salsa-allo-yogurt/header.jpeg "frangipani © Erica")
 
 Pubblicità: **Spiedini di Verdure e Halloumi, Patate alle Erbette e Salsa allo Yogurt** in collaborazione con <a href="https://www.farmy.ch" target="_blank">Farmy</a>. Ecco una ricetta estiva perfetta per noi vegetariani o vegani per una buona grigliata. Ma non solo per noi ovviamente, perché gli spiedini di verdure piacciono a molti e sono un'ottimo contorno per le grigliate estive. Per non parlare delle patate al forno o sulla brace che sono una delle cose più buone al mondo. La salsa allo yogurt in questo caso sta bene sia con le verdure che con le patate, a noi piace tantissimo!
 
 Ma vogliamo parlare della comodità di ordinare la spesa da <a href="https://www.farmy.ch" target="_blank">Farmy</a> che poi arriva direttamente a casa? Con queste belle giornate abbiamo di meglio da fare. Vi arriverà a casa frutta e verdura freschissima, di stagione e quasi sempre locale. Questa volta ho ordinato tutto quello che mi serviva per preparare questa ricetta. Ovvero: Halloumi (o Tofu per i vegani), peperoni, zucchine, melanzane, pomodorini, patate e yogurt. 
-![](spesa.jpeg "frangipani © Erica")
+![](../2023-07-05-spiedini-di-verdure-e-halloumi-patate-alle-erbette-e-salsa-allo-yogurt/spesa.jpeg "frangipani © Erica")
 
 Le erbette aromatiche le ho raccolte fresche in giardino, ma se voi non ne avete, le potete anche ordinare su <a href="https://www.farmy.ch" target="_blank">Farmy</a> a mazzolini o direttamente le piantine. 
 
@@ -36,7 +36,7 @@ Ma andate a dare un'occhiata su <a href="https://www.farmy.ch" target="_blank">F
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Spiedini di Verdure e Halloumi con Patate alle Erbette e Salsa allo Yogurt</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2023-07-05-spiedini-di-verdure-e-halloumi-patate-alle-erbette-e-salsa-allo-yogurt/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Spiedini di Verdure e Halloumi con Patate alle Erbette e Salsa allo Yogurt, una ricetta estiva perfetta per noi vegetariani o vegani per una buona grigliata.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -111,8 +111,8 @@ Mettete in un mortaio (o nel frullatore ad immersione) olio, erbette aromatiche 
 Mentre le patate e gli spiedini cuociono, preparate la salsa allo yogurt. Quindi mescolate lo yogurt con erbette tagliate finemente, succo di limone, olio evo e sale (se volete aggiungete anche aglio fresco o in polvere). Tenete in frigo finché vi servirà.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="patate.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="spiedini.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-07-05-spiedini-di-verdure-e-halloumi-patate-alle-erbette-e-salsa-allo-yogurt/patate.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-07-05-spiedini-di-verdure-e-halloumi-patate-alle-erbette-e-salsa-allo-yogurt/spiedini.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -120,21 +120,21 @@ Mentre le patate e gli spiedini cuociono, preparate la salsa allo yogurt. Quindi
 Quando sfornate le patate e gli spiedini, aggiustate di sale e servite!
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-07-05-spiedini-di-verdure-e-halloumi-patate-alle-erbette-e-salsa-allo-yogurt/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-07-05-spiedini-di-verdure-e-halloumi-patate-alle-erbette-e-salsa-allo-yogurt/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-07-05-spiedini-di-verdure-e-halloumi-patate-alle-erbette-e-salsa-allo-yogurt/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-07-05-spiedini-di-verdure-e-halloumi-patate-alle-erbette-e-salsa-allo-yogurt/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
-![](risultato5.jpeg "frangipani © Erica")
+![](../2023-07-05-spiedini-di-verdure-e-halloumi-patate-alle-erbette-e-salsa-allo-yogurt/risultato5.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

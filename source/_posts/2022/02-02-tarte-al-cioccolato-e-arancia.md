@@ -14,7 +14,7 @@ categories:
 label: 2022-02-02-tarte-al-cioccolato-e-arancia
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2022-02-02-tarte-al-cioccolato-e-arancia/header.jpeg "frangipani © Erica")
 
 **Tarte al Cioccolato e Arancia** con la cremosità della Ganache, la freschezza dell'arancia e la croccantezza della frolla al cacao. Un'esplosione di gusti che insieme armonizzano perfettamente.
 <br />
@@ -33,7 +33,7 @@ Vedo tantissimi dolci fatti con fragole, lamponi ma febbraio non è periodo di f
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Tarte al Cioccolato e Arancia</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2022-02-02-tarte-al-cioccolato-e-arancia/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Tarte al Cioccolato e Arancia con la cremosità della Ganache, la freschezza dell'arancia e la croccantezza della frolla al cacao. Un'esplosione di gusti che insieme armonizzano perfettamente.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -114,15 +114,15 @@ Vedo tantissimi dolci fatti con fragole, lamponi ma febbraio non è periodo di f
 Preparate la frolla: mescolare prima tutti gli ingredienti asciutti, poi aggiungere il burro a pezzettini e iniziate ad impastare sbriciolando il burro rendendo il tutto sabbioso. A questo punto aggiungete l'uovo ed impastate velocemente finché avrete un panetto liscio ed omogeneo. Formate un panetto rettangolare, avvolgetelo nella pellicola trasparente e fate riposare in frigo per 1-2h.
 <br />
 Nel frattempo preparate la crema all'arancia: in un pentolino mettete il succo d'arancia, poi aggiungete l'amido e lo zucchero. Mescolate bene eliminando tutti i grumi, poi accendete il fornello a temperatura media. Sempre mescolando fate addensare bene la crema. Togliete dai fornelli e fate raffreddare completamente.
-![](cremaarancia.jpeg "frangipani © Erica")
+![](../2022-02-02-tarte-al-cioccolato-e-arancia/cremaarancia.jpeg "frangipani © Erica")
 
 Uscite dal frigo la frolla e con un matterello stendetela fino ad uno spessore di 3mm aiutandovi con poca farina. Rivestite la teglia (meglio con fondo removibile) e aggiustate bene i bordi. Bucherellate il fondo con una forchetta, coprite con carta forno e sopra dei ceci o quello che avete per la cottura alla cieca. Infornate nel forno preriscaldato ventilato a 180°C per 30min, dopo 15min togliete la carta ed i ceci, terminate la cottura. Sfornate e fate raffreddare completamente.
 <br />
 Stendete l'impasto avanzato fino ad uno spessore di 3mm e fate dei biscotti a forma di cuori di diverse dimensioni, poi cuocete sempre a 180°C ventilato per 12min.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="tegliainbianco.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-02-02-tarte-al-cioccolato-e-arancia/teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-02-02-tarte-al-cioccolato-e-arancia/tegliainbianco.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -130,8 +130,8 @@ Stendete l'impasto avanzato fino ad uno spessore di 3mm e fate dei biscotti a fo
 Adesso preparate la Ganache: tritate 230gr cioccolato e mettete in una ciotola. Riscaldate la panna arrivando quasi a bollore. Versate la panna bollente nella coppa con il cioccolato e mescolate finché il cioccolato sarà completamente sciolto. Fate raffreddare, ma non indurire, la Ganache poi con le fruste elettriche montatela rendendola più gonfia e cremosa, ma comunque ferma e soda. Passate la Ganache in una sacca da pasticcere con la bocchetta che preferite, io ho scelto questa:
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="ganache.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="bocchetta.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-02-02-tarte-al-cioccolato-e-arancia/ganache.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-02-02-tarte-al-cioccolato-e-arancia/bocchetta.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -139,8 +139,8 @@ Adesso preparate la Ganache: tritate 230gr cioccolato e mettete in una ciotola. 
 Prendete il guscio di frolla e spennellate tutta la base ed i bordi con i restanti 20gr di cioccolato sciolto e fate asciugare bene. Spalmate su tutta la base la crema all'arancia (se avete scelto una teglia piccolina, magari non vi servirà tutta, la stessa cosa vale per la Ganache). Poi tocca alla Ganache, scegliete voi come metterla, come più vi piace.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="cioccolato.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="tarte.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-02-02-tarte-al-cioccolato-e-arancia/cioccolato.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-02-02-tarte-al-cioccolato-e-arancia/tarte.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -148,45 +148,45 @@ Prendete il guscio di frolla e spennellate tutta la base ed i bordi con i restan
 Decorate **Tarte al Cioccolato e Arancia** con i biscotti cuoricini e servitela a temperatura ambiente.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-02-02-tarte-al-cioccolato-e-arancia/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-02-02-tarte-al-cioccolato-e-arancia/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-02-02-tarte-al-cioccolato-e-arancia/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-02-02-tarte-al-cioccolato-e-arancia/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-02-02-tarte-al-cioccolato-e-arancia/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-02-02-tarte-al-cioccolato-e-arancia/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-02-02-tarte-al-cioccolato-e-arancia/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-02-02-tarte-al-cioccolato-e-arancia/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-02-02-tarte-al-cioccolato-e-arancia/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-02-02-tarte-al-cioccolato-e-arancia/risultato10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato11.jpeg "frangipani © Erica")
+![](../2022-02-02-tarte-al-cioccolato-e-arancia/risultato11.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

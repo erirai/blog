@@ -13,7 +13,7 @@ categories:
 label: 2022-11-16-tarte-flambee-con-zucca-e-funghi
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2022-11-16-tarte-flambee-con-zucca-e-funghi/header.jpeg "frangipani © Erica")
 
 **Tarte Flambée con Zucca e Funghi** una ricetta salvacena facile e veloce. Croccante al punto giusto, tanto gustosa e saporita. Come base c`è un'impasto vegano che non ha bisogno di lievitare. Per farcirla ho usato crème fraîche, che in Italia magari trovate come panna acida o in alternativa va bene anche lo yogurt bianco, del formaggio spalmabile o un'alternativa vegetale per la versione vegana. Poi ho messo zucca, funghi e cipolla a fettine. Tutto qui!
 <br />
@@ -28,7 +28,7 @@ E pensare che ho scoperto la Tarte Flambée solo 3 o 4 anni fa. La provai la pri
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Tarte Flambée con Zucca e Funghi</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2022-11-16-tarte-flambee-con-zucca-e-funghi/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Tarte Flambée con Zucca e Funghi, una ricetta salvacena facile e veloce. Croccante al punto giusto, tanto gustosa e saporita.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -107,8 +107,8 @@ Per prima cosa preparate l'impasto: in una ciotola mettete la farina ed il sale 
 Passato il tempo necessario, stendete l'impasto aiutandovi con un matterello. Dovrete ottenere un rettangolo sottile grande quanto una teglia da forno. Adagiate il rettangolo sulla teglia con sotto della carta forno e iniziate a farcire la Tarte Flambée... Spalmate la crème fraîche (o panna acida, yogurt bianco, formaggio spalmabile, alternativa vegetale) sull'impasto lasciando un bordo sottile. Tagliate la zucca a fettine sottili e distribuitele bene sulla crème fraîche, tagliate a fettine sottili anche i funghi e la cipolla e distribuite bene anche loro. Salate il tutto, mettete una spolverata di timo e un filo d'olio.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="impasto.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-11-16-tarte-flambee-con-zucca-e-funghi/impasto.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-11-16-tarte-flambee-con-zucca-e-funghi/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -118,24 +118,24 @@ Infornate la **Tarte Flambée con Zucca e Funghi** nel forno preriscaldato a 200
 Accompagnatela con una buona zuppa o una bella insalatona... ma è ottima anche come aperitivo!
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-11-16-tarte-flambee-con-zucca-e-funghi/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-11-16-tarte-flambee-con-zucca-e-funghi/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-11-16-tarte-flambee-con-zucca-e-funghi/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-11-16-tarte-flambee-con-zucca-e-funghi/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-11-16-tarte-flambee-con-zucca-e-funghi/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-11-16-tarte-flambee-con-zucca-e-funghi/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

@@ -12,7 +12,7 @@ categories:
 label: 2024-09-04-pasta-al-forno-alla-siciliana
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2024-09-04-pasta-al-forno-alla-siciliana/header.jpeg "frangipani © Erica")
 
 **Pasta al Forno alla Siciliana** un piatto di pasta condito con sugo al pomodoro con i piselli, melanzane fritte, uova sode e tanta mozzarella. Cosa volete di più? Sembra una ricetta molto elaborata, ma in effetti non lo è. Alla fine è una semplice pasta al forno con aggiunta di piselli nel sugo, di melanzane fritte e di uova sode... Pochi ingredienti che danno quel tocco siciliano ad una ricetta tradizionale.
 
@@ -29,7 +29,7 @@ Sono nervosa? Sì... Sono preoccupata? Non direi... L'unica cosa che mi preoccup
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Pasta al Forno alla Siciliana</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2024-09-04-pasta-al-forno-alla-siciliana/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Pasta al Forno alla Siciliana, un piatto di pasta condito con sugo al pomodoro con i piselli, melanzane fritte, uova sode e tanta mozzarella.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -105,8 +105,8 @@ Tagliate le melanzane a cubetti. Per la cottura delle melanzane ci sono due meto
 2. In una padella mettete un bel filo d'olio evo, uno spicchio d'aglio ed un pizzico di sale e fate rosolare leggermente. Dunque aggiungete i cubetti di melanzana, salate e fate rosolare finché le melanzane saranno cotte e dorate.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="sugo.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="melanzane.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-09-04-pasta-al-forno-alla-siciliana/sugo.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-09-04-pasta-al-forno-alla-siciliana/melanzane.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -114,8 +114,8 @@ Tagliate le melanzane a cubetti. Per la cottura delle melanzane ci sono due meto
 Portate ad ebollizione abbondante acqua, buttate la pasta e salate. Ancora al dente scolate la pasta tenendo da parte un pochino d'acqua di cottura della pasta. Tagliate a dadini le uova sode e la mozzarella. Dunque condite la pasta con il sugo, tenendone da parte un pochino, la metà delle melanzane, la metà della mozzarella, la metà delle uova e una spolverata di parmigiano grattugiato. Mettete un velo di sugo sul fondo di una pirofila poi aggiungete metà della pasta. Livellate e cospargeteci sopra la metà della mozzarella rimasta, la metà delle uova rimaste, la metà delle melanzane rimaste, un pochino di sugo ed una bella spolverata di parmigiano grattugiato. Aggiugete il resto della pasta, livellate bene e cospargeteci sopra il resto della mozzarella, il resto delle uova, il resto delle melanzane, il resto del sugo ed una bella spolverata di parmigiano grattugiato.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="uova.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-09-04-pasta-al-forno-alla-siciliana/uova.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-09-04-pasta-al-forno-alla-siciliana/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -123,32 +123,32 @@ Portate ad ebollizione abbondante acqua, buttate la pasta e salate. Ancora al de
 Infornate la **Pasta al forno alla Siciliana** coperta con della carta d'alluminio nel forno a 180°C ventilato per 25min circa, per gli ultimi 5min togliete la carta d'alluminio per far fare una bella crosticina.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-09-04-pasta-al-forno-alla-siciliana/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-09-04-pasta-al-forno-alla-siciliana/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-09-04-pasta-al-forno-alla-siciliana/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-09-04-pasta-al-forno-alla-siciliana/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-09-04-pasta-al-forno-alla-siciliana/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-09-04-pasta-al-forno-alla-siciliana/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-09-04-pasta-al-forno-alla-siciliana/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-09-04-pasta-al-forno-alla-siciliana/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

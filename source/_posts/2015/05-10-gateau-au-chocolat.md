@@ -10,7 +10,7 @@ categories:
 - Torte
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2015-05-10-gateau-au-chocolat/header.jpg "frangipani © Erica")
 
 > Auguri Amore mio per i tuoi 2 anni e auguri a tutte le Mamme, ma soprattutto alla mia Mamma!
 
@@ -83,22 +83,22 @@ La nostra piccola grande oggi compie due anni e per l'occasione le ho preparato 
 </h3>
 
 Mettete il cioccolato e la margarina a sciogliere a Bagnomaria.
-![](cioccolato.jpg "frangipani © Erica")
+![](../2015-05-10-gateau-au-chocolat/cioccolato.jpg "frangipani © Erica")
 
 Nel frattempo mettete la farina, lo zucchero, il lievito, la fecola di patate, il cacao ed il sale in una ciotola capiente e mescolate tutto. Appena il cioccolato e la margarina saranno fusi versateli nel miscuglio di farina ed aggiungete il latte e l'aceto.
-![](impasto.jpg "frangipani © Erica")
+![](../2015-05-10-gateau-au-chocolat/impasto.jpg "frangipani © Erica")
 
 Poi mettete l'impasto in una teglia a cerniera precedentemente imburrata ed infarinata. Non vi preoccupate se l'impasto risulta molto olioso, è normale! Durante la cottura si creerà anche un laghetto di olio alla superfice che man mano verrà assorbito...
-![](teglia.jpg "frangipani © Erica")
+![](../2015-05-10-gateau-au-chocolat/teglia.jpg "frangipani © Erica")
 
 Poi infornate nel forno preriscaldato a 170°C per ca. un'ora. Fate sempre la prova stecchino.
 
 
 Questo Gâteau au Chocolat poi l'ho trasformato in Timmy... praticamente ho fatto con la pasta di zucchero la faccina, le gambine e le braccine e con una crema al burro e formaggio spalmabile ho fatto il manto della pecorella.
-![](timmy.jpg "frangipani © Erica")
+![](../2015-05-10-gateau-au-chocolat/timmy.jpg "frangipani © Erica")
 
 Il tutto accompagnato da questi Muffin al cocco e rabarbaro tutti fioriti.
-![](muffinfiori.jpg "frangipani © Erica")
+![](../2015-05-10-gateau-au-chocolat/muffinfiori.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

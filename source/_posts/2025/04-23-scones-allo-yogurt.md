@@ -11,7 +11,7 @@ categories:
 label: 2025-04-23-scones-allo-yogurt
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2025-04-23-scones-allo-yogurt/header.jpeg "frangipani © Erica")
 
 Pubblicità: **Scones allo Yogurt** in collaborazione con <a href="https://www.farmy.ch" target="_blank">Farmy</a>. Una specie di panini dolci e friabili che si preparano in un attimo. Sono un dolce tipico delle isole britanniche. Vengono serviti durante l'ora del té e si mangiano tradizionalmente spezzandoli a metà e spalmandoci sopra clotted cream e confettura.  
 <br />
@@ -24,7 +24,7 @@ Per quanto riguarda la confettura, su <a href="https://www.farmy.ch" target="_bl
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Scones allo Yogurt</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2025-04-23-scones-allo-yogurt/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Scones allo Yogurt, una specie di panini dolci e friabili che si preparano in un attimo.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -76,8 +76,8 @@ In una ciotola capiente mescolate farina, zucchero a velo, sale, lievito e vanig
 Infarinate leggermente il piano di lavoro e con le mani formate un disco piatto da ca. 25cm di diametro. Tagliate il disco in 8 spicchi e per una lievitazione migliore, tagliate anche il lato "tondo" di ogni spicchio. In questo modo avrete tutti e tre i lati dei triangoli tagliati. Con i ritagli formate una pallina e appiattitela. Adagiate gli Scones su di una teglia con sotto della carta forno (meglio se un tappetino microforato). Ovviamante invece di farli così a triangoli, potete farli anche con un coppapasta a cerchio...
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="impasto.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-04-23-scones-allo-yogurt/impasto.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-04-23-scones-allo-yogurt/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -85,40 +85,40 @@ Infarinate leggermente il piano di lavoro e con le mani formate un disco piatto 
 Infornate gli **Scones allo Yogurt** nel forno preriscaldato a 220°C statico per circa 15min e mangiateli ancora belli caldi.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-04-23-scones-allo-yogurt/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-04-23-scones-allo-yogurt/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-04-23-scones-allo-yogurt/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-04-23-scones-allo-yogurt/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-04-23-scones-allo-yogurt/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-04-23-scones-allo-yogurt/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-04-23-scones-allo-yogurt/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-04-23-scones-allo-yogurt/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-04-23-scones-allo-yogurt/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-04-23-scones-allo-yogurt/risultato10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

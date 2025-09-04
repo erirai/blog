@@ -14,7 +14,7 @@ categories:
 label: 2024-10-09-gnocchi-di-zucca-gratinati-con-cipolle-caramellate-e-fonduta
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2024-10-09-gnocchi-di-zucca-gratinati-con-cipolle-caramellate-e-fonduta/header.jpeg "frangipani © Erica")
 
 **Gnocchi di Zucca Gratinati con Cipolle Caramellate e Fonduta di Groviera e Gorgonzola** un godurioso tripudio di bontà! Sono cremosi, sono gustosi, sono semplicemente ottimi!
 <br />
@@ -27,7 +27,7 @@ Benvenuto Ottobre, benvenuto autunno, benvenuto freschetto, benvenuta lentezza, 
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Gnocchi di Zucca Gratinati con Cipolle Caramellate e Fonduta di Groviera e Gorgonzola</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2024-10-09-gnocchi-di-zucca-gratinati-con-cipolle-caramellate-e-fonduta/header.jpg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Gnocchi di Zucca Gratinati con Cipolle Caramellate e Fonduta di Groviera e Gorgonzola, un godurioso tripudio di bontà! Sono cremosi, sono gustosi, sono semplicemente ottimi!</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -108,8 +108,8 @@ Lavate la zucca, tagliatela a metà, eliminate i semi ed i filamenti e mettetela
 Tagliate finemente la cipolla e fatela rosolare in una padella con un filo d'olio. Salate, aggiungete un goccio d'acqua, il miele e l'aceto, coprite con un coperchio e fate andare a temperatura media finché non si saranno completamente ammorbidite. Se c'è bisogno aggiungete ancora acqua, ma sempre un goccino alla volta.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="gnocchi.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="cipolla.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-10-09-gnocchi-di-zucca-gratinati-con-cipolle-caramellate-e-fonduta/gnocchi.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-10-09-gnocchi-di-zucca-gratinati-con-cipolle-caramellate-e-fonduta/cipolla.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -119,8 +119,8 @@ A questo punto aggiungete alla cipolla la salvia, la noce moscata e la panna fre
 Portate ad ebollizione abbondante acqua in una pentola bella grande, appena bolle salate. Prendete un po’ di gnocchi alla volta e buttateli nell’acqua bollente. Quando gli gnocchi verranno a galla scolateli con una schiumarola e metteteli nella padella con la fonduta. Continuate finché avrete cotto tutti gli gnocchi.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="fonduta.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="padella.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-10-09-gnocchi-di-zucca-gratinati-con-cipolle-caramellate-e-fonduta/fonduta.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-10-09-gnocchi-di-zucca-gratinati-con-cipolle-caramellate-e-fonduta/padella.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -128,32 +128,32 @@ Portate ad ebollizione abbondante acqua in una pentola bella grande, appena boll
 A questo punto decidete se servirli subito così che sono ottimi o se gratinarli. Per gratinarli versate gli gnocchi in una pirofila e distribuiteci sopra il resto del Groviera grattugiato. Infornate gli **Gnocchi di Zucca** coperti con un foglio di carta d'alluminio nel forno preriscaldato a 180°C ventilato per 20min circa, poi altri 5-10min senza carta per far fare una bella crosticina... Servite ancora bollenti!
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-10-09-gnocchi-di-zucca-gratinati-con-cipolle-caramellate-e-fonduta/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-10-09-gnocchi-di-zucca-gratinati-con-cipolle-caramellate-e-fonduta/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-10-09-gnocchi-di-zucca-gratinati-con-cipolle-caramellate-e-fonduta/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-10-09-gnocchi-di-zucca-gratinati-con-cipolle-caramellate-e-fonduta/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-10-09-gnocchi-di-zucca-gratinati-con-cipolle-caramellate-e-fonduta/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-10-09-gnocchi-di-zucca-gratinati-con-cipolle-caramellate-e-fonduta/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-10-09-gnocchi-di-zucca-gratinati-con-cipolle-caramellate-e-fonduta/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-10-09-gnocchi-di-zucca-gratinati-con-cipolle-caramellate-e-fonduta/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

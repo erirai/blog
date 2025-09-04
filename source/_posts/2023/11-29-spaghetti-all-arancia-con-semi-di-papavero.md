@@ -13,7 +13,7 @@ categories:
 label: 2023-11-29-spaghetti-all-arancia-con-semi-di-papavero
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2023-11-29-spaghetti-all-arancia-con-semi-di-papavero/header.jpeg "frangipani © Erica")
 
 **Spaghetti all'Arancia con Semi di Papavero** un piatto di pasta delicato, fresco, vegano e con una nota croccante. Basta il tempo della cottura della pasta per prepararlo ed avrete un piatto speciale e perché no, anche molto festivo (Natale è ormai alle porte).
 
@@ -28,7 +28,7 @@ E con infinita gioia saluto Novembre! Ormai lo sapete... non mi piace proprio qu
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Spaghetti all'Arancia con Semi di Papavero</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2023-11-29-spaghetti-all-arancia-con-semi-di-papavero/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Spaghetti all'Arancia con Semi di Papavero, un piatto di pasta delicato, fresco, vegano e con una nota croccante.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -82,39 +82,39 @@ E con infinita gioia saluto Novembre! Ormai lo sapete... non mi piace proprio qu
 </h3>
 
 In una padella capiente fate rosolare la cipolla tagliata molto finemente con un filo d'olio ed una spolverata di sale. Aggiungete il succo di 1-2 arance e la panna vegetale. Abbassate un po' la temperatura, coprite con un coperchio e fate andare finché si sarà addensata leggermente e aggiustate di sale.
-![](salsaarancia.jpeg "frangipani © Erica")
+![](../2023-11-29-spaghetti-all-arancia-con-semi-di-papavero/salsaarancia.jpeg "frangipani © Erica")
 
 Nel frattempo portate ad ebollizione l'acqua per la pasta, buttate gli spaghetti e salate l'acqua. Scolateli leggermente al dente e versateli direttamente nella padella con la salsa all'arancia e finite la cottura aggiungendo man mano un pochino d'acqua di cottura degli spaghetti. Alla fine aggiungete il prezzemolo fresco.
 
 Impiattate e se volete mettete una spolverata di semi di papavero precedentemente tostati (se non avete si semi di papavero o non vi piacciono, potete sostituirli con dei pistacchi tritati).
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-11-29-spaghetti-all-arancia-con-semi-di-papavero/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-11-29-spaghetti-all-arancia-con-semi-di-papavero/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-11-29-spaghetti-all-arancia-con-semi-di-papavero/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-11-29-spaghetti-all-arancia-con-semi-di-papavero/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-11-29-spaghetti-all-arancia-con-semi-di-papavero/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-11-29-spaghetti-all-arancia-con-semi-di-papavero/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-11-29-spaghetti-all-arancia-con-semi-di-papavero/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-11-29-spaghetti-all-arancia-con-semi-di-papavero/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

@@ -14,7 +14,7 @@ categories:
 label: 2020-02-18-focaccia-di-barbabietole-con-patate
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2020-02-18-focaccia-di-barbabietola-con-patate/header.jpeg "frangipani © Erica")
 
 **Focaccia di Barbabietole con Patate e Rosmarino**, una focaccia bella colorata che mette allegria in tavola! La purea delle verdure nell'impasto di pane o focaccia, rende il tutto più morbido. Se poi il colore è così bello ancora meglio! 
 <br />
@@ -32,7 +32,7 @@ Per molti mangiare la focaccia con le patate è una cosa strana, ma vi assicuro 
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Focaccia di Barbabietole con Patate e Rosmarino</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-02-18-focaccia-di-barbabietola-con-patate/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Focaccia di Barbabietole con Patate e Rosmarino, una focaccia bella colorata che mette allegria in tavola! La purea delle verdure nell'impasto di pane o focaccia, rende il tutto più morbido.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -95,8 +95,8 @@ Mettete la farina, la purea di barbabietola ed il sale nella planetaria (o sul p
 Ungete le vostre mani e con le punte delle dita, fate dei buchi nell'impasto. Pelate le patate e tagliatele finemente a rondelle, distribuitele sull'impasto, poi mettete un bel filo d'olio, salate (meglio se con sale al rosmarino) e aggiungete anche qualche rametto di rosmarino.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="impasto.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-02-18-focaccia-di-barbabietola-con-patate/impasto.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-02-18-focaccia-di-barbabietola-con-patate/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -104,39 +104,39 @@ Ungete le vostre mani e con le punte delle dita, fate dei buchi nell'impasto. Pe
 Infornate nel forno preriscaldato a 200°C statico, spruzzate un pochettino d'acqua nel forno e fate cuocere per 20-30min circa.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-02-18-focaccia-di-barbabietola-con-patate/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-02-18-focaccia-di-barbabietola-con-patate/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato3.jpeg "frangipani © Erica")
+![](../2020-02-18-focaccia-di-barbabietola-con-patate/risultato3.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <div style="clear: both"></div>
-  </div>
-</p>
-
-<p>
-  <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-02-18-focaccia-di-barbabietola-con-patate/risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-02-18-focaccia-di-barbabietola-con-patate/risultato5.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-02-18-focaccia-di-barbabietola-con-patate/risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-02-18-focaccia-di-barbabietola-con-patate/risultato7.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato10.jpeg "frangipani © Erica")
+<p>
+  <div style="width: 100%; margin-bottom: 0">
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-02-18-focaccia-di-barbabietola-con-patate/risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-02-18-focaccia-di-barbabietola-con-patate/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <div style="clear: both"></div>
+  </div>
+</p>
+
+![](../2020-02-18-focaccia-di-barbabietola-con-patate/risultato10.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

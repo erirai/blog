@@ -13,7 +13,7 @@ categories:
 label: 2017-02-07-girelle-vagan-ai-lamponi
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2017-02-07-girelle-vegan-ai-lamponi/header.jpg "frangipani © Erica")
 
 Stavo cercando qualche idea per la colazione di San Valentino. In questi casi Pinterest è inbattibile. Guardando un po' ho trovato queste girelle a forma di cuore. L'idea mi è piaciuta molto quindi mi sono messa all'opera. Ho fatto un po' di testa mia... Inizialmente volevo preparare una pasta lievita, poi però ho lasciato stare per via dei lamponi. Con i tempi di lievitazione, i lamponi avrebbero buttato troppa acqua e il risultato non sarebbe stato più bello. Mi serviva una pasta lievita ma senza lievitazione. Quindi ho usato il lievito per dolci al posto del lievito di birra. In questo modo l'impasto non ha bisogno di lievitazione, ma avrete ugualmente un'impasto soffice. Non essendo stagione di lamponi, per farcire le girelle ho usato quelli congelati. Naturalmente vanno bene anche altri frutti di bosco o addiruttura tutti mischiati. Ho dato alle girelle la forma di un cuore per via di San Valentino, ma in ogni caso li potete arrotolare come delle semplici girelle. Dunque, se di mattina avete abbastanza tempo per prepararle, allora fatele fresche la mattina stessa. Se no le preparate la sera prima, quando si sono raffreddate le chiudete bene e il giorno dopo saranno ancora soffici.
 
@@ -98,32 +98,32 @@ Stavo cercando qualche idea per la colazione di San Valentino. In questi casi Pi
 {% youtube IbGQf7VAUuw %}
 
 Mescolate la farina con il sale, lo zucchero, lo zucchero vanigliato ed il lievito per dolci, poi aggiungete il latte e l'acqua e mescolate un pochettino con un cucchiaio. Passate il tutto su di un piano di lavoro e impastate con le mani finché avrete un panetto liscio e omogeneo, poi mettete da parte.
-![](impasto.jpg "frangipani © Erica")
+![](../2017-02-07-girelle-vegan-ai-lamponi/impasto.jpg "frangipani © Erica")
 
 In una coppetta mettete i lamponi, lo zucchero, l'amido di mais, la scorza ed il succo del limone e mescolate.
-![](farcia.jpg "frangipani © Erica")
+![](../2017-02-07-girelle-vegan-ai-lamponi/farcia.jpg "frangipani © Erica")
 
 Riprendete l'impasto e stendetelo aiutandovi con un mattarello formando un rettangolo. Prendete lo yogurt (o altro formaggio spalmabile vegan o non) e spalmatelo su tutto l'impasto steso. Poi distributeci anche i lamponi.
-![](rettangolo.jpg "frangipani © Erica")
+![](../2017-02-07-girelle-vegan-ai-lamponi/rettangolo.jpg "frangipani © Erica")
 
 Iniziate ad arrotolare il rettangolo da una parte arrivando solo fino alla metà, poi arrotolate anche dall'altra parte arrivando anche in questo caso fino alla metà.
-![](rotolo.jpg "frangipani © Erica")
+![](../2017-02-07-girelle-vegan-ai-lamponi/rotolo.jpg "frangipani © Erica")
 
 Adesso tagliate dei pezzi da ca. 2 cm con un coltello ben affilato.
-![](tagliare.jpg "frangipani © Erica")
+![](../2017-02-07-girelle-vegan-ai-lamponi/tagliare.jpg "frangipani © Erica")
 
 Prendete una girella e con due dita stringete un pochettino la parte di sotto per formare un cuore.
-![](cuore.jpg "frangipani © Erica")
+![](../2017-02-07-girelle-vegan-ai-lamponi/cuore.jpg "frangipani © Erica")
 
 Poi mettete i cuori su una o due teglie rotonde con sotto della carta forno.
-![](teglia.jpg "frangipani © Erica")
+![](../2017-02-07-girelle-vegan-ai-lamponi/teglia.jpg "frangipani © Erica")
 
 Infornate nel forno preriscaldato statico a 200°C per ca. 25min. L'impasto resterà comunque abbastanza chiaro, non deve prendere troppo colore.
-![](risultato1.jpg "frangipani © Erica")
+![](../2017-02-07-girelle-vegan-ai-lamponi/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2017-02-07-girelle-vegan-ai-lamponi/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2017-02-07-girelle-vegan-ai-lamponi/risultato3.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

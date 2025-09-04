@@ -12,7 +12,7 @@ categories:
 label: 2019-09-12-tortine-alle-carote-con-composta-di-prugne-alla-cannella
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2019-09-12-tortine-alle-carote-con-composta-di-prugne-alla-cannella/header.jpeg "frangipani © Erica")
 
 **Tortine alle Carote con Composta di Prugne alla Cannella**, un dolce di stagione, semplice, senza lattosio e buono. Le tortine sono perfette per i bimbi (e non solo), perché non fanno briciole. Mettete un po' di composta in una ciotolina e gli fate inzuppare la tortina, vedrete che si leccheranno i baffi. I miei hanno fatto così... Coppia che vince non si separa (sì, l'ho leggermente modificata), quindi mangiate le tortine insieme alla composta, altrimenti manca qualcosa. Io vi ho avvertiti! Le tortine sono fatte senza lattosio, senza burro ne olio. Pochissimi ingredienti, ma buoni. Non vi do le dosi per la composta, perché dipende dalla quantità che ne volete preparare. Vi consiglio però, di usare poco zucchero, perché c'è proprio bisogno di quella nota acidula delle prugne. Preparatela all'ultimo momento, perché calda è la fine del mondo! E con il profumo della cannella è subito autunno, no?
 
@@ -26,7 +26,7 @@ Nel cestino della Foodie Challenge mensile di settembre, organizzata da <a href=
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Tortine alle Carote con Composta di Prugne alla Cannella</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2019-09-12-tortine-alle-carote-con-composta-di-prugne-alla-cannella/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Tortine alle Carote con Composta di Prugne alla Cannella, un dolce di stagione, semplice, senza lattosio e buono.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -114,34 +114,34 @@ Lavate e pelate le carote, poi grattugiatele finemente e mettetele da parte. Con
 Fate raffreddare le tortine prima di uscirle dalla teglia, poi preparate la composta. Lavate le prugne e privatele del nocciolo. Tagliatele in 4 e mettetele in un pentolino. Aggiungete poco zucchero, succo di limone, la cannella (io stecca di cannella) e un goccio d'acqua. Fate cuocere a temperatura media, finché vedrete che la composta inizia ad attaccarsi sul fondo.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="tortine.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="composta.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2019-09-12-tortine-alle-carote-con-composta-di-prugne-alla-cannella/tortine.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2019-09-12-tortine-alle-carote-con-composta-di-prugne-alla-cannella/composta.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 Servite le Tortine alle Carote con la Composta di Prugne alla Cannella ancora calda...
-![](risultato1.jpeg "frangipani © Erica")
+![](../2019-09-12-tortine-alle-carote-con-composta-di-prugne-alla-cannella/risultato1.jpeg "frangipani © Erica")
 
-![](risultato2.jpeg "frangipani © Erica")
+![](../2019-09-12-tortine-alle-carote-con-composta-di-prugne-alla-cannella/risultato2.jpeg "frangipani © Erica")
 
-![](risultato3.jpeg "frangipani © Erica")
+![](../2019-09-12-tortine-alle-carote-con-composta-di-prugne-alla-cannella/risultato3.jpeg "frangipani © Erica")
 
-![](risultato4.jpeg "frangipani © Erica")
+![](../2019-09-12-tortine-alle-carote-con-composta-di-prugne-alla-cannella/risultato4.jpeg "frangipani © Erica")
 
-![](risultato5.jpeg "frangipani © Erica")
+![](../2019-09-12-tortine-alle-carote-con-composta-di-prugne-alla-cannella/risultato5.jpeg "frangipani © Erica")
 
-![](risultato11.jpeg "frangipani © Erica")
+![](../2019-09-12-tortine-alle-carote-con-composta-di-prugne-alla-cannella/risultato11.jpeg "frangipani © Erica")
 
-![](risultato6.jpeg "frangipani © Erica")
+![](../2019-09-12-tortine-alle-carote-con-composta-di-prugne-alla-cannella/risultato6.jpeg "frangipani © Erica")
 
-![](risultato7.jpeg "frangipani © Erica")
+![](../2019-09-12-tortine-alle-carote-con-composta-di-prugne-alla-cannella/risultato7.jpeg "frangipani © Erica")
 
-![](risultato8.jpeg "frangipani © Erica")
+![](../2019-09-12-tortine-alle-carote-con-composta-di-prugne-alla-cannella/risultato8.jpeg "frangipani © Erica")
 
-![](risultato9.jpeg "frangipani © Erica")
+![](../2019-09-12-tortine-alle-carote-con-composta-di-prugne-alla-cannella/risultato9.jpeg "frangipani © Erica")
 
-![](risultato10.jpeg "frangipani © Erica")
+![](../2019-09-12-tortine-alle-carote-con-composta-di-prugne-alla-cannella/risultato10.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

@@ -12,14 +12,14 @@ categories:
 label: 2023-06-20-muffin-salati-con-cavolo-romanesco-e-formaggio
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2023-06-20-muffin-salati-con-cavolo-romanesco-e-formaggio/header.jpeg "frangipani © Erica")
 
 **Muffin salati con Cavolo Romanesco** dei sfiziosi muffin belli soffici e super saporiti. Ottimi per un pranzetto veloce o una cena leggera da accompagnare con una bella insalatona. Ma anche perfetti da portare per un picnic o una bella camminata.
 
 Non mi ricordo quando è stata l'ultima volta che ho preparato dei muffin salati, ma era assolutamente ora di rifarli. Poi adesso che fa bel tempo adoro preparare cose così da poter mangiare semplicemente con un'insalata o un pinzimonio. Anche perché ci piace tantissimo mangiare in giardino, anche solo su di una coperta, senza tavolo e sedie.
 
 Ovviamente non dovete usare per forza il cavolo romanesco, vanno benissimo anche il cavolfiore o i broccoli. Il procedimento è lo stesso. Non so perché, uso troppo poco il cavolo romanesco, ma è buonissimo e poi è di una bellezza pazzesca. Lo avete mai osservato attentamente? 
-![](romanesco.jpeg "frangipani © Erica")
+![](../2023-06-20-muffin-salati-con-cavolo-romanesco-e-formaggio/romanesco.jpeg "frangipani © Erica")
 
 Matematicamente il cavolo romanesco è molto interessante, infatti è frattale. La sua forma si ripete allo stesso modo su scale diverse. Ogni singola rosetta ha la forma di un piccolo broccolo. Ma la cosa più stupefacente è che il numero di rosette che compongono il broccolo romanesco è sempre un numero di Fibonacci. Una spirale perfetta. Fantastico, no?
 
@@ -28,7 +28,7 @@ Matematicamente il cavolo romanesco è molto interessante, infatti è frattale. 
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Muffin salati con Cavolo Romanesco</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2023-06-20-muffin-salati-con-cavolo-romanesco-e-formaggio/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Muffin salati con Cavolo Romanesco, dei sfiziosi muffin belli soffici e super saporiti.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -98,8 +98,8 @@ Mettete in una coppa la farina setacciata, il parmigiano, il lievito, le erbette
 Adesso mettete l'impasto direttamente nella teglia per Muffin precedentemente imburrata o nei pirottini. Poi affondate nell'impasto di ogni muffin una cimetta di cavolo romanesco precedente bollito con la punta verso su.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="impasto.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-06-20-muffin-salati-con-cavolo-romanesco-e-formaggio/impasto.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-06-20-muffin-salati-con-cavolo-romanesco-e-formaggio/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -107,37 +107,37 @@ Adesso mettete l'impasto direttamente nella teglia per Muffin precedentemente im
 Infornate i **Muffin salati con Cavolo Romanesco** nel forno preriscaldato a 170°C statico per ca. 25min, mi raccomando fate la prova stecchino.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-06-20-muffin-salati-con-cavolo-romanesco-e-formaggio/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-06-20-muffin-salati-con-cavolo-romanesco-e-formaggio/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-06-20-muffin-salati-con-cavolo-romanesco-e-formaggio/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-06-20-muffin-salati-con-cavolo-romanesco-e-formaggio/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-06-20-muffin-salati-con-cavolo-romanesco-e-formaggio/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-06-20-muffin-salati-con-cavolo-romanesco-e-formaggio/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-06-20-muffin-salati-con-cavolo-romanesco-e-formaggio/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-06-20-muffin-salati-con-cavolo-romanesco-e-formaggio/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
-![](risultato9.jpeg "frangipani © Erica")
+![](../2023-06-20-muffin-salati-con-cavolo-romanesco-e-formaggio/risultato9.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

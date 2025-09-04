@@ -10,7 +10,7 @@ categories:
 label: 2014-01-15-gnocchi-di-patate-gratinati
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2014-01-15-gnocchi-di-patate-gratinati/header.jpeg "frangipani © Erica")
 
 **Gnocchi di Patate Gratinati** uno dei miei comfort food preferiti. Questa è la versione dei Gnocchi un po' più elaborata, ma sono di una bontà incredibile. Ma potete fare la versione più leggera e vegana semplicemente con patate e farina.
 <br />
@@ -21,7 +21,7 @@ Ovviamente la ricetta è quella degli Gnocchi, poi il condimento è una proposta
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Gnocchi di Patate Gratinati</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2014-01-15-gnocchi-di-patate-gratinati/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Gnocchi di Patate Gratinati uno dei miei comfort food preferiti. Questa è la versione dei Gnocchi un po' più elaborata, ma sono di una bontà incredibile.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -107,9 +107,9 @@ Nel frattempo fate bollire le patate. Prendete delle patate grandi, così perdet
 Ora prendete un po' d'impasto alla volta, fate dei salsicciotti e tagliateli a tocchetti. Metteteli da parte, spolverateci sopra un po' di farina e fateli riposare un po'.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 32%; margin-right: 1%;" src="sugo.jpg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="tagliare.jpg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-left: 1%;" src="tagliati.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%;" src="../2014-01-15-gnocchi-di-patate-gratinati/sugo.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="../2014-01-15-gnocchi-di-patate-gratinati/tagliare.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-left: 1%;" src="../2014-01-15-gnocchi-di-patate-gratinati/tagliati.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -119,9 +119,9 @@ Dopo averli fatti riposare, prendere una pentola abbastanza grande, fate bollire
 Adesso condite gli gnocchi con abbondante parmigiano grattugiato e aggiungete qualche pezzetto di mozzarella. Imburrate una pirofila, coprite il fondo con del sugo, aggiungete la metà degli gnocchi e formate uno strato, coprite con un pochettino di sugo e la mozzarella. Poi aggiungete il resto degli gnocchi, di nuovo sugo, mozzarella e alla fine abbondante parmigiano grattugiato.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 32%; margin-right: 1%;" src="bollire.jpg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="cotti.jpg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-left: 1%;" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%;" src="../2014-01-15-gnocchi-di-patate-gratinati/bollire.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="../2014-01-15-gnocchi-di-patate-gratinati/cotti.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-left: 1%;" src="../2014-01-15-gnocchi-di-patate-gratinati/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -129,32 +129,32 @@ Adesso condite gli gnocchi con abbondante parmigiano grattugiato e aggiungete qu
 Infornate gli gnocchi coperti con un foglio di carta argentata a 200°C ventilato per ca. 25min poi togliete la carta argentata e fate dorare bene per 5-10min.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-01-15-gnocchi-di-patate-gratinati/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-01-15-gnocchi-di-patate-gratinati/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-01-15-gnocchi-di-patate-gratinati/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-01-15-gnocchi-di-patate-gratinati/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-01-15-gnocchi-di-patate-gratinati/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-01-15-gnocchi-di-patate-gratinati/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-01-15-gnocchi-di-patate-gratinati/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-01-15-gnocchi-di-patate-gratinati/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

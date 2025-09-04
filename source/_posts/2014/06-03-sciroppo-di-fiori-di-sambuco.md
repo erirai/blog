@@ -10,7 +10,7 @@ categories:
 - Bevande
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2014-06-03-sciroppo-di-fiori-di-sambuco/header.jpg "frangipani © Erica")
 
 > Grazie Jan e Cristina per i fantastici fiori di sambuco!
 
@@ -63,8 +63,8 @@ lang: it
 Prendete una coppa capiente e metteteci i fiori leggermente sbattuti (non lavateli), il succo dei limoni e le bucce rimaste e le foglie della melissa. Aggiungete l'acqua, coprite e lasciate in infusione per 24-48h, mescolate ogni tanto.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="ingredienti.jpg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="sciropporiposo.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-06-03-sciroppo-di-fiori-di-sambuco/ingredienti.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-06-03-sciroppo-di-fiori-di-sambuco/sciropporiposo.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -74,15 +74,15 @@ Passato il tempo necessario, coprite una pentola capiente con un panno di garza 
 A questo punto aggiungete lo zucchero e accendete i fuochi. Portate a ebollizione poi fate sobbollire per 20-30min. Imbottigliate lo sciroppo ancora bollente aiutandovi con un imbuto (il colore può variare secondo lo zucchero che si usa).
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 32%; margin-right: 1%;" src="filtrare.jpg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="strizzare.jpg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-left: 1%;" src="imbottigliare.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%;" src="../2014-06-03-sciroppo-di-fiori-di-sambuco/filtrare.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="../2014-06-03-sciroppo-di-fiori-di-sambuco/strizzare.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-left: 1%;" src="../2014-06-03-sciroppo-di-fiori-di-sambuco/imbottigliare.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 Servite lo sciroppo con dell'acqua fredda o anche con del prosecco, qualche fogliolina di menta fresca e del limone. Conservate lo Scirippo di fiori di Sambuco in un luogo fresco.
-![](risultato.jpg "frangipani © Erica")
+![](../2014-06-03-sciroppo-di-fiori-di-sambuco/risultato.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

@@ -12,7 +12,7 @@ categories:
 label: 2018-05-04-cornetti-farciti-con-rabarbaro-e-crema-frangipane
 lang: it 
 ---
-![](header.jpg "frangipani © Erica")
+![](../2018-05-04-cornetti-ripieni-di-rabarbaro-e-crema-frangipane/header.jpg "frangipani © Erica")
 
 > Benvenuto Maggio!
 
@@ -106,8 +106,8 @@ Preparate l'impasto: mettete tutti gli ingredienti in una ciotola e con le mani 
 Lavate il rabarbaro, tagliate le due estremità e togliete la pellicina esterna ed i filamenti. Dunque tagliatelo a pezzetti da 5cm, ne serviranno 36 pezzi. Mettete il rabarbaro in una ciotola e aggiungete lo zucchero ed il succo di limone. Mescolate e lasciate in frigo anche questo per almeno 4 ore.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="impasto.jpg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="rabarbaro.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2018-05-04-cornetti-ripieni-di-rabarbaro-e-crema-frangipane/impasto.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2018-05-04-cornetti-ripieni-di-rabarbaro-e-crema-frangipane/rabarbaro.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -117,30 +117,30 @@ Preparate la crema Frangipane. Mettete tutti gli ingredienti in una ciotola e am
 Infarinate bene il piano di lavoro e uscite dal frigo uno dei tre panetti. Stendetelo con un mattarello fino ad un diametro di 26cm circa. Poi suddividetelo in 12 spicchi e fate un taglietto alla base di ogni spicchio. Sempre alla base mettete un cucchiaino di crema Frangipane e sopra ci adagiate un pezzo di rabarbaro (non buttate via il succo del rabarbaro). Iniziate ad arrotolare e tirate delicatamente la punta per allungarla, in questo modo il cornetto sarà più carino. Mettete i cornetti su di una teglia ricoperta con della carta forno. Ripetete con gli altri due panetti.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="cornetti.jpg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2018-05-04-cornetti-ripieni-di-rabarbaro-e-crema-frangipane/cornetti.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2018-05-04-cornetti-ripieni-di-rabarbaro-e-crema-frangipane/teglia.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 Infornate nel forno preriscaldato statico a 175°C per 15-20min. Fateli intiepidire nella teglia stessa, poi passateli su di una griglia. Se volete, con il succo del rabarbaro potete fare una salsina. Filtratelo, mettetelo in un pentolino ed aggiungete un pochettino di amido di mais (o simile). Mettete sui fornelli e cuocete a temperatura moderata finché si sarà addensato.
-![](risultato1.jpg "frangipani © Erica")
+![](../2018-05-04-cornetti-ripieni-di-rabarbaro-e-crema-frangipane/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2018-05-04-cornetti-ripieni-di-rabarbaro-e-crema-frangipane/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2018-05-04-cornetti-ripieni-di-rabarbaro-e-crema-frangipane/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2018-05-04-cornetti-ripieni-di-rabarbaro-e-crema-frangipane/risultato4.jpg "frangipani © Erica")
 
-![](risultato5.jpg "frangipani © Erica")
+![](../2018-05-04-cornetti-ripieni-di-rabarbaro-e-crema-frangipane/risultato5.jpg "frangipani © Erica")
 
-![](risultato6.jpg "frangipani © Erica")
+![](../2018-05-04-cornetti-ripieni-di-rabarbaro-e-crema-frangipane/risultato6.jpg "frangipani © Erica")
 
-![](risultato7.jpg "frangipani © Erica")
+![](../2018-05-04-cornetti-ripieni-di-rabarbaro-e-crema-frangipane/risultato7.jpg "frangipani © Erica")
 
-![](risultato8.jpg "frangipani © Erica")
+![](../2018-05-04-cornetti-ripieni-di-rabarbaro-e-crema-frangipane/risultato8.jpg "frangipani © Erica")
 
-![](risultato9.jpg "frangipani © Erica")
+![](../2018-05-04-cornetti-ripieni-di-rabarbaro-e-crema-frangipane/risultato9.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

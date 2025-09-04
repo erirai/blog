@@ -10,7 +10,7 @@ categories:
 label: 2025-01-03-galette-des-rois
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2025-01-03-galette-des-rois/header.jpeg "frangipani © Erica")
 
 **Galette des Rois** il dolce tipico francese per festeggiare l'Epifania o la giornata dei Re Magi. È un dolce semplicissimo, infatti sono due dischi di pasta sfoglia farciti con la crema Frangipane. Ho visto anche delle varianti con l'aggiunta della crema pasticcera, ma ho preferito la versione semplice. Ovviamente potete fare voi la pasta sfoglia, ma io per questioni di tempo ho preferito comprarla.
 <br />
@@ -25,7 +25,7 @@ Comunque sia abbiamo passato delle bellissime feste tutti insieme finalmente. I 
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Galette des Rois</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2025-01-03-galette-des-rois/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Galette des Rois, il dolce tipico francese per festeggiare l'Epifania o la giornata dei Re Magi.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -89,8 +89,8 @@ Come prima cosa preparate la crema Frangipane: montate il burro morbido con lo z
 Prendete i due dischi di pasta sfoglia e ricavatene due dischi più piccoli da 22cm (gli scarti usateli per fare dei rotolini, delle pizzette ecc). Adagiate un disco di pasta sfoglia su di una teglia con sotto della carta forno, poi versate la crema Frangipane al centro del disco e distribuitela uniformemente lasciando un bordo di 1-2cm. Prendete la mandorla e mettetela dove volete sulla crema, meglio se più verso il bordo.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="frangipane.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="mandorla.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-01-03-galette-des-rois/frangipane.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-01-03-galette-des-rois/mandorla.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -98,8 +98,8 @@ Prendete i due dischi di pasta sfoglia e ricavatene due dischi più piccoli da 2
 Spennellate il bordo con un po' di tuorlo d'uovo sbattuto, poi coprite con il secondo disco di pasta sfoglia. Sigillate molto bene il bordo, io ho fatto uno ad uno pressione con il pollice e accanto ho fatto una leggera incavatura con uno stecchino per dare una specie di forma ondulata. Aiutandovi con due teglie, vassoi o piatti, scaravoltate la Galette. Spennellate tutta la superficie con il tuorlo d'uovo poi con il dorso del coltello fate delle linee curvate tutt'attorno per dargli il suo aspetto tipico. Per ultimo fate qui e la qualche buchino per non farla gonfiare troppo.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="bordo.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-01-03-galette-des-rois/bordo.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-01-03-galette-des-rois/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -108,42 +108,42 @@ Fate riposare la **Galette des Rois** in frigo per 30min, poi infornatela nel fo
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-01-03-galette-des-rois/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-01-03-galette-des-rois/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-01-03-galette-des-rois/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-01-03-galette-des-rois/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-01-03-galette-des-rois/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-01-03-galette-des-rois/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato7.jpeg "frangipani © Erica")
+![](../2025-01-03-galette-des-rois/risultato7.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-01-03-galette-des-rois/risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-01-03-galette-des-rois/risultato9.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato11.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-01-03-galette-des-rois/risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-01-03-galette-des-rois/risultato11.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

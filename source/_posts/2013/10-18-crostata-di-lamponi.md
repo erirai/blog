@@ -12,7 +12,7 @@ categories:
 - "Crostate, Tartes..."
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2013-10-18-crostata-di-lamponi/header.jpg "frangipani © Erica")
 
 **Crostata di Lamponi** il dolce più buono del mondo! Una frolla perfetta con un ripieno di succosi lamponi e una cremosa pastella.
 
@@ -24,7 +24,7 @@ Volevo iniziare il mio Blog condividendo con voi la mia torta preferita... È LA
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Crostata di Lamponi</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2013-10-18-crostata-di-lamponi/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Crostata di Lamponi il dolce più buono del mondo! Una frolla perfetta con un ripieno di succosi lamponi e una cremosa pastella.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -113,10 +113,10 @@ Iniziate preparando la pasta frolla. Prendete tutti gli ingredienti per la pasta
 Nel frattempo preparate il condimento. Prendete un recipiente graduato, quindi mettete la farina e poco latte per sciogliere la farina. Quando non ci saranno più grumi aggiungete lo zucchero, lo zucchero vanigliato, l'uovo ed un pizzico di sale e mescolate il tutto. Dopo riempite il recipiente con il restante latte fino ad arrivare a 400ml e finite di mescolare.
 
 Uscite la pasta frolla dal frigo e stendetela velocemente tra due fogli di carta forno, dovrà essere spessa ca. 3mm. Togliete il foglio di carta forno di sopra e mettetela in una pirofila rotonda di un diametro di 24cm con l'altro foglio di carta forno sotto e aggiustate i bordi. Bucherellate il fondo della crostata con una forchetta. Coprite il fondo con una spolverata di noccioline o mandorle macinate. Ora prendete i lamponi freschi o direttamente dal congelatore e adagiateli sulla frolla. Alla fine mettete il condimeto che avevate preparato precedentemente. Se vi è avanzata della pasta potete fare una griglia di sopra...
-![](cruda.jpg "frangipani © Erica")
+![](../2013-10-18-crostata-di-lamponi/cruda.jpg "frangipani © Erica")
 
 Infornate la crostata nella parte bassa del forno a 170°C statico per ca. 40min. Controllate sempre che il tempo di cottura varia da forno a forno.
-![](risultato.jpg "frangipani © Erica")
+![](../2013-10-18-crostata-di-lamponi/risultato.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

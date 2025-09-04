@@ -12,7 +12,7 @@ categories:
 label: 2025-04-02-frollini-con-lemon-curd
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2025-04-02-frollini-con-lemon-curd/header.jpeg "frangipani © Erica")
 
 **Frollini con Lemon Curd** dei biscotti super friabili che profumano tantissimo di limone. Fatti a forma d'uovo, sono perfetti per la Pasqua che ormai è alle porte. Ma si possono fare tranquillamente anche a forma di fiori o semplicemente dei cerchi. Ho scelto di arricchirli con il Lemon Curd, perché mio marito una volta aveva mangiato dei biscotti molto simili e gli era piaciuto moltissimo il gusto fresco del limone con la frolla. Ma potete prendere anche della confettura o marmellata o anche la crema di nocciole.
 
@@ -27,7 +27,7 @@ Voi avete già iniziato con i dolci pasquali? Quest'anno devo rifare per forza l
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Frollini con Lemon Curd</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2025-04-02-frollini-con-lemon-curd/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Frollini con Lemon Curd, dei biscotti super friabili che profumano tantissimo di limone. Fatti a forma d'uovo, sono perfetti per la Pasqua.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -103,7 +103,7 @@ Voi avete già iniziato con i dolci pasquali? Quest'anno devo rifare per forza l
 </h3>
 
 Per prima cosa preparate il Lemon Curd (o lo comprate già fatto): Mettete in un pentolino o in un pentolino per Bagnomaria lo zucchero, le uova, il succo e la scorza di limone ed il sale e mescolate, poi aggiungete anche il burro tagliato a pezzettini. Cuocete dunque il Lemon Curd a Bagnomaria per circa 10min. La crema si dovrà addensare ma non deve mai bollire altrimenti le uova cagliano e avrete dei grumi nella crema. Versate quindi il Lemon Curd in un barattolo sterilizzato e lasciate raffreddare prima a temperatura ambiente e poi lo tenete in frigo per massimo 4-5 giorni. Vi consiglio di preparare il Lemon Curd almeno il giorno prima...
-![](lemoncurd.jpeg "frangipani © Erica")
+![](../2025-04-02-frollini-con-lemon-curd/lemoncurd.jpeg "frangipani © Erica")
 
 Per la frolla montata mettete il burro, lo zucchero, la vaniglia e un pizzico di sale in una ciotola capiente e mescolate il tutto con le fruste elettriche finché diventerà cremoso. Poi aggiungete l'uovo e fatelo amalgamare bene. Aggiungete la farina e finite di mescolare sempre con le fruste elettriche o a mano, ma senza lavorare troppo l'impasto.
 <br />
@@ -112,8 +112,8 @@ La frolla montata non ha bisogno di riposo in frigo quindi procedete subito a fo
 Cospargete tutti i biscotti con dello zucchero a velo e con il manico di un mestolo fate sulla parte bassa di ogni uovo un'incavatura per poi metterci dentro un cucchiaino di Lemon Curd.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="frollamontata.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-04-02-frollini-con-lemon-curd/frollamontata.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-04-02-frollini-con-lemon-curd/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -122,32 +122,32 @@ Infornate i **Frollini con Lemon Curd** nel forno preriscaldato a 180°C statico
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-04-02-frollini-con-lemon-curd/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-04-02-frollini-con-lemon-curd/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-04-02-frollini-con-lemon-curd/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-04-02-frollini-con-lemon-curd/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-04-02-frollini-con-lemon-curd/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-04-02-frollini-con-lemon-curd/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-04-02-frollini-con-lemon-curd/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-04-02-frollini-con-lemon-curd/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

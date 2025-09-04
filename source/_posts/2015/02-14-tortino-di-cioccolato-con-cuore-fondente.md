@@ -9,7 +9,7 @@ categories:
 - Torte
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2015-02-14-tortino-di-cioccolato-con-cuore-fondente/header.jpg "frangipani © Erica")
 
 > Buon San Valentino a tutti!
 
@@ -69,22 +69,22 @@ Lo so che non è una ricetta superinnovativa ma scusatemi: è troppo buono e non
 </h3>
 
 Fate sciogliere a Bagnomaria il cioccolato fondete insieme al burro.
-![](cioccolato.jpg "frangipani © Erica")
+![](../2015-02-14-tortino-di-cioccolato-con-cuore-fondente/cioccolato.jpg "frangipani © Erica")
 
 Mettete le uova, lo zucchero a velo e i semi della bacca di vaniglia in una coppa capiente e sbattete il tutto con le fruste elettriche finché il composto risulterà bello spumoso e gonfio.
-![](uova.jpg "frangipani © Erica")
+![](../2015-02-14-tortino-di-cioccolato-con-cuore-fondente/uova.jpg "frangipani © Erica")
 
 Aggiungete il cioccolato fuso alle uova sempre sbattendo e finite aggiungendo la farina ed il cacao amaro setacciati e continuate a sbattere il tutto.
-![](impasto.jpg "frangipani © Erica")
+![](../2015-02-14-tortino-di-cioccolato-con-cuore-fondente/impasto.jpg "frangipani © Erica")
 
 Imburrate quattro stampini di alluminio e poi ricopriteli di cacao amaro. Poi riempiteli fino a 3/4.
-![](stampini.jpg "frangipani © Erica")
+![](../2015-02-14-tortino-di-cioccolato-con-cuore-fondente/stampini.jpg "frangipani © Erica")
 
 Adesso infornateli nel forno preriscaldato a 180°C statico per ca. 13-15min, mi raccomando non un minuto in più se no il cuore non sarà più fondente.
-![](sfornati.jpg "frangipani © Erica")
+![](../2015-02-14-tortino-di-cioccolato-con-cuore-fondente/sfornati.jpg "frangipani © Erica")
 
 Poi fateli intiepidire leggermente e capovolgeteli su di un piattino e spolverateli con dello zucchero a velo e serviteli ancora caldi!
-![](risultato.jpg "frangipani © Erica")
+![](../2015-02-14-tortino-di-cioccolato-con-cuore-fondente/risultato.jpg "frangipani © Erica")
 
 <h3>
   <font color="#FFCC00">

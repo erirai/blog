@@ -13,7 +13,7 @@ categories:
 label: 2017-04-11-frittata-di-agretti-senza-uova
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2017-04-11-frittata-di-agretti-senza-uova/header.jpeg "frangipani © Erica")
 
 **Frittata di Agretti senza Uova** una frittata vegana e senza glutine bella saporita.
 <br />
@@ -26,7 +26,7 @@ Questa frittata potrebbe esser anche una parte del Buffet per il compleanno. La 
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Frittata di Agretti senza Uova</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2017-04-11-frittata-di-agretti-senza-uova/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Frittata di Agretti senza Uova, una frittata vegana e senza glutine bella saporita.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -75,8 +75,8 @@ Pulite gli agretti eliminando la parte duretta bianca di sotto e lavateli bene. 
 A parte preparate la pastella. Mettete la farina di ceci in una coppetta e piano piano aggiungete l'acqua quanto basta per ottenere una pastella liscia ma non troppo densa.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="agretti.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="pastella.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2017-04-11-frittata-di-agretti-senza-uova/agretti.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2017-04-11-frittata-di-agretti-senza-uova/pastella.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -84,8 +84,8 @@ A parte preparate la pastella. Mettete la farina di ceci in una coppetta e piano
 Aggiungete gli agretti nella coppetta con la pastella e amalgamate bene, poi versate il tutto in una padella antiaderente leggermente unta. Chiudete con un coperchio e fate cuocere a temperatura moderata. Dopo un po' la frittata si staccherà. Controllate la cottura, se avrà preso già un bel colore giratela.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="padella.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="frittata.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2017-04-11-frittata-di-agretti-senza-uova/padella.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2017-04-11-frittata-di-agretti-senza-uova/frittata.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -93,29 +93,29 @@ Aggiungete gli agretti nella coppetta con la pastella e amalgamate bene, poi ver
 Finite di cuocerla anche dall'altra parte e servitela ancora bella calda, anche se fredda è buona lo stesso. Inutile dirvi che nel panino è la fine del mondo!
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2017-04-11-frittata-di-agretti-senza-uova/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2017-04-11-frittata-di-agretti-senza-uova/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2017-04-11-frittata-di-agretti-senza-uova/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2017-04-11-frittata-di-agretti-senza-uova/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2017-04-11-frittata-di-agretti-senza-uova/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2017-04-11-frittata-di-agretti-senza-uova/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
-![](risultato7.jpeg "frangipani © Erica")
+![](../2017-04-11-frittata-di-agretti-senza-uova/risultato7.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

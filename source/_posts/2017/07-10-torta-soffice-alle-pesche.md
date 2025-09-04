@@ -10,7 +10,7 @@ categories:
 label: 2017-07-10-torta-soffice-alle-pesche
 lang: it 
 ---
-![](header.jpg "frangipani © Erica")
+![](../2017-07-10-torta-soffice-alle-pesche/header.jpg "frangipani © Erica")
 
 Ma il profumo delle pesche non è una cosa meravigliosa? Appena è iniziata la stagione delle pesche, praticamente tutta euforica mi sono messa a comprare tutti i tipi di pesche che trovavo! Vado al negozio e ci sono le nettarine e le pesche normali, vado al mercato e ci sono quelle piatte, poi papà mi ha portato pure le percoche che facevano un profumo straordinario! E in un men che non si dica, mi sono ritrovata con il frigo pieno di pesche... Per smaltirle più velocemente ho preparato questa torta soffice alle pesche. Questa torta l'avevo già fatta qualche anno fa, ma con l'ananas. La <a href="http://frangipani.raiano.ch/2015-04-16-torta-all-ananas-sofficissima/" target="_blank">ricetta originale</a> è fatta con 4 uova, io ne avevo solo 2 quindi ho sostituito le 2 uova mancanti con 1dl di liquido, in questo caso succo di pesca o acqua. E devo dire che è ottima anche così, con meno uova! Se avete dei ribes, aggiungete anche quelli o fatela con la frutta che preferite...
 
@@ -76,20 +76,20 @@ Ma il profumo delle pesche non è una cosa meravigliosa? Appena è iniziata la s
 </h3>
 
 Per prima cosa tagliate a fettine le pesche, mettetele in una coppa e aggiungete 3 cucchiai di zucchero. Coprite e mettete da parte. Potete aggiungere anche il liquido delle pesche nell'impasto.
-![](pesche.jpg "frangipani © Erica")
+![](../2017-07-10-torta-soffice-alle-pesche/pesche.jpg "frangipani © Erica")
 
 Il procedimento è facilissimo: mettete tutti gli ingredienti in una ciotola e sbattete il tutto con le fruste elettriche o nella planetaria. Non usate una tazza grande, diciamo che quella da Cappuccino va bene.
-![](impasto.jpg "frangipani © Erica")
+![](../2017-07-10-torta-soffice-alle-pesche/impasto.jpg "frangipani © Erica")
 
 Poi mettete l'impasto in una teglia con sotto della carta forno e adagiateci sopra le pesche precedentemente tagliate a fettine.
-![](teglia.jpg "frangipani © Erica")
+![](../2017-07-10-torta-soffice-alle-pesche/teglia.jpg "frangipani © Erica")
 
 Poi infornate nel forno preriscaldato statico a 200°C per ca. mezz'oretta. Fate sempre la prova stecchino. Fate raffreddare bene la torta, tagliatela a quadretti e finite con una bella spolverata di zucchero a velo.
-![](risultato1.jpg "frangipani © Erica")
+![](../2017-07-10-torta-soffice-alle-pesche/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2017-07-10-torta-soffice-alle-pesche/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2017-07-10-torta-soffice-alle-pesche/risultato3.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

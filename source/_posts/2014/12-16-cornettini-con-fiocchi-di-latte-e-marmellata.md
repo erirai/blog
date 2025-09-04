@@ -10,7 +10,7 @@ categories:
 label: 2014-12-16-cornettini-con-fiocchi-di-latte-e-marmellata
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2014-12-16-cornettini-con-fiocchi-di-latte-e-marmellata/header.jpeg "frangipani © Erica")
 
 **Cornettini con fiocchi di latte e marmellata** dei biscotti con una crosticina croccante e un cuore di marmellata bello burroso. Questi biscotti sono una cosa fenomenale. Il problema è che caldi sono la fine del mondo, quindi la tentazione di mangiarli appena sfornati è molto grande. Ma devo anche dire, che con ogni giorno che passa, perdono gusto e croccantezza. L'impasto è facilissimo, la cosa che ha bisogno di tempo è proprio il formare i cornetti...
 
@@ -19,7 +19,7 @@ lang: it
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Cornettini con fiocchi di latte e marmellata</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2014-12-16-cornettini-con-fiocchi-di-latte-e-marmellata/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Cornettini con fiocchi di latte e marmellata, dei biscotti con una crosticina croccante e un cuore di marmellata bello burroso.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -68,8 +68,8 @@ Mettete i fiocchi di latte in un colino in modo che goccioli via il liquido in e
 Passate le due ore, tagliate un pezzo del panetto e stendetelo fino ad uno spessore di ca. 3mm aiutandovi con un mattarello e tanta farina. Poi tagliate dei triangoli, possibilmente tutti uguali e mettete un po' di marmellata sulla base del triangolo.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="impasto.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="cornettini.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-12-16-cornettini-con-fiocchi-di-latte-e-marmellata/impasto.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-12-16-cornettini-con-fiocchi-di-latte-e-marmellata/cornettini.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -77,8 +77,8 @@ Passate le due ore, tagliate un pezzo del panetto e stendetelo fino ad uno spess
 Poi formate i cornettini facendo attenzione a non far fuoriuscire la marmellata. Passate ora i cornettini nello zucchero semolato e metteteli su di una teglia ricoperta con della carta forno.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="zucchero.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-12-16-cornettini-con-fiocchi-di-latte-e-marmellata/zucchero.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-12-16-cornettini-con-fiocchi-di-latte-e-marmellata/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -86,16 +86,16 @@ Poi formate i cornettini facendo attenzione a non far fuoriuscire la marmellata.
 Poi infornate nel forno preriscaldato a 200°C statico per 15-20min, dipende dalla grandezza dei cornettini. Mi raccomando, non gli fate prendere troppo colore, altrimenti saranno troppo secchi. Poi fateli raffreddare completamente e metteteli in un contenitore di latta e conservateli per massimo 3 giorni in un luogo fresco e asciutto. Vi consiglio di mangiarli subito perché ogni giorno che passa, perdono di gusto e croccantezza.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-12-16-cornettini-con-fiocchi-di-latte-e-marmellata/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-12-16-cornettini-con-fiocchi-di-latte-e-marmellata/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-12-16-cornettini-con-fiocchi-di-latte-e-marmellata/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-12-16-cornettini-con-fiocchi-di-latte-e-marmellata/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -103,13 +103,13 @@ Poi infornate nel forno preriscaldato a 200°C statico per 15-20min, dipende dal
 Sono talmente buoni che vi consiglio di farli in qualsiasi periodo dell'anno!
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-12-16-cornettini-con-fiocchi-di-latte-e-marmellata/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-12-16-cornettini-con-fiocchi-di-latte-e-marmellata/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato7.jpeg "frangipani © Erica")
+![](../2014-12-16-cornettini-con-fiocchi-di-latte-e-marmellata/risultato7.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

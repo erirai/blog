@@ -14,7 +14,7 @@ categories:
 label: 2023-09-27-curry-di-zucca-con-riso-basmati
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2023-09-27-curry-di-zucca-con-riso-basmati/header.jpeg "frangipani © Erica")
 
 **Curry di Zucca con riso Basmati** un piatto pieno di verdure, cremoso e speziato che riscalda da dentro. Secondo me il curry di verdure si mangia con il riso Basmati o con il pane pita, in questo caso ho scelto il riso.
 <br />
@@ -29,7 +29,7 @@ Vi starete chiedendo: Ma dov'è il coriandolo? Ok, mettiamo in chiaro una cosa..
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Curry di Zucca</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2023-09-27-curry-di-zucca-con-riso-basmati/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Curry di Zucca, un piatto pieno di verdure, cremoso e speziato che riscalda da dentro.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -115,8 +115,8 @@ Mettete in ammollo il riso Basmati per 20min, poi sciacquatelo di nuovo e mettet
 Per il curry mettete un filo d'olio in una padella, aggiungete la cipolla tagliata finemente, lo spicchio d'aglio intero o tritato, il curry, la paprika e lo zenzero grattugiato finemente. Fate rosolare il tutto, poi aggiungete la zucca, le zucchine ed il peperone tutto precedentemente pulito e tagliato a pezzetti. Se usate la zucca Hokkaido biologica, potete usarla con tutta la buccia. Fate rosolare un po', aggiungete il concentrato di pomodoro, il latte di cocco ed un goccio d'acqua. Mescolate, coprite e lasciate cuocere a temperatura media finché il tutto non sarà cotto. Se c'è bisogno aggiungete altra acqua, poca alla volta e alla fine salate. Se avete messo lo spicchio d'aglio intero, non scordatevi di eliminarlo prima di servire il curry di zucca.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="cipolla.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="curry.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-09-27-curry-di-zucca-con-riso-basmati/cipolla.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-09-27-curry-di-zucca-con-riso-basmati/curry.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -124,24 +124,24 @@ Per il curry mettete un filo d'olio in una padella, aggiungete la cipolla taglia
 Mettete un po' di riso in una coppetta, schiacciate un po' poi scaravoltatelo in un piatto. Aggiungete il **Curry di Zucca**, un po' di prezzemolo (o coriandolo se vi piace, a me no) e uno spicchio di lime. 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-09-27-curry-di-zucca-con-riso-basmati/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-09-27-curry-di-zucca-con-riso-basmati/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-09-27-curry-di-zucca-con-riso-basmati/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-09-27-curry-di-zucca-con-riso-basmati/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-09-27-curry-di-zucca-con-riso-basmati/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-09-27-curry-di-zucca-con-riso-basmati/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

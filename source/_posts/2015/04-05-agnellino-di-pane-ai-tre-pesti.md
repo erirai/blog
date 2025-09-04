@@ -11,7 +11,7 @@ categories:
 - Panificati
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2015-04-05-agnellino-di-pane-ai-tre-pesti/header.jpg "frangipani © Erica")
 
 > Buona Pasqua a Tutti!
 
@@ -140,34 +140,34 @@ Qualche giorno fa alla Prova del Cuoco ho visto fare questo Agnellino di Pane. L
 </h3>
 
 Preparate la pasta di pane mettendo la farina, il sale ed il lievito nella planetaria poi mescolate un po' e sempre mescolando aggiungete l'acqua. Lasciate impastare finché l'impasto si staccherà dalle pareti della ciotola. Se l'impasto è troppo duro aggiungete ancora acqua, se è troppo mollo aggiungete farina. Poi mettete l'impasto su di un piano di lavoro infarinato e lavoratelo con le mani ancora per qualche minuto. Mettete l'impasto in una ciotola capiente, copritela bene e mettete a lievitare in un luogo caldo e riparato per almeno due ore.
-![](impasto.jpg "frangipani © Erica")
+![](../2015-04-05-agnellino-di-pane-ai-tre-pesti/impasto.jpg "frangipani © Erica")
 
 Nel frattempo preparate i tre tipi di pesto. Preparate un pesto dopo l'altro, io vi consiglio di iniziare con quello al pesto, poi quello ai pomodori secchi e finite con quello all'aglio orsino... Mettete gli ingredienti per il pesto in un recipiente altro e stretto e frullate il tutto con il mixer ad immersione.
-![](pesti.jpg "frangipani © Erica")
+![](../2015-04-05-agnellino-di-pane-ai-tre-pesti/pesti.jpg "frangipani © Erica")
 
 Passate le due ore prendete l'impasto del pane.
-![](impastolievitato.jpg "frangipani © Erica")
+![](../2015-04-05-agnellino-di-pane-ai-tre-pesti/impastolievitato.jpg "frangipani © Erica")
 
 Staccate delle piccole palline e stendetele aiutandovi con un mattarellino e della farina. Poi prendete un po' di pesto e mettetelo al centro.
-![](stendere.jpg "frangipani © Erica")
+![](../2015-04-05-agnellino-di-pane-ai-tre-pesti/stendere.jpg "frangipani © Erica")
 
 Poi chiudete e sigillate bene i bordi.
-![](chiudere.jpg "frangipani © Erica")
+![](../2015-04-05-agnellino-di-pane-ai-tre-pesti/chiudere.jpg "frangipani © Erica")
 
 E finite arrotolandolo, creando una specie di rosellina.
-![](arrotolare.jpg "frangipani © Erica")
+![](../2015-04-05-agnellino-di-pane-ai-tre-pesti/arrotolare.jpg "frangipani © Erica")
 
 Poi mettete la rosellina su di una leccarda con sotto della carta forno. Con queste roselline dovrete creare il manto dell'agnellino.
-![](roselline.jpg "frangipani © Erica")
+![](../2015-04-05-agnellino-di-pane-ai-tre-pesti/roselline.jpg "frangipani © Erica")
 
 Dovrete fare ca. 20 roselline. Poi con il resto dell'impasto fate la faccina, le orecchie, la codina e le gambine dell'agnellino.
-![](teglia.jpg "frangipani © Erica")
+![](../2015-04-05-agnellino-di-pane-ai-tre-pesti/teglia.jpg "frangipani © Erica")
 
 A questo punto mettete di nuovo a lievitare sempre coperto per un'oretta e nel frattempo preriscaldate il forno al massimo. Passata l'ora spennellate la superfice con l'olio evo ed il latte e con un seme di zucca fate l'occhietto.
-![](infornare.jpg "frangipani © Erica")
+![](../2015-04-05-agnellino-di-pane-ai-tre-pesti/infornare.jpg "frangipani © Erica")
 
 Infornate, chiudete il forno ed abbassate la temperatura a 220°C. Fate cucinare per ca. 15-20min. Appena sfornato coprite l'agnellino con un panno per ca. 10min, in questo modo la superfice diventerà bella morbida. Poi passate il tutto su di una griglia e fate raffreddare.
-![](risultato.jpg "frangipani © Erica")
+![](../2015-04-05-agnellino-di-pane-ai-tre-pesti/risultato.jpg "frangipani © Erica")
 
 
 <h3>

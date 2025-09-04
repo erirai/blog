@@ -10,7 +10,7 @@ categories:
 label: 2018-11-16-torta-soffice-con-melograno
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2018-11-16-torta-soffice-con-melograno/header.jpg "frangipani © Erica")
 
 **Torta soffice con Melagrana**, ottima per la merenda o da gustare insieme a un buon té caldo! Mettete tutto in una ciotola, frullate ed il gioco è fatto! C'è da dire altro? Ah si, è di una bontà incredibile... si scioglie in bocca e in ogni morso ci sono i chicchi della melagrana che scoppiettano in bocca. A me i semini non danno fastidio. La torta è talmente scioglievole, che non serve masticarla troppo, quindi i semini ci sono e non ci sono. Per dosare la farina e lo zucchero, in questo caso vi serve una tazza da cappuccino diciamo, quelle da ca. 1.2dl, non la tazza grande. Questa è una ricetta molto versatile, quella originale è fatta con <a href="https://frangipani.raiano.ch/2015-04-16-torta-all-ananas-sofficissima/" target="_blank">l'ananas</a>. Ho anche un bel ricordo legato alla ricetta con l'ananas... vero Zia Giusy?
 
@@ -35,7 +35,7 @@ Ecco, se entro fine mese riuscite a sbrigarvi tutti i punti sulle To-Do Lists (o
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Torta soffice con Melagrana</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2018-11-16-torta-soffice-con-melograno/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Torta soffice con Melagrana, ottima per la merenda o da gustare insieme a un buon té caldo! Mettete tutto in una ciotola, frullate ed il gioco è fatto!</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -94,28 +94,28 @@ Ecco, se entro fine mese riuscite a sbrigarvi tutti i punti sulle To-Do Lists (o
 </h3>
 
 Mettete tutti gli ingredienti, tranne la melagrana, in una ciotola e sbattete il tutto con le fruste elettriche o nella planetaria. Poi mettete l'impasto in una teglia con sotto della carta forno e cospargetela con i chicchi di melagrana.
-![](teglia.jpg "frangipani © Erica")
+![](../2018-11-16-torta-soffice-con-melograno/teglia.jpg "frangipani © Erica")
 
 Poi infornate nel forno preriscaldato statico a 200°C per ca. 25min, fate sempre la prova stecchino. Fate raffreddare bene la torta, poi tagliatela a quadretti.
-![](risultato1.jpg "frangipani © Erica")
+![](../2018-11-16-torta-soffice-con-melograno/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2018-11-16-torta-soffice-con-melograno/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2018-11-16-torta-soffice-con-melograno/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2018-11-16-torta-soffice-con-melograno/risultato4.jpg "frangipani © Erica")
 
-![](risultato5.jpg "frangipani © Erica")
+![](../2018-11-16-torta-soffice-con-melograno/risultato5.jpg "frangipani © Erica")
 
-![](risultato6.jpg "frangipani © Erica")
+![](../2018-11-16-torta-soffice-con-melograno/risultato6.jpg "frangipani © Erica")
 
-![](risultato7.jpg "frangipani © Erica")
+![](../2018-11-16-torta-soffice-con-melograno/risultato7.jpg "frangipani © Erica")
 
-![](risultato8.jpg "frangipani © Erica")
+![](../2018-11-16-torta-soffice-con-melograno/risultato8.jpg "frangipani © Erica")
 
-![](risultato9.jpg "frangipani © Erica")
+![](../2018-11-16-torta-soffice-con-melograno/risultato9.jpg "frangipani © Erica")
 
-![](risultato10.jpg "frangipani © Erica")
+![](../2018-11-16-torta-soffice-con-melograno/risultato10.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

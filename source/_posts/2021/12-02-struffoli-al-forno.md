@@ -10,7 +10,7 @@ categories:
 label: 2021-12-02-struffoli-al-forno
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2021-12-02-struffoli-al-forno/header.jpeg "frangipani © Erica")
 
 **Struffoli al forno** un dolce festoso della tradizione italiana, che non può mancare sulla tavola natalizia. La versione al forno si prepara più velocemente e secondo me è altrettanto buona. In più si conservano meglio, non essendo fritti. Però, potete tranquillamente friggerli se preferite!
 <br />
@@ -32,7 +32,7 @@ Ma questa ricetta l'ho preparata anche per un altro motivo molto speciale, infat
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Struffoli al forno</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2021-12-02-struffoli-al-forno/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Struffoli al forno un dolce festoso della tradizione italiana, che non può mancare sulla tavola natalizia. La versione al forno si prepara più velocemente e secondo me è altrettanto buona.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -105,8 +105,8 @@ Mettete tutti gli ingredienti dalla farina fino alla vaniglia in una coppa capie
 Infarinate il piano di lavoro, prendete un pezzo d'impasto alla volta e formate un salsicciotto sottile, poi tagliatelo a tocchetti da massimo 1cm. Fate rotolare i tocchetti tra i palmi delle mani per renderli più tondi, poi metteteli sulla teglia ricoperta da corta forno. Dovrete formare solo uno strato e non metterli appiccicati, quindi probabilmente vi serviranno due teglie.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="tagliare.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-12-02-struffoli-al-forno/tagliare.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-12-02-struffoli-al-forno/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -116,8 +116,8 @@ Infornateli nel forno preriscaldato a 180°C ventilato per 10-12min poi fateli i
 In una pentola capiente mettete il miele e a temperatura bassa fatelo sciogliere bene. Versate gli **Struffoli** e circa 2/3 degli zuccherini colorati nel miele e amalgamate il tutto. Tutti gli **Struffoli** dovranno essere ricoperti di miele.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="sfornati.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="miele.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-12-02-struffoli-al-forno/sfornati.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-12-02-struffoli-al-forno/miele.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -127,37 +127,37 @@ Versate il tutto su di un piatto da portata formando una cupoletta o un cerchio 
 Conservati in un contenitore ermetico, tengono benissimo per qualche giorno.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-12-02-struffoli-al-forno/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-12-02-struffoli-al-forno/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-12-02-struffoli-al-forno/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-12-02-struffoli-al-forno/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-12-02-struffoli-al-forno/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-12-02-struffoli-al-forno/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-12-02-struffoli-al-forno/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-12-02-struffoli-al-forno/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato9.jpeg "frangipani © Erica")
+![](../2021-12-02-struffoli-al-forno/risultato9.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

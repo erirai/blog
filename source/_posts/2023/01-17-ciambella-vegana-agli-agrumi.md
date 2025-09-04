@@ -12,7 +12,7 @@ categories:
 label: 2023-01-17-ciambella-vegana-agli-agrumi
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2023-01-17-ciambella-vegana-agli-agrumi/header.jpeg "frangipani © Erica")
 
 **Ciambella vegana agli Agrumi** una torta che sprigiona un profumo di agrumi pazzesco. Soffice, umida, buona e vegana. Senza tralasciare il fatto che è facilissima da preparare... Mischiare gli ingredienti asciutti, aggiungere gli ingredienti liquidi ed il gioco è fatto! È proprio questo il bello dei dolci vegani, si preparano in un attimo e in più spesso sono fatti con ingredienti che abbiamo sempre in dispensa.
 <br />
@@ -27,7 +27,7 @@ Ah, tranquilli, non mi sono scordata dei buoni propositi per questo 2023. Sempli
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Ciambella vegana agli Agrumi</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2023-01-17-ciambella-vegana-agli-agrumi/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Ciambella vegana agli Agrumi, una torta che sprigiona un profumo di agrumi pazzesco. Soffice, umida, buona e vegana.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -94,37 +94,37 @@ Ah, tranquilli, non mi sono scordata dei buoni propositi per questo 2023. Sempli
 Frullate finemente lo zucchero con le scorze degli agrumi poi mettetelo in una coppa capiente con la farina, il bicarbonato, il lievito ed il sale e date una mescolata. Aggiungete il succo di agrumi, l'olio e l'aceto. Amalgamate bene con una frusta a mano.
 <br />
 Versate l'impasto in una teglia per ciambelle precedentemente imburrata ed infarinata.
-![](teglia.jpeg "frangipani © Erica")
+![](../2023-01-17-ciambella-vegana-agli-agrumi/teglia.jpeg "frangipani © Erica")
 
 Infornate la ciambella nel forno preriscaldato a 180°C statico per 40min circa, mi raccomando fate la prova stecchino. Fatela intiepidire un'attimino, poi toglietela dalla forma. Una volta fredda, a piacere finite con una spolverata di zucchero a velo o una glassa allo zucchero, ma va benissimo anche senza niente.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-01-17-ciambella-vegana-agli-agrumi/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-01-17-ciambella-vegana-agli-agrumi/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-01-17-ciambella-vegana-agli-agrumi/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-01-17-ciambella-vegana-agli-agrumi/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-01-17-ciambella-vegana-agli-agrumi/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-01-17-ciambella-vegana-agli-agrumi/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-01-17-ciambella-vegana-agli-agrumi/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-01-17-ciambella-vegana-agli-agrumi/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

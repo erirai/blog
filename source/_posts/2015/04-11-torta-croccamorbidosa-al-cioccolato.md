@@ -11,7 +11,7 @@ categories:
 - Torte
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2015-04-11-torta-croccamorbidosa-al-cioccolato/header.jpg "frangipani © Erica")
 
 Questa è una di quelle torte buonissime che si fanno in un attimo, ma che lascia a bocca aperta tutti!!! Non c'è bisogno di scrivere altro... Si forse una cosina: è talmente buona che ho deciso di farla per il compleanno di mio marito ma nella versione al limone, poi vi darò la ricetta!
 
@@ -105,16 +105,16 @@ Questa è una di quelle torte buonissime che si fanno in un attimo, ma che lasci
 </h3>
 
 Iniziate preparando le briciole croccanti: Mettete tutti gli ingredienti asciutti in una ciotola e mescolate tutto. Poi aggiungete la margarina fusa e aiutandovi con una forchetta mescolate il tutto creando delle briciole e mettete da parte.
-![](briciole.jpg "frangipani © Erica")
+![](../2015-04-11-torta-croccamorbidosa-al-cioccolato/briciole.jpg "frangipani © Erica")
 
 Poi preparate l'impasto morbido. Mettete tutti gli ingredienti asciutti in una ciotola e mescolate, poi aggiungete l'olio ed il latte di cocco e amalgamate bene il tutto.
-![](impasto.jpg "frangipani © Erica")
+![](../2015-04-11-torta-croccamorbidosa-al-cioccolato/impasto.jpg "frangipani © Erica")
 
 Prendete una tortiera a cerniera da massimo 24cm precedentemente imburrata ed infarinata. Mettete alla base l'impasto morbido, livellate bene. Poi prendete le briciole e sbriciolate il tutto sull'impasto morbido.
-![](teglia.jpg "frangipani © Erica")
+![](../2015-04-11-torta-croccamorbidosa-al-cioccolato/teglia.jpg "frangipani © Erica")
 
 Infornate nel forno preriscaldato a 175°C statico per ca. 35min, mi raccomando fate sempre la prova stecchino. Poi fatela raffreddare prima di toglierla dalla tortiera e prima di servirla, completate con una spolverata di zucchero a velo.
-![](risultato.jpg "frangipani © Erica")
+![](../2015-04-11-torta-croccamorbidosa-al-cioccolato/risultato.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

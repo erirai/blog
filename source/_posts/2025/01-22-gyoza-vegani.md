@@ -12,7 +12,7 @@ categories:
 label: 2025-01-22-gyoza-vegani
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2025-01-22-gyoza-vegani/header.jpeg "frangipani © Erica")
 
 **Gyoza vegani** dei ravioli asiatici pieni di verdure profumate. Si cuociono completamente al vapore o prima in padella, per avere una crosticina croccante alla base, per poi finire la cottura con acqua e il suo vapore.
 <br />
@@ -27,7 +27,7 @@ Secondo me i **Gyoza** vanno assolutamente inzuppati nella salsa di soia. Va ben
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Gyoza vegani</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2025-01-22-gyoza-vegani/header.jpg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Gyoza vegani, dei ravioli asiatici pieni di verdure profumate.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -132,9 +132,9 @@ A questo punto potete stendere sottilmente l'impasto con la Nonna Papera e poi r
 Dunque prendete qualche dischetto e mettete al centro 1 cucchiaino abbondante di ripieno.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 32%; margin-right: 1%;" src="ripieno.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="impasto.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-left: 1%;" src="dischi.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%;" src="../2025-01-22-gyoza-vegani/ripieno.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="../2025-01-22-gyoza-vegani/impasto.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-left: 1%;" src="../2025-01-22-gyoza-vegani/dischi.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -142,15 +142,15 @@ Dunque prendete qualche dischetto e mettete al centro 1 cucchiaino abbondante di
 Adesso iniziamo a chiudere i **Gyoza**: prendete un dichetto farcito e chiudetelo a metà. Fate pressione sopra al centro per unire e chiudere i due lembi. Quindi (io inizio a destra) con la parte anteriore della mezzaluna iniziate a fare delle piccole pieghette sempre piegandole verso il centro e pressandole alla parte posteriore. Serviranno circa 3 pieghette, la punta o l'ultima piega viene chiusa completamente.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="gyoza1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="gyoza2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-01-22-gyoza-vegani/gyoza1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-01-22-gyoza-vegani/gyoza2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="gyoza3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="gyoza4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-01-22-gyoza-vegani/gyoza3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-01-22-gyoza-vegani/gyoza4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -158,15 +158,15 @@ Adesso iniziamo a chiudere i **Gyoza**: prendete un dichetto farcito e chiudetel
 Adesso fate la stessa cosa dall'altro lato. Prendete la parte anteriore della mezzaluna (in questo caso da sinistra) e fate delle piccole pieghette sempre piegandole verso il centro e pressandole bene alla parte posteriore. Anche qui serviranno circa 3 pieghette, la punta o l'ultima piega viene chiusa completamente.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="gyoza5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="gyoza6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-01-22-gyoza-vegani/gyoza5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-01-22-gyoza-vegani/gyoza6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="gyoza7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="gyoza8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-01-22-gyoza-vegani/gyoza7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-01-22-gyoza-vegani/gyoza8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -176,8 +176,8 @@ Adesso scegliete se congelarli o cuocerli subito. Se li congelate, metteteli in 
 Se li cuocete subito, potete scegliere tra la cottura a vapore o la cottura in padella. Io vi consiglio la cottura in padella... Dunque prendete una padella capiente e mettete un bel filo d'olio. Distribuite i **Gyoza** sulla padella con la parte del ripieno sulla padella e chiudete con un coperchio. Fate andare a temperatura media finché non si sarà creata una crosticina. A questo punto aggiungete circa mezzo bicchiere d'acqua, chiudete di nuovo con il coperchio e fate andare finché tutta l'acqua non sarà evaporata (la seconda è una specie ci cottura a vapore alla fine). Controllate spesso per non farli bruciare.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="crosticina.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="vapore.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-01-22-gyoza-vegani/crosticina.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-01-22-gyoza-vegani/vapore.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -185,50 +185,50 @@ Se li cuocete subito, potete scegliere tra la cottura a vapore o la cottura in p
 Serviteli ben caldi ed inzuppateli semplicemente nella salsa di soia o fate una salsina mescolando salsa di soia, sesamo e erba cipollina.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-01-22-gyoza-vegani/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-01-22-gyoza-vegani/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
-![](risultato3.jpeg "frangipani © Erica")
+![](../2025-01-22-gyoza-vegani/risultato3.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <div style="clear: both;"></div>
-  </div>
-</p>
-
-<p>
-  <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-01-22-gyoza-vegani/risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-01-22-gyoza-vegani/risultato5.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-01-22-gyoza-vegani/risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-01-22-gyoza-vegani/risultato7.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato11.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-01-22-gyoza-vegani/risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-01-22-gyoza-vegani/risultato9.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato12.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato13.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-01-22-gyoza-vegani/risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-01-22-gyoza-vegani/risultato11.jpeg" alt="" title="frangipani © Erica" />
+    <div style="clear: both;"></div>
+  </div>
+</p>
+
+<p>
+  <div style="width: 100%; margin-bottom: 0">
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-01-22-gyoza-vegani/risultato12.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-01-22-gyoza-vegani/risultato13.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

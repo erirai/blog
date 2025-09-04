@@ -14,7 +14,7 @@ categories:
 label: 2015-10-05-gnocchi-di-zucca-saltati-in-burro-e-salvia
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2015-10-05-gnocchi-di-zucca-saltati-in-burro-e-salvia/header.jpeg "frangipani © Erica")
 
 **Gnocchi di Zucca saltati in Burro e Salvia**, un piatto pieno di gusto e semplicità. Gli gnocchi di zucca sono vegani, l'unica cosa non vegana è il burro che si può sostituire con del burro vegano. Quindi sì, è anche un piatto vegano!
 <br />
@@ -25,7 +25,7 @@ Siii, oggi finalmente ce l'ho fatta a fare gli **Gnocchi di Zucca**! Sto sfrutta
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Gnocchi di Zucca saltati in Burro e Salvia</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2015-10-05-gnocchi-di-zucca-saltati-in-burro-e-salvia/header.jpg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Gnocchi di Zucca saltati in Burro e Salvia, un piatto pieno di gusto e semplicità.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -78,8 +78,8 @@ Siii, oggi finalmente ce l'ho fatta a fare gli **Gnocchi di Zucca**! Sto sfrutta
 Lavate la zucca, tagliatela a metà, eliminate i semi ed i filamenti e mettetela con la parte del taglio su di una teglia con sotto della carta forno. Infornatela nel forno venilato a 180°C per ca. 30min o finché sarà bella morbida. Nel frattempo lessate le patate in abbondante acqua. Quando le patate saranno cotte, pelatele e passatele nello schiacciapatate. Pelate la zucca cotta e passatela anche nello schiacciapatate. Aggiungete la farina e una grattugiata di noce moscata e impastate finché avrete un impasto omogeneo e bello elastico. Se l'impasto risulta troppo appiccicoso, aggiungete altra farina.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="patatezucca.jpg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="impasto.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2015-10-05-gnocchi-di-zucca-saltati-in-burro-e-salvia/patatezucca.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2015-10-05-gnocchi-di-zucca-saltati-in-burro-e-salvia/impasto.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -89,28 +89,28 @@ Ora prendete un po’ d’impasto alla volta, fate dei salsicciotti e tagliateli
 Prendete una padella, mettete il burro, la salvia fresca e un po' di sale. Fate sciogliere il burro e lasciate soffriggere il tutto a fuoco lento.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="gnocchi2.jpg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="burrosalvia.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2015-10-05-gnocchi-di-zucca-saltati-in-burro-e-salvia/gnocchi2.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2015-10-05-gnocchi-di-zucca-saltati-in-burro-e-salvia/burrosalvia.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 Portate ad ebollizione abbondante acqua in una pentola bella grande, appena bolle salate. Prendete un po’ di gnocchi alla volta e buttateli nell’acqua bollente. Quando gli gnocchi verranno a galla scolateli con una schiumarola e metteteli nella padella con il burro. Continuate finché avrete cotto tutti gli gnocchi.
-![](pentole.jpg "frangipani © Erica")
+![](../2015-10-05-gnocchi-di-zucca-saltati-in-burro-e-salvia/pentole.jpg "frangipani © Erica")
 
 Fate saltare gli gnocchi ancora per qualche minuto, per rendere più cremoso il tutto, aggiungete anche un pochino d'acqua di cottura. Poi impiattate e servite!
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2015-10-05-gnocchi-di-zucca-saltati-in-burro-e-salvia/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2015-10-05-gnocchi-di-zucca-saltati-in-burro-e-salvia/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2015-10-05-gnocchi-di-zucca-saltati-in-burro-e-salvia/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2015-10-05-gnocchi-di-zucca-saltati-in-burro-e-salvia/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

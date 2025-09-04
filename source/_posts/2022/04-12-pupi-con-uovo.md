@@ -12,7 +12,7 @@ categories:
 label: 2022-04-12-pupi-con-uovo
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2022-04-12-pupi-con-uovo/header.jpeg "frangipani © Erica")
 
 **Pupi cu l'Ova (senza strutto)** un dolce della tradizione siciliana tipico della Pasqua. Sono dolci a base di frolla, dei biscotti con un uovo sodo al centro e ricoperti di glassa e zuccherini colorati. Secondo la tradizione la frolla si prepara con lo strutto, si mette anche l'ammoniaca per dolci nell'impasto per farli gonfiare di più e per glassarli si usa la ghiaccia reale.
 <br />
@@ -27,7 +27,7 @@ Non mi resta che augurarvi buona Pasqua, speriamo con tanto sole per poter fare 
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Pupi cu l'Ova (senza strutto)</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2022-04-12-pupi-con-uovo/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Quadrotti al Cioccolato con Crema al Caffè golosissimi, super cioccolatosi e con una cremosissima crema al caffé. E anche un'ottima idea per la Festa del Papà, no?</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -115,9 +115,9 @@ Per il cestino ho steso la seconda parte dell'impasto fino ad uno spessore di 5m
 Per la corona ho diviso in tre l'ultima parte dell'impasto,lasciandone da parte un pezzettino. Ho formato tre cordoncini e fatto una treccia, unito le due estremità e appoggiato l'uovo al centro. Poi ho fissato l'uovo con due fascette incrociate di frolla. 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 32%; margin-right: 1%;" src="colomba.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="cestino.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-left: 1%;" src="corona.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%;" src="../2022-04-12-pupi-con-uovo/colomba.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="../2022-04-12-pupi-con-uovo/cestino.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-left: 1%;" src="../2022-04-12-pupi-con-uovo/corona.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -127,32 +127,32 @@ Infornate i **Pupi con l'uovo** nel forno preriscaldato a 180°C statico per 20m
 A questo punto preparate la glassa. Mettete lo zucchero a velo in una ciotolina, poi aggiungete pochissima acqua alla volta finché avrete un composto liscio ma denso. Spennellate i Pupi con la glassa e ricoprite con gli zuccherini colorati.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-04-12-pupi-con-uovo/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-04-12-pupi-con-uovo/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-04-12-pupi-con-uovo/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-04-12-pupi-con-uovo/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-04-12-pupi-con-uovo/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-04-12-pupi-con-uovo/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-04-12-pupi-con-uovo/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-04-12-pupi-con-uovo/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

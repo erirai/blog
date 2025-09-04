@@ -14,7 +14,7 @@ categories:
 label: 2016-08-25-galette
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2016-08-28-galette-alle-pesche-e-frutti-rossi/header.jpg "frangipani © Erica")
 
 Eh si, la fine dell'estate si avvicina... anche se si sta crepando dal caldo! Non capitemi male, non mi sto lamentando, anzi! Mi sto godendo ogni raggio di sole, non si sa mai quando lo rivedremo (crisi)... E con questo caldo sono due le cose: gelato o dolce alla frutta. O tutti i due? Magari un dolce alla frutta che può essere accompagnato con una palla di gelato? Ecco la soluzione, una bella Galette alle pesche e frutti rossi. Lo so, lo so la Galette-Mania ha raggiunto anche me. Giustamente, perché le Galettes sono fantastiche, superversatili, veloci, gustose, svuotafrigo e anche salva-visite-improvvise. Che state aspettando?
 
@@ -114,28 +114,28 @@ Eh si, la fine dell'estate si avvicina... anche se si sta crepando dal caldo! No
 </h3>
 
 Mettete tutti gli ingredienti per la frolla in una coppa (il burro deve essere freddo e tagliato a pezzetti) e impastate velocemente. Se vedete che non si compatta, aggiungete ancora del latte, ma sempre pochissimo alla volta. Appena si sarà compattato, appiattitela e avvolgete la frolla con della pellicola trasparente. Fatela riposare in frigo per una mezz'oretta.
-![](impasto.jpg "frangipani © Erica")
+![](../2016-08-28-galette-alle-pesche-e-frutti-rossi/impasto.jpg "frangipani © Erica")
 
 Lavate le pesche e tagliatele a spicchi, poi mettetele in una coppa, aggiungete i lamponi, il succo di limone, lo zucchero a velo e la vaniglia. Mescolate bene e mettete da parte.
-![](frutta.jpg "frangipani © Erica")
+![](../2016-08-28-galette-alle-pesche-e-frutti-rossi/frutta.jpg "frangipani © Erica")
 
 Passato il tempo necessario, tirate fuori dal frigo la pasta frolla e stendetela tra due fogli di carta forno aiutandovi con un mattarello. Mettete la frolla stesa sulla leccarda e togliete il foglio di sopra.
-![](stesa.jpg "frangipani © Erica")
+![](../2016-08-28-galette-alle-pesche-e-frutti-rossi/stesa.jpg "frangipani © Erica")
 
 Spalmate il formaggio spalmabile o lo yogurt di soia sulla frolla, lasciando un bordo di circa 5cm. Poi ricoprite tutto con le mandorle macinate e iniziate a sistemare gli spicchi di pesca. Mettete anche i lamponi e i ribes.
-![](farcire.jpg "frangipani © Erica")
+![](../2016-08-28-galette-alle-pesche-e-frutti-rossi/farcire.jpg "frangipani © Erica")
 
-![](farcita.jpg "frangipani © Erica")
+![](../2016-08-28-galette-alle-pesche-e-frutti-rossi/farcita.jpg "frangipani © Erica")
 
 Chiudete piegando verso l'interno i bordi della frolla. Spennellate il bordo con del latte e cospargete tutta la Galette con dello zucchero.
-![](teglia.jpg "frangipani © Erica")
+![](../2016-08-28-galette-alle-pesche-e-frutti-rossi/teglia.jpg "frangipani © Erica")
 
 Infornate la Galette nel forno preriscaldato a 180°C ventilato per 40min. Controllate spesso, non deve prendere troppo colore! Fatela raffreddare leggermente, mettete una bella spolverata di zucchero a velo e se volete, servitela accompagnata con una palla di gelato alla vaniglia, mmm!
-![](risultato1.jpg "frangipani © Erica")
+![](../2016-08-28-galette-alle-pesche-e-frutti-rossi/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2016-08-28-galette-alle-pesche-e-frutti-rossi/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2016-08-28-galette-alle-pesche-e-frutti-rossi/risultato3.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

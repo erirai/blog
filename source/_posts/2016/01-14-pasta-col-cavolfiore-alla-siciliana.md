@@ -10,7 +10,7 @@ categories:
 - "Primi Piatti"
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2016-01-14-pasta-col-cavolfiore-alla-siciliana/header.jpeg "frangipani © Erica")
 
 **Pasta col Cavolfiore alla Siciliana**, un piatto estivo vegano e super saporito. Io metto sempre anche le olive nere che secondo me ci stanno divinamente. Poi alla nota croccante ci pensano i pinoli tostati!
 Essendo un piatto siciliano, in teoria ci andrebbe anche l'uvetta, ma no grazie. A me piace tantissimo così... Sono sicura che ogni uno la fa in modo diverso, chi mette le acciughe, chi l'uvetta, chi le olive nere... Vi assicuro solamente che è molto buona, fa proprio bene!
@@ -21,7 +21,7 @@ Essendo un piatto siciliano, in teoria ci andrebbe anche l'uvetta, ma no grazie.
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Pasta col Cavolfiore alla Siciliana</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2016-01-14-pasta-col-cavolfiore-alla-siciliana/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Pasta col Cavolfiore alla Siciliana, un piatto estivo vegano e super saporito.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -80,8 +80,8 @@ Pulite il cavolfiore e tagliate le cimette. Tagliate finemente anche lo scalogno
 In una padellina a parte tostate i pinoli senza farli bruciare.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="cavolfiore.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="pinoli.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2016-01-14-pasta-col-cavolfiore-alla-siciliana/cavolfiore.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2016-01-14-pasta-col-cavolfiore-alla-siciliana/pinoli.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -89,24 +89,24 @@ In una padellina a parte tostate i pinoli senza farli bruciare.
 Fate bollire abbondante acqua poi buttate la pasta e salatela. Quando la pasta sarà quasi al dente, scolatela e versatela nella padella con il cavolfiore. Tenete da parte l'acqua di cottura e aggiungetela man mano nella padella e ultimate la cottura della pasta. Aggiungete il basilico fresco, impiattate, mettete un po' di pinoli e un filo d'olio evo.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2016-01-14-pasta-col-cavolfiore-alla-siciliana/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2016-01-14-pasta-col-cavolfiore-alla-siciliana/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2016-01-14-pasta-col-cavolfiore-alla-siciliana/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2016-01-14-pasta-col-cavolfiore-alla-siciliana/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2016-01-14-pasta-col-cavolfiore-alla-siciliana/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2016-01-14-pasta-col-cavolfiore-alla-siciliana/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

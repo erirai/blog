@@ -11,7 +11,7 @@ categories:
 label: 2020-06-10-frittelle-dolci-di-pane
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2020-06-10-frittelle-dolci-di-pane/header.jpeg "frangipani © Erica")
 
 **Frittelle dolci di Pane** il dolce più povero del mondo... ovvero pane e zucchero! Vi avanza dell'impasto per pane o pizza? Basta friggerlo e passarlo nello zucchero... 
 <br />
@@ -24,7 +24,7 @@ Avevo preparato queste Frittelle dolci di Pane ad Aprile per la 13. Foodie Chall
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Frittelle dolci di Pane</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-06-10-frittelle-dolci-di-pane/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Frittelle dolci di Pane il dolce più povero del mondo... ovvero pane e zucchero!</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -73,26 +73,26 @@ Fate sciogliere il lievito nell’acqua tiepida. Mette farina e sale nella plane
 Passato il tempo necessario, formate delle piccole palline e appiattitele. Cuocetele da entrambi i lati in una padella antiaderente ben unta a temperatura media, poi passateli nello zucchero.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="padella.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="zucchero.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-06-10-frittelle-dolci-di-pane/padella.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-06-10-frittelle-dolci-di-pane/zucchero.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 Mangiate calde sono la fine del mondo!
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-06-10-frittelle-dolci-di-pane/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-06-10-frittelle-dolci-di-pane/risultato3.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato5.jpeg "frangipani © Erica")
+![](../2020-06-10-frittelle-dolci-di-pane/risultato5.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-06-10-frittelle-dolci-di-pane/risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-06-10-frittelle-dolci-di-pane/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

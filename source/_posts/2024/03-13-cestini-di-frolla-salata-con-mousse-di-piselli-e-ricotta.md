@@ -13,12 +13,12 @@ categories:
 label: 2024-03-13-cestini-di-frolla-salata-con-mousse-di-piselli-e-ricotta
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2024-03-13-cestini-di-frolla-salata-con-mousse-di-piselli-e-ricotta/header.jpeg "frangipani © Erica")
 
 Pubblicità: **Cestini di Frolla Salata con Mousse di Piselli e Ricotta** in collaborazione con <a href="https://www.farmy.ch" target="_blank">Farmy</a>. Dei piccoli Finger Food per l'aperitivo di Pasqua, ma anche per un Buffet. Croccanti e cremosi, saporiti, ma delicati allo stesso tempo. Invece di fare dei piccoli cestini, si può fare anche una sola Tarte più grande e tagliarla a fette o addirittura semplicemente dei biscotti di frolla salata e poi metterci sopra la mousse... Come preferite!
 <br />
 All'inizio volevo fare questi cestini con la pasta sfoglia, ma poi ho pensato che non avevo mai fatto la **pasta frolla salata** e mi sembrava che fosse arrivata l'ora di farla. Ed è stata un'ottima idea. La frolla salata è buonissima e si prepara veramente in un attimo. Poi questa **mousse di piselli e ricotta** è favolosa! Molto cremosa e dal colore bellissimo...
-![](spesa.jpeg "frangipani © Erica")
+![](../2024-03-13-cestini-di-frolla-salata-con-mousse-di-piselli-e-ricotta/spesa.jpeg "frangipani © Erica")
 
 Se proprio non vi va di preparare voi stessi dei cestini o dei biscotti da farcire con la mousse, potete tranquillamente comprare dei Crackers o qualcosa del genere e farcirli con questa crema di piselli e ricotta. Sul sito di <a href="https://www.farmy.ch" target="_blank">Farmy</a> trovate una grandissima scelta di Crackers o stuzzichini salati che potete usare proprio per questo...
 
@@ -29,7 +29,7 @@ Quest'anno Pasqua è prestino, quindi qui da noi in Svizzera sarà ancora un po'
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Cestini di Frolla Salata con Mousse di Piselli e Ricotta</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2024-03-13-cestini-di-frolla-salata-con-mousse-di-piselli-e-ricotta/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Cestini di Frolla Salata con Mousse di Piselli e Ricotta, dei piccoli Finger Food per l'aperitivo di Pasqua, ma anche per un Buffet. Croccanti e cremosi, saporiti, ma delicati allo stesso tempo.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -101,16 +101,16 @@ Se vi avanza della frolla, stendetela fino ad uno spessore di 3mm e con un colte
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="orecchie.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-03-13-cestini-di-frolla-salata-con-mousse-di-piselli-e-ricotta/teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-03-13-cestini-di-frolla-salata-con-mousse-di-piselli-e-ricotta/orecchie.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="piselli.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="mousse.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-03-13-cestini-di-frolla-salata-con-mousse-di-piselli-e-ricotta/piselli.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-03-13-cestini-di-frolla-salata-con-mousse-di-piselli-e-ricotta/mousse.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -118,32 +118,32 @@ Se vi avanza della frolla, stendetela fino ad uno spessore di 3mm e con un colte
 Passate la mousse di piselli e ricotta in una sacca da pasticcere con bocchetta tonda liscia e farcite i cestini di frolla. Prendete due orecchie ed infilatele nella mousse come se fossero due orecchie di coniglio. Farcite i cestini sul momento, in questo modo i cestini di frolla rimarranno belli friabili.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-03-13-cestini-di-frolla-salata-con-mousse-di-piselli-e-ricotta/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-03-13-cestini-di-frolla-salata-con-mousse-di-piselli-e-ricotta/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-03-13-cestini-di-frolla-salata-con-mousse-di-piselli-e-ricotta/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-03-13-cestini-di-frolla-salata-con-mousse-di-piselli-e-ricotta/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-03-13-cestini-di-frolla-salata-con-mousse-di-piselli-e-ricotta/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-03-13-cestini-di-frolla-salata-con-mousse-di-piselli-e-ricotta/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-03-13-cestini-di-frolla-salata-con-mousse-di-piselli-e-ricotta/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-03-13-cestini-di-frolla-salata-con-mousse-di-piselli-e-ricotta/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

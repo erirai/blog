@@ -12,7 +12,7 @@ categories:
 label: 2024-10-18-girella-di-pasta-lievita-con-mele-e-crema-alla-vaniglia
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2024-10-18-girella-di-pasta-lievita-con-mele-e-crema-alla-vaniglia/header.jpeg "frangipani © Erica")
 
 **Girella di Pasta Lievita con Mele e Crema alla Vaniglia** una soffice girella piena di cremosità e succose mele. Sembra un po' una torta morbidosa fatta di pasta lievita. Eh sì perché la pasta lievita ed io, grande storia d'amore! Ovviamente potete anche fare delle semplici girelle piccole, tipo Cinnamon Rolls per intenderci. O addirittura usare un altro ripieno. Per una versione super super veloce si può usare la crema di nocciole, una confettura o zucchero e cannella.
 
@@ -31,7 +31,7 @@ Erica
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Girella di Pasta Lievita con Mele e Crema alla Vaniglia</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2024-10-18-girella-di-pasta-lievita-con-mele-e-crema-alla-vaniglia/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Girella di Pasta Lievita con Mele e Crema alla Vaniglia, una soffice girella piena di cremosità e succose mele.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -129,8 +129,8 @@ Preparate la crema pasticcera: In una coppa mescolate i tuorli con lo zucchero e
 Adesso cuocete le mele: Pelate le mele, eliminate il torsolo e tagliatele a fettine sottili. In una padella mettete il burro, le mele e lo zucchero ed un goccio d'acqua. A temperatura medio bassa fate cuocere le mele finché non si saranno ammorbidite. Togliete dai fornelli e fatele raffreddare.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="cremapasticcera.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="mele.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-10-18-girella-di-pasta-lievita-con-mele-e-crema-alla-vaniglia/cremapasticcera.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-10-18-girella-di-pasta-lievita-con-mele-e-crema-alla-vaniglia/mele.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -138,8 +138,8 @@ Adesso cuocete le mele: Pelate le mele, eliminate il torsolo e tagliatele a fett
 Passato il tempo necessario per la lievitazione, prendete l'impasto e stendetelo formando un rettangolo dallo spessore di 5mm circa. Tagliate a metà il rettangolo e spalmate la crema pasticcera su di un lato lasciando un bordo di 1cm. Sopra alla crema distribuiteci le mele, poi coprite con l'altra metà dell'impasto. Dividete l'impasto in 3 striscie uguali.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="impasto.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="impastotagliato.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-10-18-girella-di-pasta-lievita-con-mele-e-crema-alla-vaniglia/impasto.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-10-18-girella-di-pasta-lievita-con-mele-e-crema-alla-vaniglia/impastotagliato.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -147,9 +147,9 @@ Passato il tempo necessario per la lievitazione, prendete l'impasto e stendetelo
 Iniziate ad arrotolarne una. Una volta arrotolata, appoggiatela all'inizio della prossima striscia e continuate ad arrotolare, fate la stessa cosa con l'ultima striscia. Poi mettete il rotolo gigante in una teglia rotonda ricoperta con della carta forno, coprite e fate lievitare per un'oretta o fino a raddoppio del suo volume.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 32%; margin-right: 1%;" src="rotolo1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="rotolo2.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-left: 1%;" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%;" src="../2024-10-18-girella-di-pasta-lievita-con-mele-e-crema-alla-vaniglia/rotolo1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="../2024-10-18-girella-di-pasta-lievita-con-mele-e-crema-alla-vaniglia/rotolo2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-left: 1%;" src="../2024-10-18-girella-di-pasta-lievita-con-mele-e-crema-alla-vaniglia/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -157,29 +157,29 @@ Iniziate ad arrotolarne una. Una volta arrotolata, appoggiatela all'inizio della
 Infornate nella parte bassa del forno preriscaldato a 180°C statico per 45min circa o finché avrà un bel colorito. Fate intiepidire un po' prima di uscirlo dalla teglia...
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-10-18-girella-di-pasta-lievita-con-mele-e-crema-alla-vaniglia/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-10-18-girella-di-pasta-lievita-con-mele-e-crema-alla-vaniglia/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-10-18-girella-di-pasta-lievita-con-mele-e-crema-alla-vaniglia/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-10-18-girella-di-pasta-lievita-con-mele-e-crema-alla-vaniglia/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-10-18-girella-di-pasta-lievita-con-mele-e-crema-alla-vaniglia/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-10-18-girella-di-pasta-lievita-con-mele-e-crema-alla-vaniglia/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato7.jpeg "frangipani © Erica")
+![](../2024-10-18-girella-di-pasta-lievita-con-mele-e-crema-alla-vaniglia/risultato7.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

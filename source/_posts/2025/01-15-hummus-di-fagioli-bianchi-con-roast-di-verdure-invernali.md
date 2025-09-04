@@ -14,7 +14,7 @@ categories:
 label: 2025-01-15-hummus-di-fagioli-bianchi-con-roast-di-verdure-invernali
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2025-01-15-hummus-di-fagioli-bianchi-con-roast-di-verdure-invernali/header.jpeg "frangipani © Erica")
 
 Pubblicità: **Hummus di Fagioli Bianchi con Roast di Verdure Invernali** in collaborazione con <a href="https://www.farmy.ch" target="_blank">Farmy</a>. Un piatto saporito, colorato e vegano che vi sorprenderà! L'Hummus di ceci è imbattibile, ma quello con i fagioli bianchi neanche ci scherza eh... Ha un gusto più delicato e una consistenza più cremosa. Mi piace alternare i due tipi di Hummus.
 <br />
@@ -29,7 +29,7 @@ Sul sito di <a href="https://www.farmy.ch" target="_blank">Farmy</a> trovate tan
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Hummus di Fagioli Bianchi con Roast di Verdure Invernali</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2025-01-15-hummus-di-fagioli-bianchi-con-roast-di-verdure-invernali/header.jpg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Hummus di Fagioli Bianchi con Roast di Verdure Invernali, un piatto saporito, colorato e vegano che vi sorprenderà!</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -107,36 +107,36 @@ Sul sito di <a href="https://www.farmy.ch" target="_blank">Farmy</a> trovate tan
 Lavate e pulite tutte le verdure e pelate quello che c'è da pelare. Tagliate le verdure a pezzetti e mettete tutto, tranne il cavolo riccio, su di una teglia con sotto della carta forno. Condite con olio, sale e spezie e/o erbette a piacere ed infonate nel forno a 180°C per mezz'oretta. Per gli ultimi 10min aggiungete anche il cavolo riccio.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="verdure.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="roast.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-01-15-hummus-di-fagioli-bianchi-con-roast-di-verdure-invernali/verdure.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-01-15-hummus-di-fagioli-bianchi-con-roast-di-verdure-invernali/roast.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 Mentre le verdure sono in forno, prepariamo l'Hummus: Frullate tutti gli ingredienti per l'Hummus finché avrete una crema bella liscia e cremosa. 
-![](hummusdifagioli.jpeg "frangipani © Erica")
+![](../2025-01-15-hummus-di-fagioli-bianchi-con-roast-di-verdure-invernali/hummusdifagioli.jpeg "frangipani © Erica")
 
 Spalmate l'Hummus su di un piatto ed aggiungete un filo d'olio e sopra adagiateci il roast di verdure. Vi consiglio di mangiarlo direttamente con un cucchiaio o usate una bella fetta di pane tostato al posto del cucchiaio...
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-01-15-hummus-di-fagioli-bianchi-con-roast-di-verdure-invernali/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-01-15-hummus-di-fagioli-bianchi-con-roast-di-verdure-invernali/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-01-15-hummus-di-fagioli-bianchi-con-roast-di-verdure-invernali/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-01-15-hummus-di-fagioli-bianchi-con-roast-di-verdure-invernali/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-01-15-hummus-di-fagioli-bianchi-con-roast-di-verdure-invernali/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-01-15-hummus-di-fagioli-bianchi-con-roast-di-verdure-invernali/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

@@ -11,7 +11,7 @@ categories:
 label: 2015-11-13-vermicelles-cake
 lang: it 
 ---
-![](header.jpg "frangipani © Erica")
+![](../2015-11-13-vermicelles-cake/header.jpg "frangipani © Erica")
 
 > Buon Compleanno Papà e grazie Lucia per la ricetta!
 
@@ -23,7 +23,7 @@ Quando ancora lavoravo, la mia carissima amica Lucia in autunno portava questa b
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Torta di Castagne</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2015-11-13-vermicelles-cake/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Torta di Castagne, bella soffice e per niente asciutta, è una meraviglia.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -74,14 +74,14 @@ Quando ancora lavoravo, la mia carissima amica Lucia in autunno portava questa b
 </h3>
 
 Mettete il burro o la margarina morbida nella planetaria e azionatela, aggiungete lo zucchero a velo setacciato, lo zucchero vanigliato e le uova e mescolate finché l'impasto sarà bello gonfio e spumoso. Questo procedimento è molto importante perché non c'è lievito, se non montate bene le uova la torta non si gonfierà. Poi aggiungete la purea di castagne scongelata e frullate ancora (potete tirarla fuori dal congelatore la sera prima e metterla in frigo, se no la lasciate fuori se volete fare prima). Poi aggiungete le mandorle macinate e un pizzico di sale e mescolate a mano molto delicatamente. Versate l'impasto in una tortiera precedentemente imburrata ed infarinata. Potete usare una tortiera rotonda, da plumcake o anche a ciambella.
-![](teglia.jpg "frangipani © Erica")
+![](../2015-11-13-vermicelles-cake/teglia.jpg "frangipani © Erica")
 
 Infornate la torta nel forno preriscaldato a 180°C statico per 40-50min, mi raccomando fate la prova stecchino. Fatela raffreddare e prima di servirla, spolverate la superficie con dello zucchero a velo. Se volete potete anche glassarla con del cioccolato fondente o servirla accompagnata con la panna montata.
-![](risultato1.jpg "frangipani © Erica")
+![](../2015-11-13-vermicelles-cake/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2015-11-13-vermicelles-cake/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2015-11-13-vermicelles-cake/risultato3.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

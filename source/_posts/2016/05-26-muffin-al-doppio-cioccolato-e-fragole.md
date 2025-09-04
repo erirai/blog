@@ -14,7 +14,7 @@ categories:
 - "Muffin, Cupcakes, Cake Pops..."
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2016-05-26-muffin-al-doppio-cioccolato-e-fragole/header.jpg "frangipani © Erica")
 
 Sono passati quasi due mesi dall'ultima volta che ho fatto dei Muffin e questo non va bene! Dobbiamo rimediare subito! Guardo in dispensa e vedo ancora resti di cioccolato pasquale, in esattezza cioccolato Kinder... In frigo c'erano delle fragole che non erano proprio freschissime, quindi mescoliamo le due cose, no? Per farli vegan usate del cioccolato fondente o del cioccolato al latte vegano. Si fanno in un attimo, mescoli tutto, tagli il cioccolato e le fragole, butti dentro e inforni! Un profuuuuuuuumo...
 
@@ -89,16 +89,16 @@ Sono passati quasi due mesi dall'ultima volta che ho fatto dei Muffin e questo n
 </h3>
 
 Lavate le fragole. Poi tagliate a pezzettini sia le fragole che il cioccolato.
-![](fragolecioccolato.jpg "frangipani © Erica")
+![](../2016-05-26-muffin-al-doppio-cioccolato-e-fragole/fragolecioccolato.jpg "frangipani © Erica")
 
 Il procedimento per i muffin è sempre lo stesso. Mettete tutti gli ingredienti asciutti in una ciotola e mescolate con la frusta a mano, poi aggiungete l'olio ed il latte e mescolate con un cucchiaio, finché si tolgono tutti i grumi e finite aggiungendo il cioccolato e le fragole tagliati a pezzettini.
-![](impasto.jpg "frangipani © Erica")
+![](../2016-05-26-muffin-al-doppio-cioccolato-e-fragole/impasto.jpg "frangipani © Erica")
 
 Versate l'impasto nei pirottini.
-![](pirottini.jpg "frangipani © Erica")
+![](../2016-05-26-muffin-al-doppio-cioccolato-e-fragole/pirottini.jpg "frangipani © Erica")
 
 E infornateli nel forno preriscaldato a 200°C (statico) per ca. 20min. Fateli raffreddare un attimino, poi passateli su di una griglia e fateli raffreddare completamente.
-![](risultato.jpg "frangipani © Erica")
+![](../2016-05-26-muffin-al-doppio-cioccolato-e-fragole/risultato.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

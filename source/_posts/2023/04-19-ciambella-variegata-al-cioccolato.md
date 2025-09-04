@@ -12,7 +12,7 @@ categories:
 label: 2023-04-19-ciambella-variegata-al-cioccolato
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2023-04-19-ciambella-variegata-al-cioccolato/header.jpeg "frangipani © Erica")
 
 **Ciambella Variegata al Cioccolato**, bella cioccolatosa e per niente asciutta! È un classico che amo mangiare a colazione o merenda, un dolce da té lo chiamo. Un dolce che mette d'accordo tutti.
 
@@ -27,7 +27,7 @@ Inoltre mi sembra un'ottima ricetta per smaltire il cioccolato di Pasqua avanzat
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Ciambella Variegata al Cioccolato</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2023-04-19-ciambella-variegata-al-cioccolato/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Ciambella Variegata al Cioccolato, bella cioccolatosa e per niente asciutta!</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -92,13 +92,13 @@ Fate scioglire a Bagnomaria 50gr di cioccolato fondente con l'acqua, poi mettete
 Mettete il burro morbido, lo zucchero, la vaniglia ed il sale nella planetaria e montate il tutto finché sarà chiaro e spumoso. A questo punto incorporate le uova, uno alla volta. Aggiungete il prossimo solo quando il precedente sarà completamente assorbito.
 <br />
 Adesso, sempre mescolando, aggiungete la farina ed il latte, poco alla volta sempre alternandoli. Continuate a mescolare finché l'impasto non sarà bello liscio. Prendete 2/3 dell'impasto e mettetelo i una ciotola a parte, aggiungete il cioccolato bianco tagliato a pezzettini e date una mescolata veloce. L'altro terzo lo lasciate nella planetaria e aggiungete il cioccolato fuso precedentemente, mescolate bene poi aggiungete 50gr di cioccolato fondente tagliato a pezzetti. Date un'ultima mescolata.
-![](impasto.jpeg "frangipani © Erica")
+![](../2023-04-19-ciambella-variegata-al-cioccolato/impasto.jpeg "frangipani © Erica")
 
 Prendete una teglia per ciambelle non troppo grande (Gugelhupf), imburratela ed infarinatela. Adesso a cucchiaiate versate i due impasti nella teglia sempre alternandoli, io mi aiuto con il porzionatore per gelato (spallinatore lo chiamo io). Infine con un coltello fate qualche giro per dare l'effetto marmorizzato.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-04-19-ciambella-variegata-al-cioccolato/teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-04-19-ciambella-variegata-al-cioccolato/teglia2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -108,48 +108,48 @@ Infornate la **Ciambella Variegata al Cioccolato** nel forno preriscaldato a 180
 Fate sciogliere a Bagnomaria i restanti 50gr di cioccolato fondente, poi fatelo colare su tutta la torta, una volta asciutto potrete servire la Ciambella.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-04-19-ciambella-variegata-al-cioccolato/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-04-19-ciambella-variegata-al-cioccolato/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-04-19-ciambella-variegata-al-cioccolato/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-04-19-ciambella-variegata-al-cioccolato/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-04-19-ciambella-variegata-al-cioccolato/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-04-19-ciambella-variegata-al-cioccolato/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-04-19-ciambella-variegata-al-cioccolato/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-04-19-ciambella-variegata-al-cioccolato/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-04-19-ciambella-variegata-al-cioccolato/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-04-19-ciambella-variegata-al-cioccolato/risultato10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato11.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato12.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-04-19-ciambella-variegata-al-cioccolato/risultato11.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-04-19-ciambella-variegata-al-cioccolato/risultato12.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

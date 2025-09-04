@@ -13,7 +13,7 @@ categories:
 label: 2020-11-05-pane-al-farro-con-noci
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2020-11-05-pane-al-farro-con-noci/header.jpeg "frangipani © Erica")
 
 **Pane al Farro con Noci** una pagnotta bella croccante dai profumi autunnali. Ottimo da mangiare a colazione con burro e marmellata, ma anche con del formaggio spalmabile o semi stagionato. 
 <br />
@@ -32,7 +32,7 @@ Non so cosa aspettarmi da questo mese, perché ormai non pianifico più nulla. V
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Pane al Farro con Noci</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-11-05-pane-al-farro-con-noci/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Pane al Farro con Noci una pagnotta bella croccante dai profumi autunnali. Ottimo da mangiare a colazione con burro e marmellata, ma anche con del formaggio spalmabile o semi stagionato.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -79,45 +79,45 @@ Non so cosa aspettarmi da questo mese, perché ormai non pianifico più nulla. V
 Mettete le farine e il sale nella planetaria e mescolate. Fate sciogliere il lievito nell'acqua, poi versatela nella planetaria. Impastate il tutto finché avrete un impasto bello liscio, poi passate l'impasto su di un piano di lavoro, aggiungete le noci e impastate per qualche minuto a mano, finché le noci saranno ben incorporate nell'impasto. Coprite e fate lievitare per 12h, impastate di nuovo velocemene e fate lievitare di nuovo per 3h.
 <br />
 Dunque decidete la cottura che vorrete fare. Se decidete di cuocere il pane nella casseruola in ghisa, allora prendete un recipiente che abbia più o meno la stessa grandezza della casseruola che userete per la cottura e infarinatelo bene. Con l'impasto formate una palla, mettetela nel recipiente infarinato, un'altra spolverata di farina, coprite bene e fate lievitare per 2h.
-![](lievitazione.jpeg "frangipani © Erica")
+![](../2020-11-05-pane-al-farro-con-noci/lievitazione.jpeg "frangipani © Erica")
 
 Nel frattempo riscaldate il forno a 220°C statico e infornate la casseruola con il coperchio (vuota). Lasciatela in forno per 30min. Scaravoltate l'impasto su di un foglio di carta forno non troppo grande, se volete fate qualche taglietto sulla superficie. Uscite la casseruola dal forno e mettete l'impasto con la carta forno nella casseruola preriscaldata. Chiudete la casseruola con il coperchio e cuocete per 30min. Passati i 30min, togliete il coperchio e lasciate cuocere in forno ancora per 20-25min.
-![](casseruola.jpeg "frangipani © Erica")
+![](../2020-11-05-pane-al-farro-con-noci/casseruola.jpeg "frangipani © Erica")
 
 Per la cottura senza casseruola formate un panetto, mettetelo su di una teglia con sotto della carta forno, coprite bene e fate lievitare per 2h. Se volete fate qualche taglietto sulla superficie.
-![](teglia.jpeg "frangipani © Erica")
+![](../2020-11-05-pane-al-farro-con-noci/teglia.jpeg "frangipani © Erica")
 
 Infornate nel forno preriscaldato a 200°C statico per 20-30min o finché avrà un bel colorito.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-11-05-pane-al-farro-con-noci/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-11-05-pane-al-farro-con-noci/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato3.jpeg "frangipani © Erica")
+![](../2020-11-05-pane-al-farro-con-noci/risultato3.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <div style="clear: both"></div>
-  </div>
-</p>
-
-<p>
-  <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-11-05-pane-al-farro-con-noci/risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-11-05-pane-al-farro-con-noci/risultato5.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-11-05-pane-al-farro-con-noci/risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-11-05-pane-al-farro-con-noci/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <div style="clear: both"></div>
+  </div>
+</p>
+
+<p>
+  <div style="width: 100%; margin-bottom: 0">
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-11-05-pane-al-farro-con-noci/risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-11-05-pane-al-farro-con-noci/risultato9.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

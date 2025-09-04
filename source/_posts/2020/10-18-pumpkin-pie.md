@@ -12,7 +12,7 @@ categories:
 label: 2020-10-18-pumpkin-pie
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2020-10-18-pumpkin-pie/header.jpeg "frangipani © Erica")
 
 **Pumpkin Pie (Crostata di Zucca speziata)** un classico autunnale, che ormai mangiamo in tutto il mondo. Un guscio super burroso, croccante e friabile e un ripieno cremoso dal gusto deciso, dolce e speziato. Ha un gusto particolare, caldo, terra terra... Questa crostata alla zucca ha un gusto diverso dalle crostate che siamo abituati a mangiare. E non è un gusto che piace a tutti. Se non amate le spezie, potete benissimo non metterle o mettere solo la cannella...
 <br />
@@ -33,7 +33,7 @@ Erica
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Pumpkin Pie (Crostata di Zucca speziata)</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-10-18-pumpkin-pie/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Pumpkin Pie (Crostata di Zucca speziata) un classico autunnale, che ormai mangiamo in tutto il mondo. Un guscio super burroso, croccante e friabile e un ripieno cremoso dal gusto deciso, dolce e speziato.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -120,8 +120,8 @@ Per la farcia mettete la purea di zucca, lo zucchero e il pumpkin spice in una p
 Passato il tempo necessario prendete la pie crust dal frigo e stendetela. Ricoprite una teglia rotonda alta con l'impasto e aggiustate bene il bordo, facendolo più spesso del fondo, adesso mettete in frigo per 30min. Per una prima cottura in bianco, mettete prima un foglio di carta forno, poi un foglio di carta d'alluminio rafforzando i bordi per non farli cedere e come peso coprite il fondo con dei legumi.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="farcia.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="cotturainbianco.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-10-18-pumpkin-pie/farcia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-10-18-pumpkin-pie/cotturainbianco.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -130,9 +130,9 @@ Infornate nel forno preriscaldato a 220°C statico per 12min. Uscite la teglia d
 Abbassate la temperatura del forno a 180°C, versate la farcia alla zucca nella teglia, coprite di nuovo il bordo con la carta d'alluminio e infornate per ca. 45min. Controllatela bene per non farla bruciare. Fatela intiepidire prima di mangiarla...
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 32%; margin-right: 1%;" src="cotturainbianco2.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="piecrust.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-left: 1%;" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%;" src="../2020-10-18-pumpkin-pie/cotturainbianco2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="../2020-10-18-pumpkin-pie/piecrust.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-left: 1%;" src="../2020-10-18-pumpkin-pie/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -141,46 +141,46 @@ Se vi è avanzato impasto, potete formare delle foglie, delle zucche o altro che
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-10-18-pumpkin-pie/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-10-18-pumpkin-pie/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato3.jpeg "frangipani © Erica")
+![](../2020-10-18-pumpkin-pie/risultato3.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-10-18-pumpkin-pie/risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-10-18-pumpkin-pie/risultato5.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-10-18-pumpkin-pie/risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-10-18-pumpkin-pie/risultato7.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato8.jpeg "frangipani © Erica")
+![](../2020-10-18-pumpkin-pie/risultato8.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-10-18-pumpkin-pie/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-10-18-pumpkin-pie/risultato10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato11.jpeg "frangipani © Erica")
+![](../2020-10-18-pumpkin-pie/risultato11.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato12.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato13.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-10-18-pumpkin-pie/risultato12.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-10-18-pumpkin-pie/risultato13.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

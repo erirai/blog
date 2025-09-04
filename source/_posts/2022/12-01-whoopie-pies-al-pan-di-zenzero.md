@@ -9,7 +9,7 @@ categories:
 label: 2022-12-01-whoopie-pies-al-pan-di-zenzero
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2022-12-01-whoopie-pies-al-pan-di-zenzero/header.jpeg "frangipani © Erica")
 
 **Whoopie Pies al Pan di Zenzero** ovvero una specie di sandwich composto da due morbidi biscottoni profumati al pan di zenzero e farciti con una crema leggera al Quark profumata all'arancia.
 <br />
@@ -26,7 +26,7 @@ Vi auguro un sereno avvento, evitatiamo le cose inutili e superflue, passiamo il
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Whoopie Pies al Pan di Zenzero</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2022-12-01-whoopie-pies-al-pan-di-zenzero/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Whoopie Pies al Pan di Zenzero, ovvevo una specie di sandwich composto da due morbidi biscottoni profumati al pan di zenzero e farciti con una crema leggera al Quark profumata all'arancia.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -135,9 +135,9 @@ Ora infornateli a 170°C statico per 15-20min, dipende da quanto sono grandi. Co
 Preparate la crema: montate la panna con lo zucchero a velo, l'addensante e la vaniglia macinata. Quando sarà bella ferma incorporate il Quark e la scorza d'arancia mescolando a mano (se il Quark è troppo acquoso, fatelo sgocciolare un pochettino prima). Fate attenzione a non smontare la panna e mettetela a riposare in frigo.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 32%; margin-right: 1%;" src="impasto.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="teglia.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-left: 1%;" src="crema.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%;" src="../2022-12-01-whoopie-pies-al-pan-di-zenzero/impasto.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="../2022-12-01-whoopie-pies-al-pan-di-zenzero/teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-left: 1%;" src="../2022-12-01-whoopie-pies-al-pan-di-zenzero/crema.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -145,9 +145,9 @@ Preparate la crema: montate la panna con lo zucchero a velo, l'addensante e la v
 Quando saranno completamente freddi, passate la crema di panna e Quark in un sac à poche e farcite un biscottone e poi ricoprite con un secondo biscottone. Volendo potete farcirli anche aiutandovi con una spatoletta o un coltello... 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 32%; margin-right: 1%;" src="sfornati.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="farcire.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-left: 1%;" src="whoopies.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%;" src="../2022-12-01-whoopie-pies-al-pan-di-zenzero/sfornati.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="../2022-12-01-whoopie-pies-al-pan-di-zenzero/farcire.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-left: 1%;" src="../2022-12-01-whoopie-pies-al-pan-di-zenzero/whoopies.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -155,24 +155,24 @@ Quando saranno completamente freddi, passate la crema di panna e Quark in un sac
 Lasciateli in frigo finché li servirete!
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-12-01-whoopie-pies-al-pan-di-zenzero/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-12-01-whoopie-pies-al-pan-di-zenzero/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-12-01-whoopie-pies-al-pan-di-zenzero/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-12-01-whoopie-pies-al-pan-di-zenzero/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-12-01-whoopie-pies-al-pan-di-zenzero/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-12-01-whoopie-pies-al-pan-di-zenzero/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

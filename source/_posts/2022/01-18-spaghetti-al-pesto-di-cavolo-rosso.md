@@ -13,7 +13,7 @@ categories:
 label: 2022-01-18-spahetti-al-pesto-di-cavolo-rosso
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2022-01-18-spaghetti-al-pesto-di-cavolo-rosso/header.jpeg "frangipani © Erica")
 
 **Spaghetti al Pesto di Cavolo Rosso** un piatto coloratissimo e fresco. È una ricetta veloce e facile, ma tanto buona. Per via del Veganuary ho preparato il pesto senza formaggio, ma si può aggiungere del parmigiano o del pecorino a piacere. Per i miei gusti però non ce n'è bisogno. Un modo per usare il cavolo rosso in un primo piatto, dato che solitamente si prepara crudo in insalata o cotto come contorno.
 
@@ -30,7 +30,7 @@ Ho deciso di preparare una ricetta bella colorata perché l'inverno ha bisogno d
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Spaghetti al Pesto di Cavolo Rosso</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2022-01-18-spaghetti-al-pesto-di-cavolo-rosso/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Spaghetti al Pesto di Cavolo Rosso un piatto coloratissimo e fresco. È una ricetta veloce e facile, ma tanto buona. Per via del Veganuary ho preparato il pesto senza formaggio, ma si può aggiungere del parmigiano o del pecorino a piacere.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -85,29 +85,29 @@ Ho deciso di preparare una ricetta bella colorata perché l'inverno ha bisogno d
 </h3>
 
 Tagliate finemente la cipolla e pelate l'aglio, poi fate rosolare entrambi in una padella con un filo d'olio ed un pizzico di sale. Aggiungete il cavolo rosso tagliato a listarelle e fatelo saltare nella padella finché sarà cotto, se c'è bisogno aggungete un pochettino d'acqua alla volta. Fate evaporare tutta l'acqua, salate ed eliminate l'aglio. A questo punto frullate il cavolo rosso cotto in padella con pinoli tostati, succo e scorza di limone, un filo d'olio e sale. Assaggiate e aggiustate di limone e sale se c'è bisogno.
-![](pesto.jpeg "frangipani © Erica")
+![](../2022-01-18-spaghetti-al-pesto-di-cavolo-rosso/pesto.jpeg "frangipani © Erica")
 
 Nel frattempo fate bollire abbondante acqua, calate gli Spaghetti e salate. Quando saranno cotti scolateli, tenendo da parte un pochettino d'acqua di cottura. Condite gli Spaghetti con il pesto di cavolo rosso, se c'è bisogno aggiungete un pochettino di acqua di cottura per renderlo più morbido. Impiattate e se volete decorate con una grattugiata di scorza di limone e dei pinoli tostati.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-01-18-spaghetti-al-pesto-di-cavolo-rosso/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-01-18-spaghetti-al-pesto-di-cavolo-rosso/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-01-18-spaghetti-al-pesto-di-cavolo-rosso/risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-01-18-spaghetti-al-pesto-di-cavolo-rosso/risultato3.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-01-18-spaghetti-al-pesto-di-cavolo-rosso/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-01-18-spaghetti-al-pesto-di-cavolo-rosso/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

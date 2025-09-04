@@ -12,7 +12,7 @@ categories:
 label: 2014-08-29-apple-pie-vegana
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2014-08-29-apple-pie-vegana/header.jpeg "frangipani © Erica")
 
 **Apple Pie vegana (Torta di Mele Americana)** un classico dolce autunnale pieno di succose mele. Avete presente le torte di mele che fanno sempre nei cartoni animati? Eccola qui!
 <br />
@@ -25,7 +25,7 @@ Usando tante mele, avrete anche molti scarti delle mele, ma non buttateli via. C
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Apple Pie vegana</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2014-08-29-apple-pie-vegana/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Apple Pie vegana (Torta di Mele Americana), un classico dolce autunnale pieno di succose mele. Avete presente le torte di mele che fanno sempre nei cartoni animati? Eccola qui!</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -107,9 +107,9 @@ Nel frattempo preparate il condimento. Lavate e sbucciate le mele, togliete il t
 Sfornate la teglia e abbassate la temperatura del forno a 180°C. Ricoprite con le mele. Stendete l'altra metà della pasta frolla e ricoprite le mele. Aggiustate bene i bordi e fate dei taglietti e se volete decorate con la pasta frolla avanzata.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 32%; margin-right: 1%;" src="impasto.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="mele.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-left: 1%;" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%;" src="../2014-08-29-apple-pie-vegana/impasto.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="../2014-08-29-apple-pie-vegana/mele.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-left: 1%;" src="../2014-08-29-apple-pie-vegana/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -117,32 +117,32 @@ Sfornate la teglia e abbassate la temperatura del forno a 180°C. Ricoprite con 
 Dunque infornatela nella parte bassa del forno a 180°C statico per un'oretta. Quando mancheranno 15-20min spostatela a metà forno in modo che si cuocia bene anche di sopra. Verso fine cottura date sempre un'occhiata in modo che non si bruci. Fate raffreddare bene la torta prima di tagliarla, il giorno dopo sarà più compatta e più facile da tagliare.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-08-29-apple-pie-vegana/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-08-29-apple-pie-vegana/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-08-29-apple-pie-vegana/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-08-29-apple-pie-vegana/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-08-29-apple-pie-vegana/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-08-29-apple-pie-vegana/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-08-29-apple-pie-vegana/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-08-29-apple-pie-vegana/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

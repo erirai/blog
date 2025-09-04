@@ -10,7 +10,7 @@ categories:
 label: 2022-10-05-parmigiana-di-zucca-e-porri
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2022-10-05-parmigiana-di-zucca-e-porri/header.jpeg "frangipani © Erica")
 
 **Parmigiana di Zucca e Porri** un contorno autunnale super saporito, sfizioso e facilissimo da preparare. Eh sì, la parmigiana si può preparare anche al di fuori <a href="https://frangipani.raiano.ch/2016-05-25-parmigiana-di-melanzane-e-zucchine/" target="_blank">dell'estate</a>, basta usare altra verdura. In questo caso ho fatto una parmigiana bianca con zucca e porri. Ci starebbe divinamente anche il Gorgonzola, ma io non l'ho messo perché purtroppo piace solo a me. 
 <br />
@@ -23,7 +23,7 @@ L'ispirazione per questa ricetta mi è venuta da mia zia Giusy, che questa prima
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Parmigiana di Zucca e Porri</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2022-10-05-parmigiana-di-zucca-e-porri/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Parmigiana di Zucca e Porri un contorno autunnale super saporito, sfizioso e facilissimo da preparare.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -94,8 +94,8 @@ Per la besciamella leggera mettete in un pentolino un cucchiaio di farina, poi s
 Prendete una pirofila, imburratela mettete un po' di besciamella sul fondo, poi fate uno strato di zucca, uno strato di besciamella, sopra un po' di porro, poi la mozzarella a pezzettini (o altro formaggio filante) e se vi piace il gorgonzola e una grattugiata di parmigiano. Ripetete fino ad esaurimento degli ingredienti.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="zucca.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-10-05-parmigiana-di-zucca-e-porri/zucca.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-10-05-parmigiana-di-zucca-e-porri/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -103,24 +103,24 @@ Prendete una pirofila, imburratela mettete un po' di besciamella sul fondo, poi 
 Coprite con un foglio di carta stagnola ed infornate nel forno preriscaldato a 180°C ventilato per mezz'oretta, gli ultimi 5-10min senza carta stagnola per creare la bella crosticina. Poi fate riposare 15min prima di tagliarla.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-10-05-parmigiana-di-zucca-e-porri/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-10-05-parmigiana-di-zucca-e-porri/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-10-05-parmigiana-di-zucca-e-porri/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-10-05-parmigiana-di-zucca-e-porri/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-10-05-parmigiana-di-zucca-e-porri/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-10-05-parmigiana-di-zucca-e-porri/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

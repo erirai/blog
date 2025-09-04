@@ -11,7 +11,7 @@ categories:
 label: 2019-10-18-pancake-alle-mele
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2019-10-18-pancake-alle-mele/header.jpeg "frangipani © Erica")
 
 > Buon 6. Compliblog Profumo di Frangipani
 
@@ -28,7 +28,7 @@ Erica
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Pancake alle Mele e Cannella</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2019-10-18-pancake-alle-mele/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Pancake alle Mele e Cannella, fluffosi e profumati, perfetti per le colazioni autunnali!</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -92,31 +92,31 @@ Erica
 Separate gli albumi dai tuorli e iniziate a montare gli albumi con un pizzico di sale, poi aggiungete lo zucchero e continuate a montare finché gli albumi saranno belli sodi e fermi. In una coppa a parte, con la frusta a mano, sbattete i tuorli. Aggiungete il burro fuso tiepido ed il latte e continuate a mescolare finché il composto sarà bello chiaro. A questo punto aggiungete la farina ed il lievito setacciati e amalgamate bene. Per ultimo aggiungete con un movimento dall'alto verso il basso gli albumi, facendo attenzione a non farli smontare. Sbucciate le mele, tagliatele a fette sottili ed eliminate la parte centrale. Mettete le fette di mela in una coppa, aggiugete una spolverata di cannella e mescolate bene.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="impasto.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="mele.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2019-10-18-pancake-alle-mele/impasto.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2019-10-18-pancake-alle-mele/mele.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 Riscaldate una padella leggermente unta, poi aggiungete un mestolino dell'impasto dei Pancake e mettete al centro una fetta di mela. Quando inizierà a fare dei buchini e la superficie a contatto con la padella avrà preso un bel colorito, potete girarli e finire la cottura anche dall'altra parte.
-![](padella.jpeg "frangipani © Erica")
+![](../2019-10-18-pancake-alle-mele/padella.jpeg "frangipani © Erica")
 
 Continuate così finché avrete esaurito tutto l'impasto, ungendo di tanto in tanto la padella. Serviteli con tanto ma tanto sciroppo d'acero.
-![](risultato1.jpeg "frangipani © Erica")
+![](../2019-10-18-pancake-alle-mele/risultato1.jpeg "frangipani © Erica")
 
-![](risultato2.jpeg "frangipani © Erica")
+![](../2019-10-18-pancake-alle-mele/risultato2.jpeg "frangipani © Erica")
 
-![](risultato3.jpeg "frangipani © Erica")
+![](../2019-10-18-pancake-alle-mele/risultato3.jpeg "frangipani © Erica")
 
-![](risultato4.jpeg "frangipani © Erica")
+![](../2019-10-18-pancake-alle-mele/risultato4.jpeg "frangipani © Erica")
 
-![](risultato5.jpeg "frangipani © Erica")
+![](../2019-10-18-pancake-alle-mele/risultato5.jpeg "frangipani © Erica")
 
-![](risultato6.jpeg "frangipani © Erica")
+![](../2019-10-18-pancake-alle-mele/risultato6.jpeg "frangipani © Erica")
 
-![](risultato7.jpeg "frangipani © Erica")
+![](../2019-10-18-pancake-alle-mele/risultato7.jpeg "frangipani © Erica")
 
-![](risultato8.jpeg "frangipani © Erica")
+![](../2019-10-18-pancake-alle-mele/risultato8.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

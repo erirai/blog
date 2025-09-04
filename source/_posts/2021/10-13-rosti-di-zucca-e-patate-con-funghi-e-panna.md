@@ -15,7 +15,7 @@ categories:
 label: 2021-10-13-rosti-di-zucca-e-patate-con-funghi-e-panna
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2021-10-13-rosti-di-zucca-e-patate-con-funghi-e-panna/header.jpeg "frangipani © Erica")
 
 **Rösti di Zucca e Patate con Funghi e Panna** un piatto della tradizione svizzera super buono! Il Rösti di Zucca e Patate morbido e croccante accompagnato da una salsa di funghi e panna. Molto spesso il classico Rösti (ma anche solo riso o tagliatelle) viene accompagnato dal Zürcher Geschnetzeltes che sarebbe una salsa fatta di carne di vitello, funghi e panna. Io, ovviamente, non ho usato la carne ed ecco un piatto vegetariano, che usando la panna vegetale, diventa vegano.
 
@@ -33,7 +33,7 @@ Con questo piatto partecipo anche alla 29. Foodie Challenge mensile, organizzata
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Rösti di Zucca e Patate con Funghi e Panna</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2021-10-13-rosti-di-zucca-e-patate-con-funghi-e-panna/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Rösti di Zucca e Patate con Funghi e Panna un piatto della tradizione svizzera super buono! Il Rösti di Zucca e Patate morbido e croccante accompagnato da una salsa di funghi e panna.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -100,15 +100,15 @@ Lavate e pelate le patate e la zucca, poi grattugiatela grossolanamente. Mettete
 Per il condimento di funghi e panna pulite i funghi e tagliateli a fettine. In una padella fate soffriggere uno spicchio d'aglio con un filo d'olio evo e un pizzico di sale, aggiungete i funghi e a fiamma alta fateli rosolare bene, salate quando saranno cotti. Mettete i funghi in una coppetta e tenete da parte. Nella stessa padella con l'aglio, aggiungete la panna e 2-3 chiodi di garofano. Fate cuocere finché si sarà addensata un pochettino (a me piace bella densa) e aggiustate di sale. Togliete i chiodi di garofano, aggiungete un po' di noce moscata e aggiungete i funghi, fate amalgamare il tutto per 1min.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="zuccaepatate.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="rosti1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-10-13-rosti-di-zucca-e-patate-con-funghi-e-panna/zuccaepatate.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-10-13-rosti-di-zucca-e-patate-con-funghi-e-panna/rosti1.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="rosti2.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="funghi.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-10-13-rosti-di-zucca-e-patate-con-funghi-e-panna/rosti2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-10-13-rosti-di-zucca-e-patate-con-funghi-e-panna/funghi.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -116,21 +116,21 @@ Per il condimento di funghi e panna pulite i funghi e tagliateli a fettine. In u
 Mettete un **Rösti di zucca e patate** sul piatto e aggiungete un po' di salsa ai **funghi e panna**, guarnite con del prezzemolo tritato.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-10-13-rosti-di-zucca-e-patate-con-funghi-e-panna/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-10-13-rosti-di-zucca-e-patate-con-funghi-e-panna/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-10-13-rosti-di-zucca-e-patate-con-funghi-e-panna/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-10-13-rosti-di-zucca-e-patate-con-funghi-e-panna/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato5.jpeg "frangipani © Erica")
+![](../2021-10-13-rosti-di-zucca-e-patate-con-funghi-e-panna/risultato5.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

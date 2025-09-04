@@ -13,12 +13,12 @@ categories:
 label: 2023-08-23-risotto-al-timo-con-peperoni
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2023-08-23-risotto-al-timo-con-peperoni/header.jpeg "frangipani © Erica")
 
 Pubblicità: **Risotto al Timo con Peperoni** in collaborazione con <a href="https://www.farmy.ch" target="_blank">Farmy</a>. Un risotto semplicissimo, ma molto molto gustoso! Il timo si sposa benissimo con i peperoni e l'aggiunta della crème fraîche nel risotto lo rende cremosissimo.
 
 Qualche anno fa, durante una vacanza con degli amici, lei mi fece provare questo risotto al timo. Era buonissimo! Io aggiunsi i peperoni e così diventò ancora più buono. Sono forse due anni che cerco di mettere questa ricetta sul Blog, ma in estate è sempre un po' difficile.
-![](spesa.jpeg "frangipani © Erica")
+![](../2023-08-23-risotto-al-timo-con-peperoni/spesa.jpeg "frangipani © Erica")
 
 È ricominciata la scuola e con essa anche la quotidianità. Io ci metto sempre un po' ad abituarmi di nuovo ai nuovi orari di scuola dei bimbi. E proprio in questi momenti sono grata del servizio che offre <a href="https://www.farmy.ch" target="_blank">Farmy</a>. In più dobbiamo goderci ogni attimo d'estate perché anche lei sta finendo, purtroppo. Quindi meglio ordinare tutto in settimana per poi godersi il fine settimana in pieno!
 <br />
@@ -29,7 +29,7 @@ Il mio periodo preferito per ordinare la spesa da <a href="https://www.farmy.ch"
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Spiedini di Verdure e Halloumi con Patate alle Erbette e Salsa allo Yogurt</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2023-08-23-risotto-al-timo-con-peperoni/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Spiedini di Verdure e Halloumi con Patate alle Erbette e Salsa allo Yogurt, una ricetta estiva perfetta per noi vegetariani o vegani per una buona grigliata.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -87,8 +87,8 @@ Tagliate una cipolla finemente e fatela soffriggere in una padella con un abbond
 Per il risotto tagliate a dadini piccolissimi la cipolla e fatela soffriggere con un filo d'olio, qualche rametto di timo ed un pizzico di sale. Per i risotti io uso sempre la pentola in ghisa. A questo punto aggiungete il riso, fatelo tostare e poi aggiungete il brodo. Fate cuocere il riso a temperatura medio-alta girando spesso e aggiungendo altro brodo ogni volta che il precedente si sarà assorbito. Non dimenticatevi di aggiungere il sale se necessario. Una volta cotto (non scotto), eliminate i rametti del timo, togliete dai fornelli e aggiungete la crème fraîche per mantecare il risotto.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="peperoni.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risotto.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-08-23-risotto-al-timo-con-peperoni/peperoni.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-08-23-risotto-al-timo-con-peperoni/risotto.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -96,24 +96,24 @@ Per il risotto tagliate a dadini piccolissimi la cipolla e fatela soffriggere co
 Se volete potete aggiungere i peperoni nel risotto o servirli a parte.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-08-23-risotto-al-timo-con-peperoni/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-08-23-risotto-al-timo-con-peperoni/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-08-23-risotto-al-timo-con-peperoni/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-08-23-risotto-al-timo-con-peperoni/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-08-23-risotto-al-timo-con-peperoni/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-08-23-risotto-al-timo-con-peperoni/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

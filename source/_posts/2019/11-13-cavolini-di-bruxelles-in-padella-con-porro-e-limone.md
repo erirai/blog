@@ -13,7 +13,7 @@ categories:
 label: 2019-11-13-cavolini-di-bruxelles-in-padella-con-porro-e-limone
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2019-11-13-cavolini-di-bruxelles-in-padella-con-porro-e-limone/header.jpeg "frangipani © Erica")
 
 **Cavolini di Bruxelles in Padella con Porro e Limone**, un contorno fresco, di stagione e ovviamente buonissimo! Provatelo, perché preparati così, i cavolini di Bruxelles potrebbero iniziare a piacervi.
 
@@ -27,7 +27,7 @@ Nel cestino della Foodie Challenge mensile di novembre, organizzata da <a href="
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Cavolini di Bruxelles in Padella con Porro e Limone</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2019-11-13-cavolini-di-bruxelles-in-padella-con-porro-e-limone/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Cavolini di Bruxelles in Padella con Porro e Limone, un contorno fresco, di stagione e ovviamente buonissimo!</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -65,24 +65,24 @@ Nel cestino della Foodie Challenge mensile di novembre, organizzata da <a href="
 Pulite i cavolini togliendo le foglioline esterne, poi tagliateli a metà o in 4. Tagliate a rondelle anche il porro, poi fatelo soffriggere in una padella con un filo d'olio ed un pizzico di sale. Aggiungete un pochettino d'acqua e fatelo ammorbidire. A questo punto aggiungete i cavolini e due fettine di limone tagliate a metà. Aggiungete anche il succo di mezzo limone e un po' d'acqua. Coprite con un coperchio e fate andare finché i cavolini non saranno cotti, se c'è bisogno aggiungete ancora acqua. 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="porro.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="padella.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2019-11-13-cavolini-di-bruxelles-in-padella-con-porro-e-limone/porro.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2019-11-13-cavolini-di-bruxelles-in-padella-con-porro-e-limone/padella.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 Appena saranno cotti, se volete aggiungete ancora succo di limone, salate e fateli abbrustolire un attimino. Serviteli ancora ben caldi.
-![](risultato1.jpeg "frangipani © Erica")
+![](../2019-11-13-cavolini-di-bruxelles-in-padella-con-porro-e-limone/risultato1.jpeg "frangipani © Erica")
 
-![](risultato2.jpeg "frangipani © Erica")
+![](../2019-11-13-cavolini-di-bruxelles-in-padella-con-porro-e-limone/risultato2.jpeg "frangipani © Erica")
 
-![](risultato3.jpeg "frangipani © Erica")
+![](../2019-11-13-cavolini-di-bruxelles-in-padella-con-porro-e-limone/risultato3.jpeg "frangipani © Erica")
 
-![](risultato4.jpeg "frangipani © Erica")
+![](../2019-11-13-cavolini-di-bruxelles-in-padella-con-porro-e-limone/risultato4.jpeg "frangipani © Erica")
 
-![](risultato5.jpeg "frangipani © Erica")
+![](../2019-11-13-cavolini-di-bruxelles-in-padella-con-porro-e-limone/risultato5.jpeg "frangipani © Erica")
 
-![](risultato6.jpeg "frangipani © Erica")
+![](../2019-11-13-cavolini-di-bruxelles-in-padella-con-porro-e-limone/risultato6.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

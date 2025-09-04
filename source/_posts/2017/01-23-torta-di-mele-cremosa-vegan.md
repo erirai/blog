@@ -11,7 +11,7 @@ categories:
 label: 2017-01-23-torta-di-mele-cremosa
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2017-01-23-torta-di-mele-cremosa-vegan/header.jpg "frangipani © Erica")
 
 Ieri siamo stati in un parco acquatico al chiuso qui vicino, i piccoli si sono divertiti un sacco e con loro anche noi! Dopo però erano distrutti, hanno dormito tre ore di pomeriggio e io ho avuto tempo per sperimentare un po'. Mi sentivo proprio ispirata... Avevo visto su YouTube una ricetta che mi incuriosiva molto, ma mi mancavano le uova quindi ho provato a rifarla senza uova. Non avevo la più pallida idea se funzionasse, perché è un tipo di impasto totalmente diverso dal solito. Ma il risultato è ottimo! Una torta di mele cremosa, ma senza crema all'interno. Si scioglie in bocca, come se fosse una crema pasticcera alle mele cotta, non so se mi spiego... Maaaamma che buona! Sa proprio di mele e vaniglia, volendo si può aggiungere anche la cannella o l'uvetta, secondo i vostri gusti. Se avete in casa mele da smaltire, ma non volete la solita torta di mele, preparate questa, vi stupirà!
 
@@ -81,22 +81,22 @@ Ieri siamo stati in un parco acquatico al chiuso qui vicino, i piccoli si sono d
 </h3>
 
 Sbucciate le mele, eliminate il torsolo, tagliatele a pezzettini piccoli e mettetele in una pentola grande. Aggiungete il succo di mezzo limone, un pochettino di acqua, la margarina e i semini della vaniglia.
-![](melecrude.jpg "frangipani © Erica")
+![](../2017-01-23-torta-di-mele-cremosa-vegan/melecrude.jpg "frangipani © Erica")
 
 Mettete la pentola sui fornelli e fate cuocere le mele a temperatura moderata finché si saranno ammorbidite completamente. Schiacciatele un pochettino per renderle più omogenee. Poi fatele intiepidire.
-![](melecotte.jpg "frangipani © Erica")
+![](../2017-01-23-torta-di-mele-cremosa-vegan/melecotte.jpg "frangipani © Erica")
 
 A questo punto aggiungete lo zucchero e lo zucchero vanigliato e mescolate. Finite aggiungendo la farina e l'amido di mais. Mescolate bene. Versate l'impasto in una teglia foderata con della carta forno.
-![](teglia.jpg "frangipani © Erica")
+![](../2017-01-23-torta-di-mele-cremosa-vegan/teglia.jpg "frangipani © Erica")
 
 Infornate la torta nel forno preriscaldato a 180°C statico per un'oretta. Fate la prova stecchino, ma la torta comunque rimane bella umida. Fatela raffreddare e prima di servirla spolverate con abbondante zucchero a velo.
-![](risultato1.jpg "frangipani © Erica")
+![](../2017-01-23-torta-di-mele-cremosa-vegan/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2017-01-23-torta-di-mele-cremosa-vegan/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2017-01-23-torta-di-mele-cremosa-vegan/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2017-01-23-torta-di-mele-cremosa-vegan/risultato4.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

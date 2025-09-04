@@ -11,7 +11,7 @@ categories:
 label: 2023-10-24-spaghetti-al-pomodoro-con-occhietti-di-mozzarella-e-olive-nere
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2023-10-24-spaghetti-al-pomodoro-con-occhietti-di-mozzarella-e-olive-nere/header.jpeg "frangipani © Erica")
 
 **Spaghetti al Pomodoro con Occhietti di Mozzarella e Olive Nere** un ottimo piatto di pasta per Halloween che vi farà sentire osservati. Un modo spiritoso, anzi pauroso, per presentare un semplicissimo piatto di spaghetti al pomodoro in tema di Halloween. In più con pochissimo sforzo potete rendere felici i vostri piccoli ospiti o i vostri bimbi.
 <br />
@@ -24,7 +24,7 @@ Ho appena visto che l'ultima <a href="/tags/halloween/">ricetta per Halloween</a
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Spaghetti al Pomodoro con Occhietti di Mozzarella e Olive Nere</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2023-10-24-spaghetti-al-pomodoro-con-occhietti-di-mozzarella-e-olive-nere/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Spaghetti al Pomodoro con Occhietti di Mozzarella e Olive Nere, un ottimo piatto di pasta per Halloween che vi farà sentire osservati.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -82,8 +82,8 @@ In una padella capiente fate rosolare uno spicchio d'aglio con un filo d'olio ed
 Nel frattempo portate ad ebollizione l'acqua per la pasta, buttate gli spaghetti e salate l'acqua. Scolateli ancora molto al dente e versateli direttamente nella padella con la salsa al pomodoro e finite la cottura aggiungendo man mano un pochino d'acqua di cottura degli spaghetti. Alla fine aggiungete il basilico fresco.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="spaghetti.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="occhi.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-10-24-spaghetti-al-pomodoro-con-occhietti-di-mozzarella-e-olive-nere/spaghetti.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-10-24-spaghetti-al-pomodoro-con-occhietti-di-mozzarella-e-olive-nere/occhi.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -91,24 +91,24 @@ Nel frattempo portate ad ebollizione l'acqua per la pasta, buttate gli spaghetti
 Prendete una bella forchettata di spaghetti ed arrotolateli aiutandovi con un cucchiaio, poi adagiateli nel piatto. Ripetete un paio di volte, facendo qualche mucchietto. Poi tagliate a rondelle le olive nere, appogiatele sulle perle di mozzarelle creando degli occhietti. A questo punto mettete un occhietto su ogni mucchietto di spaghetti e se volete anche sparsi un po' qui e la.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-10-24-spaghetti-al-pomodoro-con-occhietti-di-mozzarella-e-olive-nere/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-10-24-spaghetti-al-pomodoro-con-occhietti-di-mozzarella-e-olive-nere/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-10-24-spaghetti-al-pomodoro-con-occhietti-di-mozzarella-e-olive-nere/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-10-24-spaghetti-al-pomodoro-con-occhietti-di-mozzarella-e-olive-nere/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-10-24-spaghetti-al-pomodoro-con-occhietti-di-mozzarella-e-olive-nere/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-10-24-spaghetti-al-pomodoro-con-occhietti-di-mozzarella-e-olive-nere/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

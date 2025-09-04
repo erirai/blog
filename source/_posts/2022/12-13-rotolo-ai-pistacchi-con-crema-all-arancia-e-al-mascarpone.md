@@ -12,7 +12,7 @@ categories:
 label: 2022-12-13-rotolo-ai-pistacchi-con-crema-all-arancia-e-al-mascarpone
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2022-12-13-rotolo-ai-pistacchi-con-crema-all-arancia-e-al-mascarpone/header.jpeg "frangipani © Erica")
 
 **Rotolo ai Pistacchi con Crema all'Arancia e al Mascarpone** un dolce dai gusti siciliani, perfetto per i giorni di festa! Si sente il pistacchio, si sente l'arancia e poi c'è la cremosità della Camy Cream che io adoro!
 <br />
@@ -39,7 +39,7 @@ Adesso non mi resta altro che augurarvi un sereno Natale, vi auguro le persone a
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Rotolo ai Pistacchi con Crema all'Arancia e al Mascarpone</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2022-12-13-rotolo-ai-pistacchi-con-crema-all-arancia-e-al-mascarpone/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Rotolo ai Pistacchi con Crema all'Arancia e al Mascarpone, un dolce dai gusti siciliani, perfetto per i giorni di festa!</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -157,9 +157,9 @@ Ora preparate una teglia da 25x35cm circa e ricopritela con della carta forno. V
 Mentre cuoce prendete un panno in cotone pulito e cospargetelo di zucchero semolato, appena sfornata la pasta biscotto, scaravoltatela sul panno, togliete la carta forno e molto delicatamente arrotolatelo con tutto il panno. Chiudetelo bene e fatelo raffreddare completamente così.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 32%; margin-right: 1%;" src="bisquit.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="tovaglietta.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-left: 1%;" src="arrotolato.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%;" src="../2022-12-13-rotolo-ai-pistacchi-con-crema-all-arancia-e-al-mascarpone/bisquit.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="../2022-12-13-rotolo-ai-pistacchi-con-crema-all-arancia-e-al-mascarpone/tovaglietta.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-left: 1%;" src="../2022-12-13-rotolo-ai-pistacchi-con-crema-all-arancia-e-al-mascarpone/arrotolato.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -169,8 +169,8 @@ Adesso preparate la crema all'arancia: in un pentolino mettete il succo d'aranci
 Per la Camy Cream mettete tutti gli ingredienti ben freddi nella planetaria e montate il tutto finché diventerà bella soda e ferma (se la coppa e la frusta sono anche fredde, monta ancora meglio). Fate riposare in frigo per almeno 2 orette.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="cremaarancia.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="camycream.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-12-13-rotolo-ai-pistacchi-con-crema-all-arancia-e-al-mascarpone/cremaarancia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-12-13-rotolo-ai-pistacchi-con-crema-all-arancia-e-al-mascarpone/camycream.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -178,8 +178,8 @@ Per la Camy Cream mettete tutti gli ingredienti ben freddi nella planetaria e mo
 Quando tutto sarà freddo, srotolate la pasta biscotto e mettete uno strato di crema all'arancia lasciando un bordo di 1-2cm. Sopra spalmateci la Camy Cream (lasciatene un pochettino per la decorazione) e finite con un po' di crema di pistacchi che farete colare a filo sulla Camy Cream.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="arancia.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="rotolo.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-12-13-rotolo-ai-pistacchi-con-crema-all-arancia-e-al-mascarpone/arancia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-12-13-rotolo-ai-pistacchi-con-crema-all-arancia-e-al-mascarpone/rotolo.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -189,40 +189,40 @@ Arrotolate di nuovo il tutto, chiudete bene nel panno e chiudetelo ermeticamente
 Quando sarà il momento di servire il **Rotolo ai Pistacchi con Crema all'Arancia e al Mascarpone** uscitelo dal frigo, togliete il panno e passate il rotolo nella farina di pistacchi facendola aderire su tutta la superficie. Se volete mettete la restante Camy Cream in una sacca da pasticcere con punta piccolina a stella e decorate la superficie. Finite con delle zeste d'arancia e delle scaglie d'oro alimentare o perline di zucchero dorate.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-12-13-rotolo-ai-pistacchi-con-crema-all-arancia-e-al-mascarpone/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-12-13-rotolo-ai-pistacchi-con-crema-all-arancia-e-al-mascarpone/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-12-13-rotolo-ai-pistacchi-con-crema-all-arancia-e-al-mascarpone/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-12-13-rotolo-ai-pistacchi-con-crema-all-arancia-e-al-mascarpone/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-12-13-rotolo-ai-pistacchi-con-crema-all-arancia-e-al-mascarpone/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-12-13-rotolo-ai-pistacchi-con-crema-all-arancia-e-al-mascarpone/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-12-13-rotolo-ai-pistacchi-con-crema-all-arancia-e-al-mascarpone/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-12-13-rotolo-ai-pistacchi-con-crema-all-arancia-e-al-mascarpone/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-12-13-rotolo-ai-pistacchi-con-crema-all-arancia-e-al-mascarpone/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-12-13-rotolo-ai-pistacchi-con-crema-all-arancia-e-al-mascarpone/risultato10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

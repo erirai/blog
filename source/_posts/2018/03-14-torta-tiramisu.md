@@ -10,7 +10,7 @@ categories:
 label: 2017-03-14-torta-tiramisu
 lang: it 
 ---
-![](header.jpg "frangipani © Erica")
+![](../2018-03-14-torta-tiramisu/header.jpg "frangipani © Erica")
 
 > Buon 3° Compleanno piccolino!
 
@@ -111,39 +111,39 @@ Oggi però è un giorno speciale... nostro figlio compie 3 anni! Gioele un bimbo
 </h3>
 
 Per il bisquit mettete le uova e l'acqua nella planetaria ed iniziate a montarle. Aggiungete anche lo zucchero ed il sale e continuate a montare a massima velocità le uova per 8-10min. In una coppa a parte mescolate e setacciate la farina ed il lievito. Con una spatola incorporate molto delicatamente la farina alle uova con un movimento dall'alto verso il basso. Versate il composto in una teglia ricoperta da carta forno.
-![](teglia.jpg "frangipani © Erica")
+![](../2018-03-14-torta-tiramisu/teglia.jpg "frangipani © Erica")
 
 Infornate il bisquit nel forno preriscaldato a 190°C statico per circa 20-25min, mi raccomando fate la prova stecchino. Fate intiepidire nella forma stessa, poi uscitelo dalla forma e fatelo raffreddare completamente. 
-![](bisquit.jpg "frangipani © Erica")
+![](../2018-03-14-torta-tiramisu/bisquit.jpg "frangipani © Erica")
 
 Per la crema al mascarpone fate sciogliere in un pentolino lo zucchero con l'acqua. Lo sciroppo dovrà arrivare a 121°C in modo da poter pastorizzare le uova. Se non avete il termometro, basta aspettare che lo sciroppo faccia le bolle. Poco prima che lo sciroppo avrà raggiunto la giusta temperatura, iniziate a montare le uova. Sempre mescolando a temperatura massima le uova, aggiungete lo sciroppo a filo e continuate a mescolare per almeno 6-8min, il composto dovrà essere completamente freddo. A parte ammorbidite il mascarpone insieme alla scorza di limone e arancia, aggiungete una cucchiaiata delle uova e mescolate bene, poi aggiugnete il resto delle uova mescolando a mano molto delicatamente. Mettete in frigo finché vi servirà.
-![](mascarpone.jpg "frangipani © Erica")
+![](../2018-03-14-torta-tiramisu/mascarpone.jpg "frangipani © Erica")
 
 Tagliate a metà il bisquit e appoggiate un disco su di un piatto da portata, poi bagnatelo molto bene con il caffé mischiato al rum. Spalmateci sopra la metà della crema al mascarpone e coprite con il secondo disco. Bagnate anche il secondo disco con il caffé e finite con la crema al mascarpone. Mettete in frigo per almeno 5-6 ore, meglio per tutta la notte.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="farcire.jpg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="pronta.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2018-03-14-torta-tiramisu/farcire.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2018-03-14-torta-tiramisu/pronta.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 Prima di servirla, decoratela con delle scaglie di cioccolato ed una spolverata di cacao amaro, servitela fredda da frigo.
-![](risultato1.jpg "frangipani © Erica")
+![](../2018-03-14-torta-tiramisu/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2018-03-14-torta-tiramisu/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2018-03-14-torta-tiramisu/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2018-03-14-torta-tiramisu/risultato4.jpg "frangipani © Erica")
 
-![](risultato5.jpg "frangipani © Erica")
+![](../2018-03-14-torta-tiramisu/risultato5.jpg "frangipani © Erica")
 
-![](risultato6.jpg "frangipani © Erica")
+![](../2018-03-14-torta-tiramisu/risultato6.jpg "frangipani © Erica")
 
-![](risultato7.jpg "frangipani © Erica")
+![](../2018-03-14-torta-tiramisu/risultato7.jpg "frangipani © Erica")
 
-![](risultato8.jpg "frangipani © Erica")
+![](../2018-03-14-torta-tiramisu/risultato8.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

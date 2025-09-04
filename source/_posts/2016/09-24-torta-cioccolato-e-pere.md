@@ -12,7 +12,7 @@ categories:
 label: 2016-09-24-torta-cioccolato-e-pere
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2016-09-24-torta-cioccolato-e-pere/header.jpg "frangipani © Erica")
 
 Con l'inizio dell'autunno, noi tutti iniziamo a preparare dolci più coccolosi, più sostanziosi e più calorici, diciamo le cose come stanno! Usiamo più cioccolato, più frutta secca e naturalmente la frutta autunnale. Tutti parlano di questa torta cioccolato e pere, di quanto sia buona ma io sinceramente non vado matta per la combinazione cioccolato e frutta. Però la curiosità era talmente forte che non ho resistito... Per fortuna! Questa torta è così soffice, sembra un cuscino. Tanti pezzetti di pera si sono sciolti durante la cottura, rendendo la torta bella umida. Sopra i pezzetti di cioccolato che danno un tocco di croccante... la fine del mondo! Credetemi! Non ci credete? Siete ancora scettici? Allora provate per credere! C'è anche la videoricetta qui nel post e nel mio canale YouTube (cercate "profumo di frangipani").
 
@@ -82,21 +82,21 @@ Con l'inizio dell'autunno, noi tutti iniziamo a preparare dolci più coccolosi, 
 </h3>
 
 In una coppa capiente mescolate la farina, il cacao, il bicarbonato, il lievito, lo zucchero ed il sale. Poi aggiungete il latte vegetale (io ho usato nocciola e riso), l'olio e l'aceto. Amalgamate bene con un cucchiaio poi aggiungete due pere tagliate a cubetti.
-![](impasto.jpg "frangipani © Erica")
+![](../2016-09-24-torta-cioccolato-e-pere/impasto.jpg "frangipani © Erica")
 
 Versate l'impasto in una teglia rotonda da 20-22cm precedentemente imburrata ed infarinata, sistemate sulla superfice le altre due pere tagliate a fettine e finite con i pezzetti di cioccolato.
-![](teglia.jpg "frangipani © Erica")
+![](../2016-09-24-torta-cioccolato-e-pere/teglia.jpg "frangipani © Erica")
 
 {% youtube wvJajb4Z2pg %}
 
 Infornate la torta nel forno preriscaldato a 180°C statico per un'ora, mi raccomando fate la prova stecchino. Comunque la torta tende a rimanere umida.
-![](risultato1.jpg "frangipani © Erica")
+![](../2016-09-24-torta-cioccolato-e-pere/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2016-09-24-torta-cioccolato-e-pere/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2016-09-24-torta-cioccolato-e-pere/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2016-09-24-torta-cioccolato-e-pere/risultato4.jpg "frangipani © Erica")
 
 
 <h4>Buon appetito

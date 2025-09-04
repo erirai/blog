@@ -11,7 +11,7 @@ categories:
 label: 2024-10-23-muffin-salati-alla-zucca-e-salvia-con-gorgonzola
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2024-10-23-muffin-salati-alla-zucca-e-salvia-con-gorgonzola/header.jpeg "frangipani © Erica")
 
 Pubblicità: **Muffin salati alla Zucca e Salvia con Gorgonzola** in collaborazione con <a href="https://www.farmy.ch" target="_blank">Farmy</a>, dei sfiziosi muffin autunnali belli soffici, super saporiti con un cuore di Gorgonzola. Ottimi per un pranzetto veloce o una cena leggera da accompagnare con una bella insalatona. Ma anche come aperitivo o per una merenda salata.
 
@@ -26,7 +26,7 @@ Ordinate tutti gli ingredienti su <a href="https://www.farmy.ch" target="_blank"
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Muffin salati alla Zucca e Salvia con Gorgonzola</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2024-10-23-muffin-salati-alla-zucca-e-salvia-con-gorgonzola/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Muffin salati alla Zucca e Salvia con Gorgonzola, dei sfiziosi muffin autunnali belli soffici, super saporiti con un cuore di Gorgonzola.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -108,8 +108,8 @@ Per prima cosa preparate la zucca: Lavatela bene e tagliatela a cubetti piccoli.
 Mettete in una coppa la farina setacciata, il parmigiano, il lievito, la salvia tritata finemente ed il sale e mescolate. A parte sbattete l'uovo con il latte e l'olio e aggiungetelo alla farina. Mescolate bene e aggiungete la zucca cotta.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="zucca.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="impasto.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-10-23-muffin-salati-alla-zucca-e-salvia-con-gorgonzola/zucca.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-10-23-muffin-salati-alla-zucca-e-salvia-con-gorgonzola/impasto.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -117,8 +117,8 @@ Mettete in una coppa la farina setacciata, il parmigiano, il lievito, la salvia 
 Adesso mettete un pochino d'impasto direttamente nella teglia per Muffin precedentemente imburrata o nei pirottini. Poi mettete un pezzetto di Gorgonzola al centro e coprite con il resto dell'impasto.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="gorgonzola.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-10-23-muffin-salati-alla-zucca-e-salvia-con-gorgonzola/gorgonzola.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-10-23-muffin-salati-alla-zucca-e-salvia-con-gorgonzola/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -126,40 +126,40 @@ Adesso mettete un pochino d'impasto direttamente nella teglia per Muffin precede
 Infornate i **Muffin salati** nel forno preriscaldato a 170°C statico per ca. 25min, mi raccomando fate la prova stecchino.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-10-23-muffin-salati-alla-zucca-e-salvia-con-gorgonzola/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-10-23-muffin-salati-alla-zucca-e-salvia-con-gorgonzola/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-10-23-muffin-salati-alla-zucca-e-salvia-con-gorgonzola/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-10-23-muffin-salati-alla-zucca-e-salvia-con-gorgonzola/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-10-23-muffin-salati-alla-zucca-e-salvia-con-gorgonzola/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-10-23-muffin-salati-alla-zucca-e-salvia-con-gorgonzola/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-10-23-muffin-salati-alla-zucca-e-salvia-con-gorgonzola/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-10-23-muffin-salati-alla-zucca-e-salvia-con-gorgonzola/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-10-23-muffin-salati-alla-zucca-e-salvia-con-gorgonzola/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-10-23-muffin-salati-alla-zucca-e-salvia-con-gorgonzola/risultato10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

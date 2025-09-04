@@ -13,7 +13,7 @@ categories:
 label: 2017-12-01-cheesecake-all-arancia-con-salsa-mou-e-noci-pecan
 lang: it 
 ---
-![](header.jpg "frangipani © Erica")
+![](../2017-12-01-cheesecake-all-arancia-con-salsa-mou-e-noci-pecan/header.jpg "frangipani © Erica")
 
 > Benvenuto Dicembre e buon Avvento a tutti voi!
 
@@ -131,33 +131,33 @@ Due anni fa ho fatto questa <a href="https://frangipani.raiano.ch/2015-11-27-bak
 </h3>
 
 Preparate la frolla: Impastate tutti gli ingredienti per la frolla, se vedete che l'impasto non si compatta bene, aggiungete un goccio di latte. Continuate ad impastare finché tutti gli ingredienti si saranno amalgamati bene e formate un panetto. Stendete l'impasto tra due fogli di carta forno fino ad uno spessore di 5mm ca. Rivestite una tortiera a cerniera con della carta forno, poi foderate il tutto con la pasta frolla. Schiacciate bene l'impasto verso le pareti in modo che non cada. Poi mettetela a riposare in frigo per un'oretta.
-![](frolla.jpg "frangipani © Erica")
+![](../2017-12-01-cheesecake-all-arancia-con-salsa-mou-e-noci-pecan/frolla.jpg "frangipani © Erica")
 
 Nel frattempo preparate la farcia: Mettete il Quark o la ricotta a sgocciolare in modo che possa perdere l'acqua in eccesso. Poi passatelo in una coppa capiente e iniziate a frullare. Aggiungete un uovo alla volta e mescolate bene, aggiungete anche la panna. Finite aggiungendo il resto degli ingredienti e mescolate ancora per qualche minuto. Come risultato avrete una cremina abbastanza liquida, ma non vi preoccupate. Tirate fuori dal frigo la tortiera ricoperta con la frolla e versateci il composto al Quark.
-![](teglia.jpg "frangipani © Erica")
+![](../2017-12-01-cheesecake-all-arancia-con-salsa-mou-e-noci-pecan/teglia.jpg "frangipani © Erica")
 
 Infornate la torta nel forno preriscaldato a 160°C ventilato per un'oretta. La torta sarà pronta quando la farcia resta piuttosto ferma quando la muovete. Fatela raffreddare bene prima di toglierla dalla tortiera, così eviterete che si rompa. Tenetela in frigo fino al momento che la servirete...
-![](cheesecake.jpg "frangipani © Erica")
+![](../2017-12-01-cheesecake-all-arancia-con-salsa-mou-e-noci-pecan/cheesecake.jpg "frangipani © Erica")
 
 Poco prima di servirla, preparate la salsa Mou con noci pecan. In un pentolino fate sciogliere il burro insieme allo zucchero e fate cuocere per qualche minuto, finché farà le bolle. Aggiungete la cannella, la panna fresca (attenzione al bollore!) e per finire le noci pecan precedentemente tostate e tritate grossolanamente. Mescolate bene e togliete dai fornelli. 
-![](salsa.jpg "frangipani © Erica")
+![](../2017-12-01-cheesecake-all-arancia-con-salsa-mou-e-noci-pecan/salsa.jpg "frangipani © Erica")
 
 Versate la salsa Mou con noci pecan sulla Cheesecake e godetevi l'attimo...
-![](risultato1.jpg "frangipani © Erica")
+![](../2017-12-01-cheesecake-all-arancia-con-salsa-mou-e-noci-pecan/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2017-12-01-cheesecake-all-arancia-con-salsa-mou-e-noci-pecan/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2017-12-01-cheesecake-all-arancia-con-salsa-mou-e-noci-pecan/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2017-12-01-cheesecake-all-arancia-con-salsa-mou-e-noci-pecan/risultato4.jpg "frangipani © Erica")
 
-![](risultato5.jpg "frangipani © Erica")
+![](../2017-12-01-cheesecake-all-arancia-con-salsa-mou-e-noci-pecan/risultato5.jpg "frangipani © Erica")
 
-![](risultato6.jpg "frangipani © Erica")
+![](../2017-12-01-cheesecake-all-arancia-con-salsa-mou-e-noci-pecan/risultato6.jpg "frangipani © Erica")
 
-![](risultato7.jpg "frangipani © Erica")
+![](../2017-12-01-cheesecake-all-arancia-con-salsa-mou-e-noci-pecan/risultato7.jpg "frangipani © Erica")
 
-![](risultato8.jpg "frangipani © Erica")
+![](../2017-12-01-cheesecake-all-arancia-con-salsa-mou-e-noci-pecan/risultato8.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

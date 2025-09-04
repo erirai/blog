@@ -10,7 +10,7 @@ categories:
 label: 2015-07-12-sale-alle-erbe
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2015-07-12-sale-alle-erbe/header.jpeg "frangipani © Erica")
 
 **Sale alle Erbe** una conserva estiva facilissima da preparare e che non può mancare nelle nostre cucine. Non lo compro più già pronto, perché fatto in casa è molto più buono e profumato.
 <br />
@@ -21,7 +21,7 @@ Nel nostro giardino le erbette aromatiche crescono molto bene, quindi a giugno/l
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Sale alle Erbe</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2015-07-12-sale-alle-erbe/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Sale alle Erbe una conserva estiva facilissima da preparare e che non può mancare nelle nostre cucine.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -76,8 +76,8 @@ Lavate le erbette e asciugatele bene. A questo punto fate dei mazzetti con ogni 
 Togliete i rametti più grossi e legnosi e mettete le foglioline in un mixer, tritate il tutto per renderlo più fine (potete anche farlo con un mortaio).
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="erbette.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="tritate.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2015-07-12-sale-alle-erbe/erbette.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2015-07-12-sale-alle-erbe/tritate.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -85,21 +85,21 @@ Togliete i rametti più grossi e legnosi e mettete le foglioline in un mixer, tr
 Adesso aggiungete tutto il sale che volete e conservate il **Sale alle Erbe** in un contenitore di vetro.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2015-07-12-sale-alle-erbe/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2015-07-12-sale-alle-erbe/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2015-07-12-sale-alle-erbe/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2015-07-12-sale-alle-erbe/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato5.jpeg "frangipani © Erica")
+![](../2015-07-12-sale-alle-erbe/risultato5.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

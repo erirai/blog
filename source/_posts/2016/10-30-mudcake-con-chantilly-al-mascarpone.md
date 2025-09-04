@@ -10,7 +10,7 @@ categories:
 label: 2016-10-30-mudcake
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2016-10-30-mudcake-con-chantilly-al-mascarpone/header.jpg "frangipani © Erica")
 
 > Happy Halloween a tutti!
 
@@ -119,43 +119,43 @@ Noi abbiamo festeggiato Halloween ieri sera, quindi anticipo di un giorno con il
 Iniziate con la Mud Cake. Fate sciogliere il cioccolato con il burro a Bagnomaria. Fate raffreddare un pochettino, poi aggiungete lo zucchero ed il cacao amaro e mescolate con le fruste elettriche finché saranno completamente incorporati. Mettete il caffé Espresso in un recipiente graduato e aggiungete l'acqua calda fino ad arrivare a 200ml, poi aggiungetela al composto cioccolatoso mescolando a velocità bassa. Adesso mettete la vaniglia e un uovo alla volta sempre mescolando molto bene.
 
 In una coppa a parte mescolate la farina con il lievito per dolci, il bicarbonato ed il sale. Versatene un po' alla volta nel composto di cioccolato. Quando avrete aggiunto tutta la farina, mescolate ancora per un minuto. Date una mescolata con un leccapentole staccando tutto l'impasto dal fondo della ciotola, poi mescolate ancora per mezzo minuto sempre con le fruste elettriche.
-![](impasto.jpg "frangipani © Erica")
+![](../2016-10-30-mudcake-con-chantilly-al-mascarpone/impasto.jpg "frangipani © Erica")
 
 Versate il composto in uno stampo rotondo da 20cm di diametro precedentemente imburrato ed infarinato. Infornatela nel forno preriscaldato a 180°C ventilato per 1ora circa. Mi raccomando fate la prova stecchino.
-![](sfornata.jpg "frangipani © Erica")
+![](../2016-10-30-mudcake-con-chantilly-al-mascarpone/sfornata.jpg "frangipani © Erica")
 
 Aspettate una mezz'oretta, poi uscite la torta dallo stampo e mettetela su di una griglia e fatela raffreddare completamente. Dunque preparate la Chantilly al Mascarpone. Mescolate il Mascarpone con lo zucchero a velo ed i semi della vaniglia. A questo punto prendete le fruste elettriche e aggiungete la panna a filo sempre mescolando. Se volete aggiungete anche il colorante. Quando vedrete che il composto sarà diventato bello fermo, potete finire.
-![](chantilly.jpg "frangipani © Erica")
+![](../2016-10-30-mudcake-con-chantilly-al-mascarpone/chantilly.jpg "frangipani © Erica")
 
 Mettete la Chantilly in un Sac à Poche con la bocchetta liscia e lasciate in frigo finché vi servirà. Riprendete la torta ormai completamente fredda e tagliatela in 3 strati. Cercate di livellare un pochettino la superficie se la cupola dovesse essere troppo alta.
-![](strati.jpg "frangipani © Erica")
+![](../2016-10-30-mudcake-con-chantilly-al-mascarpone/strati.jpg "frangipani © Erica")
 
 Prendete il primo strato della Mud Cake e mettetelo sul piatto da portata. Farcite con la Chantilly al Mascarpone e coprite con il secondo strato. Mettete un'altro strato di Chantilly e coprite con l'ultimo strato di Mud Cake. A questo punto mettete un'ultimo strato di Chantilly cercando di livellarlo bene aiutandovi con una spatolina. Se volete spalmate anche un po' di crema su tutta la torta.
-![](tortafarcita1.jpg "frangipani © Erica")
+![](../2016-10-30-mudcake-con-chantilly-al-mascarpone/tortafarcita1.jpg "frangipani © Erica")
 
-![](tortafarcita2.jpg "frangipani © Erica")
+![](../2016-10-30-mudcake-con-chantilly-al-mascarpone/tortafarcita2.jpg "frangipani © Erica")
 
 Prendete lo sciroppo di cioccolato e disegnate una spirale partendo dal centro. 
-![](spirale.jpg "frangipani © Erica")
+![](../2016-10-30-mudcake-con-chantilly-al-mascarpone/spirale.jpg "frangipani © Erica")
 
 Prendete uno stecchino di legno e sempre partendo dal centro, tracciate delle linee dirette verso l'esterno.
 
-![](ragnatela.jpg "frangipani © Erica")
+![](../2016-10-30-mudcake-con-chantilly-al-mascarpone/ragnatela.jpg "frangipani © Erica")
 
 Fate riposare la torta in frigo per qualche oretta, meglio se per tutta la notte.
-![](risultato1.jpg "frangipani © Erica")
+![](../2016-10-30-mudcake-con-chantilly-al-mascarpone/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2016-10-30-mudcake-con-chantilly-al-mascarpone/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2016-10-30-mudcake-con-chantilly-al-mascarpone/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2016-10-30-mudcake-con-chantilly-al-mascarpone/risultato4.jpg "frangipani © Erica")
 
-![](risultato5.jpg "frangipani © Erica")
+![](../2016-10-30-mudcake-con-chantilly-al-mascarpone/risultato5.jpg "frangipani © Erica")
 
-![](risultato6.jpg "frangipani © Erica")
+![](../2016-10-30-mudcake-con-chantilly-al-mascarpone/risultato6.jpg "frangipani © Erica")
 
-![](risultato7.jpg "frangipani © Erica")
+![](../2016-10-30-mudcake-con-chantilly-al-mascarpone/risultato7.jpg "frangipani © Erica")
 
 
 <h4>Buon appetito

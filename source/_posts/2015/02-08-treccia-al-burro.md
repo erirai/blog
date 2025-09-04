@@ -11,7 +11,7 @@ categories:
 - Colazione
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2015-02-08-treccia-al-burro/header.jpg "frangipani © Erica")
 
 > Grazie Christian per la farina di farro, è una meraviglia!!!
 
@@ -66,30 +66,30 @@ Noi ogni domenica a colazione mangiamo una bella treccia al burro. Per questa do
 </h3>
 
 Mettete nella planetaria la farina, il sale e lo zucchero. Poi fate riscaldare leggermente il latte, aggiungete il lievito e fatelo sciogliere. Aggiungete anche la margarina al latte e poi fate partire la planetaria. Versate il composto di latte, lievito e margarina alla farina e lasciate impastare finché l'impasto non si staccherà dalle pareti. Mettete un po' di farina su di un piano di lavoro e lavorate ancora l'impasto per qualche minuto a mano. Potete fare tutto completamente a mano se volete.
-![](impasto.jpg "frangipani © Erica")
+![](../2015-02-08-treccia-al-burro/impasto.jpg "frangipani © Erica")
 
 Mettete l'impasto in una coppa abbastanza grande e coprite bene con una coperta. Mettete a lievitare il tutto per 8 ore o almeno finché non avrà raddoppiato il suo volume. Poi dividete l'impasto in due e formate due salsicciotti e fate una croce.
-![](treccia1.jpg "frangipani © Erica")
+![](../2015-02-08-treccia-al-burro/treccia1.jpg "frangipani © Erica")
 
 Adesso iniziate ad intrecciare la treccia. In Internet trovate sicuramente anche come si fa...
-![](treccia2.jpg "frangipani © Erica")
+![](../2015-02-08-treccia-al-burro/treccia2.jpg "frangipani © Erica")
 
-![](treccia3.jpg "frangipani © Erica")
+![](../2015-02-08-treccia-al-burro/treccia3.jpg "frangipani © Erica")
 
-![](treccia4.jpg "frangipani © Erica")
+![](../2015-02-08-treccia-al-burro/treccia4.jpg "frangipani © Erica")
 
-![](treccia5.jpg "frangipani © Erica")
+![](../2015-02-08-treccia-al-burro/treccia5.jpg "frangipani © Erica")
 
-![](finita.jpg "frangipani © Erica")
+![](../2015-02-08-treccia-al-burro/finita.jpg "frangipani © Erica")
 
 Quando avete finito di intrecciarla, mettetela su di una leccarda con sotto della carta forno e fatela lievitare di nuovo per un'oretta ricoperta con un panno.
-![](lievitata.jpg "frangipani © Erica")
+![](../2015-02-08-treccia-al-burro/lievitata.jpg "frangipani © Erica")
 
 Poi infornatela nel forno preriscaldato a 220°C statico per ca. mezz'oretta. Per vedere se la treccia è veramente cotta bene, basta dare qualche colpettino sotto alla treccia e se il suono risulta vuoto la treccia è cotta al punto giusto. Se volete una treccia morbida morbida, appena la sfornate copritela con una coperta per mezz'oretta e poi fatela raffreddare su di una griglia.
-![](sfornata.jpg "frangipani © Erica")
+![](../2015-02-08-treccia-al-burro/sfornata.jpg "frangipani © Erica")
 
 La morte della treccia al burro secondo me è con burro e marmellata, ma è ottima anche con la Nutella o il miele...
-![](risultato.jpg "frangipani © Erica")
+![](../2015-02-08-treccia-al-burro/risultato.jpg "frangipani © Erica")
 
 
 <h4>Buon appetito

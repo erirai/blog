@@ -11,7 +11,7 @@ categories:
 label: 2018-05-30-torta-al-latte-caldo-e-caffe
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2018-05-30-torta-al-latte-caldo-e-caffe/header.jpg "frangipani © Erica")
 
 Torta al Latte caldo e Caffè, perfetta per la colazione da inzuppare nella schiumina del vostro Cappuccino o Caffè Latte. Sofficissima, umida al punto giusto... Ho visto la ricetta qualche giorno fa su <a href="https://ricette.giallozafferano.it/Torta-al-latte-caldo-e-caffe.html" target="_blank">Giallo Zafferano</a> e fu amore a prima vista! Purtroppo ho usato una teglia da 18cm invece di 20cm e la torta non si è cotta bene, ma ho voluto postare lo stesso la ricetta perchè è troppo buona. Voi comunque usate lo stampo da 20cm e tutto andrà bene... Eh si, questa torta va assolutamente inzuppata! Lo so, lo so se anche voi come me non siete amanti dell'inzuppo, fatelo lo stesso, ne vale la pena! Se ci sono anche bambini a mangiare la torta, vi consiglio di preparare il caffè decaffeinato, il gusto sarà lo stesso e evitate brutti scherzi, non si sa mai...
 
@@ -70,25 +70,25 @@ Beh, anche Maggio è finito... Un mese bello pieno! Il compleanno di Gaia accomp
 </h3>
 
 Nella planetaria mettete le uova ed un pizzico di sale e iniziate a montarle, poi aggiungete piano piano lo zucchero e continuate a montare finché il composto diventerà bello chiaro e spumoso. A questo punto aggiungete la farina ed il lievito setacciati e con una spatola mescolate con un movimento dal basso verso l'alto. Prendete 4 cucchiai dell'impasto e mettetelo in una coppetta a parte.
-![](impasto.jpg "frangipani © Erica")
+![](../2018-05-30-torta-al-latte-caldo-e-caffe/impasto.jpg "frangipani © Erica")
 
 In un pentolino mettete il latte ed il burro e riscaldate il tutto fino ad arrivare quasi ad ebollizione. Mischiate l'impasto messo da parte insieme al latte e burro ed il caffè ancora caldi.
-![](caffe.jpg "frangipani © Erica")
+![](../2018-05-30-torta-al-latte-caldo-e-caffe/caffe.jpg "frangipani © Erica")
 
 Aggiungete poco alla volta il miscuglio con il caffè all'impasto mescolando delicatamente. Versate il tutto in una teglia da 20cm imburrata ed infarinata e infornatela nel ripiano più basso del forno preriscaldato a 180°C statico per ca. 45min. Dopo 25min passate la teglia nel ripiano centrale e terminate la cottura. Mi raccomando, fate sempre la prova stecchino. 
-![](risultato1.jpg "frangipani © Erica")
+![](../2018-05-30-torta-al-latte-caldo-e-caffe/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2018-05-30-torta-al-latte-caldo-e-caffe/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2018-05-30-torta-al-latte-caldo-e-caffe/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2018-05-30-torta-al-latte-caldo-e-caffe/risultato4.jpg "frangipani © Erica")
 
-![](risultato5.jpg "frangipani © Erica")
+![](../2018-05-30-torta-al-latte-caldo-e-caffe/risultato5.jpg "frangipani © Erica")
 
-![](risultato6.jpg "frangipani © Erica")
+![](../2018-05-30-torta-al-latte-caldo-e-caffe/risultato6.jpg "frangipani © Erica")
 
-![](risultato7.jpg "frangipani © Erica")
+![](../2018-05-30-torta-al-latte-caldo-e-caffe/risultato7.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

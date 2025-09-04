@@ -16,7 +16,7 @@ categories:
 label: 2021-07-13-insalata-di-pasta-con-verdure-mediterranee-grigliate
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2021-07-13-insalata-di-pasta-con-verdure-mediterranee-grigliate/header.jpeg "frangipani © Erica")
 
 **Insalata di Pasta con Verdure Mediterranee grigliate** un piatto completo saporito e super estivo! Pieno di verdure mediterranee estive, pieno di basilico e a chi piace, anche formaggio Feta, che io in estate mangio molto volentieri... Per un'insalata di pasta vegana basta non mettere il formaggio Feta o sostituirlo con del Tofu saltato in padella.
 <br />
@@ -32,7 +32,7 @@ Con questo piatto partecipo anche alla 27. Foodie Challenge mensile, organizzata
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Insalata di Pasta con Verdure Mediterranee grigliate</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2021-07-13-insalata-di-pasta-con-verdure-mediterranee-grigliate/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Insalata di Pasta con Verdure Mediterranee grigliate un piatto completo saporito e super estivo! Pieno di verdure mediterranee estive, pieno di basilico e a chi piace, anche formaggio Feta, che io in estate mangio molto volentieri...</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -95,25 +95,25 @@ Con questo piatto partecipo anche alla 27. Foodie Challenge mensile, organizzata
 </h3>
 
 Lavate tutte le verdure. Tagliate a dadini il peperone, la zucchina e la melanzana, poi mettete tutto su di una teglia. Sulla teglia mettete anche i pomodorini interi e la cipolla intera avvolta nella carta forno. Condite tutto (tranne la cipolla) con olio e sale. Poi infornate nel forno preriscaldato a 180°C ventilato per mezz'oretta o finché tutto sarà cotto. Può essere che la cipolla abbia bisogno di più tempo, in quel caso sfornate il resto e continuate solo con la cottura della cipolla. Uscite la cipolla cotta dalla carta forno, eliminate lo strato esterno e tagliatela a pezzettini. Unite tutte le verdure grigliate, condite con olio, sale e basilico e tenete da parte.
-![](verdure.jpeg "frangipani © Erica")
+![](../2021-07-13-insalata-di-pasta-con-verdure-mediterranee-grigliate/verdure.jpeg "frangipani © Erica")
 
 Cuocete la pasta in abbondante acqua salata, scolatela, aggiungete un filo d'olio e fatela raffreddare. 
 
 Quando tutto si sarà raffreddato o almeno intiepidito, condite la pasta con le verdure grigliate, poi se volete aggiungete anche la Feta sbriciolata e altro basilico e servite...
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-07-13-insalata-di-pasta-con-verdure-mediterranee-grigliate/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-07-13-insalata-di-pasta-con-verdure-mediterranee-grigliate/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato3.jpeg "frangipani © Erica")
+![](../2021-07-13-insalata-di-pasta-con-verdure-mediterranee-grigliate/risultato3.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-07-13-insalata-di-pasta-con-verdure-mediterranee-grigliate/risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-07-13-insalata-di-pasta-con-verdure-mediterranee-grigliate/risultato5.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

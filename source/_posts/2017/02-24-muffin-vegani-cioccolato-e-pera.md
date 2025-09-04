@@ -13,7 +13,7 @@ categories:
 label: 2017-muffin-cioccolato-e-pera
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2017-02-24-muffin-vegani-cioccolato-e-pera/header.jpg "frangipani © Erica")
 
 E con questa ricetta saluto il Mese di Febbraio... Questo mese finirà con il primo dei nostri coetanei a festeggiare i 30! Eh si, perché quest'anno tocca a noi nati nel 1987... 30 anni, adulti ma non adulti adulti, non so se mi spiego?! In realtà ha già compiuto gli anni, ma farà una festa questo weekend. Sarà una festa a tema: Personaggi famosi! Ecco, quando ho letto l'invito, il mio cervello ha iniziato subito a pensare al travestimento, un travestimento in formato famiglia. Ed ecco l'idea: vestiamoci da Famiglia Pig! Sono scoppiata a ridere, mio marito mi guarda dicendo un NO deciso, ma con un sorrisetto in faccia. Essendo uomo e dovendo dunque difendere la sua reputazione ed il suo orgoglio ha detto no, ma in fondo l'idea gli piaceva! Soprattutto perché i piccoli vanno matti per Peppa Pig and co. Comunque sia si è convinto (anche se non ho dovuto fare molto per convincerlo) e mi sono messa alla ricerca dei vestiti... Non vedo l'ora di vedere gli altri travestimenti!
 
@@ -78,22 +78,22 @@ Ma parliamo di questi Muffin dal gusto autunnale-invernale ma dai colori primave
 </h3>
 
 Pelate le pere, tagliatele a cubetti piccolini e metteteli da parte. Tagliate a pezzettini anche il cioccolato. 
-![](pereecioccolato.jpg "frangipani © Erica")
+![](../2017-02-24-muffin-vegani-cioccolato-e-pera/pereecioccolato.jpg "frangipani © Erica")
 
 In una ciotola capiente mettete la farina, lo zucchero di canna, il lievito, lo zucchero vanigliato ed il sale e mescolate con una frusta a mano. Poi aggiungete il latte vegetale e l'olio e mescolate bene con un cucchiaio. A questo punto aggiungete le pere ed il cioccolato a pezzettini e mescolate.
-![](impasto.jpg "frangipani © Erica")
+![](../2017-02-24-muffin-vegani-cioccolato-e-pera/impasto.jpg "frangipani © Erica")
 
 Riempite i pirottini fino a 3/4.
-![](pirottini.jpg "frangipani © Erica")
+![](../2017-02-24-muffin-vegani-cioccolato-e-pera/pirottini.jpg "frangipani © Erica")
 
 Infornateli nel forno preriscaldato a 180°C statico per 30min, mi raccomando fate la prova stecchino. Aspettate che si raffreddino un pochettino, poi li passate su di una griglia...
-![](risultato1.jpg "frangipani © Erica")
+![](../2017-02-24-muffin-vegani-cioccolato-e-pera/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2017-02-24-muffin-vegani-cioccolato-e-pera/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2017-02-24-muffin-vegani-cioccolato-e-pera/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2017-02-24-muffin-vegani-cioccolato-e-pera/risultato4.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

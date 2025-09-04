@@ -13,7 +13,7 @@ categories:
 label: 2024-08-21-girelle-vegane-ai-mirtilli
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2024-08-21-girelle-vegane-ai-mirtilli/header.jpeg "frangipani © Erica")
 
 Pubblicità: **Girelle vegane ai Mirtilli** in collaborazione con <a href="https://www.farmy.ch" target="_blank">Farmy</a>. O anche Blueberry Rolls, dei sofficissimi dolcetti semplicemente irresistibili! Super soffici, super fruttati, super estivi, super buoni! Devo aggiungere altro? 
 <br />
@@ -28,7 +28,7 @@ Eccoci qua! Sono passate le vacanze estive e i bimbi sono ritornati a scuola. Gl
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Girelle vegane ai Mirtilli</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2024-08-21-girelle-vegane-ai-mirtilli/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Girelle vegane ai Mirtilli o Blueberry Rolls, dei sofficissimi dolcetti semplicemente irresistibili!</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -106,8 +106,8 @@ Nel frattempo preparate il ripieno: mettete mirtilli, zucchero, amido, vaniglia 
 Quando l'impasto avrà raddoppiato il suo volume prendete l'impasto e stendetelo creando un rettangolo sottile circa 5mm. Distribuite il composto di mirtilli su tutto il rettangolo lasciando un bordo di 1cm. Arrotolate il tutto dalla parte più lunga stringendo bene, poi tagliate il rotolo formando circa 12 girelle e appoggiate le girelle su di una teglia con sotto della carta forno. Coprite e fate lievitare fino a raddoppio.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="impasto.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-08-21-girelle-vegane-ai-mirtilli/impasto.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-08-21-girelle-vegane-ai-mirtilli/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -115,32 +115,32 @@ Quando l'impasto avrà raddoppiato il suo volume prendete l'impasto e stendetelo
 Infornate le **Girelle vegane ai Mirtilli** nel forno preriscaldato a 190°C statico per 25-30min o fino a doratura, ma senza farli bruciare. Appena sfornati copriteli con un panno, in questo modo saranno ancora più soffici. Se volete, glassate con una glassa a piacere... io preferisco senza!
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-08-21-girelle-vegane-ai-mirtilli/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-08-21-girelle-vegane-ai-mirtilli/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-08-21-girelle-vegane-ai-mirtilli/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-08-21-girelle-vegane-ai-mirtilli/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-08-21-girelle-vegane-ai-mirtilli/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-08-21-girelle-vegane-ai-mirtilli/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-08-21-girelle-vegane-ai-mirtilli/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-08-21-girelle-vegane-ai-mirtilli/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

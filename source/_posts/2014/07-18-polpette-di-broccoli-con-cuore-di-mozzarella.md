@@ -11,7 +11,7 @@ categories:
 label: 2014-07-18-polpette-di-broccoli-con-cuore-di-mozzarella
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2014-07-18-polpette-di-broccoli-con-cuore-di-mozzarella/header.jpeg "frangipani © Erica")
 
 **Polpette di Broccoli con Cuore di Mozzarella** delle polpettine vegetariane molto sfiziose. Si sente tutto il gusto dei broccoli e dentro hanno un cuore filante di mozzarella. Perfetti come finger food, per un buffet ma anche per un pranzetto diverso.
 <br />
@@ -22,7 +22,7 @@ L'impasto è molto appiccicoso e molliccio, per questo è molto importante che i
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Polpette di Broccoli con Cuore di Mozzarella</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2014-07-18-polpette-di-broccoli-con-cuore-di-mozzarella/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Polpette di Broccoli con Cuore di Mozzarella delle polpettine vegetariane molto sfiziose. Si sente tutto il gusto dei broccoli e dentro hanno un cuore filante di mozzarella.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -88,9 +88,9 @@ Tagliate la mozzarella a pezzetti, vi serve un pezzo per ogni polpetta. Poi mett
 Poi chiudete bene e cercate di formare una palla. Poi passatela nella farina di mais e riformate la palla. Appoggiate le polpette di broccoli su di una teglia con della carta forno.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 32%; margin-right: 1%;" src="broccoli.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="polpette.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-left: 1%;" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%;" src="../2014-07-18-polpette-di-broccoli-con-cuore-di-mozzarella/broccoli.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="../2014-07-18-polpette-di-broccoli-con-cuore-di-mozzarella/polpette.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-left: 1%;" src="../2014-07-18-polpette-di-broccoli-con-cuore-di-mozzarella/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -98,26 +98,26 @@ Poi chiudete bene e cercate di formare una palla. Poi passatela nella farina di 
 Distribuite un po' di olio sulle polpette e infornatele nel forno ventilato preriscaldato a 180°C per 20-25min.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-07-18-polpette-di-broccoli-con-cuore-di-mozzarella/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-07-18-polpette-di-broccoli-con-cuore-di-mozzarella/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato3.jpeg "frangipani © Erica")
+![](../2014-07-18-polpette-di-broccoli-con-cuore-di-mozzarella/risultato3.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-07-18-polpette-di-broccoli-con-cuore-di-mozzarella/risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-07-18-polpette-di-broccoli-con-cuore-di-mozzarella/risultato5.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-07-18-polpette-di-broccoli-con-cuore-di-mozzarella/risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-07-18-polpette-di-broccoli-con-cuore-di-mozzarella/risultato7.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

@@ -10,7 +10,7 @@ categories:
 - "Piatti Unici"
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2016-02-07-zuppa-di-orzo/header.jpg "frangipani © Erica")
 
 Lo so, lo so... Questo piatto non è proprio un classico per il pranzo domenicale, ma se la principessa di casa vuole giocare con la plastilina, non c'è tempo di preparare cose molto elaborate. Quindi ho messo sui fornelli questa zuppetta d'orzo e l'ho fatta cucinare per poco più di un'oretta. Così ho avuto tutto il tempo per giocare e allo stesso tempo il pranzo stava li, tra se e se a cucinare. La zuppetta è venuta cremosissima. Pure mio marito ha detto che era buonissima, cosa che con le zuppette non succede praticamente mai!
 
@@ -73,13 +73,13 @@ Lo so, lo so... Questo piatto non è proprio un classico per il pranzo domenical
 </h3>
 
 Tagliate finemente lo scalogno, pelate le carote e tagliatele a rondelle. Pelate anche le patate e tagliatele a quadretti. Mettete lo scalogno in una pentola capiente con un filo d'olio e un pizzico di sale e fatelo soffriggere, poi aggiungete le carote e le patate e fate rosolare per qualche minuto. Poi aggiungete l'orzo perlato precedentemente sciacquato.
-![](ingredienti.jpg "frangipani © Erica")
+![](../2016-02-07-zuppa-di-orzo/ingredienti.jpg "frangipani © Erica")
 
 Mescolate il tutto, poi aggiungete un bel po' d'acqua, il basilico, l'alloro e le foglie del sedano. Se volete, aggiungete anche le coste del sedano. Io non le avevo, ma tengo in congelatore sempre un po' di foglie del sedano.
-![](brodo.jpg "frangipani © Erica")
+![](../2016-02-07-zuppa-di-orzo/brodo.jpg "frangipani © Erica")
 
 A questo punto fate andare a fiamma moderata mescolando ogni tanto. Ci vorrà circa un'oretta finché l'orzo sarà cotto. Impiattate e finite con un filo di un buon olio evo.
-![](risultato.jpg "frangipani © Erica")
+![](../2016-02-07-zuppa-di-orzo/risultato.jpg "frangipani © Erica")
 
 
 

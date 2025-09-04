@@ -12,12 +12,12 @@ categories:
 label: 2024-06-12-crostini-con-stracciatella-di-burrata-pomodori-confit-e-asparagi
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2024-06-12-crostini-con-stracciatella-di-burrata-pomodori-confit-e-asparagi/header.jpeg "frangipani © Erica")
 
 Pubblicità con codice sconto: **Crostini con Stracciatella di Burrata, Pomodori Confit e Asparagi** in collaborazione con <a href="https://www.farmy.ch" target="_blank">Farmy</a>. Tantissimo sapore concentrato su di una fetta di buon pane. La cremosità della stracciatella di Burrata, il sapore pazzesco dei pomodori confit che creano una seria dipendenza e poi la croccantezza degli asparagi.
 <br />
 Conoscete la stracciatella di Burrata? Non è altro che il cuore della Burrata, la parte cremosa che si trova all'interno ed è di una bontà fantastica. Non è per niente facile trovarla, ma da <a href="https://www.farmy.ch" target="_blank">Farmy</a> si trova. E se non la trovate, potete usare anche la Burrata stessa, la mozzarella di bufala, la mozzarella normale, ma anche un buon formaggio spalmabile...
-![](spesa.jpeg "frangipani © Erica")
+![](../2024-06-12-crostini-con-stracciatella-di-burrata-pomodori-confit-e-asparagi/spesa.jpeg "frangipani © Erica")
 
 Avete mai mangiato i pomodori confit? Se non lo avete mai fatto, dovete assolutamente rimediare! Sono una cosa pazzesca. Quando mangiate i pomodori confit, sentite il gusto concentrato dei pomodori. Dolce, acidulo, salato... tutto! E hanno la capacità di dare un tocco in più. Li faccio spesso come topping per un piatto di pasta o di risotto, da mettere nei panini o anche nell'insalata.
 <br />
@@ -30,7 +30,7 @@ Con questa ricetta direi di dare il via alle ricette estive! E se avete di megli
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Crostini con Stracciatella di Burrata, Pomodori Confit e Asparagi</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2024-06-12-crostini-con-stracciatella-di-burrata-pomodori-confit-e-asparagi/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Crostini con Stracciatella di Burrata, Pomodori Confit e Asparagi, tantissimo sapore concentrato su di una fetta di buon pane.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -77,45 +77,45 @@ Con questa ricetta direi di dare il via alle ricette estive! E se avete di megli
 Lavate i pomodorini, poi tagliateli a metà. Adagiateli su di una teglia con sotto della carta forno con la superficie di taglio verso su formando un solo strato. Salate tutti i pomodorini e se volete mettete anche una spolverata di zucchero. Aggiungete anche una spolverata di origano ed un filo d'olio. Infornateli nel forno a 160°C ventilato per un'oretta circa. Si dovranno ammorbidire e caramellare, ma non bruciare.
 
 Lavate gli asparagi, eliminate la parte legnosa e dura, poi tagliateli a pezzetti da 2-3cm. Condite con olio e sale, poi infornate anche loro per mezz'oretta, dovranno rimanere croccanti.
-![](pomodorieasparagi.jpeg "frangipani © Erica")
+![](../2024-06-12-crostini-con-stracciatella-di-burrata-pomodori-confit-e-asparagi/pomodorieasparagi.jpeg "frangipani © Erica")
 
 Tagliate il pane a fette e tostatele nel forno, nella padella o nel tostapane. Distribuiteci sopra la stracciatella di Burrata e finite con i pomodori confit e gli asparagi.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-06-12-crostini-con-stracciatella-di-burrata-pomodori-confit-e-asparagi/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-06-12-crostini-con-stracciatella-di-burrata-pomodori-confit-e-asparagi/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-06-12-crostini-con-stracciatella-di-burrata-pomodori-confit-e-asparagi/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-06-12-crostini-con-stracciatella-di-burrata-pomodori-confit-e-asparagi/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-06-12-crostini-con-stracciatella-di-burrata-pomodori-confit-e-asparagi/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-06-12-crostini-con-stracciatella-di-burrata-pomodori-confit-e-asparagi/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-06-12-crostini-con-stracciatella-di-burrata-pomodori-confit-e-asparagi/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-06-12-crostini-con-stracciatella-di-burrata-pomodori-confit-e-asparagi/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-06-12-crostini-con-stracciatella-di-burrata-pomodori-confit-e-asparagi/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-06-12-crostini-con-stracciatella-di-burrata-pomodori-confit-e-asparagi/risultato10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

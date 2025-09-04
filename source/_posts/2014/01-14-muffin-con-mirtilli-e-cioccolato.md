@@ -14,7 +14,7 @@ categories:
 label: 2014-01-14-muffin-vegani-con-mirtilli-e-cioccolato
 lang: it 
 ---
-![](header.jpg "frangipani © Erica")
+![](../2014-01-14-muffin-con-mirtilli-e-cioccolato/header.jpg "frangipani © Erica")
 
 > Grazie Mamma per la ricetta!
 
@@ -26,7 +26,7 @@ lang: it
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Muffin vegani con Mirtilli e Cioccolato</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2014-01-14-muffin-con-mirtilli-e-cioccolato/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Muffin vegani con Mirtilli e Cioccolato, i Muffin perfetti per la colazione!</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -88,28 +88,28 @@ lang: it
 </h3>
 
 Mettete in una ciotola la farina, la fecola di patate, lo zucchero di canna, il lievito, lo zucchero vanigliato ed un pizzico di sale e mescolate tutto. Aggiungete poi il latte vegetale e l'olio e mescolate bene con un cucchiaio di legno e poi aggiungete i mirtilli ed il cioccolato a pezzetti.
-![](impasto.jpg "frangipani © Erica")
+![](../2014-01-14-muffin-con-mirtilli-e-cioccolato/impasto.jpg "frangipani © Erica")
 
 Riempite i pirottini per Muffin massimo fino a 3/4 ed infornate a 200°C statico per ca. 20min (mi raccomando fate sempre la prova stecchino), poi sfornateli e fateli raffreddare nella teglia stessa.
-![](risultato1.jpg "frangipani © Erica")
+![](../2014-01-14-muffin-con-mirtilli-e-cioccolato/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2014-01-14-muffin-con-mirtilli-e-cioccolato/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2014-01-14-muffin-con-mirtilli-e-cioccolato/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2014-01-14-muffin-con-mirtilli-e-cioccolato/risultato4.jpg "frangipani © Erica")
 
-![](risultato5.jpg "frangipani © Erica")
+![](../2014-01-14-muffin-con-mirtilli-e-cioccolato/risultato5.jpg "frangipani © Erica")
 
-![](risultato6.jpg "frangipani © Erica")
+![](../2014-01-14-muffin-con-mirtilli-e-cioccolato/risultato6.jpg "frangipani © Erica")
 
-![](risultato7.jpg "frangipani © Erica")
+![](../2014-01-14-muffin-con-mirtilli-e-cioccolato/risultato7.jpg "frangipani © Erica")
 
-![](risultato8.jpg "frangipani © Erica")
+![](../2014-01-14-muffin-con-mirtilli-e-cioccolato/risultato8.jpg "frangipani © Erica")
 
-![](risultato9.jpg "frangipani © Erica")
+![](../2014-01-14-muffin-con-mirtilli-e-cioccolato/risultato9.jpg "frangipani © Erica")
 
-![](risultato10.jpg "frangipani © Erica") 
+![](../2014-01-14-muffin-con-mirtilli-e-cioccolato/risultato10.jpg "frangipani © Erica") 
 
 <h4>Buon appetito
   <font color="red">

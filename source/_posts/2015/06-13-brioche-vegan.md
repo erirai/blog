@@ -10,7 +10,7 @@ categories:
 - Colazione
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2015-06-13-brioche-vegan/header.jpg "frangipani © Erica")
 
 Domani vengono a colazione mia sorella e mio cognato, quindi Brioches vegane fatte in casa! Le avevamo fatte al corso di pasticceria vegana, dove sono stata settembre scorso e finalmente oggi sono riuscita a farle a casa! Sono veramente buone ed è molto facile...
 
@@ -61,26 +61,26 @@ Domani vengono a colazione mia sorella e mio cognato, quindi Brioches vegane fat
 </h3>
 
 Mettete la farina, lo zucchero, il sale e la margarina e pezzettini nella planetaria. Fate riscaldare leggermente il latte di cocco, togliete dai fornelli e fate sciogliere il lievito. Poi versate il latte di cocco nella planetaria ed iniziate ad impastare. Quando l'impasto si stacca dalle pareti è pronto. Togliete dalla planetaria e impastate con le mani per qualche minuto. Potete fare il tutto anche completamente a mano. Poi mettete l'impasto in una ciotola capiente, coprite con una coperta e mettete a lievitare per due orette o almeno finché avrà raddoppiato il suo volume.
-![](impasto.jpg "frangipani © Erica")
+![](../2015-06-13-brioche-vegan/impasto.jpg "frangipani © Erica")
 
 Passate le due ore suddividete l'impasto in tante palline da 70gr ca. Poi staccate da ogni porzione un piccolo pezzettino e fate una pallina. Con il resto dell'impasto fate una pallina mettendo la mano sopra e roteate.
-![](pallina1.jpg "frangipani © Erica")
+![](../2015-06-13-brioche-vegan/pallina1.jpg "frangipani © Erica")
 
-![](pallina2.jpg "frangipani © Erica")
+![](../2015-06-13-brioche-vegan/pallina2.jpg "frangipani © Erica")
 
 Poi con un dito fate un buco e adagiateci la pallina piccola.
-![](buco.jpg "frangipani © Erica")
+![](../2015-06-13-brioche-vegan/buco.jpg "frangipani © Erica")
 
-![](fatta.jpg "frangipani © Erica")
+![](../2015-06-13-brioche-vegan/fatta.jpg "frangipani © Erica")
 
 Mettetela nella formina. Potete usare delle formine per muffin in silicone, delle formine per tortine con i bordi alti o anche la teglia per muffin... o addirittura la forma da Plumcake!
-![](teglia.jpg "frangipani © Erica")
+![](../2015-06-13-brioche-vegan/teglia.jpg "frangipani © Erica")
 
 Adesso fate lievitare per altre due orette, sempre coperte con un panno.
-![](lievitate.jpg "frangipani © Erica")
+![](../2015-06-13-brioche-vegan/lievitate.jpg "frangipani © Erica")
 
 Poi infornatele nel forno preriscaldato a 180°C ventilato per 20-30min. Appena sfonate, ricopritele per 10min con due panni, in questo modo la superfice diventerà morbidissima. Poi toglietele dalle formine e fatele raffreddare completamente su di una griglia.
-![](risultato.jpg "frangipani © Erica")
+![](../2015-06-13-brioche-vegan/risultato.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

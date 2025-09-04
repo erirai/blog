@@ -12,7 +12,7 @@ categories:
 - Torte
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2015-12-11-alberello-di-natale-alle-carote-arance-e-zenzero/header.jpg "frangipani © Erica")
 
 L'anno scorso mia Mamma mi ha regalato questo bellissimo stampo a forma di alberello di natale della Nordic Ware. Finalmente quest'anno sono riuscita a provarlo e devo dire che viene proprio bene! Ok, gli stampi della Nordic Ware sono veramente di ottima qualità... Questo impasto si può adattare alle varie stagioni... adesso si può fare con le arance, se si vuole si può aggiungere anche la cannella o altre spezie. In primavera o estate si può fare col limone. La torta è molto buona, fresca, per niente pesante. Viene molto soffice e resta bella umida. Naturalmente va benissimo anche uno semplice stampo rotondo da massimo 20-22cm o da plumcake.
 
@@ -94,19 +94,19 @@ L'anno scorso mia Mamma mi ha regalato questo bellissimo stampo a forma di alber
 </h3>
 
 Lavate e pelate le carote e lo zenzero, poi grattugiateli finemente e metteteli da parte. Mettete tutti gli ingredienti asciutti in una coppa e mescolate. Poi aggiungete la scorza ed il succo dell'arancia, il latte e l'olio e mescolate. Alla fine aggiungete le carote e lo zenzero grattugiati e date un'ultima mescolata.
-![](impasto.jpg "frangipani © Erica")
+![](../2015-12-11-alberello-di-natale-alle-carote-arance-e-zenzero/impasto.jpg "frangipani © Erica")
 
 Versate l'impasto in una stampo per torte precedentemente imburrato ed infarinato.
-![](teglia.jpg "frangipani © Erica")
+![](../2015-12-11-alberello-di-natale-alle-carote-arance-e-zenzero/teglia.jpg "frangipani © Erica")
 
 Infornate la torta nel forno preriscaldato a 180°C statico per 40min ca, mi raccomando fate sempre la prova stecchino. Fatela intiepidire, poi passatela su di una griglia.
-![](sfornato.jpg "frangipani © Erica")
+![](../2015-12-11-alberello-di-natale-alle-carote-arance-e-zenzero/sfornato.jpg "frangipani © Erica")
 
 Adesso preparate la glassa: mettete lo zucchero a velo in una coppetta e aggiungete un po' di succo di limone alla volta, finché avrete una glassa bella densa ma scivolosa. Poi glassate la torta...
-![](glassato.jpg "frangipani © Erica")
+![](../2015-12-11-alberello-di-natale-alle-carote-arance-e-zenzero/glassato.jpg "frangipani © Erica")
 
 ...e decoratela come volete!
-![](risultato.jpg "frangipani © Erica")
+![](../2015-12-11-alberello-di-natale-alle-carote-arance-e-zenzero/risultato.jpg "frangipani © Erica")
 
 
 <h4>Buon appetito

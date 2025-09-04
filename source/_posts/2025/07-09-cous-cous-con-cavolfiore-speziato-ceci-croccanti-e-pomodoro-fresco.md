@@ -14,7 +14,7 @@ categories:
 label: 2025-07-09-cous-cous-con-cavolfiore-speziato-ceci-croccanti-e-pomodoro-fresco
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2025-07-09-cous-cous-con-cavolfiore-speziato-ceci-croccanti-e-pomodoro-fresco/header.jpeg "frangipani © Erica")
 
 Pubblicità: **Cous Cous con Cavolfiore speziato, Ceci croccanti e Pomodoro fresco** in collaborazione con <a href="https://www.farmy.ch" target="_blank">Farmy</a>. Un piatto unico vegano, colorato, pieno di gusto e ottimo da portare in spiaggia o in piscina, ma anche in montagna! Molto buona anche come insalata per una grigliata...
 <br />
@@ -27,7 +27,7 @@ E se come me preferite fare altre cose invece che andare a fare la spesa, basta 
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Cous Cous con Cavolfiore speziato, Ceci croccanti e Pomodoro fresco</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2025-07-09-cous-cous-con-cavolfiore-speziato-ceci-croccanti-e-pomodoro-fresco/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Cous Cous con Cavolfiore speziato, Ceci croccanti e Pomodoro fresco, un piatto unico vegano, colorato, pieno di gusto e ottimo da portare in spiaggia o in piscina, ma anche in montagna!</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -105,8 +105,8 @@ Preparate il Cous Cous come indicato sulla confezione. E per ultimo lavate i pom
 Quando il Cous Cous e il cavolfiore saranno pronti, mischiateli.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="ceci.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="couscous.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-07-09-cous-cous-con-cavolfiore-speziato-ceci-croccanti-e-pomodoro-fresco/ceci.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-07-09-cous-cous-con-cavolfiore-speziato-ceci-croccanti-e-pomodoro-fresco/couscous.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -114,29 +114,29 @@ Quando il Cous Cous e il cavolfiore saranno pronti, mischiateli.
 Versate il Cous Cous con il cavolfiore in una coppa capiente da portata, aggiungete i ceci e mischiate bene. Distribuiteci sopra i pomodori e servite...
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-07-09-cous-cous-con-cavolfiore-speziato-ceci-croccanti-e-pomodoro-fresco/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-07-09-cous-cous-con-cavolfiore-speziato-ceci-croccanti-e-pomodoro-fresco/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-07-09-cous-cous-con-cavolfiore-speziato-ceci-croccanti-e-pomodoro-fresco/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-07-09-cous-cous-con-cavolfiore-speziato-ceci-croccanti-e-pomodoro-fresco/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-07-09-cous-cous-con-cavolfiore-speziato-ceci-croccanti-e-pomodoro-fresco/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-07-09-cous-cous-con-cavolfiore-speziato-ceci-croccanti-e-pomodoro-fresco/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
-![](risultato7.jpeg "frangipani © Erica")
+![](../2025-07-09-cous-cous-con-cavolfiore-speziato-ceci-croccanti-e-pomodoro-fresco/risultato7.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

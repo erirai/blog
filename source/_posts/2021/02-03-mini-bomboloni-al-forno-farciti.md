@@ -11,7 +11,7 @@ categories:
 label: 2021-02-03-mini-bomboloni-al-forno-farciti
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2021-02-03-mini-bomboloni-al-forno-farciti/header.jpeg "frangipani © Erica")
 
 **Mini Bomboloni al forno farciti** uno dei tanti dolci di Carnevale. Delle piccole palline sofficissime di pasta lievita, farcite con della golosissima crema pasticcera alla vaniglia e al cioccolato.
 <br />
@@ -30,7 +30,7 @@ Poi vorrei dare il benvenuto al mese di Febbraio, l'ultimo mese invernale, che �
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Mini Bomboloni al forno farciti</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2021-02-03-mini-bomboloni-al-forno-farciti/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Mini Bomboloni al forno farciti uno dei tanti dolci di Carnevale. Delle piccole palline sofficissime di pasta lievita, farcite con della golosissima crema pasticcera alla vaniglia e al cioccolato.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -139,38 +139,38 @@ Mentre l'impasto lievita, preparate la crema pasticcera. In una coppa mescolate 
 Passato il tempo necessario, con un matterello stendete l'impasto fino a uno spessore di 1-1.5cm circa. Con un coppapasta da 6cm ricavate tanti dischi e metteteli su di una leccarda con sotto della carta forno (l'impasto avanzato lo rimpastate e lo ristendete fino a esaurimento). Coprite e fate lievitare un'altra oretta.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="impasto.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-02-03-mini-bomboloni-al-forno-farciti/impasto.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-02-03-mini-bomboloni-al-forno-farciti/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 Infornate nel forno preriscaldato a 180°C statico per 15min o fino a doratura. Appena sfornati, uno alla volta spennellate tutta la superficie dei Bomboloni con il burro fuso e passateli nello zucchero semolato. Fate raffreddare i Bomboloni su di una gratella. Mettete le due creme in due sacchi da pasticcere con punta sottile a stella e farcite generosamente i Bomboloni. 
-![](bomboloni.jpeg "frangipani © Erica")
+![](../2021-02-03-mini-bomboloni-al-forno-farciti/bomboloni.jpeg "frangipani © Erica")
 
 Mangiateli subito e conservate quelli avanzati in un contenitore chiuso ermeticamente.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-02-03-mini-bomboloni-al-forno-farciti/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-02-03-mini-bomboloni-al-forno-farciti/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-02-03-mini-bomboloni-al-forno-farciti/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-02-03-mini-bomboloni-al-forno-farciti/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato5.jpeg "frangipani © Erica")
+![](../2021-02-03-mini-bomboloni-al-forno-farciti/risultato5.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-02-03-mini-bomboloni-al-forno-farciti/risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-02-03-mini-bomboloni-al-forno-farciti/risultato7.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

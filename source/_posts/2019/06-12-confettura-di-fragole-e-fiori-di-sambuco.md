@@ -14,7 +14,7 @@ categories:
 label: 2019-06-12-confettura-di-fragole-e-fiori-di-sambuco
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2019-06-12-confettura-di-fragole-e-fiori-di-sambuco/header.jpeg "frangipani © Erica")
 
 **Confettura di Fragole e Fiori di Sambuco**, la confettura di fragole più buona al mondo. Questi due ingredienti armonizzano alla perfezione, il profumo è fantastico! L'unico periodo per farla, è questo. Perché i fiori di sambuco non tengono a lungo. Adoro vedere quei piccoli fiorellini profumati sulla fetta di pane, meraviglioso! Sì, ci vuole un po' di pazienza a staccare tutti quei piccoli fiorellini bianchi, ma ne vale assolutamente la pena. Non ci credete? Allora provatela!
 
@@ -28,7 +28,7 @@ Nel cestino della Foodie Challenge mensile di giugno, organizzata da <a href="ht
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Confettura di Fragole e Fiori di Sambuco</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2019-06-12-confettura-di-fragole-e-fiori-di-sambuco/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Confettura di Fragole e Fiori di Sambuco, la confettura di fragole più buona al mondo. Questi due ingredienti armonizzano alla perfezione, il profumo è fantastico!</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -77,17 +77,17 @@ Ci tengo a precisare che il procedimento dipende sempre dal gelificante. Io vi m
 Sciacquate molto delicatamente i fiori di sambuco, poi con molta pazienza staccate tutti i fiorellini. Vi serviranno solo i fiorellini bianchi, senza steli.
 Lavate le fragole, togliete tutto il verde e tagliatele in 2 o in 4. Mettete le fragole, il succo di limone e i semini della vaniglia in una pentola capiente poi aggiungete il gelificante e incorporatelo bene. Bisogna usare una pentola abbastanza capiente perché la frutta quando cucina ha il vizio di fare la schiuma. Quando si saranno ammorbidite le fragole, frullatele con il mixer ad immersione, poi aggiungete 3/4 dei fiori di sambuco, mescolate e fate andare ancora per qualche minuto. A questo punto aggiungete lo zucchero e fatelo sciogliere bene, poi aggiungete il resto dei fiori di sambuco. Fate cucinare ancora per un po'. Prendete un cucchiaio e fate la prova se la marmellata si è gelificata abbastanza: se la marmellata resta appiccicata al cucchiaio e si gelifica subito è pronta e potete toglierla dai fornelli.
 Riempite la marmellata ancora calda nei vasetti precedentemente sterilizzati aiutandovi con un imbuto per marmellate, chiudete i vasetti e metteteli sottosopra per creare un sottovuoto. Appena si sarà raffreddata, potete girare i vasetti... 
-![](risultato1.jpeg "frangipani © Erica")
+![](../2019-06-12-confettura-di-fragole-e-fiori-di-sambuco/risultato1.jpeg "frangipani © Erica")
 
-![](risultato2.jpeg "frangipani © Erica")
+![](../2019-06-12-confettura-di-fragole-e-fiori-di-sambuco/risultato2.jpeg "frangipani © Erica")
 
-![](risultato3.jpeg "frangipani © Erica")
+![](../2019-06-12-confettura-di-fragole-e-fiori-di-sambuco/risultato3.jpeg "frangipani © Erica")
 
-![](risultato4.jpeg "frangipani © Erica")
+![](../2019-06-12-confettura-di-fragole-e-fiori-di-sambuco/risultato4.jpeg "frangipani © Erica")
 
-![](risultato5.jpeg "frangipani © Erica")
+![](../2019-06-12-confettura-di-fragole-e-fiori-di-sambuco/risultato5.jpeg "frangipani © Erica")
 
-![](risultato6.jpeg "frangipani © Erica")
+![](../2019-06-12-confettura-di-fragole-e-fiori-di-sambuco/risultato6.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

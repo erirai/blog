@@ -12,7 +12,7 @@ categories:
 label: 2020-02-20-frittelle-di-ricotta-all-arancia
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2020-02-20-frittelle-di-ricotta-all-arancia/header.jpeg "frangipani © Erica")
 
 **Frittelle di Ricotta all'Arancia** morbide, leggere e strabuone! Una tira l'altra! Sono facilissime da preparare, perché si mette tutto in una ciotola e poi si deve solo friggere. Penso non esistano frittelle più veloci di queste...
 <br />
@@ -25,7 +25,7 @@ E anche quest'anno è arrivato Carnevale, Febbraio sta finendo finalmente... Non
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Frittelle di Ricotta all'Arancia</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-02-20-frittelle-di-ricotta-all-arancia/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Frittelle di Ricotta all'Arancia morbide, leggere e strabuone! Una tira l'altra! Sono facilissime da preparare, perché si mette tutto in una ciotola e poi si deve solo friggere.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -87,32 +87,32 @@ E anche quest'anno è arrivato Carnevale, Febbraio sta finendo finalmente... Non
 </h3>
 
 Mettete tutti gli ingredienti (tranne olio e zucchero semolato) in una coppa e mescolate finché il composto sarà bello liscio.
-![](impasto.jpeg "frangipani © Erica")
+![](../2020-02-20-frittelle-di-ricotta-all-arancia/impasto.jpeg "frangipani © Erica")
 
 Portate l'olio per friggere a temperatura, poi con l'aiuto di due cucchiai formate delle palline e versatele delicatamente direttamente nell'olio. Friggetele finché avranno un bel colore dorato. Passate le frittelle di ricotta all'arancia su della carta da cucina per far assorbire l'olio in eccesso. Poi passatele nello zucchero semolato.
 <br />
 Servitele subito, calde sono ancora più buone...
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-02-20-frittelle-di-ricotta-all-arancia/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-02-20-frittelle-di-ricotta-all-arancia/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato3.jpeg "frangipani © Erica")
+![](../2020-02-20-frittelle-di-ricotta-all-arancia/risultato3.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-02-20-frittelle-di-ricotta-all-arancia/risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-02-20-frittelle-di-ricotta-all-arancia/risultato5.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato6.jpeg "frangipani © Erica")
+![](../2020-02-20-frittelle-di-ricotta-all-arancia/risultato6.jpeg "frangipani © Erica")
 
-![](risultato7.jpeg "frangipani © Erica")
+![](../2020-02-20-frittelle-di-ricotta-all-arancia/risultato7.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

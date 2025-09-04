@@ -13,10 +13,10 @@ categories:
 label: 2017-07-25-granola-al-cacao-con-fragole-e-lamponi
 lang: it 
 ---
-![](header.jpg "frangipani © Erica")
+![](../2017-07-25-granola-al-cacao-con-fragole-e-lamponi/header.jpg "frangipani © Erica")
 
 Eh si, sabato è toccato anche a me... Ho raggiunto i 30 anni! Crisi totale! Ma sono l'unica che fatica ad accettare il fatto di non avere più un due all'inizio della cifra della propria età? Non so perché... Forse perché compiere 30 anni significa diventare definitivamente adulti, non sei più una ragazza, ma un'adulta e adulta mi sa tanto di vecchia! Lo so che invecchiare fa parte della nostra vita e sono felicissima di invecchiare accanto mio marito... già ci vedo tutti e due quando saremo in pensione e tralascio il fatto che già abbiamo dei progetti postpensione... O forse perché 30 anni non me li sento affatto! Quando qualcuno mi chiede l'età e io dovrò rispondere "30!", sarò la prima a non crederci! Comunque sia vedo che mio marito sta bene nonostante i suoi 30 anni... Niente acciacchi, niente vuoti di memoria o crescita improvvisa di capelli bianchi! Non sarà poi tanto grave la cosa... Ringrazio mia Mamma che mi ha aiutata con le pizze e vi volevo fare vedere la torta che mi ha fatto mia sorella e colgo l'occasione per ringraziarla: Grazie Big Sister!
-![](torta.jpg "frangipani © Erica")
+![](../2017-07-25-granola-al-cacao-con-fragole-e-lamponi/torta.jpg "frangipani © Erica")
 
 Il motto era "Summer Party", quindi ho preso tutto con Ananas, Angurie e Cactus dunque nei colori verde, fucsia e giallo. Era un'esplosione di colori... Ringrazio tutti per aver festeggiato insieme a me e per i meravigliosi regali ma soprattutto ringrazio mio marito che quel giorno mi ha viziata come una principessa! Ma torniamo alla ricetta di oggi...
 
@@ -87,22 +87,22 @@ E allora, che aspettate? Andate a preparare la vostra Granola, perché la colazi
 </h3>
 
 Mettete in una coppa tutti gli ingredienti asciutti e mescolate. Se volete, tritate grossolanamente la frutta secca.
-![](asciutti.jpg "frangipani © Erica")
+![](../2017-07-25-granola-al-cacao-con-fragole-e-lamponi/asciutti.jpg "frangipani © Erica")
 
 A parte riscaldate l'olio di cocco e lo sciroppo di riso per farlo sciogliere. Dunque versatelo nella coppa con gli ingredienti asciuti e mescolate bene.
-![](composto.jpg "frangipani © Erica")
+![](../2017-07-25-granola-al-cacao-con-fragole-e-lamponi/composto.jpg "frangipani © Erica")
 
 Versate il composto su di una teglia ricoperta con della carta forno e distribuite bene formando uno strato non troppo spesso. Altrimenti dividete su due teglie.
-![](teglia.jpg "frangipani © Erica")
+![](../2017-07-25-granola-al-cacao-con-fragole-e-lamponi/teglia.jpg "frangipani © Erica")
 
 Infornate la Granola nel forno preriscaldato a 160°C ventilato per mezz'oretta. Mescolate ogni 10min in modo che non si bruci sulla superficie. Fate raffreddare completamente, poi aggiungete a piacere le fragole ed i lamponi liofilizzati e conservate in un barattolo di vetro.
-![](risultato1.jpg "frangipani © Erica")
+![](../2017-07-25-granola-al-cacao-con-fragole-e-lamponi/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2017-07-25-granola-al-cacao-con-fragole-e-lamponi/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2017-07-25-granola-al-cacao-con-fragole-e-lamponi/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2017-07-25-granola-al-cacao-con-fragole-e-lamponi/risultato4.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

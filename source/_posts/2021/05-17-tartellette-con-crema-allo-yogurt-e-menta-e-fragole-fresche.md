@@ -14,7 +14,7 @@ categories:
 label: 2021-05-17-tartellette-con-crema-allo-yogurt-e-menta-e-fragole-fresche
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2021-05-17-tartellette-con-crema-allo-yogurt-e-menta-e-fragole-fresche/header.jpeg "frangipani © Erica")
 
 **Tartellette con Crema allo Yogurt e Menta e Fragole fresche** un dolcetto fresco e leggero perfetto per le giornate calde. È un'esplosione di gusti... La frolla croccante alle mandorle, la cremosità e freschezza della crema allo yogurt e menta e poi le fragole fresche! È un dolcetto favoloso fatto con relativamente poco zucchero. Infatti la frolla è praticamente senza zucchero e mangiata sola si sente, ma nel complesso, insieme alla crema e alle fragole la composizione è perfetta! 
 <br />
@@ -32,7 +32,7 @@ Settimana scorsa c'era anche la 25. Foodie Challenge mensile, organizzata da <a 
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Tartellette con Crema allo Yogurt e Menta e Fragole fresche</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2021-05-17-tartellette-con-crema-allo-yogurt-e-menta-e-fragole-fresche/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Tartellette con Crema allo Yogurt e Menta e Fragole fresche un dolcetto fresco e leggero perfetto per le giornate calde. È un'esplosione di gusti...</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -115,8 +115,8 @@ Per prima cosa preparate la frolla alle mandorle: Mettete farina, mandorle, zucc
 Preparate lo zucchero alla menta: mettete lo zucchero e la menta in un frullatore e frullate il tutto finché si saranno perfettamente amalgamati e lo zucchero sarà verde.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="frolla.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="zucchero.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-05-17-tartellette-con-crema-allo-yogurt-e-menta-e-fragole-fresche/frolla.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-05-17-tartellette-con-crema-allo-yogurt-e-menta-e-fragole-fresche/zucchero.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -126,8 +126,8 @@ Per la crema mettete lo yogurt, la crema spalmabile, un po' di scorza e succo di
 Per ultimo preparate le fragole tagliandole e pezzettini e aggiungendo 1-2 cucchiai rasi di zucchero alla menta e succo di limone. Mescolate e fate riposare in frigo per mezz'oretta.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="crema.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="fragole.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-05-17-tartellette-con-crema-allo-yogurt-e-menta-e-fragole-fresche/crema.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-05-17-tartellette-con-crema-allo-yogurt-e-menta-e-fragole-fresche/fragole.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -135,32 +135,32 @@ Per ultimo preparate le fragole tagliandole e pezzettini e aggiungendo 1-2 cucch
 Appena prima di servire le tartellette, farcitele con la crema allo yogurt e menta e le fragole, abbondantemente. Farcite solo i gusci che poi mangerete, altrimenti perderanno la loro croccantezza...
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-05-17-tartellette-con-crema-allo-yogurt-e-menta-e-fragole-fresche/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-05-17-tartellette-con-crema-allo-yogurt-e-menta-e-fragole-fresche/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-05-17-tartellette-con-crema-allo-yogurt-e-menta-e-fragole-fresche/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-05-17-tartellette-con-crema-allo-yogurt-e-menta-e-fragole-fresche/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-05-17-tartellette-con-crema-allo-yogurt-e-menta-e-fragole-fresche/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-05-17-tartellette-con-crema-allo-yogurt-e-menta-e-fragole-fresche/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-05-17-tartellette-con-crema-allo-yogurt-e-menta-e-fragole-fresche/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-05-17-tartellette-con-crema-allo-yogurt-e-menta-e-fragole-fresche/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

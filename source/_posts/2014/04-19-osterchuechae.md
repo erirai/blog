@@ -9,23 +9,23 @@ categories:
 - "Crostate, Tartes..."
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2014-04-19-osterchuechae/header.jpeg "frangipani © Erica")
 
 **Osterchueche (Torta di Pasqua svizzera)** con un morbido ripieno di semolino e mandorle racchiuso in un guscio di pasta frolla. Praticamente è la versione svizzera della Pastiera Napoletana. È buona ma mai quanto la Pastiera, però è molto più semplice da fare! Il ripieno risulta molto leggero e soffice, un po' tipo Sufflé... Nella versione originale c'è anche l'uvetta, ma io non la metto. Mai e poi mai!
 
 L'altro ieri abbiamo festeggiato il compleanno di mio marito. Uff ormai ci avviciniamo ai 30!!! Il tema era il mare... Ho fatto dei Cupkaces, una torta e anche dei Mini Cupcakes e mia mamma ha fatto una bellissima torta col trucco.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="ccadri.jpg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="miniccadri.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-04-19-osterchuechae/ccadri.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-04-19-osterchuechae/miniccadri.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="tavolaadri.jpg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="tortaadri.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-04-19-osterchuechae/tavolaadri.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-04-19-osterchuechae/tortaadri.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -35,7 +35,7 @@ L'altro ieri abbiamo festeggiato il compleanno di mio marito. Uff ormai ci avvic
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Osterkuchen (Torta di Pasqua svizzera)</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2014-04-19-osterchuechae/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Osterchueche (Torta di Pasqua svizzera) con un morbido ripieno di semolino e mandorle racchiuso in un guscio di pasta frolla.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -134,8 +134,8 @@ Nel frattempo preparate il ripieno. Prendete un pentolino e fate sobbollire il l
 Stendete la pasta frolla e mettetela in una teglia rotondo da massimo 26cm, bucherellate il fondo e copritelo con poca marmellata. Potete fare anche delle mini tortine, vengono anche molto carine, poi versateci il ripieno di semolino.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="frolla.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-04-19-osterchuechae/frolla.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-04-19-osterchuechae/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -143,40 +143,40 @@ Stendete la pasta frolla e mettetela in una teglia rotondo da massimo 26cm, buch
 Infornatela a 200°C statico per ca. 35min. Se fate delle mini tortine, allora il tempo di cottura sarà di 20min circa. Fate raffreddare la torta direttamente nella teglia in modo che il ripieno si rassodi bene. La torta viene servita semplicemente con una bella spolverata di zucchero a velo.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-04-19-osterchuechae/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-04-19-osterchuechae/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-04-19-osterchuechae/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-04-19-osterchuechae/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-04-19-osterchuechae/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-04-19-osterchuechae/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-04-19-osterchuechae/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-04-19-osterchuechae/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-04-19-osterchuechae/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-04-19-osterchuechae/risultato10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

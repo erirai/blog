@@ -15,7 +15,7 @@ categories:
 label: 2017-10-30-pumpkin-cinnamon-rolls
 lang: it 
 ---
-![](header.jpg "frangipani © Erica")
+![](../2017-10-30-pumpkin-cinnamon-rolls/header.jpg "frangipani © Erica")
 
 > Happy Halloween a tutti e arrivederci Ottobre!
 
@@ -95,30 +95,30 @@ Domani è Halloween e Halloween segna la fine del mese di Ottobre... Tra le vaca
 Per l'impasto mettete la farina, lo zucchero, il lievito secco, il sale e se volete anche il Pumpkin Spice nella planetaria e date una mescolata. A parte riscaldate leggermente il latte con il burro, togliete dai fornelli e aggiungete la purea di zucca. Amalgamate bene, poi versatelo anche nella planetaria e iniziate ad impastare. Se dovesse risultare troppo appiccicoso, aggiungete ancora farina. Appena l'impasto si stacca dalle pareti della ciotola, passatelo su di un piano di lavoro ed impastatelo per qualche minuto a mano. A questo punto copritelo e fatelo lievitare per ca. 3 orette o finché avrà raddoppiato il suo volume.
 
 Passato il tempo necessario, infarinate leggermente il piano di lavoro e stendete l'impasto formando un rettangolo spesso ca. 1cm. In una coppetta a parte preparate la farcia mescolando la margarina morbida insieme allo zucchero ad alla cannella.
-![](farcia.jpg "frangipani © Erica")
+![](../2017-10-30-pumpkin-cinnamon-rolls/farcia.jpg "frangipani © Erica")
 
 Spalmate la farcia sull'impasto steso, lasciando un bordo di ca. 1cm.
-![](impastosteso.jpg "frangipani © Erica")
+![](../2017-10-30-pumpkin-cinnamon-rolls/impastosteso.jpg "frangipani © Erica")
 
 Arrotolate l'impasto partendo dal lato più lungo formando un salsicciotto, poi tagliatelo a rondelle dallo spessore che preferite. Appoggiate le rondelle in una teglia coperta con della carta forno e fate lievitare per un'altra mezz'oretta.
-![](teglia.jpg "frangipani © Erica")
+![](../2017-10-30-pumpkin-cinnamon-rolls/teglia.jpg "frangipani © Erica")
 
 Infornate i Pumpkin Cinnamon Rolls nel forno preriscaldato a 190°C statico per circa 15-17min, dipende un po' dallo spessore. Appena sfornate, copritele con un panno per una decina di minuti, in questo modo diventeranno ancora più soffici. Poi mangiateli subito! Naturalmente, li potete anche glassare prima di mangiarli...
-![](risultato1.jpg "frangipani © Erica")
+![](../2017-10-30-pumpkin-cinnamon-rolls/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2017-10-30-pumpkin-cinnamon-rolls/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2017-10-30-pumpkin-cinnamon-rolls/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2017-10-30-pumpkin-cinnamon-rolls/risultato4.jpg "frangipani © Erica")
 
-![](risultato5.jpg "frangipani © Erica")
+![](../2017-10-30-pumpkin-cinnamon-rolls/risultato5.jpg "frangipani © Erica")
 
-![](risultato6.jpg "frangipani © Erica")
+![](../2017-10-30-pumpkin-cinnamon-rolls/risultato6.jpg "frangipani © Erica")
 
-![](risultato7.jpg "frangipani © Erica")
+![](../2017-10-30-pumpkin-cinnamon-rolls/risultato7.jpg "frangipani © Erica")
 
-![](risultato8.jpg "frangipani © Erica")
+![](../2017-10-30-pumpkin-cinnamon-rolls/risultato8.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

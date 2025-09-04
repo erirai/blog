@@ -9,7 +9,7 @@ categories:
 - Panificati
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2015-10-31-panini-al-latte-con-semi-di-zucca/header.jpg "frangipani © Erica")
 
 > Happy Halloween a Tutti!
 
@@ -74,16 +74,16 @@ Sta sera a cena mangiamo dei Zucca Burger, quindi cosa serve? Giusto! Dei buoni 
 </h3>
 
 Mettete le farine ed il sale nella planetaria e iniziate a mescolare. Mettete il latte in un pentolino e ricaldate il latte finché sarà tiepido, non deve essere troppo caldo se no uccidete il lievito. Poi fate sciogliere il lievito nel latte. Versate il latte nella farina, aggiungete anche l'olio e il malto d'orzo e iniziate ad impastare. Quando l'impasto si staccherà dalle pareti della coppa spegnete e passate il tutto su di un piano di lavoro infarinato. Impastate ancora per qualche minuto con le mani. Potete impastare il tutto anche completamente a mano naturalmente. Poi prendete una bella coppa di vetro, ungetela con un po' di olio e metteteci l'impasto. Coprite bene e mettetelo a lievitare in un luogo caldo. Io l'ho fatto lievitare 4 ore...
-![](impasto.jpg "frangipani © Erica")
+![](../2015-10-31-panini-al-latte-con-semi-di-zucca/impasto.jpg "frangipani © Erica")
 
 Appena l'impasto avrà almeno raddoppiato il suo volume prendetelo e suddividetelo in tante parti uguali da circa 100gr l'uno. Formate dei panini, metteteli su di una leccarda con sotto della carta forno e fateli lievitare, sempre coperti, per un'altra oretta.
-![](teglia1.jpg "frangipani © Erica")
+![](../2015-10-31-panini-al-latte-con-semi-di-zucca/teglia1.jpg "frangipani © Erica")
 
 Nel frattempo accendete il forno a 180°C in modalità statica. Passata l'ora, spennellate la superficie dei panini con della panna vegetale e cospargeteli con i semi di zucca.
-![](teglia2.jpg "frangipani © Erica")
+![](../2015-10-31-panini-al-latte-con-semi-di-zucca/teglia2.jpg "frangipani © Erica")
 
 Adesso infornateli e cuoceteli fino a doratura, ci vorrano una ventina di minuti. Appena sfornati, copriteli per appena 5 minuti con un panno pulito. In questo modo risulteranno ancora più morbidi. Poi passateli su di una griglia e fateli raffreddare.
-![](risultato.jpg "frangipani © Erica")
+![](../2015-10-31-panini-al-latte-con-semi-di-zucca/risultato.jpg "frangipani © Erica")
 
 
 

@@ -10,7 +10,7 @@ categories:
 label: 2019-02-19-torta-soffice-alle-mele
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2019-02-19-torta-soffice-alle-mele/header.jpeg "frangipani © Erica")
 
 **Torta Soffice alle Mele** alta, soffice e piena piena di mele! Gusto delicato e consistenza scioglievole. Una torta semplice e facile che mette d'accordo tutti... Non vi piacciono le mele? Che problema c'è! Le sostituite con altra frutta come le pere, i frutti di bosco, le pesche o con <a href="https://frangipani.raiano.ch/2016-09-16-torta-soffice-con-gocce-di-cioccolato/" target="_blank">le gocce di cioccolato</a> o la frutta secca... Aggiungete anche spezie o aromi, come vedete è molto versatile! Questo autunno e inverno le mele e le pere sono favolose, infatti ne stiamo mangiando tantissime. Al momento non c'è tantissima scelta: mele, pere e arance. Basta! Quindi ci arrangiamo con quello che riusciamo a trovare...
 
@@ -32,7 +32,7 @@ Ecco, non male direi! Adesso mi resta smistare l'armadione con le giacche e le s
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Torta Soffice alle Mele</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2019-02-19-torta-soffice-alle-mele/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Torta Soffice alle Mele alta, soffice e piena piena di mele! Gusto delicato e consistenza scioglievole. Una torta semplice e facile che mette d'accordo tutti.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -94,20 +94,20 @@ Ecco, non male direi! Adesso mi resta smistare l'armadione con le giacche e le s
 </h3>
 
 Mettete le uova, lo zucchero, la vaniglia ed il sale nella planetaria e montate finché avrete un composto chiaro e spumoso. Sempre mescolando aggiungete l'olio ed il latte a filo, poi aggiungete la farina ed il lievito entrambi setacciati. A questo punto aggiungete le mele pelate e tagliate a cubetti piccolini, lasciandone da parte un pochettino. Mescolate a mano e versate il composto in una teglia a cerniera imburrata ed infarinata (io ho usato una da 18cm, per questo è così alta). Distribuite sulla superficie il resto delle mele e un po' di granella di zucchero.
-![](teglia.jpeg "frangipani © Erica")
+![](../2019-02-19-torta-soffice-alle-mele/teglia.jpeg "frangipani © Erica")
 
 Infornate la torta nel forno preriscaldato a 180°C statico per 50-60min circa, mi raccomando fate la prova stecchino. Più piccola è la teglia, più lungo sarà il tempo di cottura...
-![](risultato1.jpeg "frangipani © Erica")
+![](../2019-02-19-torta-soffice-alle-mele/risultato1.jpeg "frangipani © Erica")
 
-![](risultato2.jpeg "frangipani © Erica")
+![](../2019-02-19-torta-soffice-alle-mele/risultato2.jpeg "frangipani © Erica")
 
-![](risultato3.jpeg "frangipani © Erica")
+![](../2019-02-19-torta-soffice-alle-mele/risultato3.jpeg "frangipani © Erica")
 
-![](risultato4.jpeg "frangipani © Erica")
+![](../2019-02-19-torta-soffice-alle-mele/risultato4.jpeg "frangipani © Erica")
 
-![](risultato5.jpeg "frangipani © Erica")
+![](../2019-02-19-torta-soffice-alle-mele/risultato5.jpeg "frangipani © Erica")
 
-![](risultato6.jpeg "frangipani © Erica")
+![](../2019-02-19-torta-soffice-alle-mele/risultato6.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

@@ -13,7 +13,7 @@ categories:
 label: 2022-09-21-risotto-alla-zucca-con-semi-di-zucca
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2022-09-21-risotto-alla-zucca-con-semi-di-zucca/header.jpeg "frangipani © Erica")
 
 **Risotto alla Zucca con Semi di Zucca** semplice e cremoso con dei croccanti semi di zucca belli saporiti. Un risotto semplice, fatto con pochi ingredienti essenziali. Un risotto che sa di zucca, senza prodotti che potrebbero alterarne il gusto.
 <br />
@@ -28,7 +28,7 @@ La prima zucca della stagione è sempre una gioia, come tutte le cose che rimang
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Risotto alla Zucca con Semi di Zucca</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2022-09-21-risotto-alla-zucca-con-semi-di-zucca/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Risotto alla Zucca con Semi di Zucca, semplice e cremoso con dei croccanti semi di zucca belli saporiti.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -93,21 +93,21 @@ La prima zucca della stagione è sempre una gioia, come tutte le cose che rimang
 Iniziate preparando il brodo vegetale che terrete al caldo sui fornelli, io uso il sacchettino con gli scarti che man mano congelo, voi potete usare anche il dado. Tagliate la zucca a dadini da 1cm, alcuni tipi di zucca bio possono essere mangiati con tutta la buccia, come la Hokkaido che sto usando io. Tagliate finemente anche una cipolla, poi fatela soffriggere con un filo d'olio e la salvia in una pentola capiente (io mi trovo bene a fare il risotto nelle pentole in ghisa). Aggiungete la zucca, fatela rosolare leggermente poi fatela ammorbidire un attimino aggiungendo un goccio di brodo vegetale. Quando la zucca avrà assorbito il brodo aggiungete il riso e fatelo tostare per un minutino. A questo punto aggiungete qualche mestolo di brodo vegetale e un po' di sale e fate cuocere a temperatura media, mescolando di tanto in tanto e aggiungendo man mano altro brodo. A fine cottura il risotto non dovrà essere ne papposo ne brodoso, quindi regolatevi con il brodo. Togliete dai fornelli, poi aggiungete il parmigiano grattugiato e mescolate bene.
 <br />
 A parte in un pentolino fate tostare i semi di zucca, per ultimo salateli.
-![](risotto.jpeg "frangipani © Erica")
+![](../2022-09-21-risotto-alla-zucca-con-semi-di-zucca/risotto.jpeg "frangipani © Erica")
 
 Impiattate il risotto, se gradite mettete del pepe macinato, poi finite con i semi di zucca tostati.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-09-21-risotto-alla-zucca-con-semi-di-zucca/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-09-21-risotto-alla-zucca-con-semi-di-zucca/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-09-21-risotto-alla-zucca-con-semi-di-zucca/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-09-21-risotto-alla-zucca-con-semi-di-zucca/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

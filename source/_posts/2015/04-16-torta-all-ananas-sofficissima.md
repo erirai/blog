@@ -8,7 +8,7 @@ categories:
 - Torte
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2015-04-16-torta-all-ananas-sofficissima/header.jpg "frangipani © Erica")
 
 > Dedico questa torta a mia Zia Giusy, perché mi ricorda un momento molto bello della mia infanzia! E grazie alla Mamma per l'aiuto!
 
@@ -73,18 +73,18 @@ Mio marito domani fa il compleanno e mi ha chiesto di preparargli tre torta da p
 </h3>
 
 Il procedimento è facilissimo: mettete tutti gli ingredienti, tranne l'ananas, in una ciotola e sbattete il tutto con le fruste elettriche o nella planetaria.
-![](tazza.jpg "frangipani © Erica")
+![](../2015-04-16-torta-all-ananas-sofficissima/tazza.jpg "frangipani © Erica")
 
-![](impasto.jpg "frangipani © Erica")
+![](../2015-04-16-torta-all-ananas-sofficissima/impasto.jpg "frangipani © Erica")
 
 Poi mettete l'impasto in una teglia con sotto della carta forno e adagiateci sopra le fette d'ananas.
-![](teglia.jpg "frangipani © Erica")
+![](../2015-04-16-torta-all-ananas-sofficissima/teglia.jpg "frangipani © Erica")
 
 Poi infornate nel forno preriscaldato a 200°C per ca. mezz'oretta. Fate sempre la prova stecchino.
-![](sfornata.jpg "frangipani © Erica")
+![](../2015-04-16-torta-all-ananas-sofficissima/sfornata.jpg "frangipani © Erica")
 
 Fate raffreddare bene la torta, tagliatela a quadretti e finite con una bella spolverata di zucchero a velo.
-![](risultato.jpg "frangipani © Erica")
+![](../2015-04-16-torta-all-ananas-sofficissima/risultato.jpg "frangipani © Erica")
 
 
 <h3>

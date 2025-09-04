@@ -13,7 +13,7 @@ categories:
 label: 2013-10-26-brownies
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2013-10-26-brownies/header.jpeg "frangipani © Erica")
 
 **Brownies** super cioccolatosi con le noci. Belli morbidi e umidi all'interno, così come i Brownies devono essere. Non è per qualcosa, ma non ho mai mangiato Brownies così buoni come questi! A me piace aggiungere le noci per dare quel tocco croccante, ma anche perché noci e cioccolato stanno benissimo insieme. Ma penso che ci starebbero bene anche le noci Pecan.
 <br />
@@ -26,7 +26,7 @@ Questa ricetta è vecchissima ed è quella che fa sempre mia Mamma. Non ho neanc
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Brownies</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2013-10-26-brownies/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Brownies super cioccolatosi con le noci. Belli morbidi e umidi all'interno, così come i Brownies devono essere.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -88,21 +88,21 @@ Mettete tutto il cioccolato ed il burro a sciogliere a bagnomaria. Nel frattempo
 Infornate nel forno preriscaldato a 180°C ventilato per 25-30min. Dovrete vedere sulla superficie quella pellicina tipica dei Brownies. Quando saranno freddi tagliateli a cubetti e conservateli in un contenitore di latta o di vetro.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2013-10-26-brownies/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2013-10-26-brownies/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2013-10-26-brownies/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2013-10-26-brownies/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato5.jpeg "frangipani © Erica")
+![](../2013-10-26-brownies/risultato5.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

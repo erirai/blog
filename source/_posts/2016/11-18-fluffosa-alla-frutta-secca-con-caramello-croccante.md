@@ -13,7 +13,7 @@ categories:
 label: 2016-11-18-fluffosa-alla-frutta-secca
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2016-11-18-fluffosa-alla-frutta-secca-con-caramello-croccante/header.jpg "frangipani © Erica")
 
 > Buon compleanno Papà, con qualche giorno di ritardo!
 
@@ -115,38 +115,38 @@ Comunque sia, per l'occasione ho preparato questa fluffosissima Fluffosa alla fr
 </h3>
 
 Separate gli albumi dai tuorli e montate a neve gli albumi con due gocce di succo di limone, mettete da parte. In una coppa a parte mettete la farina, la frutta secca macinata, il lievito, un pizzico di sale e lo zucchero, tutto setacciato. Aggiungete i tuorli, l'olio, l'acqua e 2-3 gocce di essenza di mandorla amara. Mescolate il tutto con le fruste elettriche. Adesso aggiungete un po' alla volta gli albumi montati a neve e incoropateli aiutandovi con una spatola. Come al solito con un movimento dall'alto verso il basso, facendo attenzione a non far smontare gli albumi.
-![](impasto.jpg "frangipani © Erica")
+![](../2016-11-18-fluffosa-alla-frutta-secca-con-caramello-croccante/impasto.jpg "frangipani © Erica")
 
 Versate l'impasto nello stampo per Chiffon Cake, mi raccomando NON c'è bisogno di imburrarlo ed infarinarlo.
-![](teglia.jpg "frangipani © Erica")
+![](../2016-11-18-fluffosa-alla-frutta-secca-con-caramello-croccante/teglia.jpg "frangipani © Erica")
 
 Poi infornate la Fluffosa nel forno preriscaldato a 160°C statico per 70-75min, come sempre fate la prova stecchino. Una volta cotta, capovolgetela e lasciatela in questa posizione finché lei non si staccherà da sola, ci vorrà qualche oretta.
-![](scaravoltata.jpg "frangipani © Erica")
+![](../2016-11-18-fluffosa-alla-frutta-secca-con-caramello-croccante/scaravoltata.jpg "frangipani © Erica")
 
-![](fluffosa.jpg "frangipani © Erica")
+![](../2016-11-18-fluffosa-alla-frutta-secca-con-caramello-croccante/fluffosa.jpg "frangipani © Erica")
 
 Nel frattempo preparate il croccante alla frutta secca. Tritate grossolanamente con un coltello la frutta secca.
-![](fruttasecca.jpg "frangipani © Erica")
+![](../2016-11-18-fluffosa-alla-frutta-secca-con-caramello-croccante/fruttasecca.jpg "frangipani © Erica")
 
 Mettete lo zucchero in una padella con qualche goccia di limone e fate sciogliere lo zucchero a temperatura media. Fate attenzione a non bruciare lo zucchero, ma soprattutto a non scottare voi stessi.
-![](caramello.jpg "frangipani © Erica")
+![](../2016-11-18-fluffosa-alla-frutta-secca-con-caramello-croccante/caramello.jpg "frangipani © Erica")
 
 Appena lo zucchero si sarà sciolto completamente e avrà ottenuto un colore ambrato, togliete dai fornelli e aggiungete la frutta secca. Mescoalte un'attimino poi versate il composto su di un foglio di carta forno e con l'aiuto di un limone schiacciate un po'. Fate raffreddare completamente, poi spezzettatelo.
-![](croccante.jpg "frangipani © Erica")
+![](../2016-11-18-fluffosa-alla-frutta-secca-con-caramello-croccante/croccante.jpg "frangipani © Erica")
 
 Quando la fluffosa sarà "caduta" dalla forma, potete preparare la salsa Mou. Prendete un padellino dai bordi alti e fate sciogliere lo zucchero con un cucchiaio d'acqua. Quando avrà ottenuto un colore ambrato, aggiungete il burro a temperatura ambiente e incorporatelo. Fate attenzione agli schizzi. Poi aggiungete la panna calda e il sale, anche qui fate attenzione agli schizzi. Togliete dai fornelli e mescolate, finché il tutto sarà perfettamente amalgamato.
-![](salsamou.jpg "frangipani © Erica")
+![](../2016-11-18-fluffosa-alla-frutta-secca-con-caramello-croccante/salsamou.jpg "frangipani © Erica")
 
 Versate subito la salsa sulla Fluffosa se no diventerà dura e sarà impossibile spalmarla sulla torta e finite con i pezzetti di croccante alla frutta secca.
-![](risultato1.jpg "frangipani © Erica")
+![](../2016-11-18-fluffosa-alla-frutta-secca-con-caramello-croccante/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2016-11-18-fluffosa-alla-frutta-secca-con-caramello-croccante/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2016-11-18-fluffosa-alla-frutta-secca-con-caramello-croccante/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2016-11-18-fluffosa-alla-frutta-secca-con-caramello-croccante/risultato4.jpg "frangipani © Erica")
 
-![](risultato5.jpg "frangipani © Erica")
+![](../2016-11-18-fluffosa-alla-frutta-secca-con-caramello-croccante/risultato5.jpg "frangipani © Erica")
 
 
 <h4>Buon appetito

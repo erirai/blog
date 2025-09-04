@@ -10,7 +10,7 @@ categories:
 label: 2022-09-28-focaccia-sofficissima-con-lievito-madre
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2022-09-28-focaccia-sofficissima-con-lievito-madre/header.jpeg "frangipani © Erica")
 
 **Focaccia Sofficissima con Lievito Madre** la focaccia più buona che mangerete. Croccante fuori e soffice dentro e la condite come volete voi! La mia preferita è quella condita con peperoni, pomodorini e cipolle. Ma è ottima anche con patate e rosmarino, pomodorini e basilico o semplicemente rosmarino e sale grosso.
 <br />
@@ -25,7 +25,7 @@ Purtroppo non ho ancora avuto abbastanza tempo per provare a fare pane o altre c
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Focaccia Sofficissima con Lievito Madre</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2022-09-28-focaccia-sofficissima-con-lievito-madre/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Focaccia Sofficissima con Lievito Madre la focaccia più buona che mangerete. Croccante fuori e soffice dentro e la condite come volete voi!</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -96,9 +96,9 @@ Prendete l'impasto e fate un secondo giro di pieghe, uguale come la prima volta.
 Prendete l'impasto e fate un terzo e ultimo giro di pieghe. Noterete che l'impasto inizia a gonfiarsi e fare le bolle. Chiudete e fate riposare in un luogo a 28°C per 30min, poi mettete in frigo.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 32%; margin-right: 1%;" src="lievitomadre.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="impasto.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-left: 1%;" src="pieghe.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%;" src="../2022-09-28-focaccia-sofficissima-con-lievito-madre/lievitomadre.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="../2022-09-28-focaccia-sofficissima-con-lievito-madre/impasto.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-left: 1%;" src="../2022-09-28-focaccia-sofficissima-con-lievito-madre/pieghe.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -108,8 +108,8 @@ L'impasto dovrà maturare per 12-72h in frigo, secondo me la durata migliore è 
 Adesso aiutandovi con un tarocco staccate l'impasto dalla coppa e fatelo scivolare sul piano di lavoro ben infarinato. Fate due pieghe veloci, semplicemente prendendo l'impasto da un'estremità e appoggiatelo al centro, poi ripetete dall'altra estremità. Infarinate un po' l'impasto, coprite con una panno e fate riposare 30min.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="lievitato.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="spianatoia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-09-28-focaccia-sofficissima-con-lievito-madre/lievitato.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-09-28-focaccia-sofficissima-con-lievito-madre/spianatoia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -121,9 +121,9 @@ Oleate la superficie della focaccia e affondate le dita delle mani nell'impasto 
 A questo punto potete condire la focaccia a vostro piacimento, l'importante è schiacciare bene le verdure nell'impasto, così avrete del condimento anche dentro e non solo in superficie, non dimenticate il sale... la mia preferita è con peperoni, pomodorini e cipolla. Ma ci sarebbe anche la versione con patate e rosmarino, solo pomodorini, ma anche semplicissima con sale grosso, olio e rosmarino.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 32%; margin-right: 1%;" src="teglia1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="teglia2.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-left: 1%;" src="focaccia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%;" src="../2022-09-28-focaccia-sofficissima-con-lievito-madre/teglia1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="../2022-09-28-focaccia-sofficissima-con-lievito-madre/teglia2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-left: 1%;" src="../2022-09-28-focaccia-sofficissima-con-lievito-madre/focaccia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -131,32 +131,32 @@ A questo punto potete condire la focaccia a vostro piacimento, l'importante è s
 Infornate la focaccia nel forno preriscaldato a 250°C statico per 20min circa. Tenetela d'occhio per non farla bruciare. Appena sfornata uscitela dalla teglia e fatela intiepidire direttamente su di una griglia, in questo modo rimarrà bella croccante fuori ma sofficissima dentro. Se nella teglia è rimasto dell'olio, cospargetelo sulla focaccia.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-09-28-focaccia-sofficissima-con-lievito-madre/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-09-28-focaccia-sofficissima-con-lievito-madre/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-09-28-focaccia-sofficissima-con-lievito-madre/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-09-28-focaccia-sofficissima-con-lievito-madre/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-09-28-focaccia-sofficissima-con-lievito-madre/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-09-28-focaccia-sofficissima-con-lievito-madre/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-09-28-focaccia-sofficissima-con-lievito-madre/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-09-28-focaccia-sofficissima-con-lievito-madre/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

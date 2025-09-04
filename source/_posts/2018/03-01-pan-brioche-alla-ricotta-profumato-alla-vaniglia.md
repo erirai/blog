@@ -11,7 +11,7 @@ categories:
 label: 2018-03-01-pan-brioche-alla-ricotta-profumato-alla-vaniglia
 lang: it 
 ---
-![](header.jpg "frangipani © Erica")
+![](../2018-03-01-pan-brioche-alla-ricotta-profumato-alla-vaniglia/header.jpg "frangipani © Erica")
 
 > Benvenuto Marzo, sono molto ma molto felice di rivederti!
 
@@ -72,24 +72,24 @@ Poi oggi inizia anche il mese di marzo, la natura iniza a prendere vita e le gio
 </h3>
 
 Fate sciogliere il lievito nell'acqua tiepida e mettete da parte. Mettete il resto degli ingredienti nella planetaria, per ultimo aggiungete l'acqua con il lievito. Date una prima mescolata con il gancio della planetaria poi iniziate ad impastare. Impastate finché l'impasto non si staccherà dalle pareti della ciotola. Passate l'impasto su di un piano di lavoro ed impastate ancora un pochettino con le mani (potete fare il tutto anche completamente a mano). Mettete l'impasto in una ciotola, coprite e fate lievitare per 6 orette o almeno finché avrà raddoppiato il suo volume. A questo punto dividete l'impasto in 8 (o più) parti uguali e formate delle palline. Adagiate le palline in una teglia da plumcake (o rotonda) precedentemente imburrata e fate lievitare ancora per 45min.
-![](teglia.jpg "frangipani © Erica")
+![](../2018-03-01-pan-brioche-alla-ricotta-profumato-alla-vaniglia/teglia.jpg "frangipani © Erica")
 
 Poi infornate nel forno preriscaldato a 180°C statico per 20-30min o finché avrà un bel colore. Appena sfornato copritelo per 15min con un panno. Mangiatelo subito o fatelo raffreddare competamente e tenetelo ben coperto finché lo mangerete.
-![](risultato1.jpg "frangipani © Erica")
+![](../2018-03-01-pan-brioche-alla-ricotta-profumato-alla-vaniglia/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2018-03-01-pan-brioche-alla-ricotta-profumato-alla-vaniglia/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2018-03-01-pan-brioche-alla-ricotta-profumato-alla-vaniglia/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2018-03-01-pan-brioche-alla-ricotta-profumato-alla-vaniglia/risultato4.jpg "frangipani © Erica")
 
-![](risultato5.jpg "frangipani © Erica")
+![](../2018-03-01-pan-brioche-alla-ricotta-profumato-alla-vaniglia/risultato5.jpg "frangipani © Erica")
 
-![](risultato6.jpg "frangipani © Erica")
+![](../2018-03-01-pan-brioche-alla-ricotta-profumato-alla-vaniglia/risultato6.jpg "frangipani © Erica")
 
-![](risultato7.jpg "frangipani © Erica")
+![](../2018-03-01-pan-brioche-alla-ricotta-profumato-alla-vaniglia/risultato7.jpg "frangipani © Erica")
 
-![](risultato8.jpg "frangipani © Erica")
+![](../2018-03-01-pan-brioche-alla-ricotta-profumato-alla-vaniglia/risultato8.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

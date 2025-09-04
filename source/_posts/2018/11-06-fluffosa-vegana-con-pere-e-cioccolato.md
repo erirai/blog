@@ -13,7 +13,7 @@ categories:
 label: 2018-11-06-fluffosa-vegana-con-pere-e-cioccolato
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2018-11-06-fluffosa-vegana-con-pere-e-cioccolato/header.jpg "frangipani © Erica")
 
 **Fluffosa vegana con Pere e Cioccolato**, le pere in cottura si sciolgono e rendono l'impasto molto scioglievole ed umido, poi inutile dirvi che insieme al cioccolato è la fine del mondo! Sembra strano, ma sì, si possono fare anche le Fluffose vegane ed è pure facilissimo! Questa ha un impasto base neutro (ho cambiato un pochettino la ricetta della <a href="https://frangipani.raiano.ch/2016-10-18-black-beauty/" target="_blank">Black Beauty (Fluffosa al Cioccolato vegan)</a>), poi ho aggiunto pezzetti di pere e cioccolato. Ma avete visto quanto è alta? In questo caso potete usare anche una teglia per ciambelle o Bundt Cake, perché non ha bisogno di essere capovolta durante il raffreddamento.
 
@@ -34,7 +34,7 @@ Non sono molti i punti da fare, ma se sommate il tutto con le cose che verranno,
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Fluffosa vegana con Pere e Cioccolato</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2018-11-06-fluffosa-vegana-con-pere-e-cioccolato/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Fluffosa vegana con Pere e Cioccolato, le pere in cottura si sciolgono e rendono l'impasto molto scioglievole ed umido, poi inutile dirvi che insieme al cioccolato è la fine del mondo!</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -97,35 +97,35 @@ Non sono molti i punti da fare, ma se sommate il tutto con le cose che verranno,
 </h3>
 
 In una coppa mescolate la farina setacciata, lo zucchero, il lievito e il bicarbonato e mettete da parte. In un'altra coppa grande mettete l'acqua e aggiungete la farina di semi di lino (se non trovate la farina di semi di lino, frullate semplicemente i semi di lino riducendoli in polvere) e mescolate a mano per qualche minuto, vedrete che il composto diventerà leggermente gelatinoso. Aggiungete l'olio sempre mescolando.
-![](liquidi.jpg "frangipani © Erica")
+![](../2018-11-06-fluffosa-vegana-con-pere-e-cioccolato/liquidi.jpg "frangipani © Erica")
 
 A questo punto aggiungete gli ingredienti asciutti alternando con il latte. Mescolate bene e finite aggiungendo le pere ed il cioccolato tagliati a pezzettini. Versate l'impasto nello stampo da Chiffon Cake da 18cm leggermente imburrato ed infarinato (o in uno stampo per ciambelle o Bundt Cake).
-![](teglia.jpg "frangipani © Erica")
+![](../2018-11-06-fluffosa-vegana-con-pere-e-cioccolato/teglia.jpg "frangipani © Erica")
 
 Infornate nel forno preriscaldato a 150°C statico per 1ora e 30min. Mi raccomando fate la prova stecchino. Fatela raffreddare completamente nello stampo senza capovolgerla. Quando sarà completamente fredda, uscitela delicatamente dallo stampo.
-![](risultato1.jpg "frangipani © Erica")
+![](../2018-11-06-fluffosa-vegana-con-pere-e-cioccolato/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2018-11-06-fluffosa-vegana-con-pere-e-cioccolato/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2018-11-06-fluffosa-vegana-con-pere-e-cioccolato/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2018-11-06-fluffosa-vegana-con-pere-e-cioccolato/risultato4.jpg "frangipani © Erica")
 
-![](risultato5.jpg "frangipani © Erica")
+![](../2018-11-06-fluffosa-vegana-con-pere-e-cioccolato/risultato5.jpg "frangipani © Erica")
 
-![](risultato6.jpg "frangipani © Erica")
+![](../2018-11-06-fluffosa-vegana-con-pere-e-cioccolato/risultato6.jpg "frangipani © Erica")
 
-![](risultato7.jpg "frangipani © Erica")
+![](../2018-11-06-fluffosa-vegana-con-pere-e-cioccolato/risultato7.jpg "frangipani © Erica")
 
-![](risultato8.jpg "frangipani © Erica")
+![](../2018-11-06-fluffosa-vegana-con-pere-e-cioccolato/risultato8.jpg "frangipani © Erica")
 
-![](risultato9.jpg "frangipani © Erica")
+![](../2018-11-06-fluffosa-vegana-con-pere-e-cioccolato/risultato9.jpg "frangipani © Erica")
 
-![](risultato10.jpg "frangipani © Erica")
+![](../2018-11-06-fluffosa-vegana-con-pere-e-cioccolato/risultato10.jpg "frangipani © Erica")
 
-![](risultato11.jpg "frangipani © Erica")
+![](../2018-11-06-fluffosa-vegana-con-pere-e-cioccolato/risultato11.jpg "frangipani © Erica")
 
-![](risultato12.jpg "frangipani © Erica")
+![](../2018-11-06-fluffosa-vegana-con-pere-e-cioccolato/risultato12.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

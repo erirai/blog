@@ -12,7 +12,7 @@ categories:
 label: 2020-05-05-pane-di-semola-siciliano
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2020-05-05-pane-di-semola-siciliano/header.jpeg "frangipani © Erica")
 
 **Pane Siciliano di Semola con Sesamo** un pane profumatissimo, pieno di gusto che sa di Sicilia! Appena sfornato, con un filo d'olio evo, un pizzico di sale e origano è il massimo. Per il livello pro: mangiate questo pane insieme alla granita al limone. No, non vi sto prendendo in giro. Credetemi, quando vi svegliate in Sicilia, con 40°C già di mattina presto, non avete voglia di cappuccino, biscotti e cose varie. L'unica cosa da mangiare è la granita di limone con il pane (o la brioche, ma io preferisco il pane). Punto. Mio marito non ci credeva, ma si è ricreduto in un attimo!
 <br />
@@ -24,7 +24,7 @@ Il pane del fornaio dietro casa, era una di quelle cose che avrei mangiato molto
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Pane Siciliano di Semola con Sesamo</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-05-05-pane-di-semola-siciliano/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Pane Siciliano di Semola con Sesamo un pane profumatissimo, pieno di gusto che sa di Sicilia! Appena sfornato, con un filo d'olio evo, un pizzico di sale e origano è il massimo.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -73,9 +73,9 @@ Mettete la semola di grano duro ed il sale nella planetaria e mescolate. Fate sc
 Dopo 24h prendete l'impasto e schiacciando delicatamente con le dita, formate un piccolo retangolo. Iniziate ad arrotolarlo facendo una leggera pressione e formate un salsicciotto. Ungete leggermente la superficie del panetto con dell'olio di semi. Mettete il sesamo in un piatto grande e rotolateci sopra il panetto, coprendo tutta la superficie di sesamo. Mettetelo su di una teglia con sotto della carta forno, coprite e fate lievitare per un'oretta.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 32%; margin-right: 1%;" src="arrotolare1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="arrotolare2.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-left: 1%;" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%;" src="../2020-05-05-pane-di-semola-siciliano/arrotolare1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="../2020-05-05-pane-di-semola-siciliano/arrotolare2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-left: 1%;" src="../2020-05-05-pane-di-semola-siciliano/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -83,28 +83,28 @@ Dopo 24h prendete l'impasto e schiacciando delicatamente con le dita, formate un
 Fate tre incisioni con un coltello ben affilato. Infornate il pane di semola nel forno preriscaldato a 250°C statico per 25-30min, attenzione a non farlo bruciare, altrimenti il sesamo risulterà amaro.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-05-05-pane-di-semola-siciliano/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-05-05-pane-di-semola-siciliano/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato3.jpeg "frangipani © Erica")
+![](../2020-05-05-pane-di-semola-siciliano/risultato3.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-05-05-pane-di-semola-siciliano/risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-05-05-pane-di-semola-siciliano/risultato5.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato6.jpeg "frangipani © Erica")
+![](../2020-05-05-pane-di-semola-siciliano/risultato6.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-05-05-pane-di-semola-siciliano/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-05-05-pane-di-semola-siciliano/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

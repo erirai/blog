@@ -10,7 +10,7 @@ categories:
 label: 2021-02-18-muffin-salati-di-polenta-con-formaggio
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2021-02-18-muffin-salati-di-polenta-con-formaggio-e-rosmarino/header.jpeg "frangipani © Erica")
 
 **Muffin salati di Polenta con Formaggio Svizzero e Rosmarino** croccanti fuori, morbidi e umidi all'interno. Hanno un po' la consistenza della polenta e sono veramente super buoni! È un impasto molto liquido ed è giusto così, perché c'è bisogno di tutto quel liquido per far cuocere la polenta. L'impasto dei muffin è vegano, l'unica cosa non vegana è il formaggio. Il formaggio è una cosa aggiunta che potete anche non mettere o sostituire. Il formaggio dà sapore e il rosmarino dona quel profumo che solo lui ha. Un'ottima combinazione. Io ho usato un formaggio svizzero bello saporito, voi naturalmente potete usare il formaggio che preferite, ma vi consiglio di sceglierne uno saporito.
 
@@ -28,7 +28,7 @@ E niente, sono buonissimi! Potete mangiarli con una bella insalatona o delle ver
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Muffin salati di Polenta con Formaggio e Rosmarino</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2021-02-18-muffin-salati-di-polenta-con-formaggio-e-rosmarino/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Muffin salati di Polenta con Formaggio Svizzero e Rosmarino croccanti fuori, morbidi e umidi all'interno. Hanno un po' la consistenza della polenta e sono veramente super buoni!</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -85,35 +85,35 @@ E niente, sono buonissimi! Potete mangiarli con una bella insalatona o delle ver
 Mettete la polenta, la farina, il sale e il lievito in un coppa e mescolate. Aggiungete l'olio e l'acqua e amalgamate bene. Aggiungete il formaggio grattugiato grossolanamente, il rosmarino tagliato molto finemente e mescolate.
 <br />
 Mettete i pirottini di carta nella teglia per muffin o usate uno stampo in silicone senza pirottini, poi riempite i pirottini fino a 3/4.
-![](teglia.jpeg "frangipani © Erica")
+![](../2021-02-18-muffin-salati-di-polenta-con-formaggio-e-rosmarino/teglia.jpeg "frangipani © Erica")
 
 Infornate i Muffin salati di Polenta con Formaggio e Rosmarino nel forno preriscaldato a 200°C statico per 40min, come sempre fate la prova stecchino. Fateli intiepidire leggermente prima di uscirli dallo stampo. 
-![](risultato1.jpeg "frangipani © Erica")
+![](../2021-02-18-muffin-salati-di-polenta-con-formaggio-e-rosmarino/risultato1.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-02-18-muffin-salati-di-polenta-con-formaggio-e-rosmarino/risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-02-18-muffin-salati-di-polenta-con-formaggio-e-rosmarino/risultato3.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato4.jpeg "frangipani © Erica")
+![](../2021-02-18-muffin-salati-di-polenta-con-formaggio-e-rosmarino/risultato4.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-02-18-muffin-salati-di-polenta-con-formaggio-e-rosmarino/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-02-18-muffin-salati-di-polenta-con-formaggio-e-rosmarino/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato7.jpeg "frangipani © Erica")
+![](../2021-02-18-muffin-salati-di-polenta-con-formaggio-e-rosmarino/risultato7.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-02-18-muffin-salati-di-polenta-con-formaggio-e-rosmarino/risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-02-18-muffin-salati-di-polenta-con-formaggio-e-rosmarino/risultato9.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

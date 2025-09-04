@@ -13,7 +13,7 @@ categories:
 - "Torte salate, Muffin salati..."
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2014-07-25-crostata-salata-con-zucchine-patate-e-pomodori/header.jpg "frangipani © Erica")
 
 Oggi ho preparato questa buonissima torta salata che a vederla sembra difficile preparare ma alla fine l'ho preparata subitissimo! Questa torta salata è perfetta da portare ad un picnic o come aperitivo da spizzicare... Noi l'abbiamo mangiata fredda ed era buonissima!
 
@@ -67,16 +67,16 @@ Oggi ho preparato questa buonissima torta salata che a vederla sembra difficile 
 </h3>
 
 Tagliate a rondelle il porro e fatelo soffriggere con dell'olio finché si ammorbidisce. Se c'è bisogno aggiungete un po' d'acqua e salate, poi togliete dai fornelli e fate raffreddare.
-![](porro.jpg "frangipani © Erica")
+![](../2014-07-25-crostata-salata-con-zucchine-patate-e-pomodori/porro.jpg "frangipani © Erica")
 
 Nel frattempo pelate la patata poi tagliatela a fettine molto sottili aiutandovi con una mandolina. Fate lo stesso con le zucchine ed i pomodori.
-![](verdura.jpg "frangipani © Erica")
+![](../2014-07-25-crostata-salata-con-zucchine-patate-e-pomodori/verdura.jpg "frangipani © Erica")
 
 A questo punto prendete una teglia e ricopritela con la pasta sfoglia poi bucherellate il fondo con una forchetta e ricoprite con il porro. Ora prendete le fettine di verdura e iniziate a ricoprire il porro alternando sempre le verdure. Quando avete finito salate e versate un fino d'olio.
-![](cruda.jpg "frangipani © Erica")
+![](../2014-07-25-crostata-salata-con-zucchine-patate-e-pomodori/cruda.jpg "frangipani © Erica")
 
 Infornatela nel forno preriscaldato a 180°C (ventilato) per una mezz'oretta. Prima di servirla mettete ancora dell'olio...
-![](risultato.jpg "frangipani © Erica")
+![](../2014-07-25-crostata-salata-con-zucchine-patate-e-pomodori/risultato.jpg "frangipani © Erica")
 
 
 

@@ -11,7 +11,7 @@ categories:
 label: 2021-11-16-gratin-di-patate-e-porri
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2021-11-16-gratin-di-patate-e-porri/header.jpeg "frangipani © Erica")
 
 **Gratin di Patate e Porri** con formaggio Svizzero filante. Un contorno semplice, ma saporitissimo. Si può preparare in anticipo ed infornarlo quando serve, io spesso faccio così anche perché la cottura è abbastanza lunga.
 
@@ -31,7 +31,7 @@ Qualche anno fa avevo fatto questa <a href="https://frangipani.raiano.ch/2018-10
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Gratin di Patate e Porri</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2021-11-16-gratin-di-patate-e-porri/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Gratin di Patate e Porri con formaggio Svizzero filante. Un contorno semplice, ma saporitissimo. Si può preparare in anticipo ed infornarlo quando serve, io spesso faccio così anche perché la cottura è abbastanza lunga.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -95,9 +95,9 @@ Preparate la besciamella: In un pentolino mettete la farina e sempre mescolando 
 Pelate le patate e tagliatele sottilmente, meglio aiutandovi con una mandolina. Prendete una pirofila, imburratela e sistemate le fettine di patate. Salate le patate, distribuiteci sopra il porro, versate il brodo vegetale nella pirofila fino ad arrivare ad un'altezza di un dito. Poi distribuite la besciamella su tutta la superficie e sbattete qualche volta la pirofila per far scendere la besciamella e finite con il resto del formaggio.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 32%; margin-right: 1%;" src="patate.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="besciamella.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-left: 1%;" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%;" src="../2021-11-16-gratin-di-patate-e-porri/patate.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="../2021-11-16-gratin-di-patate-e-porri/besciamella.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-left: 1%;" src="../2021-11-16-gratin-di-patate-e-porri/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -105,21 +105,21 @@ Pelate le patate e tagliatele sottilmente, meglio aiutandovi con una mandolina. 
 Infornate il **Gratin di Patate e Porri** coperto da un foglio di carta alluminio nel forno presiscaldato a 190°C ventilato per 60-90min. La durata della cottura dipende dalle patate, ma potete fare la prova stecchino, se entra facilmente è cotto. Cuocete gli ultimi minuti senza carta alluminio per far fare una bella crosticina...
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-11-16-gratin-di-patate-e-porri/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-11-16-gratin-di-patate-e-porri/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-11-16-gratin-di-patate-e-porri/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-11-16-gratin-di-patate-e-porri/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato5.jpeg "frangipani © Erica")
+![](../2021-11-16-gratin-di-patate-e-porri/risultato5.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

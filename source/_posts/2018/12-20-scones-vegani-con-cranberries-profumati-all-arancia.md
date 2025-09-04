@@ -13,7 +13,7 @@ categories:
 label: 2018-12-20-scones-vegani-con-cranberries-profumati-all-arancia
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2018-12-20-scones-vegani-con-cranberries-profumati-all-arancia/header.jpg "frangipani © Erica")
 
 **Scones vegani con Cranberries profumati all'Arancia**, per una colazione festosa e stellata. Sono ottimi per il Brunch natalizio o per la merenda pomeridiana tipo Tea Time... Li ho preparati a forma di stelle, perchè a dicembre farei tutto a forma di stelle, ma non solo a dicembre eh! Naturalmente per la versione più veloce, formate un disco e tagliatelo a spicchi... ma le stelline ci stanno dai!
 
@@ -38,7 +38,7 @@ Erica
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Scones vegani con Cranberries profumati all'Arancia</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2018-12-20-scones-vegani-con-cranberries-profumati-all-arancia/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Scones vegani con Cranberries profumati all'Arancia, per una colazione festosa e stellata. Sono ottimi per il Brunch natalizio o per la merenda pomeridiana tipo Tea Time.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -97,26 +97,26 @@ Erica
 </h3>
 
 Mettete la farina, lo zucchero, il lievito, la vaniglia, la scorza d'arancia ed il sale in una coppa, mescolate con un cucchiaio. Aggiungete la margarina morbida e iniziate ad impastare, poi aggiungete il latte e continuate ad impastare finché il tutto sarà amalgamato, non impastate troppo. Passate l'impasto su di un piano di lavoro infarinato e stendetelo fino ad uno spessore di 1.5cm. Prendete una formina a stella e formate tante stelle. Ricompattate l'impasto e ristendetelo finché avrete esaurito tutto l'impasto. In alternativa stendete l'impasto fino ad uno spessore di 1.5cm formando un disco e tagliatelo a spicchi.
-![](impasto.jpg "frangipani © Erica")
+![](../2018-12-20-scones-vegani-con-cranberries-profumati-all-arancia/impasto.jpg "frangipani © Erica")
 
 Mettete tutte le stelle (o spicchi) su di una leccarda con sotto della carta forno ed infornate nel forno preriscaldato a 220°C statico per ca. 15min. Spezzate gli Scones a metà e mangiateli con abbondante burro o margarina e marmellata, ma sono ottimi anche con la crema di nocciole, con il miele o con del formaggio spalmabile... a voi la scelta, basta che li mangiate caldi!
-![](risultato1.jpg "frangipani © Erica")
+![](../2018-12-20-scones-vegani-con-cranberries-profumati-all-arancia/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2018-12-20-scones-vegani-con-cranberries-profumati-all-arancia/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2018-12-20-scones-vegani-con-cranberries-profumati-all-arancia/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2018-12-20-scones-vegani-con-cranberries-profumati-all-arancia/risultato4.jpg "frangipani © Erica")
 
-![](risultato5.jpg "frangipani © Erica")
+![](../2018-12-20-scones-vegani-con-cranberries-profumati-all-arancia/risultato5.jpg "frangipani © Erica")
 
-![](risultato6.jpg "frangipani © Erica")
+![](../2018-12-20-scones-vegani-con-cranberries-profumati-all-arancia/risultato6.jpg "frangipani © Erica")
 
-![](risultato7.jpg "frangipani © Erica")
+![](../2018-12-20-scones-vegani-con-cranberries-profumati-all-arancia/risultato7.jpg "frangipani © Erica")
 
-![](risultato8.jpg "frangipani © Erica")
+![](../2018-12-20-scones-vegani-con-cranberries-profumati-all-arancia/risultato8.jpg "frangipani © Erica")
 
-![](risultato9.jpg "frangipani © Erica")
+![](../2018-12-20-scones-vegani-con-cranberries-profumati-all-arancia/risultato9.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

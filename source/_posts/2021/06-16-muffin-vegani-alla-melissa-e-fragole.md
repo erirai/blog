@@ -13,7 +13,7 @@ categories:
 label: 2021-06-16-muffin-vegani-alla-melissa-e-fragole
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2021-06-16-muffin-vegani-alla-melissa-e-fragole/header.jpeg "frangipani © Erica")
 
 **Muffin vegani alla Melissa e Fragole** dei muffin freschi, sofficissimi, delicatissimi e profumatissimi. Hanno un leggero gusto di limone, dato dalla melissa e poi quei pezzettini di fragole che ci stanno perfettamente!
 <br />
@@ -31,7 +31,7 @@ Purtroppo con tutta la pioggia e il poco sole che ci sono stati, c'è un ritardo
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Muffin vegani alla Melissa e Fragole</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2021-06-16-muffin-vegani-alla-melissa-e-fragole/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Muffin vegani alla Melissa e Fragole dei muffin freschi, sofficissimi, delicatissimi e profumatissimi. Hanno un leggero gusto di limone, dato dalla melissa e poi quei pezzettini di fragole che ci stanno perfettamente!</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -98,36 +98,36 @@ Aggiungete lo zucchero al decotto e fatelo sciogliere il più possibile, poi agg
 In una coppa capiente mettete la farina, il lievito, la vaniglia, la scorza di limone e il sale e mescolate. Poi aggiungete i liquidi e amalgamate bene il tutto. Per ultimo aggiungete le fragole tagliate a pezzettini.
 <br />
 Riempite i pirottini o direttamente lo stampo imburrato e infarinato fino a 3/4.
-![](teglia.jpeg "frangipani © Erica")
+![](../2021-06-16-muffin-vegani-alla-melissa-e-fragole/teglia.jpeg "frangipani © Erica")
 
 Infornate i muffin nel forno preriscaldato a 180°C statico per circa 30min, mi raccomando fate la prova stecchino. Fateli intiepidire leggermente prima di toglierli dalla teglia... 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-06-16-muffin-vegani-alla-melissa-e-fragole/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-06-16-muffin-vegani-alla-melissa-e-fragole/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato3.jpeg "frangipani © Erica")
+![](../2021-06-16-muffin-vegani-alla-melissa-e-fragole/risultato3.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-06-16-muffin-vegani-alla-melissa-e-fragole/risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-06-16-muffin-vegani-alla-melissa-e-fragole/risultato5.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-06-16-muffin-vegani-alla-melissa-e-fragole/risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-06-16-muffin-vegani-alla-melissa-e-fragole/risultato7.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato8.jpeg "frangipani © Erica")
+![](../2021-06-16-muffin-vegani-alla-melissa-e-fragole/risultato8.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

@@ -11,7 +11,7 @@ categories:
 label: 2018-02-08-tunnel-of-fudge-cake
 lang: it 
 ---
-![](header.jpg "frangipani © Erica")
+![](../2018-02-08-tunnel-of-fudge-cake/header.jpg "frangipani © Erica")
 
 > Buon Compleanno Nonna!
 
@@ -71,18 +71,18 @@ Tunnel of Fudge Cake... si questa torta ha decisamente un nome strano, ma il gus
 </h3>
 
 Montate con le fruste elettriche o nella planetaria il burro insieme allo zucchero semolato finché il composto sarà bello morbido. Dunque incorporate un uovo alla volta, sempre mescolando. Poco alla volta aggiungete anche lo zucchero a velo e poi la farina e il cacao amaro setacciati precedentemente ed un pizzico di sale. Finite aggiungendo le noci tritate. Verste il composto in uno stampo per ciambelle (Bundt Cake) precedentemente imburrato ed infarinato con il cacao amaro.
-![](teglia.jpg "frangipani © Erica")
+![](../2018-02-08-tunnel-of-fudge-cake/teglia.jpg "frangipani © Erica")
 
 Infornate nel forno preriscaldato a 180°C statico per 35-40min o finché vedrete che l'impasto inizia a staccarsi dalla teglia. Fate raffreddare completamente la torta nello stampo per almeno 3 ore. Passate la torta sul piatto da portata e finite con una spolverata di cacao amaro o zucchero a velo.
-![](risultato1.jpg "frangipani © Erica")
+![](../2018-02-08-tunnel-of-fudge-cake/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2018-02-08-tunnel-of-fudge-cake/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2018-02-08-tunnel-of-fudge-cake/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2018-02-08-tunnel-of-fudge-cake/risultato4.jpg "frangipani © Erica")
 
-![](risultato5.jpg "frangipani © Erica")
+![](../2018-02-08-tunnel-of-fudge-cake/risultato5.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

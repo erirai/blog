@@ -13,7 +13,7 @@ categories:
 label: 2020-09-17-insalata-di-lenticchie-con-verdure-di-stagione
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2020-09-17-insalata-di-lenticchie-con-verdure-di-stagione/header.jpeg "frangipani © Erica")
 
 **Insalata di Lenticchie con Verdure di Stagione** un'insalata molto saporita, coloratissima e piena di verdure stagionali. Un ottima insalata da preparare anche il giorno prima e perfetta per pranzo da portare in ufficio, per un picnic o per una scampagnata. Si può fare durante tutto l'anno, basta scegliere le verdure di stagione. È buona sia calda che fredda.
 <br />
@@ -34,7 +34,7 @@ Dunque, riassumendo... è una bellissima iniziativa che dovrebbe portarci a cons
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Insalata di Lenticchie con Verdure di Stagione</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-09-17-insalata-di-lenticchie-con-verdure-di-stagione/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Insalata di Lenticchie con Verdure di Stagione un'insalata molto saporita, coloratissima e piena di verdure stagionali.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -100,41 +100,41 @@ Tagliate finemente la cipolla. Lavate e pulite anche un pezzetto di zucca, il pe
 A parte tagliate anche pomodori ed il sedano, condite con sale, olio e basilico. Fate intiepidire tutto quanto.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="lenticchie.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="verdura.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-09-17-insalata-di-lenticchie-con-verdure-di-stagione/lenticchie.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-09-17-insalata-di-lenticchie-con-verdure-di-stagione/verdura.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 Mischiate le lenticchie con le verdure cotte e crude e l'insalata di lenticchie è pronta! È buona tiepida, ma anche fredda...
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-09-17-insalata-di-lenticchie-con-verdure-di-stagione/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-09-17-insalata-di-lenticchie-con-verdure-di-stagione/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato3.jpeg "frangipani © Erica")
+![](../2020-09-17-insalata-di-lenticchie-con-verdure-di-stagione/risultato3.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-09-17-insalata-di-lenticchie-con-verdure-di-stagione/risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-09-17-insalata-di-lenticchie-con-verdure-di-stagione/risultato5.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato6.jpeg "frangipani © Erica")
+![](../2020-09-17-insalata-di-lenticchie-con-verdure-di-stagione/risultato6.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-09-17-insalata-di-lenticchie-con-verdure-di-stagione/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-09-17-insalata-di-lenticchie-con-verdure-di-stagione/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato9.jpeg "frangipani © Erica")
+![](../2020-09-17-insalata-di-lenticchie-con-verdure-di-stagione/risultato9.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

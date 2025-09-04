@@ -15,7 +15,7 @@ categories:
 label: 2020-08-12-semifreddo-di-ricotta-e-yogurt-con-frutti-di-bosco-e-croccante-di-pistacchi
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2020-08-12-semifreddo-di-ricotta-e-yogurt-con-frutti-di-bosco-e-croccante-di-pistacchi/header.jpeg "frangipani © Erica")
 
 **Semifreddo di Ricotta e Yogurt (senza uova) con Frutti di Bosco e Croccante di Pistacchio** un dolce fresco e leggero, perfetto per queste giornate calde. È ottimo, anche perché non c'è bisogno di accendere il forno! La preparazione è facilissima, si fa veramente in un attimo e potete lasciarlo in freezer finché vi servirà.
 <br />
@@ -32,7 +32,7 @@ Mi sono presa una bella pausa dal Blog, infatti l'ultimo Blogpost risale a quasi
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Semifreddo di Ricotta e Yogurt (senza uova) con Frutti di Bosco e Croccante di Pistacchio</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-08-12-semifreddo-di-ricotta-e-yogurt-con-frutti-di-bosco-e-croccante-di-pistacchi/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Semifreddo di Ricotta e Yogurt (senza uova) con Frutti di Bosco e Croccante di Pistacchio un dolce fresco e leggero, perfetto per queste giornate calde.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -119,8 +119,8 @@ Mettete i frutti di bosco, lo zucchero ed il succo di limone in un pentolino e f
 Montate la panna finché è quasi completamente montata e mettete da parte. In una ciotola mettete la ricotta, lo yogurt, lo zucchero a velo e la vaniglia e mescolate finché avrete una crema bella liscia. Con un movimento dall'alto verso il basso incorporate delicatamente la panna montata e per ultimo aggiungete il croccante di pistacchi tritato grossolanamente con il coltello.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="croccante.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="crema.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-08-12-semifreddo-di-ricotta-e-yogurt-con-frutti-di-bosco-e-croccante-di-pistacchi/croccante.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-08-12-semifreddo-di-ricotta-e-yogurt-con-frutti-di-bosco-e-croccante-di-pistacchi/crema.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -128,8 +128,8 @@ Montate la panna finché è quasi completamente montata e mettete da parte. In u
 Ricoprite una forma rettangolare (da Plumcake) da 18-20cm con della carta forno e versateci dentro la metà della crema. Al centro mettete i frutti di bosco cotti, tenendo da parte qualche cucchiaio del loro succo, vi servirà per la decorazione. Ricoprite con il resto della crema. Per ultimo distribuiteci sopra i biscotti sbriciolati poi coprite bene e mettete in freezer almeno per tutta la notte.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="fruttidibosco.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-08-12-semifreddo-di-ricotta-e-yogurt-con-frutti-di-bosco-e-croccante-di-pistacchi/fruttidibosco.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-08-12-semifreddo-di-ricotta-e-yogurt-con-frutti-di-bosco-e-croccante-di-pistacchi/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -137,29 +137,29 @@ Ricoprite una forma rettangolare (da Plumcake) da 18-20cm con della carta forno 
 Uscite il semifreddo di ricotta e yogurt dal freezer almeno 15min prima di servirlo. Scaravoltatelo poi decorate con i frutti di bosco freschi, il succo messo da parte e qualche fogliolina di menta o melissa.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-08-12-semifreddo-di-ricotta-e-yogurt-con-frutti-di-bosco-e-croccante-di-pistacchi/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-08-12-semifreddo-di-ricotta-e-yogurt-con-frutti-di-bosco-e-croccante-di-pistacchi/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-08-12-semifreddo-di-ricotta-e-yogurt-con-frutti-di-bosco-e-croccante-di-pistacchi/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-08-12-semifreddo-di-ricotta-e-yogurt-con-frutti-di-bosco-e-croccante-di-pistacchi/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-08-12-semifreddo-di-ricotta-e-yogurt-con-frutti-di-bosco-e-croccante-di-pistacchi/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-08-12-semifreddo-di-ricotta-e-yogurt-con-frutti-di-bosco-e-croccante-di-pistacchi/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato7.jpeg "frangipani © Erica")
+![](../2020-08-12-semifreddo-di-ricotta-e-yogurt-con-frutti-di-bosco-e-croccante-di-pistacchi/risultato7.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

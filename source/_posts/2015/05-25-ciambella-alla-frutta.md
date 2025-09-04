@@ -13,15 +13,15 @@ categories:
 - Torte
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2015-05-25-ciambella-alla-frutta/header.jpg "frangipani © Erica")
 
 Avevo un bel po' di frutta che si stava rovinando e per non buttarla ho fatto questa ciambella. Praticamente è un impasto base che può essere arricchito con qualsiasi cosa... cioccolato, frutta secca, frutta fresca... tutto!
 
 La nostra piccola grande due settimane fa ha compiuto due anni e per l'occasione le ho preparato il Gâteau au Chocolat che poi ho trasformato in Timmy, la pecorella che le piace tantissimo e tutto accompagnato con dei <a href="https://frangipani.raiano.ch/2014-05-02-bouquet-cupcakes-rabarbaro-cocco/" target="_blank">Muffin al Cocco e Rabarbaro</a> tutti fioriti.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="tortagaia.jpg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="muffingaia.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2015-05-25-ciambella-alla-frutta/tortagaia.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2015-05-25-ciambella-alla-frutta/muffingaia.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -104,16 +104,16 @@ La nostra piccola grande due settimane fa ha compiuto due anni e per l'occasione
 </h3>
 
 Lavate la frutta, denocciolate le ciliegie, tagliate tutto a pezzettini e aggiungete il succo del limone.
-![](frutta.jpg "frangipani © Erica")
+![](../2015-05-25-ciambella-alla-frutta/frutta.jpg "frangipani © Erica")
 
 Poi mettete la farina, la fecola, la farina di soia (se non avete la farina di soia, mettete due cucchiai di fecola al posto di uno), lo zucchero, lo zucchero vanigliato, il sale, il lievito e la scorza di limone in una ciotola e mescolate. Aggiungete l'olio di semi, il latte e la margarina fusa e amalgamate bene. Per finire incorporate la frutta tagliata a pezzettini.
-![](impasto.jpg "frangipani © Erica")
+![](../2015-05-25-ciambella-alla-frutta/impasto.jpg "frangipani © Erica")
 
 Mettete l'impasto in una teglia per ciambelle precedentemente imburrata e infarinata.
-![](teglia.jpg "frangipani © Erica")
+![](../2015-05-25-ciambella-alla-frutta/teglia.jpg "frangipani © Erica")
 
 Infornate nel forno preriscaldato ventilato a 160°C per un'ora, mi raccomando fate sempre la prova stecchino.
-![](risultato.jpg "frangipani © Erica")
+![](../2015-05-25-ciambella-alla-frutta/risultato.jpg "frangipani © Erica")
 
 
 <h3>

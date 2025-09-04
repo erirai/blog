@@ -12,7 +12,7 @@ categories:
 label: 2019-11-20-pumpkin-bread-vegano
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2019-11-20-pumpkin-bread-vegano/header.jpeg "frangipani © Erica")
 
 **Pumpkin Bread vegano**, ovvero un **Plumcake alla zucca**, anzi il Plumcake alla Zucca più buono del mondo. Soffice, scioglievole, morbido, setoso, buonissimo e profumatissimo! La ricetta l'ho trovata su <a href="https://completerecipes.com/cinnamon-sugar-pumpkin-bread.html" target="_blank">questo sito</a> ed è semplicemente perfetto!
 <br />
@@ -27,7 +27,7 @@ E niente, questa sarà la mia ultima ricetta autunnale... Dalla prossima settima
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Pumpkin Bread vegano (Plumcake alla Zucca)</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2019-11-20-pumpkin-bread-vegano/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Pumpkin Bread vegano, ovvero un Plumcake alla zucca, anzi il Plumcake alla Zucca più buono del mondo. Soffice, scioglievole, morbido, setoso, buonissimo e profumatissimo!</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -89,26 +89,26 @@ E niente, questa sarà la mia ultima ricetta autunnale... Dalla prossima settima
 </h3>
 
 Mischiate la farina, il lievito, il pumpkin spice ed il sale e mettete da parte. In una coppa a parte amalgamate lo zucchero, la purea di zucca, l'olio, il latte e l'estratto di vaniglia. Aggiungete la miscela liquida agli ingredienti asciutti e mescolate bene il tutto finché avrete un composto bello liscio ed omogeneo. Versate l'impasto in una teglia da Plumcake da 20cm precedentemente imburrata ed infarinata.
-![](teglia.jpeg "frangipani © Erica")
+![](../2019-11-20-pumpkin-bread-vegano/teglia.jpeg "frangipani © Erica")
 
 Infornate il Pumpkin Bread nel forno preriscaldato a 180°C ventilato per 40min circa, fate sempre la prova stecchino. Fatelo intiepidire leggermente, poi uscitelo dalla forma e cospargete su tutta la superficie dello zucchero e cannella. Mangiatelo ancora tiepido...
-![](risultato1.jpeg "frangipani © Erica")
+![](../2019-11-20-pumpkin-bread-vegano/risultato1.jpeg "frangipani © Erica")
 
-![](risultato2.jpeg "frangipani © Erica")
+![](../2019-11-20-pumpkin-bread-vegano/risultato2.jpeg "frangipani © Erica")
 
-![](risultato3.jpeg "frangipani © Erica")
+![](../2019-11-20-pumpkin-bread-vegano/risultato3.jpeg "frangipani © Erica")
 
-![](risultato4.jpeg "frangipani © Erica")
+![](../2019-11-20-pumpkin-bread-vegano/risultato4.jpeg "frangipani © Erica")
 
-![](risultato5.jpeg "frangipani © Erica")
+![](../2019-11-20-pumpkin-bread-vegano/risultato5.jpeg "frangipani © Erica")
 
-![](risultato6.jpeg "frangipani © Erica")
+![](../2019-11-20-pumpkin-bread-vegano/risultato6.jpeg "frangipani © Erica")
 
-![](risultato7.jpeg "frangipani © Erica")
+![](../2019-11-20-pumpkin-bread-vegano/risultato7.jpeg "frangipani © Erica")
 
-![](risultato8.jpeg "frangipani © Erica")
+![](../2019-11-20-pumpkin-bread-vegano/risultato8.jpeg "frangipani © Erica")
 
-![](risultato9.jpeg "frangipani © Erica")
+![](../2019-11-20-pumpkin-bread-vegano/risultato9.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

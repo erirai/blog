@@ -10,7 +10,7 @@ categories:
 label: 2014-08-18-torta-morbida-alla-nutella
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2014-08-18-torta-morbida-alla-nutella/header.jpeg "frangipani © Erica")
 
 > Grazie commà Dani per la ricetta!!!
 
@@ -25,7 +25,7 @@ Secondo me al posto della Crema di Nocciole si potrebbe prendere anche della mar
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Torta morbida con Crema di Nocciole</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2014-08-18-torta-morbida-alla-nutella/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Torta Morbida con Crema di Nocciole una torta semplicissima e velocissima, ma comunque buonissima. Quelle torte da colazione che piacciono a tutti.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -86,8 +86,8 @@ Mettete le uova, lo zucchero, la vaniglia e un pizzico di sale nella planetaria 
 A questo punto imburrate e infarinate una teglia rotonda da 20-24cm e versateci metà dell'impasto. Poi con un cucchiaio distribuiteci sopra la Crema di Nocciole, mi raccomando siate generosi!
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="impasto.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="nutella.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-08-18-torta-morbida-alla-nutella/impasto.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-08-18-torta-morbida-alla-nutella/nutella.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -95,40 +95,40 @@ A questo punto imburrate e infarinate una teglia rotonda da 20-24cm e versateci 
 Poi aggiungete il resto dell'impasto, ricoprendo completamente la Nutella. Ora infornate la torta nel forno preriscaldato a 180°C ventilato per ca. 45min (con la teglia da 20cm ci vuole quasi 1h, dopo 40min coprite con un foglio di carta d'alluminio, altrimenti di brucia). Come sempre fate la prova stecchino.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-08-18-torta-morbida-alla-nutella/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-08-18-torta-morbida-alla-nutella/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-08-18-torta-morbida-alla-nutella/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-08-18-torta-morbida-alla-nutella/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-08-18-torta-morbida-alla-nutella/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-08-18-torta-morbida-alla-nutella/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-08-18-torta-morbida-alla-nutella/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-08-18-torta-morbida-alla-nutella/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-08-18-torta-morbida-alla-nutella/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-08-18-torta-morbida-alla-nutella/risultato10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

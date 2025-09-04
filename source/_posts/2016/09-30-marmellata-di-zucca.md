@@ -12,7 +12,7 @@ categories:
 label: 2016-09-30-marmellata
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2016-09-30-marmellata-di-zucca/header.jpg "frangipani © Erica")
 
 Chattando con le mie amiche Fabulose, siamo venute a parlare di zucca e Silvia mi ha detto, che loro fanno la marmellata di zucca. Ecco, quando sento queste cose, io mi incuriosisco e non posso fare altro che provarle! Quindi sono andata a comprare la zucca e ho fatto la marmellata. Ed è proprio ottima. Buonissima, non pensavo...  Non ha quella nota acidula che hanno le solite marmellate o confetture, ma ha un gusto molto morbido, delicato e dolce. È ottima a colazione sul pane, con dei formaggi o magari nella crostata. In confronto alle solite marmellate, c'è poco zucchero, quindi va consumata entro breve, 3 mesetti. 
 
@@ -60,18 +60,18 @@ Dato che ci sono, faccio un po' di pubblicità per il lavoro meraviglioso che fa
 </h3>
 
 Prendete un tipo di zucca dalla polpa soda e asciutta, sbucciatela e tagliatela a quadrotti. Mettete la zucca in una pentola capiente con un bicchiere d'acqua, il succo di limone e i semini della stecca di vaniglia. 
-![](zucca.jpg "frangipani © Erica")
+![](../2016-09-30-marmellata-di-zucca/zucca.jpg "frangipani © Erica")
 
 Quindi fatela cuocere a fuoco medio finché si sarà ammorbidita completamente. Se c'è bisogno, aggiungete ancora dell'acqua. Frullatela con il mixer ad immersione ottenendo una purea liscia e senza grumi. A questo punto aggiungete lo zucchero ed il vino passito o il marsala. L'ultimo ingrediente è facoltativo, ma ci sta veramente bene! Fate cuocere finché il composto non si sarà addensato a tal punto da rimanere attaccato al cucchiao senza scivolare via.
-![](cotta.jpg "frangipani © Erica")
+![](../2016-09-30-marmellata-di-zucca/cotta.jpg "frangipani © Erica")
 
 Riempite la marmellata ancora calda nei vasetti precedentemente sterilizzati aiutandovi con un imbuto per marmellate, chiudete i vasetti e metteteli sottosopra per creare un sottovuoto.
-![](invasare.jpg "frangipani © Erica")
+![](../2016-09-30-marmellata-di-zucca/invasare.jpg "frangipani © Erica")
 
 Appena si è raffreddata potete girare i vasetti...
-![](risultato1.jpg "frangipani © Erica")
+![](../2016-09-30-marmellata-di-zucca/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2016-09-30-marmellata-di-zucca/risultato2.jpg "frangipani © Erica")
 
 
 <h4>Buon appetito

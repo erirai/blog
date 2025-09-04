@@ -12,7 +12,7 @@ categories:
 label: 2018-10-24-mele-al-cioccolato-per-halloween
 lang: it 
 ---
-![](header.jpg "frangipani © Erica")
+![](../2018-10-24-mele-al-cioccolato-per-halloween/header.jpg "frangipani © Erica")
 
 **Mele al Cioccolato per Halloween**, per chi desidera preparare un dolcetto spaventoso, sano e veloce insieme ai piccoli. Dovete solo tagliare le mele a fette e immergerle nel cioccolato... poi le decorate come volete, tutto quà! Io le ho preparate insieme a Gaia, Gioele era occupato a giocare con il suo Papà. Con il cioccolato bianco abbiamo fatto dei fantasmini, poi una parte l'abbiamo colorata di arancione e abbiamo fatto delle zucche. Un'altra parte l'abbiamo colorata di verde per fare Frankenstein. I capelli li abbiamo fatti con il cioccolato fondente, con cui abbiamo poi fatto anche dei mostriciattoli strabici. Come decorazioni abbiamo usato occhietti e foglie di zucchero e qualche perlina... Come vedete, non serve molto! 
 
@@ -23,7 +23,7 @@ Quest'anno proprio non riuscirò a fare di più! Questa settimana Gaia ha ricomi
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Mele al Cioccolato per Halloween</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2018-10-24-mele-al-cioccolato-per-halloween/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Mele al Cioccolato per Halloween, per chi desidera preparare un dolcetto spaventoso, sano e veloce insieme ai piccoli.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -61,18 +61,18 @@ Quest'anno proprio non riuscirò a fare di più! Questa settimana Gaia ha ricomi
 </h3>
 
 Lavate le mele e asciugatele bene. Tagliatele a fette spesse almeno 1cm. Sotto, con un coltello ben affilato, fate un taglietto ed infilateci il bastoncino per gelato.
-![](mele.jpg "frangipani © Erica")
+![](../2018-10-24-mele-al-cioccolato-per-halloween/mele.jpg "frangipani © Erica")
 
 Fate sciogliere a Bagnomaria il cioccolato bianco e quello fondente separatamente. Se volete colorate il cioccolato bianco (potete suddividerlo, ma tenetelo sempre al caldo). A questo punto immergete le mele nel cioccolato o spennellatele con il cioccolato, come vi viene meglio e poi decorateli. Appoggiateli su di un foglio di carta forno e poi fateli asciugare in frigo (conservateli anche in frigo).
-![](risultato1.jpg "frangipani © Erica")
+![](../2018-10-24-mele-al-cioccolato-per-halloween/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2018-10-24-mele-al-cioccolato-per-halloween/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2018-10-24-mele-al-cioccolato-per-halloween/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2018-10-24-mele-al-cioccolato-per-halloween/risultato4.jpg "frangipani © Erica")
 
-![](risultato5.jpg "frangipani © Erica")
+![](../2018-10-24-mele-al-cioccolato-per-halloween/risultato5.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

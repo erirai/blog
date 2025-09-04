@@ -13,7 +13,7 @@ categories:
 label: 2023-03-22-pancake-salati-al-quark-e-aglio-orsino
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2023-03-22-pancake-salati-al-quark-e-aglio-orsino/header.jpeg "frangipani © Erica")
 
 **Pancake salati al Quark e Aglio Orsino** sofficissimi, belli saporiti ma delicati allo stesso tempo. Accompagnati da un'insalatina di carote o con quello che preferite voi.
 <br />
@@ -26,7 +26,7 @@ Ho voluto servire questi Pancake salati con una semplicissima insalatina di caro
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Pancake salati al Quark e Aglio Orsino</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2023-03-22-pancake-salati-al-quark-e-aglio-orsino/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Pancake salati al Quark e Aglio Orsino sofficissimi, belli saporiti ma delicati allo stesso tempo.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -96,8 +96,8 @@ Separate le uova e montate a neve gli albumi con un pizzico di sale, mettete da 
 Riscaldate una padella antiaderente, ungete leggermente con del burro poi aggiungete un mestolino dell'impasto, se c'è posto fate più mucchietti ben distanziati. Quando inizierà a fare dei buchini e la superficie a contatto con la padella avrà preso un bel colorito, potete girarli e finire la cottura anche dall'altra parte.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="impasto.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="padella.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-03-22-pancake-salati-al-quark-e-aglio-orsino/impasto.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-03-22-pancake-salati-al-quark-e-aglio-orsino/padella.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -105,40 +105,40 @@ Riscaldate una padella antiaderente, ungete leggermente con del burro poi aggiun
 Come accompagnamento potete pelare le carote e con lo stesso pelapatate ricavarne tante strisce sottili. Conditele con sale, olio e succo di limone. Adagiate qualche **Pancake salato al Quark e Aglio Orsino** su di un piatto e sopra mettete le carote (o altre verdure).
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-03-22-pancake-salati-al-quark-e-aglio-orsino/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-03-22-pancake-salati-al-quark-e-aglio-orsino/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-03-22-pancake-salati-al-quark-e-aglio-orsino/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-03-22-pancake-salati-al-quark-e-aglio-orsino/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-03-22-pancake-salati-al-quark-e-aglio-orsino/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-03-22-pancake-salati-al-quark-e-aglio-orsino/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-03-22-pancake-salati-al-quark-e-aglio-orsino/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-03-22-pancake-salati-al-quark-e-aglio-orsino/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-03-22-pancake-salati-al-quark-e-aglio-orsino/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-03-22-pancake-salati-al-quark-e-aglio-orsino/risultato10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

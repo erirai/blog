@@ -11,7 +11,7 @@ categories:
 label: 2021-01-04-dreikonigskuchen-al-cioccolato
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2022-01-04-dreikonigskuchen-al-cioccolato/header.jpeg "frangipani © Erica")
 
 **Dreikönigskuchen al Cioccolato** una ghirlanda di Pan Brioche al cacao con pezzetti di cioccolato. È una variazione del classico <a href="https://frangipani.raiano.ch/2015-01-06-dreikoenigskuchen/" target="_blank">Dreikönigskuchen</a> che io solitamente faccio nella versione vegana. In Svizzera il **Dreikönigskuchen** si mangia tradizionalmente il 6 gennaio per la Giornata dei Tre Re. In una delle palline si nasconde una piccola figura di Re Magio e chi la trova potrà portare la corona per tutto il giorno. 
 <br />
@@ -33,7 +33,7 @@ Aspettative? Naaa! Ormai sappiamo che con l'anno nuovo i problemi non si risolvo
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Dreikönigskuchen al Cioccolato</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2022-01-04-dreikonigskuchen-al-cioccolato/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Dreikönigskuchen al Cioccolato una ghirlanda di Pan Brioche al cacao con pezzetti di cioccolato. È una variazione del classico <a href="https://frangipani.raiano.ch/2015-01-06-dreikoenigskuchen/" target="_blank">Dreikönigskuchen</a> che io solitamente faccio nella versione vegana.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -98,8 +98,8 @@ Mettete nella planetaria farina, cacao, zucchero, vaniglia e sale e mescolate tu
 A questo punto prendete 1/3 dell'impasto, formate una pallina e mettetela al centro della leccarda ricoperta di carta forno. Il resto dell'impasto lo dividete in 8 parti uguali. Attenzione, in una pallina dovrete nascondere il re o una mandorla. Prendete una parte alla volta, schiacciatela formando un disco poi prendete i lati e portateli al centro formando una pallina. Sigillate bene, mettete le giunture verso il basso, appoggiate la mano sulla pallina e fate roteare. Ripetete per tutte le palline. Adagiate le 8 palline attorno alla pallina più grande. Coprite il **Dreikönigskuchen al Cioccolato** e fate lievitare per mezz'oretta poi spennellate la superficie con del latte.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="panini.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-01-04-dreikonigskuchen-al-cioccolato/panini.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-01-04-dreikonigskuchen-al-cioccolato/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -108,32 +108,32 @@ Infornate il **Dreikönigskuchen** nel forno preriscaldato a 220°C statico per 
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-01-04-dreikonigskuchen-al-cioccolato/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-01-04-dreikonigskuchen-al-cioccolato/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-01-04-dreikonigskuchen-al-cioccolato/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-01-04-dreikonigskuchen-al-cioccolato/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-01-04-dreikonigskuchen-al-cioccolato/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-01-04-dreikonigskuchen-al-cioccolato/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-01-04-dreikonigskuchen-al-cioccolato/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-01-04-dreikonigskuchen-al-cioccolato/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

@@ -14,7 +14,7 @@ categories:
 label: 2016-09-09-berry-pie
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2016-09-09-berry-pie/header.jpg "frangipani © Erica")
 
 > Auguri Samy, anche tu ti stai avvicinando ai 30!!! Zia Samy, che sei tanto lontana, questa torta la dedico a te! Anche se non la potrai mangiare, ce la pappiamo noi per te!
 
@@ -94,25 +94,25 @@ Oggi si va con un dolce straniero, la Berry Pie. Praticamente è una pasta bris�
 </h3>
 
 Mettete la farina setacciata, lo zucchero, lo zucchero vanigliato ed il sale in una coppa capiente. Aggiungete la margarina a pezzetti e incorporatela alla farina aiutandovi con le punte delle dita, dovrete ottenere un composto sabbioso. Poi, aggiungete poca acqua alla volta e impastate. Dovrete ottenere un impasto liscio e non appiccicoso, quindi regolatevi con le quantità dell'acqua. Avvolgete l'impasto con la pellicola trasparente e mettetela in frigo per mezz'oretta.
-![](impasto.jpg "frangipani © Erica")
+![](../2016-09-09-berry-pie/impasto.jpg "frangipani © Erica")
 
 Nel frattempo preparate la farcia. Mettete i frutti di bosco in una ciotola. Se usate quelli congelati, fateli scongelare e sgocciolare prima. Aggiungete lo zucchero, l'amido, la vaniglia ed il succo di limone e mescolate il tutto.
-![](fruttidibosco.jpg "frangipani © Erica")
+![](../2016-09-09-berry-pie/fruttidibosco.jpg "frangipani © Erica")
 
 Passata la mezz'oretta tagliate l'impasto in due parti, una parte dovrà essere leggermente più grande, stendete le due parti separatamente tra due fogli di carta forno. Foderate una tortiera con il disco di pasta più grande. Poi riempite con i frutti di bosco.
-![](farcire.jpg "frangipani © Erica")
+![](../2016-09-09-berry-pie/farcire.jpg "frangipani © Erica")
 
 Prendete l'altra metà dell'impasto e ricoprite i frutti di bosco. Aggiustate bene i bordi, decorate a piacere e fate dei taglietti.
-![](teglia.jpg "frangipani © Erica")
+![](../2016-09-09-berry-pie/teglia.jpg "frangipani © Erica")
 
 Dunque infornatela per un'oretta nel forno preriscaldato a 180°C statico. Dopo 30-40min date un'occhiata, se avrà preso già un bel colore, copritela con della carta argentata in modo che non si bruci troppo, se no lasciate stare. Fate raffreddare bene la torta direttamente nella tortiera. 
-![](risultato1.jpg "frangipani © Erica")
+![](../2016-09-09-berry-pie/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2016-09-09-berry-pie/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2016-09-09-berry-pie/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2016-09-09-berry-pie/risultato4.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

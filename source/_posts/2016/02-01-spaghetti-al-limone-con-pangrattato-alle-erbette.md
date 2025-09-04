@@ -10,7 +10,7 @@ categories:
 - "Primi Piatti"
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2016-02-01-spaghetti-al-limone-con-pangrattato-alle-erbette/header.jpg "frangipani © Erica")
 
 Settimana scorsa al mercato ho comprato dei meravigliosi limoni bio rigorosamente siciliani! Non vi dico il profumo che fanno... Sinceramente potrei darli così ai miei piccoli e se li mangerebbero senza muovere un muscolo della faccia! Adorano mangiare il limone, chissà da chi avranno preso... Questo piatto si prepara molto velocemente, giusto il tempo della cottura della pasta. Potete sostituire il limone anche con l'arancia volendo. Come erbette ho usato quello che ho trovato in giardino. C'era il rosmarino, l'origano, poi stava spuntando anche la menta e il basilico che però era quello comprato. Con le dosi che vi do, il limone si sente molto, per un gusto più leggero, mettete meno succo di limone. Allora, buona Spaghettata!
 
@@ -70,16 +70,16 @@ Settimana scorsa al mercato ho comprato dei meravigliosi limoni bio rigorosament
 </h3>
 
 In una padella mettete mezzo spicchio d'aglio con un filo d'olio ed un pizzico di sale, fatelo rosolare. Poi aggiungete il succo di un limone. Fate sciogliere la maizena in mezzo bicchiere d'acqua, poi aggiungetelo nella padella con il limone. Aggiungete anche un pochettino di scorza di limone.
-![](sughetto.jpg "frangipani © Erica")
+![](../2016-02-01-spaghetti-al-limone-con-pangrattato-alle-erbette/sughetto.jpg "frangipani © Erica")
 
 In un'altra padellina mettete l'altra metà dello spicchio d'aglio con un pochettino d'olio, un po' di scorza di limone e le erbe aromatiche. Fate rosolare un po' il tutto, giusto il tempo che l'olio prenda tutti gli aromi.
-![](erbette.jpg "frangipani © Erica")
+![](../2016-02-01-spaghetti-al-limone-con-pangrattato-alle-erbette/erbette.jpg "frangipani © Erica")
 
 Poi aggiungete il pangrattato e un pochettino di sale e fatelo tostare a fiamma bassa.
-![](pangrattato.jpg "frangipani © Erica")
+![](../2016-02-01-spaghetti-al-limone-con-pangrattato-alle-erbette/pangrattato.jpg "frangipani © Erica")
 
 Appena bolle l'acqua per la pasta, salate e buttate gli spaghetti. Quando saranno cotti scolateli e fateli mantecare nella padella con il sughetto al limone. Impiattate e finite con una generosa spolverata di pangrattato aromatizzato e un po' di scorza di limone.
-![](risultato.jpg "frangipani © Erica")
+![](../2016-02-01-spaghetti-al-limone-con-pangrattato-alle-erbette/risultato.jpg "frangipani © Erica")
 
 
 <h4>Buon appetito

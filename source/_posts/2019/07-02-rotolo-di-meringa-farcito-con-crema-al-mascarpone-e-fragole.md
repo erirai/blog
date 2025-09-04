@@ -11,7 +11,7 @@ categories:
 label: 2019-07-02-rotolo-di-meringa-farcito-con-crema-al-mascarpone-e-fragole
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2019-07-02-rotolo-di-meringa-farcito-con-crema-al-mascarpone-e-fragole/header.jpeg "frangipani © Erica")
 
 > Benvenuto Luglio!
 
@@ -24,7 +24,7 @@ Sono in pieno mood estivo! Settimana scorsa ha fatto un caldo da sogno... Forse 
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Rotolo di Meringa farcito con Crema al Mascarpone e Fragole</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2019-07-02-rotolo-di-meringa-farcito-con-crema-al-mascarpone-e-fragole/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Rotolo di Meringa farcito con Crema al Mascarpone e Fragole, una nuvoletta leggera e fresca perfetta per queste belle giornate di caldo.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -97,31 +97,31 @@ Sono in pieno mood estivo! Settimana scorsa ha fatto un caldo da sogno... Forse 
 </h3>
 
 Preparate la meringa: mettete gli albumi nella planetaria, aggiungete un pizzichino di sale e iniziate a montare. Aggiungete piano piano lo zucchero e continuate a montare il tutto per qualche minuto, finché la massa non diventerà bella lucida e ferma. A questo punto incorporate a mano prima l'aceto e poi l'amido di mais con un movimento dall'alto verso il basso.
-![](meringa.jpeg "frangipani © Erica")
+![](../2019-07-02-rotolo-di-meringa-farcito-con-crema-al-mascarpone-e-fragole/meringa.jpeg "frangipani © Erica")
 
 Preparate una leccarda coperta da un foglio di carta forno. Spalmate ai 4 angoli un pochettino di meringa per fare aderire la carta alla leccarda, poi spalmate la meringa formando uno strato uniforme da ca. 1.5cm.
-![](teglia.jpeg "frangipani © Erica")
+![](../2019-07-02-rotolo-di-meringa-farcito-con-crema-al-mascarpone-e-fragole/teglia.jpeg "frangipani © Erica")
 
 Infornate la meringa nel forno preriscaldato a 180°C statico per 12-15min, mi raccomando fate la prova stecchino, comunque non deve prendere troppo colore. Fate raffreddare completamente.
-![](sfornata.jpeg "frangipani © Erica")
+![](../2019-07-02-rotolo-di-meringa-farcito-con-crema-al-mascarpone-e-fragole/sfornata.jpeg "frangipani © Erica")
 
 Dunque preparate la Chantilly al Mascarpone. Mescolate il Mascarpone con lo zucchero a velo, i semi della vaniglia e la scorza del limone. A questo punto prendete le fruste elettriche e aggiungete la panna a filo sempre mescolando. Quando vedrete che il composto sarà diventato bello fermo, potete finire. Lasciatela in frigo finché vi servirà. Lavate e tagliate le fragole a metà o in 4.
 
 Mettete un foglio di carta forno pulito sulla meringa, poi giratela e delicatamente togliete il foglio di carta forno attaccato. Spalmate la Chantilly al Mascarpone sulla meringa lasciando un bordo di 2cm e distribuiteci sopra le fragole, lasciandone da parte qualcuna per la decorazione.
-![](farcito.jpeg "frangipani © Erica")
+![](../2019-07-02-rotolo-di-meringa-farcito-con-crema-al-mascarpone-e-fragole/farcito.jpeg "frangipani © Erica")
 
 A questo punto iniziate ad arrotolare, anzi a piegare il rotolo aiutandovi con la carta forno. Coprite e lasciate in frigo per almeno due orette. Prima di servire il rotolo di meringa, decorate con le fragole rimaste e mangiatelo subito freddo da frigo.
-![](risultato1.jpeg "frangipani © Erica")
+![](../2019-07-02-rotolo-di-meringa-farcito-con-crema-al-mascarpone-e-fragole/risultato1.jpeg "frangipani © Erica")
 
-![](risultato2.jpeg "frangipani © Erica")
+![](../2019-07-02-rotolo-di-meringa-farcito-con-crema-al-mascarpone-e-fragole/risultato2.jpeg "frangipani © Erica")
 
-![](risultato3.jpeg "frangipani © Erica")
+![](../2019-07-02-rotolo-di-meringa-farcito-con-crema-al-mascarpone-e-fragole/risultato3.jpeg "frangipani © Erica")
 
-![](risultato4.jpeg "frangipani © Erica")
+![](../2019-07-02-rotolo-di-meringa-farcito-con-crema-al-mascarpone-e-fragole/risultato4.jpeg "frangipani © Erica")
 
-![](risultato5.jpeg "frangipani © Erica")
+![](../2019-07-02-rotolo-di-meringa-farcito-con-crema-al-mascarpone-e-fragole/risultato5.jpeg "frangipani © Erica")
 
-![](risultato6.jpeg "frangipani © Erica")
+![](../2019-07-02-rotolo-di-meringa-farcito-con-crema-al-mascarpone-e-fragole/risultato6.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

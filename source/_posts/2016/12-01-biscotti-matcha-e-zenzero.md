@@ -11,7 +11,7 @@ categories:
 label: 2016-12-01-biscotti-matcha
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2016-12-01-biscotti-matcha-e-zenzero/header.jpg "frangipani © Erica")
 
 Due anni fa sono stata ad un corso di pasticceria vegana. Lì abbiamo preparato un sacco di cose buonissime, come questi biscotti matcha e zenzero. Io non amo assolutamente il té verde, proprio non riesco, non mi piace il gusto. L'ho provato in tutti i modi possibili ed immaginabili, ma non riesco! L'unica cosa che mi era rimasta da provare era il Matcha Latte e devo dire che non è male. Preferisco il Caffé Latte, ma il Matcha è una buona alternativa. Proprio bevendo il Matcha Latte, mi sono venuti in mente questi biscotti dal bel colore verde. In realtà non sono altro che pasta frolla vegana aromatizzata al té Matcha e zenzero. Il Matcha si sente poco, ma da un gusto diverso e lo zenzero da molta freschezza con una leggera nota piccante, molto buona. Non sono proprio dei biscotti natalizi, ma dando la forma giusta o usando degli stampi natalizi, fanno subito Natale. Sono ottimi la mattina accompagnati da un buon Té caldo, o anche a merenda. Volendo si possono aggiungere anche dei pezzettini di cioccolato o frutta secca. Come vedete sono molto versatili e adattabili a molte occasioni... quindi via libera alla vostra fantasia!
 
@@ -69,18 +69,18 @@ Due anni fa sono stata ad un corso di pasticceria vegana. Lì abbiamo preparato 
 </h3>
 
 Mettete la margarina, lo zucchero, la vaniglia, il sale ed il latte vegetale in una ciotola e con le fruste elettriche montate il tutto. Poi aggiungete la farina, il Matcha e lo zenzero, date una mescolata veloce e poi finite d'impastare velocemente con le mani. Avvolgete l'impasto con della pellicola trasparente e fate riposare in frigo per almeno un'ora.
-![](impasto.jpg "frangipani © Erica")
+![](../2016-12-01-biscotti-matcha-e-zenzero/impasto.jpg "frangipani © Erica")
 
 Con l'aiuto di un mattarello e tanta farina stendete l'impasto fino ad uno spessore di 5mm. Con una formina per biscotti formate i biscotti, scegliete la forma che più vi piace.
-![](biscotti.jpg "frangipani © Erica")
+![](../2016-12-01-biscotti-matcha-e-zenzero/biscotti.jpg "frangipani © Erica")
 
 Mettete i biscotti su di una teglia con sotto della carta forno.
-![](teglia.jpg "frangipani © Erica")
+![](../2016-12-01-biscotti-matcha-e-zenzero/teglia.jpg "frangipani © Erica")
 
 Infornate subito nel forno preriscaldato a 180°C ventilato per 7-10min. Non devono prendere troppo colore. Poi fateli raffreddare completamente e conservateli nel solito barattolo di latta.
-![](risultato1.jpg "frangipani © Erica")
+![](../2016-12-01-biscotti-matcha-e-zenzero/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2016-12-01-biscotti-matcha-e-zenzero/risultato2.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

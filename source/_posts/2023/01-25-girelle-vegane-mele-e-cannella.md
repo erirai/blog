@@ -13,7 +13,7 @@ categories:
 label: 2023-01-25-girelle-vegane-mele-e-cannella
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2023-01-25-girelle-vegane-mele-e-cannella/header.jpeg "frangipani © Erica")
 
 **Girelle vegane Mele e Cannella** profumate, soffici e confortanti! La vostra casa profumerà di buono, ovvero di pane appena sfornato, mele cotte e cannella... Questo è un vero è proprio comfort food, un dolce che fa bene, che ci aiuta a sopportare questo freddo inverno. Ma anche un ottimo dolce per dare il benvenuto all'autunno.
 
@@ -26,7 +26,7 @@ Con l'aggiunta delle mele, le girelle risulteranno più succose. Io le mele le h
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Girelle vegane Mele e Cannella</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2023-01-25-girelle-vegane-mele-e-cannella/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Girelle vegane Mele e Cannella profumate, soffici e confortanti!</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -101,9 +101,9 @@ Prima di riprendere l'impasto pelate le mele, eliminate il picciolo, tagliateli 
 Prendete l'impasto e stendetelo creando un rettangolo da 30x40cm circa. Distribuite le mele alla cannella su tutto il rettangolo lasciando un bordo di 1cm. Arrotolate il tutto dalla parte più lunga stringendo bene, poi tagliate il rotolo formando circa 10 girelle e appoggiate le girelle su di una teglia con sotto della carta forno. Coprite e fate lievitare fino a raddoppio. Se si creerà molta acqua, eliminatela prima della cottura.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 32%; margin-right: 1%;" src="mele.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="girelle.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-left: 1%;" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%;" src="../2023-01-25-girelle-vegane-mele-e-cannella/mele.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="../2023-01-25-girelle-vegane-mele-e-cannella/girelle.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-left: 1%;" src="../2023-01-25-girelle-vegane-mele-e-cannella/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -112,40 +112,40 @@ Infornate le **Girelle vegane Mele e Cannella** nel forno preriscaldato a 190°C
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-01-25-girelle-vegane-mele-e-cannella/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-01-25-girelle-vegane-mele-e-cannella/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-01-25-girelle-vegane-mele-e-cannella/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-01-25-girelle-vegane-mele-e-cannella/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-01-25-girelle-vegane-mele-e-cannella/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-01-25-girelle-vegane-mele-e-cannella/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-01-25-girelle-vegane-mele-e-cannella/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-01-25-girelle-vegane-mele-e-cannella/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-01-25-girelle-vegane-mele-e-cannella/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-01-25-girelle-vegane-mele-e-cannella/risultato10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

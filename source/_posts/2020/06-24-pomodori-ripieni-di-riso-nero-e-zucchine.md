@@ -14,7 +14,7 @@ categories:
 label: 2020-06-24-pomodori-ripieni-di-riso-nero-e-zucchine
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2020-06-24-pomodori-ripieni-di-riso-nero-e-zucchine/header.jpeg "frangipani © Erica")
 
 **Pomodori ripieni di Riso Nero e Zucchine** un piatto vegano, estivo e super leggero per iniziare al meglio la stagione più bella! Questo piatto può essere adattato alle vostre esigenze... ovvero, una volta riempiti i pomodori, potete scegliere se mangiarli subito, farli raffreddare o passarli in forno o sul barbeque! Non male, vero?
 <br />
@@ -27,7 +27,7 @@ Poi mi sembra giusto dare il benvenuto all'estate con un piatto fatto con i pomo
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Pomodori ripieni di Riso Nero e Zucchine</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-06-24-pomodori-ripieni-di-riso-nero-e-zucchine/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Pomodori ripieni di Riso Nero e Zucchine un piatto vegano, estivo e super leggero per iniziare al meglio la stagione più bella!</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -81,8 +81,8 @@ Cuocete il riso come indicato sulla confezione. Tagliate la calotta dei pomodori
 Tagliate la cipolla finemente e la zucchina a dadini piccolini. In una padella, fate rosolare la cipolla con un filo d'olio ed un pizzico di sale. Aggiungete le zucchine e saltate il tutti per farle ammorbidire un pochettino, devono rimanere croccanti. Aggiungete i resti dei pomodori tagliati a pezzettini come anche il riso nero cotto in precedenza. Fate insaporire bene il tutto, aggiustate di sale e aggiungete anche il basilico fresco.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="pomodori.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="riso.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-06-24-pomodori-ripieni-di-riso-nero-e-zucchine/pomodori.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-06-24-pomodori-ripieni-di-riso-nero-e-zucchine/riso.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -94,23 +94,23 @@ Riempite i pomodori con il riso. A questo punto avete diverse opzioni:
 - Potete anche passarli un attimo sul barbeque e mangiarli come contorno...
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-06-24-pomodori-ripieni-di-riso-nero-e-zucchine/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-06-24-pomodori-ripieni-di-riso-nero-e-zucchine/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato3.jpeg "frangipani © Erica")
+![](../2020-06-24-pomodori-ripieni-di-riso-nero-e-zucchine/risultato3.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-06-24-pomodori-ripieni-di-riso-nero-e-zucchine/risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-06-24-pomodori-ripieni-di-riso-nero-e-zucchine/risultato5.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato6.jpeg "frangipani © Erica")
+![](../2020-06-24-pomodori-ripieni-di-riso-nero-e-zucchine/risultato6.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

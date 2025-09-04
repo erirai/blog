@@ -10,7 +10,7 @@ categories:
 - Torte
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2016-06-27-torta-brise-con-crema-frangipane-e-albicocche/header.jpg "frangipani © Erica")
 
 > Buon Compleanno Zio Arduino!
 
@@ -95,20 +95,20 @@ Ho scoperto questa meraviglia di crema frangipane e la ADORO! Mi piaciono tantis
 </h3>
 
 Per prima cosa preparate la pasta brisé. Mettete in una coppa capiente la farina, il sale, la vaniglia e lo zucchero e mescolate con un cucchiaio. Poi aggiungete il burro freddo a pezzettini. Con le punte delle dita impastate velocemente creando un composto sabbioso. A questo punto aggiungete 30ml d'acqua fredda e iniziate ad impastare. Aggiungete la quantità d'acqua che serve per compattare il tutto. Alla fine dovrete avere un panetto compatto e liscio. Avvolgetelo con della pellicola trasparente e fatelo riposare in frigo per un'oretta.
-![](brise.jpg "frangipani © Erica")
+![](../2016-06-27-torta-brise-con-crema-frangipane-e-albicocche/brise.jpg "frangipani © Erica")
 
 Nel frattempo preparate la crema frangipane. In una coppa mettete il burro, lo zucchero e la vaniglia e mescolate il tutto con le fruste elettriche finché il composto diventerà bello chiaro e spumoso. Poi aggiungete le uova uno alla volta. Quando le uova saranno completamente amalgamate, spegnete le fruste elettriche, aggiungete le mandorle macinate e con un cucchiaio di legno mescolate il tutto. Mettete la crema in frigo.
-![](frangipane.jpg "frangipani © Erica")
+![](../2016-06-27-torta-brise-con-crema-frangipane-e-albicocche/frangipane.jpg "frangipani © Erica")
 
 Passata un'oretta, uscite la pasta brisé dal frigo e con un mattarello stendetela tra due fogli di carta forno fino ad uno spessore di 3mm circa. Rivestite una teglia da 22cm e lasciate di sotto la carta forno. Aggiustate bene i bordi. Versate la crema frangipane sulla pasta brisé e livellate bene. Poi lavate ed asciugate le albicocche. Tagliatele a metà, togliete il nocciolo e adagiatele sulla crema.
-![](teglia.jpg "frangipani © Erica")
+![](../2016-06-27-torta-brise-con-crema-frangipane-e-albicocche/teglia.jpg "frangipani © Erica")
 
 Infornate la torta nel forno preriscaldato a 190°C statico per 40-45min o almeno finché la crema frangipane risulterà scuretta e croccante. Fatela raffreddare nella teglia stessa, poi tenetela in frigo finché la servirete.
 
-![](risultato1.jpg "frangipani © Erica")
+![](../2016-06-27-torta-brise-con-crema-frangipane-e-albicocche/risultato1.jpg "frangipani © Erica")
 
 Per non scordarci della vittoria contro la Spagna ho fatto una foto anche con la nostra bandiera e con la palla ufficiale dell'Euro2016 (la palla l'abbiamo vinta al MegaWin della Migros)...
-![](risultato2.jpg "frangipani © Erica")
+![](../2016-06-27-torta-brise-con-crema-frangipane-e-albicocche/risultato2.jpg "frangipani © Erica")
 
 
 <h4>Buon appetito

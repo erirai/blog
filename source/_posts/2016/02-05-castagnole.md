@@ -9,7 +9,7 @@ categories:
 - "Piccola Pasticceria"
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2016-02-05-castagnole/header.jpg "frangipani © Erica")
 
 Siamo in piena settimana di carnevale, anche se qui in Svizzera nel paese dove abito io, il carnevale si festeggia il prossimo weekend. Che dolci facciamo questo carnevale? Proviamo con le Castagnole! Non le avevo mai fatte, neanche mia mamma. Non amo friggere ma certe cose vanno fritte e basta!!! Comunque tutte queste frittelline di carnevale si fanno in un attimo, si prepara l'impasto poi si friggono subito. Questo tipo di Castagnole che vi propongo io sono molto morbide. L'impasto sembra un impasto per torte, quindi va porzionato con un cucchiaio, non bisogna formare le palline. Poi ci sono un sacco di varianti... con la ricotta, bagnate con l'Alchermes, ripiene... Comunque sia, vi auguro un bellissimo Carnevale!
 
@@ -74,13 +74,13 @@ Siamo in piena settimana di carnevale, anche se qui in Svizzera nel paese dove a
 </h3>
 
 Mettete il burro morbido, lo zucchero, lo zucchero vanigliato ed un pizzico di sale in una coppa capiente e iniziate a mescolare il tutto con le fruste elettriche. Quando il tutto si sarà amalgamato bene aggiungete un uovo alla volta. È molto importante che ogni uovo sia amalgamato perfettamente prima di aggiungerne un altro. Alla fine versate la farina, il lievito e la scorza di limone e finite di mescolare il tutto, sempre con le fruste.
-![](impasto.jpg "frangipani © Erica")
+![](../2016-02-05-castagnole/impasto.jpg "frangipani © Erica")
 
 Mettete abbondante olio in una pentola e accendete il fornello. Quando l'olio sarà ben caldo prendete con un cucchiaio un quantitativo d'impasto pari ad una noce e gettatelo dell'olio, facendo molta attenzione a non bruciarvi. Non friggete molte castagnole alla volta, perché durante la cottura aumenteranno di volume. Appena vedete che prendono colore giratele.
-![](friggere.jpg "frangipani © Erica")
+![](../2016-02-05-castagnole/friggere.jpg "frangipani © Erica")
 
 Quando si saranno dorate da entrambe le parti, scolatele con una schiumarola e posatele su di un vassoio con sotto della carta assorbente. In questo modo l'olio in eccesso verrà assorbito dalla carta. Prima di servirli non vi dimenticate un'abbondante spolverata di zucchero a velo!
-![](risultato.jpg "frangipani © Erica")
+![](../2016-02-05-castagnole/risultato.jpg "frangipani © Erica")
 
 
 <h4>Buon appetito

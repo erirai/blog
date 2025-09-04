@@ -9,7 +9,7 @@ categories:
 - "Piatti Unici"
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2014-04-23-bulgur-verdura-germogli/header.jpg "frangipani © Erica")
 
 Spesso andiamo a comprare la verdura nei negozi turchi, che hanno sempre roba freschissima! La si trova anche il bulgur, che viene usato tanto in Medio Oriente... È simile al Cous Cous ed è pieno di fibre, vitamine del gruppo B, fosforo e potassio. Poi con il giusto condimento potete creare un piatto completo!
 
@@ -88,20 +88,20 @@ Spesso andiamo a comprare la verdura nei negozi turchi, che hanno sempre roba fr
 </h3>
 
 Iniziate tagliando a pezzettini tutta la verdura.
-![](verdura1.jpg "frangipani © Erica")
+![](../2014-04-23-bulgur-verdura-germogli/verdura1.jpg "frangipani © Erica")
 
-![](verdura2.jpg "frangipani © Erica")
+![](../2014-04-23-bulgur-verdura-germogli/verdura2.jpg "frangipani © Erica")
 
 Poi mettete a soffriggere la cipolla con un po' d'olio. Quando sarà ben dorata aggiungete la verdura. Fate soffriggere pochettino a fuoco basso e poi continuate la cottura aggiungendo dell'acqua poco a poco.
 
 Nel frattempo preparate il bulgur: mettete l'acqua in un pentolino, salatela e versateci il bulgur. Fatelo cuocere a temperatura bassa per ca. 15min o fin quando il bulgur avrà assorbito tutta l'acqua (serve una parte di bulgur e 2.5 parti d'acqua). Poi fatelo riposare per 10min.
-![](bulgur.jpg "frangipani © Erica")
+![](../2014-04-23-bulgur-verdura-germogli/bulgur.jpg "frangipani © Erica")
 
 Mentre il bulgur riposa, salate la verdura e aggiungete la paprica e la curcuma.
-![](verduracotta.jpg "frangipani © Erica")
+![](../2014-04-23-bulgur-verdura-germogli/verduracotta.jpg "frangipani © Erica")
 
 Potete servire il bulgur e la verdura separatamente o mischiare il tutto direttamente nella padella, come preferite. L'importante è mettere i germogli direttamente sul piatto. I germogli non devono cuocere, che perdono subito tutte le proprietà.
-![](risultato.jpg "frangipani © Erica")
+![](../2014-04-23-bulgur-verdura-germogli/risultato.jpg "frangipani © Erica")
 
 
 <h3>

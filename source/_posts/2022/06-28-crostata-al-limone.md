@@ -10,7 +10,7 @@ categories:
 label: 2022-06-28-crostata-al-limone
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2022-06-28-crostata-al-limone/header.jpeg "frangipani © Erica")
 
 **Crostata al Limone** per tutti gli amanti dei dolci di frolla freschi e per tutti quelli che amano il sapore dei limoni in purezza, ecco il dolce per voi. Un guscio di frolla, che già è buono così, farcito con questa crema al limone leggerissima, vegana e senza glutine che sa proprio di limone.
 <br />
@@ -23,7 +23,7 @@ E pensare che questa torta è nata un po' per sbaglio, dopo un errore epico. Vi 
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Crostata al Limone</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2022-06-28-crostata-al-limone/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Crostata al Limone per tutti gli amanti dei dolci di frolla freschi e per tutti quelli che amano il sapore dei limoni in purezza, ecco il dolce per voi.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -110,15 +110,15 @@ Uscite la frolla dal frigo e fatela acclimatizzare un attimino, poi aiutandovi c
 Con la frolla rimasta fate tanti biscottini piccoli che vi serviranno per decorare la crostata, ma anche per bilanciare meglio l'aspro della crema. Io ho fatto fiorellini e foglioline ed ho infornato sempre a 170°C statico per 7min circa.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="crema.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="cotturainbianco.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-06-28-crostata-al-limone/crema.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-06-28-crostata-al-limone/cotturainbianco.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="frolla.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="biscotti.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-06-28-crostata-al-limone/frolla.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-06-28-crostata-al-limone/biscotti.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -126,40 +126,40 @@ Con la frolla rimasta fate tanti biscottini piccoli che vi serviranno per decora
 Adagiate il disco di frolla su di un piatto da portata. Prendete la crema al limone e date una mescolata, poi distribuitela sulla frolla e decorate con i biscottini e delle foglioline di menta e/o melissa. Questa **Crostata al Limone** è buona a temperatura ambiente ma anche fredda da frigo.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-06-28-crostata-al-limone/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-06-28-crostata-al-limone/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-06-28-crostata-al-limone/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-06-28-crostata-al-limone/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-06-28-crostata-al-limone/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-06-28-crostata-al-limone/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-06-28-crostata-al-limone/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-06-28-crostata-al-limone/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-06-28-crostata-al-limone/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-06-28-crostata-al-limone/risultato10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

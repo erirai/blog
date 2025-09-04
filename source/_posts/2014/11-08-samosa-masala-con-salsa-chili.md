@@ -10,7 +10,7 @@ categories:
 - Aperitivi
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2014-11-08-samosa-masala-con-salsa-chili/header.jpg "frangipani © Erica")
 
 Per la cena di sta sera abbiamo pensato di fare un po' di Samosa. Dato che c'era anche mia sorella li abbiamo fatti insieme... Devo dire che erano veramente ottimi anche se li abbiamo fatti al forno e non fritti! Ve li consiglio vivamente!!!
 
@@ -147,40 +147,40 @@ Per la cena di sta sera abbiamo pensato di fare un po' di Samosa. Dato che c'era
 </h3>
 
 Iniziate preparando la salsa chili in modo che poi si possa raffreddare bene. Tagliate a pezzetti molto piccolini lo scalogno e mettetelo in una padella insieme all'olio. Fatelo rosolare un po' e poi aggiungete il peperoncino e l'aglio tritato (io l'aglio l'ho messo intero). Fate rosolare ancora un pochettino e poi sfumate con l'acqua, lo scirippo d'agave, il succo del lime e la salsa di soia.
-![](salsa1.jpg "frangipani © Erica")
+![](../2014-11-08-samosa-masala-con-salsa-chili/salsa1.jpg "frangipani © Erica")
 
 Abbassate i fuochi e fate addensare il tutto.
-![](salsa2.jpg "frangipani © Erica")
+![](../2014-11-08-samosa-masala-con-salsa-chili/salsa2.jpg "frangipani © Erica")
 
 Adesso preparate il ripieno. Pelate le patate e tagliatele a cubetti poi tagliate a fettine anche lo scalogno. Prendete una padella, mettete due cucchiai d'olio e lo scalogno e fate rosoloare un po'. Quando lo scalogno sarà ben dorato aggiungete le patate, coprite con un coperchio e fate cucinare a fuoco lento. Appena saranno quasi cotte aggiungete i piselli. Quando tutto sarà cotto togliete dai fuochi e schiacciate il tutto con una forchetta.
-![](patate.jpg "frangipani © Erica")
+![](../2014-11-08-samosa-masala-con-salsa-chili/patate.jpg "frangipani © Erica")
 
 Passate le patate in una coppa e rimettete sui fuochi la padella con il resto dell'olio, lo zenzero grattugiato, il peperoncino tagliato molto finemente e l'aglio tritato (anche qui l'aglio l'ho lasciato intero). Fate riscaldare bene il tutto e poi togliete dai fuochi. Prendete le patate ed i piselli e metteteli nella padella, mescolate ed aggiungete il resto degli ingredienti per il ripieno.
-![](patatespeziate.jpg "frangipani © Erica")
+![](../2014-11-08-samosa-masala-con-salsa-chili/patatespeziate.jpg "frangipani © Erica")
 
 Mentre il ripieno si raffredda preparate l'impasto. Mettete tutti gli ingredienti per l'impasto in una ciotola e iniziate ad impastare. Poi spostatevi su di un piano di lavoro e continuate ad impastare finché l'impasto sarà bello morbido ed omogeneo. Quindi fate riposare l'impasto ricoperto con della pellicola per ca. 15min.
-![](impasto.jpg "frangipani © Erica")
+![](../2014-11-08-samosa-masala-con-salsa-chili/impasto.jpg "frangipani © Erica")
 
 Passati i 15min tagliate in quattro parti uguali l'impasto e cercate di stendere le quattro parti formando dei dischi da ca. 20cm aiutandovi con un mattarello. Se l'impasto è troppo appiccicoso aiutatevi con poca farina. Poi tagliate a metà i dischi.
-![](disco.jpg "frangipani © Erica")
+![](../2014-11-08-samosa-masala-con-salsa-chili/disco.jpg "frangipani © Erica")
 
 Prendete uno dei due mezzi dischi...
-![](mezzodisco.jpg "frangipani © Erica")
+![](../2014-11-08-samosa-masala-con-salsa-chili/mezzodisco.jpg "frangipani © Erica")
 
 ...prendete la punta destra e portatela sul bordo esterno creando una specie di triangolo.
-![](piega1.jpg "frangipani © Erica")
+![](../2014-11-08-samosa-masala-con-salsa-chili/piega1.jpg "frangipani © Erica")
 
 Poi ripiegate il tutto portanto la punta destra sul bordo interno (dove avevato tagliato il disco). Premete leggermente la punta del cono per sigillare.
-![](piega2.jpg "frangipani © Erica")
+![](../2014-11-08-samosa-masala-con-salsa-chili/piega2.jpg "frangipani © Erica")
 
 Così avrete creato una specie di cono che potete tenere tra l'indice ed il pollice allargando bene ma facendo attenzione a non rompere l'impasto.
-![](sacco.jpg "frangipani © Erica")
+![](../2014-11-08-samosa-masala-con-salsa-chili/sacco.jpg "frangipani © Erica")
 
 Con un cucchiaino riempite il cono fino a sopra e poi chiudete bene.
-![](teglia.jpg "frangipani © Erica")
+![](../2014-11-08-samosa-masala-con-salsa-chili/teglia.jpg "frangipani © Erica")
 
 Mettete i Samosa su di una teglia se li volete cucinare al forno se no friggeteli nell'olio di semi ben caldo. Ripetete questa operazione finché li avrete fatti tutti. Se li cuocete al forno, infornateli nel forno preriscaldato a 180°C ventilato per ca. 20min e serviteli ben caldi.
-![](risultato.jpg "frangipani © Erica")
+![](../2014-11-08-samosa-masala-con-salsa-chili/risultato.jpg "frangipani © Erica")
 
 <h3>
   <font color="#FFCC00">

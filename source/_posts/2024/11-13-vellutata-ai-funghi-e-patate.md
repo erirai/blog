@@ -13,7 +13,7 @@ categories:
 label: 2024-11-13-vellutata-ai-funghi-e-patate
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2024-11-13-vellutata-ai-funghi-e-patate/header.jpeg "frangipani © Erica")
 
 Pubblicità: **Vellutata ai Funghi e Patate** in collaborazione con <a href="https://www.farmy.ch" target="_blank">Farmy</a>, bella saporita e riscaldante, proprio quello che serve con questo freddo. 
 
@@ -30,7 +30,7 @@ Se anche voi come me preferireste non dover uscire con questo grigiore e con que
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Vellutata ai Funghi e Patate</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2024-11-13-vellutata-ai-funghi-e-patate/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Vellutata ai Funghi e Patate, bella saporita e riscaldante, proprio quello che serve con questo freddo.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -92,8 +92,8 @@ Pulite i funghi (io Champignons e porcini), tagliateli a pezzettini e metteteli 
 A questo punto salate, aggiungete ancora del brodo vegetale e frullate tutto rendendolo bello cremoso. Rimettete sui fornelli, aggiungete la panna vegetale e se c'è bisogno anche altro brodo vegetale e assaggiate di sale. Fate andare ancora per qualche minuto a temperatura bassissima.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="funghiepatate.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="zuppa.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-11-13-vellutata-ai-funghi-e-patate/funghiepatate.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-11-13-vellutata-ai-funghi-e-patate/zuppa.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -103,24 +103,24 @@ Per ultimo mettete in una padella un pezzettino di burro o olio evo e l'aglio in
 Versate la zuppa in una coppetta, aggiungete i funghi ed un filo d'olio e godetevi la zuppa ancora ben calda, magari con una fetta di pane.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-11-13-vellutata-ai-funghi-e-patate/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-11-13-vellutata-ai-funghi-e-patate/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-11-13-vellutata-ai-funghi-e-patate/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-11-13-vellutata-ai-funghi-e-patate/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-11-13-vellutata-ai-funghi-e-patate/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-11-13-vellutata-ai-funghi-e-patate/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

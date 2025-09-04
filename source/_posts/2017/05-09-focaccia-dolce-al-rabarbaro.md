@@ -13,7 +13,7 @@ categories:
 label: 2017-05-09-focaccia-dolce-al-rabarbaro
 lang: it 
 ---
-![](header.jpg "frangipani © Erica")
+![](../2017-05-09-focaccia-dolce-al-rabarbaro/header.jpg "frangipani © Erica")
 
 Dopo aver smaltito un po' di cioccolato di Pasqua (un po' si fa per dire, ho praticamente finito tutto) posso finalmente dedicarmi al rabarbaro. Mi sa che in Italia il rabarbaro non viene usato molto, peccato perché è molto buono! Lo sapevate che il rabarbaro è un tipo di verdura? È strano, perché viene usato di più nelle preparazioni dolci. Ha un gusto agro e fresco, è ricco di vitamine e minerali ed ha un sacco di proprietà benefice e terapeutiche. Il rabarbaro non si dovrebbe mangiare crudo, meglio cuocerlo. E attenzione alle foglie, sono velenosissime! La stagione del rabarbaro purtroppo è molto corta, inizia verso fine aprile e finisce a giugno. Chi vuole gustarsi il rabarbaro tutto l'anno, può benissimo pulirlo, tagliarlo a tocchetti e poi congelarlo. Ma io sinceramente lo mangio solo durante la sua stagione, così è sempre qualcosa di speciale...
 
@@ -99,24 +99,24 @@ Oggi non vi propongo una torta o una crostata con il rabarbaro, ma una focaccia 
 </h3>
 
 Mettete la farina, il sale, i semi della vaniglia, la scorza del limone e lo zucchero nella planetaria e mescolate. A parte fate riscaldare leggermente il latte insieme alla margarina, poi aggiungete anche il lievito e fatelo sciogliere. Versate il tutto nella planetaria con gli ingredienti asciuti ed azionate la planetaria. Impastate finché l'impasto non si staccherà dai bordi della ciotola. Passatelo su di un piano di lavoro e impastatelo con le mani ancora per qualche minuto. A questo punto copritelo bene e fatelo lievitare per ca. 4 ore o fino a raddoppio del suo volume.
-![](impasto.jpg "frangipani © Erica")
+![](../2017-05-09-focaccia-dolce-al-rabarbaro/impasto.jpg "frangipani © Erica")
 
 Dividete l'impasto in due parti uguali e con le mani stendete le due parti su due teglie con sotto della carta forno formando un ovale. Pulite il rabarbaro e tagliate le stecche a metà. Appoggiatelo sull'impasto e schiacchiatelo bene.
-![](teglia.jpg "frangipani © Erica")
+![](../2017-05-09-focaccia-dolce-al-rabarbaro/teglia.jpg "frangipani © Erica")
 
 A questo punto fate lievitare di nuovo per 1 ora sempre coperto. Passato il tempo necessario, premete di nuovo il rabarbaro poi spennellate tutta la superficie con un miscuglio di latte di mandorla e olio. Spolverate con dello zucchero vanigliato e finite distribuendoci i pistacchi tritati.
-![](tegliafinita.jpg "frangipani © Erica")
+![](../2017-05-09-focaccia-dolce-al-rabarbaro/tegliafinita.jpg "frangipani © Erica")
 
 Infornate la focaccia nel forno preriscaldato a 180°C statico per circa 25min o fino a doratura. Passatelo subito su di una griglia e mangiatelo subito, magari con del gelato alla vaniglia...
-![](risultato1.jpg "frangipani © Erica")
+![](../2017-05-09-focaccia-dolce-al-rabarbaro/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2017-05-09-focaccia-dolce-al-rabarbaro/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2017-05-09-focaccia-dolce-al-rabarbaro/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2017-05-09-focaccia-dolce-al-rabarbaro/risultato4.jpg "frangipani © Erica")
 
-![](risultato5.jpg "frangipani © Erica")
+![](../2017-05-09-focaccia-dolce-al-rabarbaro/risultato5.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

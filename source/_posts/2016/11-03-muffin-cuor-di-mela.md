@@ -12,7 +12,7 @@ categories:
 label: 2016-11-03-muffin-cuor
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2016-11-03-muffin-cuor-di-mela/header.jpg "frangipani © Erica")
 
 > Grazie Padrino e Madrina per le mele più buone del mondo!
 
@@ -89,23 +89,23 @@ Halloween è passato e finalmente posso iniziare a smaltire la cesta piena di me
 </h3>
 
 Pelate le mele, tagliatele a cubetti piccolini e metteteli in un pentolino. Aggiungete la stecca di cannella, il succo di limone e due cucchiai di zucchero di canna. A questo punto fate cuocere le mele finché saranno belle morbide ma non sfatte. Prendete 150gr delle mele cotte e frullatele con il mixer ad immersione, il resto lo lasciate nel pentolino.
-![](melecotte.jpg "frangipani © Erica")
+![](../2016-11-03-muffin-cuor-di-mela/melecotte.jpg "frangipani © Erica")
 
 In una ciotola capiente mettete la farina, il resto dello zucchero di canna, il bicarbonato, la vaniglia ed il sale e mescolate con una frusta a mano. In una coppetta a parte mettete il latte, l'olio, le mele frullate e l'aceto. Versate i liquidi nella coppa con gli ingredienti asciutti e mescolate bene con un cucchiaio.
-![](impasto.jpg "frangipani © Erica")
+![](../2016-11-03-muffin-cuor-di-mela/impasto.jpg "frangipani © Erica")
 
 Riempite i pirottini fino a metà, poi aggiungete un cucchiaio delle mele cotte.
-![](pirottini.jpg "frangipani © Erica")
+![](../2016-11-03-muffin-cuor-di-mela/pirottini.jpg "frangipani © Erica")
 
 Coprite con l'impasto restante e finite con una spolverata di fiocchi d'avena.
-![](teglia.jpg "frangipani © Erica")
+![](../2016-11-03-muffin-cuor-di-mela/teglia.jpg "frangipani © Erica")
 
 Infornateli nel forno preriscaldato a 180°C statico per 20min, mi raccomando fate la prova stecchino. Aspettate che si raffreddino un pochettino, poi li passate su di una griglia...
-![](risultato1.jpg "frangipani © Erica")
+![](../2016-11-03-muffin-cuor-di-mela/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2016-11-03-muffin-cuor-di-mela/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2016-11-03-muffin-cuor-di-mela/risultato3.jpg "frangipani © Erica")
 
 
 <h4>Buon appetito

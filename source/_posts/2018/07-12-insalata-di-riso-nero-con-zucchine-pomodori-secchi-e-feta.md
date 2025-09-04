@@ -14,7 +14,7 @@ categories:
 label: 2018-07-12-insalata-di-riso-nero-con-zucchine-pomodori-secchi-e-feta
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2018-07-12-insalata-di-riso-nero-con-zucchine-pomodori-secchi-e-feta/header.jpg "frangipani © Erica")
 
 **Insalata di Riso Nero con Zucchine, Pomodori Secchi e Feta** un piatto colorato, fresco, sano e gustoso! In questo piatto avete tutto quello che vi serve e se la portate in spiaggia vi invidieranno tutti! Uso sempre più spesso il riso nero o rosso, soprattutto per le insalate di riso. È molto più saporito e sano. I tempi di cottura sono leggermente più lunghi ma ne vale la pena. Va benissimo anche il classico condimento con sott'aceti ma per cambiare, questa ricetta è veramente ottima! Poi l'insalata di riso è così comoda da portare che in estate la faccio spessissimo e cerco sempre di cambiare per non farla stufare... 
 
@@ -25,7 +25,7 @@ Domani ultimo giorno di asilo e poi iniziano le vacanze estive. Finalmente! Cinq
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Insalata di Riso Nero con Zucchine, Pomodori Secchi e Feta</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2018-07-12-insalata-di-riso-nero-con-zucchine-pomodori-secchi-e-feta/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Insalata di Riso Nero con Zucchine, Pomodori Secchi e Feta un piatto colorato, fresco, sano e gustoso!</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -80,18 +80,18 @@ Domani ultimo giorno di asilo e poi iniziano le vacanze estive. Finalmente! Cinq
 </h3>
 
 Cuocete il riso nero come indicato sulla confezione. A parte in una padella fate soffriggere la cipolla tritata con un filo d'olio ed un pizzico di sale. Aggiungete la zucchina tagliata a dadini e fatela cuocere a fuoco lento finché si sarà ammorbidita leggermente, deve comunque rimanere croccante. Quando le zucchine saranno cotte aggiungete i pomodori secchi tritati e togliete dai fornelli.
-![](zucchine.jpg "frangipani © Erica")
+![](../2018-07-12-insalata-di-riso-nero-con-zucchine-pomodori-secchi-e-feta/zucchine.jpg "frangipani © Erica")
 
 Versate il riso nero cotto e scolato nella padella con le zucchine, aggiungete il formaggio Feta sbriciolato, il prezzemolo e/o basilico ed un filo d'olio evo e mescolate bene. Mangiatela calda, fredda o tiepida è sempre buona!
-![](risultato1.jpg "frangipani © Erica")
+![](../2018-07-12-insalata-di-riso-nero-con-zucchine-pomodori-secchi-e-feta/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2018-07-12-insalata-di-riso-nero-con-zucchine-pomodori-secchi-e-feta/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2018-07-12-insalata-di-riso-nero-con-zucchine-pomodori-secchi-e-feta/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2018-07-12-insalata-di-riso-nero-con-zucchine-pomodori-secchi-e-feta/risultato4.jpg "frangipani © Erica")
 
-![](risultato5.jpg "frangipani © Erica")
+![](../2018-07-12-insalata-di-riso-nero-con-zucchine-pomodori-secchi-e-feta/risultato5.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

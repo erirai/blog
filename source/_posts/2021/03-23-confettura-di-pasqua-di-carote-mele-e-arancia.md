@@ -15,7 +15,7 @@ categories:
 label: 2021-03-23-confettura-di-pasqua-di-carote-mele-e-arancia
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2021-03-23-confettura-di-pasqua-di-carote-mele-e-arancia/header.jpeg "frangipani © Erica")
 
 **Confettura di Pasqua di Carote, Mele e Arancia** una confettura dal colore arancione acceso, delicata e un ottima idea come regalo di Pasqua. In tedesco viene chiamata "Hasenfrühstück" che tradotto in italiano vuol dire "colazione dei conigli".
 <br />
@@ -30,7 +30,7 @@ Vi auguro buona Pasqua! So che per molti sarà di nuovo una Pasqua da "festeggia
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Confettura di Pasqua di Carote, Mele e Arancia</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2021-03-23-confettura-di-pasqua-di-carote-mele-e-arancia/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Confettura di Pasqua di Carote, Mele e Arancia una confettura dal colore arancione acceso, delicata e un ottima idea come regalo di Pasqua.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -88,9 +88,9 @@ Fate cuocere bene il tutto, se c'è bisogno aggiungete un goccio d'acqua. Quando
 Versate la confettura ancora bollente nei vasetti precedentemente sterilizzati aiutandovi con un imbuto per marmellate, chiudete i vasetti e metteteli sottosopra per creare un sottovuoto. 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 32%; margin-right: 1%;" src="pentola.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="gelificata.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-left: 1%;" src="vasetti.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%;" src="../2021-03-23-confettura-di-pasqua-di-carote-mele-e-arancia/pentola.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="../2021-03-23-confettura-di-pasqua-di-carote-mele-e-arancia/gelificata.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-left: 1%;" src="../2021-03-23-confettura-di-pasqua-di-carote-mele-e-arancia/vasetti.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -98,31 +98,31 @@ Versate la confettura ancora bollente nei vasetti precedentemente sterilizzati a
 Appena si è raffreddata potete girare i vasetti.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-03-23-confettura-di-pasqua-di-carote-mele-e-arancia/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-03-23-confettura-di-pasqua-di-carote-mele-e-arancia/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-03-23-confettura-di-pasqua-di-carote-mele-e-arancia/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-03-23-confettura-di-pasqua-di-carote-mele-e-arancia/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato5.jpeg "frangipani © Erica")
+![](../2021-03-23-confettura-di-pasqua-di-carote-mele-e-arancia/risultato5.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-03-23-confettura-di-pasqua-di-carote-mele-e-arancia/risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-03-23-confettura-di-pasqua-di-carote-mele-e-arancia/risultato7.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato8.jpeg "frangipani © Erica")
+![](../2021-03-23-confettura-di-pasqua-di-carote-mele-e-arancia/risultato8.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

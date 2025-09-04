@@ -10,7 +10,7 @@ categories:
 - "Crostate, Tartes..."
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2015-09-25-strudel-di-mele-con-salsa-alla-vaniglia/header.jpg "frangipani © Erica")
 
 > Grazie Padrino e Madrina per le meravigliose e gustosissime mele!
 
@@ -128,31 +128,31 @@ Non è bello l'autunno?! A me piace tanto... Oggi è proprio freschetto, c'era l
 </h3>
 
 Iniziate preparando la Pasta per Strudel: fate sciogliere la margarina in un pentolino, giusto il tempo di sciogliersi, non deve bollire. Mettete nella planetaria il resto degli ingredienti per l'impasto, iniziate ad impastare poi aggiungete a filo la margarina fusa e continuate ad impastare. Quando tutto si sarà ben amalgamato, passate il tutto su di un piano di lavoro e continuate ad impastare con le mani, finché l'impasto risulerà bello elastico.
-![](impasto.jpg "frangipani © Erica")
+![](../2015-09-25-strudel-di-mele-con-salsa-alla-vaniglia/impasto.jpg "frangipani © Erica")
 
 Coprite il panetto con una coppa o una pentola calda ma asciutta (lavata con dell'acqua calda o messa subito in forno) e lasciate riposare per mezz'oretta.
-![](coperto.jpg "frangipani © Erica")
+![](../2015-09-25-strudel-di-mele-con-salsa-alla-vaniglia/coperto.jpg "frangipani © Erica")
 
 Nel frattempo preparate il ripieno: pelate tutte le mele, taglitele in quatro e togliete il torsolo. Poi tagliate il tutto a fettine e mettete in una coppa, aggiungete le mandorle macinate, l'uvetta, lo zucchero, lo zucchero vanigliato, qualche goccia di aroma di rum, il succo di limone e un pizzico di cannella, mescolate tutto e mettete da parte.
-![](mele.jpg "frangipani © Erica")
+![](../2015-09-25-strudel-di-mele-con-salsa-alla-vaniglia/mele.jpg "frangipani © Erica")
 
 Prendete l'impasto per strudel e iniziate a stenderelo con un mattarello. Dovrete ottenere un rettangolo più fine possibile. Poi spennellatelo con ca. un terzo della margarina fusa, il resto vi servirà dopo. Ricoprite tutto il rettangolo con il pangrattato.
-![](steso.jpg "frangipani © Erica")
+![](../2015-09-25-strudel-di-mele-con-salsa-alla-vaniglia/steso.jpg "frangipani © Erica")
 
 Poi mettete le mele, lasciando un bordo di ca. 3cm. Ripiegate il bordo tutto a torno e poi iniziate ad arrotolare il tutto.
-![](arrotolare.jpg "frangipani © Erica")
+![](../2015-09-25-strudel-di-mele-con-salsa-alla-vaniglia/arrotolare.jpg "frangipani © Erica")
 
 Quando lo avrete arrotolato, mettetelo su di una leccarda con sotto della carta fono, facendo attenzione a mettere la giuntura verso sotto. Se volete, fate qualche taglietto e poi spennelate la superficie con la metà della margarina rimasta, il resto vi servirà dopo.
-![](teglia.jpg "frangipani © Erica")
+![](../2015-09-25-strudel-di-mele-con-salsa-alla-vaniglia/teglia.jpg "frangipani © Erica")
 
 Infornate il tutto nel forno preriscaldato statico a 180° per ca. 50min. Dopo 25min tirate fuori lo strudel e spennellatelo con il resto della margarina ed infornatelo di nuovo per altri 25min o almeno finché si sarà dorato.
-![](cotto.jpg "frangipani © Erica")
+![](../2015-09-25-strudel-di-mele-con-salsa-alla-vaniglia/cotto.jpg "frangipani © Erica")
 
 Appena avrete sfornato lo strudel preparate la salsa alla vaniglia, in questo modo sia lo strudel che la salsa saranno caldi e ottimali da mangiare. Mettete 400ml di latte di mandorla in un pentolino con lo zucchero, la bacca di vaniglia precedentemente tagliata a metà e un pizzico di curcuma, portate ad ebollizione. In una coppetta a parte fate sciogliere l'amido di mais nel resto del latte. Appena il latte bolle, aggiungete il restante latte con l'amido e continuate a mescolare. Appena si sarà addensato, togliete dai fuochi. Non dovrà essere densa come una crema, ma resterà abbastanza liquida, essendo una salsa.
-![](salsa.jpg "frangipani © Erica")
+![](../2015-09-25-strudel-di-mele-con-salsa-alla-vaniglia/salsa.jpg "frangipani © Erica")
 
 Mettete una bella spolverata di zucchero a velo sullo strudel, taglitelo a fette, mettete un bel po' di salsa alla vaniglia e servite il tutto ancora caldo.
-![](risultato.jpg "frangipani © Erica")
+![](../2015-09-25-strudel-di-mele-con-salsa-alla-vaniglia/risultato.jpg "frangipani © Erica")
 
 
 

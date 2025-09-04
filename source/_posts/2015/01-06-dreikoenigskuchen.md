@@ -12,7 +12,7 @@ categories:
 label: 2015-01-06-dreikoenigskuchen
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2015-01-06-dreikoenigskuchen/header.jpeg "frangipani © Erica")
 
 **Dreikönigskuchen vegano (Corona dei Re Magi)** il dolce tipico svizzero per il 6 Gennaio, ovvero la giornata dei Re Magi.
 
@@ -25,7 +25,7 @@ La tradizione di una torta dei Re Magi esiste anche in altri paesi tipo la Galet
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Dreikönigskuchen vegano (Corona dei Re Magi)</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2015-01-06-dreikoenigskuchen/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Dreikönigskuchen vegano (Corona dei Re Magi), il dolce tipico svizzero per il 6 Gennaio, ovvero la giornata dei Re Magi.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -85,8 +85,8 @@ Dividete l'impasto in 8 parti da 80gr formando delle palline e con il resto dell
 Prendete le 8 palline e adagiatele attorno alla palla centrale. A questo punto coprite e fate lievitare per 1h. Prima di infornare spennellate la superficie con del latte vegetale.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="remagio.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2015-01-06-dreikoenigskuchen/remagio.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2015-01-06-dreikoenigskuchen/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -94,40 +94,40 @@ Prendete le 8 palline e adagiatele attorno alla palla centrale. A questo punto c
 Poi infornate nel forno preriscaldato a 180°C statico per ca. 30-40min, dipende dalla grandezza. Poi, freddo o caldo, fate prendere ad ogni uno un panino e chi trova la mandorla o il Re Magio potrà mettersi la corona per tutto il giorno!
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2015-01-06-dreikoenigskuchen/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2015-01-06-dreikoenigskuchen/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2015-01-06-dreikoenigskuchen/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2015-01-06-dreikoenigskuchen/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2015-01-06-dreikoenigskuchen/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2015-01-06-dreikoenigskuchen/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2015-01-06-dreikoenigskuchen/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2015-01-06-dreikoenigskuchen/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2015-01-06-dreikoenigskuchen/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2015-01-06-dreikoenigskuchen/risultato10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

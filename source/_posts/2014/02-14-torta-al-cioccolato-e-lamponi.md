@@ -12,7 +12,7 @@ categories:
 - Torte
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2014-02-14-torta-al-cioccolato-e-lamponi/header.jpg "frangipani © Erica")
 
 > Buon San Valentino a tutti!
 
@@ -92,17 +92,17 @@ Dato che mia sorella e mio tra poco cognato sono vegani, mi sono comprata un lib
 
 Mettete il latte, l'olio e la marmellata in un pentolino e fatelo riscaldare. Nel frattempo setacciate la farina, il cacao, il lievito ed il bicarbonato e mettete tutto in una ciotola capiente, poi aggiungete lo zucchero, lo zucchero vanigliato ed il sale e mescolate bene. Quando i liquidi saranno caldi, versate il tutto negli ingredienti asciutti e mischiate bene!
 Imburrate e infarinate bene una teglia rotonda da ca. 24cm e riempitela con l'impasto. 
-![](impasto.jpg "frangipani © Erica")
+![](../2014-02-14-torta-al-cioccolato-e-lamponi/impasto.jpg "frangipani © Erica")
 
 Infornate la torta nel forno preriscaldato a 180°C per ca. 35min. Mi raccomando fate sempre la prova stecchino.
-![](sfornata.jpg "frangipani © Erica")
+![](../2014-02-14-torta-al-cioccolato-e-lamponi/sfornata.jpg "frangipani © Erica")
 
 Quando la torta sarà fredda, fate sciogliere a bagnomaria il cioccolato. Mettete la torta un poco rialzata, così il cioccolato in eccesso potrà cadere, e coprite la torta con il cioccolato. Cercate di sostenere da sotto il centro della torta in modo che non si rompa.
-![](glassare.jpg "frangipani © Erica")
+![](../2014-02-14-torta-al-cioccolato-e-lamponi/glassare.jpg "frangipani © Erica")
 
-![](glassa.jpg "frangipani © Erica")
+![](../2014-02-14-torta-al-cioccolato-e-lamponi/glassa.jpg "frangipani © Erica")
 Decorate la torta a vostro piacere...
-![](risultato.jpg "frangipani © Erica")
+![](../2014-02-14-torta-al-cioccolato-e-lamponi/risultato.jpg "frangipani © Erica")
 
 
 <h3>

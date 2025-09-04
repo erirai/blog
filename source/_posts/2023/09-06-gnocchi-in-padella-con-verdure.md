@@ -14,7 +14,7 @@ categories:
 label: 2023-09-06-gnocchi-in-padella-con-verdure
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2023-09-06-gnocchi-in-padella-con-verdure/header.jpeg "frangipani © Erica")
 
 **Gnocchi in Padella con Verdure** un primo piatto molto gustoso e vegano, pieno di verdure e morbidi gnocchi. Questo è un modo sfizioso per preparare gli gnocchi, che solitamente si mangiano solo bolliti con condimento a piacere. In questo caso però li ho prima bolliti e poi passati in padella per renderli belli croccanti. Così facendo avranno un una crosticina, ma al centro rimarranno comunque morbidi, così come conosciamo gli gnocchi.
 
@@ -28,7 +28,7 @@ E la cosa bella di Settembre è proprio questa: fa ancora caldo, quindi possiamo
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Gnocchi in Padella con Verdure</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2023-09-06-gnocchi-in-padella-con-verdure/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Gnocchi in Padella con Verdure, un primo piatto molto gustoso e vegano, pieno di verdure e gnocchi croccanti e morbidi.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -107,15 +107,15 @@ E la cosa bella di Settembre è proprio questa: fa ancora caldo, quindi possiamo
 </h3>
 
 Per prima cosa preparate gli gnocchi: lavate bene le patate (con la buccia) e fatele bollire finché saranno cotte. Scolatele e fatele riposare un attimino, poi pelatele ancora calde, passatele nello schiacciapatate e raccoglietele in una coppa capiente. Fate intiepidire le patate schiacciate, poi aggiungete la noce moscata, se volete del parmigiano grattugiato e un po' di farina. Iniziate ad impastare con le mani e man mano aggiungete altra farina finché l'impasto degli gnocchi non sarà più appiccicoso, ma ancora morbido. Prendete un pezzetto dell'impasto, formate un salsicciotto non troppo sottile e tagliatelo a tocchetti . Metteteli da parte, spolverateci sopra un po' di farina e fateli riposare un po'.
-![](gnocchi.jpeg "frangipani © Erica")
+![](../2023-09-06-gnocchi-in-padella-con-verdure/gnocchi.jpeg "frangipani © Erica")
 
 Preparate il condimento: Lavate e pulite tutte le verdure, tagliate finemente la cipolla e a pezzettini il peperone, staccate e tagliate le cimette del broccolo, pelate lo stelo del broccolo e tagliatelo a pezzetti, tagliate a metà i pomodorini. In una padella capiente mettete un abbondante filo d'olio, la cipolla ed una spolverata di sale. Fate soffriggere la cipolla, poi aggiungete le verdure, fate rosolare un attimo, aggiungete un pochino d'acqua, coprite e fate cuocere a temperatura media. Se c'è bisogno aggiungete altra acqua, poca alla volta, alla fine il sughetto non dovrà essere troppo liquido. Aggiungete la panna vegetale, aggiustate di sale e paprika e lasciatelo sui fornelli a temperatura bassissima.
 <br />
 Prendete una pentola abbastanza grande, fate bollire dell'acqua e poi salate. Prendete un po' di gnocchi alla volta e buttateli nell'acqua bollente. Quando gli gnocchi verranno a galla scolateli con una schiumarola e metteteli in una padella già calda leggermente unta. Fate abbrustolire gli gnocchi, finché avranno una leggera crosticina, non dovranno bruciarsi però. Versate gli gnocchi abbrustoliti nel condimento e continuate finché avrete cotto ed abbrustolito tutti gli gnocchi.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="condimento.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="padella.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-09-06-gnocchi-in-padella-con-verdure/condimento.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-09-06-gnocchi-in-padella-con-verdure/padella.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -123,24 +123,24 @@ Prendete una pentola abbastanza grande, fate bollire dell'acqua e poi salate. Pr
 Amalgamate bene il tutto e finite aggiungendo del basilico spezzettato, poi impiattate.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-09-06-gnocchi-in-padella-con-verdure/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-09-06-gnocchi-in-padella-con-verdure/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-09-06-gnocchi-in-padella-con-verdure/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-09-06-gnocchi-in-padella-con-verdure/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-09-06-gnocchi-in-padella-con-verdure/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-09-06-gnocchi-in-padella-con-verdure/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

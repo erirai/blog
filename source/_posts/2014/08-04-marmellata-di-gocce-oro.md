@@ -11,7 +11,7 @@ categories:
 - Conserve
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2014-08-04-marmellata-di-gocce-oro/header.jpg "frangipani © Erica")
 
 > Grazie Nonno Alfredo per le Gocce d'Oro!
 
@@ -65,17 +65,17 @@ Il nonno di mio marito qualche giorno fa ci ha portato un bel po' queste fantast
 Ci tengo a precisare che il procedimento dipende sempre dal gelificante. Io vi mostro il procedimento come scritto sulla bustina del gelificante che uso io. Voi mi raccomando fatelo come scritto sulla busta che usate voi!
 Lavate la frutta e togliete tutti i noccioli. Se volete frullare la marmellata allora lasciate la frutta così com'è. Se invece la volete lasciare con i pezzetti, allora dovete tagliare a pezzetti piccolini le Gocce d'Oro.
 Mettete la frutta e il succo di limone in una pentola capiente. Tagliate a metà la stecca di vaniglia, tirate fuori i semini aiutandovi con un coltello e metteteli nella pentola insieme alla stecca e la stecca di cannella. Poi aggiungete il gelificante e incorporatelo bene. Bisogna usare una pentola abbastanza capiente perché la frutta quando cucina ha il vizio di fare la schiuma.
-![](frutta.jpg "frangipani © Erica")
+![](../2014-08-04-marmellata-di-gocce-oro/frutta.jpg "frangipani © Erica")
 
 Fate cucinare bene la frutta. Se non vi piaciono i pezzettini, frullatela adesso con il mixer ad immersione (togliete prima la stecca di vaniglia e di cannella), se no lasciatela così com'è. Poi aggiungete lo zucchero e fatelo sciogliere bene.
 Fatela cucinare ancora per un po'. Prendete un cucchiaio e fate la prova se la marmellata si è gelificata abbastanza: se la marmellata resta appiccicata al cucchiaio e si gelifica subito è pronta e potete toglierla dai fornelli.
-![](gelificata.jpg "frangipani © Erica")
+![](../2014-08-04-marmellata-di-gocce-oro/gelificata.jpg "frangipani © Erica")
 
 Riempite la marmellata ancora calda nei vasetti precedentemente sterilizzati aiutandovi con un imbuto per marmellate, chiudete i vasetti e metteteli sottosopra per creare un sottovuoto.
-![](bocce.jpg "frangipani © Erica")
+![](../2014-08-04-marmellata-di-gocce-oro/bocce.jpg "frangipani © Erica")
 
 Appena si è raffreddata potete girare i vasetti... Dato che c'è la cannella penso sia più adatta per l'autunno, ma è questione di gusti!
-![](risultato.jpg "frangipani © Erica")
+![](../2014-08-04-marmellata-di-gocce-oro/risultato.jpg "frangipani © Erica")
 
 <h3>
   <font color="#FFCC00">

@@ -11,7 +11,7 @@ categories:
 label: 2017-10-13-crostata-al-cioccolato-di-ernst-knam
 lang: it 
 ---
-![](header.jpg "frangipani © Erica")
+![](../2017-10-13-crostata-al-cioccolato-di-ernst-knam/header.jpg "frangipani © Erica")
 
 Allora, vi racconto una piccola storia... Qualche settimana fa mia sorella mi ha mandato una foto di una torta al cioccolato. Sembrava molto buona, ma le ho mandato la foto della Crostata al Cioccolato di Ernst Knam dicendole di volerla fare a Novembre. Dovete sapere che mia sorella è di nuovo incinta e a febbraio diventerò zia per la seconda volta, che bello! Il fatto di voler fare questa crostata a novembre non le è piaciuto molto e noi tutti sappiamo cosa succede quando una donna incinta ha voglia di qualcosa... Quindi invece di tenermi questa ricetta per novembre, dato che in quel mese mi mancano sempre le idee su cosa cucinare, l'ho fatta subito. Ma la bontà di questa crostata?! È uno di quei famosi dolci "death by chocolate". Cioccolosità pura! La sua preparazione è facile, ma richiede un po' di tempo per fare riposare la frolla e fare raffreddare la crema pasticcera. La cosa meravigliosa di questa crostata, a parte il gusto, è il contrasto tra il croccante della pasta frolla e la cremosità della crema. Per questo motivo va mangiata subito, appena fatta calda o a temperatura ambiente. Il giorno dopo si è ancora buona, ma la frolla diventa più morbida e perde tutta la sua croccantezza. Amanti del cioccolato, fate questa Crostata al Cioccolato, diventerà il vostro dolce preferito!
 
@@ -110,25 +110,25 @@ Allora, vi racconto una piccola storia... Qualche settimana fa mia sorella mi ha
 Per prima cosa preparate la pasta frolla. In una ciotola con le fruste elettriche mescolate il burro con lo zucchero e la vaniglia. Aggiungete l'uovo ed un pizzico di sale e mescolate finché l'uovo non sarà perfettamente incorporato. A questo punto aggiungete il lievito, la farina ed il cacao e impastate velocemente con le mani. Formate un penetto, avvolgetelo con della pellicola trasparente e mettete in frigo per almeno 2 ore.
 
 Dunque preparate la crema pasticcera. Riscaldate il latte insieme ai semini della stecca di vaniglia, poi mettetelo da parte. In una ciotola a parte mescolate i tuorli con lo zucchero finché il composto diventerà bello gonfio e spumoso. Aggiungete la farina e la fecola e finite di mescolare il tutto. Unite a filo il latte caldo, mescolate bene e versate il tutto in un tegame. Fate cuocere la crema pasticcera a temperatura moderata sempre mescolando. Quando si sarà addensata, versatela in una ciotola, copritela a contatto con della pellicola trasparente e fatela raffeddare.
-![](cremapasticcera.jpg "frangipani © Erica")
+![](../2017-10-13-crostata-al-cioccolato-di-ernst-knam/cremapasticcera.jpg "frangipani © Erica")
 
 Preparate la Ganache. Riscaldate la panna arrivando quasi a bollore, poi togliete dai fuochi e versate nella panna bollente il cioccolato tritato. Aspettate un attimino e mescolate finché avrete una crema bella liscia e lucida.
-![](ganache.jpg "frangipani © Erica")
+![](../2017-10-13-crostata-al-cioccolato-di-ernst-knam/ganache.jpg "frangipani © Erica")
 
 Unite la Ganache alla crema pasticcera e mescolate bene, ottenendo una crema liscia ed omogenea.
-![](farcia.jpg "frangipani © Erica")
+![](../2017-10-13-crostata-al-cioccolato-di-ernst-knam/farcia.jpg "frangipani © Erica")
 
 Tirate fuori dal frigo la pasta frolla e stendetela fino ad uno spessore di 4mm. Rivestite una teglia rotonda ricoperta con della carta forno aggiustando bene i bordi. Versate la crema al cioccolato nella teglia e con i resti della pasta frolla formate delle strisce e disponetele a griglia sulla farcia.
-![](teglia2.jpg "frangipani © Erica")
+![](../2017-10-13-crostata-al-cioccolato-di-ernst-knam/teglia2.jpg "frangipani © Erica")
 
 Infornate la Crostata al Cioccolato nel forno preriscaldato a 180°C ventilato per circa 40min. Mangiate questa torta ancora calda o a temperatura ambiente.
-![](risultato1.jpg "frangipani © Erica")
+![](../2017-10-13-crostata-al-cioccolato-di-ernst-knam/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2017-10-13-crostata-al-cioccolato-di-ernst-knam/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2017-10-13-crostata-al-cioccolato-di-ernst-knam/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2017-10-13-crostata-al-cioccolato-di-ernst-knam/risultato4.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

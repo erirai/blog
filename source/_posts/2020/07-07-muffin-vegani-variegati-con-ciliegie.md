@@ -12,7 +12,7 @@ categories:
 label: 2020-07-07-muffin-vegani-variegati-con-ciliegie
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2020-07-07-muffin-vegani-variegati-con-ciliegie/header.jpeg "frangipani © Erica")
 
 **Muffin vegani variegati con Ciliegie** perfetti per la colazione o per la merenda. Super buoni e sofficissimi, vegani e con ingredienti semplicissimi. Le ciliegie li rendono speciali, ma al posto delle ciliegie si possono mettere anche fragole, lamponi, more o mirtilli.
 <br />
@@ -27,7 +27,7 @@ Le ciliegie le ha portate il nonno di mio marito, raccolte dal loro giardino. È
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Muffin vegani variegati con Ciliegie</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-07-07-muffin-vegani-variegati-con-ciliegie/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Muffin vegani variegati con Ciliegie perfetti per la colazione o per la merenda. Super buoni e sofficissimi, vegani e con ingredienti semplicissimi.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -95,29 +95,29 @@ Le ciliegie le ha portate il nonno di mio marito, raccolte dal loro giardino. È
 Mettete in una ciotola la farina, la fecola di patate, lo zucchero di canna, il lievito, la vaniglia ed un pizzico di sale e mescolate tutto. Aggiungete poi il latte vegetale e l'olio e mescolate bene con un cucchiaio. Dividete l'impasto in due parti uguali e in una parte aggiungete il cacao amaro e mescolate bene.
 <br />
 Mettete un cucchiaino di tutti e due gli impasti in ogni pirottino e con uno stecchino fate qualche giro. Aggiungete due ciliegie denocciolate in ogni pirottino, poi coprite con un cucchiaino di tutti e due gli impasti e fate di nuovo qualche giro con uno stecchino. Finite con altre due ciliegie denocciolate (la quantità delle ciliegie dipende dalla grandezza delle ciliegie, io ne ho messe 4 in ogni pirottino).
-![](teglia.jpeg "frangipani © Erica")
+![](../2020-07-07-muffin-vegani-variegati-con-ciliegie/teglia.jpeg "frangipani © Erica")
 
 Infornate a 200°C statico per ca. 20min, mi raccomando fate sempre la prova stecchino, poi sfornateli e fateli raffreddare. Se volete, a parte montate la panna con un pochettino di zucchero a velo. Una volta freddi, mettete un bel cucchiaino di panna montata sui muffin e servite... Conservateli in frigo chiusi in un contenitore ermetico.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-07-07-muffin-vegani-variegati-con-ciliegie/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-07-07-muffin-vegani-variegati-con-ciliegie/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-07-07-muffin-vegani-variegati-con-ciliegie/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-07-07-muffin-vegani-variegati-con-ciliegie/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-07-07-muffin-vegani-variegati-con-ciliegie/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-07-07-muffin-vegani-variegati-con-ciliegie/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

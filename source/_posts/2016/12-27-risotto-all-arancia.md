@@ -14,7 +14,7 @@ categories:
 label: 2016-12-27-risotto-all-
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2016-12-27-risotto-all-arancia/header.jpg "frangipani © Erica")
 
 Due anni fa a natale, ho servito questo Risotto all'Arancia. È piaciuto molto e da allora lo faccio spesso, non solo per cene speciali. È un modo per usare le arance anche nelle praparazioni salate. Perché le arance non sono buone solo nei dolci, ma anche nelle insalate, col risotto o anche con la pasta. Il periodo delle arance purtroppo è corto, quindi usiamole più che possiamo e non buttiamo niente dell'arancia. Va mangiata possibilmente con la pellicina bianca, i semini potete provare a piantarli e far crescere il vostro arancio personale e la scorza la potete essiccare e aromatizzare sale e zucchero o per profumare casa. Non vi resta che provare questo risotto, magari per una cena speciale...
 
@@ -64,12 +64,12 @@ Due anni fa a natale, ho servito questo Risotto all'Arancia. È piaciuto molto e
 </h3>
 
 Tagliate finemente la cipolla e fatela soffriggere con un filo d'olio evo e un pizzico di sale. Aggiungete il riso e fatelo tostare per un minuto sempre mescolando. Adesso aggiungete il succo delle due arance e un rametto di rosmarino. Fate cucinare il riso a fiamma moderata aggiungendo a mano a mano altra acqua bollente e mescolando di tanto in tanto.
-![](risotto.jpg "frangipani © Erica")
+![](../2016-12-27-risotto-all-arancia/risotto.jpg "frangipani © Erica")
 
 Quasi a fine cottura, aggiungete la scorza di un'arancia, togliete il rametto di rosmarino e aggiustate di sale. Impiattate, aggiungete una grattugiata di scorza d'arancia e decorate con una fettina d'arancia e un ramettino di rosmarino.
-![](risultato1.jpg "frangipani © Erica")
+![](../2016-12-27-risotto-all-arancia/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2016-12-27-risotto-all-arancia/risultato2.jpg "frangipani © Erica")
 
 
 <h4>Buon appetito

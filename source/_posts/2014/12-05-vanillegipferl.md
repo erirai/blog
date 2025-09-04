@@ -12,7 +12,7 @@ categories:
 label: 2014-12-05-vanillegipferl
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2014-12-05-vanillegipferl/header.jpeg "frangipani © Erica")
 
 **Vanillegipferl vegani** dei semplicissimi biscotti secchi alle nocciole e vaniglia a forma di luna. Anzi a forma di cornettini, perché Gipferl sarebbe il nome tedesco/austriaco del cornetto.
 <br />
@@ -23,7 +23,7 @@ Oggi si continua con la produzione di biscotti, ma con un grandissimo classico..
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Vanillegipferl vegani</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2014-12-05-vanillegipferl/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Vanillegipferl vegani, dei semplicissimi biscotti secchi alle nocciole e vaniglia a forma di luna.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -85,8 +85,8 @@ Mettete farina, nocciole, zucchero a velo (100gr), sale e vaniglia in una ciotol
 Passata l'ora prendete il panetto e poco a poco fate dei salsicciotti, poi tagliate dei pezzi da ca. 5cm, lavorate ogni pezzettino con il palmo della mano per formare i cornettini.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="impasto.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="forme.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-12-05-vanillegipferl/impasto.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-12-05-vanillegipferl/forme.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -96,8 +96,8 @@ Metteteli su di una teglia con sotto della carta forno e infornateli nel forno p
 Mentre i biscotti sono in forno preparate lo zucchero vanigliato: prendete lo zucchero a velo, lo zucchero semolato e lo zucchero vanigliato (o della vaniglia macinata) e mescolate il tutto. Appena sfornate i biscotti ricoprite generosamente i cornetti con lo zucchero vanigliato e fateli raffreddare completamente così.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="zucchero.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-12-05-vanillegipferl/teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-12-05-vanillegipferl/zucchero.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -105,24 +105,24 @@ Mentre i biscotti sono in forno preparate lo zucchero vanigliato: prendete lo zu
 Fate attenzione quando togliete i biscotti dalla teglia che si rompono molto facilmente e non sbatteteli troppo in modo che rimanga più zucchero possibile sui biscotti. Se non mi sbaglio in Italia si trova lo zucchero a velo vanigliato che qui non esiste, va benissimo anche quello con un po' di zucchero semolato.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-12-05-vanillegipferl/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-12-05-vanillegipferl/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-12-05-vanillegipferl/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-12-05-vanillegipferl/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-12-05-vanillegipferl/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-12-05-vanillegipferl/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

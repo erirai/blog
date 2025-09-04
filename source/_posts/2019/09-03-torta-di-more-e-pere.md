@@ -12,7 +12,7 @@ categories:
 label: 2019-09-03-torta-di-more-e-pere
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2019-09-03-torta-di-more-e-pere/header.jpeg "frangipani © Erica")
 
 > Benvenuto Settembre e buon anniversario a noi!
 
@@ -28,7 +28,7 @@ Auguri a noi! Ti amo tanto!
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Torta di More e Pere</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2019-09-03-torta-di-more-e-pere/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Torta di More e Pere friabile con un ripieno fruttoso e goloso! Le pere si sciolgono in bocca e le more danno quel tocco si succosità e acidità che ci sta perfettamente.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -119,8 +119,8 @@ Lavate e pelate le pere, eliminate la parte centrale e tagliatele a cubetti. Met
 Prendete il panetto di frolla più grande e stendetelo tra due fogli di carta forno formando un disco da 20cm. Rivestite una teglia tonda da 18cm con della carta forno bagnata e strizzata, poi ricoprite con la pasta frolla. Distribuite sul fondo i biscotti ridotti in polvere (assorbiranno i liquidi della frutta).
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="peremore.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="biscotti.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2019-09-03-torta-di-more-e-pere/peremore.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2019-09-03-torta-di-more-e-pere/biscotti.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -128,32 +128,32 @@ Prendete il panetto di frolla più grande e stendetelo tra due fogli di carta fo
 Aggiungete la frutta, attenzione a non prendere troppo succo. Poi stendete il secondo panetto tra due fogli di carta forno formando un disco da 18cm. Appoggiate il disco sulla frutta e sigillate bene tutto il bordo. Spennellate la superficie con del latte e finite con una spolverata di zucchero.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="farcia.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2019-09-03-torta-di-more-e-pere/farcia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2019-09-03-torta-di-more-e-pere/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 Infornate la torta di more e pere nel forno preriscaldato a 200°C statico per 40min. Se dopo 25min vedete che ha già preso un bel colore, spostatela nella parte bassa del forno e ultimate la cottura. Fatela arrivare a temperatura ambiete prima di tagliarla e servitela con una <a href="https://frangipani.raiano.ch/2015-09-25-strudel-di-mele-con-salsa-alla-vaniglia/" target="_blank">salsa alla vaniglia</a>.
-![](risultato1.jpeg "frangipani © Erica")
+![](../2019-09-03-torta-di-more-e-pere/risultato1.jpeg "frangipani © Erica")
 
-![](risultato2.jpeg "frangipani © Erica")
+![](../2019-09-03-torta-di-more-e-pere/risultato2.jpeg "frangipani © Erica")
 
-![](risultato3.jpeg "frangipani © Erica")
+![](../2019-09-03-torta-di-more-e-pere/risultato3.jpeg "frangipani © Erica")
 
-![](risultato4.jpeg "frangipani © Erica")
+![](../2019-09-03-torta-di-more-e-pere/risultato4.jpeg "frangipani © Erica")
 
-![](risultato5.jpeg "frangipani © Erica")
+![](../2019-09-03-torta-di-more-e-pere/risultato5.jpeg "frangipani © Erica")
 
-![](risultato6.jpeg "frangipani © Erica")
+![](../2019-09-03-torta-di-more-e-pere/risultato6.jpeg "frangipani © Erica")
 
-![](risultato7.jpeg "frangipani © Erica")
+![](../2019-09-03-torta-di-more-e-pere/risultato7.jpeg "frangipani © Erica")
 
-![](risultato8.jpeg "frangipani © Erica")
+![](../2019-09-03-torta-di-more-e-pere/risultato8.jpeg "frangipani © Erica")
 
-![](risultato9.jpeg "frangipani © Erica")
+![](../2019-09-03-torta-di-more-e-pere/risultato9.jpeg "frangipani © Erica")
 
-![](risultato10.jpeg "frangipani © Erica")
+![](../2019-09-03-torta-di-more-e-pere/risultato10.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

@@ -13,7 +13,7 @@ categories:
 label: 2016-11-23-cupcakes-rocher
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2016-11-23-cupcakes-rocher/header.jpg "frangipani © Erica")
 
 Mio marito mi ha chiesto di preparare un dolce da portare in ufficio. Però voleva un dolce con il logo del loro servizio di traduzione <a href="http://locize.com" target="_blank">locize.com</a>. Ero indecisa se fare una torta tutta ricoperta di pasta di zucchero o dei Cupcakes. Alla fine ho deciso di fare dei Cupcakes e ho fatto stampare il logo da <a href="http://www.tortenfotos.ch" target="_blank">Tortenfotos</a>. 
 
@@ -110,36 +110,36 @@ L'idea del gusto Rocher però, mi è venuta mentre guardavo la loro pubblicità.
 
 Prendete una ciotola capiente e versateci la farina, lo zucchero, le nocciole macinate, il lievito, il bicarbonato, la vaniglia ed il sale e mescolate il tutto.
 Poi aggiungete l'aceto, l'olio di semi ed il latte alla nocciola e mescolate finché avrete un impasto bello liscio.
-![](impasto.jpg "frangipani © Erica")
+![](../2016-11-23-cupcakes-rocher/impasto.jpg "frangipani © Erica")
 
 Mettete i pirottini di carta nella teglia per muffin e riempite fino a metà con l'impasto. Mettete al centro di ogni pirottino un Ferrero Rocher congelato e ricoprite con il resto dell'impasto.
-![](pirottini.jpg "frangipani © Erica")
+![](../2016-11-23-cupcakes-rocher/pirottini.jpg "frangipani © Erica")
 
-![](teglia.jpg "frangipani © Erica")
+![](../2016-11-23-cupcakes-rocher/teglia.jpg "frangipani © Erica")
 
 Adesso infornateli nel forno preriscaldato a 180°C statico per ca. 20min, mi raccomando fate sempre la prova stecchino e fateli raffreddare su di una griglia.
-![](muffin.jpg "frangipani © Erica")
+![](../2016-11-23-cupcakes-rocher/muffin.jpg "frangipani © Erica")
 
 Per il Frosting al cioccolato preparate una classica Ganache: mettete a riscaldare la panna in un pentolino e portatela quasi ad ebollizione. Nel frattempo sminuzzate il cioccolato e mettetelo in una coppa. Poi versate la panna bollente nella coppa con il cioccolato.
-![](pannaecioccolato.jpg "frangipani © Erica")
+![](../2016-11-23-cupcakes-rocher/pannaecioccolato.jpg "frangipani © Erica")
 
 Aspettate qualche secondo, poi iniziate a mescolare finché il cioccolato non sarà completamente sciolto e avrete un composto liscio e lucido, la Ganache. Poi mettetela da parte e fatela raffreddare, ma non in frigo.
-![](ganache.jpg "frangipani © Erica")
+![](../2016-11-23-cupcakes-rocher/ganache.jpg "frangipani © Erica")
 
 In un'altra coppa mettete il mascarpone, il formaggio spalmabile e lo zucchero a velo. Con le fruste elettriche amalgamate il tutto, finché sarà bello cremoso. Poi aggiungete la Ganache fredda e amalgamate bene, poi fate riposare in frigo.
-![](frosting.jpg "frangipani © Erica")
+![](../2016-11-23-cupcakes-rocher/frosting.jpg "frangipani © Erica")
 
 Quando i Muffin saranno completamente freddi, passate il Frosting in un sac à poche e decorateli, finite con un Ferrero Rocher. Se volete finite con qualche decorazione dorata.
-![](risultato1.jpg "frangipani © Erica")
+![](../2016-11-23-cupcakes-rocher/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2016-11-23-cupcakes-rocher/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2016-11-23-cupcakes-rocher/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2016-11-23-cupcakes-rocher/risultato4.jpg "frangipani © Erica")
 
 Ed ecco i Cupcakes con il logo.
-![](locize.jpg "frangipani © Erica")
+![](../2016-11-23-cupcakes-rocher/locize.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

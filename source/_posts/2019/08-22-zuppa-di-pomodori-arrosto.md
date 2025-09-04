@@ -13,7 +13,7 @@ categories:
 label: 2019-08-22-zuppa-di-pomodori-arrosto
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2019-08-22-zuppa-di-pomodori-arrosto/header.jpeg "frangipani © Erica")
 
 **Zuppa di Pomodori arrosto** per queste giornate di tarda estate che sanno tanto di autunno. Per mangiare qualcosa di caldo e confortevole, gustando ancora la verdura estiva... I pomodori arrosto fanno proprio la differenza perché la zuppa non avrà un gusto sciapo e acquoso, bensì aromatico e corposo. Poi evitate pure di dover stare a lungo ai fornelli a girare la zuppa... Infatti infornate i pomodori, poi mettete il tutto nella pentola, frullate, fate bollire un attimo ed il gioco è fatto! Io amo mangiare questa zuppa con del pane tostato, non ho bisogno d'altro... Questa ricetta me la diede il mio capo più di 6 anni fa, quando ancora lavoravo. Non capiva perché io stessi li a girare e rigirare la zuppa di pomodori senza gusto... Effettivamente aveva ragione! Ne ho approfittato per farla settimana scorsa, il giorno di ferragosto, perché faceva proprio freschetto. Sono andata a prendere tanti pomodori diversi come i ciliegini, cuore di bue, piccadilli... anche di diversi colori! Avevo raccolto pure dell'origano selvatico e l'ho usato, ci stava perfettamente. Non so come siete messi voi con il freddo, ma qui sembra proprio autunno, altro che fine estate! Ma spero proprio che ci sarà ancora qualche giorno di caldo, non ho ancora salutato l'estate come si deve...
 
@@ -27,7 +27,7 @@ Siamo felici anche per te, perché non vedevi l’ora di iniziare e far vedere a
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Zuppa di Pomodori arrosto</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2019-08-22-zuppa-di-pomodori-arrosto/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Zuppa di Pomodori arrosto per queste giornate di tarda estate che sanno tanto di autunno. Per mangiare qualcosa di caldo e confortevole, gustando ancora la verdura estiva...</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -79,26 +79,26 @@ Siamo felici anche per te, perché non vedevi l’ora di iniziare e far vedere a
 Lavate i pomodori, eliminate il picciolo dei pomodori grandi e metteteli in una pirofila. Aggiungete l'origano ed il timo, la cipolla tagliata finemente e l'aglio leggermente schiacciato. Poi un po' di olio e salate. Infornate i pomodori nel forno preriscaldato a 190°C ventilato per 45min, mescolando di tanto in tanto.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="pomodori.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2019-08-22-zuppa-di-pomodori-arrosto/pomodori.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2019-08-22-zuppa-di-pomodori-arrosto/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 A questo punto decidete voi se togliere l'aglio o meno, eliminate gli steli più duri delle erbette e versate tutto il contenuto in una pentola. Frullate il tutto finché avrete una cremina liscia, se c'è bisogno aggiungete ancora acqua e aggiustate di sale. Fate bollire un attimino poi servite con del basilico fresco, un filo d'olio e del pane tostato.
-![](risultato1.jpeg "frangipani © Erica")
+![](../2019-08-22-zuppa-di-pomodori-arrosto/risultato1.jpeg "frangipani © Erica")
 
-![](risultato2.jpeg "frangipani © Erica")
+![](../2019-08-22-zuppa-di-pomodori-arrosto/risultato2.jpeg "frangipani © Erica")
 
-![](risultato3.jpeg "frangipani © Erica")
+![](../2019-08-22-zuppa-di-pomodori-arrosto/risultato3.jpeg "frangipani © Erica")
 
-![](risultato4.jpeg "frangipani © Erica")
+![](../2019-08-22-zuppa-di-pomodori-arrosto/risultato4.jpeg "frangipani © Erica")
 
-![](risultato5.jpeg "frangipani © Erica")
+![](../2019-08-22-zuppa-di-pomodori-arrosto/risultato5.jpeg "frangipani © Erica")
 
-![](risultato6.jpeg "frangipani © Erica")
+![](../2019-08-22-zuppa-di-pomodori-arrosto/risultato6.jpeg "frangipani © Erica")
 
-![](risultato7.jpeg "frangipani © Erica")
+![](../2019-08-22-zuppa-di-pomodori-arrosto/risultato7.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

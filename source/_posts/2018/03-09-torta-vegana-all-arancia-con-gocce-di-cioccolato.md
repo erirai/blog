@@ -13,7 +13,7 @@ categories:
 label: 2017-03-09-torta-vegana-all-arancia-con-gocce-di-cioccolato
 lang: it 
 ---
-![](header.jpg "frangipani © Erica")
+![](../2018-03-09-torta-vegana-all-arancia-con-gocce-di-cioccolato/header.jpg "frangipani © Erica")
 
 > Benvenuta Rachele!
 
@@ -77,20 +77,20 @@ Torta vegana all'Arancia con Gocce di Cioccolato, si prepara in un attimo e piac
 </h3>
 
 Fate sciogliere lo zucchero nel succo d'arancia mischiato con l'acqua, poi aggiungete l'olio e mescolate. In una coppa a parte mettete la farina, il lievito per dolci, tanta scorza d'arancia ed il sale, mescolate e aggiungete anche il miscuglio liquido. Amalgamate bene il tutto con le fruste a mano, poi incorporate delicatamente le gocce di cioccolato infarinate. Versate l'impasto nella teglia precedentemente imburrata ed infarinata.
-![](teglia.jpg "frangipani © Erica")
+![](../2018-03-09-torta-vegana-all-arancia-con-gocce-di-cioccolato/teglia.jpg "frangipani © Erica")
 
 Infornate la torta all'arancia nel forno preriscaldato a 180°C statico per circa 45min, mi raccomando fate la prova stecchino. Fatela intiepidire nella forma stessa, poi scaravoltatela su di un piatto da portata e se volete decorate con del cioccolato sciolto...
-![](risultato1.jpg "frangipani © Erica")
+![](../2018-03-09-torta-vegana-all-arancia-con-gocce-di-cioccolato/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2018-03-09-torta-vegana-all-arancia-con-gocce-di-cioccolato/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2018-03-09-torta-vegana-all-arancia-con-gocce-di-cioccolato/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2018-03-09-torta-vegana-all-arancia-con-gocce-di-cioccolato/risultato4.jpg "frangipani © Erica")
 
-![](risultato5.jpg "frangipani © Erica")
+![](../2018-03-09-torta-vegana-all-arancia-con-gocce-di-cioccolato/risultato5.jpg "frangipani © Erica")
 
-![](risultato6.jpg "frangipani © Erica")
+![](../2018-03-09-torta-vegana-all-arancia-con-gocce-di-cioccolato/risultato6.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

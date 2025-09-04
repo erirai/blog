@@ -13,7 +13,7 @@ categories:
 label: 2023-07-12-torta-vegana-al-limone-e-mirtilli
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2023-07-12-torta-vegana-al-limone-e-mirtilli/header.jpeg "frangipani © Erica")
 
 **Torta vegana al Limone e Mirtilli** una di quelle torte da colazione e merenda, così semplici e buone che non serve altro! Anche in piena estate si mangia con piacere, magari insieme ad un bicchiere di succo di frutta o té freddo. Era veramente fantastica! Poi quel Crumble di sopra è la fine del mondo e quei succosi mirtilli... mmm!
 
@@ -32,7 +32,7 @@ Vi auguro una bellissima estate, godetevela e ci rileggiamo a fine Agosto.
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Torta vegana al Limone e Mirtilli</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2023-07-12-torta-vegana-al-limone-e-mirtilli/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Torta vegana allo Yogurt con Prugne e Cannella, questa torta sofficissima è facilissima da preparare, pochi ingredienti, prugne succose e cannella.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -120,45 +120,45 @@ Vi auguro una bellissima estate, godetevela e ci rileggiamo a fine Agosto.
 Per primo preparate il Crumble mettendo burro, farina, zucchero, sale e vaniglia in una coppetta e impastate con le dita finché avrete un composto bricioloso, tenete in frigo.
 
 In una ciotola mescolate lo yogurt con l'olio, il latte, il succo e la scorza di limone. A parte mischiate farina, fecola, zucchero, lievito e sale. Aggiungete gli ingredienti asciutti a quelli liquidi e amalgamate bene. A questo punto aggiungete i mirtilli nell'impasto e mescolate con un cucchiaio. Versate l'impasto in una tortiera precedentemente imburrata ed infarinata e livellate. Sbriciolate sopra all'impasto il crumble distribuiendolo bene.
-![](teglia.jpeg "frangipani © Erica")
+![](../2023-07-12-torta-vegana-al-limone-e-mirtilli/teglia.jpeg "frangipani © Erica")
 
 Infornate la **torta vegana al limone e mirtilli** nel forno preriscaldato a 160°C ventilato per 50-60min, mi raccomando fate la prova stecchino. Fatela intiepidire prima di uscirla dalla teglia.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-07-12-torta-vegana-al-limone-e-mirtilli/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-07-12-torta-vegana-al-limone-e-mirtilli/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-07-12-torta-vegana-al-limone-e-mirtilli/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-07-12-torta-vegana-al-limone-e-mirtilli/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-07-12-torta-vegana-al-limone-e-mirtilli/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-07-12-torta-vegana-al-limone-e-mirtilli/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-07-12-torta-vegana-al-limone-e-mirtilli/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-07-12-torta-vegana-al-limone-e-mirtilli/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-07-12-torta-vegana-al-limone-e-mirtilli/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-07-12-torta-vegana-al-limone-e-mirtilli/risultato10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

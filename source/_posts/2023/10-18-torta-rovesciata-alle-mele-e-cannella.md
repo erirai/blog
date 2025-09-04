@@ -11,7 +11,7 @@ categories:
 label: 2023-10-18-torta-rovesciata-alle-mele-e-cannella
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2023-10-18-torta-rovesciata-alle-mele-e-cannella/header.jpeg "frangipani © Erica")
 
 **Torta Rovesciata alle Mele e Cannella** una torta che profuma di cannella, che sa di Cinnamon Rolls. Una coccola, un abbraccio. Una torta per festeggiare un giorno speciale... Ma anche semplicemente così, per la colazione o per la merenda perché queste torte semplici sono le torte più buone! 
 
@@ -38,8 +38,8 @@ Fortunatamente è migliorata anche un po' la qualità delle foto, anche se la ca
     <div style="clear: both;"></div>
   </div>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="2013.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="2014.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-10-18-torta-rovesciata-alle-mele-e-cannella/2013.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-10-18-torta-rovesciata-alle-mele-e-cannella/2014.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -55,8 +55,8 @@ Fortunatamente è migliorata anche un po' la qualità delle foto, anche se la ca
     <div style="clear: both;"></div>
   </div>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="2015.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="2016.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-10-18-torta-rovesciata-alle-mele-e-cannella/2015.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-10-18-torta-rovesciata-alle-mele-e-cannella/2016.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -72,8 +72,8 @@ Fortunatamente è migliorata anche un po' la qualità delle foto, anche se la ca
     <div style="clear: both;"></div>
   </div>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="2017.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="2018.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-10-18-torta-rovesciata-alle-mele-e-cannella/2017.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-10-18-torta-rovesciata-alle-mele-e-cannella/2018.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -89,8 +89,8 @@ Fortunatamente è migliorata anche un po' la qualità delle foto, anche se la ca
     <div style="clear: both;"></div>
   </div>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="2019.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="2020.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-10-18-torta-rovesciata-alle-mele-e-cannella/2019.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-10-18-torta-rovesciata-alle-mele-e-cannella/2020.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -106,14 +106,14 @@ Fortunatamente è migliorata anche un po' la qualità delle foto, anche se la ca
     <div style="clear: both;"></div>
   </div>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="2021.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="2022.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-10-18-torta-rovesciata-alle-mele-e-cannella/2021.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-10-18-torta-rovesciata-alle-mele-e-cannella/2022.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 2023: Torta Rovesciata alle Mele e Cannella
-![](risultato6.jpeg "frangipani © Erica")
+![](../2023-10-18-torta-rovesciata-alle-mele-e-cannella/risultato6.jpeg "frangipani © Erica")
 
 Quest'anno sarà tosta, in un modo positivo però (no, non sono incinta)... Terrò questo ritmo o dovrò ridurre? Non lo so, si vedrà, ma non vedo l'ora! E chi lo sa, magari il post del 18 ottobre 2024 non sarà solo il post per festeggiare l'11° Compliblog, ma anche qualcosa di molto molto bello. Solo a pensarci mi viene da piangere...
 
@@ -126,7 +126,7 @@ Erica
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Torta Rovesciata alle Mele e Cannella</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2023-10-18-torta-rovesciata-alle-mele-e-cannella/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Torta Rovesciata alle Mele e Cannella, una torta che profuma di cannella, che sa di Cinnamon Rolls. Una coccola, un abbraccio.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -219,76 +219,76 @@ Prendete una teglia rotonda e rivestitela con della carta forno. Pelate le mele 
 Per la torta mescolate in una torta capiente la farina, lo zucchero, il lievito ed il sale. In una coppa a parte mettete il latte, le uova e la vaniglia e mescolate, poi aggiungete il burro fuso e date un'altra mescolata. Versate i liquidi nella coppa con gli ingredienti secchi e amalgamate bene. Versate delicatamente l'impasto nella teglia con le mele facendo attenzione a non spostare le mele.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="mele.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="impasto.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-10-18-torta-rovesciata-alle-mele-e-cannella/mele.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-10-18-torta-rovesciata-alle-mele-e-cannella/impasto.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 In una coppetta a parte mescolate il burro fuso, lo zucchero, la farina e la cannella. Distribuite regolarmente questa pastella di cannella sull'impasto, poi con una forchetta o un bastoncino fate qualche giro per dare l'effetto variegato.
-![](teglia.jpeg "frangipani © Erica")
+![](../2023-10-18-torta-rovesciata-alle-mele-e-cannella/teglia.jpeg "frangipani © Erica")
 
 Infornate la **Torta Rovesciata alle Mele e Cannella** nel forno preriscaldato a 170°C ventilato per 30min circa, fate sempre la prova stecchino. Fatela intiepidire, poi scaravoltatela sul piatto da portata.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-10-18-torta-rovesciata-alle-mele-e-cannella/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-10-18-torta-rovesciata-alle-mele-e-cannella/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-10-18-torta-rovesciata-alle-mele-e-cannella/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-10-18-torta-rovesciata-alle-mele-e-cannella/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-10-18-torta-rovesciata-alle-mele-e-cannella/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-10-18-torta-rovesciata-alle-mele-e-cannella/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-10-18-torta-rovesciata-alle-mele-e-cannella/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-10-18-torta-rovesciata-alle-mele-e-cannella/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-10-18-torta-rovesciata-alle-mele-e-cannella/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-10-18-torta-rovesciata-alle-mele-e-cannella/risultato10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato11.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato12.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-10-18-torta-rovesciata-alle-mele-e-cannella/risultato11.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-10-18-torta-rovesciata-alle-mele-e-cannella/risultato12.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato13.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato14.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-10-18-torta-rovesciata-alle-mele-e-cannella/risultato13.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-10-18-torta-rovesciata-alle-mele-e-cannella/risultato14.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato15.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato16.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-10-18-torta-rovesciata-alle-mele-e-cannella/risultato15.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-10-18-torta-rovesciata-alle-mele-e-cannella/risultato16.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

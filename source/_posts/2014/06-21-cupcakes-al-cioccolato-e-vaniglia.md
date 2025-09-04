@@ -12,7 +12,7 @@ categories:
 - "Muffin, Cupcakes, Cake Pops..."
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2014-06-21-cupcakes-al-cioccolato-e-vaniglia/header.jpg "frangipani © Erica")
 
 > Auguri Ada e Juan!
 
@@ -108,21 +108,21 @@ Mia commare Daniela mi ha chiesto se avevo voglia di fare dei Cupcakes per il ma
 </h3>
 
 Mettete tutti gli ingredienti asciutti in una ciotola e mescolate con la frusta a mano, poi aggiungete l'olio, il latte ed il concentrato di vaniglia e mescolate con un cucchiaio, finché si tolgono tutti i grumi e finite aggiungendo il cioccolato precedentemente tagliato a pezzettini.
-![](impasto.jpg "frangipani © Erica")
+![](../2014-06-21-cupcakes-al-cioccolato-e-vaniglia/impasto.jpg "frangipani © Erica")
 
 Versate l'impasto nei pirottini e infornateli nel forno preriscaldato a 180°C (statico) per ca. 30min, mi raccomando fate sempre la prova stecchino. 
-![](sfornati.jpg "frangipani © Erica")
+![](../2014-06-21-cupcakes-al-cioccolato-e-vaniglia/sfornati.jpg "frangipani © Erica")
 
 Ora preparate la crema di burro. Mi raccomando, se volete fare i Cupcakes al 100% vegani prendete la margarina, se no il burro. Io ho usato la margarina... Iniziate uscendo dal frigo la margarina, deve essere morbida, ma non troppo. Mettetela nella planetaria (se no con il mixer a mano) e fatela andare finché risulterà una crema bella morbida. Poi cucchiaio dopo cucchiaio aggiungete lo zucchero a velo. Dopo qualche cucchiaiata aggiungete il latte, sempre poco a poco. Io uso un misurino da 5ml alla volta. Fate questo finché avrete finito tutto lo zucchero a velo ed il latte. Alla fine aggiungete il concentrato di vaniglia ed il colorante, sempre se volete. E continuate finché la crema risulterà bella ferma. Se dovesse risultare troppo ruvida, aggiungete ancora latte. Poi mettete la crema di burro in un sac à poche usando una punta a vostro gradimento. Dunque mettete il sac à poche per un po' nel frigo per far rapprendere bene la crema di burro.
 
 Prendete delle decorazioni di zucchero comprate o fatte da voi, io fatto dei cuori... Mi raccomando se li fate voi, preparateli qualche giorno prima in modo che siano ben asciutti!
-![](cuori.jpg "frangipani © Erica")
+![](../2014-06-21-cupcakes-al-cioccolato-e-vaniglia/cuori.jpg "frangipani © Erica")
 
 Ricoprite i muffin con la crema di burro e decorate a vostro piacimento.
-![](risultato.jpg "frangipani © Erica")
+![](../2014-06-21-cupcakes-al-cioccolato-e-vaniglia/risultato.jpg "frangipani © Erica")
 
 Questi sono tutti i tipi di Cupcakes che ho fatto...
-![](tutti.jpg "frangipani © Erica")
+![](../2014-06-21-cupcakes-al-cioccolato-e-vaniglia/tutti.jpg "frangipani © Erica")
 
 
 

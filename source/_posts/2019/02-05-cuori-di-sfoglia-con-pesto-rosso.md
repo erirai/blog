@@ -12,7 +12,7 @@ categories:
 label: 2019-02-05-cuori-di-sfoglia-con-pesto-rosso
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2019-02-05-cuori-di-sfoglia-con-pesto-rosso/header.jpeg "frangipani © Erica")
 
 **Cuori di Sfoglia con Pesto Rosso**, un aperitivo perfetto per San Valentino. Vi serve solo un rotolo di pasta sfoglia e del pesto rosso ed il gioco è fatto. Sono gustosissimi e vanno via in un attimo! Sul web si trovano un sacco di varianti, ma quasi tutti sono fatti con salumi o salmone. Per dare sapore a questi cuori di sfoglia, ho scelto il pesto rosso come farcia. Adoro i pomodori secchi e per queste preparazioni è ottimo. Va benissimo anche il classico pesto di basilico, ma il colore rosso in questo caso rende di più. Se non volete farli a forma di cuore, basta attorcigliarli e lasciarli così, lunghi come dei grissini. Voi sapete già cosa preparare per San Valentino?
 
@@ -23,7 +23,7 @@ Gaia questa e la prossima settimana è in ferie, niente asilo. Tutti partono per
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Cuori di Sfoglia con Pesto Rosso</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2019-02-05-cuori-di-sfoglia-con-pesto-rosso/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Cuori di Sfoglia con Pesto Rosso, un aperitivo perfetto per San Valentino. Vi serve solo un rotolo di pasta sfoglia e del pesto rosso ed il gioco è fatto.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -67,25 +67,25 @@ Gaia questa e la prossima settimana è in ferie, niente asilo. Tutti partono per
 Frullate i pomodori secchi, i pinoli, il basilico e l'olio. Per renderla spalmabile regolatevi con l'olio o con l'acqua. Spalmate il pesto rosso su una metà della pasta sfoglia. Ricoprite con l'altra metà e poi con una rotellina o con il coltello tagliate delle strisce da 1.5cm.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="pesto.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="tagliato.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2019-02-05-cuori-di-sfoglia-con-pesto-rosso/pesto.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2019-02-05-cuori-di-sfoglia-con-pesto-rosso/tagliato.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 Prendete una striscia, tiratela leggermente, attorcigliatela e poi formate un cuore unendo le due punte. Per non fare staccare il tutto, sigillate con un pezzetto di stuzzicadenti.
-![](teglia.jpeg "frangipani © Erica")
+![](../2019-02-05-cuori-di-sfoglia-con-pesto-rosso/teglia.jpeg "frangipani © Erica")
 
 Infornate i cuori di sfoglia nel forno preriscaldato a 190°C statico per circa 15min o almeno fino a doratura.
-![](risultato1.jpeg "frangipani © Erica")
+![](../2019-02-05-cuori-di-sfoglia-con-pesto-rosso/risultato1.jpeg "frangipani © Erica")
 
-![](risultato2.jpeg "frangipani © Erica")
+![](../2019-02-05-cuori-di-sfoglia-con-pesto-rosso/risultato2.jpeg "frangipani © Erica")
 
-![](risultato3.jpeg "frangipani © Erica")
+![](../2019-02-05-cuori-di-sfoglia-con-pesto-rosso/risultato3.jpeg "frangipani © Erica")
 
-![](risultato4.jpeg "frangipani © Erica")
+![](../2019-02-05-cuori-di-sfoglia-con-pesto-rosso/risultato4.jpeg "frangipani © Erica")
 
-![](risultato5.jpeg "frangipani © Erica")
+![](../2019-02-05-cuori-di-sfoglia-con-pesto-rosso/risultato5.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

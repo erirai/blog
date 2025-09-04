@@ -16,7 +16,7 @@ categories:
 label: 2021-09-16-mini-plumcake-integrali-con-frutti-di-bosco
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2021-09-16-mini-plumcake-integrali-con-frutti-di-bosco/header.jpeg "frangipani © Erica")
 
 **Mini Plumcake Integrali con Frutti di Bosco** delle merendine sane, senza burro, senza farina bianca, con tanti frutti di bosco e grazie allo yogurt belli soffici. Una ricetta facilissima da preparare e comodamente adattabile a quello che si ha in casa. Vanno bene le mele, le pesche, ma anche il cioccolato e le noci al posto dei frutti di bosco.
 <br />
@@ -32,7 +32,7 @@ Con questa ricetta partecipo anche alla 28. Foodie Challenge mensile, organizzat
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Mini Plumcake Integrali con Frutti di Bosco</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2021-09-16-mini-plumcake-integrali-con-frutti-di-bosco/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Mini Plumcake Integrali con Frutti di Bosco delle merendine sane, senza burro, senza farina bianca, con tanti frutti di bosco e grazie allo yogurt belli soffici.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -96,42 +96,42 @@ Con questa ricetta partecipo anche alla 28. Foodie Challenge mensile, organizzat
 Montate le uova con lo zucchero ed un pizzico di sale finché saranno belle gonfie e chiare. Aggiungete lo yogurt, mescolate e poi, poco alla volta, aggiungete la farina mischiata con il lievito. A questo punto aggiungete anche la vaniglia, la scorza di limone e l'olio e finite di amalgamare il tutto.
 <br />
 Riempite gli stampi (se è in silicone non c'è bisogno di imburrare ed infarinare) o i pirottini fino a metà, aggiungete i frutti di bosco e coprite con il restante impasto.
-![](teglia.jpeg "frangipani © Erica")
+![](../2021-09-16-mini-plumcake-integrali-con-frutti-di-bosco/teglia.jpeg "frangipani © Erica")
 
 Infornate nel forno preriscaldato a 170°C statico per 20min, fate sempre la prova stecchino. Fateli raffreddare completamente prima di uscirli dallo stampo.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-09-16-mini-plumcake-integrali-con-frutti-di-bosco/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-09-16-mini-plumcake-integrali-con-frutti-di-bosco/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-09-16-mini-plumcake-integrali-con-frutti-di-bosco/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-09-16-mini-plumcake-integrali-con-frutti-di-bosco/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-09-16-mini-plumcake-integrali-con-frutti-di-bosco/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-09-16-mini-plumcake-integrali-con-frutti-di-bosco/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-09-16-mini-plumcake-integrali-con-frutti-di-bosco/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-09-16-mini-plumcake-integrali-con-frutti-di-bosco/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato9.jpeg "frangipani © Erica")
+![](../2021-09-16-mini-plumcake-integrali-con-frutti-di-bosco/risultato9.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

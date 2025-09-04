@@ -14,7 +14,7 @@ categories:
 label: 2020-05-20-asparagi-e-tofu-in-salsa-di-soia-con-riso-basmati
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2020-05-20-asparagi-e-tofu-in-salsa-di-soia-con-riso-basmati/header.jpeg "frangipani © Erica")
 
 **Asparagi e Tofu in Salsa di Soia con Riso Basmati** un piatto unico completo, facile e veloce! Ci vuole giusto il tempo della cottura del riso. Pochissimi ingredienti, ma tanto gusto.
 <br />
@@ -27,7 +27,7 @@ Era da un sacco di tempo che non mangiavo più il Tofu, ma avevo troppa voglia d
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Asparagi e Tofu in Salsa di Soia con Riso Basmati</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-05-20-asparagi-e-tofu-in-salsa-di-soia-con-riso-basmati/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Asparagi e Tofu in Salsa di Soia con Riso Basmati un piatto unico completo, facile e veloce!</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -72,37 +72,37 @@ Era da un sacco di tempo che non mangiavo più il Tofu, ma avevo troppa voglia d
 </h3>
 
 Cuocete il riso Basmati come scritto sulla confezione. Nel frattempo lavate gli asparagi ed eliminate la parte legnosa. Tagliate gli asparagi a pezzetti da 2cm, tenendo da parte le punte. Tagliate il Tofu a cubetti comodi da mangiare. Se l'avete, prendete la Wok, altrimenti va bene anche una padella antiaderente. Fate soffriggere l'aglio (intero o tritato) con un pochettino d'olio di semi. Aggiungete gli asparagi, senza le punte, ed il Tofu e fate rosolare un attimino. A questo punto aggiungete un po' di salsa di soia e le punte degli asparagi e fate andare a temperatura media finché la salsa di soia non si sarà asciugata e il tutto sarà bello croccante, leggermente abbrustolito.
-![](padella.jpeg "frangipani © Erica")
+![](../2020-05-20-asparagi-e-tofu-in-salsa-di-soia-con-riso-basmati/padella.jpeg "frangipani © Erica")
 
 Servite il tutto guarnendo con del sesamo tostato...
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-05-20-asparagi-e-tofu-in-salsa-di-soia-con-riso-basmati/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-05-20-asparagi-e-tofu-in-salsa-di-soia-con-riso-basmati/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-05-20-asparagi-e-tofu-in-salsa-di-soia-con-riso-basmati/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-05-20-asparagi-e-tofu-in-salsa-di-soia-con-riso-basmati/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-05-20-asparagi-e-tofu-in-salsa-di-soia-con-riso-basmati/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-05-20-asparagi-e-tofu-in-salsa-di-soia-con-riso-basmati/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-05-20-asparagi-e-tofu-in-salsa-di-soia-con-riso-basmati/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-05-20-asparagi-e-tofu-in-salsa-di-soia-con-riso-basmati/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

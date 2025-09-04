@@ -14,7 +14,7 @@ categories:
 label: 2020-11-11-zuppa-di-verdure-castagne-e-cereali
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2020-11-11-zuppa-di-verdure-cereali-e-castagne/header.jpeg "frangipani © Erica")
 
 **Zuppa di Verdure, Cereali e Castagne** questa zuppa vi sorprenderà! È bella ricca, gustosa e utilizzerete ingredienti che magari avete in dispensa, ma che non usate spesso, come i cereali. Beh, cereali non è corretto al 100% perché ho usato anche il grano saraceno, che non è un cereale. Ma ci siamo capiti. Come verdura prendete la verdura che avete in frigo, meglio se di stagione. Io vi consiglio un misto tra tuberi e verdura a foglia...
 <br />
@@ -33,7 +33,7 @@ Da quando siamo vegetariani, abbiamo iniziato a variare molto di più il nostro 
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Zuppa di Verdure, Cereali e Castagne</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-11-11-zuppa-di-verdure-cereali-e-castagne/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Zuppa di Verdure, Cereali e Castagne questa zuppa vi sorprenderà! È bella ricca, gustosa e utilizzerete ingredienti che magari avete in dispensa, ma che non usate spesso, come i cereali.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -117,28 +117,28 @@ Da quando siamo vegetariani, abbiamo iniziato a variare molto di più il nostro 
 Per prima cosa sciacquate il farro, l'orzo e il grano saraceno e mettete da parte. Tagliate finemente la cipolla e il porro. Pelate la carota, la patata dolce e la patata e tagliatele a pezzettini. Pulite anche il finocchio e tagliate a pezzettini anche questo. Lavate il cavolo riccio/nero e eliminate lo stelo centrale, poi tagliatelo a pezzettini.
 <br />
 In una pentola capiente mettete un filo d'olio, la cipolla e il porro e fate rosolare un attimino. Aggiungete il resto delle verdure e due cucchiaio di concentrato di pomodoro, lasciate rosolare un attimino poi riempite con acqua e/o brodo vegetale. Aggiungete anche il farro, l'orzo e il grano saraceno e fate cuocere finché il tutto sarà cotto. Se c'è bisogno, aggiungete altra acqua.
-![](pentola.jpeg "frangipani © Erica")
+![](../2020-11-11-zuppa-di-verdure-cereali-e-castagne/pentola.jpeg "frangipani © Erica")
 
 Impiattate, mettete un filo d'olio, se volete del parmigiano grattugiato e sbriciolateci sopra qualche castagna...
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-11-11-zuppa-di-verdure-cereali-e-castagne/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-11-11-zuppa-di-verdure-cereali-e-castagne/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato3.jpeg "frangipani © Erica")
+![](../2020-11-11-zuppa-di-verdure-cereali-e-castagne/risultato3.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-11-11-zuppa-di-verdure-cereali-e-castagne/risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-11-11-zuppa-di-verdure-cereali-e-castagne/risultato5.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato6.jpeg "frangipani © Erica")
+![](../2020-11-11-zuppa-di-verdure-cereali-e-castagne/risultato6.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

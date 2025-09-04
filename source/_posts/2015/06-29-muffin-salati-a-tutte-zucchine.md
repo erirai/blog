@@ -11,7 +11,7 @@ categories:
 - "Torte salate, Muffin salati..."
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2015-06-29-muffin-salati-a-tutte-zucchine/header.jpg "frangipani © Erica")
 
 Mio Papà sabato mi ha portato dei bellissimi fiori di zucchina. Per non farli ripieni, come al solito, ho pensato di fare dei Muffin salati... Sono venuti veramente ottimi e poi si fanno anche molto velocemente! Si possono mangiare sia caldi che freddi, quindi sono perfetti da partore ad una scampagnata, al mare o in piscina...
 
@@ -82,18 +82,18 @@ Mio Papà sabato mi ha portato dei bellissimi fiori di zucchina. Per non farli r
 </h3>
 
 Mettete in una terrina la farina setacciata, il lievito ed il parmigiano grattugiato. A parte sbattete l'uovo con il latte e l'olio, salate e aggiungetelo alla farina. Mescolate bene e finite aggiungendo le erbe aromatiche spezzettate a mano e la zucchina grattugiata.
-![](impasto.jpg "frangipani © Erica")
+![](../2015-06-29-muffin-salati-a-tutte-zucchine/impasto.jpg "frangipani © Erica")
 
 Prendete 12 fiori di zucchina, tagliate il pezzo duro di sotto e toglite il pistillo. Aprite il fiore, mettete al centro un pezzo di mozzarella e poi chiudetelo a pacchettino.
-![](fiori.jpg "frangipani © Erica")
+![](../2015-06-29-muffin-salati-a-tutte-zucchine/fiori.jpg "frangipani © Erica")
 
-![](pacchetti.jpg "frangipani © Erica")
+![](../2015-06-29-muffin-salati-a-tutte-zucchine/pacchetti.jpg "frangipani © Erica")
 
 Adesso mettete l'impasto direttamente nella teglia per Muffin precedentemente imburrata o nei pirottini e poi sopra il pacchettino di fiore di zucchina e mozzarella.
-![](teglia.jpg "frangipani © Erica")
+![](../2015-06-29-muffin-salati-a-tutte-zucchine/teglia.jpg "frangipani © Erica")
 
 Poi infornateli nel forno preriscaldato a 170°C statico per ca. 25min, mi raccomando fate la prova stecchino.
-![](risultato.jpg "frangipani © Erica")
+![](../2015-06-29-muffin-salati-a-tutte-zucchine/risultato.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

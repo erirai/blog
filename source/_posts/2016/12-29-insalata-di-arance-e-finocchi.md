@@ -14,7 +14,7 @@ categories:
 label: 2016-12-29-insalata-di-arance
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2016-12-29-insalata-di-arance-e-finocchi/header.jpg "frangipani © Erica")
 
 > Buon Anno e un Felice 2017 a Tutti!
 
@@ -71,9 +71,9 @@ Questo è l'ultimo post del 2016 e colgo l'occasione per ringraziare tutti voi c
 </h3>
 
 Pulite i finocchi e togliete le foglie esterne più dure (non buttatele, potete usarle nelle zuppe o semplicemente bollite con un filo d'olio e limone). Poi tagliate il finocchio finemente. Pelate a vivo le arance e ricavatene solo gli spicchi senza pellicina, cercate di raccogliere più succo possibile, vi servirà per condire il tutto. A questo punto adagiate sul piatto i finocchi precedentemente tagliati e sopra di essi gli spicchi dell'arancia messi a raggiera. Prendete il succo dell'arancia che avevate raccolto, aggiungete olio evo e sale e distribuitelo sui finocchi e sull'arancia. Aggiungete qualche chicco di melagrana e dei pistacchi tritati col coltello.
-![](risultato1.jpg "frangipani © Erica")
+![](../2016-12-29-insalata-di-arance-e-finocchi/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2016-12-29-insalata-di-arance-e-finocchi/risultato2.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

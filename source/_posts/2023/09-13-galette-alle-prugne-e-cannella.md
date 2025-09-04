@@ -13,14 +13,14 @@ categories:
 label: 2023-09-13-galette-alle-prugne-e-cannella
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2023-09-13-galette-alle-prugne-e-cannella/header.jpeg "frangipani © Erica")
 
 Pubblicità: **Galette alle Prugne e Cannella** in collaborazione con <a href="https://www.farmy.ch" target="_blank">Farmy</a>. Un dolce rustico con un guscio croccante di frolla ed un ripieno succosissimo di prugne profumate alla cannella.
 
 Adoro preparare piatti rustici in autunno e la Galette è molto rustica. Ma soprattutto adoro i dolci con le prugne! Amo la loro succosità e come cambiano il colore una volta cotte. Solo che l'arrivo delle prugne annuncia la fine dell'estate, quindi accolgo la cosa con un occhio che piange e uno che ride. 
 
 È arrivata la frutta autunnale e si trova anche da <a href="https://www.farmy.ch" target="_blank">Farmy</a>. Prugne, mele , fichi, uva, fichi d'india, melagrane... Adoro! E con le giornate più fresche ritorna anche la voglia di accendere il forno e fare dolci...
-![](spesa.jpeg "frangipani © Erica")
+![](../2023-09-13-galette-alle-prugne-e-cannella/spesa.jpeg "frangipani © Erica")
 
 Per fare questo dolce vi servono pochi ingredienti molto basic, niente di particolare e trovate comodamente tutto sul sito di <a href="https://www.farmy.ch" target="_blank">Farmy</a>. 
 
@@ -29,7 +29,7 @@ Per fare questo dolce vi servono pochi ingredienti molto basic, niente di partic
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Galette alle Prugne e Cannella</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2023-09-13-galette-alle-prugne-e-cannella/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Un dolce rustico con un guscio croccante di frolla ed un ripieno succosissimo di prugne profumate alla cannella.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -118,8 +118,8 @@ Passato il tempo necessario, tirate fuori dal frigo la pasta frolla e stendetela
 Chiudete piegando verso l'interno i bordi della frolla. Spennellate il bordo con del latte e cospargetelo con lo zucchero.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="prugne.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-09-13-galette-alle-prugne-e-cannella/prugne.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-09-13-galette-alle-prugne-e-cannella/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -127,32 +127,32 @@ Chiudete piegando verso l'interno i bordi della frolla. Spennellate il bordo con
 Infornate la Galette nel forno preriscaldato a 180°C ventilato per 40min. Controllate spesso, non deve prendere troppo colore! Fatela raffreddare leggermente e se volete, servitela accompagnata con una palla di gelato alla vaniglia!
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-09-13-galette-alle-prugne-e-cannella/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-09-13-galette-alle-prugne-e-cannella/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-09-13-galette-alle-prugne-e-cannella/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-09-13-galette-alle-prugne-e-cannella/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-09-13-galette-alle-prugne-e-cannella/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-09-13-galette-alle-prugne-e-cannella/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-09-13-galette-alle-prugne-e-cannella/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-09-13-galette-alle-prugne-e-cannella/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

@@ -11,7 +11,7 @@ categories:
 label: 2022-03-15-quadrotti-al-cioccolato-con-crema-al-caffe
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2022-03-15-quadrotti-al-cioccolato-con-crema-al-caffe/header.jpeg "frangipani © Erica")
 
 **Quadrotti al Cioccolato con Crema al Caffè** golosissimi, super cioccolatosi e con una cremosissima crema al caffé. E anche un'ottima idea per la Festa del Papà, no? I dolci con il caffè vanno sempre bene per i papà, ma anche per le mamme eh! Ma ci sono eccezioni, come mio marito... Tranne il <a href="https://frangipani.raiano.ch/2014-03-04-tiramisu/" target="_blank">Tiramisù</a>, quello gli piace tantissimissimo!
 <br />
@@ -24,7 +24,7 @@ Mi sono piaciuti tantissimo! Ecco, non sono leggerissimi eh, ma vanno condivisi 
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Quadrotti al Cioccolato con Crema al Caffè</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2022-03-15-quadrotti-al-cioccolato-con-crema-al-caffe/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Quadrotti al Cioccolato con Crema al Caffè golosissimi, super cioccolatosi e con una cremosissima crema al caffé. E anche un'ottima idea per la Festa del Papà, no?</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -112,8 +112,8 @@ Per la crema al caffè fate sciogliere il caffè solubile con l'acqua bollente, 
 Spalmate 1/3 della crema al caffè sul Brownie ormai freddo poi tagliatelo a quadrotti. 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="camycream.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="quadrotti.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-03-15-quadrotti-al-cioccolato-con-crema-al-caffe/camycream.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-03-15-quadrotti-al-cioccolato-con-crema-al-caffe/quadrotti.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -123,40 +123,40 @@ Il resto della crema l'ho messo in una sacca da pasticcere con una punta a stell
 Teneteli in frigo ben chiusi finché li mangerete...
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-03-15-quadrotti-al-cioccolato-con-crema-al-caffe/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-03-15-quadrotti-al-cioccolato-con-crema-al-caffe/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-03-15-quadrotti-al-cioccolato-con-crema-al-caffe/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-03-15-quadrotti-al-cioccolato-con-crema-al-caffe/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-03-15-quadrotti-al-cioccolato-con-crema-al-caffe/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-03-15-quadrotti-al-cioccolato-con-crema-al-caffe/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-03-15-quadrotti-al-cioccolato-con-crema-al-caffe/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-03-15-quadrotti-al-cioccolato-con-crema-al-caffe/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-03-15-quadrotti-al-cioccolato-con-crema-al-caffe/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-03-15-quadrotti-al-cioccolato-con-crema-al-caffe/risultato10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

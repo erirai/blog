@@ -12,7 +12,7 @@ categories:
 label: 2016-09-06-peperoni-ripieni
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2016-09-06-peperoni-ripieni-di-cous-cous/header.jpg "frangipani © Erica")
 
 Sinceramente, arrivato settembre, volevo iniziare con le ricette autunnali... Tipo la zucca, i funghi, piatti più caldi diciamo. Ma assolutamente non ho fatto i conti con il bel tempo! C'è un bellissimo sole anche se l'aria fa profumo di autunno. C'è caldo, ma l'aria è cambiata... qualcuno mi capisce? Poi il nostro giardino ci ha regalato due bei peperoni e allora non ho potuto resitere e ho preparato un piatto estivo. I peperoni li ho riempiti con il Cous Cous ma sono altrettanto buoni, se li riempite con il riso, il grano, il farro o quello che desiderate. È un piatto completo molto gustoso e se vi avanza del Cous Cous potete fare anche delle ottime polpette!
 
@@ -78,36 +78,36 @@ Sinceramente, arrivato settembre, volevo iniziare con le ricette autunnali... Ti
 </h3>
 
 Tagliate la parte verde del peperone, eliminate i semini e i filamenti bianchi. Metteteli su di una teglia con sotto della carta forno.
-![](peperoni.jpg "frangipani © Erica")
+![](../2016-09-06-peperoni-ripieni-di-cous-cous/peperoni.jpg "frangipani © Erica")
 
 Infornateli nel forno preriscaldato a 180°C ventilato per mezz'oretta. Poi metteteli in un sacchettino di plastica per alimenti e aspettate 10min. Adesso usciteli e pelateli. Facendo in questo modo, la pellicina si toglierà molto più facilmente.
-![](peperonipelati.jpg "frangipani © Erica")
+![](../2016-09-06-peperoni-ripieni-di-cous-cous/peperonipelati.jpg "frangipani © Erica")
 
 Nel frattempo preparate il sughetto. In una padella mettete un filo d'olio la cipolla tagliata finemente, l'aglio e un pizzico di sale e fate soffriggere. Poi aggiungete i resti dei peperoni che avevate tagliato via.
-![](padella.jpg "frangipani © Erica")
+![](../2016-09-06-peperoni-ripieni-di-cous-cous/padella.jpg "frangipani © Erica")
 
 Fate rosolare per qualche minuto, poi aggiungete la passata di pomodoro e un pochettino d'acqua. Fate andare a temperatura moderata finché si sarà addensato. Alla fine aggiungete il basilico e aggiustate di sale.
-![](sugo.jpg "frangipani © Erica")
+![](../2016-09-06-peperoni-ripieni-di-cous-cous/sugo.jpg "frangipani © Erica")
 
 Per ultimo preparate il Cous Cous. Mettete una tazza d'acqua in una pentola e fatela bollire. Appena bolle, togliete dai fuochi, aggiungete qualche cucchiaio di sughetto e un filo d'olio, poi mettete il Cous Cous e coprite con un coperchio. Questo è il classico procedimento per cuocere il Cous Cous, voi comunque leggete cosa c'è scritto sulla confezione. Appena il Cous Cous avrà assorbito tutta l'acqua, sgranatelo con una forchetta.
-![](couscous.jpg "frangipani © Erica")
+![](../2016-09-06-peperoni-ripieni-di-cous-cous/couscous.jpg "frangipani © Erica")
 
 Aggiungete qualche cucchiaio di sugo e amalgamate bene. Adesso potete riempire i peperoni, facendo attenzione a non romperli. Prendete una pirofila, imburratela, mettete sul fondo un po' di sugo poi adagiateci i peperoni ripieni.
-![](ripieni.jpg "frangipani © Erica")
+![](../2016-09-06-peperoni-ripieni-di-cous-cous/ripieni.jpg "frangipani © Erica")
 
 Ricoprite il tutto con il resto del sugo, mettete ancora del basilico e una spolverata di pangrattato.
-![](teglia.jpg "frangipani © Erica")
+![](../2016-09-06-peperoni-ripieni-di-cous-cous/teglia.jpg "frangipani © Erica")
 
 Infornate i peperoni nel forno preriscaldato a 180°C ventilato per mezz'oretta.
-![](risultato1.jpg "frangipani © Erica")
+![](../2016-09-06-peperoni-ripieni-di-cous-cous/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2016-09-06-peperoni-ripieni-di-cous-cous/risultato2.jpg "frangipani © Erica")
 
 Se vi è avanzato del Cous Cous, potete fare delle sfizziose polpette. Basta prendere un cucchiaio di Cous Cous e metterlo sul palmo della mano. Schiacciate, mettete un cubetto di formaggio e chiudete il tutto pressando molto bene. Passate le polpette in una pastella di acqua e farina e poi nel pangrattato aromatizzato con della paprika e basilico (va bene anche la classica panatura con farina, uova e pangrattato). Metteteli su di una teglia con sotto della carta forno, mettete un filo d'olio sulle polpette ed infornatele nel forno preriscaldato a 180°C ventilato per mezz'oretta (potete anche freggerle).
-![](polpette.jpg "frangipani © Erica")
+![](../2016-09-06-peperoni-ripieni-di-cous-cous/polpette.jpg "frangipani © Erica")
 
 Ed ecco il risulato!
-![](risultatopolpette.jpg "frangipani © Erica")
+![](../2016-09-06-peperoni-ripieni-di-cous-cous/risultatopolpette.jpg "frangipani © Erica")
 
 
 <h4>Buon appetito

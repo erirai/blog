@@ -12,7 +12,7 @@ categories:
 - Biscotti
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2015-12-08-messaggeri-dal-cielo/header.jpg "frangipani © Erica")
 
 > Dedico queste stelline alla mia prima nipotina nata appena qualche giorno fa!
 
@@ -84,22 +84,22 @@ Volete fare dei biscotti con i vostri figli? Eccoli qua! Sono facilissimi, sono 
 </h3>
 
 Mettete tutti gli ingredienti per l'impasto in una coppa e impastate il tutto molto velocemente. Appiattite l'impasto, avvolgetelo con della pellicola trasparente e mettetelo in frigo per un'oretta. Passata l'ora tiratelo fuori dal frigo e mettetelo su un piano di lavoro leggermente infarinato e con un mattarello stendetelo fino ad uno spessore di 3mm. Ritagliate le stelle con una formina a stella possibilmente a 5 punte. Mettete le stelle ottenute su di una leccarda con sotto della carta forno.
-![](impasto.jpg "frangipani © Erica")
+![](../2015-12-08-messaggeri-dal-cielo/impasto.jpg "frangipani © Erica")
 
 Mettete alcuni M&M, Smarties o mandorle al centro della stella e come se fossero delle braccine, ripiegate una o due punte laterali e schiacciate leggermente.
-![](teglia.jpg "frangipani © Erica")
+![](../2015-12-08-messaggeri-dal-cielo/teglia.jpg "frangipani © Erica")
 
 Infornate i biscotti nel forno preriscaldato a 180°C statico per 10min ca, non devono prendere troppo colore. Fateli raffreddare completamente nella teglia stessa.
-![](sfornati.jpg "frangipani © Erica")
+![](../2015-12-08-messaggeri-dal-cielo/sfornati.jpg "frangipani © Erica")
 
 Quando saranno completamente freddi, con della scrittura decorativa disegnate la faccina.
-![](faccine.jpg "frangipani © Erica")
+![](../2015-12-08-messaggeri-dal-cielo/faccine.jpg "frangipani © Erica")
 
 Questi sono i messaggeri che ha fatto mia figlia...
-![](gaia.jpg "frangipani © Erica")
+![](../2015-12-08-messaggeri-dal-cielo/gaia.jpg "frangipani © Erica")
 
 E questi i miei, ammetto che quelli di mia figlia sono più belli!
-![](risultato.jpg "frangipani © Erica")
+![](../2015-12-08-messaggeri-dal-cielo/risultato.jpg "frangipani © Erica")
 
 
 <h3>

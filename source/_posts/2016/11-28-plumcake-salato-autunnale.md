@@ -13,7 +13,7 @@ categories:
 label: 2016-11-28-plumcake
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2016-11-28-plumcake-salato-autunnale/header.jpg "frangipani © Erica")
 
 Il mese di novembre è un po' così... la testa già al natale ma consapevole di non poter già fare cose natalizie. Non mi piace proprio! Lo so, le ricette questo mese non sono state proprio il massimo, ma ho avuto una crisi cucinesca, mi mancavano proprio le idee! Anche se la scelta al momento è molto vasta, ma bo! Finalmente il mese è finito è possiamo dedicarci alla magia del natale. Ho già addobbato tuuutta la casa, preparato la corona d'avvento e adesso mi godo tutte le lucine, candele e profumi natalizi!
 
@@ -93,33 +93,33 @@ Non so voi, ma con questo freddo mi viene proprio voglia di mangiare zuppe. Amo 
 </h3>
 
 Tagliate a cubetti la zucca, la patata e la patata dolce. In una padella mettete un filo d'olio evo e fatele rosolare a temperatura moderata finché si saranno ammorbidite. Poi aggiungete il Curry a piacere e salate.
-![](zuccaepatate.jpg "frangipani © Erica")
+![](../2016-11-28-plumcake-salato-autunnale/zuccaepatate.jpg "frangipani © Erica")
 
 Prendete solo le foglie del cavolo nero (senza lo stelo) e lavatele. In una padella mettete un filo d'olio evo poi aggiungete il cavolo nero e fate saltare finché le foglie si saranno ammorbidite. A questo punto salate.
-![](cavolonero.jpg "frangipani © Erica")
+![](../2016-11-28-plumcake-salato-autunnale/cavolonero.jpg "frangipani © Erica")
 
 In una coppa a parte mettete la farina, la fecola di patate, il lievito e 1 cucchiaino di sale e mescolate il tutto. Poi aggiungete l'acqua e l'olio e amalgamate bene il tutto.
-![](impasto1.jpg "frangipani © Erica")
+![](../2016-11-28-plumcake-salato-autunnale/impasto1.jpg "frangipani © Erica")
 
 A questo punto aggiungete il miscuglio di zucca e patate al curry, mescolate bene poi aggiungete anche il formaggio tagliato a cubetti e date un'ultima mescolata.
-![](impasto2.jpg "frangipani © Erica")
+![](../2016-11-28-plumcake-salato-autunnale/impasto2.jpg "frangipani © Erica")
 
 Prendete uno stampo da Plumcake da 20-25cm imburrato ed infarinato e versateci metà dell'impasto. Livellate bene poi coprite con un po' di cavolo nero precedentemente cotto.
-![](primostrato.jpg "frangipani © Erica")
+![](../2016-11-28-plumcake-salato-autunnale/primostrato.jpg "frangipani © Erica")
 
 Coprite con il resto dell'impasto, poi se volete mettete ancora del cavolo nero.
-![](teglia.jpg "frangipani © Erica")
+![](../2016-11-28-plumcake-salato-autunnale/teglia.jpg "frangipani © Erica")
 
 {% youtube -8RGMYryMxM %}
 
 A questo punto infornate nel forno preriscaldato a 180°C ventilato per circa 45min, mi raccomando fate la prova stecchino. Fate raffreddare un attimino, poi toglietela dallo stampo. Questo Plumcake è buono sia caldo che freddo.
-![](risultato1.jpg "frangipani © Erica")
+![](../2016-11-28-plumcake-salato-autunnale/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2016-11-28-plumcake-salato-autunnale/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2016-11-28-plumcake-salato-autunnale/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2016-11-28-plumcake-salato-autunnale/risultato4.jpg "frangipani © Erica")
 
 
 <h4>Buon appetito

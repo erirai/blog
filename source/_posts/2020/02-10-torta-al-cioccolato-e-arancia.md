@@ -12,7 +12,7 @@ categories:
 label: 2020-02-10-torta-al-cioccolato-e-arancia
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2020-02-10-torta-al-cioccolato-e-arancia/header.jpeg "frangipani © Erica")
 
 **Torta al Cioccolato e Arancia** la torta perfetta per tutti gli amanti del connubio cioccolato e arancia. Ha una consistenza setosa, scioglievole, è super cioccolatosa e quel tocco d'arancia ci sta perfettamente! 
 <br />
@@ -27,7 +27,7 @@ Questa ricetta l'ho presa dal giornalino Sweet Dreams di Gennaio/Febbraio 2020 (
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Torta al Cioccolato e Arancia</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-02-10-torta-al-cioccolato-e-arancia/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Torta al Cioccolato e Arancia la torta perfetta per tutti gli amanti del connubio cioccolato e arancia. Ha una consistenza setosa, scioglievole, è super cioccolatosa e quel tocco d'arancia ci sta perfettamente!</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -103,40 +103,40 @@ Questa ricetta l'ho presa dal giornalino Sweet Dreams di Gennaio/Febbraio 2020 (
 Tritate grossolanamente il cioccolato e fatelo sciogliere a Bagnomaria insieme al burro. Aggiungete il latte, la scorza d'arancia e l'estratto di vaniglia e mescolate finché avrete un composto liscio ed omogeneo, fate raffreddare.
 <br />
 A parte mescolate farina, lievito, cacao, zucchero, mandorle macinate ed il sale. Poi aggiungete questi ingredienti secchi al composto con il cioccolato e mescolate bene. Aggiungete anche le uova, uno alla volta, finché saranno completamente incorporate. Versate l'impasto in uno stampo per ciambelle o plumcake imburrato ed infarinato con il cacao.
-![](teglia.jpeg "frangipani © Erica")
+![](../2020-02-10-torta-al-cioccolato-e-arancia/teglia.jpeg "frangipani © Erica")
 
 Infornate nel forno preriscaldato statico a 170°C per 55-60min, mi raccomando fate la prova stecchino.
 <br />
 Fate intiepidire la torta prima di uscirla dallo stampo. Una volta fredda, fate sciogliere a Bagnomaria il cioccoalto Ruby o quello fondete e fatelo colare sulla torta.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-02-10-torta-al-cioccolato-e-arancia/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-02-10-torta-al-cioccolato-e-arancia/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato3.jpeg "frangipani © Erica")
+![](../2020-02-10-torta-al-cioccolato-e-arancia/risultato3.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-02-10-torta-al-cioccolato-e-arancia/risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-02-10-torta-al-cioccolato-e-arancia/risultato5.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato6.jpeg "frangipani © Erica")
+![](../2020-02-10-torta-al-cioccolato-e-arancia/risultato6.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-02-10-torta-al-cioccolato-e-arancia/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-02-10-torta-al-cioccolato-e-arancia/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato9.jpeg "frangipani © Erica")
+![](../2020-02-10-torta-al-cioccolato-e-arancia/risultato9.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

@@ -14,7 +14,7 @@ categories:
 label: 2017-03-20-pasta-primavera
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2017-03-20-pasta-primavera/header.jpg "frangipani © Erica")
 
 > Benvenuta Primavera!
 
@@ -78,17 +78,17 @@ Settimana scorsa finalmente ho messo da parte le giacche invernali, le ho solo m
 </h3>
 
 Lessate la patata, poi pelatela e frullatela con un po' d'acqua. Dovrete ottenere una cremina ne troppo liquida ne troppo densa. Sgusciate i piselli, eliminate la parte dura degli asparagi e tagliateli a pezzetti tenendo da parte le punte, togliete le foglie più dure dei carciofini finché avrete solo la parte tenera, il cuore. Poi eliminate anche le punte, vi serve solo la parte più tenera, e tagliateli a fettine. Tagliate finemente anche il cipollotto e fatelo soffriggere in una padella con un filo d'olio ed un pizzico di sale. A questo punto aggiungete tutte le verdure, tenendo da parte le punte degli asparagi, aggiungete anche il rosmarino e fate rosolare a fiamma moderata finché la verdura si sarà ammorbidita leggermente, aggiustate di sale e spegnete i fornelli.
-![](condimento.jpg "frangipani © Erica")
+![](../2017-03-20-pasta-primavera/condimento.jpg "frangipani © Erica")
 
 Portate ad ebollizione abbondante acqua, salate e buttate la pasta. Quando sarà cotta scolatela (tenete da parte un po' d'acqua di cottura) e aggiungetela nella padella con il condimento. A questo punto aggiungete anche la cremina di patate e fate mantecare il tutto per qualche minuto, se c'è bisogno aggiungete anche un po' d'acqua di cottura.
-![](mantecare.jpg "frangipani © Erica")
+![](../2017-03-20-pasta-primavera/mantecare.jpg "frangipani © Erica")
 
 Impiattate e mangiatela bella calda!
-![](risultato1.jpg "frangipani © Erica")
+![](../2017-03-20-pasta-primavera/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2017-03-20-pasta-primavera/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2017-03-20-pasta-primavera/risultato3.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

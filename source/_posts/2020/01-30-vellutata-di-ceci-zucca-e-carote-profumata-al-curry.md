@@ -16,7 +16,7 @@ categories:
 label: 2020-01-30-vellutata-di-ceci-zucca-e-carote-al-curry
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2020-01-30-vellutata-di-ceci-zucca-e-carote-profumata-al-curry/header.jpeg "frangipani © Erica")
 
 **Vellutata di Ceci, Zucca e Carote profumata al Curry** un piatto ricco e nutriente. A me piace guarnire le vellutate con semi oleosi tostati e germogli. Spesso anche con fiori eduli essiccati.
 <br />
@@ -31,7 +31,7 @@ Gennaio sta finendo ed è proprio questa la cosa più bella di tutto il mese! Ma
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Vellutata di Ceci, Zucca e Carote profumata al Curry</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-01-30-vellutata-di-ceci-zucca-e-carote-profumata-al-curry/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Vellutata di Ceci, Zucca e Carote profumata al Curry un piatto ricco e nutriente.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -82,28 +82,28 @@ Gennaio sta finendo ed è proprio questa la cosa più bella di tutto il mese! Ma
 </h3>
 
 Lavate tutta la verdura e tagliatela a pezzettini. In una pentola capiente con un filo d'olio ed un pizzico di sale, fate soffriggere il porro con il sedano. Aggiungete la zucca, le carote ed i ceci, coprite con acqua e portate ad ebollizione. 
-![](pentola.jpeg "frangipani © Erica")
+![](../2020-01-30-vellutata-di-ceci-zucca-e-carote-profumata-al-curry/pentola.jpeg "frangipani © Erica")
 
 Aggiungete il cumino e/o il curry e fate andare finché tutto sarà cotto. Frullate il tutto ottenendo una cremina e aggiustate di sale.
 <br />
 Prendete dei semini oleosi e fateli tostare in padella. Mettete la vellutata in un piatto, aggiungete un filo d'olio e guarnite con i semi oleosi tostati e germogli freschi.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-01-30-vellutata-di-ceci-zucca-e-carote-profumata-al-curry/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-01-30-vellutata-di-ceci-zucca-e-carote-profumata-al-curry/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-01-30-vellutata-di-ceci-zucca-e-carote-profumata-al-curry/risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-01-30-vellutata-di-ceci-zucca-e-carote-profumata-al-curry/risultato5.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato3.jpeg "frangipani © Erica")
+![](../2020-01-30-vellutata-di-ceci-zucca-e-carote-profumata-al-curry/risultato3.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

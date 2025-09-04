@@ -12,7 +12,7 @@ categories:
 label: 2024-11-27-biscotti-sable-gingerbread-e-arancia
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2024-11-27-biscotti-sable-gingerbread-e-arancia/header.jpeg "frangipani © Erica")
 
 **Biscotti Sablè Gingerbread e Arancia** dei biscotti burrosi e profumatissimi e facilissimi da preparare. Le spezie per Gingerbread (Pan di Zenzero) a Natale non possono mancare... Sono super riscaldanti e confortanti. A me piace tantissimo abbinare questo mix di spezie con le arance per dare un tocco di freschezza. Se però non vi piace il gusto del Pan di Zenzero, potete semplicemente usare solo la cannella.
 <br />
@@ -27,7 +27,7 @@ Settimana scorsa c'è stata una super nevicata... Ha iniziato a nevicare gioved�
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Biscotti Sablè Gingerbread e Arancia</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2024-11-27-biscotti-sable-gingerbread-e-arancia/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Biscotti Sablè Gingerbread e Arancia, dei biscotti burrosi e profumatissimi e facilissimi da preparare.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -88,53 +88,53 @@ Con un cucchiaio di legno ammorbidite bene il burro rendendolo cremoso, poi aggi
 Formate due salsicciotti dal diametro di 4cm circa. Su una teglia o sul piano di lavoro mescolate un po' di zucchero semolato con un po' di spezie per pan di zenzero (o solo cannella) formando uno strato sottile. Prendete i salsicciotti e passateli nello zucchero facendolo aderire bene su tutta la superficie. Avvolgete i due salsicciotti nella pellicola e fate riposare in frigo per 2h.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="zucchero.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="salsicciotti.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-11-27-biscotti-sable-gingerbread-e-arancia/zucchero.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-11-27-biscotti-sable-gingerbread-e-arancia/salsicciotti.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 Passato il tempo di riposo prendete i due salsicciotti e con l'aiuto di un coltello ben affilato ricavatene tanti dischetti dallo spessore di 4-5mm.
-![](sables.jpeg "frangipani © Erica")
+![](../2024-11-27-biscotti-sable-gingerbread-e-arancia/sables.jpeg "frangipani © Erica")
 
 Mettete i dischetti su di una teglia con sotto della carta forno (meglio ancora un tappetino microforato) ed infornate nel forno preriscaldato a 180°C ventilato per 10-11min, non devono prendere troppo colore. Fateli intiepidire sulla teglia, poi passateli su di una griglia e fateli raffreddare completamente. Conservateli ben chiusi in un contenitore di latta o di vetro.
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-11-27-biscotti-sable-gingerbread-e-arancia/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-11-27-biscotti-sable-gingerbread-e-arancia/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-11-27-biscotti-sable-gingerbread-e-arancia/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-11-27-biscotti-sable-gingerbread-e-arancia/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-11-27-biscotti-sable-gingerbread-e-arancia/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-11-27-biscotti-sable-gingerbread-e-arancia/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-11-27-biscotti-sable-gingerbread-e-arancia/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-11-27-biscotti-sable-gingerbread-e-arancia/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-11-27-biscotti-sable-gingerbread-e-arancia/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-11-27-biscotti-sable-gingerbread-e-arancia/risultato10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

@@ -12,7 +12,7 @@ categories:
 - Colazione
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2016-03-27-panini-soffici-al-cioccolato/header.jpg "frangipani © Erica")
 
 > Buona Pasqua a Tutti!
 
@@ -75,15 +75,15 @@ Il giardino è pieno di fiori, è primavera, c'è il sole, abbiamo cambiato l'or
 </h3>
 
 Mettete nella planetaria la farina, il cacao, il sale e lo zucchero. Poi riscaldate leggermente il latte, aggiungete il lievito e fatelo sciogliere. Aggiungete anche la margarina nel latte e poi fate partire la planetaria. Versate il composto di latte, lievito e margarina nella farina e lasciate impastare finché l'impasto non si staccherà dalle pareti. A questo punto aggiungete il cioccolato fondente tagliato a pezzettini piccoli e fate impastare ancora un pochettino. Passate l'impasto su di un piano di lavoro e lavoratelo ancora per qualche minuto a mano. Potete fare tutto completamente a mano se volete. Mettete l'impasto in una coppa abbastanza grande e coprite bene con una coperta. Mettete a lievitare il tutto per 4 ore o almeno finché non avrà raddoppiato il suo volume. Se avete fretta aumentate la dose del lievito.
-![](impasto.jpg "frangipani © Erica")
+![](../2016-03-27-panini-soffici-al-cioccolato/impasto.jpg "frangipani © Erica")
 
 Passato il tempo della lievitazione, dividete l'impasto in 10 parti uguali. A questo punto potete fare dei semplici panini, una corona di panini o, come ho fatto io, dei coniglietti. Per fare i coniglietti prendete un pezzetto dell'impasto, formate una palla ovale, poi con una forbice fate due ritagli per formare le orecchie e con uno stecchino due buchini per fare gli occhi. Mettete i panini sulla leccarda con sotto della carta forno.
-![](coniglietto.jpg "frangipani © Erica")
+![](../2016-03-27-panini-soffici-al-cioccolato/coniglietto.jpg "frangipani © Erica")
 A questo punto coprite di nuovo i panini e fateli lievitare per almeno un'altra oretta.
-![](conigliettolievitato.jpg "frangipani © Erica")
+![](../2016-03-27-panini-soffici-al-cioccolato/conigliettolievitato.jpg "frangipani © Erica")
 
 Infornate i coniglietti nel forno preriscaldato a 180°C statico per 15-20min, o almeno fino a doratura. Appena sfornati copriteli per una decina di minuti con una coperta, in questo modo i vostri panini saranno ancora più soffici. Poi passateli su di una griglia e fateli raffreddare completamente.
-![](risultato.jpg "frangipani © Erica")
+![](../2016-03-27-panini-soffici-al-cioccolato/risultato.jpg "frangipani © Erica")
 
 
 <h4>Buon appetito

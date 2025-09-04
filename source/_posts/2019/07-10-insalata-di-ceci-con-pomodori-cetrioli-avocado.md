@@ -17,7 +17,7 @@ categories:
 label: 2019-07-10-insalata-di-ceci-con-pomodori-cetrioli-avocado
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2019-07-10-insalata-di-ceci-con-pomodori-cetrioli-avocado/header.jpeg "frangipani © Erica")
 
 **Insalta di Ceci con Pomodori, Cetrioli e Avocado** un'insalata molto sana, completa, fresca e leggera. Super versatile, può essere usata anche come condimento per il Cous Cous o per farcire un panino Pita. Per noi questo è il condimento standard per il Cous Cous che ai piccoli piace tantissimo! Per me ne tengo da parte sempre un po' e la mangio così, senza niente. Il segreto per preparare un'ottima insalata di ceci, pomodori, cetrioli e avocado sono i pomodori. Infatti, vi consiglio di usare i pomodori cuore di bue, che sono i più adatti per questa preparazione, anche per l'insalata greca. Usate tanto succo di limone e date il tocco finale con l'erba cipollina o i cipollotti freschi, per chi li gradisce. A me non piace la cipolla cruda, per questo uso l'erba cipollina. Provatela e ve ne innamorerete!
 
@@ -30,7 +30,7 @@ Per noi venerdì alle ore 11:50 inizieranno le vacanze estive! Spegnamo la svegl
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Insalata di Ceci con Pomodori, Cetrioli e Avocado</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2019-07-10-insalata-di-ceci-con-pomodori-cetrioli-avocado/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Insalta di Ceci con Pomodori, Cetrioli e Avocado un'insalata molto sana, completa, fresca e leggera. Super versatile, può essere usata anche come condimento per il Cous Cous o per farcire un panino Pita.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -74,19 +74,19 @@ Per noi venerdì alle ore 11:50 inizieranno le vacanze estive! Spegnamo la svegl
 </h3>
 
 Sciacquate bene i ceci lessi (se usate quelli in scatola) e metteteli in una coppa. Tagliate a pezzettini i pomodori, i cetrioli e l'avocado e aggiungeteli ai ceci. Condite il tutto con tanto succo di limone, olio evo e sale, alla fine aggiungete anche l'erba cipollina tagliata finemente. Mangiatela così come insalata, con del pane tostato o le piadine, come condimento per il Cous Cous o in un <a href="https://frangipani.raiano.ch/2015-02-05-panino-pita-con-koefte-e-salsa-tahin/" target="_blank">panino Pita</a> magari con l'aggiunta di formaggio Feta...
-![](risultato1.jpeg "frangipani © Erica")
+![](../2019-07-10-insalata-di-ceci-con-pomodori-cetrioli-avocado/risultato1.jpeg "frangipani © Erica")
 
-![](risultato2.jpeg "frangipani © Erica")
+![](../2019-07-10-insalata-di-ceci-con-pomodori-cetrioli-avocado/risultato2.jpeg "frangipani © Erica")
 
-![](risultato3.jpeg "frangipani © Erica")
+![](../2019-07-10-insalata-di-ceci-con-pomodori-cetrioli-avocado/risultato3.jpeg "frangipani © Erica")
 
-![](risultato4.jpeg "frangipani © Erica")
+![](../2019-07-10-insalata-di-ceci-con-pomodori-cetrioli-avocado/risultato4.jpeg "frangipani © Erica")
 
-![](risultato5.jpeg "frangipani © Erica")
+![](../2019-07-10-insalata-di-ceci-con-pomodori-cetrioli-avocado/risultato5.jpeg "frangipani © Erica")
 
-![](risultato6.jpeg "frangipani © Erica")
+![](../2019-07-10-insalata-di-ceci-con-pomodori-cetrioli-avocado/risultato6.jpeg "frangipani © Erica")
 
-![](risultato7.jpeg "frangipani © Erica")
+![](../2019-07-10-insalata-di-ceci-con-pomodori-cetrioli-avocado/risultato7.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

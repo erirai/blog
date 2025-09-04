@@ -11,7 +11,7 @@ categories:
 - "Muffin, Cupcakes, Cake Pops..."
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2015-05-08-muffin-alle-mandorle-con-cuore-di-cioccolato/header.jpg "frangipani © Erica")
 
 Volevo preparare un dolce ma non avevo tanto tempo... poi mi è venuto in mente, che in congelatore ho tantissimo cioccolato che mi è rimasto da Pasqua, soprattutto tantissimi Cioccolatini Lindor! Ed ecco quà il risultato...
 
@@ -86,15 +86,15 @@ Volevo preparare un dolce ma non avevo tanto tempo... poi mi è venuto in mente,
 
 Prendete una ciotola capiente e versateci la farina, lo zucchero, il lievito, il bicarbonato, la vaniglia ed il sale e mescolate il tutto.
 Poi aggiungete il resto degli ingredienti tranne i cioccolatini e mescolate finché avrete un impasto bello liscio.
-![](impasto.jpg "frangipani © Erica")
+![](../2015-05-08-muffin-alle-mandorle-con-cuore-di-cioccolato/impasto.jpg "frangipani © Erica")
 
 Mettete i pirottini di carta nella teglia per muffin poi mettete l'impasto e al centro il cioccolatino. Se i cioccolatini sono congelati è ancora meglio, perché in questo modo all'interno rimarrà liquido.
-![](teglia.jpg "frangipani © Erica")
+![](../2015-05-08-muffin-alle-mandorle-con-cuore-di-cioccolato/teglia.jpg "frangipani © Erica")
 
 Adesso infornateli nel forno preriscaldato a 180°C statico per ca. 20min, mi raccomando fate sempre la prova stecchino e fateli raffreddare su di una griglia.
-![](risultato.jpg "frangipani © Erica")
+![](../2015-05-08-muffin-alle-mandorle-con-cuore-di-cioccolato/risultato.jpg "frangipani © Erica")
 
-![](cuore.jpg "frangipani © Erica")
+![](../2015-05-08-muffin-alle-mandorle-con-cuore-di-cioccolato/cuore.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

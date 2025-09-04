@@ -10,7 +10,7 @@ categories:
 - Biscotti
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2014-12-09-husarenkrapferl/header.jpeg "frangipani © Erica")
 
 Mia sorella ed io oggi abbiamo fatto questi buonissimi Husarenkrapfen vegani. Io ho preparato l'impasto ed il resto lo ha fatto mia sorella... Abbiamo seguito la ricetta ma vedendo il risultato, secondo noi c'è qualcosa da migliorare per la prossima volta! Non per il gusto, che erano una favola, più per l'aspetto...
 
@@ -80,33 +80,33 @@ Mettete tutti gli ingredienti tranne la marmellata in una ciotola e impastate ve
 Passata l'ora prendete l'impasto e tagliate dei pezzi da ca. 3cm. Formate una pallina e mettetela sulla teglia con sotto della carta forno e schiacciarla leggermente. Poi con la punta del manico di un cucchiaio di legno, quello per cucinare, fate un buco senza però arrivare fino a sotto. Poi infornateli nel forno preriscaldato a 170°C statico per 12min. Questi biscotti non devono prendere troppo colore...
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="impasto.jpg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-12-09-husarenkrapferl/impasto.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-12-09-husarenkrapferl/teglia.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 Mentre i biscotti sono in forno, mettete un po' di marmellata in un pentolino e fatela sciogliere un po'. Appena sfornate i biscotti riempite il buchino con la marmellata aiutandovi con un cucchiaino.
-![](marmellata.jpg "frangipani © Erica")
+![](../2014-12-09-husarenkrapferl/marmellata.jpg "frangipani © Erica")
 
 Poi fate raffreddare completamente i biscotti su di una griglia e magnateli!
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-12-09-husarenkrapferl/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-12-09-husarenkrapferl/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-12-09-husarenkrapferl/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-12-09-husarenkrapferl/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato5.jpeg "frangipani © Erica")
+![](../2014-12-09-husarenkrapferl/risultato5.jpeg "frangipani © Erica")
 
 
 <h4>Buon appetito

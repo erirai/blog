@@ -12,7 +12,7 @@ categories:
 label: 2017-02-01-cous-cous-con-avocado
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2017-02-01-cous-cous-con-avocado-e-salsa-rosa/header.jpg "frangipani © Erica")
 
 > Benvenuto Febbraio, ultimo mese di questo gelido inverno senza fine!
 
@@ -74,21 +74,21 @@ Parliamo di questo piatto... L'idea per questa ricetta, mi è venuta pensando pr
 </h3>
 
 Preparate il Cous Cous come scritto sulla confezione, l'unica cosa diversa in questo caso è l'aggiunta del concentrato di pomodoro nell'acqua di cottura del Cous Cous. Passato il tempo di riposo, sgranate il Cous Cous aiutandovi con una forchetta.
-![](couscous.jpg "frangipani © Erica")
+![](../2017-02-01-cous-cous-con-avocado-e-salsa-rosa/couscous.jpg "frangipani © Erica")
 
 Tagliate l'avocado a dadini piccolini, poi condite con un filo d'olio, succo di limone e sale.
-![](avocado.jpg "frangipani © Erica")
+![](../2017-02-01-cous-cous-con-avocado-e-salsa-rosa/avocado.jpg "frangipani © Erica")
 
 Adesso impiattate: mettete un coppapasta al centro del piatto e aggiungete qualche cucchiaio di Cous Cous. Schiacciate e livellate. 
-![](piatto.jpg "frangipani © Erica")
+![](../2017-02-01-cous-cous-con-avocado-e-salsa-rosa/piatto.jpg "frangipani © Erica")
 
 Poi aggiungete l'avocado e livellate anche quello. Coprite con della salsa rosa a piacere. In commercio (almeno qui in svizzera) si trova anche la salsa rosa vegana. Poi finite con una spolverata di paprika.
 
-![](risultato1.jpg "frangipani © Erica")
+![](../2017-02-01-cous-cous-con-avocado-e-salsa-rosa/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2017-02-01-cous-cous-con-avocado-e-salsa-rosa/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2017-02-01-cous-cous-con-avocado-e-salsa-rosa/risultato3.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

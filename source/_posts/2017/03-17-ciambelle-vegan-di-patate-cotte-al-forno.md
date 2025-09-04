@@ -11,7 +11,7 @@ categories:
 label: 2017-03-17-ciambelle-vegan-di-patate
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2017-03-17-ciambelle-vegan-di-patate-cotte-al-forno/header.jpg "frangipani © Erica")
 
 > Tantissimi Auguroni alla mia carissima amica Ladan! Ci conosciamo ormai da più di 10 anni, purtoppo non ci vediamo molto, ma penso spesso a lei! È una di quelle amiche che ti tieni per tutta la vita... Ti voglio bene Ladan!
 
@@ -87,25 +87,25 @@ Mi ricordo quando ero incinta del mio piccolo avevo una voglia pazza di dolci di
 </h3>
 
 Lessate le patate in abbondante acqua, appena sono cotte scolatele e pelatele. Passatele nello schiacciapatate e fatele intiepidire. A questo punto mettete le patate, la farina, lo zucchero, la scorza dell'arancia e del limone, i semi della bacca di vaniglia ed il sale nella planetaria. Mescoalte un pochettino. Riscaldate leggermente il latte vegetale, poi fate sciogliere il lievito dentro il latte a aggiungete anche l'olio. Aggiungetelo dunque nella planetaria con gli ingredienti asciutti ed azionate la planetaria con il gancio. Impastate finché l'impasto non si staccherà dalle pareti della ciotola. Poi passate l'impasto su di un piano di lavoro e lavoratelo con le mani per qualche minuto. A questo punto mettete l'impasto in una coppa capiente, coprite e fate lievitare per 6 ore o almeno finché avrà raddoppiato il suo volume.
-![](impasto.jpg "frangipani © Erica")
+![](../2017-03-17-ciambelle-vegan-di-patate-cotte-al-forno/impasto.jpg "frangipani © Erica")
 
-![](impastolievitato.jpg "frangipani © Erica")
+![](../2017-03-17-ciambelle-vegan-di-patate-cotte-al-forno/impastolievitato.jpg "frangipani © Erica")
 
 Passato il tempo necessario, riprendete l'impasto e suddividetelo in 30 parti uguali da circa 60gr.
-![](porzioni.jpg "frangipani © Erica")
+![](../2017-03-17-ciambelle-vegan-di-patate-cotte-al-forno/porzioni.jpg "frangipani © Erica")
 
 Prendete una porzione, formate un salsicciotto e unite le due estremità per formare la ciambellina. Poi mettetele su di una teglia con sotto della carta forno. Non le mettete troppo vicine perché aumenteranno di volume.
-![](teglia.jpg "frangipani © Erica")
+![](../2017-03-17-ciambelle-vegan-di-patate-cotte-al-forno/teglia.jpg "frangipani © Erica")
 
 Fate lievitare le ciambelle per un'altra oretta, poi infornatele nel forno preriscaldato a 180°C statico per 20min. Controllate spesso per non farle bruciare. Appena sfornate, spennellatele con il latte vegetale e intingetele nello zucchero. In questo modo lo zucchero si attaccherà bene alle ciambelle. 
-![](zucchero.jpg "frangipani © Erica")
+![](../2017-03-17-ciambelle-vegan-di-patate-cotte-al-forno/zucchero.jpg "frangipani © Erica")
 
 Fatele intiepire e mangiatele subito... Freschissime sono il massimo!
-![](risultato1.jpg "frangipani © Erica")
+![](../2017-03-17-ciambelle-vegan-di-patate-cotte-al-forno/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2017-03-17-ciambelle-vegan-di-patate-cotte-al-forno/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2017-03-17-ciambelle-vegan-di-patate-cotte-al-forno/risultato3.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

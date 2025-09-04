@@ -12,7 +12,7 @@ categories:
 label: 2023-04-26-tarte-flambee-con-asparagi-e-finto-salmone-di-carote
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2023-04-26-tarte-flambee-con-asparagi-e-finto-salmone-di-carote/header.jpeg "frangipani © Erica")
 
 Pubblicità: **Tarte Flambée con Asparagi e finto Salmone di Carote** in collaborazione con <a href="https://www.farmy.ch" target="_blank">Farmy</a>. Una ricettina veloce e sfiziosa. Piena di asparagi e finto salmone di carote che si sposano perfettamente.
 <br />
@@ -31,7 +31,7 @@ Più comodo di così?
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Tarte Flambée con Asparagi e finto Salmone di Carote</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2023-04-26-tarte-flambee-con-asparagi-e-finto-salmone-di-carote/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;"> Tarte Flambée con Asparagi e finto Salmone di Carote, una ricettina veloce e sfiziosa. Piena di asparagi e finto salmone di carote che si sposano perfettamente.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -106,8 +106,8 @@ Per prima cosa preparate l'impasto: in una ciotola mettete la farina ed il sale 
 Passato il tempo necessario, stendete l'impasto aiutandovi con un matterello. Dovrete ottenere un rettangolo sottile grande quanto una teglia da forno (o due piccole). Adagiate il rettangolo sulla teglia con sotto della carta forno e iniziate a farcire la Tarte Flambée... Spalmate la crème fraîche (o panna acida, yogurt bianco, formaggio spalmabile, alternativa vegetale) sull'impasto lasciando un bordo sottile. Tagliate a strisce gli asparagi (se sono quelli fini non c'è bisogno) e distribuiteli bene sulla crème fraîche, tagliate a fettine sottili anche la cipolla e distribuitela bene. Salate il tutto, mettete dei rametti di timo e un filo d'olio.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="impasto.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-04-26-tarte-flambee-con-asparagi-e-finto-salmone-di-carote/impasto.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-04-26-tarte-flambee-con-asparagi-e-finto-salmone-di-carote/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -117,37 +117,37 @@ Infornate la **Tarte Flambée** nel forno preriscaldato a 200°C statico per cir
 Accompagnatela con una bella insalatona mista... ma è ottima anche come aperitivo!
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-04-26-tarte-flambee-con-asparagi-e-finto-salmone-di-carote/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-04-26-tarte-flambee-con-asparagi-e-finto-salmone-di-carote/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-04-26-tarte-flambee-con-asparagi-e-finto-salmone-di-carote/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-04-26-tarte-flambee-con-asparagi-e-finto-salmone-di-carote/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-04-26-tarte-flambee-con-asparagi-e-finto-salmone-di-carote/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-04-26-tarte-flambee-con-asparagi-e-finto-salmone-di-carote/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-04-26-tarte-flambee-con-asparagi-e-finto-salmone-di-carote/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-04-26-tarte-flambee-con-asparagi-e-finto-salmone-di-carote/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
-![](risultato9.jpeg "frangipani © Erica")
+![](../2023-04-26-tarte-flambee-con-asparagi-e-finto-salmone-di-carote/risultato9.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

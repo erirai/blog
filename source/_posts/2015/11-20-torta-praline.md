@@ -12,7 +12,7 @@ categories:
 - "Crostate, Tartes..."
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2015-11-20-torta-praline/header.jpg "frangipani © Erica")
 
 > Auguri Cucciolo mio per i nostri primi 10 anni passati insieme...
 
@@ -104,28 +104,28 @@ Oggi mio marito ed io festeggiamo i nostri primi 10 anni, 10 anni passati insiem
 </h3>
 
 Iniziate preparando il Bisquit. Mettete tutti gli ingredienti asciutti in una coppa e mescolate con una frusta a mano, poi aggiungete tutti gli ingredienti liquidi e mescolate finché tutti gli ingredienti si saranno amalgamati. Versate l'impasto in una teglia rotonda precedentemente imburrata ed infarinata.
-![](teglia.jpg "frangipani © Erica")
+![](../2015-11-20-torta-praline/teglia.jpg "frangipani © Erica")
 
 Infornate il bisquit nel forno preriscaldato a 170°C statico per ca. 12min, mi raccomando fate sempre la prova stecchino.
-![](sfornata.jpg "frangipani © Erica")
+![](../2015-11-20-torta-praline/sfornata.jpg "frangipani © Erica")
 
 Fatelo raffreddare leggermente, poi toglietelo dalla tortiera e con un coltello grande tagliate il pezzo di sopra, giusto quello che pasta per livellare il tutto.
-![](tagliata.jpg "frangipani © Erica")
+![](../2015-11-20-torta-praline/tagliata.jpg "frangipani © Erica")
 
 Adesso dedichiamoci alla crema di nocciole: mettete le nocciole su di una leccarda con sotto della carta forno e infornatele nel forno caldo a 200°C per 7min. Le nocciole saranno ben tostate quando vedrete che la pellicina si stacca e sentirete un buonissimo odore. Poi fatele raffreddare per qualche minuto.
-![](nocciole.jpg "frangipani © Erica")
+![](../2015-11-20-torta-praline/nocciole.jpg "frangipani © Erica")
 
 Mettete le nocciole ancora calde nel mixer e frullate il tutto fino a ridurle in polvere. Ogni tanto spegnete il mixer per non surriscaldarle. Aggiungete il cacao e frullate ancora un po'. Poi aggiungete il succo d'agave e date un'altra frullata. Mettete il latte vegetale in un pentolino (io ho usato quello nocciola e riso), aggiugnete l'Agar-Agar e fatelo sciogliere bene. Portate il latte ad ebollizione e fate sobbollire per 1min. Togleite il pentolino dai fornelli e fate raffreddare per qualche minuto. Poi versatelo nel mixer con dentro il composto con le nocciole e frullate ancora. Il composto sarà pronto quando sarà bello omogeneo e morbido. Passate la crema di nocciole in una coppa, aggiungete la vaniglia in polvere e date un'ultima mescolata.
-![](farcia.jpg "frangipani © Erica")
+![](../2015-11-20-torta-praline/farcia.jpg "frangipani © Erica")
 
 Mettete il biscuit in un anello da pasticceria.
-![](disco.jpg "frangipani © Erica")
+![](../2015-11-20-torta-praline/disco.jpg "frangipani © Erica")
 
 Versateci sopra la crema di nocciole e livellate bene.
-![](pronta.jpg "frangipani © Erica")
+![](../2015-11-20-torta-praline/pronta.jpg "frangipani © Erica")
 
 A questo punto mettete la torta in frigo almeno per 6 ore, ancora meglio se la preparate la sera prima e la lasciate in frigo per tutta la notte. Prima di servirla, cospargete la superficie con una bella spolverata di cacao amaro.
-![](risultato.jpg "frangipani © Erica")
+![](../2015-11-20-torta-praline/risultato.jpg "frangipani © Erica")
 
 
 

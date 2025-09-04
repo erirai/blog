@@ -10,7 +10,7 @@ categories:
 - Biscotti
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2013-12-09-spitzbuebe/header.jpg "frangipani © Erica")
 
 **Spitzbuebe** (Biscotti Occhio di Bue) i biscotti di Natale più buoni del mondo. Senza di loro non è Natale!
 
@@ -21,7 +21,7 @@ Ecco la seconda parte dei biscotti di natale... oggi ne ho fatti tre tipi. Quest
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Spitzbuebe (Biscotti Occhio di Bue)</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2013-12-09-spitzbuebe/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Spitzbuebe (Biscotti Occhio di Bue), i biscotti di Natale più buoni del mondo. Senza di loro non è Natale!</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -82,23 +82,23 @@ Ecco la seconda parte dei biscotti di natale... oggi ne ho fatti tre tipi. Quest
 </h3>
 
 Preparate la pasta frolla impastando velocemente tutti gli ingredienti, copritela con della pellicola trasparente e mettetela in frigo per 2 orette.
-![](impasto.jpg "frangipani © Erica")
+![](../2013-12-09-spitzbuebe/impasto.jpg "frangipani © Erica")
 
 Prendete un pezzo dell'impasto e stendetelo, dovrà essere spesso 5mm. Usate delle forme non troppo elaborate, tipo le stelle, i cuori, i cerchi ecc. Se avete quelle formine con i buchi in mezzo ancora meglio. Vi serve un numero pari di biscotti, perché per completare un biscotto ve ne serviranno due.
-![](mattarello.jpg "frangipani © Erica")
+![](../2013-12-09-spitzbuebe/mattarello.jpg "frangipani © Erica")
 
 Infornate i biscotti a 180°C nel forno preriscaldato per 12min.
-![](sfornati.jpg "frangipani © Erica")
+![](../2013-12-09-spitzbuebe/sfornati.jpg "frangipani © Erica")
 
 Quando saranno freddi, prendete la marmella, spalmatela su di un biscotto e poi chiudetelo con un altro biscotto (fate la stessa cosa con la nutella).
-![](riempirli.jpg "frangipani © Erica")
+![](../2013-12-09-spitzbuebe/riempirli.jpg "frangipani © Erica")
 
-![](chiusi.jpg "frangipani © Erica")
+![](../2013-12-09-spitzbuebe/chiusi.jpg "frangipani © Erica")
 
 Per finire una bella spolverata di zucchero a velo.
-![](risultato1.jpg "frangipani © Erica")
+![](../2013-12-09-spitzbuebe/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2013-12-09-spitzbuebe/risultato2.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

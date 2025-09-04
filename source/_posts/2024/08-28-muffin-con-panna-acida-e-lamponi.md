@@ -12,7 +12,7 @@ categories:
 label: 2024-08-28-muffin-con-panna-acida-e-lamponi
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2024-08-28-muffin-con-panna-acida-e-lamponi/header.jpeg "frangipani © Erica")
 
 **Muffin con Panna Acida e Lamponi** dei sofficissimi Muffin dai gusti semplici. Si fanno in un batter d'occhio ed è un ottimo impasto base da adattare ai propri gusti. Con i lamponi sono divini, ma io sono di parte perché li adoro. 
 <br />
@@ -25,7 +25,7 @@ Finito Agosto... Finita anche l'estate? Spero proprio di no! Gradirei gentilment
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Muffin con Panna Acida e Lamponi</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2024-08-28-muffin-con-panna-acida-e-lamponi/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Muffin con Panna Acida e Lamponi, dei sofficissimi Muffin dai gusti semplici.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -90,8 +90,8 @@ Montate il burro morbido con lo zucchero finché sarà bello spumoso e chiaro. A
 Aiutandovi con un porzionatore per gelato, riempite i pirottini per Muffin fino a 3/4. Distribuite su tutti i Muffin i lamponi premendo un po'.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="impasto.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-08-28-muffin-con-panna-acida-e-lamponi/impasto.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-08-28-muffin-con-panna-acida-e-lamponi/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -99,48 +99,48 @@ Aiutandovi con un porzionatore per gelato, riempite i pirottini per Muffin fino 
 Infornate i **Muffin con Panna Acida e Lamponi** nel forno preriscaldato a 180°C ventilato per 25min circa, fate comunque la prova stecchino. Fateli intiepidire un attimo prima di uscirli dalla teglia e fateli raffreddare su di una griglia.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-08-28-muffin-con-panna-acida-e-lamponi/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-08-28-muffin-con-panna-acida-e-lamponi/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-08-28-muffin-con-panna-acida-e-lamponi/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-08-28-muffin-con-panna-acida-e-lamponi/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-08-28-muffin-con-panna-acida-e-lamponi/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-08-28-muffin-con-panna-acida-e-lamponi/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-08-28-muffin-con-panna-acida-e-lamponi/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-08-28-muffin-con-panna-acida-e-lamponi/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-08-28-muffin-con-panna-acida-e-lamponi/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-08-28-muffin-con-panna-acida-e-lamponi/risultato10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato11.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato12.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-08-28-muffin-con-panna-acida-e-lamponi/risultato11.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-08-28-muffin-con-panna-acida-e-lamponi/risultato12.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

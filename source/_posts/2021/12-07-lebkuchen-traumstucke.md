@@ -11,7 +11,7 @@ categories:
 label: 2021-12-07-lebkuchen-traumstucke
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2021-12-07-lebkuchen-traumstucke/header.jpeg "frangipani © Erica")
 
 **Biscotti Pezzi di Sogno al Pan di Zenzero e Arancia** che profumano di Natale. Preparazione facilissima e velocissima e mangiandoli si sciolgono in bocca che è una meraviglia. Sono dei biscotti di pasta frolla e si possono aromatizzare a piacere, io ho scelto le spezie Pan di Zenzero e scorza d'arancia. Secondo me le due cose stanno benissimo insieme, ma va benissimo anche solo uno o l'altro o totalmente altro. 
 <br />
@@ -27,7 +27,7 @@ Wuhuuuuuuuu, ci siamo lasciati alle spalle Novembre e diamo il benvenuto a Dicem
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Biscotti Pezzi di Sogno al Pan di Zenzero e Arancia</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2021-12-07-lebkuchen-traumstucke/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Biscotti Pezzi di Sogno al Pan di Zenzero e Arancia** che profumano di Natale. Preparazione facilissima e velocissima e mangiandoli si sciolgono in bocca che è una meraviglia.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -89,53 +89,53 @@ Sbattete il burro con lo zucchero a velo finché diventa cremoso. Aggiungete i t
 Uscite l'impasto dal frigo e formate due salsicciotti dal diametro di 2cm. Con un coltello non affilato tagliate tanti pezzettoni da 2cm. Appoggiate **i Pezzi di Sogno** ben distanziati su di una leccarda con sotto della carta forno. 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="tagliare.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-12-07-lebkuchen-traumstucke/tagliare.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-12-07-lebkuchen-traumstucke/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 Infornateli nel forno preriscaldato a 160°C ventilato per 12min poi fateli intiepidire leggermente prima di passarli nello zucchero a velo.
-![](zucchero.jpeg "frangipani © Erica") 
+![](../2021-12-07-lebkuchen-traumstucke/zucchero.jpeg "frangipani © Erica") 
 
 Conservate i **Biscotti Pezzi di Sogno al Pan di Zenzero e Arancia** in un contenitore di latta o di vetro.
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-12-07-lebkuchen-traumstucke/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-12-07-lebkuchen-traumstucke/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-12-07-lebkuchen-traumstucke/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-12-07-lebkuchen-traumstucke/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-12-07-lebkuchen-traumstucke/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-12-07-lebkuchen-traumstucke/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-12-07-lebkuchen-traumstucke/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-12-07-lebkuchen-traumstucke/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-12-07-lebkuchen-traumstucke/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-12-07-lebkuchen-traumstucke/risultato10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

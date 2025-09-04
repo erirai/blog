@@ -10,7 +10,7 @@ categories:
 - "Torte salate, Muffin salati..."
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2014-06-05-torta-salata-con-verdure-e-tofu-rosso/header.jpg "frangipani © Erica")
 
 Passato il matrimonio di mia sorella, mia figlia si è ammalata, poi ci siamo ammalati anche mio marito ed io... ora finalmente siamo tutti sani e pimpanti e oggi ho tempo di andare a fare un po' di compere insieme alla mia piccolina! Poi oggi c'è anche un sole meraviglioso, quindi colgo l'occasione! Per non avere fretta di tornare a casa per cucinare sta sera si mangia una bella Quiche con verdure e Tofu rosso. Ho preparato le verdure già di mattina, in modo che sta sera devo solo mettere tutto nella teglia ed infornarla...
 
@@ -96,19 +96,19 @@ Passato il matrimonio di mia sorella, mia figlia si è ammalata, poi ci siamo am
 </h3>
 
 Tagliate finemente lo scalogno e fatelo soffriggere in una padella con poco olio ed un pizzico di sale. Nel frattempo tagliate a cubetti il peperone, la melanzana e gli asparagi, mettendo da parte le punte degli asparagi.
-![](ingredienti.jpg "frangipani © Erica")
+![](../2014-06-05-torta-salata-con-verdure-e-tofu-rosso/ingredienti.jpg "frangipani © Erica")
 
 Quando lo scalogno si sarà dorato aggiungete le verduere e fate soffriggere per qualche minuto. Poi aggiungete poca acqua e fate cucinare a fuoco basso finché le verdure sono cotte. Quando sono pronte togliete dai fornelli e aggiustate di sale.
-![](verdure.jpg "frangipani © Erica")
+![](../2014-06-05-torta-salata-con-verdure-e-tofu-rosso/verdure.jpg "frangipani © Erica")
 
 Mettete la panna in una ciotolina, aggiungete il latte, il cucchiaio di farina di soia (che funge da legante come l'uovo), la paprica in polvere, la curcuma, il formagio grattugiato, le erbe aromatiche, salate e mescolate tutto.
-![](pastella.jpg "frangipani © Erica")
+![](../2014-06-05-torta-salata-con-verdure-e-tofu-rosso/pastella.jpg "frangipani © Erica")
 
 Mettete la pasta sfoglia con la carta forno in una teglia e bucherellate il fondo con una forchetta. Coprite il fondo con le verdure, poi sbriciolateci sopra con le mani il Tofu rosso, coprite il tutto con il composto di panna e finite decorando la Quiche con le punte d'asparagi. Piegate verso dentro il bordo della pasta sfoglia e tagliate la carta forno in eccesso.
-![](cruda.jpg "frangipani © Erica")
+![](../2014-06-05-torta-salata-con-verdure-e-tofu-rosso/cruda.jpg "frangipani © Erica")
 
 Poi infornate a 190°C nel forno ventilato per ca. 30min. Prima di tagliare la Quiche aspettate una decina di minuti, in modo che si rapprenda un po' e servite con una bella insalatina.
-![](risultato.jpg "frangipani © Erica")
+![](../2014-06-05-torta-salata-con-verdure-e-tofu-rosso/risultato.jpg "frangipani © Erica")
 
 
 <h3>

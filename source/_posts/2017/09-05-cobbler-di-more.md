@@ -11,7 +11,7 @@ categories:
 label: 2017-09-05-cobbler-di-more
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2017-09-05-cobbler-di-more/header.jpeg "frangipani © Erica")
 
 > Benvenuto Settembre!
 
@@ -81,45 +81,45 @@ Ma anche da voi è arrivato l'autunno? Qui si, e come se è arrivato! Mercoledì
 </h3>
 
 Frullate con le fruste elettriche il burro insieme allo zucchero finché diventa chiaro e gonfio, poi aggiungete l'uovo e continuate a mescolare finché non sarà completamente incorporato. A questo punto aggiungete farina, lievito, sale e vaniglia e finite di mescolare. Avrete un'impasto tipo pasta frolla, ma molto più morbido. A parte mescolate le more con lo zucchero ed il succo di limone e versatele nella pirofila o teglia. Con un cucchiaio spalmate molto delicatamente l'impasto sulle more.
-![](teglia.jpg "frangipani © Erica")
+![](../2017-09-05-cobbler-di-more/teglia.jpg "frangipani © Erica")
 
 Infornate nel forno preriscaldato statico a 190°C per ca. 40min. Si deve creare una bella crosticina, ma non si deve bruciare. Servitelo ancora caldo... È buono così in purezza o con del gelato alla vaniglia... come preferite. Ma anche freddo è molto buono!
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2017-09-05-cobbler-di-more/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2017-09-05-cobbler-di-more/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2017-09-05-cobbler-di-more/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2017-09-05-cobbler-di-more/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2017-09-05-cobbler-di-more/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2017-09-05-cobbler-di-more/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2017-09-05-cobbler-di-more/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2017-09-05-cobbler-di-more/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2017-09-05-cobbler-di-more/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2017-09-05-cobbler-di-more/risultato10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

@@ -9,7 +9,7 @@ categories:
 label: 2020-04-29-biscotti-morbidi-al-burro-di-arachidi
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2020-04-29-biscotti-morbidi-al-burro-di-arachidi/header.jpeg "frangipani © Erica")
 
 **Biscotti morbidi al Burro di Arachidi** buonissimi, friabili, scioglievoli che sanno proprio di burro di arachidi! Sono perfetti per la colazione o da mangiare a merenda con un bicchiere di succo di frutta.
 <br />
@@ -20,18 +20,18 @@ Era da un sacco di tempo che volevo fare i biscotti al burro di arachidi e dato 
 Con tutto quello che sta succedendo, non vi ho neanche fatto vedere le foto della torta di compleanno di Gioele... È stata una festicciola un po' improvvisata ma era felicissimo e questa è la cosa importante!
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="tortagioele1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="tortagioele2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-04-29-biscotti-morbidi-al-burro-di-arachidi/tortagioele1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-04-29-biscotti-morbidi-al-burro-di-arachidi/tortagioele2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
-![](tortagioele3.jpeg "frangipani © Erica")
+![](../2020-04-29-biscotti-morbidi-al-burro-di-arachidi/tortagioele3.jpeg "frangipani © Erica")
 
 Anche il compleanno di mio marito è stato durante il Lockdown, ho fatto uno dei suoi dolci preferiti, la <a href="https://frangipani.raiano.ch/2016-09-03-no-bake-cheesecake-al-limone/" target="_blank">no bake Cheesecake al Limone</a>. Non avevo neanche le candeline, che vergogna. Sua mamma per caso gli ha regalato delle candeline con scritto Happy Birthday e le ho usate... La sera Pizza e basta, niente di che... Per lui va bene così, non ama festeggiare il suo compleanno.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="tortaadri1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="tortaadri2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-04-29-biscotti-morbidi-al-burro-di-arachidi/tortaadri1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-04-29-biscotti-morbidi-al-burro-di-arachidi/tortaadri2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -43,7 +43,7 @@ Il prossimo compleanno sarà quello di Gaia, anche lei durante il lockdown... Le
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Biscotti morbidi al Burro di Arachidi</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-04-29-biscotti-morbidi-al-burro-di-arachidi/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Biscotti morbidi al Burro di Arachidi buonissimi, friabili, scioglievoli che sanno proprio di burro di arachidi!</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -103,32 +103,32 @@ Il prossimo compleanno sarà quello di Gaia, anche lei durante il lockdown... Le
 Con il frullatore amalgamate bene il burro ed il burro di arachidi. Aggiungete lo zucchero e mescolate bene. Adesso aggiungete anche lievito, bicarbonato, sale e vaniglia, mescolate e poi aggiungete anche l'uovo e incorporate bene. Per ultimo mettete la farina e finite di impastare con le mani finché l'impasto sarà bello liscio. 
 <br />
 Formate tante palline grandi circa come una noce, adagiatele su di una teglia con sotto della carta forno e schiacciatele leggermente.
-![](teglia.jpeg "frangipani © Erica")
+![](../2020-04-29-biscotti-morbidi-al-burro-di-arachidi/teglia.jpeg "frangipani © Erica")
 
 Infornate i biscotti al burro di arachidi nel forno preriscaldato a 190°C ventilato per ca. 13-15min o finché avranno un colore leggermente dorato.
 <br />
 Fateli raffreddare un pochino prima di spostarli dalla teglia. Una volta freddi conservateli in un barattolo di latta o di vetro.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-04-29-biscotti-morbidi-al-burro-di-arachidi/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-04-29-biscotti-morbidi-al-burro-di-arachidi/risultato3.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato2.jpeg "frangipani © Erica")
+![](../2020-04-29-biscotti-morbidi-al-burro-di-arachidi/risultato2.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-04-29-biscotti-morbidi-al-burro-di-arachidi/risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-04-29-biscotti-morbidi-al-burro-di-arachidi/risultato5.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato6.jpeg "frangipani © Erica")
+![](../2020-04-29-biscotti-morbidi-al-burro-di-arachidi/risultato6.jpeg "frangipani © Erica")
 
-![](risultato7.jpeg "frangipani © Erica")
+![](../2020-04-29-biscotti-morbidi-al-burro-di-arachidi/risultato7.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

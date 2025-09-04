@@ -12,7 +12,7 @@ categories:
 label: 2018-01-30-frittelle-di-ricotta-e-mele
 lang: it 
 ---
-![](header.jpg "frangipani © Erica")
+![](../2018-01-30-frittelle-di-ricotta-e-mele/header.jpg "frangipani © Erica")
 
 A Carnevale i dolci fritti non possono mancare, come queste Frittelle di Ricotta e Mele. Queste sono facilissime, perché mettete tutto in una ciotola e poi dovete solo friggere. Belle soffici e succose, una tira l'altra! Per aromatizzare io ho aggiunto la scorza di limone, ma potete tranquillamente mettere anche la cannella. Mele e cannella vanno sempre bene. O anche l'uvetta, a chi piace. A me no! Ottime per la merenda, ogni tanto ci sta... Poi il carnevale è festa. Come già saprete, provo a fare al forno tutto quello che normalmente andrebbe fritto, ma in questo caso il fritto ci sta tutto. Certe cose vanno fritte e basta! Voi avete già iniziato con le frittelle?
 
@@ -74,26 +74,26 @@ A Carnevale i dolci fritti non possono mancare, come queste Frittelle di Ricotta
 </h3>
 
 Mettete tutti gli ingredienti dalla ricotta fino alla scorza di limone in una coppa e mescolate finché il composto sarà bello liscio. Per ultimo aggiungete la mela tagliata a cubetti piccolissimi.
-![](impasto.jpg "frangipani © Erica")
+![](../2018-01-30-frittelle-di-ricotta-e-mele/impasto.jpg "frangipani © Erica")
 
 Portate l'olio per friggere a temperatura, poi con l'aiuto di due cucchiai formate delle palline e versatele delicatamente direttamente nell'olio. Friggetele finché avranno un bel colore.
-![](friggere.jpg "frangipani © Erica")
+![](../2018-01-30-frittelle-di-ricotta-e-mele/friggere.jpg "frangipani © Erica")
 
 Passate le frittelle di ricotta e mele su della carta da cucina per far assorbire l'olio in eccesso. Poi passatele nello zucchero semolato.
-![](carta.jpg "frangipani © Erica")
+![](../2018-01-30-frittelle-di-ricotta-e-mele/carta.jpg "frangipani © Erica")
 
 Servitele subito, calde sono ancora più buone...
-![](risultato1.jpg "frangipani © Erica")
+![](../2018-01-30-frittelle-di-ricotta-e-mele/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2018-01-30-frittelle-di-ricotta-e-mele/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2018-01-30-frittelle-di-ricotta-e-mele/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2018-01-30-frittelle-di-ricotta-e-mele/risultato4.jpg "frangipani © Erica")
 
-![](risultato5.jpg "frangipani © Erica")
+![](../2018-01-30-frittelle-di-ricotta-e-mele/risultato5.jpg "frangipani © Erica")
 
-![](risultato6.jpg "frangipani © Erica")
+![](../2018-01-30-frittelle-di-ricotta-e-mele/risultato6.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

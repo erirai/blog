@@ -13,7 +13,7 @@ categories:
 label: 2014-crumble-di-prugne
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2014-08-24-crumble-di-prugne/header.jpeg "frangipani © Erica")
 
 Qualche giorno fa mi sono comprata una bellissima tortiera e volevo usarla subito. Poi mia sorella mi ha portato delle prugne, quindi abbiamo deciso di fare un **Crumble di Prugne**. Vi assicuro che lo abbiamo preparato in 5 minuti e vi assicuro che è buonissimo, un vero e proprio comfort food!
 
@@ -23,7 +23,7 @@ Qualche giorno fa mi sono comprata una bellissima tortiera e volevo usarla subit
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Crumble di Prugne</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2014-08-24-crumble-di-prugne/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Crumble di Prugne un comfort food pazzesco!</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -76,23 +76,23 @@ Qualche giorno fa mi sono comprata una bellissima tortiera e volevo usarla subit
 </h3>
 
 Iniziate lavando e tagliando in quatto le prugne. Poi aggiungete il marsala, il succo di limone, la cannella e 60gr di zucchero, mescolate bene e passate la frutta nella tortiera. Prendete una tortiera carina dato che il crumble va portato a tavola nella tortiera stessa.
-![](prugne.jpeg "frangipani © Erica")
+![](../2014-08-24-crumble-di-prugne/prugne.jpeg "frangipani © Erica")
 
 Ora preparate il crumble: mettete in una ciotola la farina, il resto dello zucchero, lo zucchero vanigliato e la margarina a cubetti. Lavorate gli ingredienti velocemente con le punte delle dita ottenendo un impasto bricioloso. Ricoprite la frutta con la pasta briciolosa e poi infornate a 180°C (statico) per mezz'oretta.
-![](teglia.jpeg "frangipani © Erica")
+![](../2014-08-24-crumble-di-prugne/teglia.jpeg "frangipani © Erica")
 
 Il crumble va mangiato ancora caldo, se gradite con del gelato alla vaniglia, ma è buonissimo anche freddo...
-![](risultato1.jpeg "frangipani © Erica")
+![](../2014-08-24-crumble-di-prugne/risultato1.jpeg "frangipani © Erica")
 
-![](risultato2.jpeg "frangipani © Erica")
+![](../2014-08-24-crumble-di-prugne/risultato2.jpeg "frangipani © Erica")
 
-![](risultato3.jpeg "frangipani © Erica")
+![](../2014-08-24-crumble-di-prugne/risultato3.jpeg "frangipani © Erica")
 
-![](risultato4.jpeg "frangipani © Erica")
+![](../2014-08-24-crumble-di-prugne/risultato4.jpeg "frangipani © Erica")
 
-![](risultato5.jpeg "frangipani © Erica")
+![](../2014-08-24-crumble-di-prugne/risultato5.jpeg "frangipani © Erica")
 
-![](risultato6.jpeg "frangipani © Erica")
+![](../2014-08-24-crumble-di-prugne/risultato6.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

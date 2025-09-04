@@ -13,7 +13,7 @@ categories:
 label: 2020-12-14-pavlova-con-crema-pasticcera-e-mele-alla-cannella
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2020-12-14-pavlova-con-crema-pasticcera-e-mele-alla-cannella/header.jpeg "frangipani © Erica")
 
 **Pavlova con Crema Pasticcera e Mele alla Cannella** un dolce al cucchiaio dalle consistenze diverse. Un guscio croccante fuori, ma morbido dentro. Una crema alla vaniglia e poi le mele alla cannella che danno quel tocco natalizio.
 <br />
@@ -47,7 +47,7 @@ Vi auguro un sereno Natale e un 2021 migliore... Addio Gigante Buono, è stato u
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Pavlova con Crema Pasticcera e Mele alla Cannella</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-12-14-pavlova-con-crema-pasticcera-e-mele-alla-cannella/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Pavlova con Crema Pasticcera e Mele alla Cannella un dolce al cucchiaio dalle consistenze diverse. Un guscio croccante fuori, ma morbido dentro. Una crema alla vaniglia e poi le mele alla cannella che danno quel tocco natalizio.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -150,73 +150,73 @@ Fate sciogliere la fecola o l'amido nell'aceto e aggiungetelo quando la meringa 
 Sulla carta forno disegnate un cerchio da circa 20cm di diametro. Girate il foglio e versate la meringa nel cerchio. Formate un disco, aggiustate un po' il bordo rendendolo alto e più liscio e al centro create una specie di cratere che accoglierà la crema.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="meringa.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-12-14-pavlova-con-crema-pasticcera-e-mele-alla-cannella/meringa.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-12-14-pavlova-con-crema-pasticcera-e-mele-alla-cannella/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 Infornate la Pavlova nel forno preriscaldato a 160°C ventilato, dopo 10min abbassate la temperatura a 150°C e cuocete per altri 40-50min. Non aprite il forno durante la cottura, per nessun motivo. Una volta cotta, fatela raffreddare nel forno leggermente aperto.
-![](pavlova.jpeg "frangipani © Erica")
+![](../2020-12-14-pavlova-con-crema-pasticcera-e-mele-alla-cannella/pavlova.jpeg "frangipani © Erica")
 
 Mentre la Pavlova cuoce, preparate la crema pasticcera. In una coppa mescolate i tuorli con lo zucchero e l'amido o la fecola finché avrete un composto bello liscio. A parte portate quasi a bollore il latte con la stecca di vaniglia precedentemente aperta, poi sempre mescolando, versate il latte bollente nella coppa con i tuorli. Mescolate bene e versate il tutto di nuovo nella pentola e a temperatura moderata e sempre mescolando, cuocete finché si sarà addensata. Versate la crema pasticcera in una coppa, coprite con la pellicola a contatto e fate raffreddare.
-![](pasticcera.jpeg "frangipani © Erica")
+![](../2020-12-14-pavlova-con-crema-pasticcera-e-mele-alla-cannella/pasticcera.jpeg "frangipani © Erica")
 
 L'ultima parte sono le mele alla cannella... potete prepararle e farle raffreddare o prepararle all'ultimo momento e servirle come componente calda del dolce... Dunque pelate le mele, eliminate la parte centrale e tagliatele a fettine. Mettetele in un pentolino con lo zucchero, il succo di limone, la cannella (in polvere o la stecca), l'amido o la fecola e un pochino d'acqua. Fate cucinare per qualche minuto a temperatura media, le mele si dovranno ammorbidire leggermente, ma rimanere croccanti e regolatevi con l'acqua, ci dovrà essere un pochettino di salsina...
-![](mele.jpeg "frangipani © Erica")
+![](../2020-12-14-pavlova-con-crema-pasticcera-e-mele-alla-cannella/mele.jpeg "frangipani © Erica")
 
 Mettete la Pavlova su di un piatto da portata, distribuite nel cratere la crema pasticcera (prima mescolatela un pochettino per ammorbidirla) e finite con le mele alla cannella... servite e finitela subito!
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-12-14-pavlova-con-crema-pasticcera-e-mele-alla-cannella/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-12-14-pavlova-con-crema-pasticcera-e-mele-alla-cannella/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato3.jpeg "frangipani © Erica")
+![](../2020-12-14-pavlova-con-crema-pasticcera-e-mele-alla-cannella/risultato3.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <div style="clear: both"></div>
-  </div>
-</p>
-
-<p>
-  <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <div style="clear: both"></div>
-  </div>
-</p>
-
-![](risultato8.jpeg "frangipani © Erica")
-
-<p>
-  <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-12-14-pavlova-con-crema-pasticcera-e-mele-alla-cannella/risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-12-14-pavlova-con-crema-pasticcera-e-mele-alla-cannella/risultato5.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato11.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato12.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-12-14-pavlova-con-crema-pasticcera-e-mele-alla-cannella/risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-12-14-pavlova-con-crema-pasticcera-e-mele-alla-cannella/risultato7.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato13.jpeg "frangipani © Erica")
+![](../2020-12-14-pavlova-con-crema-pasticcera-e-mele-alla-cannella/risultato8.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato14.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato15.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-12-14-pavlova-con-crema-pasticcera-e-mele-alla-cannella/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-12-14-pavlova-con-crema-pasticcera-e-mele-alla-cannella/risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <div style="clear: both"></div>
+  </div>
+</p>
+
+<p>
+  <div style="width: 100%; margin-bottom: 0">
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-12-14-pavlova-con-crema-pasticcera-e-mele-alla-cannella/risultato11.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-12-14-pavlova-con-crema-pasticcera-e-mele-alla-cannella/risultato12.jpeg" alt="" title="frangipani © Erica" />
+    <div style="clear: both"></div>
+  </div>
+</p>
+
+![](../2020-12-14-pavlova-con-crema-pasticcera-e-mele-alla-cannella/risultato13.jpeg "frangipani © Erica")
+
+<p>
+  <div style="width: 100%; margin-bottom: 0">
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-12-14-pavlova-con-crema-pasticcera-e-mele-alla-cannella/risultato14.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-12-14-pavlova-con-crema-pasticcera-e-mele-alla-cannella/risultato15.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

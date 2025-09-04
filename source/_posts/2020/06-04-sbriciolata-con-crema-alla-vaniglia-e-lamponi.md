@@ -11,7 +11,7 @@ categories:
 label: 2020-06-04-sbriciolata-con-crema-alla-vaniglia-e-lamponi
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2020-06-04-sbriciolata-con-crema-alla-vaniglia-e-lamponi/header.jpeg "frangipani © Erica")
 
 **Sbriciolata con Crema alla Vaniglia e Lamponi** iniziamo il mese di Giugno con un dolce che sa di estate! Un guscio croccante, un ripieno cremoso e la frutta che da freschezza... Questa combinazione vince sempre!
 <br />
@@ -32,7 +32,7 @@ Magari dovrei prendere esempio da Gioele che martedì all'asilo ha raccontato ch
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Sbriciolata con Crema alla Vaniglia e Lamponi</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-06-04-sbriciolata-con-crema-alla-vaniglia-e-lamponi/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Sbriciolata con Crema alla Vaniglia e Lamponi iniziamo il mese di Giugno con un dolce che sa di estate! Un guscio croccante, un ripieno cremoso e la frutta che da freschezza.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -117,13 +117,13 @@ Magari dovrei prendere esempio da Gioele che martedì all'asilo ha raccontato ch
 </h3>
 
 Per prima cosa preparate la crema alla vaniglia. In una pentola capiente portate a ebollizione il latte con la stecca di vaniglia e la scorza intera del limone. A parte montate le uova con lo zucchero ed un pizzico di sale finché saranno chiari e gonfi. A questo punto aggiungete la farina e mescolate. Appena il latte bolle, togliete dai fornelli, versate il composto con le uova nella pentola con il latte, mescolate velocemente e mettete di nuovo sui fornelli. Appena bolle, iniziate a mescolare, la crema sarà già densa e pronta, eliminate la stecca di vaniglia e la scorza di limone. Fate raffreddare la crema alla vaniglia coperta con la pellicola.
-![](crema.jpeg "frangipani © Erica")
+![](../2020-06-04-sbriciolata-con-crema-alla-vaniglia-e-lamponi/crema.jpeg "frangipani © Erica")
 
 Per la frolla impastate in una coppa velocemente tutti gli ingredienti. Dovrete ottenere un composto sabbioso, bricioloso. Versate 2/3 dell'impasto in una teglia rotonda a cerniera ricoperta di carta forno e con le mani schiacciate bene formando anche un bordo. A questo punto spalmate sulla base la metà della crema alla vaniglia e la metà dei lamponi. Coprite con il resto della crema e i lamponi e finite con l'impasto di briciole di frolla.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="lamponi.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-06-04-sbriciolata-con-crema-alla-vaniglia-e-lamponi/lamponi.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-06-04-sbriciolata-con-crema-alla-vaniglia-e-lamponi/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -131,41 +131,41 @@ Per la frolla impastate in una coppa velocemente tutti gli ingredienti. Dovrete 
 Infornate la Sbriciolata nel forno preriscaldato statico a 180°C per ca. 40min. Dovrà avere un colore dorato, non troppo scuro. Fatela raffreddare completamente prima di toglierla dalla teglia. Conservatela in frigo...
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-06-04-sbriciolata-con-crema-alla-vaniglia-e-lamponi/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-06-04-sbriciolata-con-crema-alla-vaniglia-e-lamponi/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato3.jpeg "frangipani © Erica")
+![](../2020-06-04-sbriciolata-con-crema-alla-vaniglia-e-lamponi/risultato3.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-06-04-sbriciolata-con-crema-alla-vaniglia-e-lamponi/risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-06-04-sbriciolata-con-crema-alla-vaniglia-e-lamponi/risultato5.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato6.jpeg "frangipani © Erica")
+![](../2020-06-04-sbriciolata-con-crema-alla-vaniglia-e-lamponi/risultato6.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-06-04-sbriciolata-con-crema-alla-vaniglia-e-lamponi/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-06-04-sbriciolata-con-crema-alla-vaniglia-e-lamponi/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-06-04-sbriciolata-con-crema-alla-vaniglia-e-lamponi/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-06-04-sbriciolata-con-crema-alla-vaniglia-e-lamponi/risultato10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato11.jpeg "frangipani © Erica")
+![](../2020-06-04-sbriciolata-con-crema-alla-vaniglia-e-lamponi/risultato11.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

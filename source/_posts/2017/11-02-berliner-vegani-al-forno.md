@@ -12,7 +12,7 @@ categories:
 label: 2017-11-02-berliner-vegani-al-forno
 lang: it 
 ---
-![](header.jpg "frangipani © Erica")
+![](../2017-11-02-berliner-vegani-al-forno/header.jpg "frangipani © Erica")
 
 > Benvenuto Novembre...
 
@@ -20,8 +20,8 @@ Qualche tempo fa ho scoperto tramite Instagram <a href="https://meinebackbox.de"
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="meinebackbox.jpg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="magazin.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2017-11-02-berliner-vegani-al-forno/meinebackbox.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2017-11-02-berliner-vegani-al-forno/magazin.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -88,23 +88,23 @@ Ma parliamo un po' di questi Berliner vegani al Forno. I Berliner sono una speci
 </h3>
 
 Mettete la farina, lo zucchero ed il sale nella planetaria e date una mescolata. A parte riscaldate leggermente il latte con 40gr di margarina, togliete dai fornelli e fate sciogliere il lievito nel latte. Versatelo nella planetaria e iniziate ad impastare. Se dovesse risultare troppo appiccicoso, aggiungete ancora farina. Appena l'impasto si stacca dalle pareti della ciotola, passatelo su di un piano di lavoro ed impastatelo per qualche minuto a mano. 
-![](impasto.jpg "frangipani © Erica")
+![](../2017-11-02-berliner-vegani-al-forno/impasto.jpg "frangipani © Erica")
 
 A questo punto copritelo e fatelo lievitare per ca. 3 orette o finché avrà raddoppiato il suo volume. Staccate l'impasto dalle pareti della ciotola e impastatelo leggermente, poi fatelo lievitare di nuovo per altre 3 orette o finché avrà raddoppiato il suo volume. Passato il tempo necessario, dividete l'impasto in 6-8 parti uguali e formate delle palline. Appoggiatele su di una leccarda con sotto della carta forno e fate lievitare per circa 30min. Spennellate tutte le palline con del burro fuso. 
-![](teglia.jpg "frangipani © Erica")
+![](../2017-11-02-berliner-vegani-al-forno/teglia.jpg "frangipani © Erica")
 
 Poi infornate nel forno preriscaldato a 210°C statico per 10min o finché avranno un bel colore. Appena sfornati spennellateli completamente con del burro fuso e passateli nello zucchero semolato poi farciteli con la gelatina di lamponi aiutandovi con un sac à poche. Altrimenti potete glassarli e farcirli con della crema.
-![](risultato1.jpg "frangipani © Erica")
+![](../2017-11-02-berliner-vegani-al-forno/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2017-11-02-berliner-vegani-al-forno/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2017-11-02-berliner-vegani-al-forno/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2017-11-02-berliner-vegani-al-forno/risultato4.jpg "frangipani © Erica")
 
-![](risultato5.jpg "frangipani © Erica")
+![](../2017-11-02-berliner-vegani-al-forno/risultato5.jpg "frangipani © Erica")
 
-![](risultato6.jpg "frangipani © Erica")
+![](../2017-11-02-berliner-vegani-al-forno/risultato6.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

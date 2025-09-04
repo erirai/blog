@@ -11,7 +11,7 @@ categories:
 label: 2016-10-04-banana-bread
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2016-10-04-banana-bread/header.jpg "frangipani © Erica")
 
 Quante volte vi succede che comprate le banane e vi diventano nere perché non riuscite a mangiarle? Ecco come usarle... Qualche tempo fa mia mamma ha fatto il Banana Bread ed era totalmente entusiasta! Io non sapevo cosa immaginarmi... un dolce o un pane che sa di banana, mmà. La banana si sente, ma è un gusto molto gradevole... È un normale Plumcake e pensate alle banane come sostituto delle uova. Io vi propongo una versione vegan, perché secondo me il Banana Bread dovrebbe essere fatto così, senza latticini, senza uova e senza burro. Poi ogni uno ha la propria ricetta. È sofficissimo, è buono, è sano... che volete di più? Se avete a casa i misurini americani, usate quelli se no vi ho scritto anche le dosi da pesare.
 
@@ -77,18 +77,18 @@ Quante volte vi succede che comprate le banane e vi diventano nere perché non r
 </h3>
 
 Mettete le banane in una coppa capiente e schiacciatele bene con una forchetta. 
-![](ingredienti.jpg "frangipani © Erica")
+![](../2016-10-04-banana-bread/ingredienti.jpg "frangipani © Erica")
 
 Aggiungete l'essenza di vaniglia e l'olio di cocco liquido e mescolate. Poi aggiungete poco a poco la farina, lo zucchero, il lievito, il bicarbonato, la cannella ed il sale e amalgamate bene il tutto. Infine aggiungete le gocce di cioccolato.
-![](impasto.jpg "frangipani © Erica")
+![](../2016-10-04-banana-bread/impasto.jpg "frangipani © Erica")
 
 Versate il composto in una tortiera da Plumcake precedentemente imburrata ed infarinta.
-![](teglia.jpg "frangipani © Erica")
+![](../2016-10-04-banana-bread/teglia.jpg "frangipani © Erica")
 
 Infornate nel forno preriscaldato a 180°C statico per un'ora. Se a metà cottura vedete che avrà preso già troppo colore, allora coprite con un foglio di carta stagnola e finite così la cottura. Mi raccomando fate la prova stecchino. È buono caldo, a temperatura ambiente ma anche freddo da frigo!
-![](risultato1.jpg "frangipani © Erica")
+![](../2016-10-04-banana-bread/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2016-10-04-banana-bread/risultato2.jpg "frangipani © Erica")
 
 
 <h4>Buon appetito

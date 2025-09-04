@@ -12,7 +12,7 @@ categories:
 label: 2023-10-11-focaccia-alla-zucca-e-rosmarino
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2023-10-11-focaccia-alla-zucca-e-rosmarino/header.jpeg "frangipani © Erica")
 
 Pubblicità: **Focaccia alla Zucca e Rosmarino** in collaborazione con <a href="https://www.farmy.ch" target="_blank">Farmy</a>. Una focaccia sofficissima, con una crosticina profumata e croccante. Piena di bolle e dal colore che ricorda l'autunno, perché all'interno c'è la regina dell'autunno... la zucca! Amo follemente la focaccia con il rosmarino, ma sta volta volevo provare a farla con la purea di zucca. E che dire? Semplicemente ottima! 
 
@@ -29,7 +29,7 @@ Adesso che le giornate iniziano a diventare più fresche e grigie, il servizio d
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Focaccia alla Zucca e Rosmarino</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2023-10-11-focaccia-alla-zucca-e-rosmarino/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Focaccia alla Zucca e Rosmarino, una focaccia sofficissima, con una crosticina profumata e croccante. Piena di bolle e dal colore che ricorda l'autunno...</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -95,8 +95,8 @@ Uscite l'impasto dal frigo e fatelo riposare a temperatura ambiente per 1-2h.
 Adesso aiutandovi con un tarocco staccate l'impasto dalla coppa e fatelo scivolare sul piano di lavoro ben infarinato. Fate due pieghe veloci, semplicemente prendendo l'impasto da un'estremità e appoggiatelo al centro, poi ripetete dall'altra estremità. Infarinate un po' l'impasto, coprite con una panno e fate riposare 30min.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="impastolievitato.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="spianatoia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-10-11-focaccia-alla-zucca-e-rosmarino/impastolievitato.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-10-11-focaccia-alla-zucca-e-rosmarino/spianatoia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -108,8 +108,8 @@ Oleate la superficie della focaccia e affondate le dita delle mani nell'impasto 
 A questo punto distribuite su tutta la focaccia il rosmarino facendolo sprofondare bene, coprite e fate riposare per 1h.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="tegliafinita.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-10-11-focaccia-alla-zucca-e-rosmarino/teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-10-11-focaccia-alla-zucca-e-rosmarino/tegliafinita.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -117,40 +117,40 @@ A questo punto distribuite su tutta la focaccia il rosmarino facendolo sprofonda
 Distribuite su tutta la focaccia del sale grosso poi infornate la focaccia nel forno preriscaldato a 250°C statico per 20min circa. Tenetela d'occhio per non farla bruciare. Appena sfornata uscitela dalla teglia e fatela intiepidire direttamente su di una griglia, in questo modo rimarrà bella croccante fuori ma sofficissima dentro. Se nella teglia è rimasto dell'olio, cospargetelo sulla focaccia.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-10-11-focaccia-alla-zucca-e-rosmarino/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-10-11-focaccia-alla-zucca-e-rosmarino/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-10-11-focaccia-alla-zucca-e-rosmarino/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-10-11-focaccia-alla-zucca-e-rosmarino/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-10-11-focaccia-alla-zucca-e-rosmarino/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-10-11-focaccia-alla-zucca-e-rosmarino/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-10-11-focaccia-alla-zucca-e-rosmarino/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-10-11-focaccia-alla-zucca-e-rosmarino/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-10-11-focaccia-alla-zucca-e-rosmarino/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-10-11-focaccia-alla-zucca-e-rosmarino/risultato10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

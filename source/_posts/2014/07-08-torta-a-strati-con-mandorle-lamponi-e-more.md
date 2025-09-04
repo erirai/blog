@@ -11,7 +11,7 @@ categories:
 - Torte
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2014-07-08-torta-a-strati-con-mandorle-lamponi-e-more/header.jpg "frangipani © Erica")
 
 > Dedico questa torta alla mia cara amica Fabiola!
 
@@ -91,25 +91,25 @@ Oggi ci viene a trovare una mia cara amica che studia in Italia e per l'occasion
 
 Lo so la quantità di zucchero è esorbitante, ma vedrete che poi non è poi tanto grave...
 Allora montate con il mixer o nella planetaria 250gr di burro con 250gr di zucchero, lo zucchero vanigliato e un pizzico di sale finché avrete una bella cremina. Poi aggiungete le uova e continuate a mescolare finché l'impasto diventerà più chiaro. Poi aggiungete la farina precedentemente mischiata con il lievito e continuate a mescolare ancora per qualche minuto.
-![](impasto.jpg "frangipani © Erica")
+![](../2014-07-08-torta-a-strati-con-mandorle-lamponi-e-more/impasto.jpg "frangipani © Erica")
 
 Prendete una teglia rettangolare. Allora nella ricetta c'è scritto di prendere una teglia quadrata da 24x24cm ma secondo me è troppo piccola, io ne prenderei una un poco più grande. Poi copritela con della carta forno bagnata e mettete i lamponi e le more. Poi ricoprite la frutto con l'impasto e livellate tutto. 
-![](frutta.jpg "frangipani © Erica")
+![](../2014-07-08-torta-a-strati-con-mandorle-lamponi-e-more/frutta.jpg "frangipani © Erica")
 
 Dunque infornatela nel forno preriscaldato (statico) a 180°C nella parte bassa del forno per 25min. Mentre la torta sta nel forno mettete in una pentola le mandorle a scaglie, il resto dello zucchero e del burro ed il latte. Portate ad ebollizione il tutto e poi togliete dai fornelli.
-![](mandorle.jpg "frangipani © Erica")
+![](../2014-07-08-torta-a-strati-con-mandorle-lamponi-e-more/mandorle.jpg "frangipani © Erica")
 
 Passati i 25min uscite la torta dal forno.
-![](sfornata1.jpg "frangipani © Erica")
+![](../2014-07-08-torta-a-strati-con-mandorle-lamponi-e-more/sfornata1.jpg "frangipani © Erica")
 
 E versate molto delicatamente il composto di mandorle sulla torta, facendo molta attenzione di distribuire bene le mandorle su tutta la torta. Non devono rimanere tutti ammucchiati se no là si creerà una fossa (vi parlo di esperienza).
-![](mandorleteglia.jpg "frangipani © Erica")
+![](../2014-07-08-torta-a-strati-con-mandorle-lamponi-e-more/mandorleteglia.jpg "frangipani © Erica")
 
 A questo punto rimettete la torta in forno per altri 30min. Passati i 30min spegnete il forno e apritelo lasciando la torta ancora dentro per una decina di minuti. Poi uscitela e fatela raffreddare completamente nella teglia.
-![](sfornata2.jpg "frangipani © Erica")
+![](../2014-07-08-torta-a-strati-con-mandorle-lamponi-e-more/sfornata2.jpg "frangipani © Erica")
 
 Tagliatela a pezzi e prima di servirla cospargetela con dello zucchero a velo.
-![](risultato.jpg "frangipani © Erica")
+![](../2014-07-08-torta-a-strati-con-mandorle-lamponi-e-more/risultato.jpg "frangipani © Erica")
 
 
 <h3>

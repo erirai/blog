@@ -12,7 +12,7 @@ categories:
 label: 2022-07-20-sbriciolata-alle-mandorle-e-mirtilli
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2022-07-20-sbriciolata-alle-mandorle-e-mirtilli/header.jpeg "frangipani © Erica")
 
 **Sbriciolata alle Mandorle e Mirtilli** confortante, buona, soddisfacente e facile da preparare. Un croccante crumble alle mandorle pieno di succosi mirtilli.
 <br />
@@ -29,7 +29,7 @@ Farò anche una piccola pausa dal Blog per le vacanze... durante l'estate non c'
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Sbriciolata alle Mandorle e Mirtilli</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2022-07-20-sbriciolata-alle-mandorle-e-mirtilli/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Sbriciolata alle Mandorle e Mirtilli, confortante, buono, soddisfacente e facile da preparare. Un croccante crumble alle mandorle pieno di succosi mirtilli.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -99,8 +99,8 @@ Mettete farina, mandorle macinate, zucchero, vaniglia e sale in una ciotola e me
 In una ciotola a parte mettete i mirtilli, l'amido, lo zucchero ed il succo di limone e mescolate.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="crumble.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="mirtilli.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-07-20-sbriciolata-alle-mandorle-e-mirtilli/crumble.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-07-20-sbriciolata-alle-mandorle-e-mirtilli/mirtilli.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -108,8 +108,8 @@ In una ciotola a parte mettete i mirtilli, l'amido, lo zucchero ed il succo di l
 Rivestite una teglia con della carta forno, poi mettete circa 2/3 dell'impasto bricioloso nella teglia. Schiacciate con la mano, ma non troppo, formando la base e un bordo. Prendete i mirtilli e distribuiteli sulla base. Il restante impasto alle mandorle lo sbriciolate uniformemente sui mirtilli.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="teglia1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-07-20-sbriciolata-alle-mandorle-e-mirtilli/teglia1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-07-20-sbriciolata-alle-mandorle-e-mirtilli/teglia2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -117,40 +117,40 @@ Rivestite una teglia con della carta forno, poi mettete circa 2/3 dell'impasto b
 Infornate la Sbriciolata nel forno preriscaldato statico a 180°C per ca. 40min. Dovrà avere un colore dorato, non troppo scuro. Fatela raffreddare prima di toglierla dalla teglia o la mangiate a cucchiaiate ancora calda con del gelato alla vaniglia.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-07-20-sbriciolata-alle-mandorle-e-mirtilli/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-07-20-sbriciolata-alle-mandorle-e-mirtilli/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-07-20-sbriciolata-alle-mandorle-e-mirtilli/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-07-20-sbriciolata-alle-mandorle-e-mirtilli/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-07-20-sbriciolata-alle-mandorle-e-mirtilli/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-07-20-sbriciolata-alle-mandorle-e-mirtilli/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-07-20-sbriciolata-alle-mandorle-e-mirtilli/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-07-20-sbriciolata-alle-mandorle-e-mirtilli/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-07-20-sbriciolata-alle-mandorle-e-mirtilli/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-07-20-sbriciolata-alle-mandorle-e-mirtilli/risultato10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

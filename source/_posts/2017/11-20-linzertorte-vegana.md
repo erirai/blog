@@ -11,7 +11,7 @@ categories:
 label: 2017-11-20-linzertorte-vegana
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2017-11-20-linzertorte-vegana/header.jpeg "frangipani © Erica")
 
 **Linzer Torte vegana** una crostata rustica speziata e profumatissima. È un dolce tipico austriaco che ormai si mangia dappertutto.
 <br />
@@ -24,7 +24,7 @@ Lo sapete che oggi è anche un giorno speciale? Eh si, esattamente 12 anni fa mi
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Linzer Torte vegana</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2017-11-20-linzertorte-vegana/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Linzer Torte vegana, una crostata rustica speziata e profumatissima.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -96,8 +96,8 @@ Stendete poco meno della metà dell'impasto e rivestite solo il fondo della tegl
 Spalmate la marmellata sulla base, poi con il resto dell'impasto fate una griglia o come me delle stelline. A questo punto fatela riposare in frigo per mezz'oretta, poi spennellate il bordo e le stelle con del latte vegetale.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="bordo.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2017-11-20-linzertorte-vegana/bordo.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2017-11-20-linzertorte-vegana/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -105,32 +105,32 @@ Spalmate la marmellata sulla base, poi con il resto dell'impasto fate una grigli
 Infornate la Linzer Torte nel forno preriscaldato a 180°C ventilato per circa 40min o finché avrà un bel colore. Fatela raffreddare, poi toglietela dalla teglia.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2017-11-20-linzertorte-vegana/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2017-11-20-linzertorte-vegana/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2017-11-20-linzertorte-vegana/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2017-11-20-linzertorte-vegana/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2017-11-20-linzertorte-vegana/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2017-11-20-linzertorte-vegana/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2017-11-20-linzertorte-vegana/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2017-11-20-linzertorte-vegana/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

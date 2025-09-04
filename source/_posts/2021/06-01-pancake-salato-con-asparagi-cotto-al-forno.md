@@ -11,7 +11,7 @@ categories:
 label: 2021-06-01-pancake-salato-con-asparagi-cotto-al-forno
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2021-06-01-pancake-salato-con-asparagi-cotto-al-forno/header.jpeg "frangipani © Erica")
 
 **Pancake Salato con Asparagi cotto al forno (Dutch Baby salato)** molto saporito e diverso dalle solite frittate. Perfetto come secondo piatto, ma anche da servire a cubetti come aperitivo. O per chi ama le colazioni salate... Si può preparare con tutti i tipi verdure, il procedimento è sempre lo stesso. Ho scelto di servire questo Dutch Baby salato con una salsina allo yogurt fatta semplicemente con lo yogurt naturale condito con erbe aromatiche, sale, olio, succo di limone e aglio.
 
@@ -28,7 +28,7 @@ E benvenuto Giugno! Che bello, siamo già arrivati a Giugno e questo mese iniza 
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Pancake Salato con Asparagi cotto al forno (Dutch Baby salato)</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2021-06-01-pancake-salato-con-asparagi-cotto-al-forno/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Pancake Salato con Asparagi cotto al forno (Dutch Baby salato) molto saporito e diverso dalle solite frittate. Perfetto come secondo piatto, ma anche da servire a cubetti come aperitivo. O per chi ama le colazioni salate...</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -96,14 +96,14 @@ Preriscaldate il forno a 220°C statico mettendo dentro anche la padella (possib
 Mescolate il latte con le uova, mettete da parte. In una coppa capiente mettete la farina, il parmigiano, il sale e il lievito, mescolate. Versate il latte con le uova nella coppa con la farina e amalgamate bene con una frusta a mano. Per ultimo aggiungete 30gr di burro fuso e finite di mescolare.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="asparagi.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="pastella.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-06-01-pancake-salato-con-asparagi-cotto-al-forno/asparagi.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-06-01-pancake-salato-con-asparagi-cotto-al-forno/pastella.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 Quando il forno sarà arrivato a temperatura uscite la padella (non ustionatevi), mettete il restante burro nella padella e appena si sarà sciolto, versateci in un colpo la pastella. Distribuiteci sopra gli asparagi precedentemente cotti. Dovete essere molto veloci per non fare abbassare troppo la temperatura della padella.
-![](teglia.jpeg "frangipani © Erica")
+![](../2021-06-01-pancake-salato-con-asparagi-cotto-al-forno/teglia.jpeg "frangipani © Erica")
 
 Infornate la padella nel ripiano in mezzo per una ventina di minuti, non aprite il forno fino a fine cottura.
 <br />
@@ -111,40 +111,40 @@ Ho servito questo Pancake salato con una salsa allo yogurt fatta con yogurt natu
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-06-01-pancake-salato-con-asparagi-cotto-al-forno/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-06-01-pancake-salato-con-asparagi-cotto-al-forno/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-06-01-pancake-salato-con-asparagi-cotto-al-forno/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-06-01-pancake-salato-con-asparagi-cotto-al-forno/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-06-01-pancake-salato-con-asparagi-cotto-al-forno/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-06-01-pancake-salato-con-asparagi-cotto-al-forno/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-06-01-pancake-salato-con-asparagi-cotto-al-forno/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-06-01-pancake-salato-con-asparagi-cotto-al-forno/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-06-01-pancake-salato-con-asparagi-cotto-al-forno/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-06-01-pancake-salato-con-asparagi-cotto-al-forno/risultato10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

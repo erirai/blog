@@ -10,7 +10,7 @@ categories:
 label: 2018-03-20-torta-di-carote-cremosa
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2018-03-20-torta-di-carote-cremosa/header.jpg "frangipani © Erica")
 
 > Benvenuta Primavera!
 
@@ -82,27 +82,27 @@ Torta di Carote Cremosa dal gusto molto delicato che si scioglie in bocca! Pasqu
 </h3>
 
 Mettete le carote pulite e a pezzettoni, l'olio e il succo e la scorza dell'arancia nel mixer e frullate bene.
-![](carote.jpg "frangipani © Erica")
+![](../2018-03-20-torta-di-carote-cremosa/carote.jpg "frangipani © Erica")
 
 Separate le uova e montate a neve gli albumi con la metà dello zucchero. Separatamente montate i tuorli con l'altra metà dello zucchero, finché saranno belli chiari e spumosi. Aggiungete la farina ed il lievito setacciati, le mandorle, il sale ed il composto con le carote e mescolate velocemente. Per ultimo incorporate delicatamente gli albumi montati a neve con un movimento dall'altro verso il basso. Versate l'impasto in una teglia a cerniera imburrata ed infarinata.
-![](teglia.jpg "frangipani © Erica")
+![](../2018-03-20-torta-di-carote-cremosa/teglia.jpg "frangipani © Erica")
 
 Infornate la torta di carote cremosa nel forno preriscaldato a 180°C ventilato per circa 30min, mi raccomando fate sempre la prova stecchino. La torta resta comunque umida. Fate raffreddare completamente la torta, finite con una bella spolverata di zucchero a velo e delle carotine di marzapane.
-![](risultato1.jpg "frangipani © Erica")
+![](../2018-03-20-torta-di-carote-cremosa/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2018-03-20-torta-di-carote-cremosa/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2018-03-20-torta-di-carote-cremosa/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2018-03-20-torta-di-carote-cremosa/risultato4.jpg "frangipani © Erica")
 
-![](risultato5.jpg "frangipani © Erica")
+![](../2018-03-20-torta-di-carote-cremosa/risultato5.jpg "frangipani © Erica")
 
-![](risultato6.jpg "frangipani © Erica")
+![](../2018-03-20-torta-di-carote-cremosa/risultato6.jpg "frangipani © Erica")
 
-![](risultato7.jpg "frangipani © Erica")
+![](../2018-03-20-torta-di-carote-cremosa/risultato7.jpg "frangipani © Erica")
 
-![](risultato8.jpg "frangipani © Erica")
+![](../2018-03-20-torta-di-carote-cremosa/risultato8.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

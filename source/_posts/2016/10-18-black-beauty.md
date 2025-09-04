@@ -12,7 +12,7 @@ categories:
 label: 2016-10-18-black-beauty
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2016-10-18-black-beauty/header.jpg "frangipani © Erica")
 
 > Buon 3° Compleanno Profumo di Frangipani!
 
@@ -94,41 +94,41 @@ Parliamo un attimino della torta... La ricetta l'ho presa dal libro "Le Fluffose
 </h3>
 
 In una coppa mescolate la farina setacciata, il lievito, il bicarbonato e lo zucchero e mettete da parte. In un'altra coppa grande mettete il cacao e aggiungete l'acqua bollente. Mescolate bene finché avrete un composto completamente liscio e senza grumi. 
-![](acquaecacao.jpg "frangipani © Erica")
+![](../2016-10-18-black-beauty/acquaecacao.jpg "frangipani © Erica")
 
 Poi aggiungete la farina di semi di lino (se non trovate la farina di semi di lino, frullate semplicemente i semi di lino riducendoli in polvere), l'olio, l'aceto ed il Rum. Amalgamate il tutto con le fruste a mano, vedrete che il composto diventerà leggermente denso.
-![](liquidi.jpg "frangipani © Erica")
+![](../2016-10-18-black-beauty/liquidi.jpg "frangipani © Erica")
 
 A questo punto aggiungete gli ingredienti asciutti alternando con il latte di mandorla. Mescolate bene e finite aggiungendo 100gr di cioccolato tagliato a pezzettini.
-![](impasto.jpg "frangipani © Erica")
+![](../2016-10-18-black-beauty/impasto.jpg "frangipani © Erica")
 
 Versate l'impasto nello stampo da Chiffon Cake da 18cm leggermente imburrato ed infarinato (o in uno stampo per ciambelle).
-![](teglia.jpg "frangipani © Erica")
+![](../2016-10-18-black-beauty/teglia.jpg "frangipani © Erica")
 
 Infornate nel forno preriscaldato a 150°C statico per 1ora e 20min. Mi raccomando fate la prova stecchino.
-![](sfornata.jpg "frangipani © Erica")
+![](../2016-10-18-black-beauty/sfornata.jpg "frangipani © Erica")
 
 Fatela raffreddare completamente nello stampo senza capovolgerla. Quando sarà completamente fredda, uscitela dallo stampo e preparate la Ganache. 
-![](torta.jpg "frangipani © Erica")
+![](../2016-10-18-black-beauty/torta.jpg "frangipani © Erica")
 
 Dunque riscaldate la panna portandola quasi ad ebollizione e versatela in una coppetta con dentro 150gr di cioccolato spezzettato.
-![](pannaecioccolato.jpg "frangipani © Erica")
+![](../2016-10-18-black-beauty/pannaecioccolato.jpg "frangipani © Erica")
 
 Aspettate un attimino, poi mescolate finché il cioccolato non si sarà sciolto completamente e avrete una cremina bella liscia.
-![](ganache.jpg "frangipani © Erica")
+![](../2016-10-18-black-beauty/ganache.jpg "frangipani © Erica")
 
 {% youtube rkRzTYuXSXw %}
 
 Spalmate la Ganache su tutta la torta... e non dimenticate di leccare la spatolina, della Ganache non si butta niente!
-![](risultato1.jpg "frangipani © Erica")
+![](../2016-10-18-black-beauty/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2016-10-18-black-beauty/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2016-10-18-black-beauty/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2016-10-18-black-beauty/risultato4.jpg "frangipani © Erica")
 
-![](risultato5.jpg "frangipani © Erica")
+![](../2016-10-18-black-beauty/risultato5.jpg "frangipani © Erica")
 
 
 <h4>Buon appetito

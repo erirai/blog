@@ -13,7 +13,7 @@ categories:
 label: 2024-07-10-triangoli-di-pasta-fillo-e-verdure
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2024-07-10-triangoli-di-pasta-fillo-e-verdure/header.jpeg "frangipani © Erica")
 
 **Triangoli di Pasta Fillo e Verdure** dei piccoli pacchettini croccanti pieni di verdure di stagione. Sono perfetti per un aperitivo, per un buffet, per un picnic, ma anche come contorno sfizioso.
 <br />
@@ -28,7 +28,7 @@ Adesso non mi resta altro che augurarvi una buona estate! Godetevi il sole, gode
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Triangoli di Pasta Fillo e Verdure</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2024-07-10-triangoli-di-pasta-fillo-e-verdure/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Triangoli di Pasta Fillo e Verdure, dei piccoli pacchettini croccanti pieni di verdure di stagione. Sono perfetti per un aperitivo, per un buffet, per un picnic, ma anche come contorno sfizioso.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -94,27 +94,27 @@ Iniziate a piegare in diagonale le strisce di fillo iniziando dal basso e andand
 Adagiate i **Triangoli di Pasta Fillo e Verdure** su di una teglia con sotto della carta forno. Spennellate semplicemente con dell'olio o se volete aggiungere dei semini, spennellate con della panna vegetale o albume (io ho sbagliato, ho spennellato solo con olio e messo i semini che dopo la cottura sono caduti tutti).
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 32%; margin-right: 1%;" src="verdura.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="triangoli1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-left: 1%;" src="triangoli2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%;" src="../2024-07-10-triangoli-di-pasta-fillo-e-verdure/verdura.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="../2024-07-10-triangoli-di-pasta-fillo-e-verdure/triangoli1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-left: 1%;" src="../2024-07-10-triangoli-di-pasta-fillo-e-verdure/triangoli2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 32%; margin-right: 1%;" src="triangoli3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="triangoli4.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-left: 1%;" src="triangoli5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%;" src="../2024-07-10-triangoli-di-pasta-fillo-e-verdure/triangoli3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="../2024-07-10-triangoli-di-pasta-fillo-e-verdure/triangoli4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-left: 1%;" src="../2024-07-10-triangoli-di-pasta-fillo-e-verdure/triangoli5.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 32%; margin-right: 1%;" src="triangoli6.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="triangoli7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-left: 1%;" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%;" src="../2024-07-10-triangoli-di-pasta-fillo-e-verdure/triangoli6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="../2024-07-10-triangoli-di-pasta-fillo-e-verdure/triangoli7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-left: 1%;" src="../2024-07-10-triangoli-di-pasta-fillo-e-verdure/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -122,40 +122,40 @@ Adagiate i **Triangoli di Pasta Fillo e Verdure** su di una teglia con sotto del
 Infornate nel forno preriscaldato a 200°C statico per 20-25min. Mangiateli ancora caldi e croccanti inzuppati in una salsa agrodolce.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-07-10-triangoli-di-pasta-fillo-e-verdure/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-07-10-triangoli-di-pasta-fillo-e-verdure/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-07-10-triangoli-di-pasta-fillo-e-verdure/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-07-10-triangoli-di-pasta-fillo-e-verdure/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-07-10-triangoli-di-pasta-fillo-e-verdure/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-07-10-triangoli-di-pasta-fillo-e-verdure/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-07-10-triangoli-di-pasta-fillo-e-verdure/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-07-10-triangoli-di-pasta-fillo-e-verdure/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-07-10-triangoli-di-pasta-fillo-e-verdure/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-07-10-triangoli-di-pasta-fillo-e-verdure/risultato10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

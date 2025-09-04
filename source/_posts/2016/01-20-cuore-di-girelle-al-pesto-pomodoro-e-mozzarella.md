@@ -10,7 +10,7 @@ categories:
 - Panificati
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2016-01-20-cuore-di-girelle-al-pesto-pomodoro-e-mozzarella/header.jpg "frangipani © Erica")
 
 Ecco una delle tante cose che si può fare con l'impasto per pane. Queste girelle sono fantastiche, perché si possono farcire in qualsiasi modo! Si può dire che è anche una ricetta svuotafrigo, infatti ho preso le cose che mi erano rimaste in frigo. Vengono ottime anche farcite con dei formaggi, con della verdura di stagione... Anche queste le ho messe in una teglia a forma di cuore, giusto per darvi un'idea forse per un aperitivo per San Valentino...
 
@@ -53,19 +53,19 @@ Ecco una delle tante cose che si può fare con l'impasto per pane. Queste girell
 </h3>
 
 La ricetta per la preparazione dell'impasto per pane la trovate (<a href="http://erirai.github.io/frangipani/pagnotta-semibianca/" target="_blank">qui</a>). Adattate le quantità o come me ne fate in più quando preparate il pane. Ungete il vostro piano di lavoro con dell'olio di semi. Prendete l'impasto ben lievitato e aiutandovi con le mani formate un rettangolo. Spalmate prima il pesto sull'impasto, poi la passata di pomodoro e finite con la mozzarella tagliata a pezzettini.
-![](farcire.jpg "frangipani © Erica")
+![](../2016-01-20-cuore-di-girelle-al-pesto-pomodoro-e-mozzarella/farcire.jpg "frangipani © Erica")
 
 Poi arrotolate il rettangolo formando un salsicciotto.
-![](rotolo.jpg "frangipani © Erica")
+![](../2016-01-20-cuore-di-girelle-al-pesto-pomodoro-e-mozzarella/rotolo.jpg "frangipani © Erica")
 
 Tagliate dei pezzi da 3-5cm e adagiateli su di una teglia precedentemente imburrata.
-![](teglia.jpg "frangipani © Erica")
+![](../2016-01-20-cuore-di-girelle-al-pesto-pomodoro-e-mozzarella/teglia.jpg "frangipani © Erica")
 
 Adesso fate lievitare ancora per due orette.
-![](lievitato.jpg "frangipani © Erica")
+![](../2016-01-20-cuore-di-girelle-al-pesto-pomodoro-e-mozzarella/lievitato.jpg "frangipani © Erica")
 
 Infornate le girelle nel forno caldo a 200°C per 20min o anche di più, dipende dalla grandezza della teglia. Queste girelle sono buone sia calde che fredde!
-![](risultato.jpg "frangipani © Erica")
+![](../2016-01-20-cuore-di-girelle-al-pesto-pomodoro-e-mozzarella/risultato.jpg "frangipani © Erica")
 
 
 

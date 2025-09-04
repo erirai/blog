@@ -9,7 +9,7 @@ categories:
 - Biscotti
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2015-10-18-minnie-mickey-mouse-cookie-pops/header.jpg "frangipani © Erica")
 
 > Buon Secondo Compleanno Frangipani!
 
@@ -75,21 +75,21 @@ Uff... esattamente due anni fa ho pubblicato il mio primo post! Da allora sono c
 </h3>
 
 Preparate la pasta frolla: mettete la farina, lo zucchero, la margarina, il latte vegetale, il sale e lo zucchero vanigliato in una coppa capiente e impastate il tutto molto velocemente. Avvolgetela nella pellicola e mettetela in frigo per almeno un'ora. 
-![](impasto.jpg "frangipani © Erica")
+![](../2015-10-18-minnie-mickey-mouse-cookie-pops/impasto.jpg "frangipani © Erica")
 
 Passata l'ora prendete un po' d'impasto alla volta e stendetelo fino ad uno spessore di 3mm. Poi coppate i biscotti.
-![](stendere.jpg "frangipani © Erica")
+![](../2015-10-18-minnie-mickey-mouse-cookie-pops/stendere.jpg "frangipani © Erica")
 
 Mettete i biscotti in una teglia con sotto della carta forno, poi adagiate al centro di ogni biscotto un bastoncino e chiudete il tutto con un altro biscotto.
-![](teglia1.jpg "frangipani © Erica")
+![](../2015-10-18-minnie-mickey-mouse-cookie-pops/teglia1.jpg "frangipani © Erica")
 
-![](teglia2.jpg "frangipani © Erica")
+![](../2015-10-18-minnie-mickey-mouse-cookie-pops/teglia2.jpg "frangipani © Erica")
 
 Infornate i biscotti nel forno preriscaldato a 180°C statico per 15min. Fateli raffreddare leggermente e poi metteteli su di una griglia e fateli raffreddare completamente.
-![](sfornati.jpg "frangipani © Erica")
+![](../2015-10-18-minnie-mickey-mouse-cookie-pops/sfornati.jpg "frangipani © Erica")
 
 Fate sciogliere il cioccolato a bagnomaria, poi prendete i cookie pops ed immergeteli nel cioccolato. Decorateli a vostro piacere...
-![](risultato.jpg "frangipani © Erica")
+![](../2015-10-18-minnie-mickey-mouse-cookie-pops/risultato.jpg "frangipani © Erica")
 
 
 <h3>

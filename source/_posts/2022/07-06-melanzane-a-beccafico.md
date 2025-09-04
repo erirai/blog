@@ -11,7 +11,7 @@ categories:
 label: 2022-07-06-melanzane-a-beccafico
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2022-07-06-melanzane-a-beccafico/header.jpeg "frangipani © Erica")
 
 **Melanzane a Beccafico** la versione vegetariana delle Sarde a Beccafico, ovvero degli involtini di melanzane farciti con un composto a base di pangrattato. È una ricetta tipica siciliana molto buona, sfiziosa e anche povera direi.
 <br />
@@ -26,7 +26,7 @@ Sono fatastici! Una specie di Fingerfood, da mangiare così o da inzuppare nel s
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Melanzane a Beccafico</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2022-07-06-melanzane-a-beccafico/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Melanzane a Beccafico, la versione vegetariana delle Sarde a Beccafico, ovvero dei rotoli di melanzane farciti con un composto a base di pangrattato.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -80,8 +80,8 @@ Lavate la melanzana e tagliatela a fette sottili per il lungo. Adagiatele su di 
 Adesso il ripieno: mettete pangrattato, prezzemolo, formaggio, e 1 cucchiaino di sale in una ciotola e mescolate. Adesso aggiungete l'olio e l'uovo sbattuto e impastate il tutto.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="melanzane.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="ripieno.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-07-06-melanzane-a-beccafico/melanzane.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-07-06-melanzane-a-beccafico/ripieno.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -91,8 +91,8 @@ Prendete circa un cucchiaio del ripieno, formate una polpetta allungata e adagia
 Se avanza del ripieno sbriciolatelo sulle melanzane nella pirofila e terminate con un abbondante filo d'olio. Infornate nel forno preriscaldato a 180°C ventilato per 15-20min, non devono seccarsi troppo.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="rotolini.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-07-06-melanzane-a-beccafico/rotolini.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-07-06-melanzane-a-beccafico/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -100,32 +100,32 @@ Se avanza del ripieno sbriciolatelo sulle melanzane nella pirofila e terminate c
 Sono ottime così in purezza o da inzuppare nel sugo o in una salsa allo yogurt.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-07-06-melanzane-a-beccafico/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-07-06-melanzane-a-beccafico/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-07-06-melanzane-a-beccafico/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-07-06-melanzane-a-beccafico/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-07-06-melanzane-a-beccafico/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-07-06-melanzane-a-beccafico/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-07-06-melanzane-a-beccafico/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-07-06-melanzane-a-beccafico/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

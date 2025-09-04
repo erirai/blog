@@ -12,7 +12,7 @@ categories:
 label: 2014-02-18-lasagne-bianche-con-asparagi
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2014-02-18-lasagne-bianche-con-asparagi/header.jpeg "frangipani © Erica")
 
 **Lasagne Bianche con Asparagi** una lasagna primaverile delicata ma gustosa. Un'alternativa alla classica lasagna, che non ha niente da invidiarle.
 <br />
@@ -23,7 +23,7 @@ Per non coprire il gusto degli asparagi, non ho usato il sugo al pomodoro, ma la
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Lasagne Bianche con Asparagi</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2014-02-18-lasagne-bianche-con-asparagi/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Lasagne Bianche con Asparagi, una lasagna primaverile delicata ma gustosa.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -101,8 +101,8 @@ Tagliate lo scalogno a striscioline fine e mettetelo in una padella con un po' d
 Ora prepariamo la besciamella: io non uso il burro per farla, diciamo che è una versione light. Allora, mettete la farina in una pentola, aggiungete un po' di latte e fate sciogliere la farina togliendo tutti i grumi. Poi aggiungete il resto del latte e accendete i fuochi a temperatura moderata. Portate ad ebollizione la besciamella girando sempre, quando sarà densa togliete dai fuochi. Aggiungete una spolverata di noce moscata e aggiustate di sale. Voi naturalmente se fate la besciamella in un altro modo, fatela a modo vostro!
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="asparagi.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="besciamella.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-02-18-lasagne-bianche-con-asparagi/asparagi.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-02-18-lasagne-bianche-con-asparagi/besciamella.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -110,8 +110,8 @@ Ora prepariamo la besciamella: io non uso il burro per farla, diciamo che è una
 Tagliate i pomodorini in quarti e le uova a pezzettini. Ora che abbiamo tutto pronto possiamo assemblare tutto. Prendete una pirofila e imburratela. Coprite il fondo della pirofila con la besciamella, poi mettete uno strato di lasagne, di nuovo la besciamella, poi gli asparagi, le uova, i pomodorini, qualche fogliolina di basilico, la mozzarella e finite con il parmigiano grattugiato. Ripetete questa procedura finché la pirofila non sarà piena.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="lasagne.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-02-18-lasagne-bianche-con-asparagi/lasagne.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-02-18-lasagne-bianche-con-asparagi/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -119,32 +119,32 @@ Tagliate i pomodorini in quarti e le uova a pezzettini. Ora che abbiamo tutto pr
 Infornate le **Lasagne Bianche con Asparagi** coperte con un foglio di carta argentata per ca. 20-25min a 180°C ventilato, poi togliete la carta argentata e lasciate altri 10min, almeno finché si sarà formata una crosticina. Lasciate riposare le lasagne per qualche minuto prima di servirle.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-02-18-lasagne-bianche-con-asparagi/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-02-18-lasagne-bianche-con-asparagi/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-02-18-lasagne-bianche-con-asparagi/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-02-18-lasagne-bianche-con-asparagi/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-02-18-lasagne-bianche-con-asparagi/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-02-18-lasagne-bianche-con-asparagi/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-02-18-lasagne-bianche-con-asparagi/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-02-18-lasagne-bianche-con-asparagi/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

@@ -13,7 +13,7 @@ categories:
 label: 2017-10-05-vegan-brownies-alla-zucca-e-cioccolato
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2017-10-05-vegan-brownies-alla-zucca-e-cioccolato/header.jpeg "frangipani © Erica")
 
 **Brownies vegani alla Zucca e Cioccolato** dei piccoli dolcetti profumatissimi, speziati e confortanti. Sanno proprio di autunno, non saprei descriverli diversamente. Il colore è dato dalla purea di zucca ed il profumo dal Pumpkin Spice. 
 
@@ -26,7 +26,7 @@ Un atra cosa che uso molto in questo periodo è il Pumpkin Spice. Il Pumpkin Spi
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Brownies vegani alla Zucca e Cioccolato</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2017-10-05-vegan-brownies-alla-zucca-e-cioccolato/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Dei piccoli dolcetti profumatissimi, speziati e confortanti. Sanno proprio di autunno, non saprei descriverli diversamente.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -92,36 +92,36 @@ Un atra cosa che uso molto in questo periodo è il Pumpkin Spice. Il Pumpkin Spi
 </h3>
 
 Montate il burro insieme allo zucchero finché diventa bello cremoso, poi aggiungete l'essenza di vaniglia ed il latte e continuate a mescolare. Adesso aggiungete la purea di zucca ed incorporate bene. In una coppa a parte mescolate la farina, la fecola, il lievito, il sale ed il Pumpkin Spice (facoltatico, va bene anche solo un po' di cannella o niente). Versate gli ingredienti asciutti negli ingredienti umidi e mescolate bene. Per ultimo aggiungete il cioccolato fondente tagliato a pezzettini. Versate il tutto in una teglia da massimo 24x24cm foderata con della carta forno.
-![](teglia.jpeg "frangipani © Erica")
+![](../2017-10-05-vegan-brownies-alla-zucca-e-cioccolato/teglia.jpeg "frangipani © Erica")
 
 Infornate nel forno preriscaldato a 160°C ventilato per 30min, mi raccomando fate la prova stecchino. Fatelo raffreddare, poi tagliatelo a quadrotti.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2017-10-05-vegan-brownies-alla-zucca-e-cioccolato/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2017-10-05-vegan-brownies-alla-zucca-e-cioccolato/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2017-10-05-vegan-brownies-alla-zucca-e-cioccolato/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2017-10-05-vegan-brownies-alla-zucca-e-cioccolato/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2017-10-05-vegan-brownies-alla-zucca-e-cioccolato/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2017-10-05-vegan-brownies-alla-zucca-e-cioccolato/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
-![](risultato7.jpeg "frangipani © Erica")
+![](../2017-10-05-vegan-brownies-alla-zucca-e-cioccolato/risultato7.jpeg "frangipani © Erica")
 
-![](risultato8.jpeg "frangipani © Erica")
+![](../2017-10-05-vegan-brownies-alla-zucca-e-cioccolato/risultato8.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

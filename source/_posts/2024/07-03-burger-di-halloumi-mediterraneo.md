@@ -14,14 +14,14 @@ categories:
 label: 2024-07-03-burger-di-halloumi-mediterraneo
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2024-07-03-burger-di-halloumi-mediterraneo/header.jpeg "frangipani © Erica")
 
 Pubblicità: **Burger di Halloumi Mediterraneo** in collaborazione con <a href="https://www.farmy.ch" target="_blank">Farmy</a>. Un panino vegetariano strepitoso. Pieno di verdure, con il formaggio Halloumi bello saporito ed il pesto che lega tutto.
 <br />
 Siamo a Luglio, le vacanze estive sono iniziate o stanno per iniziare. Le serate diventano più rilassate e lunghe, senza dover aver fretta di andare a letto presto. Con la bella stagione tiriamo fuori anche il Barbeque e sì, anche noi vegetariani e vegani ne possiamo approfittare, perché le grigliate senza carne o pesce sono altrettanto buone e sfiziose!
 <br />
 Sul sito di <a href="https://www.farmy.ch" target="_blank">Farmy</a> trovate una vasta scelta di prodotti da grigliare come salsicce e spiedini vegetali, formaggi (anche vegetali) da grigliare per non dimenticare le salse e le verdure mediterranee che sulla griglia sono spettacolari. 
-![](spesa.jpeg "frangipani © Erica")
+![](../2024-07-03-burger-di-halloumi-mediterraneo/spesa.jpeg "frangipani © Erica")
 
 Se avete tempo e voglia di fare i Burger Buns in casa, potete usare questa mia <a href="/2015-09-23-burger-buns/">ricetta</a> altrimenti comprateli comodamente da <a href="https://www.farmy.ch" target="_blank">Farmy</a>.
 
@@ -32,7 +32,7 @@ Ecco, adesso siamo tutti pronti per le grigliate estive o se il meteo non partec
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Burger di Halloumi Mediterraneo</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2024-07-03-burger-di-halloumi-mediterraneo/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Burger di Halloumi Mediterraneo, un panino vegetariano strepitoso. Pieno di verdure, con il formaggio Halloumi bello saporito ed il pesto che lega tutto.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -115,16 +115,16 @@ Con una mandolina tagliate a fette le zucchine e le melanzane. Pulite i peperoni
 Tagliate a fette da 1cm il formaggio Halloumi e grigliate anche questo sulla bistecchiera o sul grill. Attenzione però, perché si brucia molto velocemente. Lavate la rucola e tagliate a fette i pomodori.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="zucchine.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="melanzane.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-07-03-burger-di-halloumi-mediterraneo/zucchine.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-07-03-burger-di-halloumi-mediterraneo/melanzane.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="peperoni.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="halloumi.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-07-03-burger-di-halloumi-mediterraneo/peperoni.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-07-03-burger-di-halloumi-mediterraneo/halloumi.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -132,32 +132,32 @@ Tagliate a fette da 1cm il formaggio Halloumi e grigliate anche questo sulla bis
 Tagliate a metà i Burger Buns e tostateli un attimo. Spalmate su entrambi i lati del panino il pesto, poi farcite con le verdure, le fette di Halloumi, la rucola e le fette di pomodoro. Se volete aggiungete salse a piacere e godetevi questo **Burger di Halloumi Mediterraneo**.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-07-03-burger-di-halloumi-mediterraneo/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-07-03-burger-di-halloumi-mediterraneo/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-07-03-burger-di-halloumi-mediterraneo/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-07-03-burger-di-halloumi-mediterraneo/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-07-03-burger-di-halloumi-mediterraneo/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-07-03-burger-di-halloumi-mediterraneo/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-07-03-burger-di-halloumi-mediterraneo/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-07-03-burger-di-halloumi-mediterraneo/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

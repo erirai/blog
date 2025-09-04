@@ -11,7 +11,7 @@ categories:
 label: 2020-04-03-hot-cross-buns-senza-uvetta
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2020-04-03-hot-cross-buns-senza-uvetta/header.jpeg "frangipani © Erica")
 
 **Hot Cross Buns senza uvetta** il dolce pasquale tipico del Regno Unito che si mangia tradizionalmente il Venerdì Santo, per questo motivo la croce sui panini. Sono dei panini sofficissimi e profumatissimi. Io però ho cambiato un pochettino la ricetta originale... Ho omesso l'uvetta e i canditi (creature di satana) e ho sostituito le spezie miste con la vaniglia e la scorza di limone e arancia. Ho messo giusto una puntina di cannella, ma di più in primavera ed in estate non riesco. Per me le spezie miste, come pumpkin o mixed spice, sono spezie autunnali ed invernali, mi danno proprio fastidio adesso... Se a voi piacciono, ovviamente potete tranquillamente metterli.
 <br />
@@ -26,7 +26,7 @@ Quest'anno Pasqua sarà un po' diversa... Ogni uno a casa sua. Mi ero totalmente
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Hot Cross Buns senza uvetta</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-04-03-hot-cross-buns-senza-uvetta/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Hot Cross Buns senza uvetta il dolce pasquale tipico del Regno Unito che si mangia tradizionalmente il Venerdì Santo, per questo motivo la croce sui panini. Sono dei panini sofficissimi e profumatissimi.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -111,54 +111,54 @@ Mettete farina, zucchero, scorza di limone e arancia, cannella e sale nella plan
 Prendete l'impasto e dividetelo in 12 parti uguali (da ca. 85g l'una). Prendete una pallina, appiattitela con le dita e poi prendete una punta e schiacciatela al centro, continuate così finché avrete chiuso tutto il disco. Appoggiate la mano sulla pallina e fatela roteare sul piano di lavoro facendo un pochettino di pressione con il pollice. Quando avrete una pallina bella tonda, mettetela in una pirofila precedentemente imburrata. Ripetete per le restanti palline.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 32%; margin-right: 1%;" src="pieghe1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="pieghe2.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-left: 1%;" src="pallina.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%;" src="../2020-04-03-hot-cross-buns-senza-uvetta/pieghe1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="../2020-04-03-hot-cross-buns-senza-uvetta/pieghe2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-left: 1%;" src="../2020-04-03-hot-cross-buns-senza-uvetta/pallina.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 Coprite la pirofila con un panno e fate lievitare ancora per 45min. Nel frattempo preparate il topping, ovvero la pastella per formare le croci. Mescolate la farina con l'acqua. Dovrete ottenere una pastella piuttosto densa (nel mio caso era troppo liquida). Mettete la pastella in una sacca da pasticcere, fate un taglietto piccolino e formate le croci (fate una linea continua da una parte all'altra e poi incrociate).
-![](teglia.jpeg "frangipani © Erica")
+![](../2020-04-03-hot-cross-buns-senza-uvetta/teglia.jpeg "frangipani © Erica")
 
 Infornate nel forno preriscaldato a 220°C statico per ca. 15min o finché avranno un bel colore dorato.
 <br />
 Appena sfornati, spennellate su tutta la superficie del miele e fate raffreddare leggermente... Vanno mangiati caldi...
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-04-03-hot-cross-buns-senza-uvetta/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-04-03-hot-cross-buns-senza-uvetta/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-04-03-hot-cross-buns-senza-uvetta/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-04-03-hot-cross-buns-senza-uvetta/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-04-03-hot-cross-buns-senza-uvetta/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-04-03-hot-cross-buns-senza-uvetta/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato7.jpeg "frangipani © Erica")
+![](../2020-04-03-hot-cross-buns-senza-uvetta/risultato7.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-04-03-hot-cross-buns-senza-uvetta/risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-04-03-hot-cross-buns-senza-uvetta/risultato9.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato10.jpeg "frangipani © Erica")
+![](../2020-04-03-hot-cross-buns-senza-uvetta/risultato10.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

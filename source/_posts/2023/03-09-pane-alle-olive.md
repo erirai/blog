@@ -10,12 +10,12 @@ categories:
 label: 2023-03-09-pane-alle-olive
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2023-03-09-pane-alle-olive/header.jpeg "frangipani © Erica")
 
 Pubblicità: **Pane alle Olive** in collaborazione con <a href="https://www.farmy.ch" target="_blank">Farmy</a>. Una pagnotta croccante fuori, morbida dentro, profumata e piena di olive.
 <br />
 Amo il pane fresco e amo le olive. Adoro mangiare il pane con le olive, quindi perché non fare direttamente il pane alle olive? Ho ordinato da <a href="https://www.farmy.ch" target="_blank">Farmy</a> la farina e le olive (trovate ovviamente anche il lievito, io ne ho sempre un po' in freezer già in porzioni da 1g). Hanno una grande scelta di farine, questa volta infatti ho scelto la farina di farro bigia per renderlo più rustico. Farina "bigia" vuol dire che contiene circa l'85% del chicco originale ed è più ricca di fibre, vitamine e proteine rispetto alle farine bianche ed è ottima per panificati. Perfetta per questo pane alle olive direi, no? Se non vi piace il pane scuro, potete sostituire una parte della farina bigia con della farina bianca, in questo caso il pane risulterà meno compatto.
-![](spesa.jpeg "frangipani © Erica")
+![](../2023-03-09-pane-alle-olive/spesa.jpeg "frangipani © Erica")
 
 Nella ricetta sotto vi propongo due cotture diverse per il pane. La mia preferita è la cottura nella pentola in ghisa. Così facendo la pagnotta avrà una crosta bella croccante e dentro la mollica sarà bella morbida. Altrimenti va benissimo anche la classica cottura sulla teglia. Dopo aver formato la pagnotta, vi consiglio di fare l'ultima lievitazione (maturazione) in un cestino da lievitazione ben infarinato o in una coppa ricoperta con un panno in cotone ben infarinato. In questo modo terrà meglio la sua forma. 
 
@@ -26,7 +26,7 @@ Ecco, lo so che fare il pane non è da tutti, però vi consiglio di provarci per
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Pane alle Olive</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2023-03-09-pane-alle-olive/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Pane alle Olive, una pagnotta croccante fuori, morbida dentro, profumata e piena di olive.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -71,8 +71,8 @@ Mettete la farina ed il sale nella planetaria e date una mescolata. A parte fate
 A questo punto se volete tagliate a metà le olive. Sgonfiate l'impasto e appiattitelo tirandolo delicatamente, distribuiteci sopra 3/4 delle olive, poi piegate i due lembi opposti verso il centro coprendo le olive. Distribuiteci sopra le restanti olive e di nuovo prendete i due lembi opposti (non gli stessi di prima) e piegate verso il centro. Continuate a piegare sempre dai lati opposti finché avrete una palla tonda. Poi coprite e mettete di nuovo a lievitare fino a raddoppio. 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="piega1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="piega2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-03-09-pane-alle-olive/piega1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-03-09-pane-alle-olive/piega2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -86,32 +86,32 @@ Per la **cottura nella pentola in ghisa** tagliate un pezzo di carta forno, scar
 Per la **cottura sulla teglia** preriscaldate il forno a 220°C statico. Scaravoltate la pagnotta sulla teglia con sotto della carta forno ed infornate per 30min circa. Sfornate e fate raffreddare su di una griglia.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-03-09-pane-alle-olive/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-03-09-pane-alle-olive/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-03-09-pane-alle-olive/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-03-09-pane-alle-olive/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-03-09-pane-alle-olive/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-03-09-pane-alle-olive/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-03-09-pane-alle-olive/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-03-09-pane-alle-olive/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

@@ -11,7 +11,7 @@ categories:
 label: 2021-11-02-torta-allo-yogurt-e-melagrana
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2021-11-02-torta-allo-yogurt-e-melagrana/header.jpeg "frangipani © Erica")
 
 **Torta allo Yogurt e Melagrana** sofficissima, morbida, gustosa e piena di succosi chicchi di melagrana che no, non danno fastidio! In cottura i semini si ammorbidiscono e danno quella giusta nota croccante.
 
@@ -26,7 +26,7 @@ Eh niente, siamo arrivati a novembre. Dovrei scrivere qualcosa tipo: Benvenuto N
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Torta allo Yogurt e Melagrana</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2021-11-02-torta-allo-yogurt-e-melagrana/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Torta allo Yogurt e Melagrana sofficissima, morbida, gustosa e piena di succosi chicchi di melagrana che no, non danno fastidio! In cottura i semini si ammorbidiscono e danno quella giusta nota croccante.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -88,37 +88,37 @@ Eh niente, siamo arrivati a novembre. Dovrei scrivere qualcosa tipo: Benvenuto N
 </h3>
 
 Mettete le uova, lo zucchero, la vaniglia ed il sale nella planetaria e montate finché avrete un composto chiaro e spumoso. Sempre mescolando aggiungete l'olio a filo e poi lo yogurt, poi aggiungete la farina ed il lievito entrambi setacciati. A questo punto aggiungete i chicchi della melagrana, lasciandone da parte un pochettino. Mescolate a mano e versate il composto in una teglia a cerniera imburrata ed infarinata (io ho usato una da 20cm). Distribuite sulla superficie il resto dei chicchi di melagrana e un po' di granella di zucchero.
-![](teglia.jpeg "frangipani © Erica")
+![](../2021-11-02-torta-allo-yogurt-e-melagrana/teglia.jpeg "frangipani © Erica")
 
 Infornate la torta nel forno preriscaldato a 180°C statico per 50-60min circa, mi raccomando fate la prova stecchino. Più piccola è la teglia, più lungo sarà il tempo di cottura... Fatela intiepidire leggermente prima di tagliarla.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-11-02-torta-allo-yogurt-e-melagrana/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-11-02-torta-allo-yogurt-e-melagrana/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-11-02-torta-allo-yogurt-e-melagrana/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-11-02-torta-allo-yogurt-e-melagrana/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-11-02-torta-allo-yogurt-e-melagrana/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-11-02-torta-allo-yogurt-e-melagrana/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-11-02-torta-allo-yogurt-e-melagrana/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-11-02-torta-allo-yogurt-e-melagrana/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

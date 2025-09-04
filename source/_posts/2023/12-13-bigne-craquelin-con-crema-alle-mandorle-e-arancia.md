@@ -12,7 +12,7 @@ categories:
 label: 2023-12-13-bigne-craquelin-con-crema-alle-mandorle-e-arancia
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2023-12-13-bigne-craquelin-con-crema-alle-mandorle-e-arancia/header.jpeg "frangipani © Erica")
 
 **Bigné Craquelin con Crema alle Mandorle e Arancia** dei dolcetti eleganti e delicati, perfetti per i giorni speciali. In questo caso per i giorni di Natale che sono ormai alle porte. La crema è senza uova ed è veramente molto molto buona! I bigné craquelin non li avevo mai mangiati prima e devo dire che quello strato croccante di sopra è fantastico.
 <br />
@@ -52,7 +52,7 @@ Erica
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Bigné Craquelin con Crema alle Mandorle e Arancia</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2023-12-13-bigne-craquelin-con-crema-alle-mandorle-e-arancia/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Bigné Craquelin con Crema alle Mandorle e Arancia, dei dolcetti eleganti e delicati, perfetti per i giorni speciali.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -155,8 +155,8 @@ Adesso passiamo alla Pasta Choux: in una pentola mettete acqua, burro, zucchero 
 Una volta freddo vanno incorporate le uova. Io preferisco farlo a mano con un cucchiaio di legno (ci vuole più tempo, ma si sente meglio la consistenza). Dunque aggiungete un uovo alla volta, il prossimo si aggiunge solo quando il precedente sarà completamente assorbito. A questo punto passate la pasta choux in una sacca da pasticcere con bocchetta liscia da 1cm circa.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="craquelin.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="impasto.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-12-13-bigne-craquelin-con-crema-alle-mandorle-e-arancia/craquelin.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-12-13-bigne-craquelin-con-crema-alle-mandorle-e-arancia/impasto.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -164,8 +164,8 @@ Una volta freddo vanno incorporate le uova. Io preferisco farlo a mano con un cu
 Prendete una teglia con della carta forno o un tappetino in silicone microforato e formate tanti mucchietti da un diametro di 2-3cm circa ben distanziati tra loro. A me ne sono venuti 45 pezzi distribuiti su due teglie. Tirate fuori dal frigo i dischetti di craquelin ed appoggiate un dischetto su ogni mucchietto di pasta choux facendo una leggera pressione.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="bigne.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-12-13-bigne-craquelin-con-crema-alle-mandorle-e-arancia/bigne.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-12-13-bigne-craquelin-con-crema-alle-mandorle-e-arancia/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -173,8 +173,8 @@ Prendete una teglia con della carta forno o un tappetino in silicone microforato
 Infornate i **Bigné Craquelin** nel forno preriscaldato a 180°C ventilato per 25min, poi spegnete, aprite leggermente il forno e lasciteli stare ancora per 15min. Dunque sfornateli e fateli raffreddare completamente su di una griglia. Una volta freddi decidete se tagliarli a metà e farcirli o se farcirli da sotto senza tagliarli. Se li tagliate e dentro saranno completamente vuoti, saprete che è andato tutto bene.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="bignecraquelin.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="aperto.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-12-13-bigne-craquelin-con-crema-alle-mandorle-e-arancia/bignecraquelin.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-12-13-bigne-craquelin-con-crema-alle-mandorle-e-arancia/aperto.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -182,40 +182,40 @@ Infornate i **Bigné Craquelin** nel forno preriscaldato a 180°C ventilato per 
 Passate la **Crema alle Mandorle e Arancia** in una sacca da pasticcere con bocchetta a stella da 1cm circa. Se riempite i **Bigné Craquelin** tagliati a metà, riempite semplicemente la parte di sotto e coprite con il coperchietto. Se li farcite interi, fate un buchino con un coltello e poi riempite con la crema. Serviteli subito, se volete decorate con dello zucchero a velo o dei brillantini commestibili...
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-12-13-bigne-craquelin-con-crema-alle-mandorle-e-arancia/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-12-13-bigne-craquelin-con-crema-alle-mandorle-e-arancia/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-12-13-bigne-craquelin-con-crema-alle-mandorle-e-arancia/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-12-13-bigne-craquelin-con-crema-alle-mandorle-e-arancia/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-12-13-bigne-craquelin-con-crema-alle-mandorle-e-arancia/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-12-13-bigne-craquelin-con-crema-alle-mandorle-e-arancia/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-12-13-bigne-craquelin-con-crema-alle-mandorle-e-arancia/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-12-13-bigne-craquelin-con-crema-alle-mandorle-e-arancia/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-12-13-bigne-craquelin-con-crema-alle-mandorle-e-arancia/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-12-13-bigne-craquelin-con-crema-alle-mandorle-e-arancia/risultato10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

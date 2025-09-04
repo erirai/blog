@@ -11,7 +11,7 @@ categories:
 label: 2016-04-04-sfoglia-al-rabarbaro
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2016-04-04-sfoglia-al-rabarbaro/header.jpeg "frangipani © Erica")
 
 **Sfoglia al Rabarbaro** una ricetta svizzera facilissima, una di quelle ricette che ti salvano quando si annunciano ospiti improvvisi. Gli ingredienti probabilmente li avete in casa e se non avete il rabarbaro, usate altra frutta! Tutto qui.
 
@@ -24,7 +24,7 @@ L'altro giorno al mercato finalmente c'era il rabarbaro svizzero. Perché propri
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Sfoglia al Rabarbaro</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2016-04-04-sfoglia-al-rabarbaro/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Sfoglia al Rabarbaro, una ricetta svizzera facilissima, una di quelle ricette che ti salvano quando si annunciano ospiti improvvisi.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -95,8 +95,8 @@ Adesso preparate la pastella. Questa pastella si può preparare con la ricotta, 
 Prendete una teglia a piacere, rivestitela con la pasta sfoglia (sotto lasciate la carta forno), bucherellatela e coprite leggermente il fondo con delle mandorle macinate. Prendete il rabarbaro e distribuitelo bene sulla teglia, poi ricoprite il tutto con la pastella.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="rabarbaro.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2016-04-04-sfoglia-al-rabarbaro/rabarbaro.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2016-04-04-sfoglia-al-rabarbaro/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -104,32 +104,32 @@ Prendete una teglia a piacere, rivestitela con la pasta sfoglia (sotto lasciate 
 Infornate la sfoglia nella parte bassa del forno preriscaldato a 220°C statico per 30-40min o almeno finché la sfoglia avrà preso un po' di colore. Fatela raffreddare nella teglia stessa prima di tagliarla...
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2016-04-04-sfoglia-al-rabarbaro/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2016-04-04-sfoglia-al-rabarbaro/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2016-04-04-sfoglia-al-rabarbaro/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2016-04-04-sfoglia-al-rabarbaro/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2016-04-04-sfoglia-al-rabarbaro/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2016-04-04-sfoglia-al-rabarbaro/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2016-04-04-sfoglia-al-rabarbaro/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2016-04-04-sfoglia-al-rabarbaro/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

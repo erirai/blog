@@ -11,7 +11,7 @@ categories:
 - "Muffin, Cupcakes, Cake Pops..."
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2015-03-29-muffin-alla-mandorla-e-lamponi/header.jpg "frangipani © Erica")
 
 > Buona Domenica delle Palme a tutti!
 
@@ -88,21 +88,21 @@ Oggi finisce la Babypausa di mio marito e domani ritorna a lavoro... io proverò
 </h3>
 
 Prendete una ciotola capiente e versateci la farina, lo zucchero, il lievito, il bicarbonato, la vaniglia ed il sale e mescolate il tutto.
-![](farine.jpg "frangipani © Erica")
+![](../2015-03-29-muffin-alla-mandorla-e-lamponi/farine.jpg "frangipani © Erica")
 
 Poi aggiungete il resto degli ingredienti tranne i lamponi e mescolate finché avrete un impasto bello liscio.
-![](impasto.jpg "frangipani © Erica")
+![](../2015-03-29-muffin-alla-mandorla-e-lamponi/impasto.jpg "frangipani © Erica")
 
 Mettete i pirottini di carta nella teglia per muffin poi mettete pochissimo impasto sulla base dei pirottini e ricoprite con ca. 5 lamponi.
-![](lamponi.jpg "frangipani © Erica")
+![](../2015-03-29-muffin-alla-mandorla-e-lamponi/lamponi.jpg "frangipani © Erica")
 
 Poi riempite i pirottini fino a 3/4.
-![](teglia.jpg "frangipani © Erica")
+![](../2015-03-29-muffin-alla-mandorla-e-lamponi/teglia.jpg "frangipani © Erica")
 
 Adesso infornateli nel forno preriscaldato a 180°C ventilato per ca. 20min, mi raccomando fate sempre la prova stecchino e fateli raffreddare su di una griglia.
-![](sfornati.jpg "frangipani © Erica")
+![](../2015-03-29-muffin-alla-mandorla-e-lamponi/sfornati.jpg "frangipani © Erica")
 
-![](risultato.jpg "frangipani © Erica")
+![](../2015-03-29-muffin-alla-mandorla-e-lamponi/risultato.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

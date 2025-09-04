@@ -14,7 +14,7 @@ categories:
 label: 2022-02-16-crumble-di-verdure
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2022-02-16-crumble-di-verdure/header.jpeg "frangipani © Erica")
 
 **Crumble di Verdure** un contorno super saporito pieno di verdure di stagione. Usate le verdure che volete o che avete in casa e volendo, può essere preparato anche in anticipo.
 <br />
@@ -31,7 +31,7 @@ Il Crumble per me è puro Comfort Food, la pasta frolla e la frutta cotta e prof
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Crumble di Verdure</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2022-02-16-crumble-di-verdure/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Crumble di Verdure un contorno super saporito pieno di verdure di stagione. Usate le verdure che volete o che avete in casa e volendo, può essere preparato anche in anticipo.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -118,45 +118,45 @@ Lavate e pelate tutta la verdura. Tagliate a rondelle il porro e la carota, a cu
 Mentre cuoce la verdura preparate il Crumble: Mettete farina, parmigiano, sale, erbette essiccate e spezie in una ciotola e mescolate. Aggiungete il burro freddo a pezzetti e impastate sbriciolando il tutto, dovrete ottenere un composto sabbioso. Lasciate in frigo finché servirà.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="verdura.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="crumble.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-02-16-crumble-di-verdure/verdura.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-02-16-crumble-di-verdure/crumble.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 Prendete una pirofila, imburratela e mettete la verdura. Sopra alla verdura distribuite uniformemente il Crumble.
-![](teglia.jpeg "frangipani © Erica")
+![](../2022-02-16-crumble-di-verdure/teglia.jpeg "frangipani © Erica")
 
 Infornate il **Crumble di Verdure** nel forno preriscaldato a 180°C ventilato per 30-40min o finché la superficie sarà bella dorata. Vi consiglio di accompagnarlo con una salsa allo yogurt fatta con yogurt, erbette aromatiche, paprika, succo di limone, sale e olio.
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-02-16-crumble-di-verdure/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-02-16-crumble-di-verdure/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-02-16-crumble-di-verdure/risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-02-16-crumble-di-verdure/risultato3.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-02-16-crumble-di-verdure/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-02-16-crumble-di-verdure/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-02-16-crumble-di-verdure/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-02-16-crumble-di-verdure/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

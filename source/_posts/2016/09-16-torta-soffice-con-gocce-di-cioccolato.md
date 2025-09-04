@@ -9,7 +9,7 @@ categories:
 label: 2016-09-16-torta-soffice
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2016-09-16-torta-soffice-con-gocce-di-cioccolato/header.jpg "frangipani © Erica")
 
 > Nonno Ciccio, questa torta la dedico a te... Un po' panzuta come lo eri tu!
 
@@ -73,22 +73,22 @@ Ogni tanto succede anche a voi che di colpo vi viene voglia di una torta semplic
 </h3>
 
 Mettete le uova, lo zucchero, lo zucchero vanigliato ed il sale nella planetaria e montate finché avrete un composto chiaro e spumoso.
-![](uova.jpg "frangipani © Erica")
+![](../2016-09-16-torta-soffice-con-gocce-di-cioccolato/uova.jpg "frangipani © Erica")
 
 Sempre mescolando aggiungete l'olio e la panna a filo, poi aggiungete la farina ed il lievito entrambi setacciati. A questo punto aggiungete le gocce di cioccolato lasciandone da parte un pochettino. Mescolate a mano e versate il composto in una teglia a cerniera imburrata ed infarinata (io ho usato una da 20cm, per questo è così alta). Distribuite sulla superficie le rimanenti gocce di cioccolato.
-![](teglia.jpg "frangipani © Erica")
+![](../2016-09-16-torta-soffice-con-gocce-di-cioccolato/teglia.jpg "frangipani © Erica")
 
 Infornate la torta nel forno preriscaldato a 180°C statico per 50min circa, mi raccomando fate la prova stecchino. Se usate la teglia da 20cm ci vorrà di più dato che l'impasto è più alto. Regolatevi con la prova stecchino.
-![](risultato1.jpg "frangipani © Erica")
+![](../2016-09-16-torta-soffice-con-gocce-di-cioccolato/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2016-09-16-torta-soffice-con-gocce-di-cioccolato/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2016-09-16-torta-soffice-con-gocce-di-cioccolato/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2016-09-16-torta-soffice-con-gocce-di-cioccolato/risultato4.jpg "frangipani © Erica")
 
 E poi quando la natura ci regala questa meraviglia, che fai, non ci fai la foto?
-![](carciofo.jpg "frangipani © Erica")
+![](../2016-09-16-torta-soffice-con-gocce-di-cioccolato/carciofo.jpg "frangipani © Erica")
 
 
 <h4>Buon appetito

@@ -10,7 +10,7 @@ categories:
 label: 2024-06-05-sformato-di-rabarbaro-e-quark
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2024-06-05-sformato-di-rabarbaro-e-quark/header.jpeg "frangipani © Erica")
 
 **Sformato di Rabarbaro e Quark** un dolce delicato e tanto confortevole. È morbido, succoso e fruttato, uno di quei dolci da mangiare ancora caldo. Ci vuole pochissimo per prepararlo ed è ottimo sia per colazione che per merenda. Non trovate il rabarbaro? Fa niente, usate altra frutta come fragole, frutti di bosco, mele, pesche... quello che volete. Non trovate il Quark? Fa niente, usate la ricotta.
 <br />
@@ -23,7 +23,7 @@ Ed ecco qua Giugno. In Italia probabilmente vi state già preparando per le vaca
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Sformato di Rabarbaro e Quark</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2024-06-05-sformato-di-rabarbaro-e-quark/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Sformato di Rabarbaro e Quark, un dolce delicato e tanto confortevole. È morbido, succoso e fruttato, uno di quei dolci da mangiare ancora caldo.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -83,8 +83,8 @@ Separate le uova e montate a neve gli albumi con un pizzico di sale, poi mettete
 Versate la pastella in una pirofila ben imburrata e distribuiteci sopra il rabarbaro.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="pastella.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-06-05-sformato-di-rabarbaro-e-quark/pastella.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-06-05-sformato-di-rabarbaro-e-quark/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -92,24 +92,24 @@ Versate la pastella in una pirofila ben imburrata e distribuiteci sopra il rabar
 Infornate lo **Sformato di Rabarbaro e Quark** nel forno preriscaldato a 180°C ventilato per 40-45min. Prima di servirlo, se volete, finite con una spolverata di zucchero a velo e mangiatelo ancora bello caldo...
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-06-05-sformato-di-rabarbaro-e-quark/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-06-05-sformato-di-rabarbaro-e-quark/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-06-05-sformato-di-rabarbaro-e-quark/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-06-05-sformato-di-rabarbaro-e-quark/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-06-05-sformato-di-rabarbaro-e-quark/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-06-05-sformato-di-rabarbaro-e-quark/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

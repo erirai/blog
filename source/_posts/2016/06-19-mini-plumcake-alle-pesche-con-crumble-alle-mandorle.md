@@ -12,7 +12,7 @@ categories:
 - "Muffin, Cupcakes, Cake Pops..."
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2016-06-19-mini-plumcake-alle-pesche-con-crumble-alle-mandorle/header.jpg "frangipani © Erica")
 
 Scusate la mia lunga assenza, ma la settimana scorza proprio zero voglia di fare qualsiasi cosa! Ha piovuto praticamente tutta la settimana a secchiate. Con tutta l'acqua che ha buttato, stanno marcendo anche tutte le fragole in giardino... Vabbò, l'estate dovrà arrivare prima o poi, no? Nel frattempo portiamo noi un po' d'estate in tavola, usando ingredienti estivi come le pesche. Le pesche che ho mangiato fin ora sono veramente buone, dolci e succose. Potete usare le pesche fresche, il tipo che preferite o anche quelle sciroppate, in caso ne abbiate ancora in dispensa. Io ho usato delle formine da Mini-Plumcake ma i pirottini per Muffin vanno altrettanto bene. Avrete dei dolcetti sofficissimi, succosi e croccanti. Le pesche e le mandorle si sposano veramente bene e il gioco tra morbidezza e croccantezza è meraviglioso... e tutto questo è anche vegan! Allora che aspettate a rifarli?!
 
@@ -102,19 +102,19 @@ Scusate la mia lunga assenza, ma la settimana scorza proprio zero voglia di fare
 </h3>
 
 Per primo preparate il crumble mettendo tutti gli ingredienti in una coppa e con le punte delle dita impastate il tutto formando delle briciole. Poi mettetelo in frigo finché vi servirà.
-![](crumble.jpg "frangipani © Erica")
+![](../2016-06-19-mini-plumcake-alle-pesche-con-crumble-alle-mandorle/crumble.jpg "frangipani © Erica")
 
 Adesso tagliate a cubetti due pesche, se è grandissima ne basta una, e mettete da parte. Poi preparate l'impasto per i Mini-Plumcake. Mettete tutti gli ingredienti asciutti in una coppa, mescolate con una frusta a mano, poi aggiungete i due ingredienti liquidi e amalgamate bene tutto finché avrete un composto liscio. A questo punto aggiungete le pesche tagliate a cubetti e date un'ultima mescolata.
-![](impasto.jpg "frangipani © Erica")
+![](../2016-06-19-mini-plumcake-alle-pesche-con-crumble-alle-mandorle/impasto.jpg "frangipani © Erica")
 
 Versate l'impasto nei pirottini, poi tagliate l'ultima pesca a fettine e mettetele sull'impasto.
-![](pirottini1.jpg "frangipani © Erica")
+![](../2016-06-19-mini-plumcake-alle-pesche-con-crumble-alle-mandorle/pirottini1.jpg "frangipani © Erica")
 
 Adesso prendete il crumble e cospargetelo sull'impasto.
-![](pirottini2.jpg "frangipani © Erica")
+![](../2016-06-19-mini-plumcake-alle-pesche-con-crumble-alle-mandorle/pirottini2.jpg "frangipani © Erica")
 
 Infornate i Mini-Plumcake nel forno preriscaldato a 180°C statico per 30min, mi raccomando fate sempre la prova stecchino.
-![](risultato.jpg "frangipani © Erica")
+![](../2016-06-19-mini-plumcake-alle-pesche-con-crumble-alle-mandorle/risultato.jpg "frangipani © Erica")
 
 
 <h4>Buon appetito

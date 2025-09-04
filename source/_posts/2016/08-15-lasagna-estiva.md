@@ -13,7 +13,7 @@ categories:
 label: 2016-08-15-lasagna
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2016-08-15-lasagna-estiva/header.jpg "frangipani © Erica")
 
 > Buon Ferragosto a tutti!
 
@@ -100,24 +100,24 @@ Oggi giornata di festa, anche se qui in Svizzera, almeno nel Canton Zurigo non s
 Preparate il sugo. Tagliate finemente una cipolla, poi in un tegame mettete un filo d'olio, la cipolla e un pizzico di sale. Fate rosolare, aggiungete la passata di pomodoro e allungate con un pochettino d'acqua. Mettete qualche fogliolina di basilico, il sale e fate cuocere a temperatura moderata finché si sarà addensato.
 
 Lavate tutte le verdure. Togliete le due estremità delle cipolle, della melanzana e delle zucchine, poi tagliatele a metà. Tagliate a metà anche i peperoni, eliminate i semini ed i filamenti bianchi. Prendete una teglia con sotto della carta forno, mettete un filo d'olio evo poi adagiateci tutte le verdure con la parte del taglio verso sotto. Aggiungete anche i due spicchi d'aglio schiacciati, mettete ancora un po' d'olio evo e del sale.
-![](verdure.jpg "frangipani © Erica")
+![](../2016-08-15-lasagna-estiva/verdure.jpg "frangipani © Erica")
 
 Infornate la teglia con le verdure nel forno preriscaldato a 180°C ventilato per mezz'oretta. Fate raffreddare leggermente le verdure, eliminate l'aglio, poi pelate i peperoni, le cipolle e le melanzane. A questo punto mettete tutte le verdure in una coppa e con una forbice tagliuzzate tutto, salate.
-![](verduretagliate.jpg "frangipani © Erica")
+![](../2016-08-15-lasagna-estiva/verduretagliate.jpg "frangipani © Erica")
 
 Per la besciamella mettete la farina in un pentolino poi aggiungete a filo il latte sempre mescolando con la frusta a mano. Quando la farina si sarà sciolta completamente, mettete il pentolino sul fornello, a fiamma moderata, sempre mescolando, fatela addensare. Appena si sarà addensata togliete il pentolino dai fornelli e aggiungete il sale e la noce moscata.
-![](besciamella.jpg "frangipani © Erica")
+![](../2016-08-15-lasagna-estiva/besciamella.jpg "frangipani © Erica")
 
 A questo punto possiamo iniziare a comporre la Lasagna. Prendete una pirofila e imburratela. Sul fondo mettete un pochettino di sugo e di besciamella, poi il primo strato di pasta, sugo, besciamella, la verdura tagliuzzata, qualche fogliolina di basilico, mozzarella e parmigiano grattugiato.
-![](comporre.jpg "frangipani © Erica")
+![](../2016-08-15-lasagna-estiva/comporre.jpg "frangipani © Erica")
 
 Continuate finché sarete arrivati appena sotto il bordo della pirofila. Finite l'ultimo strato con una bella spolverata di parmigiano grattugiato.
-![](teglia.jpg "frangipani © Erica")
+![](../2016-08-15-lasagna-estiva/teglia.jpg "frangipani © Erica")
 
 Infornate la Lasagna nel forno preriscaldato a 220°C statico per 30min coperta con della carta argentata, dopo 20min togliete la carta argentata in modo che si crei la crosticina.
-![](risultato1.jpg "frangipani © Erica")
+![](../2016-08-15-lasagna-estiva/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2016-08-15-lasagna-estiva/risultato2.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

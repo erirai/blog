@@ -13,7 +13,7 @@ categories:
 label: 2025-08-27-granita-siciliana-al-limone-senza-gelatiera
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2025-08-27-granita-siciliana-al-limone-senza-gelatiera/header.jpeg "frangipani © Erica")
 
 **Granita Siciliana al Limone senza gelatiera** un classico della cucina siciliana. Fresca, intensa, e profumata, la granita al limone siciliana non è solo un dolce: è esperienza, è tradizione secolare che affonda le sue radici nella storia dell’isola. In Sicilia la granita è un rito quotidiano, soprattutto d'estate. E il gusto al limone, tra i più semplici e autentici, è forse il più rappresentativo.
 
@@ -28,7 +28,7 @@ Per me la granita si mangia così in purezza, senza panna! Certo, una soffice br
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Granita Siciliana al Limone senza gelatiera</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2025-08-27-granita-siciliana-al-limone-senza-gelatiera/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Granita Siciliana al Limone senza gelatiera, un classico della cucina siciliana. Fresca, intensa e profumata.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -65,31 +65,31 @@ Per me la granita si mangia così in purezza, senza panna! Certo, una soffice br
 </h3>
 
 Per lo sciroppo mettete acqua e zucchero in un pentolino e riscaldate il tutto finché lo zucchero non si sarà sciolto completamente. Dunque fatelo raffreddare, poi aggiungete il succo di limone e d'arancia e mescolate bene.
-![](sciroppo.jpeg "frangipani © Erica")
+![](../2025-08-27-granita-siciliana-al-limone-senza-gelatiera/sciroppo.jpeg "frangipani © Erica")
 
 A questo punto versate il liquido nei sacchettini/nelle vaschette per il ghiaccio e lasciate in congelatore finché non si sarà congelato bene il tutto o finché vi servirà. Poi mettete i cubetti con lo sciroppo al limone ghiacciato in un contenitore e con il frullatore a immersione frullate il tutto finché sarà cremoso. A questo punto, se non è troppo liquido, la servite subito, altrimenti mettete la granita di nuovo in congelatore finché avrà la consistenza giusta.
-![](vaschetta.jpeg "frangipani © Erica")
+![](../2025-08-27-granita-siciliana-al-limone-senza-gelatiera/vaschetta.jpeg "frangipani © Erica")
 
 In ogni caso la **Granita Siciliana al Limone** deve avere una consistenza morbida, non ghiacciata come un sorbetto. Servite in un bicchiere, magari accompagnata da una brioche col tuppo...
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-08-27-granita-siciliana-al-limone-senza-gelatiera/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-08-27-granita-siciliana-al-limone-senza-gelatiera/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
-![](risultato3.jpeg "frangipani © Erica")
+![](../2025-08-27-granita-siciliana-al-limone-senza-gelatiera/risultato3.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-08-27-granita-siciliana-al-limone-senza-gelatiera/risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-08-27-granita-siciliana-al-limone-senza-gelatiera/risultato5.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
-![](risultato6.jpeg "frangipani © Erica")
+![](../2025-08-27-granita-siciliana-al-limone-senza-gelatiera/risultato6.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

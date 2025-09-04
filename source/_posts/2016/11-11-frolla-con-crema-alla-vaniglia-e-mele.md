@@ -12,7 +12,7 @@ categories:
 label: 2016-11-11-frolla-con-crema
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2016-11-11-frolla-con-crema-alla-vaniglia-e-mele/header.jpg "frangipani © Erica")
 
 Uffa, dopo il cambio orario, la sera anzi il pomeriggio fa buio prestissimo e siamo appena a novembre e io mi dispero! Perché? Perché non amo fare le foto all'interno, non mi piace la luce. Ma adesso sono costretta a farle dentro col buio, con la luce scarsa e brutta... un nervoso! Sono mesi che cerco una bella tavola vecchia di legno da poter usare per le foto, ma non riesco a trovarla! Mi sa che devo passare da qualche contadino e chiedere li, non ho altre idee. Vabbé continuiamo con i dolci alle mele... Oggi un classico: pasta frolla, crema alla vaniglia e mele! Una di quelle torte che si mangiano sempre molto volentieri! Continuo così a smaltire le mele e meno male che ai miei piccoli piacciono tanto le mele, se no non le finirei mai! Se non avete le mele, vanno benissimo anche le pere o forse anche i cachi, non ho mai provato con i cachi ma penso che dovrebbe venire bene... quasi quasi...
 
@@ -96,23 +96,23 @@ Uffa, dopo il cambio orario, la sera anzi il pomeriggio fa buio prestissimo e si
 </h3>
 
 Preparate per prima cosa la crema: mettete il latte a riscaldare con i semini della vaniglia e la scorza del limone, non deve bollire, solo riscaldarsi. In una coppetta a parte mettete la farina, l'amido di mais e lo zucchero e mescolate bene. Quando il latte si sarà riscaldato, versatelo a filo nella coppa con gli ingredienti asciutti, sempre mescolando amalgamate bene il tutto senza creare grumi. Poi passate il tutto in un pentolino e fate cuocere a fuoco mederato, sempre mescolando finché la crema non si sarà addensata. Poi mettetela in una coppa, copritela a contatto con della pellicola e fatela raffreddare.
-![](crema.jpg "frangipani © Erica")
+![](../2016-11-11-frolla-con-crema-alla-vaniglia-e-mele/crema.jpg "frangipani © Erica")
 
 Prendete tutti gli ingredienti per la pasta frolla e impastate il tutto velocemente finché avrete un impasto omogeneo. Avvolgete la pasta frolla con la pellicola trasparente e mettetela in frigo per mezz'oretta.
-![](frolla.jpg "frangipani © Erica")
+![](../2016-11-11-frolla-con-crema-alla-vaniglia-e-mele/frolla.jpg "frangipani © Erica")
 
 Pelate le mele ed eliminate la parte centrale dura. Tagliate le mele a spicchi abbastanza spessi, poi aggiungete il succo di mezzo limone e tenete da parte.
-![](mele.jpg "frangipani © Erica")
+![](../2016-11-11-frolla-con-crema-alla-vaniglia-e-mele/mele.jpg "frangipani © Erica")
 
 Passato il tempo necessario, stendete la pasta frolla aiutandovi con un mattarello e tanta farina. Rivestite la teglia con la pasta frolla. Io ho usato una teglia rettangolare stretta e lunga e mi è avanzato un po' d'impasto, quindi basterà sicuramente anche per una teglia rotonda. Bucherellate la frolla, poi aggiungete la crema alla vaniglia e finite con gli spicchi di mela. Se volete, cospargete la superficie con un pochettino di zucchero di canna.
-![](teglia.jpg "frangipani © Erica")
+![](../2016-11-11-frolla-con-crema-alla-vaniglia-e-mele/teglia.jpg "frangipani © Erica")
 
 Infornate la torta nel forno preriscaldato a 190°C statico per 40min circa o almeno finché la frolla avrà preso un bel colore dorato. Fatela raffreddare e prima di servirla mettete una bella spolverata di zucchero a velo.
-![](risultato1.jpg "frangipani © Erica")
+![](../2016-11-11-frolla-con-crema-alla-vaniglia-e-mele/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2016-11-11-frolla-con-crema-alla-vaniglia-e-mele/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2016-11-11-frolla-con-crema-alla-vaniglia-e-mele/risultato3.jpg "frangipani © Erica")
 
 
 <h4>Buon appetito

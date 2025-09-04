@@ -13,7 +13,7 @@ categories:
 label: 2025-06-18-asparagi-arrosto-con-pomodori-freschi-su-crema-di-ricotta
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2025-06-18-asparagi-arrosto-con-pomodori-freschi-su-crema-di-ricotta/header.jpeg "frangipani © Erica")
 
 **Asparagi arrosto con Pomodori freschi su crema di Ricotta** un contorno o un pranzetto leggero talmente buono che la scarpetta è un must! Si prepara anche molto velocemente: mettete in forno gli asparagi, nel frattempo preparate la crema di ricotta e i pomodorini. Assemblate tutto e il gioco è fatto! Poi vi serve solo del pane tostato che potete usare comodamente come cucchiaio...
 <br />
@@ -28,7 +28,7 @@ E con questa ricetta salutiamo la primavera e ci dedichiamo ufficialmente all'es
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Asparagi arrosto con Pomodori freschi su crema di Ricotta</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2025-06-18-asparagi-arrosto-con-pomodori-freschi-su-crema-di-ricotta/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Asparagi arrosto con Pomodori freschi su crema di Ricotta, un contorno o un pranzetto leggero talmente buono che la scarpetta è un must!</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -87,8 +87,8 @@ Mentre cuociono gli asparagi preparate la crema di ricotta: amalgamate la ricott
 Tagliate i pomodorini a metà, poi conditeli con olio evo, sale e basilico fresco.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="asparagi.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="ricottapomodori.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-06-18-asparagi-arrosto-con-pomodori-freschi-su-crema-di-ricotta/asparagi.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-06-18-asparagi-arrosto-con-pomodori-freschi-su-crema-di-ricotta/ricottapomodori.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -96,40 +96,40 @@ Tagliate i pomodorini a metà, poi conditeli con olio evo, sale e basilico fresc
 A questo punto mettete la crema di ricotta sulla base di un piatto da portata. Sopra ci adagiate gli asparagi che condirete direttamente sul piatto con succo di limone, olio di pistacchio o evo e se c'è bisogno altro sale e terminate con i pomodorini. Servite con del pane tostato...
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-06-18-asparagi-arrosto-con-pomodori-freschi-su-crema-di-ricotta/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-06-18-asparagi-arrosto-con-pomodori-freschi-su-crema-di-ricotta/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-06-18-asparagi-arrosto-con-pomodori-freschi-su-crema-di-ricotta/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-06-18-asparagi-arrosto-con-pomodori-freschi-su-crema-di-ricotta/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-06-18-asparagi-arrosto-con-pomodori-freschi-su-crema-di-ricotta/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-06-18-asparagi-arrosto-con-pomodori-freschi-su-crema-di-ricotta/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-06-18-asparagi-arrosto-con-pomodori-freschi-su-crema-di-ricotta/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-06-18-asparagi-arrosto-con-pomodori-freschi-su-crema-di-ricotta/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-06-18-asparagi-arrosto-con-pomodori-freschi-su-crema-di-ricotta/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-06-18-asparagi-arrosto-con-pomodori-freschi-su-crema-di-ricotta/risultato10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

@@ -10,7 +10,7 @@ categories:
 label: 2023-11-08-nodini-alla-vaniglia
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2023-11-08-nodini-alla-vaniglia/header.jpeg "frangipani © Erica")
 
 **Nodini alla Vaniglia** dei soffici dolcetti lievitati pazzeschi. Delicati, profumati... Così come devono essere i lievitati! Io vado matta per i lievitati alla crema, ma al posto della crema pasticcera potete usare la crema di nocciole, la crema di pistacchi, della confettura o marmellata o zucchero e cannella, a voi la scelta.
 
@@ -21,7 +21,7 @@ Il mio più grande debole sono proprio loro, i lievitati. Non resisto! Li amo ta
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Nodini alla Vaniglia</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2023-11-08-nodini-alla-vaniglia/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Nodini alla Vaniglia, dei soffici dolcetti lievitati pazzeschi. Delicati, profumati...</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -104,8 +104,8 @@ Per la crema montate l'uovo con lo zucchero ed un pizzico di sale finché sarà 
 Prendete l'impasto e aiutandovi con un mattarello stendetelo formando un rettangolo. Spalmate sulla metà corta la crema, lasciando un bordo di 1cm. Poi piegate l'impasto a metà coprendo la parte con la crema. Coprite e fate lievitare per un'oretta.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="crema.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="chiuso.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-11-08-nodini-alla-vaniglia/crema.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-11-08-nodini-alla-vaniglia/chiuso.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -113,8 +113,8 @@ Prendete l'impasto e aiutandovi con un mattarello stendetelo formando un rettang
 Tagliate il rettangolo a strisce da 1.5cm, prendete una striscia e tiratela facendola allungare e girate la striscia su se stessa (tipo avvitandola). Poi appoggiate un lembo sul piano da lavoro e iniziate ad avvolgerlo formando un nodino/mucchietto, la punta finale mettetela sotto il nodo. Appoggiate i nodini su di una teglia con sotto della carta forno, ma non troppo vicini perché cresceranno ancora un po'. Copriteli e fateli lievitare per un'oretta.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="strisce.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-11-08-nodini-alla-vaniglia/strisce.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-11-08-nodini-alla-vaniglia/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -122,40 +122,40 @@ Tagliate il rettangolo a strisce da 1.5cm, prendete una striscia e tiratela face
 Infornate i **Nodini alla Vaniglia** nel forno preriscaldato a 190°C statico per 15min circa o finché avranno un bel colore dorato. Usciteli dal forno e fateli intiepidire su di una griglia.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-11-08-nodini-alla-vaniglia/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-11-08-nodini-alla-vaniglia/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-11-08-nodini-alla-vaniglia/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-11-08-nodini-alla-vaniglia/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-11-08-nodini-alla-vaniglia/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-11-08-nodini-alla-vaniglia/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-11-08-nodini-alla-vaniglia/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-11-08-nodini-alla-vaniglia/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-11-08-nodini-alla-vaniglia/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-11-08-nodini-alla-vaniglia/risultato10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

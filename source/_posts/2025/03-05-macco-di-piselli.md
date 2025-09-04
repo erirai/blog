@@ -13,7 +13,7 @@ categories:
 label: 2025-03-05-macco-di-piselli
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2025-03-05-macco-di-piselli/header.jpeg "frangipani © Erica")
 
 **Macco di Piselli** una zuppa bella densa della tradizione siciliana. Il Macco è vegano e si fa con pochissimi ingredienti semplicissimi: piselli o fave secche, cipolla, carote e sedano. In realtà **u Maccu** si fa con le fave, ma per questioni di salute mio figlio e io non possiamo mangiarle. Però la versione con i piselli è veramente molto molto buona.
 <br />
@@ -28,7 +28,7 @@ Aaaaaaaaah vi rendete conto che siamo a Marzooo?! Che meraviglia! E anche quest'
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Macco di Piselli</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2025-03-05-macco-di-piselli/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Pastina con l'Uovo, un piatto con ingredienti poveri da dispensa che troviamo sempre in casa, dal gusto confortevole.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -82,8 +82,8 @@ Sciacquate i piselli e metteteli in ammollo in abbondante acqua almeno per una n
 Coprite completamente con acqua o brodo vegetale e fate andare a temperatura alta per circa 90min. Se c'è bisogno aggiungete altra acqua man mano, ma verso fine cottura fate attenzione di non mettere troppa acqua, perché il **Macco di Piselli** dovrà essere bello denso. Solo alla fine aggiustate di sale. Per una consistenza più cremosa e omogenea, vi consiglio di frullare il **Macco** con il frullatore ad immersione.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="piselli.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="macco.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-03-05-macco-di-piselli/piselli.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-03-05-macco-di-piselli/macco.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -91,32 +91,32 @@ Coprite completamente con acqua o brodo vegetale e fate andare a temperatura alt
 Servite bello caldo con un filo d'olio e dei crostini di pane o volendo, si può aggiungere anche dalla pastina.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-03-05-macco-di-piselli/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-03-05-macco-di-piselli/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-03-05-macco-di-piselli/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-03-05-macco-di-piselli/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-03-05-macco-di-piselli/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-03-05-macco-di-piselli/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-03-05-macco-di-piselli/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-03-05-macco-di-piselli/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

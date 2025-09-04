@@ -15,7 +15,7 @@ categories:
 label: 2017-06-21-torta-vegana-al-limone-con-frutta-estiva-e-semi-di-papavero
 lang: it 
 ---
-![](header.jpg "frangipani © Erica")
+![](../2018-06-21-torta-vegana-al-limone-con-frutta-estiva-e-semi-di-papavero/header.jpg "frangipani © Erica")
 
 > Benvenuta Estate!
 
@@ -83,30 +83,30 @@ A proposito, cos'è per voi l'estate? Cosa vi piace fare durante l'estate? Io ci
 Spremete i due limoni in un recipiente graduato, poi aggiugete l'acqua fino ad arrivare a 375ml. Fate sciogliere lo zucchero nell'acqua e limone, poi aggiungete l'olio e mescolate. In una coppa a parte mettete la farina, il lievito per dolci, la scorza dei due limoni, il sale ed i semi di papavero, mescolate e aggiungete anche il miscuglio liquido. Amalgamate bene il tutto con le fruste a mano, poi incorporate delicatamente la frutta tagliata a pezzettini. Versate l'impasto nella teglia precedentemente imburrata ed infarinata.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="impasto.jpg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2018-06-21-torta-vegana-al-limone-con-frutta-estiva-e-semi-di-papavero/impasto.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2018-06-21-torta-vegana-al-limone-con-frutta-estiva-e-semi-di-papavero/teglia.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 Infornate la torta nel forno preriscaldato a 180°C statico per 45-60min, mi raccomando fate la prova stecchino. Fatela intiepidire nella forma stessa, poi scaravoltatela su di un piatto da portata. Una volta fredda conservate la torta in frigo...
-![](risultato1.jpg "frangipani © Erica")
+![](../2018-06-21-torta-vegana-al-limone-con-frutta-estiva-e-semi-di-papavero/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2018-06-21-torta-vegana-al-limone-con-frutta-estiva-e-semi-di-papavero/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2018-06-21-torta-vegana-al-limone-con-frutta-estiva-e-semi-di-papavero/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2018-06-21-torta-vegana-al-limone-con-frutta-estiva-e-semi-di-papavero/risultato4.jpg "frangipani © Erica")
 
-![](risultato5.jpg "frangipani © Erica")
+![](../2018-06-21-torta-vegana-al-limone-con-frutta-estiva-e-semi-di-papavero/risultato5.jpg "frangipani © Erica")
 
-![](risultato6.jpg "frangipani © Erica")
+![](../2018-06-21-torta-vegana-al-limone-con-frutta-estiva-e-semi-di-papavero/risultato6.jpg "frangipani © Erica")
 
-![](risultato7.jpg "frangipani © Erica")
+![](../2018-06-21-torta-vegana-al-limone-con-frutta-estiva-e-semi-di-papavero/risultato7.jpg "frangipani © Erica")
 
-![](risultato8.jpg "frangipani © Erica")
+![](../2018-06-21-torta-vegana-al-limone-con-frutta-estiva-e-semi-di-papavero/risultato8.jpg "frangipani © Erica")
 
-![](risultato9.jpg "frangipani © Erica")
+![](../2018-06-21-torta-vegana-al-limone-con-frutta-estiva-e-semi-di-papavero/risultato9.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

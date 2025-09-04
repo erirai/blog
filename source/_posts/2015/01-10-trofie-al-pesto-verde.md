@@ -11,12 +11,12 @@ categories:
 - "Primi Piatti"
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2015-01-10-trofie-al-pesto-verde/header.jpg "frangipani © Erica")
 
 Oggi vi presento questo primo piatto che è veramente ottimo! È un modo diverso per fare un pesto verde e usare l'avocado. Mangiando la pasta condita con questo pesto avrete un piatto completo... Ci sono i carboidrati, l'omega3, proteine ed è vegan... Ho fregato questa ricetta a mio cognato Tano, sinceramente non ho neanche chiesto se potevo pubblicarla, uguale! Vi do solo gli ingredienti poi voi regolatevi secondo il numero di persone che siete... Posso dirvi che con un avocado ne mangiano 3-4 persone, dipende dalla quantità della pasta.
 
 E proprio mio cognato oggi fa il compleanno e per l'occasione mia sorella gli ha preparato una torta all'Oreo ed io ho pensato di usare anche gli Oreo e fare questi carinissimi gufetti. Sono dei Muffin al cioccolato ricoperti con una ganache al cioccolato e con dei tenerissimi occhietti per fare dei gufetti.
-![](gufettitano.jpg "frangipani © Erica")
+![](../2015-01-10-trofie-al-pesto-verde/gufettitano.jpg "frangipani © Erica")
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
@@ -64,13 +64,13 @@ E proprio mio cognato oggi fa il compleanno e per l'occasione mia sorella gli ha
 </h3>
 
 Mettete a bollire l'acqua per poi cuocerci la pasta e nelfrattempo preparate il pesto... mettete in un recipiente alto e stretto l'avocado, il basilico, i pomodori secchi sott'olio (vanno bene anche quelli non conditi), le mandorle macinate, un po' di olio evo, un pizzico di sale e un goccio d'acqua.
-![](ingredienti.jpg "frangipani © Erica")
+![](../2015-01-10-trofie-al-pesto-verde/ingredienti.jpg "frangipani © Erica")
 
 Poi frullate il tutto con il mixer ad immersione. Il pesto risulterà molto denso, ma con il calore della pasta si scioglierà un po'.
-![](pesto.jpg "frangipani © Erica")
+![](../2015-01-10-trofie-al-pesto-verde/pesto.jpg "frangipani © Erica")
 
 Quando l'acqua bolle, salate l'acqua e buttate la pasta. Quando sarà cotta scolatela e lasciate un po' d'acqua di cottura che vi aiuterà ad amalgamare bene la pasta con il pesto. Mescolate bene la pasta con il pesto e servite subito.
-![](risultato.jpg "frangipani © Erica")
+![](../2015-01-10-trofie-al-pesto-verde/risultato.jpg "frangipani © Erica")
 
 
 <h4>Buon appetito

@@ -12,7 +12,7 @@ categories:
 label: 2024-11-20-mafalde-siciliane
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2024-11-20-mafalde-siciliane/header.jpeg "frangipani © Erica")
 
 **Mafalde Siciliane** dei panini sofficissimi fatti con la farina di semola di grano duro e ricoperti di sesamo. Questi panini sono tipici della cucina siciliana e sicuramente influenzati anche dalla cultura araba per la presenza del sesamo.
 <br />
@@ -33,7 +33,7 @@ Era da molto che volevo fare queste **Mafalde Siciliane**, ma tra una cosa e l'a
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Mafalde Siciliane</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2024-11-20-mafalde-siciliane/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Mafalde Siciliane, dei panini sofficissimi fatti con la farina di semola di grano duro e ricoperti di sesamo.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -87,8 +87,8 @@ Mettete la farina di semola ed il sale nella planetaria e mescolate. A parte fat
 Il giorno dopo uscite l'impasto fuori dal frigo e fate riposare a temperatura ambiente per 2h. Dividete l'impasto in 8 parti uguali, poi coprite e fate riposare un attimino per fare rilassare l'impasto. Dunque prendete un pezzo d'impasto e con le mani stendetelo in lunghezza, poi da un lato iniziate ad arrotolarlo formando un fagottino. Ripetete per tutti i pezzi dell'impasto, coprite e fate riposare mezz'oretta.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="pieghe.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="fagottini.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-11-20-mafalde-siciliane/pieghe.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-11-20-mafalde-siciliane/fagottini.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -96,16 +96,16 @@ Il giorno dopo uscite l'impasto fuori dal frigo e fate riposare a temperatura am
 Prendete un fagottino e formate un lungo salsicciotto. Iniziate a formare una serpentina e con la punta finale del salsicciotto coprite la serpentina. Ripetete con tutti i fagottini.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="salsicciotto.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="mafalde1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-11-20-mafalde-siciliane/salsicciotto.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-11-20-mafalde-siciliane/mafalde1.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="mafalde2.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="mafalde3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-11-20-mafalde-siciliane/mafalde2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-11-20-mafalde-siciliane/mafalde3.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -113,8 +113,8 @@ Prendete un fagottino e formate un lungo salsicciotto. Iniziate a formare una se
 Mettete del sesamo in un piattino, spennellate la superficie delle Mafalde con dell'acqua e pressate le mafalde dalla parte bagnata nel sesamo. Mettetele ben larghe su di una teglia con sotto della carta forno, coprite e fate lievitare per 1h.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="sesamo.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-11-20-mafalde-siciliane/sesamo.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-11-20-mafalde-siciliane/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -122,32 +122,32 @@ Mettete del sesamo in un piattino, spennellate la superficie delle Mafalde con d
 Preriscaldate il foro a 200°C statico poi infornate le **Mafalde Siciliane** nella parte centrale per 20-25min o finché saranno ben dorate (ma non bruciate). Sono ottime da farcire con le panelle o le polpette di patate (Crocché), ma anche con della crema di nocciole...
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-11-20-mafalde-siciliane/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-11-20-mafalde-siciliane/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-11-20-mafalde-siciliane/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-11-20-mafalde-siciliane/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-11-20-mafalde-siciliane/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-11-20-mafalde-siciliane/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-11-20-mafalde-siciliane/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-11-20-mafalde-siciliane/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

@@ -14,7 +14,7 @@ categories:
 label: 2016-08-31-plumcake
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2016-08-31-plumcake-salato-estivo/header.jpg "frangipani © Erica")
 
 Arrivederci Agosto, ci vediamo prossimo anno! Agosto è un mese strano, non so perché... Quest'anno è stata la prima volta che siamo rimasti qui in Svizzera tutto il mese d'agosto. Gli ultimi anni siamo andati in vacanza sempre da metà agosto in poi, questa volta invece siamo partiti già inizio luglio. Agosto in Svizzera è calmissimo, sono tutti in vacanza! Il tempo non sa cosa fare... caldo, freddo, freddo, caldo, nebbia, sole, giacche, infradito... tutto! Quando ancora andavo a scuola, appena iniziavano le vacanze estive, scendevamo giù in Sicilia e ci stavamo 5 settimane (le vacanze estive in Svizzera durano 5 settimane, altro che tre mesi!). Partivamo solo con mia mamma, mio papà ci raggiungeva dopo, dato che non poteva prendere più di due settimane di vacanze. Il mio compleanno lo festeggiavo sempre senza il mio papà. Era strano perché il venerdì ancora stavi a scuola, il sabato si partiva e di domenica eravamo in Sicilia. Eh si, a quei tempi si andava in treno e ci volevano più di 24h. Poi arrivavi lì e non sapevi di cosa parlare con i tuoi nonni, con i tuoi zii, con i tuoi cugini... Non li hai visti per un'anno ma sono pur sempre i tuoi parenti, sangue del tuo sangue. Poi quando iniziavi a prendere confidenza come si deve, quando si creava una certa quotidianità, si doveva ripartire. Tristezza immensa di dover lasciare per l'ennesima volta i tuoi parenti, incertezza se rivedrai di nuovo i tuoi nonni, ma allo stesso tempo una certa gioia di rivedere i tuoi amici. Eh si, la lontananza è una brutta cosa!
 
@@ -107,18 +107,18 @@ Comunque, con la fine del mese di agosto finisce anche l'estate per far posto al
 
 Lavate e pulite tutte le verdure, poi tagliate tutto a pezzettini.
 Mettete l'aglio e la cipolla tagliata grossolanamente in una padella con un filo d'olio evo e un pizzico di sale. Fate soffriggere, poi aggiungete tutte le verdure tagliate. Fate andare a fuoco lento finché le verdure si saranno ammorbidite leggermente. Salate e fate raffreddare. Non dimenticate di togliere l'aglio.
-![](verdure.jpg "frangipani © Erica")
+![](../2016-08-31-plumcake-salato-estivo/verdure.jpg "frangipani © Erica")
 
 Dunque preparate l'impasto. Mettete la farina, la fecola, la paprika, il lievito e un cucchiaino raso di sale in una ciotola e mescolate tutto. Adesso aggiungete la passata di pomodoro, il basilico e l'olio e mescolate bene.
-![](impasto.jpg "frangipani © Erica")
+![](../2016-08-31-plumcake-salato-estivo/impasto.jpg "frangipani © Erica")
 
 Aggiungete all'impasto le verdure cotte fredde, i pomodori secchi tagliati a pezzettini e il formaggio o il Tofu tagliato a cubetti. Amalgamate il tutto e versate l'impasto in una forma da Plumcake da 25cm imburrata ed infarinata.
-![](teglia.jpg "frangipani © Erica")
+![](../2016-08-31-plumcake-salato-estivo/teglia.jpg "frangipani © Erica")
 
 Infornate il Plumcake nel forno preriscaldato a 180°C ventilato per ca. 45min, mi raccomando fate la prova stecchino. Fate intiepidire il Plumcake prima di tagliarlo, altrimenti si sbriciola tutto. Io l'ho accompagnato con una bella insalata mista.
-![](risultato1.jpg "frangipani © Erica")
+![](../2016-08-31-plumcake-salato-estivo/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2016-08-31-plumcake-salato-estivo/risultato2.jpg "frangipani © Erica")
 
 
 <h4>Buon appetito

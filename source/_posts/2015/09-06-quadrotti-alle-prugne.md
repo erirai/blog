@@ -11,7 +11,7 @@ categories:
 label: 2015-09-06-quadrotti-alle-prugne
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2015-09-06-quadrotti-alle-prugne/header.jpeg "frangipani © Erica")
 
 Rieccomi qua dopo le nostre prime vacanze con i nostri due figli, la piccola ma grande peste ed il piccolo angioletto... Ci volevano proprio! In Italia faceva ancora caldissimo, 35°C... arriviamo qua e fa freschetto! Ho tirato fuori le giacchette, brrrr. Di mattina c'è nebbia, poi di pomeriggio esce il sole, ma c'è proprio profumo di autunno! Con l'autunno arrivano anche i dolci più sostanziosi e pesantini. Al momento ci sono le prugne ottime e i dolci con le prugne sono una meraviglia. Questi **Quadrotti alle Prugne** hanno tutte le consistenze: sotto una pasta tipo pane bella morbida, sopra le prugne succose e per finire la granella croccante, mmmmm!
 
@@ -21,7 +21,7 @@ Rieccomi qua dopo le nostre prime vacanze con i nostri due figli, la piccola ma 
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Quadrotti alle Prugne</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2015-09-06-quadrotti-alle-prugne/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Quadrotti alle Prugne, hanno tutte le consistenze: sotto una pasta tipo pane bella morbida, sopra le prugne succose e per finire la granella croccante!</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -143,8 +143,8 @@ Per ultimo preparate la pasta "lievitata" che poi non è lievitata, viene chiama
 Prendete la teglia e copritela con della carta forno. Poi mettete l'impasto nella teglia e aiutandovi con le mani stendetela.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="crumble.jpg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2015-09-06-quadrotti-alle-prugne/crumble.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2015-09-06-quadrotti-alle-prugne/teglia.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -154,43 +154,43 @@ A questo punto dobbiamo fare una prima cottura in bianco della base della torta.
 Ricoprite tutto con le prugne. Mescolate 3 cucchiai di zucchero con mezzo cucchiaino di cannella e cospargetelo sulle prugne. Poi finite con la granella croccante.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="cotturainbianco.jpg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia2.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2015-09-06-quadrotti-alle-prugne/cotturainbianco.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2015-09-06-quadrotti-alle-prugne/teglia2.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 A questo punto rimettete la teglia in forno per altri 30-40min o almeno fino a quando la superficie sarà diventata bella croccante. Quando avrete sfornato la torta, fate sciogliere il burro e a parte mescolate lo zucchero con la cannella. Poi fate colare il burro sciolto su tutta la torta, distribuendolo bene e finite con lo zucchero e cannella.
-![](sfornata.jpg "frangipani © Erica")
+![](../2015-09-06-quadrotti-alle-prugne/sfornata.jpg "frangipani © Erica")
 
 A questo punto fate riposare la torta per almeno un'oretta. Poi tagliatela a quadrotti e servitela ancora tiepida. Conservatela in frigo...
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2015-09-06-quadrotti-alle-prugne/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2015-09-06-quadrotti-alle-prugne/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2015-09-06-quadrotti-alle-prugne/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2015-09-06-quadrotti-alle-prugne/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato5.jpeg "frangipani © Erica")
+![](../2015-09-06-quadrotti-alle-prugne/risultato5.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2015-09-06-quadrotti-alle-prugne/risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2015-09-06-quadrotti-alle-prugne/risultato7.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato8.jpeg "frangipani © Erica")
+![](../2015-09-06-quadrotti-alle-prugne/risultato8.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

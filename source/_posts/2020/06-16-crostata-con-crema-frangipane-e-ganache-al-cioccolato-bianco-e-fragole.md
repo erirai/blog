@@ -14,7 +14,7 @@ categories:
 label: 2020-06-16-crostata-con-crema-frangipane-e-ganache
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2020-06-16-crostata-con-crema-frangipane-e-ganache-al-cioccolato-bianco-e-fragole/header.jpeg "frangipani © Erica")
 
 **Crostata con Crema Frangipane e Ganache al Cioccolato Bianco e Fragole** dal gusto delicato, dolce ma anche fruttato. Tre componenti, la frolla, la crema Frangipane e la Ganache al cioccolato bianco e fragole, che già da sole sono buonissime, ma insieme creano un dolce spettacolare!
 <br />
@@ -27,7 +27,7 @@ Questa ricetta l'ho presa dal giornalino Sweet Dreams di Maggio/Giugno 2020 (not
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Crostata con Crema Frangipane e Ganache al Cioccolato Bianco e Fragole</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-06-16-crostata-con-crema-frangipane-e-ganache-al-cioccolato-bianco-e-fragole/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Crostata con Crema Frangipane e Ganache al Cioccolato Bianco e Fragole dal gusto delicato, dolce ma anche fruttato.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -128,8 +128,8 @@ Mentre cuoce la frolla, preparate la crema Frangipane semplicemente mescolando t
 Una volta fredda, preparate la Ganache: tritate finemente il cioccolato bianco poi portate ad ebollizione la panna con la vaniglia. Versate il cioccolato tritato nella panna bollente e togliete dai fornelli. Sempre mescolando fate sciogliere bene il cioccolato bianco. A parte frullate le fragole e versate la purea di fragole nella Ganache e mescolate bene. Distribuite la Ganache al cioccolato bianco e fragole sulla crostata.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="frangipane.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-06-16-crostata-con-crema-frangipane-e-ganache-al-cioccolato-bianco-e-fragole/frangipane.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-06-16-crostata-con-crema-frangipane-e-ganache-al-cioccolato-bianco-e-fragole/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -137,34 +137,34 @@ Una volta fredda, preparate la Ganache: tritate finemente il cioccolato bianco p
 Fate riposare in frigo per almeno un'oretta, poi decorate con altre fragole fresche e se volete aggiungete un pizzichino di pepe rosa...
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-06-16-crostata-con-crema-frangipane-e-ganache-al-cioccolato-bianco-e-fragole/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-06-16-crostata-con-crema-frangipane-e-ganache-al-cioccolato-bianco-e-fragole/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato3.jpeg "frangipani © Erica")
+![](../2020-06-16-crostata-con-crema-frangipane-e-ganache-al-cioccolato-bianco-e-fragole/risultato3.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <div style="clear: both"></div>
-  </div>
-</p>
-
-<p>
-  <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-06-16-crostata-con-crema-frangipane-e-ganache-al-cioccolato-bianco-e-fragole/risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-06-16-crostata-con-crema-frangipane-e-ganache-al-cioccolato-bianco-e-fragole/risultato5.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-06-16-crostata-con-crema-frangipane-e-ganache-al-cioccolato-bianco-e-fragole/risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-06-16-crostata-con-crema-frangipane-e-ganache-al-cioccolato-bianco-e-fragole/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <div style="clear: both"></div>
+  </div>
+</p>
+
+<p>
+  <div style="width: 100%; margin-bottom: 0">
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-06-16-crostata-con-crema-frangipane-e-ganache-al-cioccolato-bianco-e-fragole/risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-06-16-crostata-con-crema-frangipane-e-ganache-al-cioccolato-bianco-e-fragole/risultato9.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

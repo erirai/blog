@@ -12,14 +12,14 @@ categories:
 label: 2023-05-17-crumble-di-rabarbaro-e-mele
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2023-05-17-crumble-di-rabarbaro-e-mele/header.jpeg "frangipani © Erica")
 
 Pubblicità: **Crumble di Rabarbaro e Mele** in collaborazione con <a href="https://www.farmy.ch" target="_blank">Farmy</a>. Una ricettina facile e veloce, perfetta per queste giornate ancora frescoline.
 <br />
 Finalmente c'è più scelta di frutta e verdura e si nota anche sul sito di <a href="https://www.farmy.ch" target="_blank">Farmy</a>. Adoro avere tutta questa scelta, ma soprattutto adoro il rabarbaro in questo periodo!
 
 Era da un sacco di tempo che volevo preparare un nuovo Crumble e mi sembrava un'ottima idea prepararne uno con il rabarbaro e le mele. Ho preso tutto il necessario direttamente da <a href="https://www.farmy.ch" target="_blank">Farmy</a> come sempre e mi sono messa all'opera! 
-![](spesa.jpeg "frangipani © Erica")
+![](../2023-05-17-crumble-di-rabarbaro-e-mele/spesa.jpeg "frangipani © Erica")
 
 Mannaggia che buono questo Crumble! Una crosticina croccante e sotto quel rabarbaro e quelle mele belle succose e agre. Io ho usato delle mele agre, perché sono quelle che preferiamo, quindi in combinazione con il rabarbaro il tutto diventa bello forte. Ma su <a href="https://www.farmy.ch" target="_blank">Farmy</a> trovate una grande scelta di mele, anche quelle più dolci. In questo modo potete rendere questo Crumble più dolce, senza usare ulteriore zucchero.
 
@@ -31,7 +31,7 @@ Secondo me il modo migliore per mangiare il Crumble è il seguente: caldo e con 
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Crumble di Rabarbaro e Mele</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2023-05-17-crumble-di-rabarbaro-e-mele/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Crumble di Rabarbaro e Mele, una ricettina facile e veloce, perfetta per queste giornate ancora frescoline.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -102,8 +102,8 @@ In una coppa a parte preparate il cruble mettendo zucchero, farina, mandorle e s
 Prendete la pirofila e distribuite sopra al rabarbaro e le mele il crumble, sempre sbriciolandolo.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="frutta.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-05-17-crumble-di-rabarbaro-e-mele/frutta.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-05-17-crumble-di-rabarbaro-e-mele/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -111,48 +111,48 @@ Prendete la pirofila e distribuite sopra al rabarbaro e le mele il crumble, semp
 Infornate il **Crumble di Rabarbaro e Mele** a 180°C statico per mezz'oretta o fino a doratura. Fate intiepidire leggermente il Crumble prima di mangiarlo... Vi consiglio di accompagnare il Crumble con del gelato alla vaniglia.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-05-17-crumble-di-rabarbaro-e-mele/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-05-17-crumble-di-rabarbaro-e-mele/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-05-17-crumble-di-rabarbaro-e-mele/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-05-17-crumble-di-rabarbaro-e-mele/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-05-17-crumble-di-rabarbaro-e-mele/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-05-17-crumble-di-rabarbaro-e-mele/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-05-17-crumble-di-rabarbaro-e-mele/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-05-17-crumble-di-rabarbaro-e-mele/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-05-17-crumble-di-rabarbaro-e-mele/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-05-17-crumble-di-rabarbaro-e-mele/risultato10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato11.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato12.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-05-17-crumble-di-rabarbaro-e-mele/risultato11.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-05-17-crumble-di-rabarbaro-e-mele/risultato12.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

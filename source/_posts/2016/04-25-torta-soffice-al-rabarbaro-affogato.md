@@ -11,7 +11,7 @@ categories:
 - Torte
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2016-04-25-torta-soffice-al-rabarbaro-affogato/header.jpg "frangipani © Erica")
 
 > Buon 25 Aprile!
 
@@ -100,18 +100,18 @@ lang: it
 </h3>
 
 Lavate il rabarbaro e tagliate le due estremità. In questo caso non c'è bisogno di pelarlo se non volete farlo. Poi tagliatelo a pezzetti da 3-4cm, possibilmente tutti uguali. Mettete il rabarbaro tagliato in una coppa, aggiungete 3 cucchiai di zucchero, la vaniglia in polvere ed il succo di mezzo limone. Mescolate il tutto, copritelo e lasciatelo marinare finché vi servirà. Vedrete che dopo un po' si sarà creato un bel succo.
-![](rabarbaro.jpg "frangipani © Erica")
+![](../2016-04-25-torta-soffice-al-rabarbaro-affogato/rabarbaro.jpg "frangipani © Erica")
 
 Per l'impasto mettete la farina, la fecola, la farina di soia (se non avete la farina di soia, mettete due cucchiai di fecola al posto di uno), i due zuccheri, lo zucchero vanigliato, il sale ed il lievito in una ciotola e mescolate. Aggiungete l'olio di semi, il latte e la margarina fusa e amalgamate bene. Prendete il succo del rabarbaro che si è creato e versatelo nell'impasto, finite di mescolate bene.
-![](impasto.jpg "frangipani © Erica")
+![](../2016-04-25-torta-soffice-al-rabarbaro-affogato/impasto.jpg "frangipani © Erica")
 
 Mettete l'impasto in una teglia rotonda a cerniera precedentemente imburrata e infarinata. Poi prendete il rabarbaro e uno ad uno "affogate" in verticale il rabarbaro nell'impasto.
-![](teglia1.jpg "frangipani © Erica")
+![](../2016-04-25-torta-soffice-al-rabarbaro-affogato/teglia1.jpg "frangipani © Erica")
 
-![](teglia2.jpg "frangipani © Erica")
+![](../2016-04-25-torta-soffice-al-rabarbaro-affogato/teglia2.jpg "frangipani © Erica")
 
 Infornate nel forno preriscaldato ventilato a 160°C per un'ora, mi raccomando fate sempre la prova stecchino.
-![](risultato.jpg "frangipani © Erica")
+![](../2016-04-25-torta-soffice-al-rabarbaro-affogato/risultato.jpg "frangipani © Erica")
 
 
 <h4>Buon appetito

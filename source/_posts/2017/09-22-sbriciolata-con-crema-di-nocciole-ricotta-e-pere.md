@@ -13,7 +13,7 @@ categories:
 label: 2017-09-22-sbriciolata-con-crema-di-nocciole-ricotta-e-pere
 lang: it 
 ---
-![](header.jpg "frangipani © Erica")
+![](../2017-09-22-sbriciolata-con-crema-di-nocciole-ricotta-e-pere/header.jpg "frangipani © Erica")
 
 > Benvenuto Autunno!
 
@@ -86,26 +86,26 @@ Ma tutto questo per fortuna non mi ha impedito di preparare dolci e cucinare. Ed
 Per prima cosa pelate le pere e tagliatele a dadini. Versatele in un pentolino con una spolverata di zucchero e fatele cuocere giusto il tempo che ci vuole per farle ammorbidire. Mettetele da parte e fatele raffreddare. 
 
 Dunque preparate l'impasto: in una coppa impastate velocemente la farina, lo zucchero, l'uovo, il burro a pezzettini, il lievito per dolci ed un pizzico di sale. Dovrete ottenere un composto sabbioso, bricioloso. Versate 2/3 dell'impasto in una teglia rotonda a cerniera ricoperta di carta forno e con le mani schiacciate bene formando anche un bordo. A questo punto spalmate sulla base la crema di nocciole (ca. 3-5 cucchiaioni).
-![](cremanocciole.jpg "frangipani © Erica")
+![](../2017-09-22-sbriciolata-con-crema-di-nocciole-ricotta-e-pere/cremanocciole.jpg "frangipani © Erica")
 
 In una coppetta mettete la ricotta e lo zucchero a velo. Amalgamate bene il tutto, poi aggiungete anche le pere precedentemente cotte e finite di mescolare.
-![](ricottaepere.jpg "frangipani © Erica")
+![](../2017-09-22-sbriciolata-con-crema-di-nocciole-ricotta-e-pere/ricottaepere.jpg "frangipani © Erica")
 
 Spalmate la crema di ricotta e pere sulla crema di nocciole e poi coprite con il resto dell'impasto lasciando tutto a briciole.
-![](teglia.jpg "frangipani © Erica")
+![](../2017-09-22-sbriciolata-con-crema-di-nocciole-ricotta-e-pere/teglia.jpg "frangipani © Erica")
 
 Infornate la Sbriciolata nel forno preriscaldato statico a 180°C per ca. 40min. Dovrà avere un colore dorato, non troppo scuro. Fatela raffreddare completamente. Se la servite fredda da frigo è ancora più buona.
-![](risultato1.jpg "frangipani © Erica")
+![](../2017-09-22-sbriciolata-con-crema-di-nocciole-ricotta-e-pere/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2017-09-22-sbriciolata-con-crema-di-nocciole-ricotta-e-pere/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2017-09-22-sbriciolata-con-crema-di-nocciole-ricotta-e-pere/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2017-09-22-sbriciolata-con-crema-di-nocciole-ricotta-e-pere/risultato4.jpg "frangipani © Erica")
 
-![](risultato5.jpg "frangipani © Erica")
+![](../2017-09-22-sbriciolata-con-crema-di-nocciole-ricotta-e-pere/risultato5.jpg "frangipani © Erica")
 
-![](risultato6.jpg "frangipani © Erica")
+![](../2017-09-22-sbriciolata-con-crema-di-nocciole-ricotta-e-pere/risultato6.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

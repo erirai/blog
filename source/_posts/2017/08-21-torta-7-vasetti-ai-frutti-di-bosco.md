@@ -15,7 +15,7 @@ categories:
 label: 2017-08-21-torta-7-vasetti-ai-frutti-di-bosco
 lang: it 
 ---
-![](header.jpg "frangipani © Erica")
+![](../2017-08-21-torta-7-vasetti-ai-frutti-di-bosco/header.jpg "frangipani © Erica")
 
 Oggi è un giorno speciale... Festeggiamo il primo giorno di asilo di nostra figlia! È felicissima anche se in realtà non a esattamente cosa l'aspetta. Ha lo zainetto nuovo con Vaiana, si perché Vaiana is the new Elsa, e la fascetta arancione in modo che la vedano tutti, soprattutto gli automobilisti. Sono felicissima per lei, perché ne ha proprio bisono. Ha bisogno di staccarsi da me e passare più tempo con altri bimbi. Ha bisogno di stare con bimbi che parlano solo lo svizzero in modo che lo impari anche lei. Si, perché la furbetta appena sente parlare in italiano, neanche ammazzata ti parla in svizzero! So che si divertirà tantissimo, ma anche che si stancherà tantissimo! Imparerà cose nuove, chissà se saremo d'accordo con tutto quello che le insegneranno... Perderemo quel vivere alla giornata... si, perché fin ora non abbiamo mai avuto impegni fissi. La sera a letto sempre allo stesso orario e la mattina si svegliavano quando volevano, poi si decideva cosa fare. Andiamo al mercato? Andiamo in centro o al parco giochi? Andiamo a fare una bella passeggiata lungo il fiume o stiamo a casa? Stiamo in giardino e ci buttiamo nella neve o ci sediamo sulla sedia a dondolo e guardiamo il temporale? Fin ora abbiamo fatto così e sarà dura per me ritornare a quel ritmo con orari fissi che avevo quando ancora non ero mamma... 
 
@@ -94,18 +94,18 @@ Una torta facile che riesce sempre, non vi serve nessuna bilancia (si forse solo
 </h3>
 
 Usate come unità di misura sempre il vasetto dello yogurt. Versate in una coppa capiente lo yogurt, l'olio, le uova, la vaniglia, la scorza di limone ed il sale e mescolate tutto con una frusta a mano. A parte mescolate la farina con la fecola, lo zucchero, il lievito ed il bicarbonato. Versate gli ingredienti asciutti nella coppa con gli ingredienti umidi e mescoalte il tutto con la frusta a mano finché avrete un composto omogeneo e liscio. Aggiungete i frutti di bosco e delicatamente date un'ultima mescolata. Versate il composto in una teglia precedentemente imburrata ed infarinata.
-![](teglia.jpg "frangipani © Erica")
+![](../2017-08-21-torta-7-vasetti-ai-frutti-di-bosco/teglia.jpg "frangipani © Erica")
 
 Infornate nel forno preriscaldato ventilato a 170°C per ca. 45min. Fate sempre la prova stecchino. Fate reffreddare la torta nello stampo stesso... Se volete finite con una spolverata di zucchero a velo.
-![](risultato1.jpg "frangipani © Erica")
+![](../2017-08-21-torta-7-vasetti-ai-frutti-di-bosco/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2017-08-21-torta-7-vasetti-ai-frutti-di-bosco/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2017-08-21-torta-7-vasetti-ai-frutti-di-bosco/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2017-08-21-torta-7-vasetti-ai-frutti-di-bosco/risultato4.jpg "frangipani © Erica")
 
-![](risultato5.jpg "frangipani © Erica")
+![](../2017-08-21-torta-7-vasetti-ai-frutti-di-bosco/risultato5.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

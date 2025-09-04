@@ -11,7 +11,7 @@ categories:
 label: 2022-06-14-ciambella-alle-mandorle-con-cuore-di-ricotta-e-rabarbaro
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2022-06-14-ciambella-alle-mandorle-con-cuore-di-ricotta-e-rabarbaro/header.jpeg "frangipani © Erica")
 
 **Ciambella alle Mandorle con Cuore di Ricotta e Rabarbaro** una torta rustica, saporita e gustosa. La parte rustica alle mandorle si sposa perfettamente con il ripieno cremoso di ricotta e quella nota aspra del rabarbaro. È una ciambella bella umida, per niente asciutta, grazie allo yogurt nell'impasto e si mangia con molto piacere. Non è pesante, anzi... E se non avete il rabarbaro, secondo me vanno benissimo anche le mele, i lamponi o i ribes. È una torta silenziosa, la chiamo così perché non avete bisogno di fruste elettriche per prepararla. Quindi si può preparare anche la mattina presto o la sera tardi quando gli altri dormono...
 
@@ -24,7 +24,7 @@ In questo breve periodo infatti ne mangiamo molto e ce li godiamo, dopo arrivera
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Ciambella alle Mandorle con Cuore di Ricotta e Rabarbaro</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2022-06-14-ciambella-alle-mandorle-con-cuore-di-ricotta-e-rabarbaro/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Ciambella alle Mandorle con Cuore di Ricotta e Rabarbaro, una torta rustica, saporita e gustosa.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -119,42 +119,42 @@ In una ciotola mettete uova, zucchero, olio e sale e mescolate con la frusta a m
 Preparate il ripieno: in una ciotola mettete ricotta, zucchero, sale, farina, uovo e scorza di limone e amalgamate bene il tutto. Alla fine aggiungete il rabarbaro tagliato a pezzettini.
 
 Prendete una teglia per ciambella imburrata ed infarinata e versateci metà dell'impasto alle mandorle. Con un cucchiaino fate un'incavatura tutt'attorno al centro dell'impasto e riempitela con la crema di ricotta e rabarbaro. Cercate di evitare il contatto tra ricotta e bordi della teglia (non è grave, ma meglio se si evita). Poi coprite il tutto con il resto dell'impasto alle mandorle.
-![](teglia.jpeg "frangipani © Erica")
+![](../2022-06-14-ciambella-alle-mandorle-con-cuore-di-ricotta-e-rabarbaro/teglia.jpeg "frangipani © Erica")
 
 Infornate la **Ciambella alle Mandorle con Cuore di Ricotta e Rabarbaro** a 180°C ventilato per un'oretta, fate sempre la prova stecchino. Fatela raffreddare completamente nella teglia prima di scaravoltarla su di un piatto da portata. Prima di servirla, se volete spolveratela con dello zucchero a velo (io ho mischiato zucchero a velo e lamponi in polvere, per questo il colore rosa).
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-06-14-ciambella-alle-mandorle-con-cuore-di-ricotta-e-rabarbaro/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-06-14-ciambella-alle-mandorle-con-cuore-di-ricotta-e-rabarbaro/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-06-14-ciambella-alle-mandorle-con-cuore-di-ricotta-e-rabarbaro/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-06-14-ciambella-alle-mandorle-con-cuore-di-ricotta-e-rabarbaro/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-06-14-ciambella-alle-mandorle-con-cuore-di-ricotta-e-rabarbaro/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-06-14-ciambella-alle-mandorle-con-cuore-di-ricotta-e-rabarbaro/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-06-14-ciambella-alle-mandorle-con-cuore-di-ricotta-e-rabarbaro/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-06-14-ciambella-alle-mandorle-con-cuore-di-ricotta-e-rabarbaro/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato9.jpeg "frangipani © Erica")
+![](../2022-06-14-ciambella-alle-mandorle-con-cuore-di-ricotta-e-rabarbaro/risultato9.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

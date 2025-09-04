@@ -13,18 +13,18 @@ categories:
 - "Muffin, Cupcakes, Cake Pops..."
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2014-05-29-muffin-alle-mandorle-ripieni-di-fragole-e-rabarbaro/header.jpg "frangipani © Erica")
 
 **Muffin vegani alle Mandorle ripieni di Fragole e Rabarbaro** morbidissimi e con un cuore fruttato.
 <br />
 Era un casino di tempo che non facevo qualche dolce e dato che ci sono ancora i miei zii dall'Italia ho colto l'occasione e mi sono messa all'opera. Diciamo che ho pasticciato un po'... avevo qualcosa in mente ma nessuna ricetta, quindo ho mischiato qualche cosina e questo è il risulatato...
 
 Che emozione, nostra figlia qualche giorno fa ha fatto un anno!!! Che bello! Va matta per Minnie Mouse (lei la chiama "mimmi"), per questo abbiamo pensato di fare tutto dedicato a Minnie Mouse... una torta, dei Cupcakes e anche dei Mini Cupcakes...
-![](cupcakegaia.jpg "frangipani © Erica")
+![](../2014-05-29-muffin-alle-mandorle-ripieni-di-fragole-e-rabarbaro/cupcakegaia.jpg "frangipani © Erica")
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="tortagaia.jpg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="miniccgaia.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-05-29-muffin-alle-mandorle-ripieni-di-fragole-e-rabarbaro/tortagaia.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-05-29-muffin-alle-mandorle-ripieni-di-fragole-e-rabarbaro/miniccgaia.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -114,29 +114,29 @@ Che emozione, nostra figlia qualche giorno fa ha fatto un anno!!! Che bello! Va 
 </h3>
 
 Mettete tutti gli ingredienti asciutti in una ciotola e mescolate con la frusta a mano, poi aggiungete l'olio ed il latte e mescolate con un cucchiaio, finché si tolgono tutti i grumi.
-![](impasto.jpg "frangipani © Erica")
+![](../2014-05-29-muffin-alle-mandorle-ripieni-di-fragole-e-rabarbaro/impasto.jpg "frangipani © Erica")
 
 Versate l'impasto nei pirottini.
-![](pirottini.jpg "frangipani © Erica")
+![](../2014-05-29-muffin-alle-mandorle-ripieni-di-fragole-e-rabarbaro/pirottini.jpg "frangipani © Erica")
 
 E infornateli nel forno preriscaldato a 180°C (statico) per ca. 20min. 
-![](sfornati.jpg "frangipani © Erica")
+![](../2014-05-29-muffin-alle-mandorle-ripieni-di-fragole-e-rabarbaro/sfornati.jpg "frangipani © Erica")
 
 Nel frattempo preparate il ripieno. Lavate le fragole e tagliatele a pezzetti, poi lavate e pelate il rabarbaro e tagliatelo anche a pezzetti. Mettete il tutto in una pentola ed aggiungete lo zucchero di canna, l'agar agar ed il succo di limone a piacere. Fatelo cuocere a fiamma bassa finchè la frutta sarà bella morbida. Poi frullatela e fatela raffreddare. L'agar agar farà solidificare il tutto quando il composto sarà freddo...
-![](ripieno.jpg "frangipani © Erica")
+![](../2014-05-29-muffin-alle-mandorle-ripieni-di-fragole-e-rabarbaro/ripieno.jpg "frangipani © Erica")
 
 Quando si sarà raffreddato passate il ripieno in un sac à poche e usate una punta adatta alla farcitura.
-![](sacapoche.jpg "frangipani © Erica")
+![](../2014-05-29-muffin-alle-mandorle-ripieni-di-fragole-e-rabarbaro/sacapoche.jpg "frangipani © Erica")
 
-![](punta.jpg "frangipani © Erica")
+![](../2014-05-29-muffin-alle-mandorle-ripieni-di-fragole-e-rabarbaro/punta.jpg "frangipani © Erica")
 
 Prendete un muffin alla volta e farcitelo piano piano. Il muffin sarà pieno quando si spaccerà leggermente...
-![](farcire.jpg "frangipani © Erica")
+![](../2014-05-29-muffin-alle-mandorle-ripieni-di-fragole-e-rabarbaro/farcire.jpg "frangipani © Erica")
 
 Eccoli pronti da mangiare...
-![](risultato1.jpg "frangipani © Erica")
+![](../2014-05-29-muffin-alle-mandorle-ripieni-di-fragole-e-rabarbaro/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2014-05-29-muffin-alle-mandorle-ripieni-di-fragole-e-rabarbaro/risultato2.jpg "frangipani © Erica")
 
 
 

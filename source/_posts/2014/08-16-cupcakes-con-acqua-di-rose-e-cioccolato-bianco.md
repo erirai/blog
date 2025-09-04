@@ -12,7 +12,7 @@ categories:
 - "Muffin, Cupcakes, Cake Pops..."
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2014-08-16-cupcakes-con-acqua-di-rose-e-cioccolato-bianco/header.jpg "frangipani © Erica")
 
 Mia sorella qualche settimana fa mi ha portato l'acqua di rose. Dato che oggi siamo andati a trovare una mia cara amica che è iraniana, ho pensato di fare qualcosa con l'acqua di rose, dato che in Persia la usano molto spesso!
 
@@ -92,22 +92,22 @@ Mia sorella qualche settimana fa mi ha portato l'acqua di rose. Dato che oggi si
 
 Mettete in una ciotola la farina, la fecola di patate, lo zucchero di canna, il lievito, lo zucchero vanigliato ed un pizzico di sale e mescolate tutto.
 Aggiungete poi il latte di soia o di riso e l'olio e mescolate bene a mano e poi aggiungete il cioccolato bianco a pezzettini e l'acqua di rose.
-![](impasto.jpg "frangipani © Erica")
+![](../2014-08-16-cupcakes-con-acqua-di-rose-e-cioccolato-bianco/impasto.jpg "frangipani © Erica")
 
 Mettete l'impasto nei pirottini aiutandovi con un cucchiaio. 
-![](pirottini.jpg "frangipani © Erica")
+![](../2014-08-16-cupcakes-con-acqua-di-rose-e-cioccolato-bianco/pirottini.jpg "frangipani © Erica")
 
 Infornate a 200°C per ca. 15min (mi raccomando fate sempre la prova con lo stecchino), poi sfornateli e fateli raffreddare.
-![](sfornati.jpg "frangipani © Erica")
+![](../2014-08-16-cupcakes-con-acqua-di-rose-e-cioccolato-bianco/sfornati.jpg "frangipani © Erica")
 
 Ora prepariamo la Ganache: versate la panna in un pentolino e fatela scaldare senza farla bollire. Poi aggiungete il cioccolato bianco e fatelo sciogliere bene. Se volete aggiungete anche del colorante e l'acqua di rose. Fate raffreddare un po' e poi mettete in frigo per farla raffreddare e rapprendere.
-![](ganache1.jpg "frangipani © Erica")
+![](../2014-08-16-cupcakes-con-acqua-di-rose-e-cioccolato-bianco/ganache1.jpg "frangipani © Erica")
 
 Quando si sarà indurita bene, passatela nel robot da cucina (o con le fruste elettriche a mano) e fatela montare, come se fosse della normale panna da montare.
-![](ganache2.jpg "frangipani © Erica")
+![](../2014-08-16-cupcakes-con-acqua-di-rose-e-cioccolato-bianco/ganache2.jpg "frangipani © Erica")
 
 Poi passate tutto in un sac à poche e decorate i Cupcakes.
-![](risultato.jpg "frangipani © Erica")
+![](../2014-08-16-cupcakes-con-acqua-di-rose-e-cioccolato-bianco/risultato.jpg "frangipani © Erica")
 
 
 <h4>Buon appetito

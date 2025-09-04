@@ -11,7 +11,7 @@ categories:
 label: 2023-02-15-ravioli-di-ricotta-siciliani
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2023-02-15-ravioli-di-ricotta-siciliani/header.jpeg "frangipani © Erica")
 
 **Ravioli di Ricotta Siciliani** dei dolcetti fritti tradizionali di una bontà pazzesca, chiamati anche Cassatelle Siciliane. Un impasto profumatissimo che racchiude al centro un buonissimo ripieno di ricotta. Una volta fritti saranno croccanti fuori e cremosissimi dentro. Non sono dei dolcetti tipici di carnevale, ma ho voluto proporveli comunque perché sono troppo buoni (e fritti e quindi vanno benissimo anche per carnevale).
 
@@ -24,7 +24,7 @@ La forma la decidete voi. Io li ho fatti tondi unendo due dischi, potete anche f
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Ravioli di Ricotta Siciliani</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2023-02-15-ravioli-di-ricotta-siciliani/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Ravioli di Ricotta Siciliani, dei dolcetti fritti tradizionali di una bontà pazzesca, chiamati anche Cassatelle Siciliane.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -103,45 +103,45 @@ Nel frattempo con una forchetta schiacciate ed ammorbidite la ricotta, poi aggiu
 Passato il tempo del riposo prendete l'impasto e decidete se stenderlo con il matterello o con la nonna papera. Io l'ho steso con il matterello il più sottile possibile e con il coppa pasta ho ricavato tanti dischi. Prendete due dischi e date una seconda passata con il matterello (se lo stendete con la nonna papera non ci sarà bisogno). Non deve essere ne troppo sottile, altrimenti si spacca durante la frittura, ma neanche troppo spessa. Al centro di un disco mettete la ricotta, coprite con il secondo disco, sigillate bene il bordo tutt'attorno con una forchetta e se volete ritagliate di nuovo con il coppa pasta per avere un bordo pulito.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 32%; margin-right: 1%;" src="impastosteso.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="ricotta.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-left: 1%;" src="ravioli.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%;" src="../2023-02-15-ravioli-di-ricotta-siciliani/impastosteso.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="../2023-02-15-ravioli-di-ricotta-siciliani/ricotta.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-left: 1%;" src="../2023-02-15-ravioli-di-ricotta-siciliani/ravioli.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 Prendete una pentola e riempitela con dell'olio per friggere (non troppo piena) e quando avrà raggiunto la temperatura friggete pochi ravioli alla volta, girandoli 2 o 3 volte finché saranno belli dorati. La temperatura non dovrà essere troppo alta. Una volta cotti, scolateli e appoggiateli su della carta forno.
-![](frittura.jpeg "frangipani © Erica")
+![](../2023-02-15-ravioli-di-ricotta-siciliani/frittura.jpeg "frangipani © Erica")
 
 Prima di servirli cospargeteli con abbondante zucchero a velo e mangiateli freschi, appena fatti... in questo modo saranno belli croccanti.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-02-15-ravioli-di-ricotta-siciliani/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-02-15-ravioli-di-ricotta-siciliani/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-02-15-ravioli-di-ricotta-siciliani/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-02-15-ravioli-di-ricotta-siciliani/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-02-15-ravioli-di-ricotta-siciliani/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-02-15-ravioli-di-ricotta-siciliani/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-02-15-ravioli-di-ricotta-siciliani/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-02-15-ravioli-di-ricotta-siciliani/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

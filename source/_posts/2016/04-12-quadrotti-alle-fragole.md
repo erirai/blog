@@ -11,7 +11,7 @@ categories:
 - Torte
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2016-04-12-quadrotti-alle-fragole/header.jpg "frangipani © Erica")
 
 Mi era venuta una voglia pazza di qualcosa di dolce, fruttoso... mi sa che il calduccio si fa sentire... zero voglia di cose pesanti, ma solo cose fresche e diciamo leggere... Sinceramente non avevo intensione di fare dolci questa settimana perché mio marito domenica fa il compleanno. Quindi sabato preparerò due torte per la domenica e domenica preparerò una cinquantina di muffin per portarseli in ufficio lunedì. Ma la voglia di dolce era più forte di me... Dato che questo dolce non era in programma, ho dovuto improvvisare con quello che c'era in frigo, alla faccia dell'improvvisazione! Ho fatto questo dolce l'autunno scorso con le prugne e mi è piaciuto tantissimo, quindi avendo le fragole in frigo, l'ho rifatta, ma con le fragole. La proverò sicuramente anche con altra frutta in combinazione con della frutta secca o altri aromi... vedremo! Vi dico solo che in tutta la casa c'è un profumo fantastico!
 
@@ -113,28 +113,28 @@ Mi era venuta una voglia pazza di qualcosa di dolce, fruttoso... mi sa che il ca
 </h3>
 
 Iniziate preparando la granella croccante: Mettete tutti gli ingredienti in una ciotola capiente e iniziate ad impastare. Non compattate tutto l'impasto, ma create delle briciole. Poi mettetele in frigo finché serviranno.
-![](crumble.jpg "frangipani © Erica")
+![](../2016-04-12-quadrotti-alle-fragole/crumble.jpg "frangipani © Erica")
 
 Poi lavate ed asciugate le fragole, tagliatele a metà e mettetele in una coppetta. Aggiungete lo zucchero ed il limone, mescolate bene e mettete da parte.
-![](fragole.jpg "frangipani © Erica")
+![](../2016-04-12-quadrotti-alle-fragole/fragole.jpg "frangipani © Erica")
 
 Per ultimo preparate la pasta "lievitata" che poi non è lievitata, viene chiamata anche finta pasta lievitata. Allora, mettete tutti gli ingredienti in una ciotola capiente e impastate il tutto con le mani o nella planetaria.
-![](impasto.jpg "frangipani © Erica")
+![](../2016-04-12-quadrotti-alle-fragole/impasto.jpg "frangipani © Erica")
 
 Prendete la teglia ed imburratela bene. Poi mettete l'impasto nella teglia e aiutandovi con le mani stendetela. Potete prendere benissimo anche una teglia rotonda.
-![](teglia.jpg "frangipani © Erica")
+![](../2016-04-12-quadrotti-alle-fragole/teglia.jpg "frangipani © Erica")
 
 A questo punto dobbiamo fare una prima cottura in bianco della base della torta. Quindi infornate la teglia nel forno preriscaldato statico a 180°C per ca. 10min o almeno finché la superficie dell'impasto si sarà dorata leggermente. Sfornatela e ricoprite tutto con le fragole. Con un cucchiaio bagnate le fragole con il succo che si è creato.
-![](tegliafragole.jpg "frangipani © Erica")
+![](../2016-04-12-quadrotti-alle-fragole/tegliafragole.jpg "frangipani © Erica")
 
 Poi finite con la granella croccante.
-![](tegliacrumble.jpg "frangipani © Erica")
+![](../2016-04-12-quadrotti-alle-fragole/tegliacrumble.jpg "frangipani © Erica")
 
 A questo punto rimettete la teglia in forno per altri 30-40min o almeno fino a quando la superficie sarà diventata bella croccante.
-![](sfornata.jpg "frangipani © Erica")
+![](../2016-04-12-quadrotti-alle-fragole/sfornata.jpg "frangipani © Erica")
 
 A questo punto fate riposare la torta per almeno un'oretta. Poi tagliatela a quadrotti e servitela ancora tiepida.
-![](risultato.jpg "frangipani © Erica")
+![](../2016-04-12-quadrotti-alle-fragole/risultato.jpg "frangipani © Erica")
 
 
 <h4>Buon appetito

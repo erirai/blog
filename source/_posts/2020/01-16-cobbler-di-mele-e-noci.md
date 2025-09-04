@@ -12,7 +12,7 @@ categories:
 label: 2020-01-16-cobbler-di-mele-e-noci
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2020-01-16-cobbler-di-mele-e-noci/header.jpeg "frangipani © Erica")
 
 **Cobbler di Mele e Noci**, perché un Cobbler caldo fa sempre bene, sopratutto se fa così freddo! La frutta calda, la crosticina croccante e, per i più golosi, il gelato sciolto... che volete di più?
 <br />
@@ -30,7 +30,7 @@ Nel cestino, infatti, ci sono: pastinache, patate dolci, noci, cavolo riccio, me
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Cobbler di Mele e Noci</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-01-16-cobbler-di-mele-e-noci/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Cobbler di Mele e Noci, perché un Cobbler caldo fa sempre bene, sopratutto se fa così freddo! La frutta calda, la crosticina croccante e, per i più golosi, il gelato sciolto...</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -106,25 +106,25 @@ Sgusciate le noci, tritatele grossolanamente con un coltello e tostatele per qua
 Frullate con le fruste elettriche il burro insieme allo zucchero finché diventa chiaro e gonfio, poi aggiungete l'uovo e continuate a mescolare finché non sarà completamente incorporato. A questo punto aggiungete farina, lievito, sale e vaniglia e finite di mescolare. Avrete un'impasto tipo pasta frolla, ma molto più morbido. Con un cucchiaio spalmate molto delicatamente l'impasto sulle mele, poi distribuiteci sopra le noci tostate.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="mele.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-01-16-cobbler-di-mele-e-noci/mele.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-01-16-cobbler-di-mele-e-noci/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 Infornate nel forno preriscaldato statico a 190°C per ca. 35-40min. Si deve creare una bella crosticina, ma non si deve bruciare. Servitelo ancora caldo... È buono così in purezza o con del gelato alla vaniglia... come preferite. Ma anche freddo è molto buono!
-![](risultato1.jpeg "frangipani © Erica")
+![](../2020-01-16-cobbler-di-mele-e-noci/risultato1.jpeg "frangipani © Erica")
 
-![](risultato2.jpeg "frangipani © Erica")
+![](../2020-01-16-cobbler-di-mele-e-noci/risultato2.jpeg "frangipani © Erica")
 
-![](risultato3.jpeg "frangipani © Erica")
+![](../2020-01-16-cobbler-di-mele-e-noci/risultato3.jpeg "frangipani © Erica")
 
-![](risultato4.jpeg "frangipani © Erica")
+![](../2020-01-16-cobbler-di-mele-e-noci/risultato4.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-01-16-cobbler-di-mele-e-noci/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-01-16-cobbler-di-mele-e-noci/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

@@ -11,7 +11,7 @@ categories:
 label: 2020-09-22-funghi-porcini-impanati
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2020-09-22-funghi-porcini-impanati/header.jpeg "frangipani © Erica")
 
 **Funghi Porcini impanati** un modo diverso per preparare i funghi. Croccanti e morbidi e super golosi! Sono uno tira l'altro... Ottimi da mettere nel panino o come contorno.
 <br />
@@ -24,7 +24,7 @@ I funghi noi comunque li mangiamo più che altro in autunno... Il resto dell'ann
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Funghi Porcini impanati</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-09-22-funghi-porcini-impanati/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Funghi Porcini impanati un modo diverso per preparare i funghi. Croccanti e morbidi e super golosi!</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -70,23 +70,23 @@ Pulite i porcini senza lavarli però, se necessario eliminate la spugna verdina,
 In una coppetta sbattete uno o due uova (dipende dalle quantità dei funghi), in un piatto mettete il pangrattato, le erbette aromatiche essiccate e se volete anche un pochettino di parmigiano grattugiato.
 <br />
 Prendete una fetta di porcino alla volta e passatela prima nell'uovo e poi nel pangrattato. A questo punto friggete i funghi, a temperatura moderata, da entrambi i lati in una padella con appena un filo d'olio. 
-![](padella.jpeg "frangipani © Erica")
+![](../2020-09-22-funghi-porcini-impanati/padella.jpeg "frangipani © Erica")
 
 Dovranno essere belli dorati. Poi metteteli su un foglio di carta da cucina e salateli.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-09-22-funghi-porcini-impanati/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-09-22-funghi-porcini-impanati/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato3.jpeg "frangipani © Erica")
+![](../2020-09-22-funghi-porcini-impanati/risultato3.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-09-22-funghi-porcini-impanati/risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-09-22-funghi-porcini-impanati/risultato5.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -94,8 +94,8 @@ Dovranno essere belli dorati. Poi metteteli su un foglio di carta da cucina e sa
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-09-22-funghi-porcini-impanati/risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-09-22-funghi-porcini-impanati/risultato7.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

@@ -11,7 +11,7 @@ categories:
 - "Primi Piatti"
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2016-06-30-conchiglie-con-crema-di-mandorle-e-porro-profumate-al-limone/header.jpg "frangipani © Erica")
 
 > Grazie Mamma per la ricetta!
 
@@ -67,16 +67,16 @@ L'anno scorso mia Mamma ha fatto questa ricetta e mi è piaciuta talmente tanto 
 </h3>
 
 Per prima cosa pulite il porro e tagliatelo a rondelline. In una padela riscaldate un filo d'olio evo, poi aggiungete il porro e un pizzico di sale. Fate rosolare un attimino, poi aggiungete un pochettino d'acqua e fate cuocere bene il porro a fiamma dolce.
-![](porro.jpg "frangipani © Erica")
+![](../2016-06-30-conchiglie-con-crema-di-mandorle-e-porro-profumate-al-limone/porro.jpg "frangipani © Erica")
 
 Appena bolle l'acqua per la pasta, salate e buttate le conchiglie o altra pasta corta. Mentre la pasta cuoce, preparate la crema di mandorle. Mettete le mandorle pelate in un recipiente stretto e alto, aggiungete un po' d'acqua di cottura della pasta e con il mixer ad immersione iniziate a frullare il tutto. Se c'è bisogno aggiungete ancora dell'acqua.
-![](mandorle.jpg "frangipani © Erica")
+![](../2016-06-30-conchiglie-con-crema-di-mandorle-e-porro-profumate-al-limone/mandorle.jpg "frangipani © Erica")
 
 Poi versate la crema di mandorle nella padella col porro, aggiungete ancora un pochettino di acqua di cottura e mescolate bene.
-![](sughetto.jpg "frangipani © Erica")
+![](../2016-06-30-conchiglie-con-crema-di-mandorle-e-porro-profumate-al-limone/sughetto.jpg "frangipani © Erica")
 
 Quando la pasta sarà cotta, scolatela tenendo da parte l'acqua di cottura. Versate la pasta nella padella con il sughetto, aggiungete la scorza di limone e fate mantecare il tutto, se dovesse risultare troppo asciutta, aggiungete dell'acqua di cottura. Impiattate e finite con un'altra grattuggiata di scorza di limone e una spolverata di pepe macinato al momento.
-![](risultato.jpg "frangipani © Erica")
+![](../2016-06-30-conchiglie-con-crema-di-mandorle-e-porro-profumate-al-limone/risultato.jpg "frangipani © Erica")
 
 
 <h4>Buon appetito

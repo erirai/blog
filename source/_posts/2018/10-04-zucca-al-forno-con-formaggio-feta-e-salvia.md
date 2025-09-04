@@ -14,7 +14,7 @@ categories:
 label: 2018-10-04-zucca-al-forno-con-formaggio-feta-e-salvia
 lang: it 
 ---
-![](header.jpg "frangipani © Erica")
+![](../2018-10-04-zucca-al-forno-con-formaggio-feta-e-salvia/header.jpg "frangipani © Erica")
 
 **Zucca al Forno con Formaggio Feta e Salvia**, un ottimo contorno che si prepara senza grandi fatiche... Massima resa, minimo sforzo! E si e si, parto con le ricette con la zucca! I miei figli e mio marito purtroppo non sono grandi amanti della zucca, quindi devo sempre inventarmi qualcosa per fargliela mangiare. O la nascondo nelle vellutate o la devo condire molto bene... In questo caso l'ho condita abbastanza bene con il formaggio Feta! È un contorno sfizioso facile e veloce da preparare...
 
@@ -23,7 +23,7 @@ lang: it
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Zucca al Forno con Formaggio Feta e Salvia</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2018-10-04-zucca-al-forno-con-formaggio-feta-e-salvia/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Zucca al Forno con Formaggio Feta e Salvia, un ottimo contorno che si prepara senza grandi fatiche... Massima resa, minimo sforzo!</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -69,24 +69,24 @@ lang: it
 Pulite la zucca e tagliatela a spicchi spessi 1-2cm. Condite la zucca con olio, sale e salvia e mescolate tutto con le mani. Adagiate la zucca in una teglia con sotto della carta forno e aggiungete anche uno spicchio d'aglio in camicia schiacciato. Infornate nel forno preriscaldato a 180°C ventilato per 20-30min o almeno finché sarà cotta, dipende dal tipo di zucca. Eliminate l'aglio, sbriciolate il Formaggio Feta sulla zucca e rimettete in forno per 5min.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="teglia1.jpg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia2.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2018-10-04-zucca-al-forno-con-formaggio-feta-e-salvia/teglia1.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2018-10-04-zucca-al-forno-con-formaggio-feta-e-salvia/teglia2.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 Prima di servire la zucca, mettete una bella spolverata di paprika...
-![](risultato1.jpg "frangipani © Erica")
+![](../2018-10-04-zucca-al-forno-con-formaggio-feta-e-salvia/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2018-10-04-zucca-al-forno-con-formaggio-feta-e-salvia/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2018-10-04-zucca-al-forno-con-formaggio-feta-e-salvia/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2018-10-04-zucca-al-forno-con-formaggio-feta-e-salvia/risultato4.jpg "frangipani © Erica")
 
-![](risultato5.jpg "frangipani © Erica")
+![](../2018-10-04-zucca-al-forno-con-formaggio-feta-e-salvia/risultato5.jpg "frangipani © Erica")
 
-![](risultato6.jpg "frangipani © Erica")
+![](../2018-10-04-zucca-al-forno-con-formaggio-feta-e-salvia/risultato6.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

@@ -10,7 +10,7 @@ categories:
 label: 2025-06-11-pasta-con-la-cipolla
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2025-06-11-pasta-con-la-cipolla/header.jpeg "frangipani © Erica")
 
 Pubblicità: **Pasta con la Cipolla** in collaborazione con <a href="https://www.farmy.ch" target="_blank">Farmy</a>. Un piatto saporitissimo, povero e facilissimo da cucinare. Occorrono pochissimi ingredienti che solitamente abbiamo in casa e con questi pochi ingredienti creerete una favola!
 <br />
@@ -23,7 +23,7 @@ Questa ricetta è fatta praticamente solo con ingredienti da dispensa: pasta, ci
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Pasta con la Cipolla</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2025-06-11-pasta-con-la-cipolla/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Pasta con la Cipolla, un piatto saporitissimo, povero e facilissimo da cucinare.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -79,8 +79,8 @@ Questa ricetta è fatta praticamente solo con ingredienti da dispensa: pasta, ci
 Pulite le cipolle e tagliatele a striscioline sottili. Mettete un abbondante filo d'olio in una padella ampia, aggiungete le cipolle e una spolverata di sale, fate andare a fuoco medio alto finché non inizieranno ad ammorbidirsi. A questo punto aggiungete il concentrato di pomodoro, l'aceto, l'alloro e la paprika dolce e mescolate. Aggiungete 2 bicchieri d'acqua, coprite con un coperchio e fate andare a fuoco dolce. Quando l'acqua sarà evaporata, aggiungetene altra, le cipolle si dovranno quasi sciogliere, ci vorrà un'oretta di cottura.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="cipolla1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="cipolla2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-06-11-pasta-con-la-cipolla/cipolla1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-06-11-pasta-con-la-cipolla/cipolla2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -88,32 +88,32 @@ Pulite le cipolle e tagliatele a striscioline sottili. Mettete un abbondante fil
 Quando vedrete che le cipolle sono pronte, mettete a bollire l'acqua per la pasta. Quando bolle buttate la pasta, salate e quando sarà ancora al dente, scolatela tenendo da parte un po' d'acqua di cottura della pasta. Versate la pasta nella padella con le cipolle, aggiungete anche un pochino d'acqua della pasta e fate amalgamare bene il tutto. Servite con del parmigiano grattugiato...
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-06-11-pasta-con-la-cipolla/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-06-11-pasta-con-la-cipolla/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-06-11-pasta-con-la-cipolla/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-06-11-pasta-con-la-cipolla/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-06-11-pasta-con-la-cipolla/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-06-11-pasta-con-la-cipolla/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-06-11-pasta-con-la-cipolla/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-06-11-pasta-con-la-cipolla/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

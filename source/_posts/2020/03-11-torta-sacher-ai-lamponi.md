@@ -11,7 +11,7 @@ categories:
 label: 2020-03-11-torta-sacher-ai-lamponi
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2020-03-11-torta-sacher-ai-lamponi/header.jpeg "frangipani © Erica")
 
 **Torta Sacher ai Lamponi** un classico leggermente rivisitato. La torta al cioccolato è bella umida e cioccolatosa che, con l'aggiunta della confettura di lamponi, diventa ancora più morbida.
 <br />
@@ -28,7 +28,7 @@ Qui in Svizzera stiamo aspettando. Sì, aspettiamo. I test positivi continuano a
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Torta Sacher ai Lamponi</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-03-11-torta-sacher-ai-lamponi/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Torta Sacher ai Lamponi un classico leggermente rivisitato. La torta al cioccolato è bella umida e cioccolatosa che, con l'aggiunta della confettura di lamponi, diventa ancora più morbida.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -98,9 +98,9 @@ Infornate nel forno preriscaldato a 180°C statico per ca. 40min, mi raccomando 
 Tagliate la torta in orizzontale per ottenere 3 o 4 dischi. Tagliate anche la cupoletta sopra. Prendete il primo disco (base) e mettetelo su di un piatto da portata. Aggiungete quasi 1/3 della confettura di lampoini e distribuite bene. Coprite con il secondo disco, poi di nuovo la confettura e così via finché la torta sarà completa. Alla fine spennellate tutta la torta con la confettura di lamponi. 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 32%; margin-right: 1%;" src="tortatagliata.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="confettura.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-left: 1%;" src="torta.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%;" src="../2020-03-11-torta-sacher-ai-lamponi/tortatagliata.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="../2020-03-11-torta-sacher-ai-lamponi/confettura.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-left: 1%;" src="../2020-03-11-torta-sacher-ai-lamponi/torta.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -108,21 +108,21 @@ Tagliate la torta in orizzontale per ottenere 3 o 4 dischi. Tagliate anche la cu
 Mettete la torta in frigo e fatela riposare per un'oretta. Poi fate sciogliere a Bagnomaria il cioccolato, una volta sciolto aspettate 10min prima di farlo colare su tutta la torta.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-03-11-torta-sacher-ai-lamponi/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-03-11-torta-sacher-ai-lamponi/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-03-11-torta-sacher-ai-lamponi/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-03-11-torta-sacher-ai-lamponi/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato5.jpeg "frangipani © Erica")
+![](../2020-03-11-torta-sacher-ai-lamponi/risultato5.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

@@ -13,7 +13,7 @@ categories:
 label: 2019-05-14-torta-all-acqua-con-rabarbaro-e-cioccolato-bianco
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2019-05-14-torta-all-acqua-con-rabarbaro-e-cioccolato-bianco/header.jpeg "frangipani © Erica")
 
 **Torta all'Acqua con Rabarbaro e Cioccolato Bianco** il bilanciamento perfetto tra aspro e dolce. Una torta bella succosa da mangiare a colazione o a merenda. Se poi, come me, avete ancora del cioccolato bianco da smaltire, ecco la torta giusta! Io amo il rabarbaro, penso lo abbiate notato, e lo uso moltissimo nella sua breve stagione. Non sostituite il cioccolato bianco con del cioccolato al latte o fondente, non ci starebbe bene. Meglio non metterne proprio cioccolato, se non volete quello bianco. Se non trovate il rabarbaro, potete sostituirlo con le fragole o fare direttamente la <a href="https://frangipani.raiano.ch/2017-06-08-torta-all-acqua-con-fragole-e-cioccolato/" target="_blank">Torta all'Acqua con Fragole e Cioccolato</a>. 
 
@@ -22,24 +22,24 @@ Continua così, sempre rispettando i tuoi tempi, rispettando ogni essere vivente
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="tortagaia1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="tortagaia2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2019-05-14-torta-all-acqua-con-rabarbaro-e-cioccolato-bianco/tortagaia1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2019-05-14-torta-all-acqua-con-rabarbaro-e-cioccolato-bianco/tortagaia2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="tortagaia3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="tortagaia4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2019-05-14-torta-all-acqua-con-rabarbaro-e-cioccolato-bianco/tortagaia3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2019-05-14-torta-all-acqua-con-rabarbaro-e-cioccolato-bianco/tortagaia4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="tortagaia5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="tortagaia6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2019-05-14-torta-all-acqua-con-rabarbaro-e-cioccolato-bianco/tortagaia5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2019-05-14-torta-all-acqua-con-rabarbaro-e-cioccolato-bianco/tortagaia6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -47,24 +47,24 @@ Continua così, sempre rispettando i tuoi tempi, rispettando ogni essere vivente
 Beh, ieri siamo pure sopravvissuti ad una festa in casa con 9 bambini in totale! È andata bene... Abbiamo fatto tanti giochini, si sono divertiti. La festa era unicornesca e arcobalenesca (mi dispiaceva un pochettino per i maschietti presenti, ho provato a mettere un po' di azzurro in quel overload di fucsia)... Avevo intenzione di fare una torta al cioccolato rotonda e decorarla con un arcobaleno di Smarties e delle nuvolette fatte di Marshmallows, molto semplice. Poi però mia sorella mi ha mandato delle immagini di Yogurt bars e ho domandato a Gaia. Ebbene sì, ha scelto la Yogurt bar... Quindi ho messo ad ogni bambino dello yogurt naturale nelle coppette e loro hanno aggiunto i toppings che preferivano: granola, frutta,  M&M's... In più ho fatto anche le Wafels, che ho usato come "torta" per soffiare le candeline. 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="tortagaia7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="tortagaia8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2019-05-14-torta-all-acqua-con-rabarbaro-e-cioccolato-bianco/tortagaia7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2019-05-14-torta-all-acqua-con-rabarbaro-e-cioccolato-bianco/tortagaia8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="tortagaia9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="tortagaia10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2019-05-14-torta-all-acqua-con-rabarbaro-e-cioccolato-bianco/tortagaia9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2019-05-14-torta-all-acqua-con-rabarbaro-e-cioccolato-bianco/tortagaia10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="tortagaia11.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="tortagaia12.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2019-05-14-torta-all-acqua-con-rabarbaro-e-cioccolato-bianco/tortagaia11.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2019-05-14-torta-all-acqua-con-rabarbaro-e-cioccolato-bianco/tortagaia12.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -76,7 +76,7 @@ Queste Yogurt bars sono fantastiche! Si possono fare anche con il gelato o con l
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Torta all'Acqua con Rabarbaro e Cioccolato Bianco</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2019-05-14-torta-all-acqua-con-rabarbaro-e-cioccolato-bianco/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Torta all'Acqua con Rabarbaro e Cioccolato Bianco il bilanciamento perfetto tra aspro e dolce. Una torta bella succosa da mangiare a colazione o a merenda.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -138,23 +138,23 @@ Queste Yogurt bars sono fantastiche! Si possono fare anche con il gelato o con l
 </h3>
 
 Pulite il rabarbaro togliendo le due punte e la pellicina esterna, tagliatelo a pezzettini, aggiungete un cucchiaio di zucchero (dal totale) e un pochettino di succo di limone. Mettete da parte.
-![](rabarbaro.jpeg "frangipani © Erica")
+![](../2019-05-14-torta-all-acqua-con-rabarbaro-e-cioccolato-bianco/rabarbaro.jpeg "frangipani © Erica")
 
 Fate sciogliere lo zucchero nell'acqua, poi aggiungete l'olio e mescolate. In una coppa a parte mettete la farina, il lievito per dolci, lo zucchero vanigliato ed il sale, mescolate e aggiungete anche il miscuglio con l'acqua. Amalgamate bene il tutto con le fruste a mano, poi incorporate delicatamente il rabarbaro ed il cioccolato bianco. Versate l'impasto nella teglia precedentemente imburrata ed infarinata.
-![](teglia.jpeg "frangipani © Erica")
+![](../2019-05-14-torta-all-acqua-con-rabarbaro-e-cioccolato-bianco/teglia.jpeg "frangipani © Erica")
 
 Infornate la torta nel forno preriscaldato a 180°C statico per circa 45min, mi raccomando fate la prova stecchino. Fatela intiepidire nella forma stessa, poi scaravoltatela su di un piatto da portata...
-![](risultato1.jpeg "frangipani © Erica")
+![](../2019-05-14-torta-all-acqua-con-rabarbaro-e-cioccolato-bianco/risultato1.jpeg "frangipani © Erica")
 
-![](risultato2.jpeg "frangipani © Erica")
+![](../2019-05-14-torta-all-acqua-con-rabarbaro-e-cioccolato-bianco/risultato2.jpeg "frangipani © Erica")
 
-![](risultato3.jpeg "frangipani © Erica")
+![](../2019-05-14-torta-all-acqua-con-rabarbaro-e-cioccolato-bianco/risultato3.jpeg "frangipani © Erica")
 
-![](risultato4.jpeg "frangipani © Erica")
+![](../2019-05-14-torta-all-acqua-con-rabarbaro-e-cioccolato-bianco/risultato4.jpeg "frangipani © Erica")
 
-![](risultato5.jpeg "frangipani © Erica")
+![](../2019-05-14-torta-all-acqua-con-rabarbaro-e-cioccolato-bianco/risultato5.jpeg "frangipani © Erica")
 
-![](risultato6.jpeg "frangipani © Erica")
+![](../2019-05-14-torta-all-acqua-con-rabarbaro-e-cioccolato-bianco/risultato6.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

@@ -13,7 +13,7 @@ categories:
 label: 2024-09-18-crostata-alle-nocciole-e-prugne
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2024-09-18-crostata-alle-nocciole-e-prugne/header.jpeg "frangipani © Erica")
 
 **Crostata alle Nocciole e Prugne** un croccante guscio di frolla che racchiude uno strato di prugne leggermente acidule e sopra una nuvoletta alle nocciole. Una crostata che sa di tarda estate, di autunno. Una crostata rustica, buona, confortevole... 
 
@@ -28,7 +28,7 @@ Adesso però vi scrivo dalla casa nuova e sono strafelice! Abbiamo passato gli u
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Crostata alle Nocciole e Prugne</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2024-09-18-crostata-alle-nocciole-e-prugne/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Crostata alle Nocciole e Prugne, un croccante guscio di frolla che racchiude uno strato di prugne leggermente acidule e sopra una nuvoletta alle nocciole.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -134,9 +134,9 @@ Mentre la frolla cuoce, preparate l'impasto alle nocciole: Montate le uova con l
 Distribuite sul fondo della frolla precotta le prugne e poi sopra versateci il composto alle nocciole.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 32%; margin-right: 1%;" src="cotturainbianco.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="prugne.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-left: 1%;" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%;" src="../2024-09-18-crostata-alle-nocciole-e-prugne/cotturainbianco.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="../2024-09-18-crostata-alle-nocciole-e-prugne/prugne.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-left: 1%;" src="../2024-09-18-crostata-alle-nocciole-e-prugne/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -144,40 +144,40 @@ Distribuite sul fondo della frolla precotta le prugne e poi sopra versateci il c
 Infornate di nuovo per circa 50min nella parte bassa. Prima di uscirla dalla teglia, fatela intiepidire...
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-09-18-crostata-alle-nocciole-e-prugne/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-09-18-crostata-alle-nocciole-e-prugne/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-09-18-crostata-alle-nocciole-e-prugne/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-09-18-crostata-alle-nocciole-e-prugne/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-09-18-crostata-alle-nocciole-e-prugne/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-09-18-crostata-alle-nocciole-e-prugne/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-09-18-crostata-alle-nocciole-e-prugne/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-09-18-crostata-alle-nocciole-e-prugne/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-09-18-crostata-alle-nocciole-e-prugne/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-09-18-crostata-alle-nocciole-e-prugne/risultato10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

@@ -10,7 +10,7 @@ categories:
 label: 2014-06-30-whoopie-pies-ai-ribes-con-panna-e-quark
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2014-06-30-whoopie-pies-ai-ribes-farciti-con-panna-e-quark/header.jpeg "frangipani © Erica")
 
 Sto sperimentando delle cose nuove e una delle cose che non avevo mai fatto sono i Whoopie Pies. Questi sono dei Sandwiches fatti con due biscotti ai Ribes, farciti con una crema con panna e Quark... Vi assicuro che è facilissimo farli e sono veramente ottimi!
 
@@ -20,7 +20,7 @@ Sto sperimentando delle cose nuove e una delle cose che non avevo mai fatto sono
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Whoopie Pies ai Ribes farciti con Panna e Quark</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2014-06-30-whoopie-pies-ai-ribes-farciti-con-panna-e-quark/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;"> Whoopie Pies ai Ribes farciti con Panna e Quark, dei Sandwiches fatti con due biscotti ai Ribes, farciti con una crema...</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -117,8 +117,8 @@ Iniziate preparando l'impasto per i Whoopie Pies, dunque montate l'uovo, con lo 
 Mentre aspettate, lavate i ribes, toglite il verde e metteteli da parte. Poi preparate la crema: montate la panna con lo zucchero a velo, l'addensante e la vaniglia macinata. Quando sarà bella ferma incorporate il Quark mescolando a mano (se il Quark è troppo acquoso, fatelo gocciolare un po'). Fate attenzione a non smontare la panna e mettetela a riposare in frigo.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="impasto.jpg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="farcia.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-06-30-whoopie-pies-ai-ribes-farciti-con-panna-e-quark/impasto.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-06-30-whoopie-pies-ai-ribes-farciti-con-panna-e-quark/farcia.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -126,8 +126,8 @@ Mentre aspettate, lavate i ribes, toglite il verde e metteteli da parte. Poi pre
 Ora preparate una leccarda e ricopritela con della carta forno. Prendete l'impasto e fate delle palline. Dato che l'impasto è abbastanza appiccicoso, io ho fatto le palline con il porzionatore per il gelato, quello che fa le palline. Adagiatele sulla leccarda lasciando abbastanza spazio tra una e l'altra perché poi si gonfieranno. Cercate di farli più rotondi possibile... Poi ricopriteli di ribes, prendetene abbastanza perché si allargheranno e schiacciateli un po'. L'impasto dovrebbe bastare per ca. 16 palline.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="palline.jpg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-06-30-whoopie-pies-ai-ribes-farciti-con-panna-e-quark/palline.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-06-30-whoopie-pies-ai-ribes-farciti-con-panna-e-quark/teglia.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -135,8 +135,8 @@ Ora preparate una leccarda e ricopritela con della carta forno. Prendete l'impas
 Ora infornateli a 170°C (statico) per 15-20min, dipende da quanto sono grandi. Controllate sempre per non farli bruciare. Poi fateli raffreddare completamente. Quando saranno completamente freddi, passate la crema di panna e Quark in un sac à poche e farcite una metà dei Whoopie Pies e poi ricoprite con l'altra metà. Volendo potete farcirli anche aiutandovi con una spatoletta o un coltello... 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="sfornati.jpg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="farcire.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-06-30-whoopie-pies-ai-ribes-farciti-con-panna-e-quark/sfornati.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-06-30-whoopie-pies-ai-ribes-farciti-con-panna-e-quark/farcire.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -144,26 +144,26 @@ Ora infornateli a 170°C (statico) per 15-20min, dipende da quanto sono grandi. 
 Lasciateli in frigo finché li servirete!
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-06-30-whoopie-pies-ai-ribes-farciti-con-panna-e-quark/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-06-30-whoopie-pies-ai-ribes-farciti-con-panna-e-quark/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato3.jpeg "frangipani © Erica")
+![](../2014-06-30-whoopie-pies-ai-ribes-farciti-con-panna-e-quark/risultato3.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-06-30-whoopie-pies-ai-ribes-farciti-con-panna-e-quark/risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-06-30-whoopie-pies-ai-ribes-farciti-con-panna-e-quark/risultato5.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-06-30-whoopie-pies-ai-ribes-farciti-con-panna-e-quark/risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-06-30-whoopie-pies-ai-ribes-farciti-con-panna-e-quark/risultato7.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

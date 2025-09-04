@@ -11,7 +11,7 @@ categories:
 label: 2017-05-12-panini-veloci-allo-yogurt
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2017-05-12-panini-veloci-allo-yogurt/header.jpg "frangipani © Erica")
 
 Allora, c'è mia figlia che adora i panini! Ogni volta che mangia il pane lo trasforma in panino. Le piace prorio... Poi quando facciamo una gita e le diciamo per esempio: "Gaia, che dici se domani andiamo allo Zoo?" E lei risponde: "Siii, che bello! Allora adesso prepariamo i panini per domani così li posso mangiare allo Zoo?" Ecco, ogni volta la stessa storia! Questo inverno ha iniziato pure a chiedermi di andare a fare i Picnic... Comunque sia, le era venuta una pazza voglia di panini ma non avevo pane in casa, così le ho preparato questi panini veloci allo yogurt. Non vi doco quanto era felice! Ogni uno lo ha farcito come voleva e a parte ho preparato pure una zuppetta... Inutile dirvi che hanno divorato tutto! La cosa geniale di questi panini è proprio il fatto che si preparano subito subito e si possono farcire a piacere, sia salato che dolce. Se chiusi bene tengono anche per 2-3 giorni, ma freschi sono molto più buoni. Potete anche adattare le proporzioni delle farine se li volete più o meno integrali e per la versione vegan, basta usare dello yogurt di soia. Per colazione, per pranzo, per una gita, per un Picnic o per un aperitivo... non vi deluderanno!
 
@@ -63,31 +63,31 @@ Trovate questa ricetta anche sul sito delle <a href="http://instamamme.net/panin
 </h3>
 
 Mettete le farine, il lievito ed il sale nella planetaria e mescolate un attimino. Poi aggiungete lo yogurt e iniziate ad impastare. Aggiungete l'acqua a filo finché vedrete che si sarà creato un panetto. A questo punto impastate ancora per un minuto. Passate il tutto su di un piano di lavoro ed impastate ancora con le mani. Se non avete la planetaria, potete impastare tutto tranquillamente a mano. Avvolgete l'impasto con della pellicola e fatelo riposare in frigo per 15min.
-![](impasto.jpg "frangipani © Erica")
+![](../2017-05-12-panini-veloci-allo-yogurt/impasto.jpg "frangipani © Erica")
 
 Passato il tempo necessario, prendete il panetto e stendetelo fino a 1cm di spessore aiutandovi con un mattarello. Poi con un coppapasta dalle dimensioni non troppo grandi coppate tanti dischi.
-![](coppare.jpg "frangipani © Erica")
+![](../2017-05-12-panini-veloci-allo-yogurt/coppare.jpg "frangipani © Erica")
 
 Riscaldate una padella senza aggiungere olio o altri grassi, adagiateci i panini e fateli cuocere a temperatura moderata coperti con un coperchio. 
-![](padella1.jpg "frangipani © Erica")
+![](../2017-05-12-panini-veloci-allo-yogurt/padella1.jpg "frangipani © Erica")
 
 Dopo circa 5min girateli e fateli cuocere per altri 5min. Date sempre un'occhiata, i minuti sono solo approssimativi.
-![](padella2.jpg "frangipani © Erica")
+![](../2017-05-12-panini-veloci-allo-yogurt/padella2.jpg "frangipani © Erica")
 
 Cuocete così tutti i panini, poi passateli su di una griglia.
-![](panini.jpg "frangipani © Erica")
+![](../2017-05-12-panini-veloci-allo-yogurt/panini.jpg "frangipani © Erica")
 
 A questo punto farciteli con quello che più vi piace... 
-![](farcire.jpg "frangipani © Erica")
+![](../2017-05-12-panini-veloci-allo-yogurt/farcire.jpg "frangipani © Erica")
 
 Dolce o salato, non fa differenza!
-![](risultato1.jpg "frangipani © Erica")
+![](../2017-05-12-panini-veloci-allo-yogurt/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2017-05-12-panini-veloci-allo-yogurt/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2017-05-12-panini-veloci-allo-yogurt/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2017-05-12-panini-veloci-allo-yogurt/risultato4.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

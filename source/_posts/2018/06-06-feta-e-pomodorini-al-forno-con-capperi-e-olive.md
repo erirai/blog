@@ -12,7 +12,7 @@ categories:
 label: 2018-06-06-feta-e-pomodorini-al-forno-con-capperi-e-olive
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2018-06-06-feta-e-pomodorini-al-forno-con-capperi-e-olive/header.jpg "frangipani © Erica")
 
 > Benvenuto Giugno!
 
@@ -65,24 +65,24 @@ Feta e Pomodorini al forno con Capperi e Olive per un pranzo o una cena veloce d
 Lavate i pomodorini e tagliateli a metà. Metteteli in una pirofila insieme alle erbette aromatiche e l'aglio in camicia, salate leggermente e aggiungete un filo d'olio evo. Infornate nel forno preriscaldato a 180°C ventilato per 20min. Tirate fuori dal forno i pomodorini, prendete il formaggio Feta, adagiatelo intero sopra i pomodorini e aggiungete anche i capperi dissalati, le olive e ancora un pochettino d'olio evo.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="pomodori.jpg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2018-06-06-feta-e-pomodorini-al-forno-con-capperi-e-olive/pomodori.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2018-06-06-feta-e-pomodorini-al-forno-con-capperi-e-olive/teglia.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 Infornate di nuovo per altri 10-15min e mangiate ben caldo.
-![](risultato1.jpg "frangipani © Erica")
+![](../2018-06-06-feta-e-pomodorini-al-forno-con-capperi-e-olive/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2018-06-06-feta-e-pomodorini-al-forno-con-capperi-e-olive/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2018-06-06-feta-e-pomodorini-al-forno-con-capperi-e-olive/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2018-06-06-feta-e-pomodorini-al-forno-con-capperi-e-olive/risultato4.jpg "frangipani © Erica")
 
-![](risultato5.jpg "frangipani © Erica")
+![](../2018-06-06-feta-e-pomodorini-al-forno-con-capperi-e-olive/risultato5.jpg "frangipani © Erica")
 
-![](risultato6.jpg "frangipani © Erica")
+![](../2018-06-06-feta-e-pomodorini-al-forno-con-capperi-e-olive/risultato6.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

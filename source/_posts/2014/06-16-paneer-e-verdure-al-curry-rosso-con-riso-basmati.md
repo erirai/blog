@@ -9,7 +9,7 @@ categories:
 - "Piatti Unici"
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2014-06-16-paneer-e-verdure-al-curry-rosso-con-riso-basmati/header.jpg "frangipani © Erica")
 
 Mentre facevo la spesa ho visto questa cosa che si chiama Paneer, mi sono incuriosita e l'ho preso. Quando sono arrivata a casa sono andata in Internet e ho cercato cosa fosse. Praticamente il Paneer è un formaggio indiano che viene prodotto senza caglio. Si può mangiare fritto, impanato o con delle salse al curry... Per questa volta l'ho voluto provare con una salsa al curry rosso e latte di cocco... 
 
@@ -84,18 +84,18 @@ Mentre facevo la spesa ho visto questa cosa che si chiama Paneer, mi sono incuri
 </h3>
 
 Iniziate tagliando a pezzettini tutta la verdura.
-![](verdure.jpg "frangipani © Erica")
+![](../2014-06-16-paneer-e-verdure-al-curry-rosso-con-riso-basmati/verdure.jpg "frangipani © Erica")
 
 Poi mettete a soffriggere lo scalogno con un po' d'olio. Quando sarà ben dorato aggiungete la verdura. Fate soffriggere pochettino a fuoco basso e poi continuate la cottura aggiungendo dell'acqua poco a poco. Quando le verdure si saranno leggermente ammorbidite, aggiungete il latte di cocco e continuate la cottura ancora per un po'.
 
 Nel frattempo preparate il riso basmati come scritto sulla confezione e tagliate a dadini il paneer.
-![](paneer.jpg "frangipani © Erica")
+![](../2014-06-16-paneer-e-verdure-al-curry-rosso-con-riso-basmati/paneer.jpg "frangipani © Erica")
 
 Poco prima che il riso basmati è pronto aggiungete il paneer alle verdure, deve solo riscaldarsi ed amalgamarsi con le verdure, praticamente non deve cucinare più di 5min. Non dimenticatevi di aggiustare di sale.
-![](condimento.jpg "frangipani © Erica")
+![](../2014-06-16-paneer-e-verdure-al-curry-rosso-con-riso-basmati/condimento.jpg "frangipani © Erica")
 
 Potete servire il riso e la verdura separatamente o mischiare il tutto direttamente nella padella, come preferite.
-![](risultato.jpg "frangipani © Erica")
+![](../2014-06-16-paneer-e-verdure-al-curry-rosso-con-riso-basmati/risultato.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

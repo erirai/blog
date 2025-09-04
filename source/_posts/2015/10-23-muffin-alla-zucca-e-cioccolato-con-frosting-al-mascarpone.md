@@ -12,7 +12,7 @@ categories:
 - "Muffin, Cupcakes, Cake Pops..."
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2015-10-23-muffin-alla-zucca-e-cioccolato-con-frosting-al-mascarpone/header.jpg "frangipani © Erica")
 
 Halloween si avvicina e mica vogliamo farci trovare impreparati?! Sto sperimentando un po' di ricette con la zucca e mi piace tanto provare i diversi tipi di zucca. Dal contadino dove andiamo di solito c'è una vastissima scelta di zucche, una di quelle è la "Bleue de Hongrie". Ha un gusto dolce, una polpa soda è un colore bello acceso. Questa zucca è perfetta da usare per i dolci. Come dolce per Halloween vi propongo questi Muffin alla Zucca che ho arricchito con delle gocce di cioccolato e una crema al mascarpone. Se volete una crema vegana prendete un formaggio spalmabile vegan al posto del mascarpone... Volendo potete anche speziarli con della cannella, del cardamomo e dell'anice stellato, tutto macinato naturalmente.
 
@@ -88,19 +88,19 @@ Halloween si avvicina e mica vogliamo farci trovare impreparati?! Sto sperimenta
 </h3>
 
 Per prima cosa tagliate a pezzetti la zucca e lessatela con poca acqua finché sarà morbida. A questo punto scolatela e frullatela con il mixer ad immersione, mettetela da parte finché sarà completamente fredda (potete preparare la zucca anche il giorno prima). Quando sarà fredda aggiungete il latte e l'olio e amalgamate il tutto.
-![](zucca.jpg "frangipani © Erica")
+![](../2015-10-23-muffin-alla-zucca-e-cioccolato-con-frosting-al-mascarpone/zucca.jpg "frangipani © Erica")
 
 Poi mettete la farina, lo zucchero, il sale, lo zucchero vanigliato, il lievito ed il bicarbonato in un'altra coppa capiente e mescolate tutto facendo attenzione a togliere tutti i grumi. Versate il composto liquido con la zucca nel composto con la farina e mescolate bene. Finite aggiungendo 80gr di gocce di cioccolato e mescolate un'ultima volta.
-![](impasto.jpg "frangipani © Erica")
+![](../2015-10-23-muffin-alla-zucca-e-cioccolato-con-frosting-al-mascarpone/impasto.jpg "frangipani © Erica")
 
 Poi riempite i pirottini da muffin fino a 3/4 con l'impasto aiutandovi con un porzionatore per gelato. Cospargete la superficie dei muffin con le restanti gocce di cioccolato. 
-![](pirottini.jpg "frangipani © Erica")
+![](../2015-10-23-muffin-alla-zucca-e-cioccolato-con-frosting-al-mascarpone/pirottini.jpg "frangipani © Erica")
 
 Adesso infornate i muffin nel forno preriscaldato a 175°C statico per 25min. Mi raccomando come sempre fate la prova stecchino. Fate raffreddare i muffin su di una griglia.
-![](sfornati.jpg "frangipani © Erica")
+![](../2015-10-23-muffin-alla-zucca-e-cioccolato-con-frosting-al-mascarpone/sfornati.jpg "frangipani © Erica")
 
 Per il frosting al mascarpone frullate con le fruste elettriche il mascarpone con lo zucchero a velo setacciato. Poi fate riposare il frosting in frigo per un'oretta. Quando i Muffin saranno freddi mettete il frosting in un sac à poche e decorate i muffin. Se volete fare anche voi queste zucche di pasta di zucchero, vi consiglio di dare un'occhiata su YouTube, ci sono un sacco di Tutorials come poterli fare o le comprate già fatte.
-![](risultato.jpg "frangipani © Erica")
+![](../2015-10-23-muffin-alla-zucca-e-cioccolato-con-frosting-al-mascarpone/risultato.jpg "frangipani © Erica")
 
 
 <h3>

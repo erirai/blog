@@ -12,7 +12,7 @@ categories:
 label: 2014-06-06-crostata-di-rabarbaro
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2014-06-06-crostata-di-rabarbaro/header.jpeg "frangipani © Erica")
 
 **Crostata di Rabarbaro** una vera goduria! Pasta frolla e rabarbaro, cosa volete di più?!
 
@@ -24,7 +24,7 @@ Oggi avevo voglia di una bella crostata con la pasta frolla e avevo in frigo il 
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Crostata di Rabarbaro</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2014-06-06-crostata-di-rabarbaro/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Crostata di Rabarbaro, una vera goduria! Pasta frolla e rabarbaro, cosa volete di più?!</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -115,8 +115,8 @@ Poi pulite il rabarbaro, tagliatelo a pezzetti e mettetelo da parte.
 Uscite la pasta frolla dal frigo e stendetela con un matterello aiutantovi con della farina, dovrà essere spessa ca. mezzo centimetro. Rivestite la teglia con la pasta frolla e aggiustate i bordi. Bucherellate il fondo della crostata con una forchetta. Coprite il fondo con una spolverata di noccioline o mandorle macinate. Ora aggiungete il rabarbaro. Alla fine mettete il ripieno di latte che avevate preparato precedentemente. Con la pasta frolla che vi è avanzata decorate la crostata come vi piace a voi!
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="rabarbaro.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-06-06-crostata-di-rabarbaro/rabarbaro.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-06-06-crostata-di-rabarbaro/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -124,45 +124,45 @@ Uscite la pasta frolla dal frigo e stendetela con un matterello aiutantovi con d
 Infornate la crostata nel ripiano più basso del forno a 175°C statico per ca. 45min. Gli ultimi 10min sposto la teglia nel ripiano a metà. Fate raffreddare la crostata completamente prima di uscirla dalla teglia.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-06-06-crostata-di-rabarbaro/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-06-06-crostata-di-rabarbaro/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-06-06-crostata-di-rabarbaro/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-06-06-crostata-di-rabarbaro/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-06-06-crostata-di-rabarbaro/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-06-06-crostata-di-rabarbaro/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-06-06-crostata-di-rabarbaro/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-06-06-crostata-di-rabarbaro/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-06-06-crostata-di-rabarbaro/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-06-06-crostata-di-rabarbaro/risultato10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
-![](risultato11.jpeg "frangipani © Erica")
+![](../2014-06-06-crostata-di-rabarbaro/risultato11.jpeg "frangipani © Erica")
 
 
 

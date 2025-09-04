@@ -10,7 +10,7 @@ categories:
 - Colazione
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2014-06-14-pancakes/header.jpg "frangipani © Erica")
 
 Ci sono mio cognato e mia sorella da noi e stiamo aspettando l'inizio della partita dell'Italia e mi era anche venuta voglia di Pancake, quindi cosa ho fatto? Giusto! Ho preparato i Pancake, che per essere sincera non avevo mai fatto... Poi mio cognato si è anche sacrificato e si è mangiato la torre di Pancake che ho preparato per la foto finale!
 
@@ -69,18 +69,18 @@ Ci sono mio cognato e mia sorella da noi e stiamo aspettando l'inizio della part
 </h3>
 
 Versate il latte, la farina, il lievito, lo zucchero, l'olio ed un pizzico di sale in una coppa e mescolate bene evitando di fare i grumi.
-![](impasto.jpg "frangipani © Erica")
+![](../2014-06-14-pancakes/impasto.jpg "frangipani © Erica")
 
 Prendete una padellina e strofinate la superfice con pochissimo olio di cocco, aiutandovi con un pennello da cucina. Quando la padellina sarà ben calda abbassate a temperatura media e iniziate a versare l'impasto con un mestolino. Appena si creano delle bolle che poi diventano buchi, potete girarli.
-![](girare.jpg "frangipani © Erica")
+![](../2014-06-14-pancakes/girare.jpg "frangipani © Erica")
  
 Aspettate che si cucinano anche dall'altro lato e poi metteteli in un piatto.
-![](girati.jpg "frangipani © Erica")
+![](../2014-06-14-pancakes/girati.jpg "frangipani © Erica")
 
-![](pronti.jpg "frangipani © Erica")
+![](../2014-06-14-pancakes/pronti.jpg "frangipani © Erica")
 
 Il classico è servirli con lo sciroppo d'acero ma vi assicuro che sono buonissimi anche con dello zucchero e cannella, della marmellata, del burro di arachidi o semplicemente con la Nutella.
-![](risultato.jpg "frangipani © Erica")
+![](../2014-06-14-pancakes/risultato.jpg "frangipani © Erica")
 
 
 <h3>

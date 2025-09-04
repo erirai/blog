@@ -11,7 +11,7 @@ categories:
 label: 2024-04-03-ciambelle-al-cioccolato
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2024-04-03-ciambelle-al-cioccolato/header.jpeg "frangipani © Erica")
 
 **Ciambelle al Cioccolato** dei dolcetti super cioccolatosi, ottimi per smaltire un bel po' di cioccolato. Per le ciambelle si può usare il cioccolato al latte ma anche quello fondente. Con il ciocciolato al latte, saranno leggermente più dolci. Per la glassa invece, potete usare il cioccolato che volete o avete, perché sono sicura che tutti abbiamo un bel po' di cioccolato di Pasqua avanzato.
 <br />
@@ -26,7 +26,7 @@ E benvenuto anche a te Aprile! Pasqua è passata, la primavera sembra sia arriva
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Ciambelle al Cioccolato</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2024-04-03-ciambelle-al-cioccolato/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Ciambelle al Cioccolato, dei dolcetti super cioccolatosi, ottimi per smaltire un bel po' di cioccolato.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -107,8 +107,8 @@ Versate l'impasto in una sacca da pasticcere e riempite le incavature della tegl
 Infornate le **Ciambelle al Cioccolato** nel forno preriscaldato a 180°C statico per 20min circa. Fateli intiepidire un attimo nella teglia, poi passateli su di una griglia per farli raffreddare completamente.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="ciambelle.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-04-03-ciambelle-al-cioccolato/teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-04-03-ciambelle-al-cioccolato/ciambelle.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -116,24 +116,24 @@ Infornate le **Ciambelle al Cioccolato** nel forno preriscaldato a 180°C static
 Fate sciogliere a Bagnomaria il cioccolato per la glassa con 2-3 cucchiai di panna liquida. Una volta sciolto immergete le ciambelle nella glassa e fate asciugare il tutto prima di mangiarle...
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-04-03-ciambelle-al-cioccolato/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-04-03-ciambelle-al-cioccolato/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-04-03-ciambelle-al-cioccolato/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-04-03-ciambelle-al-cioccolato/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-04-03-ciambelle-al-cioccolato/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-04-03-ciambelle-al-cioccolato/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

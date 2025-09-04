@@ -13,7 +13,7 @@ categories:
 label: 2022-09-14-treccia-dolce-con-prugne-e-crema-alla-vaniglia
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2022-09-14-treccia-dolce-con-prugne-e-crema-alla-vaniglia/header.jpeg "frangipani © Erica")
 
 **Treccia dolce con Prugne e Crema alla Vaniglia** sofficissima, piena di succose prugne che profumano di cannella ed il crumble alle mandorle che da quel tocco in più. È il dolce perfetto per queste prime giornate che sanno leggermente di autunno. Un dolce che da conforto.
 <br />
@@ -26,7 +26,7 @@ Questa è una di quelle ricette che ti immagini in testa e poi speri riescano be
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Treccia dolce con Prugne e Crema alla Vaniglia</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2022-09-14-treccia-dolce-con-prugne-e-crema-alla-vaniglia/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Treccia dolce con Prugne e Crema alla Vaniglia sofficissima, piena di succose prugne che profumano di cannella ed il crumble alle mandorle che da quel tocco in più.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -154,8 +154,8 @@ Per la crema montate l'uovo con lo zucchero ed un pizzico di sale finché sarà 
 Lavate le prugne, denocciolatele poi tagliatele a spicchi sottili. Metteteli in una coppetta, aggiungete un cucchiaio di zucchero, il succo di limone e la cannella. Mescolate e tenete in frigo finché vi servirà. Per ultimo preparate il Crumble mettendo burro, mandorle, farina, zucchero, sale e cannella in una coppetta e impastate con le dita delle mani finché avrete un composto bricioloso, tenete in frigo. Io ho preparato tutto la sera prima (crema, prugne e crumble tenuti in frigo).
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="impasto.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="cremaprugne.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-09-14-treccia-dolce-con-prugne-e-crema-alla-vaniglia/impasto.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-09-14-treccia-dolce-con-prugne-e-crema-alla-vaniglia/cremaprugne.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -163,9 +163,9 @@ Lavate le prugne, denocciolatele poi tagliatele a spicchi sottili. Metteteli in 
 Prendete l'impasto e aiutandovi con un mattarello stendetelo formando un rettangolo. Spalmateci sopra la crema, lasciando un bordo di 1cm, e distribuiteci sopra le prugne. Poi arrotolatelo iniziando dalla parte più lunga. Sigillate la parte laterale dove finisce l'impasto poi tagliate il rotolo in lungo, lasciando una punta ancora unita. Poi attorcigliate i due lati, tipo una corda, con la superficie di taglio sempre verso su. Chiudete bene la punta, poi mettete in una teglia lunga imburrata (ca. da 30cm). Fate lievitare per 1-2h. Dunque sbriciolate sopra a tutta la treccia il crumble.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 32%; margin-right: 1%;" src="steso.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="teglia.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-left: 1%;" src="crumble.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%;" src="../2022-09-14-treccia-dolce-con-prugne-e-crema-alla-vaniglia/steso.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="../2022-09-14-treccia-dolce-con-prugne-e-crema-alla-vaniglia/teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-left: 1%;" src="../2022-09-14-treccia-dolce-con-prugne-e-crema-alla-vaniglia/crumble.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -173,32 +173,32 @@ Prendete l'impasto e aiutandovi con un mattarello stendetelo formando un rettang
 Infornate la **Treccia dolce** nella parte bassa del forno preriscaldato a 180°C statico per 45min circa o finché avrà un bel colorito. Fatela raffreddare completamene prima di uscirla dalla forma, godetevela fresca di giornata.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-09-14-treccia-dolce-con-prugne-e-crema-alla-vaniglia/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-09-14-treccia-dolce-con-prugne-e-crema-alla-vaniglia/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-09-14-treccia-dolce-con-prugne-e-crema-alla-vaniglia/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-09-14-treccia-dolce-con-prugne-e-crema-alla-vaniglia/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-09-14-treccia-dolce-con-prugne-e-crema-alla-vaniglia/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-09-14-treccia-dolce-con-prugne-e-crema-alla-vaniglia/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-09-14-treccia-dolce-con-prugne-e-crema-alla-vaniglia/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-09-14-treccia-dolce-con-prugne-e-crema-alla-vaniglia/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

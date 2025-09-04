@@ -11,7 +11,7 @@ categories:
 label: 2019-01-15-pan-darancio
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2019-01-15-pan-darancio/header.jpg "frangipani © Erica")
 
 **Pan d'Arancio**, un dolce soffice e umido che sa di arance, che sa di Sicilia, che sa di buono. Un dolce per ripartire con gusto, per sfruttare al massimo le arance, per fare scorta di vitamina C che l'inverno è lungo... Ho scoperto questo dolce l'anno scorso sul Blog di <a href="https://www.mumcakefrelis.it/2018/03/pan-darancio-ricetta-siciliana.html" target="_blank">Mum Cake Frelis</a> e l'ho annotato nel mio libretto per ricordarmi di farlo dopo le feste. Non conoscevo questo dolce ed è un dolce siciliano! Ma l'utilizzo dell'arancia intera nell'impasto mi piace troppo. Poi Lisa ha aggiunto anche la farina di mandorle ed ha sostituito il latte con il succo d'arancia, ottimo! Utilizzando le arance intere con tutta la scorza, è importantissimo usare arance bio non trattate, mi raccomando. Ormai mi sono abituata a prendere tutti gli agrumi bio, dato che uso molto spesso la scorza. Così sto tranquilla. Potete usare anche altri agrumi o addirittura mischiarli, rispettando le dosi naturalmente.
 
@@ -30,7 +30,7 @@ E quali sono i vostri buoni propositi per quest'anno?
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Pan d'Arancio</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2019-01-15-pan-darancio/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Pan d'Arancio, un dolce soffice e umido che sa di arance, che sa di Sicilia, che sa di buono.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -88,28 +88,28 @@ E quali sono i vostri buoni propositi per quest'anno?
 </h3>
 
 Lavate l'arancia e tagliatela a pezzetti (eliminate i semini), poi frullatela così con tutta la buccia finché diventerà bella cremosa e senza pezzetti. A parte montate lo zucchero con le uova finché il composto sarà bello gonfio e chiaro. Sempre mescolando, aggiungete a filo l'olio, poi la spremuta d'arancia e l'arancia frullata. In una coppetta a parte mischiate il sale, la farina, la farina di mandorle ed il lievito. Setacciate il miscuglio con la farina, poi poco alla volta a mano incorporatelo al composto con le uova con un movimento dall'alto verso il basso. Versate l'impasto in una teglia (per ciambelle, tonda o da plumcake) imburrata ed infarinata.
-![](teglia.jpg "frangipani © Erica")
+![](../2019-01-15-pan-darancio/teglia.jpg "frangipani © Erica")
 
 Infornate il Pan d'Arancio nel forno preriscaldato statico a 180°C per ca. 45min, fate sempre la prova stecchino. Fate raffreddare bene la torta, poi toglietela dallo stampo. Vi consiglio di spalmare sulle fette del Pan d'Arancio la marmellata, confettura o addirittura la crema di pistacchio!
-![](risultato1.jpg "frangipani © Erica")
+![](../2019-01-15-pan-darancio/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2019-01-15-pan-darancio/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2019-01-15-pan-darancio/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2019-01-15-pan-darancio/risultato4.jpg "frangipani © Erica")
 
-![](risultato5.jpg "frangipani © Erica")
+![](../2019-01-15-pan-darancio/risultato5.jpg "frangipani © Erica")
 
-![](risultato6.jpg "frangipani © Erica")
+![](../2019-01-15-pan-darancio/risultato6.jpg "frangipani © Erica")
 
-![](risultato7.jpg "frangipani © Erica")
+![](../2019-01-15-pan-darancio/risultato7.jpg "frangipani © Erica")
 
-![](risultato8.jpg "frangipani © Erica")
+![](../2019-01-15-pan-darancio/risultato8.jpg "frangipani © Erica")
 
-![](risultato9.jpg "frangipani © Erica")
+![](../2019-01-15-pan-darancio/risultato9.jpg "frangipani © Erica")
 
-![](risultato10.jpg "frangipani © Erica")
+![](../2019-01-15-pan-darancio/risultato10.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

@@ -12,7 +12,7 @@ categories:
 label: 2022-05-31-poke-cake-al-limone-con-fragole
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2022-05-31-poke-cake-al-limone-con-fragole/header.jpeg "frangipani © Erica")
 
 **Poke Cake al Limone con Fragole** un dolce delicato, fresco e facile da preparare. Per la torta versate tutto in una ciotola, mescolate ed infornate. Neanche mezz'ora e la torta è pronta. La crema al limone è molto leggera, senza uova e profumatissima! Poi il tutto completato con le fragole fresche... che dire?! La Poke Cake non è altro che una torta che viene bucata e riempita con della crema. Infatti, to poke tradotto vuol dire anche infilare, conficcare, bucherellare. 
 
@@ -21,8 +21,8 @@ Dopo un mese e mezzo sono riuscita a fare una nuova ricetta. Ho fatto questa **P
 Le ultime settimane sono state parecchio movimentate. Il sabato prima di Pasqua siamo partiti per andare in Sicilia, senza dire niente a nessuno. Non ho voluto dire niente perché dopo tre tentativi falliti non ci ho creduto neanche io finché ho messo piede a Gela. Mi sono goduta mia nonna, i miei cugini e i miei zii il più possibile, ci voleva proprio. A salire abbiamo fatto due tappe, la prima a Tropea e la seconda a Roma. Due posti bellissimi! Poi appena siamo ritornati ci siamo messi ad organizzare tre feste. Sì, tre! Prima la festa di compleanno di Gaia con i parenti, poi la festa di compleanno di Gaia con le sue amichette e poi la festa per la sua comunione. Il tutto in tre settimane. Ero arrivata al punto che prendevo cose in mano e mi chiedevo: ma questo per quale festa l'ho preso?!
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="tortacompleannogaia.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="tortacomunionegaia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-05-31-poke-cake-al-limone-con-fragole/tortacompleannogaia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-05-31-poke-cake-al-limone-con-fragole/tortacomunionegaia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -36,7 +36,7 @@ Invece per la comunione ha scelto i fiori nei colori azzurro, giallo e bianco e 
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Poke Cake al Limone con Fragole</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2022-05-31-poke-cake-al-limone-con-fragole/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Poke Cake al Limone con Fragole un dolce delicato, fresco e facile da preparare. Per la torta versate tutto in una ciotola, mescolate ed infornate.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -134,16 +134,16 @@ Preparate la crema: mettete fecola, zucchero e sale (se volete anche un pizzico 
 Uscite la torta dallo stampo e mettetela su di un piatto da portata (io ho tagliato i bordi per una questione estetica). Prendete il manico di un mestolino e infilzate la torta facendo una ventina di buchi. Versate la crema in una sacca da pasticcere e riempite tutti i buchi. 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="tazza.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="torta.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-05-31-poke-cake-al-limone-con-fragole/tazza.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-05-31-poke-cake-al-limone-con-fragole/torta.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="crema.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="buchi.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-05-31-poke-cake-al-limone-con-fragole/crema.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-05-31-poke-cake-al-limone-con-fragole/buchi.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -151,32 +151,32 @@ Uscite la torta dallo stampo e mettetela su di un piatto da portata (io ho tagli
 Spalmate la restante crema sulla torta e decorate con le fragole a piacere! Consiglio di aggiungere le fragole appena prima di servirla...
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-05-31-poke-cake-al-limone-con-fragole/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-05-31-poke-cake-al-limone-con-fragole/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-05-31-poke-cake-al-limone-con-fragole/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-05-31-poke-cake-al-limone-con-fragole/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-05-31-poke-cake-al-limone-con-fragole/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-05-31-poke-cake-al-limone-con-fragole/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-05-31-poke-cake-al-limone-con-fragole/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-05-31-poke-cake-al-limone-con-fragole/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

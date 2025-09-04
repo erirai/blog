@@ -9,7 +9,7 @@ categories:
 label: 2020-03-06-consiglio-6
 lang: it
 ---
-![Satin Silver Pothos](header.jpeg "frangipani © Erica")
+![Satin Silver Pothos](../2020-03-06-consiglio-green-numero-6/header.jpeg "frangipani © Erica")
 
 <h3>
   <font color="grey">
@@ -23,7 +23,7 @@ Potrebbe a primo impatto non sembrare un consiglio green e sostenibile, ma lo è
 Credetemi, non esiste arredamento più bello delle piante. Rendono vivo l'ambiente dove si trovano. Ci sono piante molto decorative e colorate, che sono delle vere attrazioni. Piante rampicanti che riempiono muri bianchi e sterili. Piante che hanno bisogno di molte attenzioni, piante che vogliono essere dimenticate. Se trattate bene, ci regaleranno un sacco di soddisfazioni! Possono essere i fiori delle orchidee o del Frangipani che sbocciano, le foglie nuove della Maranta o la foglia completamente bianca della Monstera variegata...
 <br />
 I vivai sono diventati i miei negozi preferiti! Col tempo diventa una vera e propria mania. Si inizia con le piante facili da gestire e poi piano piano inizi a prenderci gusto... Ma le piante non possiamo trovarle solo nei vivai, esiste la possibilità di scambiare talee con altri appassionati di piante, che in effetti è la soluzione più sostenibile!
-![](mensola1.jpeg "frangipani © Erica")
+![](../2020-03-06-consiglio-green-numero-6/mensola1.jpeg "frangipani © Erica")
 
 <h3>
 	<font color="grey">
@@ -49,11 +49,11 @@ Per iniziare potete provare con le Pothos, Zamioculcas e Sanseveria. Tutte e tre
 <p>
   <div style="width: 100%; margin-bottom: 0">
     <span class="caption-group" style="float: left; left; width: 49%; margin-right: 1%">
-        <img src="efeutute.jpeg" alt="" title="frangipani © Erica" />
+        <img src="../2020-03-06-consiglio-green-numero-6/efeutute.jpeg" alt="" title="frangipani © Erica" />
         <div class="caption">Golden Pothos</div>
     </span>
     <span class="caption-group" style="float: left; left; width: 49%; margin-left: 1%">
-        <img src="sanseveriamoonlight.jpeg" alt="" title="frangipani © Erica" />
+        <img src="../2020-03-06-consiglio-green-numero-6/sanseveriamoonlight.jpeg" alt="" title="frangipani © Erica" />
         <div class="caption">Sanseveria Moonlight</div>
     </span>
     <div style="clear: both"></div>
@@ -66,11 +66,11 @@ Le piante grasse hanno bisogno di moltissima luce, anche in inverno. Ma soprattu
 <p>
   <div style="width: 100%; margin-bottom: 0">
     <span class="caption-group" style="float: left; left; width: 49%; margin-right: 1%">
-        <img src="brutblatt.jpeg" alt="" title="frangipani © Erica" />
+        <img src="../2020-03-06-consiglio-green-numero-6/brutblatt.jpeg" alt="" title="frangipani © Erica" />
         <div class="caption">Bryophyllum (Madre delle Migliaia)</div>
     </span>
     <span class="caption-group" style="float: left; left; width: 49%; margin-left: 1%">
-        <img src="kaktus.jpeg" alt="" title="frangipani © Erica" />
+        <img src="../2020-03-06-consiglio-green-numero-6/kaktus.jpeg" alt="" title="frangipani © Erica" />
         <div class="caption"></div>
     </span>
     <div style="clear: both"></div>
@@ -80,11 +80,11 @@ Le piante grasse hanno bisogno di moltissima luce, anche in inverno. Ma soprattu
 <p>
   <div style="width: 100%; margin-bottom: 0">
     <span class="caption-group" style="float: left; left; width: 49%; margin-right: 1%">
-        <img src="stringofhearts.jpeg" alt="" title="frangipani © Erica" />
+        <img src="../2020-03-06-consiglio-green-numero-6/stringofhearts.jpeg" alt="" title="frangipani © Erica" />
         <div class="caption">String of Hearts</div>
     </span>
     <span class="caption-group" style="float: left; left; width: 49%; margin-left: 1%">
-        <img src="stringofpearls.jpeg" alt="" title="frangipani © Erica" />
+        <img src="../2020-03-06-consiglio-green-numero-6/stringofpearls.jpeg" alt="" title="frangipani © Erica" />
         <div class="caption">String of Pearls</div>
     </span>
     <div style="clear: both"></div>
@@ -97,15 +97,15 @@ Esistono piante che sono delle vere e proprie opere d'arte. Hanno le foglie con 
 <p>
   <div style="width: 100%; margin-bottom: 0">
     <span class="caption-group" style="float: left; left; width: 32%; margin-right: 1%">
-        <img src="maranta.jpeg" alt="" title="frangipani © Erica" />
+        <img src="../2020-03-06-consiglio-green-numero-6/maranta.jpeg" alt="" title="frangipani © Erica" />
         <div class="caption">Maranta leuconeura fascinator</div>
     </span>
     <span class="caption-group" style="float: left; left; width: 32%; margin-right: 1%; margin-left: 1%">
-        <img src="pilea.jpeg" alt="" title="frangipani © Erica" />
+        <img src="../2020-03-06-consiglio-green-numero-6/pilea.jpeg" alt="" title="frangipani © Erica" />
         <div class="caption">Pilea</div>
     </span>
     <span class="caption-group" style="float: left; left; width: 32%; margin-left: 1%">
-        <img src="oxalis.jpeg" alt="" title="frangipani © Erica" />
+        <img src="../2020-03-06-consiglio-green-numero-6/oxalis.jpeg" alt="" title="frangipani © Erica" />
         <div class="caption">Red Oxalis</div>
     </span>
     <div style="clear: both"></div>
@@ -115,15 +115,15 @@ Esistono piante che sono delle vere e proprie opere d'arte. Hanno le foglie con 
 <p>
   <div style="width: 100%; margin-bottom: 0">
     <span class="caption-group" style="float: left; left; width: 32%; margin-right: 1%">
-        <img src="calateaornata.jpeg" alt="" title="frangipani © Erica" />
+        <img src="../2020-03-06-consiglio-green-numero-6/calateaornata.jpeg" alt="" title="frangipani © Erica" />
         <div class="caption">Calathea Ornata</div>
     </span>
     <span class="caption-group" style="float: left; left; width: 32%; margin-right: 1%; margin-left: 1%">
-        <img src="syngoniumpink.jpeg" alt="" title="frangipani © Erica" />
+        <img src="../2020-03-06-consiglio-green-numero-6/syngoniumpink.jpeg" alt="" title="frangipani © Erica" />
         <div class="caption">Syngonium Pink</div>
     </span>
     <span class="caption-group" style="float: left; left; width: 32%; margin-left: 1%">
-        <img src="forellenbegonie.jpeg" alt="" title="frangipani © Erica" />
+        <img src="../2020-03-06-consiglio-green-numero-6/forellenbegonie.jpeg" alt="" title="frangipani © Erica" />
         <div class="caption">Begonia Maculata</div>
     </span>
     <div style="clear: both"></div>
@@ -136,11 +136,11 @@ I fiori delle Orchidee sono una cosa meravigliosa. Una volta trovato il posto gi
 <p>
   <div style="width: 100%; margin-bottom: 0">
     <span class="caption-group" style="float: left; left; width: 49%; margin-right: 1%">
-        <img src="phalaenopsis1.jpeg" alt="" title="frangipani © Erica" />
+        <img src="../2020-03-06-consiglio-green-numero-6/phalaenopsis1.jpeg" alt="" title="frangipani © Erica" />
         <div class="caption"></div>
     </span>
     <span class="caption-group" style="float: left; left; width: 49%; margin-left: 1%">
-        <img src="phalaenopsis2.jpeg" alt="" title="frangipani © Erica" />
+        <img src="../2020-03-06-consiglio-green-numero-6/phalaenopsis2.jpeg" alt="" title="frangipani © Erica" />
         <div class="caption"></div>
     </span>
     <div style="clear: both"></div>
@@ -150,11 +150,11 @@ I fiori delle Orchidee sono una cosa meravigliosa. Una volta trovato il posto gi
 <p>
   <div style="width: 100%; margin-bottom: 0">
     <span class="caption-group" style="float: left; left; width: 49%; margin-right: 1%">
-        <img src="phalaenopsis3.jpeg" alt="" title="frangipani © Erica" />
+        <img src="../2020-03-06-consiglio-green-numero-6/phalaenopsis3.jpeg" alt="" title="frangipani © Erica" />
         <div class="caption"></div>
     </span>
     <span class="caption-group" style="float: left; left; width: 49%; margin-left: 1%">
-        <img src="phalaenopsis4.jpeg" alt="" title="frangipani © Erica" />
+        <img src="../2020-03-06-consiglio-green-numero-6/phalaenopsis4.jpeg" alt="" title="frangipani © Erica" />
         <div class="caption"></div>
     </span>
     <div style="clear: both"></div>

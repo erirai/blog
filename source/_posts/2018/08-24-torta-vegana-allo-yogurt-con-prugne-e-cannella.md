@@ -12,7 +12,7 @@ categories:
 label: 2018-08-24-torta-vegana-allo-yogurt-con-prugne-e-cannella
 lang: it 
 ---
-![](header.jpg "frangipani © Erica")
+![](../2018-08-24-torta-vegana-allo-yogurt-con-prugne-e-cannella/header.jpg "frangipani © Erica")
 
 **Torta vegana allo Yogurt con Prugne e Cannella**, ma si potrebbe chiamare anche torta alle prugne di tarda estate. Questa torta sofficissima è facilissima da preparare, pochi ingredienti, prugne succose e cannella. Si, perché secondo me le prugne e la cannella si sposano benissimo! Poi penso che piano piano piano piano possiamo prepararci ai gusti meno freschi e più autunnali... Ma piano piano eh! Se non vi piacciono le prugne potete benissimo sostituirle con le mele o le pesche. Questa torta è senza uova e grazie allo yogurt risulta bella soffice ed umida. Per la versione vegana basta usare lo yogurt ed il latte vegetale, altrimenti va benissimo anche quello vaccino...
 
@@ -25,7 +25,7 @@ E niente, lunedì scorso è ritornata la solita routine. Sveglia alle 6:30, Gaia
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Torta vegana allo Yogurt con Prugne e Cannella</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2018-08-24-torta-vegana-allo-yogurt-con-prugne-e-cannella/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Torta vegana allo Yogurt con Prugne e Cannella, questa torta sofficissima è facilissima da preparare, pochi ingredienti, prugne succose e cannella.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -87,30 +87,30 @@ E niente, lunedì scorso è ritornata la solita routine. Sveglia alle 6:30, Gaia
 </h3>
 
 In una ciotola mescolate lo yogurt con l'olio ed il latte. A parte mischiate farina, fecola, zucchero, lievito, sale e cannella. Aggiungete gli ingredienti asciutti a quelli liquidi e amalgamate bene. Versate l'impasto in una tortiera precedentemente imburrata ed infarinata e livellate. Adagiateci sopra le prugne lavate e tagliate a spicchi.
-![](teglia.jpg "frangipani © Erica")
+![](../2018-08-24-torta-vegana-allo-yogurt-con-prugne-e-cannella/teglia.jpg "frangipani © Erica")
 
 Infornate la torta di prugne nel forno preriscaldato a 160°C ventilato per 45-50min, mi raccomando fate la prova stecchino. Se volete, appena sfornata cospargete la superficie con zucchero e cannella.
-![](risultato1.jpg "frangipani © Erica")
+![](../2018-08-24-torta-vegana-allo-yogurt-con-prugne-e-cannella/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2018-08-24-torta-vegana-allo-yogurt-con-prugne-e-cannella/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2018-08-24-torta-vegana-allo-yogurt-con-prugne-e-cannella/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2018-08-24-torta-vegana-allo-yogurt-con-prugne-e-cannella/risultato4.jpg "frangipani © Erica")
 
-![](risultato5.jpg "frangipani © Erica")
+![](../2018-08-24-torta-vegana-allo-yogurt-con-prugne-e-cannella/risultato5.jpg "frangipani © Erica")
 
-![](risultato6.jpg "frangipani © Erica")
+![](../2018-08-24-torta-vegana-allo-yogurt-con-prugne-e-cannella/risultato6.jpg "frangipani © Erica")
 
-![](risultato7.jpg "frangipani © Erica")
+![](../2018-08-24-torta-vegana-allo-yogurt-con-prugne-e-cannella/risultato7.jpg "frangipani © Erica")
 
-![](risultato8.jpg "frangipani © Erica")
+![](../2018-08-24-torta-vegana-allo-yogurt-con-prugne-e-cannella/risultato8.jpg "frangipani © Erica")
 
-![](risultato9.jpg "frangipani © Erica")
+![](../2018-08-24-torta-vegana-allo-yogurt-con-prugne-e-cannella/risultato9.jpg "frangipani © Erica")
 
-![](risultato10.jpg "frangipani © Erica")
+![](../2018-08-24-torta-vegana-allo-yogurt-con-prugne-e-cannella/risultato10.jpg "frangipani © Erica")
 
-![](risultato11.jpg "frangipani © Erica")
+![](../2018-08-24-torta-vegana-allo-yogurt-con-prugne-e-cannella/risultato11.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

@@ -13,7 +13,7 @@ categories:
 label: 2017-06-19-te-freddo-al-rabarbaro-e-lamponi
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2017-06-19-te-freddo-al-rabarbaro-e-lamponi/header.jpg "frangipani © Erica")
 
 Ho usato pochissimo il rabarbaro quest'anno e questo non va bene! La stagione purtroppo è quasi finita, quindi andava usato almeno per una volta ancora... Questa volta però niente dolce, ma una bevanda rinfrescante. Infatti oggi vi propongo questo té freddo al rabarbaro e lamponi, perfetto per queste giornate calde che io adoro tanto! Per me non è mai abbastanza caldo... quando gli altri si lamentano crepando dal caldo io inizio a sentirmi a mio agio. Se però poi c'è una leggera arietta fresca, che per molti è un sollievo, io sento freddo! Lo so, lo so sono mooolto freddolosa... Per rinfrescarmi o quando ho voglia di una bevanda dolce, bevo praticamente solo té freddo. Non mi piacciono le bevande gassate, quindi il té è la cosa migliore. Questa versione alla frutta in realtà non è un té perché non è fatto con le foglie del té, ma è una specie di decotto. Potete prepararlo secondo i vostri gusti, mettere più o meno rabarbaro o lamponi, diminuire o aumentare le dosi del limone e dello zenzero, aggiungere della menta o mettere in infusione alla fine una o due bustine di té. Il procedimento è sempre lo stesso... Il té così non è molto dolce, per me va benissimo, ma se voi lo preferite più dolce, vi consiglio di aumentare le dosi dello zucchero. Servitelo con dei cubetti di ghiaccio, qualche fogliolina di menta e una fettina di limone e il gioco è fatto!
 
@@ -62,25 +62,25 @@ Ho usato pochissimo il rabarbaro quest'anno e questo non va bene! La stagione pu
 </h3>
 
 Pulite il rabarbaro e tagliatelo a tocchetti da 2cm circa, lavate i lamponi e metteteli in una pentola capiente. Aggiungete il succo dei due limoni, lo zenzero tagliato a fettine e lo zucchero. Per ultimo aggiungete l'acqua.
-![](pentola.jpg "frangipani © Erica")
+![](../2017-06-19-te-freddo-al-rabarbaro-e-lamponi/pentola.jpg "frangipani © Erica")
 
 Portate il tutto ad ebollizione. Appena bolle, abbassate la temperatura, chiudete con un coperchio e fate sobbollire per 15min.
-![](cotto.jpg "frangipani © Erica")
+![](../2017-06-19-te-freddo-al-rabarbaro-e-lamponi/cotto.jpg "frangipani © Erica")
 
 A questo punto passate il tutto al setaccio, strizzando bene la purea di rabarbaro e lamponi. 
-![](setaccio.jpg "frangipani © Erica")
+![](../2017-06-19-te-freddo-al-rabarbaro-e-lamponi/setaccio.jpg "frangipani © Erica")
 
 Fate raffreddare completamente il liquido ottenuto. Se avete tempo, lasciatelo in frigo per qualche oretta.
-![](te.jpg "frangipani © Erica")
+![](../2017-06-19-te-freddo-al-rabarbaro-e-lamponi/te.jpg "frangipani © Erica")
 
 Servite questo té freddo con dei cubetti di ghiaccio, qualche fogliolina di menta e del limone. Buona rinfrescata!
-![](risultato1.jpg "frangipani © Erica")
+![](../2017-06-19-te-freddo-al-rabarbaro-e-lamponi/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2017-06-19-te-freddo-al-rabarbaro-e-lamponi/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2017-06-19-te-freddo-al-rabarbaro-e-lamponi/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2017-06-19-te-freddo-al-rabarbaro-e-lamponi/risultato4.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

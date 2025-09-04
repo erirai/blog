@@ -11,7 +11,7 @@ categories:
 label: 2024-04-24-asparagi-gratinati
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2024-04-24-asparagi-gratinati/header.jpeg "frangipani © Erica")
 
 **Asparagi gratinati** un contorno sfizioso e saporito da preparare in primavera. Pochissimi ingredienti che danno un risultato super buono. Adoro la succosità degli asparagi in contrasto con la croccantezza del pangrattato!
 <br />
@@ -24,7 +24,7 @@ Per preparare questa ricetta vi servono solo asparagi, pangrattato, parmigiano g
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Asparagi gratinati</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2024-04-24-asparagi-gratinati/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Asparagi gratinati, un contorno sfizioso e saporito da preparare in primavera. Pochissimi ingredienti che danno un risultato super buono.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -67,8 +67,8 @@ Eliminate la parte dura e legnosa degli asparagi e lavateli. Adagiateli su di un
 A parte mescolate un po' di pangrattato con il parmigiano grattugiato, le erbette tritate (io timo e origano), un pizzico di sale ed un filo d'olio. Uscite gli asparagi dal forno e distribuite il miscuglio di pangrattato sugli asparagi. 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="asparagi.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-04-24-asparagi-gratinati/asparagi.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-04-24-asparagi-gratinati/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -76,29 +76,29 @@ A parte mescolate un po' di pangrattato con il parmigiano grattugiato, le erbett
 Finite con un filo d'olio e rimettete in forno per altri 10-15min o almeno finché il pangrattato non si sarà dorato.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-04-24-asparagi-gratinati/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-04-24-asparagi-gratinati/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-04-24-asparagi-gratinati/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-04-24-asparagi-gratinati/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-04-24-asparagi-gratinati/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-04-24-asparagi-gratinati/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
-![](risultato7.jpeg "frangipani © Erica")
+![](../2024-04-24-asparagi-gratinati/risultato7.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

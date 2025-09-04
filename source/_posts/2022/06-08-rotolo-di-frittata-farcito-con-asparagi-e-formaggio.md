@@ -12,7 +12,7 @@ categories:
 label: 2022-06-08-rotolo-di-frittata-farcito-con-asparagi-e-formaggio
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2022-06-08-rotolo-di-frittata-farcito-con-asparagi-e-formaggio/header.jpeg "frangipani © Erica")
 
 **Rotolo di Frittata farcito con Asparagi e Formaggio**, un'idea facile, sfiziosa e vegetariana per un aperitivo. Basta adagiare i rotolini su di un bel piatto da portata, aggiungere degli stuzzicadenti carini e avrete un aperitivo buono e bello da vedere!
 <br />
@@ -25,7 +25,7 @@ Prima di diventare vegetariana li facevo spesso questi rotoli di frittata. Li fa
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Rotolo di Frittata farcito con Asparagi e Formaggio</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2022-06-08-rotolo-di-frittata-farcito-con-asparagi-e-formaggio/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Rotolo di Frittata farcito con Asparagi e Formaggio, un'idea facile, sfiziosa e vegetariana per un aperitivo.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -84,8 +84,8 @@ Ancora nella padella distribuite sulla frittata le sottilete a pezzetti e anche 
 A questo punto arrotolate la frittata e poi la avvolgete nella pellicola alimentare stringendo bene. Una volta fredda mettetela in frigo per qualche oretta, ancora meglio per tutta la notte.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="frittata.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="rotolo.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-06-08-rotolo-di-frittata-farcito-con-asparagi-e-formaggio/frittata.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-06-08-rotolo-di-frittata-farcito-con-asparagi-e-formaggio/rotolo.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -94,48 +94,48 @@ Prima di servirlo, tagliatelo a fette da massimo 1cm...
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-06-08-rotolo-di-frittata-farcito-con-asparagi-e-formaggio/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-06-08-rotolo-di-frittata-farcito-con-asparagi-e-formaggio/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-06-08-rotolo-di-frittata-farcito-con-asparagi-e-formaggio/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-06-08-rotolo-di-frittata-farcito-con-asparagi-e-formaggio/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-06-08-rotolo-di-frittata-farcito-con-asparagi-e-formaggio/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-06-08-rotolo-di-frittata-farcito-con-asparagi-e-formaggio/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-06-08-rotolo-di-frittata-farcito-con-asparagi-e-formaggio/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-06-08-rotolo-di-frittata-farcito-con-asparagi-e-formaggio/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-06-08-rotolo-di-frittata-farcito-con-asparagi-e-formaggio/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-06-08-rotolo-di-frittata-farcito-con-asparagi-e-formaggio/risultato10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato11.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato12.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-06-08-rotolo-di-frittata-farcito-con-asparagi-e-formaggio/risultato11.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-06-08-rotolo-di-frittata-farcito-con-asparagi-e-formaggio/risultato12.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

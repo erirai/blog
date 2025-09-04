@@ -12,7 +12,7 @@ categories:
 - Torte
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2016-06-01-fluffosa-alle-fragole-con-crema-al-limone/header.jpg "frangipani © Erica")
 
 Benvenuto Giugno! È iniziato il mese di preparazione verso l'estate, inizia il caldo (almeno dovrebbe), si va in piscina o al mare (chi è fortunato), arriva anche qui in Svizzera la frutta buona, dolce e gustosa per non parlare delle verdure! Poi finalmente abbiamo prenotato le nostre vacanze, siamo un po' in ritardo, quindi stavamo andando in panico perché non riuscivamo a trovare niente, poi finalmente abbiamo trovato... Oggi vi propongo questa Fluffosa alle fragole che ho farcito con una crema leggerissima al limone. Sto sperimentando un po' con le Fluffose, perché mi piaciono proprio tanto, ho pure ordinato il libro "Le Fluffose", non vedo l'ora che arrivi. Dopo la Fluffosa al Tiramisù ho voluto fare una versione più fresca ed estiva. Qui la stagione delle fragole è appena iniziata, poi mia figlia mi chiede sempre le torte gusto fragola, quindi l'ho accontentata. Lei la chiama Flumosa... Se non avete lo stampo da Chiffon Cake, potete prendere uno stampo normale per ciambelle, ma non otterrete lo stesso risultato. La crema è buonissima e leggerissima, è senza latte ne uova, quindi vegan. La crema è molto limonosa, quindi regolatevi con lo zucchero o con le quantità di succo di limone. Per noi va benissimo, pensando che ci mangiamo i limoni così, come se fossero mele, soprattutto i piccoli!
 
@@ -102,40 +102,40 @@ Benvenuto Giugno! È iniziato il mese di preparazione verso l'estate, inizia il 
 </h3>
 
 Separate gli albumi dai tuorli e montate a neve gli albumi con due gocce di succo di limone, mettete da parte. Lavate le fragole e togliete le foglioline verdi. Frullatele con il frullatore ad immersione insieme al succo di mezzo limone. Dovrete ottenere 150ml di polpa, se non arrivate a 150ml, aggiungete ancora acqua quanto basta.
-![](fragole.jpg "frangipani © Erica")
+![](../2016-06-01-fluffosa-alle-fragole-con-crema-al-limone/fragole.jpg "frangipani © Erica")
 
 Nella coppa con i tuorli aggiungete l'olio, la polpa di fragole e l'essenza di vaniglia. Con le fruste elettriche mescolate il tutto finché sarà perfettamente amalgamato. Poi aggiungete la farina, lo zucchero, il lievito ed il sale, tutto precedentemente setacciato. A questo punto continuate a mescolare con le fruste elettriche per qualche minuto, finché avrete una cremina bella liscia. Adesso aggiungete un po' alla volta gli albumi montati a neve e incoropateli aiutandovi con una spoatola. Come al solito con un movimento dall'alto verso il basso, facendo attenzione a non far smontare gli albumi.
-![](impasto.jpg "frangipani © Erica")
+![](../2016-06-01-fluffosa-alle-fragole-con-crema-al-limone/impasto.jpg "frangipani © Erica")
 
 Versate l'impasto nello stampo per Chiffon Cake, mi raccomando NON c'è bisogno di imburrarlo ed infarinarlo.
-![](teglia.jpg "frangipani © Erica")
+![](../2016-06-01-fluffosa-alle-fragole-con-crema-al-limone/teglia.jpg "frangipani © Erica")
 
 Poi infornate la Fluffosa nel forno preriscaldato a 160°C statico per 70-75min, come sempre fate la prova stecchino.
-![](sfornata.jpg "frangipani © Erica")
+![](../2016-06-01-fluffosa-alle-fragole-con-crema-al-limone/sfornata.jpg "frangipani © Erica")
 
 Una volta cotta, capovolgetela e lasciatela in questa posizione finché lei non si staccherà da sola, ci vorrà qualche oretta.
-![](capovolta.jpg "frangipani © Erica")
+![](../2016-06-01-fluffosa-alle-fragole-con-crema-al-limone/capovolta.jpg "frangipani © Erica")
 
-![](fluffosa.jpg "frangipani © Erica")
+![](../2016-06-01-fluffosa-alle-fragole-con-crema-al-limone/fluffosa.jpg "frangipani © Erica")
 
 Nel frattempo preparate la crema al limone. In un pentolino mettete la farina, lo zucchero ed il succo di due limoni. Mescolate il tutto facendo attenzione a non far creare grumi. Poi aggiungete l'acqua e le scorzette di un limone, tagliate a metà la stecca di vaniglia e con un coltello estraete i semini della vaniglia aggiungendoli al resto.
-![](pentolino.jpg "frangipani © Erica")
+![](../2016-06-01-fluffosa-alle-fragole-con-crema-al-limone/pentolino.jpg "frangipani © Erica")
 
 Accendete il fornello a temperatura media. Sempre mescolando portate ad ebollizione la crema, quando si sarà addensata togliete dai fornelli. Versate la crema in un piatto o in una coppa, coprite con la pellicola a contatto e fatela raffreddare completamente.
-![](crema1.jpg "frangipani © Erica")
+![](../2016-06-01-fluffosa-alle-fragole-con-crema-al-limone/crema1.jpg "frangipani © Erica")
 
-![](crema2.jpg "frangipani © Erica")
+![](../2016-06-01-fluffosa-alle-fragole-con-crema-al-limone/crema2.jpg "frangipani © Erica")
 
 Mettete la Fluffosa alle fragole sul piatto da portata poi tagliatela a metà.
-![](tagliata.jpg "frangipani © Erica")
+![](../2016-06-01-fluffosa-alle-fragole-con-crema-al-limone/tagliata.jpg "frangipani © Erica")
 
 Farcite con la crema al limone e ricopritela.
-![](farcita.jpg "frangipani © Erica")
+![](../2016-06-01-fluffosa-alle-fragole-con-crema-al-limone/farcita.jpg "frangipani © Erica")
 
 Decorate la superficie con altra crema e delle fragole fresche.
-![](risultato1.jpg "frangipani © Erica")
+![](../2016-06-01-fluffosa-alle-fragole-con-crema-al-limone/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2016-06-01-fluffosa-alle-fragole-con-crema-al-limone/risultato2.jpg "frangipani © Erica")
 
 <h3>
   <font color="#FFCC00">

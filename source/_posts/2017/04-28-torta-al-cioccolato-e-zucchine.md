@@ -13,7 +13,7 @@ categories:
 label: 2017-04-28-torta-al-cioccolato-e-zucchine
 lang: it 
 ---
-![](header.jpg "frangipani © Erica")
+![](../2017-04-28-torta-al-cioccolato-e-zucchine/header.jpg "frangipani © Erica")
 
 Vi avevo promesso un'altra ricetta per smaltire il cioccolato di Pasqua... Eccola qui! E dato che c'ero ci ho aggiunto anche le zucchine, olé! No, non sto impazzendo... Ho visto fare una torta al cioccolato con le zucchine in TV e sembrava buonissima, ma aveva un bel po' di uova. Dopo tutte queste uova mangiate a Pasqua tra frittate e cose varie, volevo evitarele per un po' di tempo. Che ho fatto? Ho usato come base la ricetta della mia <a href="http://frangipani.raiano.ch/2016-09-24-torta-cioccolato-e-pere/" target="_blank">Torta Cioccolato e Pere</a> e ci ho aggiunto una zucchina per renderla più umida e succosa. Ed ha funzionato perfettamente! Poi tanto per esagerare un pochettino ho preparato una glassa al cioccolato che rende la torta ancora più goduriosa. Non preoccupatevi, le zucchine non si sentono per niente... Ma sentirete tutto il gusto del cioccolato!
 
@@ -102,21 +102,21 @@ Vi avevo promesso un'altra ricetta per smaltire il cioccolato di Pasqua... Eccol
 </h3>
 
 In una coppa capiente mescolate la farina, il cacao, il bicarbonato, il lievito, lo zucchero ed il sale. Poi aggiungete il latte vegetale, l'olio e l'aceto. Amalgamate bene con un cucchiaio poi aggiungete le zucchine grattugiate e il cioccolato a pezzettini.
-![](impasto.jpg "frangipani © Erica")
+![](../2017-04-28-torta-al-cioccolato-e-zucchine/impasto.jpg "frangipani © Erica")
 
 Versate l'impasto nella teglia precedentemente imburrata ed infarinata.
-![](teglia.jpg "frangipani © Erica")
+![](../2017-04-28-torta-al-cioccolato-e-zucchine/teglia.jpg "frangipani © Erica")
 
 Infornate la torta nel forno preriscaldato a 180°C statico per un'ora, mi raccomando fate la prova stecchino. Comunque la torta tende a rimanere umida. Appena avrete sfornato la torta, potete preparare la glassa: mettete il cioccolato, la panna e la margarina a sciogliere a Bagnomaria. Appena è pronta la potete far colare sulla torta...
-![](risultato1.jpg "frangipani © Erica")
+![](../2017-04-28-torta-al-cioccolato-e-zucchine/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2017-04-28-torta-al-cioccolato-e-zucchine/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2017-04-28-torta-al-cioccolato-e-zucchine/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2017-04-28-torta-al-cioccolato-e-zucchine/risultato4.jpg "frangipani © Erica")
 
-![](risultato5.jpg "frangipani © Erica")
+![](../2017-04-28-torta-al-cioccolato-e-zucchine/risultato5.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

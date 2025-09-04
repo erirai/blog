@@ -11,7 +11,7 @@ categories:
 label: 2021-03-03-madeleines-con-scorza-di-arancia-e-limone
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2021-03-03-madeleines-con-scorza-di-arancia-e-limone/header.jpeg "frangipani © Erica")
 
 **Madeleines con Scorza d'Arancia e Limone** belli soffici, profumati e con la sua caratteristica gobbetta. La preparazione è veramente facile e sono estremamente buone. Ottime per la colazione e la merenda o semplicemente quando ne avete voglia.
 <br />
@@ -26,7 +26,7 @@ E benvenuto anche a te Marzo! Che gioia! Che bello! Anche se potrebbe comunque a
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Madeleines con Scorza d'Arancia e Limone</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2021-03-03-madeleines-con-scorza-di-arancia-e-limone/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Madeleines con Scorza d'Arancia e Limone belli soffici, profumati e con la sua caratteristica gobbetta. La preparazione è veramente facile e sono estremamente buone.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -94,9 +94,9 @@ Imburrate e infarinate la teglia per Madeleines, prendete l'impasto e con l'aiut
 Infornate le Madeleines nel forno preriscaldato a 200°C statico per 12-13min o finché saranno belle dorate.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 32%; margin-right: 1%;" src="impasto.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="teglia.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-left: 1%;" src="madeleines.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%;" src="../2021-03-03-madeleines-con-scorza-di-arancia-e-limone/impasto.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="../2021-03-03-madeleines-con-scorza-di-arancia-e-limone/teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-left: 1%;" src="../2021-03-03-madeleines-con-scorza-di-arancia-e-limone/madeleines.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -104,39 +104,39 @@ Infornate le Madeleines nel forno preriscaldato a 200°C statico per 12-13min o 
 Uscitele dallo stampo e fatele raffreddare su di una griglia. Sono ottime fresche fresche, ma tengono benissimo anche qualche giorno se chiuse ermeticamente.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-03-03-madeleines-con-scorza-di-arancia-e-limone/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-03-03-madeleines-con-scorza-di-arancia-e-limone/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-03-03-madeleines-con-scorza-di-arancia-e-limone/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-03-03-madeleines-con-scorza-di-arancia-e-limone/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato5.jpeg "frangipani © Erica")
+![](../2021-03-03-madeleines-con-scorza-di-arancia-e-limone/risultato5.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-03-03-madeleines-con-scorza-di-arancia-e-limone/risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-03-03-madeleines-con-scorza-di-arancia-e-limone/risultato7.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-03-03-madeleines-con-scorza-di-arancia-e-limone/risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-03-03-madeleines-con-scorza-di-arancia-e-limone/risultato9.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato10.jpeg "frangipani © Erica")
+![](../2021-03-03-madeleines-con-scorza-di-arancia-e-limone/risultato10.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

@@ -11,7 +11,7 @@ categories:
 - Conserve
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2015-10-03-marmellata-di-uva-fragola/header.jpg "frangipani © Erica")
 
 > Grazie Nonna Pina per l'Uva!
 
@@ -57,19 +57,19 @@ lang: it
 
 Ci tengo a precisare che il procedimento dipende sempre dal gelificante. Io vi mostro il procedimento come scritto sulla bustina del gelificante che uso io. Voi mi raccomando fatelo come scritto sulla busta che usate voi!
 Lavate l'uva e ricavatene il succo. Io ho passato gli acini d'uva con il passa verdure, voi fate come vi viene meglio. Mettete il succo d'uva e il succo di limone in una pentola capiente. Poi aggiungete il gelificante e mescolate bene. Se volete, a questo punto aggiungete l'anice stellato, il cardamomo, la stecca di cannella, la vaniglia e la scorza d'arancia, così avrà il gusto del Vin Brûlé. Bisogna usare una pentola abbastanza capiente perché la frutta quando cucina ha il vizio di fare la schiuma.
-![](pentola.jpg "frangipani © Erica")
+![](../2015-10-03-marmellata-di-uva-fragola/pentola.jpg "frangipani © Erica")
 
 Portate ad ebollizione il succo. Poi aggiungete lo zucchero e fatelo sciogliere bene.
 Fatelo cucinare ancora per un po'. Prendete un cucchiaio e fate la prova se la marmellata si è gelificata abbastanza: se la marmellata resta appiccicata al cucchiaio e si gelifica subito è pronta e potete toglierla dai fornelli.
-![](gelificata.jpg "frangipani © Erica")
+![](../2015-10-03-marmellata-di-uva-fragola/gelificata.jpg "frangipani © Erica")
 
 Riempite la marmellata ancora calda nei vasetti precedentemente sterilizzati aiutandovi con un imbuto per marmellate, chiudete i vasetti e metteteli sottosopra per creare un sottovuoto.
-![](invasare.jpg "frangipani © Erica")
+![](../2015-10-03-marmellata-di-uva-fragola/invasare.jpg "frangipani © Erica")
 
-![](vasetti.jpg "frangipani © Erica")
+![](../2015-10-03-marmellata-di-uva-fragola/vasetti.jpg "frangipani © Erica")
 
 Appena si è raffreddata potete girare i vasetti...
-![](risultato.jpg "frangipani © Erica")
+![](../2015-10-03-marmellata-di-uva-fragola/risultato.jpg "frangipani © Erica")
 
 
 <h3>

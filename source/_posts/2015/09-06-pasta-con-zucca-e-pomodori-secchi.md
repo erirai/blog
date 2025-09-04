@@ -13,7 +13,7 @@ categories:
 label: 2015-09-06-pasta-con-zucca-e-pomodori-secchi
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2015-09-06-pasta-con-zucca-e-pomodori-secchi/header.jpeg "frangipani © Erica")
 
 **Pasta con Zucca e Pomodori Secchi** un piatto di pasta vegano super saporito e confortante. Si prepara in un attimo ed è veramente molto buono!
 <br />
@@ -27,7 +27,7 @@ Io ho usato la zucca Delica, ma se usate la Hokkaido potete mangiarla con tutta 
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Pasta con Zucca e Pomodori Secchi</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2015-09-06-pasta-con-zucca-e-pomodori-secchi/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Pasta con Zucca e Pomodori Secchi, un piatto di pasta vegano super saporito e confortante. Si prepara in un attimo ed è veramente molto buono!</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -77,29 +77,29 @@ Io ho usato la zucca Delica, ma se usate la Hokkaido potete mangiarla con tutta 
 </h3>
 
 Sbucciate (se c'è bisogno) e tagliate la zucca a pezzettini. Tagliate lo scalogno a fettine e mettetelo a soffriggere con un po' di olio ed un pizzico di sale. Quando si sarà ammorbidito aggiungete la zucca, fate rosolare un attimo e poi aggiungete un po' d'acqua. Chiudete con un coperchio e fate cuocere a temperatura media finché la zucca sarà cotta. Tagliate i pomodori secchi a pezzettini, spezzettate qualche fogliolina di basilico e aggiungeteli alla zucca. Provate se va bene di sale, altrimenti aggiustate.
-![](zucca.jpeg "frangipani © Erica")
+![](../2015-09-06-pasta-con-zucca-e-pomodori-secchi/zucca.jpeg "frangipani © Erica")
 
 Mettete abbondante acqua a bollire, salatela e buttate la pasta. Scolate la pasta ancora al dente e versatela nella padella con la zucca. Fate mantecare il tutto per qualche minuto aggiungendo un po' d'acqua di cottura. Impiattate e servite subito. Se volete nel piatto aggiungete un filo di olio di semi di zucca.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2015-09-06-pasta-con-zucca-e-pomodori-secchi/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2015-09-06-pasta-con-zucca-e-pomodori-secchi/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2015-09-06-pasta-con-zucca-e-pomodori-secchi/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2015-09-06-pasta-con-zucca-e-pomodori-secchi/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2015-09-06-pasta-con-zucca-e-pomodori-secchi/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2015-09-06-pasta-con-zucca-e-pomodori-secchi/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

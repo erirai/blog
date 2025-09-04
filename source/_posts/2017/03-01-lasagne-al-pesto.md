@@ -11,7 +11,7 @@ categories:
 label: 2017-03-01-lasagne-al-pesto
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2017-03-01-lasagne-al-pesto/header.jpg "frangipani © Erica")
 
 > Benvenuto Marzo!
 
@@ -79,23 +79,23 @@ Avete presente quando vi mettete in testa di preparare qualcosa, poi andate in s
 </h3>
 
 Per prima cosa preparate il pesto: lavate il basilico ed eliminate gli steli più duri. Mettete in un recipiente stretto e alto le foglie di basilico ancora bagnate, i pinoli, una bella spolverata di parmigiano grattugiato e un bel filo d'olio. Frullate il tutto con il mixer ad immersione. Se dovesse risultare troppo asciutto, aggiungete qualche goccia d'acqua.
-![](pesto.jpg "frangipani © Erica")
+![](../2017-03-01-lasagne-al-pesto/pesto.jpg "frangipani © Erica")
 
 Adesso preparate la besciamella. Mettete la farina in un pentolino capiente e aggiungete a filo un po' di latte e sempre mescolando fate sciogliere la farina, attenzione a non creare grumi. Poi aggiungete il resto del latte e un cucchiaino di sale e mettete sui fornelli a temperatura moderata. Portate ad ebollizione la besciamella sempre mescolando, dal momento che bolle continuate a mescolare per 30 secondi o finché si sarà addensata un po'. In questo caso la besciamella non deve essere troppo densa, ma rimanere abbastanza liquida. Togliete dai fuochi e aggiungete la noce moscata, se c'è bisogno aggiustate di sale.
-![](besciamella.jpg "frangipani © Erica")
+![](../2017-03-01-lasagne-al-pesto/besciamella.jpg "frangipani © Erica")
 
 Adesso prendete una pirofila e imburratela. Mettete sul fondo qualche cucchiaio di besciamella poi adagiateci su le sfoglie. Spalmate sulle sfoglie qualche cucchiaio di besciamella e un bel cucchiaio di pesto e distribuite bene. Poi aggiungete un po' di mozzarella spezzettata e una bella spolverata di parmigiano grattugiato.
-![](comporre.jpg "frangipani © Erica")
+![](../2017-03-01-lasagne-al-pesto/comporre.jpg "frangipani © Erica")
 
 Ripetete finché avrete raggiunto il bordo della pirofila. Se volete aggiungete alla fine una manciata di pinoli tostati.
-![](teglia.jpg "frangipani © Erica")
+![](../2017-03-01-lasagne-al-pesto/teglia.jpg "frangipani © Erica")
 
 Infornatela nel forno preriscaldato a 200°C ventilato coperta con un foglio di carta stagnola per mezz'oretta. Dopo 20min togliete la carta stagnola in modo che si crei la crosticina. Aspettate un 10min prima di tagliarla, in questo modo si compatterà e sarà più facile servirla.
-![](risultato1.jpg "frangipani © Erica")
+![](../2017-03-01-lasagne-al-pesto/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2017-03-01-lasagne-al-pesto/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2017-03-01-lasagne-al-pesto/risultato3.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

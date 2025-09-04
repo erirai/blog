@@ -9,7 +9,7 @@ categories:
 - "Piccola Pasticceria"
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2014-02-28-chiacchiere/header.jpg "frangipani © Erica")
 
 > Grazie Lucia per questa fantastica ricetta!
 
@@ -80,29 +80,29 @@ Chiacchiere di Carnevale fritte e al forno, voi quale preferite? Quando ancora l
 </h3>
 
 Mettete il burro o la margarina, lo zucchero, lo zucchero vanigliato, il sale e le uova in una ciotola e mescolate tutto con il mixer, poi aggiungete il vino bianco e l'acqua e continuate a mescolare. Per finire aggiungete la farina e impastate il tutto con le mani. L'impasto risulterà abbastanza sodo poi copritelo e fatelo riposare a temperatura ambiente per ca. 30min.
-![](impasto.jpg "frangipani © Erica")
+![](../2014-02-28-chiacchiere/impasto.jpg "frangipani © Erica")
 
 Poi stendete l'impasto con il mattarello finché avrà uno spessore di ca. 3-4mm. Tagliate dei rettangoli o fate dei nodini aiutandovi con un coltello o con una rotellina, come preferite voi.
-![](tagliate.jpg "frangipani © Erica")
+![](../2014-02-28-chiacchiere/tagliate.jpg "frangipani © Erica")
 
 Fate riscaldare l'olio in una padella, quando avrà la temperatura giusta mettete le chiacchiere a friggere poche alla volta. Friggetele finché saranno ben dorate (basta girarle solo una volta), ma fate attenzione che si bruciano molto velocemente, come purtroppo è successo a me... Quando sono pronte, mettetele su della carta assorbente per far togliere l'olio in eccesso.
-![](fritte.jpg "frangipani © Erica")
+![](../2014-02-28-chiacchiere/fritte.jpg "frangipani © Erica")
 
 Quando si saranno raffreddate cospargetele con abbondante zucchero a velo e mangiatele subito!
-![](risultato1.jpg "frangipani © Erica")
+![](../2014-02-28-chiacchiere/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2014-02-28-chiacchiere/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2014-02-28-chiacchiere/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2014-02-28-chiacchiere/risultato4.jpg "frangipani © Erica")
 
 Per la versione al forno dopo che avrete tagliato dei rettangoli, metteteli su di una leccarda con sotto della carta forno e spennellateli completamente con olio di semi. Infornateli nel forno preriscaldato statico a 190°C per 8min. Prima di servirli spolverateli con dello zucchero a velo.
-![](risultato5.jpg "frangipani © Erica")
+![](../2014-02-28-chiacchiere/risultato5.jpg "frangipani © Erica")
 
-![](risultato6.jpg "frangipani © Erica")
+![](../2014-02-28-chiacchiere/risultato6.jpg "frangipani © Erica")
 
-![](risultato7.jpg "frangipani © Erica")
+![](../2014-02-28-chiacchiere/risultato7.jpg "frangipani © Erica")
 
 
 

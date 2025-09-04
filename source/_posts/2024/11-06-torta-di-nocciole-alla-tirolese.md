@@ -12,7 +12,7 @@ categories:
 label: 2024-11-06-torta-di-nocciole-alla-tirolese
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2024-11-06-torta-di-nocciole-alla-tirolese/header.jpeg "frangipani © Erica")
 
 **Torta di Nocciole alla Tirolese** una torta rustica dai gusti decisi e facilissima da preparare. Fa parte della categoria: butta tutti gli ingredienti in una ciotola, mescola ed io gioco è fatto!
 
@@ -27,7 +27,7 @@ Poi è anche la mia prima nuova ricetta dalla casa nuova... Può sembrare niente
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Torta di Nocciole alla Tirolese</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2024-11-06-torta-di-nocciole-alla-tirolese/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Torta di Nocciole alla Tirolese, una torta rustica dai gusti decisi e facilissima da preparare. Fa parte della categoria: butta tutti gli ingredienti in una ciotola, mescola ed io gioco è fatto!</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -92,45 +92,45 @@ Poi è anche la mia prima nuova ricetta dalla casa nuova... Può sembrare niente
 </h3>
 
 Mettete tutti gli ingredienti nella planetaria e mescolate tutto velocemente. Versate l'impasto in una teglia per Plumcake da 25cm precedentemente imburrata ed infarinata.
-![](teglia.jpeg "frangipani © Erica")
+![](../2024-11-06-torta-di-nocciole-alla-tirolese/teglia.jpeg "frangipani © Erica")
 
 Infornate la **Torta di Nocciole alla Tirolese** nel forno preriscaldato a 180°C ventilato per 50min circa, fate comunque la prova stecchino. Fatela intiepidire prima di uscirla dalla teglia e fatela raffreddare su di una griglia.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-11-06-torta-di-nocciole-alla-tirolese/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-11-06-torta-di-nocciole-alla-tirolese/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-11-06-torta-di-nocciole-alla-tirolese/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-11-06-torta-di-nocciole-alla-tirolese/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-11-06-torta-di-nocciole-alla-tirolese/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-11-06-torta-di-nocciole-alla-tirolese/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-11-06-torta-di-nocciole-alla-tirolese/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-11-06-torta-di-nocciole-alla-tirolese/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-11-06-torta-di-nocciole-alla-tirolese/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-11-06-torta-di-nocciole-alla-tirolese/risultato10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

@@ -10,7 +10,7 @@ categories:
 label: 2021-02-09-fluffosa-red-velvet-farcita-con-camy-cream
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2021-02-09-fluffosa-red-velvet-farcita-con-camy-cream/header.jpeg "frangipani © Erica")
 
 **Fluffosa Red Velvet farcita con Camy Cream** un classico leggermente rivisitato e un dolce perfetto per San Valentino o Natale. La Fluffosa (o Chiffon Cake) soffice come una nuvoletta, dal colore rosso e dal gusto delicato, farcita con una meravigliosa Camy Cream, la crema più facile al mondo!
 <br />
@@ -25,7 +25,7 @@ Vi auguro un buon San Valentino! Ma mi raccomando, siate gentili ogni giorno... 
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Fluffosa Red Velvet farcita con Camy Cream</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2021-02-09-fluffosa-red-velvet-farcita-con-camy-cream/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Fluffosa Red Velvet farcita con Camy Cream** un classico leggermente rivisitato e un dolce perfetto per San Valentino o Natale.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -120,9 +120,9 @@ Separate gli albumi dai tuorli e montate a neve gli albumi con due gocce di succ
 Poi infornate la Fluffosa nel forno preriscaldato a 160°C statico per 70-75min, come sempre fate la prova stecchino. Appena sfornata, capovolgetela e lasciatela raffreddare in questa posizione finché lei non si staccherà da sola, ci vorrà qualche oretta. Se non si staccherà da sola, staccatela voi delicatamente.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 32%; margin-right: 1%;" src="impasto.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="teglia.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-left: 1%;" src="tegliagirata.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%;" src="../2021-02-09-fluffosa-red-velvet-farcita-con-camy-cream/impasto.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="../2021-02-09-fluffosa-red-velvet-farcita-con-camy-cream/teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-left: 1%;" src="../2021-02-09-fluffosa-red-velvet-farcita-con-camy-cream/tegliagirata.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -132,9 +132,9 @@ Nel frattempo preparate la Camy Cream. Mettete tutti gli ingredienti ben freddi 
 Prendete la Fluffosa Red Velvet e tagliatela in verticale in tre parti uguali. Mettete la Camy Cream nella sacca da pasticcere con bocchetta tonda e liscia. Prendete il primo disco e mettetelo su di un piatto da portata e formate tanti ciuffi regolari coprendo la superficie (solo dove avete tagliato). Coprite con il secondo disco, coprite di nuovo con ciuffi di Camy Cream, mettete l'ultimo disco e finite con i ciuffi di Camy Cream.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 32%; margin-right: 1%;" src="camycream.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="fluffosa.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-left: 1%;" src="farcire.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%;" src="../2021-02-09-fluffosa-red-velvet-farcita-con-camy-cream/camycream.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="../2021-02-09-fluffosa-red-velvet-farcita-con-camy-cream/fluffosa.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-left: 1%;" src="../2021-02-09-fluffosa-red-velvet-farcita-con-camy-cream/farcire.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -142,37 +142,37 @@ Prendete la Fluffosa Red Velvet e tagliatela in verticale in tre parti uguali. M
 Mettete in frigo un'oretta prima di servirla! Conservarla in frigo se rimane...
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-02-09-fluffosa-red-velvet-farcita-con-camy-cream/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-02-09-fluffosa-red-velvet-farcita-con-camy-cream/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-02-09-fluffosa-red-velvet-farcita-con-camy-cream/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-02-09-fluffosa-red-velvet-farcita-con-camy-cream/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-02-09-fluffosa-red-velvet-farcita-con-camy-cream/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-02-09-fluffosa-red-velvet-farcita-con-camy-cream/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-02-09-fluffosa-red-velvet-farcita-con-camy-cream/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-02-09-fluffosa-red-velvet-farcita-con-camy-cream/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato9.jpeg "frangipani © Erica")
+![](../2021-02-09-fluffosa-red-velvet-farcita-con-camy-cream/risultato9.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

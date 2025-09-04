@@ -11,7 +11,7 @@ categories:
 label: 2020-09-01-ciambella-alle-more
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2020-09-01-ciambella-alle-more/header.jpeg "frangipani © Erica")
 
 **Ciambella alle More** un ottima torta soffice e succosa, perfetta per la colazione o la merenda. Una torta che sa di tarda estate, più sostanziosa ma con la leggerezza dei frutti di bosco, che fortunatamente ci accompagneranno ancora per un po'. Un impasto facilissimo da preparare con il bonus delle more, che quest'anno sono più buone del solito.
 <br />
@@ -26,7 +26,7 @@ Ieri mattina siamo di nuovo andati a fare una bella passeggiata e c'era la nebbi
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Ciambella alle More</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-09-01-ciambella-alle-more/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Ciambella alle More un ottima torta soffice e succosa, perfetta per la colazione o la merenda. Una torta che sa di tarda estate, più sostanziosa ma con la leggerezza dei frutti di bosco.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -100,44 +100,44 @@ Per prima cosa imburrate ed infarinate la teglia. In una coppetta mettete il bur
 Preparate l'impasto: montate le uova con lo zucchero e un pizzico di sale finché saranno chiari e spumosi. Sempre mescolando aggiungete la panna, poi l'olio e la vaniglia. In una coppetta a parte mescolate la farina, l'amido e il lievito, poi aggiungete anche questi al composto con le uova e mescolate bene finché tutto sarà perfettamente amalgamato. Versate l'impasto nella teglia con le more alla base e livellate bene.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="more.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-09-01-ciambella-alle-more/more.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-09-01-ciambella-alle-more/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 Infornate la torta nel forno preriscaldato statico a 180°C per circa 40min, mi raccomando fate sempre la prova stecchino. Fate reffreddare la ciambella direttamente nella teglia, poi scaravoltatela su di un piatto da portata e se volete mettete una bella spolverata di zucchero e cannella.
-![](risultato1.jpeg "frangipani © Erica")
+![](../2020-09-01-ciambella-alle-more/risultato1.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-09-01-ciambella-alle-more/risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-09-01-ciambella-alle-more/risultato3.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato4.jpeg "frangipani © Erica")
+![](../2020-09-01-ciambella-alle-more/risultato4.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-09-01-ciambella-alle-more/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-09-01-ciambella-alle-more/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato7.jpeg "frangipani © Erica")
+![](../2020-09-01-ciambella-alle-more/risultato7.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-09-01-ciambella-alle-more/risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-09-01-ciambella-alle-more/risultato9.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato10.jpeg "frangipani © Erica")
+![](../2020-09-01-ciambella-alle-more/risultato10.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

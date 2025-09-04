@@ -11,7 +11,7 @@ categories:
 label: 2017-01-18-torta-rovesciata-alle-arance
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2017-01-18-torta-rovesciata-alle-arance-vegan/header.jpg "frangipani © Erica")
 
 Dopo tutti i dolci di natale, avevamo bisogno di una pausa. Anche perché avevamo ancora due panettoni artigianali che erano la fine del mondo! Uno con una crema di arance rosse e l'altro con gocce di cioccolato fondente e crema di cioccolato bianco. I panettoni più buoni che io abbia mai mangiato! Poi ci siamo accorti, che il nostro piccolino è un gran golosone. Adora i dolci, ma soprattutto le torte semplici con il cioccolato. Invece la grande ne prende due o tre morsi e poi basta. Lei preferisce un pezzetto di cioccolato o ancora di più l'uvetta, cosa che io non riesco proprio a mangiare. Come siamo diversi... Ma è giusto che sia così! 
 
@@ -95,34 +95,34 @@ Siamo in pieno periodo di arance e le arance rosse sono una meraviglia. Qualche 
 </h3>
 
 Tagliate a fettine le arance e mettetele da parte. Decidete voi se lasciare la buccia o meno. Amalgamate la margarina con 3 cucchiai di zucchero finché diventa morbido.
-![](margarina.jpg "frangipani © Erica")
+![](../2017-01-18-torta-rovesciata-alle-arance-vegan/margarina.jpg "frangipani © Erica")
 
 Imburrate ed infarinate la teglia, poi spalmate sul fondo e sui bordi il miscuglio di margarina e zucchero.
-![](base.jpg "frangipani © Erica")
+![](../2017-01-18-torta-rovesciata-alle-arance-vegan/base.jpg "frangipani © Erica")
 
 Poi sistemate le fette d'arancia sulla base e sui bordi.
-![](arance.jpg "frangipani © Erica")
+![](../2017-01-18-torta-rovesciata-alle-arance-vegan/arance.jpg "frangipani © Erica")
 
 Adesso preparate l'impasto. Mettete la farina, lo zucchero, le mandorle macinate, il bicarbonato, i semi della vaniglia e un pizzico di sale in una coppa e mescoalte tutto. Poi aggiungete il succo d'arancia, l'acqua, l'olio e l'aceto. Amalgamate bene velocemente.
-![](impasto.jpg "frangipani © Erica")
+![](../2017-01-18-torta-rovesciata-alle-arance-vegan/impasto.jpg "frangipani © Erica")
 
 Versate metà dell'impasto nella teglia e livellate. Aggiungete qualche cucchiaiata di marmellata e livellate di nuovo.
-![](marmellata.jpg "frangipani © Erica")
+![](../2017-01-18-torta-rovesciata-alle-arance-vegan/marmellata.jpg "frangipani © Erica")
 
 Aggiungete il resto dell'impasto e livellate.
-![](teglia.jpg "frangipani © Erica")
+![](../2017-01-18-torta-rovesciata-alle-arance-vegan/teglia.jpg "frangipani © Erica")
 
 {% youtube HXT7-ik6IT0 %}
 
 Infornate la torta nel forno preriscaldato a 180°C ventilato per 30min circa, mi raccomando fate la prova stecchino. 
-![](sfornata.jpg "frangipani © Erica")
+![](../2017-01-18-torta-rovesciata-alle-arance-vegan/sfornata.jpg "frangipani © Erica")
 
 Fatela intiepidire un'attimino, poi rovesciatela sul piatto da portata.
-![](risultato1.jpg "frangipani © Erica")
+![](../2017-01-18-torta-rovesciata-alle-arance-vegan/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2017-01-18-torta-rovesciata-alle-arance-vegan/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2017-01-18-torta-rovesciata-alle-arance-vegan/risultato3.jpg "frangipani © Erica")
 
 
 <h4>Buon appetito

@@ -12,7 +12,7 @@ categories:
 label: 2024-09-11-focaccia-dolce-all-uva
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2024-09-11-focaccia-dolce-all-uva/header.jpeg "frangipani © Erica")
 
 Pubblicità: **Focaccia dolce all'Uva** in collaborazione con <a href="https://www.farmy.ch" target="_blank">Farmy</a>. Perfetta per la merenda, con la sua crosticina, piena di bolle e succosi acini d'uva. Ma anche in combinazione con un formaggio saporito... È un gusto insolito, ma così semplice e buono. Uso pochissimo l'uva in cucina, a parte mangiarla così fresca, ma questa focaccia mi è piaciuta veramente tanto!
 <br />
@@ -27,7 +27,7 @@ Se avete voglia di preparare questa ricetta, ordinate tutti gli ingredienti su <
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Focaccia dolce all'Uva</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2024-09-11-focaccia-dolce-all-uva/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Focaccia dolce all'Uva perfetta per la merenda, con la sua crosticina, piena di bolle e succosi acini d'uva.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -86,8 +86,8 @@ Fate sciogliere il burro, poi versatelo sulla focaccia e con le mani cospargetel
 Tagliate a metà gli acini d'uva ed eliminate i semini. Distribuiteli su tutta la focaccia schiacciandoli nell'impasto. Fate riposare per un'altra mezz'oretta, poi cospargete su tutta la focaccia un po' di zucchero di canna.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="teglia1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-09-11-focaccia-dolce-all-uva/teglia1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-09-11-focaccia-dolce-all-uva/teglia2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -95,40 +95,40 @@ Tagliate a metà gli acini d'uva ed eliminate i semini. Distribuiteli su tutta l
 Infornate la **Focaccia dolce all'Uva** nel forno preriscaldato a 220°C statico per 15-20min circa, si dovrà dorare, ma non bruciare. Una volta sfornata passatela subito su di una griglia e mangiatela ancora calda... ma anche fredda è buona!
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-09-11-focaccia-dolce-all-uva/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-09-11-focaccia-dolce-all-uva/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-09-11-focaccia-dolce-all-uva/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-09-11-focaccia-dolce-all-uva/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-09-11-focaccia-dolce-all-uva/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-09-11-focaccia-dolce-all-uva/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-09-11-focaccia-dolce-all-uva/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-09-11-focaccia-dolce-all-uva/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-09-11-focaccia-dolce-all-uva/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-09-11-focaccia-dolce-all-uva/risultato10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

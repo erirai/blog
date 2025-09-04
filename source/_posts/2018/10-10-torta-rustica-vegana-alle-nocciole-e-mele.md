@@ -12,7 +12,7 @@ categories:
 label: 2018-10-10-torta-vegana-rustica-alle-nocciole-e-mele
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2018-10-10-torta-rustica-vegana-alle-nocciole-e-mele/header.jpg "frangipani © Erica")
 
 **Torta vegana rustica alle Nocciole e Mele**, una torta autunnale piena di gusto, piena di nocciole e piena di mele... Una vera coccola questa torta! In realtà è un impasto che uso molto spesso perché mi piace troppo! Si può fare con le nocciole e/o con le mandorle... Come i miei <a href="https://frangipani.raiano.ch/2016-11-23-cupcakes-rocher/" target="_blank">Cupcakes Rocher</a> o i <a href="https://frangipani.raiano.ch/2015-05-08-muffin-alle-mandorle-con-cuore-di-cioccolato/" target="_blank">Muffin alle Mandorle con Cuore di Cioccolato</a>... Una volta ho pure fatto una torta Rocher per il compleanno di mia sorella, sempre con lo stesso impasto e frosting dei Cupcakes... L'impasto è pericolosissimo soprattutto perché crudo è la fine del mondo! Questa volta non ho voluto mettere le mele all'interno ma disporle sopra l'impasto, solo che ho fatto un errore. Ho messo la mela anche al centro e sarebbe stato meglio non farlo perché non voleva cuocersi. Ai lati era cotta, ma al centro ci ha messo di più... Voi comunque non fate lo stesso errore e mettete le mele solo attorno o direttamente a pezzetti dentro l'impasto!
 
@@ -23,7 +23,7 @@ E niente... cosa raccontarvi? Venerdì scorso ho avuto una giornata NO! Non avev
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Torta Rustica vegana alle Nocciole e Mele</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2018-10-10-torta-rustica-vegana-alle-nocciole-e-mele/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Torta vegana rustica alle Nocciole e Mele, una torta autunnale piena di gusto, piena di nocciole e piena di mele... Una vera coccola questa torta!</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -95,29 +95,29 @@ E niente... cosa raccontarvi? Venerdì scorso ho avuto una giornata NO! Non avev
 
 Prendete una ciotola capiente e versateci la farina, lo zucchero, le nocciole macinate, il lievito, il bicarbonato, la vaniglia ed il sale e mescolate il tutto.
 Poi aggiungete l'aceto, l'olio di semi ed il latte alla nocciola e mescolate finché avrete un impasto bello liscio. Versate l'impasto in una teglia imburrata ed infarinata e livellate bene. Pelate le mele e tagliatele a metà. Eliminate il torsolo, poi tagliatele a fettine sottili tenendo la forma della mezza mela.
-![](mela.jpg "frangipani © Erica")
+![](../2018-10-10-torta-rustica-vegana-alle-nocciole-e-mele/mela.jpg "frangipani © Erica")
 
 Disponete le mele tutt'attorno sull'impasto (il centro lasciatelo libero, così agevolate la cottura della torta, io ho sbagliato a metterla), poi tagliate le nocciole grossolanamente col coltello e distribuite anch'esse sull'impasto.
-![](teglia.jpg "frangipani © Erica")
+![](../2018-10-10-torta-rustica-vegana-alle-nocciole-e-mele/teglia.jpg "frangipani © Erica")
 
 Adesso infornate la torta vegana di nocciole nel forno preriscaldato a 180°C statico per ca. 1 oretta, mi raccomando fate sempre la prova stecchino. Dopo mezz'ora io l'ho coperta con un foglio di carta d'alluminio per non farla bruciare e ho terminato così la cottura. 
-![](risultato1.jpg "frangipani © Erica")
+![](../2018-10-10-torta-rustica-vegana-alle-nocciole-e-mele/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2018-10-10-torta-rustica-vegana-alle-nocciole-e-mele/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2018-10-10-torta-rustica-vegana-alle-nocciole-e-mele/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2018-10-10-torta-rustica-vegana-alle-nocciole-e-mele/risultato4.jpg "frangipani © Erica")
 
-![](risultato5.jpg "frangipani © Erica")
+![](../2018-10-10-torta-rustica-vegana-alle-nocciole-e-mele/risultato5.jpg "frangipani © Erica")
 
-![](risultato6.jpg "frangipani © Erica")
+![](../2018-10-10-torta-rustica-vegana-alle-nocciole-e-mele/risultato6.jpg "frangipani © Erica")
 
-![](risultato7.jpg "frangipani © Erica")
+![](../2018-10-10-torta-rustica-vegana-alle-nocciole-e-mele/risultato7.jpg "frangipani © Erica")
 
-![](risultato8.jpg "frangipani © Erica")
+![](../2018-10-10-torta-rustica-vegana-alle-nocciole-e-mele/risultato8.jpg "frangipani © Erica")
 
-![](risultato9.jpg "frangipani © Erica")
+![](../2018-10-10-torta-rustica-vegana-alle-nocciole-e-mele/risultato9.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

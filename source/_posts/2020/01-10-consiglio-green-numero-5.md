@@ -9,7 +9,7 @@ categories:
 label: 2020-01-10-consiglio-5
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2020-01-10-consiglio-green-numero-5/header.jpeg "frangipani © Erica")
 
 <h3>
   <font color="grey">
@@ -31,8 +31,8 @@ Ci prepariamo dei panini per il pranzo e li avvolgiamo nella pellicola.
 Potrei continuare, ma penso che il concetto sia chiaro. Cosa succede dopo con la pellicola? Ovvio, la buttiamo via! Ogni tanto la pellicola è utile, ma quasi sempre possiamo sostituirla con qualcosa di più sostenibile senza causare rifiuti. 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="green1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="green2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-01-10-consiglio-green-numero-5/green1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-01-10-consiglio-green-numero-5/green2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -57,8 +57,8 @@ Dopo averli usati, si possono sciacquare con acqua fredda, al massimo tiepida. S
 Non si possono usare ne con la carne e ne con il pesce. Tengono fino ad un anno, se usati poco anche più a lungo. Comunque ve ne accorgete, quando è arrivata l'ora di cambiarli.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="green3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="green4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-01-10-consiglio-green-numero-5/green3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-01-10-consiglio-green-numero-5/green4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -77,8 +77,8 @@ Non sono adatti per il congelatore perché la cera si sgretolerebbe. In estate, 
 Li uso ormai da un anno e non potrei più farne a meno. La pellicola praticamente non la uso più! Provateci anche voi...
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="green5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="green6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-01-10-consiglio-green-numero-5/green5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-01-10-consiglio-green-numero-5/green6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

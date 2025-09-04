@@ -12,7 +12,7 @@ categories:
 label: 2021-05-04-torta-morbida-con-rabarbaro-e-cioccolato-ruby
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2021-05-04-torta-morbida-con-rabarbaro-e-cioccolato-ruby/header.jpeg "frangipani © Erica")
 
 **Torta morbida con Rabarbaro e Cioccolato Ruby** una torta facilissima e semplicissima ma di un gusto così buono che non sembra vero! Amo il rabarbaro e in combinazione con il cioccolato ruby è un sogno. Se però non avete il cioccolato ruby, potete usare benissimo anche il cioccolato bianco (non quello al latte o quello fondente, non ci sta). In più mi sembra un ottimo dolce da preparare per la Festa della Mamma, no?
 <br />
@@ -27,7 +27,7 @@ Devo ammettere che mi era venuta un'insicurezza terribile. Non so perché, ma se
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Torta morbida con Rabarbaro e Cioccolato Ruby</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2021-05-04-torta-morbida-con-rabarbaro-e-cioccolato-ruby/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Torta morbida con Rabarbaro e Cioccolato Ruby una torta facilissima e semplicissima ma di un gusto così buono che non sembra vero!</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -102,8 +102,8 @@ Lavorate con le fruste elettriche il burro, lo zucchero e un pizzico di sale, po
 Versate l'impasto in uno stampo da 20-22cm precedentemente imburrato ed infarinato. Livellate un po', distribuiteci sopra il rabarbaro con tutto il succo.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="impasto.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-05-04-torta-morbida-con-rabarbaro-e-cioccolato-ruby/impasto.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-05-04-torta-morbida-con-rabarbaro-e-cioccolato-ruby/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -111,40 +111,40 @@ Versate l'impasto in uno stampo da 20-22cm precedentemente imburrato ed infarina
 Infornate la torta nel forno preriscaldato a 180°C ventilato per 10min, poi abbassate a 160°C e continuate la cottura per altri 45min. Mi raccomando fate sempre la prova stecchino. Fatela intiepidire prima di tagliarla...
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-05-04-torta-morbida-con-rabarbaro-e-cioccolato-ruby/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-05-04-torta-morbida-con-rabarbaro-e-cioccolato-ruby/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-05-04-torta-morbida-con-rabarbaro-e-cioccolato-ruby/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-05-04-torta-morbida-con-rabarbaro-e-cioccolato-ruby/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-05-04-torta-morbida-con-rabarbaro-e-cioccolato-ruby/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-05-04-torta-morbida-con-rabarbaro-e-cioccolato-ruby/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-05-04-torta-morbida-con-rabarbaro-e-cioccolato-ruby/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-05-04-torta-morbida-con-rabarbaro-e-cioccolato-ruby/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-05-04-torta-morbida-con-rabarbaro-e-cioccolato-ruby/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-05-04-torta-morbida-con-rabarbaro-e-cioccolato-ruby/risultato10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

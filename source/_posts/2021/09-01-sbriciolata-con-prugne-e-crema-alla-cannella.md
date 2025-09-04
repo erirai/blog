@@ -12,7 +12,7 @@ categories:
 label: 2021-09-01-sbriciolata-con-prugne-e-crema-alla-cannella
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2021-09-01-sbriciolata-con-prugne-e-crema-alla-cannella/header.jpeg "frangipani © Erica")
 
 **Sbriciolata con Prugne e Crema alla Cannella** una torta che sa di tarda estate, di autunno. Dai gusti caldi e confortevoli, come le prugne cotte con la cannella. E il tutto racchiuso in un guscio di frolla sbriciolosa.
 <br />
@@ -35,7 +35,7 @@ Avevo un desiderio per il mio compleanno: vedere mia nonna e mangiare la granita
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Sbriciolata con Prugne e Crema alla Cannella</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2021-09-01-sbriciolata-con-prugne-e-crema-alla-cannella/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Sbriciolata con Prugne e Crema alla Cannella una torta che sa di tarda estate, di autunno. Dai gusti caldi e confortevoli, come le prugne cotte con la cannella. E il tutto racchiuso in un guscio di frolla sbriciolosa.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -123,8 +123,8 @@ Per prima cosa preparate la crema alla cannella. Montate l'uovo con lo zucchero 
 Per la frolla impastate in una coppa velocemente farina, zucchero, sale, burro e uovo. Dovrete ottenere un composto sabbioso, bricioloso. 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="crema.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="frolla.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-09-01-sbriciolata-con-prugne-e-crema-alla-cannella/crema.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-09-01-sbriciolata-con-prugne-e-crema-alla-cannella/frolla.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -134,8 +134,8 @@ Versate 2/3 dell'impasto in una teglia rotonda a cerniera ricoperta di carta for
 Aggiungete le nocciole e la cannella in polvere, quanto basta, al resto della frolla e amalgamate il tutto con le punte delle dita. Poi sbriciolate il tutto uniformemente sulle prugne.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="prugne.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-09-01-sbriciolata-con-prugne-e-crema-alla-cannella/prugne.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-09-01-sbriciolata-con-prugne-e-crema-alla-cannella/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -143,48 +143,48 @@ Aggiungete le nocciole e la cannella in polvere, quanto basta, al resto della fr
 Infornate la Sbriciolata nel forno preriscaldato statico a 180°C per ca. 40min. Dovrà avere un colore dorato, non troppo scuro. Fatela raffreddare completamente prima di toglierla dalla teglia. Conservatela in frigo...
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-09-01-sbriciolata-con-prugne-e-crema-alla-cannella/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-09-01-sbriciolata-con-prugne-e-crema-alla-cannella/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-09-01-sbriciolata-con-prugne-e-crema-alla-cannella/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-09-01-sbriciolata-con-prugne-e-crema-alla-cannella/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-09-01-sbriciolata-con-prugne-e-crema-alla-cannella/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-09-01-sbriciolata-con-prugne-e-crema-alla-cannella/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-09-01-sbriciolata-con-prugne-e-crema-alla-cannella/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-09-01-sbriciolata-con-prugne-e-crema-alla-cannella/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-09-01-sbriciolata-con-prugne-e-crema-alla-cannella/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-09-01-sbriciolata-con-prugne-e-crema-alla-cannella/risultato10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato11.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato12.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-09-01-sbriciolata-con-prugne-e-crema-alla-cannella/risultato11.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-09-01-sbriciolata-con-prugne-e-crema-alla-cannella/risultato12.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

@@ -12,7 +12,7 @@ categories:
 label: 2023-08-30-gelato-al-cannolo
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2023-08-30-gelato-al-cannolo/header.jpeg "frangipani © Erica")
 
 **Gelato al Cannolo senza gelatiera** un gelato facilissimo da preparare e di una bontà pazzesca che sa di Sicilia. Si fa con pochissimi ingredienti, senza panna ne uova... Infatti per il gelato alla ricotta servono solo ricotta, latte condensato e del liquore. Il liquore non è obbligatorio, ma serve per non far creare cristalli di ghiaccio durante il congelamento. Il gelato alla ricotta diventa un gelato al cannolo, semplicemente aggiungendo il cioccolato tritato e le briciole di scorze di cannolo. Ma potete fare anche un gelato alla ricotta e frutta, semplicemente sostituendo cioccolato e scorze di cannolo con della salsa alla frutta o dei biscotti sbriciolati grossolanamente.
 <br />
@@ -29,7 +29,7 @@ Adesso spero che il sole ed il caldo continuino a dare il loro meglio!
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Gelato al Cannolo senza gelatiera</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2023-08-30-gelato-al-cannolo/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Gelato al Cannolo senza gelatiera, un gelato facilissimo da preparare e di una bontà pazzesca che sa di Sicilia.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -71,37 +71,37 @@ Adesso spero che il sole ed il caldo continuino a dare il loro meglio!
 Con una frusta a mano ammorbidite la ricotta rendendola cremosa. Sempre mescolando aggiungete a filo il latte condensato. Quando tutto sarà ben amalgamato, aggiungete il Vermuth (potete usare anche un altro liquore o non metterlo proprio, ma l'alcol aiuta a non far creare cristalli di ghiaccio). A questo punto aggiungete il cioccolato tritato finemente, lasciandone da parte un pochino come decorazione. Per ultimo aggiungete anche le scorze di cannolo sbriciolate grossolanamente, lasciandone da parte qualcuna come decorazione, e molto delicatamente incorporatele nella crema di ricotta.
 
 Mettete il tutto in una pirofila adatta al congelatore e livellate bene, distribuiteci sopra il resto del cioccolato tritato e delle scorze di cannolo. Coprite con della carta d'alluminio e mettete in congelatore almeno per tutta la notte.
-![](gelato.jpeg "frangipani © Erica")
+![](../2023-08-30-gelato-al-cannolo/gelato.jpeg "frangipani © Erica")
 
 Uscite il **Gelato al Cannolo** dal congelatore e lasciate a temperatura ambiente per almeno 15min. Servite il gelato in una coppetta o addirittura direttamente dentro una scorza di cannolo...
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-08-30-gelato-al-cannolo/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-08-30-gelato-al-cannolo/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-08-30-gelato-al-cannolo/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-08-30-gelato-al-cannolo/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-08-30-gelato-al-cannolo/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-08-30-gelato-al-cannolo/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-08-30-gelato-al-cannolo/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-08-30-gelato-al-cannolo/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

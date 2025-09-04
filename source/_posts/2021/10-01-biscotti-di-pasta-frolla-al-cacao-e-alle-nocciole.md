@@ -12,7 +12,7 @@ categories:
 label: 2021-10-01-biscotti-di-pasta-frolla-al-cacao-e-alle-nocciole
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2021-10-01-biscotti-di-pasta-frolla-al-cacao-e-alle-nocciole/header.jpeg "frangipani © Erica")
 
 **Biscotti di Pasta Frolla al Cacao e alle Nocciole** che sanno tanto di autunno. Friabili, gustosi e belli... una vera e proprio coccola! Perché diciamolo, i biscotti di pasta frolla sono i più buoni. Punto. Questi due tipi sono un po' più rustici, soprattutto quelli con le nocciole e quindi perfetti per l'autunno, direi.
 <br />
@@ -27,7 +27,7 @@ Dunque ricicliamo l'idea per dare il benvenuto al mese di Ottobre...
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Biscotti di Pasta Frolla al Cacao e alle Nocciole</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2021-10-01-biscotti-di-pasta-frolla-al-cacao-e-alle-nocciole/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Biscotti di Pasta Frolla al Cacao e alle Nocciole che sanno tanto di autunno. Friabili, gustosi e belli... una vera e proprio coccola! Perché diciamolo, i biscotti di pasta frolla sono i più buoni. Punto.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -129,8 +129,8 @@ Passato il tempo del riposo, prendete un panetto alla volta, con un matterello s
 Mettete la teglia con i biscotti in frigo per una mezz'oretta, poi se volete potete fare dei disegni sui biscotti. In questo caso prendete un coltello, appoggiate la lama nel cacao amaro e fate i disegni.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="biscotti.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-10-01-biscotti-di-pasta-frolla-al-cacao-e-alle-nocciole/biscotti.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-10-01-biscotti-di-pasta-frolla-al-cacao-e-alle-nocciole/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -140,40 +140,40 @@ Infornate i biscotti nel forno preriscaldato a 180°C ventilato per 12min, non d
 Conservare in un barattolo ermetico.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-10-01-biscotti-di-pasta-frolla-al-cacao-e-alle-nocciole/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-10-01-biscotti-di-pasta-frolla-al-cacao-e-alle-nocciole/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-10-01-biscotti-di-pasta-frolla-al-cacao-e-alle-nocciole/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-10-01-biscotti-di-pasta-frolla-al-cacao-e-alle-nocciole/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-10-01-biscotti-di-pasta-frolla-al-cacao-e-alle-nocciole/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-10-01-biscotti-di-pasta-frolla-al-cacao-e-alle-nocciole/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-10-01-biscotti-di-pasta-frolla-al-cacao-e-alle-nocciole/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-10-01-biscotti-di-pasta-frolla-al-cacao-e-alle-nocciole/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-10-01-biscotti-di-pasta-frolla-al-cacao-e-alle-nocciole/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-10-01-biscotti-di-pasta-frolla-al-cacao-e-alle-nocciole/risultato10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

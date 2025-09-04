@@ -13,7 +13,7 @@ categories:
 label: 2018-04-17-torta-alle-fragole-con-crema-chantilly
 lang: it 
 ---
-![](header.jpg "frangipani © Erica")
+![](../2018-04-17-torta-alle-fragole-con-crema-chantilly/header.jpg "frangipani © Erica")
 
 > Buon Compleanno Amore mio!
 
@@ -108,39 +108,39 @@ Torta di Fragole con Crema Chantilly, un classico della pasticceria svizzera. Qu
 </h3>
 
 Per il bisquit mettete le uova e l'acqua bollente nella planetaria ed iniziate a montarle. Aggiungete anche lo zucchero ed il sale e continuate a montare a massima velocità per 8-10min. In una coppa a parte mescolate e setacciate la farina ed il lievito. Con una spatola incorporate molto delicatamente la farina alle uova con un movimento dall'alto verso il basso. Versate il composto in una teglia imburrata ed infarinata.
-![](teglia.jpg "frangipani © Erica")
+![](../2018-04-17-torta-alle-fragole-con-crema-chantilly/teglia.jpg "frangipani © Erica")
 
 Infornate il bisquit nel forno preriscaldato a 190°C statico per circa 20-25min, mi raccomando fate la prova stecchino. Fate intiepidire nella forma stessa, poi uscitelo dalla forma e fatelo raffreddare completamente. 
-![](bisquit.jpg "frangipani © Erica")
+![](../2018-04-17-torta-alle-fragole-con-crema-chantilly/bisquit.jpg "frangipani © Erica")
 
 Per la crema Chantilly riscaldate il latte insieme alla bacca di vaniglia tagliata a metà. A parte montate i tuorli insieme allo zucchero finché saranno belli gonfi e spumosi, poi aggiungete la farina e continuate a mescolare. Dunque sempre mescolando versate il latte a filo nel composto con le uova, poi versate il tutto di nuovo nel pentolino. A temperatura moderata e sempre mescolando, portate ad ebollizione la crema e cuocetela finché si sarà addensata. Versate la crema in una pirofila e coprite con la pellicola a contatto. Fatela raffreddare completamente. Quando sarà completamente fredda, montate molto bene la panna ed incorporatela alla crema pasticcera con un movimento dall'alto verso il basso.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="cremapasticcera.jpg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="chantilly.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2018-04-17-torta-alle-fragole-con-crema-chantilly/cremapasticcera.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2018-04-17-torta-alle-fragole-con-crema-chantilly/chantilly.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 Tagliate a metà il bisquit e appoggiate un disco su di un piatto da portata. Spalmateci sopra 2/3 della crema Chantilly e coprite con il secondo disco. Ricoprite tutta la torta con il resto della crema, poi fate aderire tutt'attorno le scaglie di mandorle precedentemente tostate, aiutandovi con le mani. Fate riposare la torta in frigo per qualche oretta, meglio ancora per tutta la notte. 
-![](torta.jpg "frangipani © Erica")
+![](../2018-04-17-torta-alle-fragole-con-crema-chantilly/torta.jpg "frangipani © Erica")
 
 Lavate e pulite le fragole, tagliatele a metà e adagiatele sulla torta come più vi piace. Se preparate la torta in anticipo, riscaldate la marmellata e spennellatela sulle fragole. Se la servite subito, non c'è bisogno di spennellare le fragole con la marmellata.
-![](risultato1.jpg "frangipani © Erica")
+![](../2018-04-17-torta-alle-fragole-con-crema-chantilly/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2018-04-17-torta-alle-fragole-con-crema-chantilly/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2018-04-17-torta-alle-fragole-con-crema-chantilly/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2018-04-17-torta-alle-fragole-con-crema-chantilly/risultato4.jpg "frangipani © Erica")
 
-![](risultato5.jpg "frangipani © Erica")
+![](../2018-04-17-torta-alle-fragole-con-crema-chantilly/risultato5.jpg "frangipani © Erica")
 
-![](risultato6.jpg "frangipani © Erica")
+![](../2018-04-17-torta-alle-fragole-con-crema-chantilly/risultato6.jpg "frangipani © Erica")
 
-![](risultato7.jpg "frangipani © Erica")
+![](../2018-04-17-torta-alle-fragole-con-crema-chantilly/risultato7.jpg "frangipani © Erica")
 
-![](risultato8.jpg "frangipani © Erica")
+![](../2018-04-17-torta-alle-fragole-con-crema-chantilly/risultato8.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

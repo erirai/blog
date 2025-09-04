@@ -9,7 +9,7 @@ categories:
 - Torte
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2015-04-16-il-cioccolatone/header.jpg "frangipani © Erica")
 
 > Grazie Mamma per l'aiuto!
 
@@ -78,15 +78,15 @@ Ecco "Il Cioccolatone", il suo nome è tutto un programma... Anche questa torta 
 </h3>
 
 Mettete tutti gli ingredienti in una ciotola e mescolate il tutto con le fruste elettriche o nella planetaria.
-![](vasetto.jpg "frangipani © Erica")
+![](../2015-04-16-il-cioccolatone/vasetto.jpg "frangipani © Erica")
 
-![](impasto.jpg "frangipani © Erica")
+![](../2015-04-16-il-cioccolatone/impasto.jpg "frangipani © Erica")
 
 Poi mettete l'impasto in una teglia da Plumcake precedentemente imburrata ed infarinata.
-![](teglia.jpg "frangipani © Erica")
+![](../2015-04-16-il-cioccolatone/teglia.jpg "frangipani © Erica")
 
 Poi infornate nel forno preriscaldato a 180°C per ca. un'ora. Fate sempre la prova stecchino.
-![](risultato.jpg "frangipani © Erica")
+![](../2015-04-16-il-cioccolatone/risultato.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

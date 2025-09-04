@@ -12,7 +12,7 @@ categories:
 - "Torte salate, Muffin salati..."
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2015-09-29-torta-salata-7-vasetti-con-zucchine-melanzane-e-formaggio/header.jpg "frangipani © Erica")
 
 Mentre guardavo le foto su Instagram, ho visto questa Torta Salata sul Blog di <a href="http://petitpatisserieblog.blogspot.it" target="_blank">petitpatisserie</a>. Non sapevo cosa cucinare e avevo dentro tutti gli ingredienti della ricetta, quindi l'ho fatta ma con qualche modifica... Mamma mia quanto è buona! Si fa veramente in un attimo, io addirittura non ho messo le uova ed è venuta ottima. Nella ricetta io le uova le metto, ma potete farla anche senzo o con meno uova. Come verdure usate quello che avete dentro, peperoni, pomodori, zucchine, melanzane ecc. La stessa cosa per il formaggio.
 
@@ -84,19 +84,19 @@ Mentre guardavo le foto su Instagram, ho visto questa Torta Salata sul Blog di <
 </h3>
 
 Tagliate le verdure ed il formaggio a dadini e mettete da parte.
-![](verdura.jpg "frangipani © Erica")
+![](../2015-09-29-torta-salata-7-vasetti-con-zucchine-melanzane-e-formaggio/verdura.jpg "frangipani © Erica")
 
 Mettete il resto degli ingredienti in una ciotola e mescolate il tutto con le fruste elettriche o nella planetaria.
-![](impasto1.jpg "frangipani © Erica")
+![](../2015-09-29-torta-salata-7-vasetti-con-zucchine-melanzane-e-formaggio/impasto1.jpg "frangipani © Erica")
 
 Poi aggungete le verdure ed il formaggio e amalgamate il tutto mescolando con una spatola.
-![](impasto2.jpg "frangipani © Erica")
+![](../2015-09-29-torta-salata-7-vasetti-con-zucchine-melanzane-e-formaggio/impasto2.jpg "frangipani © Erica")
 
 Poi mettete l'impasto in una teglia rotonda o da plumcake precedentemente imburrata e infarinata e infornate nel forno preriscaldato statico a 180°C per ca. 40min. Mi raccomando, come sempre fate la prova stecchino.
-![](teglia.jpg "frangipani © Erica")
+![](../2015-09-29-torta-salata-7-vasetti-con-zucchine-melanzane-e-formaggio/teglia.jpg "frangipani © Erica")
 
 Fatela raffreddare leggermente prima di tagliarla o servitela completamente fredda...
-![](risultato.jpg "frangipani © Erica")
+![](../2015-09-29-torta-salata-7-vasetti-con-zucchine-melanzane-e-formaggio/risultato.jpg "frangipani © Erica")
 
 
 <h4>Buon appetito

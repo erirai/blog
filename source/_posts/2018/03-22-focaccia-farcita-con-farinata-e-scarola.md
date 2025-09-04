@@ -14,7 +14,7 @@ categories:
 label: 2018-03-22-focaccia-farcita-con-farinata-e-scarola
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2018-03-22-focaccia-farcita-con-farinata-e-scarola/header.jpg "frangipani © Erica")
 
 > Grazie Mamma per la ricetta!
 
@@ -109,45 +109,45 @@ Per l'impasto fate sciogliere il lievito nell'acqua tiepida e mettete da parte. 
 Preparate anche la farinata: mettete l'acqua in una ciotola poi piano piano aggiungete la farina di ceci sempre mescolando eliminando tutti i grumi, alla fine aggiungete anche il sale. Fate riposare questa pastella per tutta la notte mescolando di tanto in tanto. Basterebbe anche solo un'oretta di riposo, ma tutta la notte è meglio! Eliminate la schiumina che si creerà sulla superficie.
 
 Il giorno dopo prendete l'impasto, non vi servirà tutto per una teglia da 18-20cm. Staccatene due palline e stendetele con le mani fino ad arrivare al diametro della teglia. Rivestite la teglia con della carta forno e mettete un filo d'olio. Mettete il primo disco, aggiungete un filo d'olio e del sale e appogiateci sopra il secondo disco findendo con un filo d'olio e del sale. Coprite e fate riposare un'oretta.
-![](impastoteglia.jpg "frangipani © Erica")
+![](../2018-03-22-focaccia-farcita-con-farinata-e-scarola/impastoteglia.jpg "frangipani © Erica")
 
 Mentre la focaccia sta lievitando, versate il composto per la farinata in una teglia dallo stesso diametro ricoperta con della carta forno oleata. Cuocete la farinata nel forno preriscaldato a 220°C ventilato per mezz'oretta o almeno finché avrà preso un bel colore.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="farinatateglia.jpg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="farinata.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2018-03-22-focaccia-farcita-con-farinata-e-scarola/farinatateglia.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2018-03-22-focaccia-farcita-con-farinata-e-scarola/farinata.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 Cuocete anche la focaccia nel forno preriscaldato a 220°C statico per 20-25min o almeno finché avrà preso un bel colore. Appena la sfornate, copritela per 15min con un panno.
-![](focaccia.jpg "frangipani © Erica")
+![](../2018-03-22-focaccia-farcita-con-farinata-e-scarola/focaccia.jpg "frangipani © Erica")
 
 Lavate la scarola e tagliatela a pezzetti. In una padella fate rosolare lo scalogno tritato con un filo d'olio ed un pizzico di sale, aggiungete anche la scarola e fatela appassire. A fine cottura aggiungete le olive denocciolate e aggiustate di sale.
-![](scarola.jpg "frangipani © Erica")
+![](../2018-03-22-focaccia-farcita-con-farinata-e-scarola/scarola.jpg "frangipani © Erica")
 
 Adesso potete assemblare la focaccia farcita con farinata e scarola: Prendete il disco inferiore della focaccia e copritelo con la scarola, appogiateci la farinata e chiudete con il secondo disco della focaccia. È buono sia caldo che freddo, se lo preparate in anticipo basta riscaldarla in forno prima di mangiarla.
-![](risultato1.jpg "frangipani © Erica")
+![](../2018-03-22-focaccia-farcita-con-farinata-e-scarola/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2018-03-22-focaccia-farcita-con-farinata-e-scarola/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2018-03-22-focaccia-farcita-con-farinata-e-scarola/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2018-03-22-focaccia-farcita-con-farinata-e-scarola/risultato4.jpg "frangipani © Erica")
 
-![](risultato5.jpg "frangipani © Erica")
+![](../2018-03-22-focaccia-farcita-con-farinata-e-scarola/risultato5.jpg "frangipani © Erica")
 
-![](risultato6.jpg "frangipani © Erica")
+![](../2018-03-22-focaccia-farcita-con-farinata-e-scarola/risultato6.jpg "frangipani © Erica")
 
-![](risultato7.jpg "frangipani © Erica")
+![](../2018-03-22-focaccia-farcita-con-farinata-e-scarola/risultato7.jpg "frangipani © Erica")
 
-![](risultato8.jpg "frangipani © Erica")
+![](../2018-03-22-focaccia-farcita-con-farinata-e-scarola/risultato8.jpg "frangipani © Erica")
 
-![](risultato9.jpg "frangipani © Erica")
+![](../2018-03-22-focaccia-farcita-con-farinata-e-scarola/risultato9.jpg "frangipani © Erica")
 
-![](risultato10.jpg "frangipani © Erica")
+![](../2018-03-22-focaccia-farcita-con-farinata-e-scarola/risultato10.jpg "frangipani © Erica")
 
-![](risultato11.jpg "frangipani © Erica")
+![](../2018-03-22-focaccia-farcita-con-farinata-e-scarola/risultato11.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

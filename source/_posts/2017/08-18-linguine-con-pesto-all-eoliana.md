@@ -14,7 +14,7 @@ categories:
 label: 2017-08-18-linguine-con-pesto-all-eoliana
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2017-08-18-linguine-con-pesto-all-eoliana/header.jpg "frangipani © Erica")
 
 A maggio quando siamo stati giù in Sicilia, mia cugina ha cucinato la pasta con Pesto all'Eoliana. Non sapevo che tipo di pesto fosse ma era perfetto! Fresco, gustoso, saporito... semplicemente ottimo! Al momento non le ho neanche chiesto la ricetta, però qualche settimana fa mi è venuta di nuovo in mente. Le ho chiesto la ricetta e l'ho rifatta. Mi piace tantissimissimo ed è perfetta per questi giorni caldi, soprattutto perché siamo in piena stagione di pomodori. È un pesto molto leggero, che si presta molto bene anche per preparare un'insalata di pasta fredda o per condire patate, broccoli, cavolfiori... Questa ricetta la metto sulla lista delle ricette da rifare più spesso! E voi?
 
@@ -76,20 +76,20 @@ A maggio quando siamo stati giù in Sicilia, mia cugina ha cucinato la pasta con
 </h3>
 
 Lavate i pomodori ramati, eliminate il picciolo e scottate i pomodori finché la pelle non inizia a staccarsi, poi scolateli e pelateli. Usate l'acqua dove poi cuocerete la pasta.
-![](pomodori.jpg "frangipani © Erica")
+![](../2017-08-18-linguine-con-pesto-all-eoliana/pomodori.jpg "frangipani © Erica")
 
 In una pedella fate soffriggere uno spicchio d'aglio nell'olio, poi aggiungete i pomodorini tagliati a metà e fateli saltare un attimino. Aggiungete un pochettino di acqua e salate un pochettino. Portate ad ebollizione l'acqua dove avete scottato i pomodori, appena bolle salate e buttate la pasta.
-![](pomodorini.jpg "frangipani © Erica")
+![](../2017-08-18-linguine-con-pesto-all-eoliana/pomodorini.jpg "frangipani © Erica")
 
 Nel frattempo preparate il pesto: frullate i pomodori precedentemente spellati con le mandorle, i capperi dissalati, basilico, un pochettino d'aglio e olio. Aspettate con il sale, dipende dai capperi.
-![](pesto.jpg "frangipani © Erica")
+![](../2017-08-18-linguine-con-pesto-all-eoliana/pesto.jpg "frangipani © Erica")
 
 Appena la pasta è cotta, scolatela e versatela nella padella con i pomodorini. Fate insaporire il tutto, poi togliete dai fornelli e aggiungete il pesto all'eoliana. Mescolate tutto e impiattate.
-![](risultato1.jpg "frangipani © Erica")
+![](../2017-08-18-linguine-con-pesto-all-eoliana/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2017-08-18-linguine-con-pesto-all-eoliana/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2017-08-18-linguine-con-pesto-all-eoliana/risultato3.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

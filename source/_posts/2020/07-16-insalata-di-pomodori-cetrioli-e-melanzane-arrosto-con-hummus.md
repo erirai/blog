@@ -15,7 +15,7 @@ categories:
 label: 2020-07-16-insalata-di-pomodori-cetrioli-e-melanzane-arrosto-con-hummus
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2020-07-16-insalata-di-pomodori-cetrioli-e-melanzane-arrosto-con-hummus/header.jpeg "frangipani © Erica")
 
 **Insalata di Pomodori, Cetrioli e Melanzane arrosto con Hummus** una delle cose più buone che mangerete mai! Si può chiamare anche "Loaded Hummus" e penso che questo nome sia azzeccatissimo, perché nient'altro è che Hummus ricolmo di altre cose buone... nel mio caso un'insalata fresca estiva. Ma ovviamente le variazioni sono infinite, basta seguire quello che ci regalano le diverse stagioni.
 <br />
@@ -28,7 +28,7 @@ Ho preparato quest'Insalata di Pomodori, Cetrioli e Melanzane arrosto con Hummus
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Insalata di Pomodori, Cetrioli e Melanzane arrosto con Hummus</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-07-16-insalata-di-pomodori-cetrioli-e-melanzane-arrosto-con-hummus/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Insalata di Pomodori, Cetrioli e Melanzane arrosto con Hummus una delle cose più buone che mangerete mai! Si può chiamare anche "Loaded Hummus" e penso che questo nome sia azzeccatissimo.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -130,33 +130,33 @@ Adesso preparate l'hummus. Sciacquate i ceci lessi, aggiungete la Tahina, il bas
 Per il resto dell'insalata tagliate il pomodoro e il cetriolo, poi condite con olio, sale, basilico e succo di limone.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 32%; margin-right: 1%;" src="melanzane.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="humus.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-left: 1%;" src="insalata.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%;" src="../2020-07-16-insalata-di-pomodori-cetrioli-e-melanzane-arrosto-con-hummus/melanzane.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="../2020-07-16-insalata-di-pomodori-cetrioli-e-melanzane-arrosto-con-hummus/humus.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-left: 1%;" src="../2020-07-16-insalata-di-pomodori-cetrioli-e-melanzane-arrosto-con-hummus/insalata.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 Spalmate l'hummus su una parte di un piatto da portata e dall'altra parte mettete l'insalata di pomodori e cetrioli, le melanzane arrostite e i pomodorini cotti e finite con un filo d'olio.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-07-16-insalata-di-pomodori-cetrioli-e-melanzane-arrosto-con-hummus/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-07-16-insalata-di-pomodori-cetrioli-e-melanzane-arrosto-con-hummus/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-07-16-insalata-di-pomodori-cetrioli-e-melanzane-arrosto-con-hummus/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-07-16-insalata-di-pomodori-cetrioli-e-melanzane-arrosto-con-hummus/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-07-16-insalata-di-pomodori-cetrioli-e-melanzane-arrosto-con-hummus/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-07-16-insalata-di-pomodori-cetrioli-e-melanzane-arrosto-con-hummus/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

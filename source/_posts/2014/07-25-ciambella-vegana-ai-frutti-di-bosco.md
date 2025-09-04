@@ -15,7 +15,7 @@ categories:
 label: 2014-07-25-ciambella-vegana-ai-frutti-di-bosco
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2014-07-25-ciambella-vegana-ai-frutti-di-bosco/header.jpeg "frangipani © Erica")
 
 **Ciambella vegana ai Frutti di Bosco** una ricetta velocissima e facilissima. In uno dei miei libri vegan ho trovato questa ricetta e sembrava veramente invitante... Però l'ho adattata un pochino, soprattutto ho ridotto tantissimo lo zucchero. L'ho fatta in 5 minuti, veramente velocissimamente! È proprio ottima, leggermente croccante di fuori ma morbidissima e succosa dentro. Poi ne ho approfittato, dato che per il mio compleanno non ho fatto nessun dolce, lo mangiamo oggi!
 
@@ -24,7 +24,7 @@ lang: it
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Ciambella vegana ai Frutti di Bosco</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2014-07-25-ciambella-vegana-ai-frutti-di-bosco/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Ciambella vegana ai Frutti di Bosco una ricetta velocissima e facilissima.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -83,8 +83,8 @@ lang: it
 Setacciate la farina, il lievito ed il bicarbonato e mettete tutto in una coppa. Poi aggiungete lo zucchero e mescolate con le fruste a mano. A questo punto aggiungete il latte, l'olio, l'estratto di vaniglia, il sale e continuate a mescolare finché si sarà amalgamato tutto, fate attenzione a togliere tutti i grumi. Finite aggiungendo i frutti di bosco e finite di mescolare con un cucchiaio. Imburrate ed infarinate una forma per ciambella da 20-24cm e riempitela con l'impasto.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="impasto.jpg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-07-25-ciambella-vegana-ai-frutti-di-bosco/impasto.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-07-25-ciambella-vegana-ai-frutti-di-bosco/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -94,32 +94,32 @@ Poi infornatela nel forno preriscaldato a 180°C statico per un'ora. Fate sempre
 Se volete potete riempire il buco al centro con dei frutti di bosco freschi e spolverare la ciambella con dello zucchero a velo.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-07-25-ciambella-vegana-ai-frutti-di-bosco/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-07-25-ciambella-vegana-ai-frutti-di-bosco/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-07-25-ciambella-vegana-ai-frutti-di-bosco/risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-07-25-ciambella-vegana-ai-frutti-di-bosco/risultato3.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-07-25-ciambella-vegana-ai-frutti-di-bosco/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-07-25-ciambella-vegana-ai-frutti-di-bosco/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-07-25-ciambella-vegana-ai-frutti-di-bosco/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-07-25-ciambella-vegana-ai-frutti-di-bosco/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

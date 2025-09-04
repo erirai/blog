@@ -11,7 +11,7 @@ categories:
 label: 2017-03-06-torta-mimosa-al-limone-con-Chantilly
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2017-03-06-torta-mimosa-al-limone-con-chantilly-al-mascarpone/header.jpg "frangipani © Erica")
 
 > Auguri a tutte le Donne!
 
@@ -101,32 +101,32 @@ Venerdì scorso è venuta a trovarmi mia cugina. È venuta dopo pranzo, quando i
 
 Per l'impasto della torta mettete gli ingredienti asciutti in una ciotola capiente e mescolate il tutto con le fruste a mano. Adesso aggiungete gli ingredienti liquidi e mescolate il tutto finché avrete un composto liscio.
 Versate 2/3 dell'impasto in uno stampo da 20cm imburrato ed infarinato. Il resto dell'impasto lo versate in un'altro stampo da 20cm (o più piccolo) anche questo imburrato ed infarinato.
-![](teglia.jpg "frangipani © Erica")
+![](../2017-03-06-torta-mimosa-al-limone-con-chantilly-al-mascarpone/teglia.jpg "frangipani © Erica")
 
 Infornate le torte nel forno preriscaldato a 180°C statico per 50-55min, quella con meno impasto sarà pronta già dopo mezz'oretta. Comunque fate sempre la prova stecchino. Fate intiepidire le torte, poi sformatele e fatele raffreddare completamente su di una griglia.
-![](sfornata.jpg "frangipani © Erica")
+![](../2017-03-06-torta-mimosa-al-limone-con-chantilly-al-mascarpone/sfornata.jpg "frangipani © Erica")
 
 Dunque preparate la Chantilly al Mascarpone. Mescolate il Mascarpone con lo zucchero a velo, i semi della vaniglia e la scorza del limone. A questo punto prendete le fruste elettriche e aggiungete la panna a filo sempre mescolando. Quando vedrete che il composto sarà diventato bello fermo, potete finire. Lasciatela in frigo finché vi servirà.
-![](chantilly.jpg "frangipani © Erica")
+![](../2017-03-06-torta-mimosa-al-limone-con-chantilly-al-mascarpone/chantilly.jpg "frangipani © Erica")
 
 Appena le torte saranno completamente fredde, togliete tutta la parte esterna più scura. Dividete la torta più grande in tre parti, ricavandone tre dischi. L'altro lo tagliate a dadini piccolini per coprire poi tutta la torta. 
-![](dadini.jpg "frangipani © Erica")
+![](../2017-03-06-torta-mimosa-al-limone-con-chantilly-al-mascarpone/dadini.jpg "frangipani © Erica")
 
 Iniziate a comporre la torta. Mettete il primo disco su di un piatto da portata e spalmateci uno strato di Chantilly al Mascarpone e ricoprite col prossimo disco. Poi di nuovo uno strato di Chantilly e finite con l'ultimo disco. Coprite tutta la torta con un sottilissimo strato di Chantilly e lasciate da parte un po' di Chantilly per poi ricoprire la torta. Poi fatela riposare in frigo per un'oretta.
-![](strati.jpg "frangipani © Erica")
+![](../2017-03-06-torta-mimosa-al-limone-con-chantilly-al-mascarpone/strati.jpg "frangipani © Erica")
 
 Passato il tempo necessario, uscitela dal frigo e ricoprite tutta la torta con il resto della Chantilly. A questo punto prendete i dadini e fateli aderire su tutta la superficie. Fate riposare la torta per qualche ora in frigo prima di servirla, ancora meglio se la preparate il giorno prima e la lasciate in frigo per tutta la notte. Prima di servirla, spolveratela con dello zucchero a velo e decorate con qualche fiorellino, possibilmente Mimose.
-![](risultato1.jpg "frangipani © Erica")
+![](../2017-03-06-torta-mimosa-al-limone-con-chantilly-al-mascarpone/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2017-03-06-torta-mimosa-al-limone-con-chantilly-al-mascarpone/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2017-03-06-torta-mimosa-al-limone-con-chantilly-al-mascarpone/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2017-03-06-torta-mimosa-al-limone-con-chantilly-al-mascarpone/risultato4.jpg "frangipani © Erica")
 
-![](risultato5.jpg "frangipani © Erica")
+![](../2017-03-06-torta-mimosa-al-limone-con-chantilly-al-mascarpone/risultato5.jpg "frangipani © Erica")
 
-![](risultato6.jpg "frangipani © Erica")
+![](../2017-03-06-torta-mimosa-al-limone-con-chantilly-al-mascarpone/risultato6.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

@@ -11,7 +11,7 @@ categories:
 - Torte
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2014-03-19-caprese-al-limone/header.jpg "frangipani © Erica")
 
 > Ringrazio mia cugina Elena per la ricetta e dedico questa torta a tutti i Papà del mondo, soprattutto al mio Pappi e naturalmente a mio marito, che oggi festeggia la sua prima festa del Papà!
 
@@ -82,22 +82,22 @@ Avevo visto questa ricetta già da un po' ma non c'è mai stata l'occasione di f
 </h3>
 
 Iniziate mettendo le uova a temperatura ambiente e la metà dello zucchero nella planetaria e fatele montare per ca. 10-15min (se non avete la planetaria vi tocca farlo con il mixer) finché triplicherà il volume e risulteranno belle spumose.
-![](uova.jpg "frangipani © Erica")
+![](../2014-03-19-caprese-al-limone/uova.jpg "frangipani © Erica")
 
 Nel frattempo mettete le mandorle, l'altra metà dello zucchero, la fecola di patate, il cioccolato tritato finemente ed il lievito in una ciotola capiente e mescolate tutto a mano.
-![](asciutti.jpg "frangipani © Erica")
+![](../2014-03-19-caprese-al-limone/asciutti.jpg "frangipani © Erica")
 
 Aggiungete la scorza dei limoni, il succo di limone, il limoncello ed il burro fuso e mescolate ancora.
-![](umidi.jpg "frangipani © Erica")
+![](../2014-03-19-caprese-al-limone/umidi.jpg "frangipani © Erica")
 
 Ora prendete un po' delle uova alla volta e incorporatele al composto di mandorle mescolando dal basso verso l'alto, per non fare smontare le uova.
-![](impasto.jpg "frangipani © Erica")
+![](../2014-03-19-caprese-al-limone/impasto.jpg "frangipani © Erica")
 
 Prendete una teglia rotonda con cerniera di ca. 24cm di diametro imburratela, infarinatela e riempitela con il composto. Infornatela coperta da un foglio di carta argentata nel forno preriscaldato (statico) a 170°C per ca. un'ora. Verso la fine togliete la carta argentata e fate la prova stecchino.
-![](sfornata.jpg "frangipani © Erica")
+![](../2014-03-19-caprese-al-limone/sfornata.jpg "frangipani © Erica")
 
 Decorate la torta a vostro piacimento o spolveratela semplicemento con dello zucchero a velo.
-![](risultato.jpg "frangipani © Erica")
+![](../2014-03-19-caprese-al-limone/risultato.jpg "frangipani © Erica")
 
 
 

@@ -13,7 +13,7 @@ categories:
 label: 2018-08-30-crepes-farcite-con-verdure-estive-e-feta
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2018-08-30-crepes-farcite-con-verdure-estive-e-feta/header.jpg "frangipani © Erica")
 
 **Crêpes farcite con Verdure Estive e Feta**, un piatto perfetto per smaltire tanta verdura e svuotare il frigo. Una ricetta molto buona ed elegante per gustare peperoni, melanzane e zucchine dando un tocco in più con il mio adorato formaggio Feta. Mia figlia era da un po' che voleva le Crêpes, perché le avevano fatte all'asilo. Domenica scorsa le ho preparate per merenda, facendone qualcuna in più per preparare questa ricetta. Le Crêpes le ho lasciate neutre, senza sale ne zucchero, proprio perché a merenda le abbiamo mangiate dolci (Gaia con crema di nocciole e fragole, Gioele con lamponi, fragole, zucchero e cannella e io solo e sempre con zucchero e cannella) e per questa ricetta mi servivano "salate". Volendo, potete benissimo aromatizzare la pastella per le Crêpes con della paprika, curcuma, erbette aromatiche o semplicemente lasciarle neutre. Il ripieno è molto gustoso, quindi la Crêpe non ha bisogno di tanta sapidità. Nel mio caso ho usato peperoni, melanzane e zucchine, perché era quello che avevo in frigo. Verdure estive, perché siamo ancora in estate. Sicuramente sono ottime anche con della verdura a foglia come la catalogna o gli spinaci o con la zucca che tra poco sarà la regina delle nostre ricette. Se preferite del formaggio filante al posto del formaggio Feta, fate pure!
 
@@ -24,7 +24,7 @@ Agosto sta finendo e con lui finisce anche l'estate... almeno per me! Anche se f
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Crêpes farcite con Verdure Estive e Feta</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2018-08-30-crepes-farcite-con-verdure-estive-e-feta/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Crêpes farcite con Verdure Estive e Feta, un piatto perfetto per smaltire tanta verdura e svuotare il frigo.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -100,37 +100,37 @@ Agosto sta finendo e con lui finisce anche l'estate... almeno per me! Anche se f
 </h3>
 
 Per le Crêpes sbattete a mano le uova, poi aggiungete il latte e mescolate ancora. Incorporate la farina in due parti mescolando finché avrete una pastella bella liscia e senza grumi. Fatela riposare in frigo per 30min. Riscaldate una padellina per Crêpes leggermente unta, poi versateci un mestolo di pastella e livellate bene con l'apposito attrezzino o facendo roteare la padella. Quando inizia a staccarsi dai bordi ed avrà preso un bel colore, giratela e finite di cuocerla. Continuate fino ad esaurimento della pastella.
-![](crepes.jpg "frangipani © Erica")
+![](../2018-08-30-crepes-farcite-con-verdure-estive-e-feta/crepes.jpg "frangipani © Erica")
 
 Tagliate finemente la cipolla e fatela rosolare con un pochettino d'olio ed un pizzico di sale. A questo punto aggiungete peperoni, melanzane e zucchine, tutto precedentemente tagliato a dadini. Fate rosolare un attimino a fuoco medio, poi aggiungete le erbette aromatiche e salate, continuate la cottura finché le verdure saranno cotte ma ancora croccanti. Togliete la padella dai fornelli ed aggiungete il formaggio Feta sbriciolato, lasciandone da parte un pochettino.
-![](verdura.jpg "frangipani © Erica")
+![](../2018-08-30-crepes-farcite-con-verdure-estive-e-feta/verdura.jpg "frangipani © Erica")
 
 Farcite le Crêpes una dopo l'altra chiudendole tipo pacchettino...
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="farcire.jpg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="chiusa.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2018-08-30-crepes-farcite-con-verdure-estive-e-feta/farcire.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2018-08-30-crepes-farcite-con-verdure-estive-e-feta/chiusa.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 ...ed adagiatele in una pirofila precedentemente imburrata. Coprite le Crêpes farcite con qualche pomodorino tagliato a pezzettini e il restante formaggio Feta. Salate leggermente e finite con un filo d'olio.
-![](teglia.jpg "frangipani © Erica")
+![](../2018-08-30-crepes-farcite-con-verdure-estive-e-feta/teglia.jpg "frangipani © Erica")
 
 Infornate le Crêpes farcite nel forno preriscaldato a 180°C ventilato per 20min coperte con un foglio di carta stagnola. Poi altri 10min senza carta, per far fare la crosticina. Finite con qualche fogliolina di basilico fresco.
-![](risultato1.jpg "frangipani © Erica")
+![](../2018-08-30-crepes-farcite-con-verdure-estive-e-feta/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2018-08-30-crepes-farcite-con-verdure-estive-e-feta/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2018-08-30-crepes-farcite-con-verdure-estive-e-feta/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2018-08-30-crepes-farcite-con-verdure-estive-e-feta/risultato4.jpg "frangipani © Erica")
 
-![](risultato5.jpg "frangipani © Erica")
+![](../2018-08-30-crepes-farcite-con-verdure-estive-e-feta/risultato5.jpg "frangipani © Erica")
 
-![](risultato6.jpg "frangipani © Erica")
+![](../2018-08-30-crepes-farcite-con-verdure-estive-e-feta/risultato6.jpg "frangipani © Erica")
 
-![](risultato7.jpg "frangipani © Erica")
+![](../2018-08-30-crepes-farcite-con-verdure-estive-e-feta/risultato7.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

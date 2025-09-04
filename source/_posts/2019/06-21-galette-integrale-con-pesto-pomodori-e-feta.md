@@ -14,7 +14,7 @@ categories:
 label: 2019-06-21-galette-integrale-con-pesto-pomodori-e-feta
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2019-06-21-galette-integrale-con-pesto-pomodori-e-feta/header.jpeg "frangipani © Erica")
 
 > Benvenuta Estate!
 
@@ -26,7 +26,7 @@ Buon inizio estate a voi e il primo che si lamenta del caldo, lo metto a dieta! 
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Galette Integrale con Pesto, Pomodori e Feta</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2019-06-21-galette-integrale-con-pesto-pomodori-e-feta/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Galette Integrale con Pesto, Pomodori e Feta, perfetta per dare il benvenuto alla mia stagione preferita, l'estate! Fresca, gustosa e leggera...</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -112,22 +112,22 @@ Buon inizio estate a voi e il primo che si lamenta del caldo, lo metto a dieta! 
 Preparate l'impasto per la Galette: Mettete le farine, il bicarbonato ed il sale in una coppa e mescolate. In un'altra coppetta mettete l'olio di semi, l'olio evo e l'acqua. Versate gli ingredienti liquidi a filo nella farina e iniziate ad impastare. Continuate ad impastare finché avrete un panetto liscio ed elastico, poi coprite e fate riposare per 20min. Nel frattempo preparate il pesto: lavate il basilico e frullate le foglie del basilico con del parmigiano grattugiato, pinoli, olio evo, un pizzico di sale e un goccio d'acqua. Riprendete l'impasto e stendetelo tra due fogli di carta. Poi mettete l'impasto steso su di una leccarda con sotto della carta forno e spalmateci sopra 3/4 del pesto lasciando un bordo di circa 4cm. Tagliate a fette i pomodori e adagiateli sulla Galette alternando i colori, salate i pomodori e ripiegate in dentro il bordo.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="pesto.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2019-06-21-galette-integrale-con-pesto-pomodori-e-feta/pesto.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2019-06-21-galette-integrale-con-pesto-pomodori-e-feta/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 Infornate la Galette nel forno preriscaldato a 180°C ventilato per 30min circa. Uscite la Galette dal forno e sbriciolateci sopra la Feta, poi continuate la cottura per altri 10min o finché il formaggio Feta si sarà leggermente ammorbidito. Mangiatela tiepida aggiungendo il resto del pesto...
-![](risultato1.jpeg "frangipani © Erica")
+![](../2019-06-21-galette-integrale-con-pesto-pomodori-e-feta/risultato1.jpeg "frangipani © Erica")
 
-![](risultato2.jpeg "frangipani © Erica")
+![](../2019-06-21-galette-integrale-con-pesto-pomodori-e-feta/risultato2.jpeg "frangipani © Erica")
 
-![](risultato3.jpeg "frangipani © Erica")
+![](../2019-06-21-galette-integrale-con-pesto-pomodori-e-feta/risultato3.jpeg "frangipani © Erica")
 
-![](risultato4.jpeg "frangipani © Erica")
+![](../2019-06-21-galette-integrale-con-pesto-pomodori-e-feta/risultato4.jpeg "frangipani © Erica")
 
-![](risultato5.jpeg "frangipani © Erica")
+![](../2019-06-21-galette-integrale-con-pesto-pomodori-e-feta/risultato5.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

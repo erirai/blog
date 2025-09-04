@@ -9,7 +9,7 @@ categories:
 - Panificati
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2015-09-23-burger-buns/header.jpg "frangipani © Erica")
 
 Cosa si mangia sta sera? Boooooooooo! Il pane si è finito, in frigo ci sono due melanzane, un po' di pesto che mi era rimasto... Ok, sta sera faccio gli Hamburger! E per gli Hamburger servono i panini giusti... i Burger Buns. Praticamente sono dei panini al latte, supermorbidi. Si possono fare con la farina che più vi piace, potete anche mischiare. Metà bianca e metà manitoba, integrale, di farro... io ho usato 400gr di farina bianca e 100gr di farina bigia.
 
@@ -82,16 +82,16 @@ Cosa si mangia sta sera? Boooooooooo! Il pane si è finito, in frigo ci sono due
 </h3>
 
 Iniziate facendo sciogliere il lievito ed il miele in un po' d'acqua tiepida. Poi mettete nella planetaria la farina o le farine, lo zucchero, il sale, il latte vegetale tiepido ed il resto dell'acqua tiepida e iniziate ad impastare (naturalmente va benissimo anche a mano). Dopo qualche istante aggiungete la margarina morbida e finite di impastare finché l'impasto non si staccherà dai bordi. Passate l'impasto su di un piano di lavoro e lavoratelo con le mani ancora per qualche minuto. 
-![](impasto.jpg "frangipani © Erica")
+![](../2015-09-23-burger-buns/impasto.jpg "frangipani © Erica")
 
 Mettete l'impasto in una ciotola capiente, coprite bene e mettete a lievitare per due orette o almeno finché avrà raddoppiato il suo volume. Passato il tempo di lievitazione, prendete l'impasto e suddividetelo in 10 parti uguali (nel mio caso 10 panini da 85gr l'uno) e formate dei panini belli tondi. Metteteli su di una leccarda con sotto della carta forno.
-![](teglia.jpg "frangipani © Erica")
+![](../2015-09-23-burger-buns/teglia.jpg "frangipani © Erica")
 
 Fateli lievitare ancora per un'oretta minimo e poi spennellateli con la panna vegetale e cospargeteli con il sesamo.
-![](infornare.jpg "frangipani © Erica")
+![](../2015-09-23-burger-buns/infornare.jpg "frangipani © Erica")
 
 Adesso infornateli nel forno preriscaldato a 200°C statico per 15min. Per renderli ancora più morbidi, ricoprite i panini con un panno appena li avrete sfornati, ma per 5min appena...
-![](risultato.jpg "frangipani © Erica")
+![](../2015-09-23-burger-buns/risultato.jpg "frangipani © Erica")
 
 
 <h4>Buon appetito

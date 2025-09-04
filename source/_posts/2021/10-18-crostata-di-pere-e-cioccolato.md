@@ -13,7 +13,7 @@ categories:
 label: 2021-10-18-crostata-di-pere-e-cioccolato
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2021-10-18-crostata-di-pere-e-cioccolato/header.jpeg "frangipani © Erica")
 
 **Crostata di Pere e Cioccolato** una crostata un po' diversa dal solito, ma estremamente buona! Le pere si sciolgono in bocca, il tutto accompagnato dal cioccolato fondente e da quella cremina al latte cremosissima.
 
@@ -38,7 +38,7 @@ Erica
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Crostata di Pere e Cioccolato</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2021-10-18-crostata-di-pere-e-cioccolato/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Crostata di Pere e Cioccolato una crostata un po' diversa dal solito, ma estremamente buona! Le pere si sciolgono in bocca, il tutto accompagnato dal cioccolato fondente e da quella cremina al latte cremosissima.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -132,8 +132,8 @@ Nel frattempo preparate la crema: in una coppa mettete il latte, l'uovo e l'albu
 Passato il tempo necessario, stendete la frolla con un matterello aiutandovi con un po' di farina e rivestiteci una teglia rotonda da 24cm. Aggiustate bene il bordo e bucherellate bene il fondo e il bordo, poi infornate nel forno preriscaldato a 180°C statico per 10min (centro del forno). Pelate le pere e tagliatele a metà. Eliminate il torsolo, appoggiate le pere sul lato del taglio e fate qualche taglio senza arrivare fino in fondo, devono rimanere intere. Uscite il guscio dal forno e ricoprite il fondo con il cioccolato. Appoggiate le pere, con la punta verso il centro, sul cioccolato. Poi distribuite la crema sulle pere e sul cioccolato.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="pere.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-10-18-crostata-di-pere-e-cioccolato/pere.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-10-18-crostata-di-pere-e-cioccolato/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -141,40 +141,40 @@ Passato il tempo necessario, stendete la frolla con un matterello aiutandovi con
 Infornate la **Crostata di Pere e Cioccolato** nella parte bassa del forno preriscaldato a 180°C statico per 20min poi per altri 10min alzatela nella parte centrale del forno. Fate raffreddare prima di uscirla dallo stampo e tagliarla.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-10-18-crostata-di-pere-e-cioccolato/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-10-18-crostata-di-pere-e-cioccolato/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-10-18-crostata-di-pere-e-cioccolato/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-10-18-crostata-di-pere-e-cioccolato/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-10-18-crostata-di-pere-e-cioccolato/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-10-18-crostata-di-pere-e-cioccolato/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-10-18-crostata-di-pere-e-cioccolato/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-10-18-crostata-di-pere-e-cioccolato/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-10-18-crostata-di-pere-e-cioccolato/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-10-18-crostata-di-pere-e-cioccolato/risultato10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

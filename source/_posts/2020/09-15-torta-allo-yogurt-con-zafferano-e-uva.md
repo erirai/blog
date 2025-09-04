@@ -12,7 +12,7 @@ categories:
 label: 2020-09-15-torta-allo-yogurt-con-zafferano-e-uva
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2020-09-15-torta-allo-yogurt-con-zafferano-e-uva/header.jpeg "frangipani © Erica")
 
 **Torta allo Yogurt con Zafferano e Uva** questa torta sa di autunno. Gusti semplici e umili. Lo zafferano si sposa perfettamente con l'uva, non pensavo! Un gusto terra terra, "erdig" si dice in tedesco ed è la parola perfetta per descriverla. Tradotto sarebbe terrosa, ma la traduzione non rende.
 <br />
@@ -25,7 +25,7 @@ In realtà con le temperature che sta facendo, ci vorrebbe un dolce estivo perch
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Torta allo Yogurt con Zafferano e Uva</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-09-15-torta-allo-yogurt-con-zafferano-e-uva/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Torta allo Yogurt con Zafferano e Uva questa torta sa di autunno. Gusti semplici e umili. Lo zafferano si sposa perfettamente con l'uva, non pensavo!</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -89,43 +89,43 @@ In realtà con le temperature che sta facendo, ci vorrebbe un dolce estivo perch
 Separate le uova e montate a neve gli albumi con un pizzico di sale e mettete da parte. Montate i tuorli con lo zucchero a velo, lo zafferano, la vaniglia, il lievito e l'amido di mais finché saranno belli chiari e gonfi. 
 <br />
 Con un movimento dall'alto verso il basso, incorporate un po' alla volta gli albumi montati, lo yogurt e la farina sempre alternandoli. Poi versate l'impasto nella teglia precedentemente imburrata e infarinata.
-![](teglia.jpeg "frangipani © Erica")
+![](../2020-09-15-torta-allo-yogurt-con-zafferano-e-uva/teglia.jpeg "frangipani © Erica")
 
 Infornate la torta nel forno preriscaldato statico a 180°C per circa 50min. Dopo 15min aggiungete metà degli acini d'uva tagliati a metà e privati dei loro semini, senza però uscire la torta dal forno (attenti a non bruciarvi). Dopo un'altra mezz'ora aggiungete il resto dell'uva e completate la cottura, fate comunque la prova stecchino. Fate intiepidire la torta, prima di uscirla dallo stampo.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-09-15-torta-allo-yogurt-con-zafferano-e-uva/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-09-15-torta-allo-yogurt-con-zafferano-e-uva/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato3.jpeg "frangipani © Erica")
+![](../2020-09-15-torta-allo-yogurt-con-zafferano-e-uva/risultato3.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-09-15-torta-allo-yogurt-con-zafferano-e-uva/risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-09-15-torta-allo-yogurt-con-zafferano-e-uva/risultato5.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-09-15-torta-allo-yogurt-con-zafferano-e-uva/risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-09-15-torta-allo-yogurt-con-zafferano-e-uva/risultato7.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato8.jpeg "frangipani © Erica")
+![](../2020-09-15-torta-allo-yogurt-con-zafferano-e-uva/risultato8.jpeg "frangipani © Erica")
 
-![](risultato9.jpeg "frangipani © Erica")
+![](../2020-09-15-torta-allo-yogurt-con-zafferano-e-uva/risultato9.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato11.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-09-15-torta-allo-yogurt-con-zafferano-e-uva/risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-09-15-torta-allo-yogurt-con-zafferano-e-uva/risultato11.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

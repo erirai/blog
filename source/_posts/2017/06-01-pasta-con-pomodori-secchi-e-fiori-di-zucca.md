@@ -13,7 +13,7 @@ categories:
 label: 2017-06-01-pasta-con-pomodori-secchi-e-fiori-di-zucca
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2017-06-01-pasta-con-pomodori-secchi-e-fiori-di-zucca/header.jpg "frangipani © Erica")
 
 > Benvenuto Giugno!
 
@@ -71,11 +71,11 @@ Ma ritorniamo alla ricetta... Qualche giorno fa stavo giocando con i piccoli con
 </h3>
 
 Portate ad ebollizione abbondante acqua, salate e buttate la pasta. Nel frattempo in una padella fate soffriggere l'aglio intero con un po' d'olio ed un pizzico di sale. Aggiungete i pomodori secchi tritati, fate soffriggere un attimino poi aggiungete un mestolo di acqua di cottura della pasta e spegnete il fornello. Pulite anche i fiori di zucca, vi servono solo i petali senza la parte centrale. Quando la pasta sarà cotta, scolatela (tenete da parte un po' d'acqua di cottura) e aggiungetela nella padella con il condimento e accendete i fuochi. Aggiungete anche i fiori di zucca spezzettati e qualche fogliolina di basilico e fate mantecare aggiungendo altra acqua di cottura se c'è bisogno. Impiattate e mangiatela bella calda!
-![](risultato1.jpg "frangipani © Erica")
+![](../2017-06-01-pasta-con-pomodori-secchi-e-fiori-di-zucca/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2017-06-01-pasta-con-pomodori-secchi-e-fiori-di-zucca/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2017-06-01-pasta-con-pomodori-secchi-e-fiori-di-zucca/risultato3.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

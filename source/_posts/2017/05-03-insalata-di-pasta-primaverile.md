@@ -16,7 +16,7 @@ categories:
 label: 2017-05-03-insalata-di-pasta-primaverile
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2017-05-03-insalata-di-pasta-primaverile/header.jpg "frangipani © Erica")
 
 > Benvenuto Maggio!
 
@@ -78,14 +78,14 @@ Con le giornate belle mi piace preparare insalate di pasta, insalate di riso... 
 </h3>
 
 Per prima cosa preparate il pesto. Mettete in un recipiente alto e stretto il basilico lavato, i pinoli, l'olio evo, un pochettino d'acqua fredda e un pizzico di sale, poi frullate il tutto con il mixer ad immersione e mettete da parte. Eliminate la parte dura legnosa degli asparagi. Tagliate a pezzettini la parte tenera degli asparagi tenendo da parte le punte. Sgusciate anche i piselli e tagliate a metà i pomodorini. Portate ad ebollizione abbondante acqua per la pasta. Appena bolle salate e buttateci gli asparagi, senza le punte, ed i piselli. Fateli sbollentare per qualche minuto, alla fine aggiungete anche le punte degli asparagi. Scolateli senza buttare l'acqua e metteteli in una coppa. Aggiungete anche i pomodorini ed il pesto.
-![](condimento.jpg "frangipani © Erica")
+![](../2017-05-03-insalata-di-pasta-primaverile/condimento.jpg "frangipani © Erica")
 
 Adesso buttate la pasta nella stessa acqua e salate l'acqua. Quando sarà cotta scolatela e  versatela nella coppa con il condimento, aggiungete un filo d'olio e mescolate il tutto. Potete mangiarla calda, tiepida o fredda, come preferite.
-![](risultato1.jpg "frangipani © Erica")
+![](../2017-05-03-insalata-di-pasta-primaverile/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2017-05-03-insalata-di-pasta-primaverile/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2017-05-03-insalata-di-pasta-primaverile/risultato3.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

@@ -12,7 +12,7 @@ categories:
 label: 2025-04-09-colomba-salata-veloce
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2025-04-09-colomba-salata-veloce/header.jpeg "frangipani © Erica")
 
 **Colomba Salata Vegetariana Veloce** una versione più veloce e facile della classica colomba salata lievitata. Alla fine dei conti è una torta salata cotta nella forma da colomba. Se non avete lo stampo da colomba usate la forma per Plumcake, una tortiera rotondo ma anche una forma per ciambellone... È super soffice e anche un po' panosa ed è piena di verdure di stagione. Infatti ho usato piselli, asparagi e carote, ma volendo potete semplicemente usare quello che avete in frigo. Per dare più sapore ho frullato delle erbe aromatiche, come basilico, prezzemolo e aglio orsino, con l'olio che ho messo nell'impasto e ho aggiunto anche il provolone che ci sta veramente bene.
 <br />
@@ -27,7 +27,7 @@ Vi auguro buona Pasqua, godetevi le giornate libere e speriamo anche soleggiate 
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Colomba Salata Vegetariana Veloce</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2025-04-09-colomba-salata-veloce/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Colomba Salata Vegetariana Veloce, una versione più veloce e facile della classica colomba salata lievitata.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -117,16 +117,16 @@ Vi auguro buona Pasqua, godetevi le giornate libere e speriamo anche soleggiate 
 </h3>
 
 Per prima cosa preparate le verdure: Pulite e tagliate finemente la cipolla. Eliminate la parte legnosa degli asparagi, lavateli e tagliateli a rondelline tenendo da parte le punte. Lavate e pelate le carote e tagliatele a dadini. Dunque in una padella fate soffriggere la cipolla conun filo d'olio e un pizzico di sale. Quando sarà dorata aggiungete gli asparagi (senza le punte), i piselli e le carote e fate rosolare a temperatura media finché non si saranno ammorbiditi un pochino. Aggiungete anche le punte degli asparagi, aggiustate di sale e fate andare ancora per qualche minutino. Mettete da parte e fate raffreddare.
-![](verdure.jpeg "frangipani © Erica")
+![](../2025-04-09-colomba-salata-veloce/verdure.jpeg "frangipani © Erica")
 
 Preparate l'impasto per la **Colomba salata**: Con la frusta a mano sbattete le uova con il latte e l'olio frullato precedentemente con le erbe aromatiche. Aggiungete il sale, il parmigiano grattugiato, la farina, il lievito e la paprika a piacere e amalgamate il tutto con un cucchiaio di legno. Aggiungete il provolone tagliato a cubetti e le verdure precedentemente cotte.
 <br />
 In una coppetta a parte mettete le mandorle in scaglie, mettete un filo d'olio e mescolate bene. Poi aggiungete sale e paprika e mescolate di nuovo. Versate l'impasto nello stampo da Colomba da 500g, in una forma da Plumcake o in una tortiera da 22cm di diametro. Distribuite uniformemente le mandorle speziate su tutta la superficie facendole aderire bene.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 32%; margin-right: 1%;" src="impasto.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="mandorle.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-left: 1%;" src="colomba.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%;" src="../2025-04-09-colomba-salata-veloce/impasto.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="../2025-04-09-colomba-salata-veloce/mandorle.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-left: 1%;" src="../2025-04-09-colomba-salata-veloce/colomba.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -134,48 +134,48 @@ In una coppetta a parte mettete le mandorle in scaglie, mettete un filo d'olio e
 Infornate la **Colomba salata vegetariana veloce** nel forno preriscaldato a 180°C statico per 45min circa, fate sempre la prova stecchino. Fatelo raffreddare un pochino prima di tagliarlo...
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-04-09-colomba-salata-veloce/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-04-09-colomba-salata-veloce/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-04-09-colomba-salata-veloce/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-04-09-colomba-salata-veloce/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-04-09-colomba-salata-veloce/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-04-09-colomba-salata-veloce/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-04-09-colomba-salata-veloce/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-04-09-colomba-salata-veloce/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-04-09-colomba-salata-veloce/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-04-09-colomba-salata-veloce/risultato10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato11.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato12.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-04-09-colomba-salata-veloce/risultato11.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-04-09-colomba-salata-veloce/risultato12.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

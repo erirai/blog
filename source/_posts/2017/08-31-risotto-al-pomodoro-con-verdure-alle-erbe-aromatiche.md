@@ -15,7 +15,7 @@ categories:
 label: 2017-08-31-risotto-al-pomodoro-con-verdure-alle-erbe-aromatiche
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2017-08-31-risotto-al-pomodoro-con-verdure-alle-erbe-aromatiche/header.jpg "frangipani © Erica")
 
 > Ciao Agosto, ciao estate ci vediamo prossimo anno!
 
@@ -83,19 +83,19 @@ Ma parliamo di questa ricettina tanto bella e buona che mi mette subito di buon 
 Per prima cosa pulite il broccolo, i piselli e le taccole, se c'è bisogno tagliateli per avere una misura comoda da mangiare. Fate sbollentare il tutto nell'acqua bollente, giusto il tempo per farli ammorbidire. Scolate la verdura e mettetela da parte. Non buttate l'acqua di cottura che vi servirà per il risotto.
 
 Per il risotto tagliate a metà i pomodorini e fateli saltare in padella con uno spicchio d'aglio, un filo d'olio ed un pizzico di sale. Aggiungete il riso e fatelo tostare, poi aggiungete un po' d'acqua bollente (l'acqua dove avete sbollentato la verdura). Cuocete il riso a fiamma moderata aggiungendo a mano a mano altra acqua bollente  e mescolando di tanto in tanto, non dimenticatevi il sale. 
-![](padella.jpg "frangipani © Erica")
+![](../2017-08-31-risotto-al-pomodoro-con-verdure-alle-erbe-aromatiche/padella.jpg "frangipani © Erica")
 
 Quasi a fine cottura del riso, in una padella a parte fate soffriggere uno spicchio d'aglio con un filo d'olio. Aggiungete la verdura precedentemente sbollentata e le erbe aromatiche, salate e fate insaporire il tutto.
-![](verdura.jpg "frangipani © Erica")
+![](../2017-08-31-risotto-al-pomodoro-con-verdure-alle-erbe-aromatiche/verdura.jpg "frangipani © Erica")
 
 Appena il riso è pronto impiattate. Decidete voi se servire le due cose separatamente o tutto insieme in un piatto...
-![](risultato1.jpg "frangipani © Erica")
+![](../2017-08-31-risotto-al-pomodoro-con-verdure-alle-erbe-aromatiche/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2017-08-31-risotto-al-pomodoro-con-verdure-alle-erbe-aromatiche/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2017-08-31-risotto-al-pomodoro-con-verdure-alle-erbe-aromatiche/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2017-08-31-risotto-al-pomodoro-con-verdure-alle-erbe-aromatiche/risultato4.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

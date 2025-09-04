@@ -12,7 +12,7 @@ categories:
 label: 2018-02-01-reginette-con-pesto-di-noci-e-ricotta-e-radicchio-croccante
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2018-02-01-reginette-con-pesto-di-noci-e-ricotta-e-radicchio-croccante/header.jpg "frangipani © Erica")
 
 > Benvenuto Febbraio, ultimo mese invernale!
 
@@ -76,19 +76,19 @@ Reginette con Pesto di Noci e Ricotta e Radicchio Croccante, un piatto con ingre
 </h3>
 
 Portate ad ebollizione l'acqua per la pasta. Appena bolle, buttate la pasta e salate. Nel frattempo tagliate a pezzetti il radicchio e fatelo saltare in padella con un filo d'olio. Salatelo alla fine, comunque si deve solo ammorbidire leggermente, deve rimanere croccante. Se volete aggiungete anche un pochettino di scorza di limone.
-![](radicchio.jpg "frangipani © Erica")
+![](../2018-02-01-reginette-con-pesto-di-noci-e-ricotta-e-radicchio-croccante/radicchio.jpg "frangipani © Erica")
 
 Per il pesto frullate le noci, la ricotta, un filo d'olio, la scorza di limone ed il parmigiano grattugiato. Se risulta troppo denso aggiungete un pochettino d'acqua e aggiustate di sale.
-![](pesto.jpg "frangipani © Erica")
+![](../2018-02-01-reginette-con-pesto-di-noci-e-ricotta-e-radicchio-croccante/pesto.jpg "frangipani © Erica")
 
 Appena la pasta è cotta, scolatela e tenete da parte un pochettino d'acqua di cottura. Condite la pasta con il pesto, se risulta troppo compatto, aggiungete un pochettino d'acqua di cottura. Impiattate e finite aggiungendo il radicchio, altra scorza di limone e del pepe macinato al momento.
-![](risultato1.jpg "frangipani © Erica")
+![](../2018-02-01-reginette-con-pesto-di-noci-e-ricotta-e-radicchio-croccante/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2018-02-01-reginette-con-pesto-di-noci-e-ricotta-e-radicchio-croccante/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2018-02-01-reginette-con-pesto-di-noci-e-ricotta-e-radicchio-croccante/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2018-02-01-reginette-con-pesto-di-noci-e-ricotta-e-radicchio-croccante/risultato4.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

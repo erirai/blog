@@ -11,7 +11,7 @@ categories:
 label: 2020-11-25-biscotti-linzer-vegani
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2020-11-25-biscotti-linzer-vegani/header.jpeg "frangipani © Erica")
 
 **Biscotti Linzer vegani** dei biscotti friabili, fruttati, speziati, super buoni che sanno di Natale! Non sono dei classici biscotti, vengono cotti un po' tipo crostata e poi tagliati a cubetti. Dei biscotti veloci diciamo, come i <a href="https://frangipani.raiano.ch/2013-10-26-brownies/" target="_blank">Brownies</a>. Per i biscotti Linzer, ma anche per la <a href="https://frangipani.raiano.ch/2017-11-20-linzertorte-vegana/" target="_blank">Linzer Torte</a>, mi piace usare la confettura di ribes rossi, perché è più agra e contrasta benissimo la frolla alle nocciole e mandorle. Ma potete usare ogni tipo di confettura, vi consiglio però una confettura di frutti rossi e senza semini.
 <br />
@@ -24,7 +24,7 @@ Ieri e l'altro ieri ho decorato casa, ho fatto con calma. Normalmente addobbo tu
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Biscotti Linzer vegani</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-11-25-biscotti-linzer-vegani/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Biscotti Linzer vegani dei biscotti friabili, fruttati, speziati, super buoni che sanno di Natale! Non sono dei classici biscotti, vengono cotti un po' tipo crostata e poi tagliati a cubetti.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -93,8 +93,8 @@ Per la frolla mettete farina, mandorle e nocciole macinate, chiodi di garofano i
 Con un mattarello, tra due fogli di carta forno, stendete ca. 2/3 dell'impasto fino a uno spessore di 5mm, poi mettetelo sulla teglia e togliete il foglio di carta di sopra. Spalmate quanto basta di confettura di ribes rossi (va bane anche altra confettura, ma meglio senza semini) su tutta la superficie, lasciando un bordo di 1cm. Dopo stendete il resto dell'impasto fino a uno spessore di 3mm e tagliate delle striscioline. Adagiate le striscioline in diagonale sulla confettura.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="impasto.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-11-25-biscotti-linzer-vegani/impasto.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-11-25-biscotti-linzer-vegani/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -102,26 +102,26 @@ Con un mattarello, tra due fogli di carta forno, stendete ca. 2/3 dell'impasto f
 Infornate nel forno preriscaldato a 180°C ventilato per 20min. Sfornate e fate raffreddare completamente, poi con un coltello ben affilato tagliate il tutto a cubetti o retttangoli, come preferite. Non troppo grandi, a grandezza di biscotti.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-11-25-biscotti-linzer-vegani/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-11-25-biscotti-linzer-vegani/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-11-25-biscotti-linzer-vegani/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-11-25-biscotti-linzer-vegani/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato5.jpeg "frangipani © Erica")
+![](../2020-11-25-biscotti-linzer-vegani/risultato5.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-11-25-biscotti-linzer-vegani/risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-11-25-biscotti-linzer-vegani/risultato7.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

@@ -10,7 +10,7 @@ categories:
 - "Piccola Pasticceria"
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2015-12-12-mandorle-caramellate/header.jpg "frangipani © Erica")
 
 Quando sento l'odore delle mandorle caramellate, mi viene subito in mente il natale... quei meravigliosi mercatini natalizi, col freddo fuori e tutto illuminato dalle luci di natale! Le mandorle caramellate sono l'unica cosa che prendo ogni volta che vado ai mercatini. Mi piaciono troppo! Quindi ho pensato: perché non regalare un po' di profumo di natale?! 
 
@@ -53,19 +53,19 @@ Quando sento l'odore delle mandorle caramellate, mi viene subito in mente il nat
 </h3>
 
 Mettete in una pentola grande lo zucchero, l'acqua e la stecca di vaniglia aperta e portate a ebollizione. 
-![](zucchero.jpg "frangipani © Erica")
+![](../2015-12-12-mandorle-caramellate/zucchero.jpg "frangipani © Erica")
 
 Togliete la stecca di vaniglia, unite le mandorle e a fuoco medio, mescolando di continuo, lasciate sciogliere lo zucchero.
-![](mandorle1.jpg "frangipani © Erica")
+![](../2015-12-12-mandorle-caramellate/mandorle1.jpg "frangipani © Erica")
 
 Dopo un po' di tempo l'acqua sarà completamente evaporata e lo zucchero diventerà biancastro e asciutto, a questo punto continuate sempre a mescolare. Poco a poco lo zucchero aderirà alle mandorle formando uno strato croccante di zucchero.
-![](mandorle2.jpg "frangipani © Erica")
+![](../2015-12-12-mandorle-caramellate/mandorle2.jpg "frangipani © Erica")
 
 A questo punto mettete le mandorle ben larghe su di una leccarda con sotto della carta forno, in modo che non si appiccicano una con l'altra.
-![](teglia.jpg "frangipani © Erica")
+![](../2015-12-12-mandorle-caramellate/teglia.jpg "frangipani © Erica")
 
 Fatele raffreddare completamente, poi mettetele in un recipiente chiuso ermeticamente finché vi serviranno.
-![](risultato.jpg "frangipani © Erica")
+![](../2015-12-12-mandorle-caramellate/risultato.jpg "frangipani © Erica")
 
 
 <h4>Buon appetito

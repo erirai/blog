@@ -9,7 +9,7 @@ categories:
 label: 2017-07-28-fluffosa-al-cioccolato
 lang: it 
 ---
-![](header.jpg "frangipani © Erica")
+![](../2017-07-28-fluffosa-al-cioccolato/header.jpg "frangipani © Erica")
 
 > Happee Birthdae Beautiful Little Sister!
 
@@ -77,26 +77,26 @@ Sinceramente avevo in programma di preparare due dolci freschi, solo che questa 
 </h3>
 
 Separate gli albumi dai tuorli e montate a neve gli albumi con due gocce di succo di limone, mettete da parte. Nella coppa con i tuorli aggiungete l'olio e l'acqua. Con le fruste elettriche mescolate il tutto finché tutto sarà perfettamente amalgamato. Poi aggiungete la farina, il cacao amaro, lo zucchero, il lievito ed il sale, tutto precedentemente setacciato. A questo punto continuate a mescolare con le fruste elettriche per qualche minuto, finché avrete una cremina bella liscia. Poi aggiungete 50gr di cioccolato fondente grattugiato e date un'ultima mescolata. Adesso aggiungete un po' alla volta gli albumi montati a neve e incoropateli aiutandovi con una spatola. Come al solito con un movimento dall'alto verso il basso, facendo attenzione a non far smontare gli albumi.
-![](impasto.jpg "frangipani © Erica")
+![](../2017-07-28-fluffosa-al-cioccolato/impasto.jpg "frangipani © Erica")
 
 Versate l'impasto nello stampo per Chiffon Cake, mi raccomando NON c'è bisogno di imburrarlo ed infarinarlo.
-![](teglia.jpg "frangipani © Erica")
+![](../2017-07-28-fluffosa-al-cioccolato/teglia.jpg "frangipani © Erica")
 
 Poi infornate la Fluffosa al Cioccolato nel forno preriscaldato a 160°C statico per 70-75min, come sempre fate la prova stecchino. Una volta cotta, capovolgetela e lasciatela in questa posizione finché lei non si staccherà da sola, ci vorrà qualche oretta. Se non si staccherà da sola, allora staccatela voi...
-![](capovolta.jpg "frangipani © Erica")
+![](../2017-07-28-fluffosa-al-cioccolato/capovolta.jpg "frangipani © Erica")
 
 Mettete la Fluffosa sul piatto da portata e fate sciogliere a Bagnomaria il resto del cioccolato fondente rimasto. Fatelo colare su tutta la Fluffosa, aspettate un attimino prima di servirla in modo che il cioccolato si asciughi un pochettino...
-![](risultato1.jpg "frangipani © Erica")
+![](../2017-07-28-fluffosa-al-cioccolato/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2017-07-28-fluffosa-al-cioccolato/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2017-07-28-fluffosa-al-cioccolato/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2017-07-28-fluffosa-al-cioccolato/risultato4.jpg "frangipani © Erica")
 
-![](risultato5.jpg "frangipani © Erica")
+![](../2017-07-28-fluffosa-al-cioccolato/risultato5.jpg "frangipani © Erica")
 
-![](risultato6.jpg "frangipani © Erica")
+![](../2017-07-28-fluffosa-al-cioccolato/risultato6.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

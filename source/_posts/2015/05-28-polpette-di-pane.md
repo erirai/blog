@@ -8,7 +8,7 @@ categories:
 - "Secondi Piatti e Contorni"
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2015-05-28-polpette-di-pane/header.jpg "frangipani © Erica")
 
 Mi era venuta una voglia di polpette col sugo, ma non mangiando più carne non sapevo che polpette fare. Poi mia Mamma mi ha detto che prima faceva le polpette di pane... Praticamente sostituiva la carne macinata con il pane, il resto degli ingredienti rimanevano uguali e oggi ho provato a farle! Sono ottime! Io le ho cotte al forno e poi le ho messe nel sugo... ma si possono anche friggere e mangiare senza sugo, forse con delle salsine... Col sughetto poi ci ho condito anche la pasta... Che goduria!!!
 
@@ -71,16 +71,16 @@ Mi era venuta una voglia di polpette col sugo, ma non mangiando più carne non s
 </h3>
 
 Tagliate a pezzettoni il pane e mettetelo in ammollo nel latte o nell'acqua (io ho fatto un po' e un po'). Quando il pane sarà bello bagnato, strizzatelo e mettetelo in una ciotola. Aggiungete l'uovo, il parmigiano grattugiato, 2 cucchiai di pan grattato, il prezzemolo, l'erba cipollina, aggiustate di sale e pepe e impastate. Se serve ancora pan grattato aggiungetelo!
-![](impasto.jpg "frangipani © Erica")
+![](../2015-05-28-polpette-di-pane/impasto.jpg "frangipani © Erica")
 
 Adesso fate le polpette, poi passatele nel pan grattato.
-![](polpette.jpg "frangipani © Erica")
+![](../2015-05-28-polpette-di-pane/polpette.jpg "frangipani © Erica")
 
 Mettete le polpette su di una leccarda con sotto della carta forno oleata.
-![](teglia.jpg "frangipani © Erica")
+![](../2015-05-28-polpette-di-pane/teglia.jpg "frangipani © Erica")
 
 Infornatele nel forno preriscaldato ventilato a 180°C per mezz'oretta. Potete anche friggerle se lo preferite... Adesso sta a voi se le volete mangiare così o metterle nel sugo. Se le mettete nel sugo fatele insaporire una mezz'oretta nel sugo a fiamma bassa. Con il sughetto potete condirci anche la pasta, non vi dico quanto viene buona! Se le mangiate senza sugo vi consiglio di accompagnarle con qualche salsina...
-![](risultato.jpg "frangipani © Erica")
+![](../2015-05-28-polpette-di-pane/risultato.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

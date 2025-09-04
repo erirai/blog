@@ -12,7 +12,7 @@ categories:
 label: 2025-06-04-galette-al-rabarbaro
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2025-06-04-galette-al-rabarbaro/header.jpeg "frangipani © Erica")
 
 **Galette al Rabarbaro** un dolce rustico con un guscio croccante di frolla e un ripieno di rabarbaro. Usando i latticini vegetali, otterrete una **Galette al Rabarbaro vegana**. Mangiata ancora calda accompagnata da del gelato alla vaniglia è il massimo, provare per credere! Lo so, magari sono passate di moda le Galettes, ma io le adoro! Sono rustiche, sono super versatili, si preparano in poco tempo e si possono preparare in tutti i modi possibili e immaginabili.
 
@@ -25,7 +25,7 @@ Questo mese cercherò di usare ancora rabarbaro, perché il 24.6., San Giovanni,
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Galette al Rabarbaro</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2025-06-04-galette-al-rabarbaro/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Galette al Rabarbaro, un dolce rustico con un guscio croccante di frolla e un ripieno di rabarbaro.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -118,57 +118,57 @@ Passato il tempo necessario, tirate fuori dal frigo la pasta frolla e stendetela
 Amalgamate il formaggio spalmabile con un cucchiaio di zucchero e la vaniglia, poi spalmatelo sulla galette lasciando un bordo di 2-3cm. Sopra al formaggio spalmabile mettete una bella spolverata di mandorle macinate.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="frolla.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="crema.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-06-04-galette-al-rabarbaro/frolla.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-06-04-galette-al-rabarbaro/crema.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 Adesso prendete il rabarbaro e adagiatelo a piacere sulla galette. Io ho fatto delle file mettendo i pezzi di rabarbaro girati in diverse direzioni, voi sentitevi liberi di fare come preferite. Aiutandovi con la carta forno, piegate il bordo della frolla sul rabarbaro, chiudendo il bordo. Spennellate il bordo con della panna e fate aderire le mandorle a lamelle su tutto il bordo. Poi finite con una bella spolverata di zucchero di canna su tutta la **Galette al Rabarbaro**.
-![](teglia.jpeg "frangipani © Erica")
+![](../2025-06-04-galette-al-rabarbaro/teglia.jpeg "frangipani © Erica")
 
 Infornate la **Galette al Rabarbaro** nel forno preriscaldato a 180°C ventilato per 40min. Controllate spesso, non deve prendere troppo colore! Fatela raffreddare leggermente e se volete, servitela accompagnata con una palla di gelato alla vaniglia!
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-06-04-galette-al-rabarbaro/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-06-04-galette-al-rabarbaro/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-06-04-galette-al-rabarbaro/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-06-04-galette-al-rabarbaro/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-06-04-galette-al-rabarbaro/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-06-04-galette-al-rabarbaro/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-06-04-galette-al-rabarbaro/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-06-04-galette-al-rabarbaro/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-06-04-galette-al-rabarbaro/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-06-04-galette-al-rabarbaro/risultato10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
-![](risultato11.jpeg "frangipani © Erica")
+![](../2025-06-04-galette-al-rabarbaro/risultato11.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

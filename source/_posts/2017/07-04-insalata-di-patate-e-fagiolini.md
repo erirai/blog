@@ -13,7 +13,7 @@ categories:
 label: 2017-07-04-insalata-di-patate-e-fagiolini
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2017-07-04-insalata-di-patate-e-fagiolini/header.jpg "frangipani © Erica")
 
 > Benvenuto Luglio!
 
@@ -57,12 +57,12 @@ Mmm, questa insalata per me significa ESTATE! È un piatto così semplice e pove
 </h3>
 
 Se avete i fagiolini freschi, puliteli eliminando le due estremità, se no quelli congelati vanno altrettanto bene. Lavate bene le patate, pelate le cipolle e tagliatele in quattro. Mettete il tutto in una pentola capiente e coprite con dell'acqua.
-![](pentola.jpg "frangipani © Erica")
+![](../2017-07-04-insalata-di-patate-e-fagiolini/pentola.jpg "frangipani © Erica")
 
 Fate bollire il tutto finché le patate non saranno cotte. Poi scolate tutto, pelate le patate e tagliatele a pezzetti. Mettete tutto insieme in una coppa, condite con olio, sale e abbondante basilico. Questa insalata potete mangiarla sia calda che fredda, è sempre buona!
-![](risultato1.jpg "frangipani © Erica")
+![](../2017-07-04-insalata-di-patate-e-fagiolini/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2017-07-04-insalata-di-patate-e-fagiolini/risultato2.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

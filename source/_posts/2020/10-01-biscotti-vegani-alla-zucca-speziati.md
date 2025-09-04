@@ -13,7 +13,7 @@ categories:
 label: 2020-10-01-biscotti-vegani-alla-zucca-speziati
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2020-10-01-biscotti-vegani-alla-zucca-speziati/header.jpeg "frangipani © Erica")
 
 **Biscotti vegani alla Zucca speziati** dei biscotti friabili dal gusto deciso e speziato e pieni di gocce di cioccolato. Sono perfetti da inzuppare nel latte o nel té. Profumano di autunno, con il mix di spezie del <a href="https://frangipani.raiano.ch/2016-10-12-pumpkin-spice-latte/" target="_blank">Pumpkin Spice</a> o se preferite anche solo di cannella.
 <br />
@@ -30,7 +30,7 @@ Beh, benvenuto Ottobre! IL mese della zucca, il mese che porta il buio ma che sa
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Biscotti vegani alla Zucca speziati</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-10-01-biscotti-vegani-alla-zucca-speziati/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Biscotti vegani alla Zucca speziati dei biscotti friabili dal gusto deciso e speziato e pieni di gocce di cioccolato. Sono perfetti da inzuppare nel latte o nel té.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -90,39 +90,39 @@ Beh, benvenuto Ottobre! IL mese della zucca, il mese che porta il buio ma che sa
 Mettete la purea di zucca, lo zucchero, l'olio, lo sciroppo d'acero e il pumpkin spice o la cannella in una coppa e amalgamate tutto. Adesso aggiungete la farina, il lievito ed il sale e impastate tutto velocemente con le mani. Per ultimo aggiungete anche le gocce di cioccolato.
 <br />
 Prendete una cucchiaiata dell'impasto e fate circa 25 palline dalla grandezza di una noce e adagiatele su di una teglia con sotto della carta forno.
-![](teglia.jpeg "frangipani © Erica")
+![](../2020-10-01-biscotti-vegani-alla-zucca-speziati/teglia.jpeg "frangipani © Erica")
 
 Infornate i biscotti nel forno preriscaldato ventilato a 180°C per circa 15min. Fateli intiepidire leggermente prima di passarli su di una griglia per farli raffreddare completamente.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-10-01-biscotti-vegani-alla-zucca-speziati/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-10-01-biscotti-vegani-alla-zucca-speziati/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-10-01-biscotti-vegani-alla-zucca-speziati/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-10-01-biscotti-vegani-alla-zucca-speziati/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-10-01-biscotti-vegani-alla-zucca-speziati/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-10-01-biscotti-vegani-alla-zucca-speziati/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato7.jpeg "frangipani © Erica")
+![](../2020-10-01-biscotti-vegani-alla-zucca-speziati/risultato7.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-10-01-biscotti-vegani-alla-zucca-speziati/risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-10-01-biscotti-vegani-alla-zucca-speziati/risultato9.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

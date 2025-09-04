@@ -13,7 +13,7 @@ categories:
 label: 2021-06-29-insalata-di-cavolfiore
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2021-06-29-insalata-di-cavolfiore/header.jpeg "frangipani © Erica")
 
 **Insalata di Cavolfiore** un contorno leggero, fresco e facilissimo da preparare. Vi assicuro che questa insalata piace anche a chi non ama particolarmente il cavolfiore... Anche perché io dico sempre: se non ti piace qualcosa, metti tanto limone e ti piacerà. E questa cosa funziona perché la mangiamo tutti molto volentieri.
 <br />
@@ -29,7 +29,7 @@ E devo dire ancora una cosa... Bentornata Estate! Felicissima di riaverti qui! F
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Insalata di Cavolfiore</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2021-06-29-insalata-di-cavolfiore/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Insalata di Cavolfiore un contorno leggero, fresco e facilissimo da preparare. Vi assicuro che questa insalata piace anche a chi non ama particolarmente il cavolfiore...</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -80,13 +80,13 @@ Una volta freddo condite il cavolfiore con succo di limone, aglio in polvere, ol
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-06-29-insalata-di-cavolfiore/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-06-29-insalata-di-cavolfiore/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato3.jpeg "frangipani © Erica")
+![](../2021-06-29-insalata-di-cavolfiore/risultato3.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

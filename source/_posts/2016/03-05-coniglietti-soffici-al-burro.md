@@ -12,7 +12,7 @@ categories:
 label: 2016-03-05-coniglietti-soffici-al-burro
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2016-03-05-coniglietti-soffici-al-burro/header.jpeg "frangipani © Erica")
 
 **Coniglietti Soffici al Burro** perfetti per la colazione di Pasqua, anche da preparare in anticipo. Si possono preparare tranquillamente anche vegani, basta usare il burro vegetale o la margarina ed il latte vegetale.
 <br />
@@ -25,7 +25,7 @@ Ok, basta parlare della Primavera e ritorniamo in cucina. Oggi ho preparato ques
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Coniglietti Soffici al Burro</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2016-03-05-coniglietti-soffici-al-burro/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Coniglietti Soffici al Burro, perfetti per la colazione di Pasqua, anche da preparare in anticipo.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -74,9 +74,9 @@ Mettete nella planetaria la farina, il sale e lo zucchero. Fate riscaldare legge
 Passato il tempo della lievitazione, dividete l'impasto in otto parti uguali. Poi iniziate a formare i coniglietti...
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 32%; margin-right: 1%;" src="coniglietto1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="coniglietto2.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-left: 1%;" src="coniglietto3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%;" src="../2016-03-05-coniglietti-soffici-al-burro/coniglietto1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="../2016-03-05-coniglietti-soffici-al-burro/coniglietto2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-left: 1%;" src="../2016-03-05-coniglietti-soffici-al-burro/coniglietto3.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -84,61 +84,61 @@ Passato il tempo della lievitazione, dividete l'impasto in otto parti uguali. Po
 O così...
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 32%; margin-right: 1%;" src="coniglietto4.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="coniglietto5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-left: 1%;" src="coniglietto6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%;" src="../2016-03-05-coniglietti-soffici-al-burro/coniglietto4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="../2016-03-05-coniglietti-soffici-al-burro/coniglietto5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-left: 1%;" src="../2016-03-05-coniglietti-soffici-al-burro/coniglietto6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 Mettete i coniglietti su di una leccarda con sotto della carta forno. Non metteteli troppo vicini che dovranno ancora lievitare... Poi fateli lievitare, sempre coperti, per mezz'oretta.
-![](teglia.jpeg "frangipani © Erica")
+![](../2016-03-05-coniglietti-soffici-al-burro/teglia.jpeg "frangipani © Erica")
 
 Spennellateli con del latte, se volete aggiungete gli occhietti fatti di uvetta e della granella di zucchero (non mettete la granella di zucchero se intendete congelarli). Infornate i coniglietti nel forno preriscaldato a 220°C statico per 12-15min, o almeno fino a doratura. Poi passateli su di una griglia e fateli raffreddare completamente. 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2016-03-05-coniglietti-soffici-al-burro/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2016-03-05-coniglietti-soffici-al-burro/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2016-03-05-coniglietti-soffici-al-burro/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2016-03-05-coniglietti-soffici-al-burro/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2016-03-05-coniglietti-soffici-al-burro/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2016-03-05-coniglietti-soffici-al-burro/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2016-03-05-coniglietti-soffici-al-burro/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2016-03-05-coniglietti-soffici-al-burro/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2016-03-05-coniglietti-soffici-al-burro/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2016-03-05-coniglietti-soffici-al-burro/risultato10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato11.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato12.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2016-03-05-coniglietti-soffici-al-burro/risultato11.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2016-03-05-coniglietti-soffici-al-burro/risultato12.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

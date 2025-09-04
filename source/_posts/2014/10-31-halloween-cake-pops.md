@@ -10,7 +10,7 @@ categories:
 - "Muffin, Cupcakes, Cake Pops..."
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2014-10-31-halloween-cake-pops/header.jpg "frangipani © Erica")
 
 >Happy Halloween a tutti e grazie a mio marito per l'aiuto!!!
 
@@ -86,38 +86,38 @@ Già a settembre ho iniziato a guardare cosa poter fare questo Halloween. Dato c
 </h3>
 
 Mettete tutti gli ingredienti per la torta, tranne il formaggio spalmabile, nella planetaria e mescolate il tutto finché tutti gli ingredienti saranno ben amalgamati. Versate l'impasto in una teglia e infornate nel forno preriscaldato ventilato a 180°C per ca. 25min, mi raccomando fate sempre la prova stecchino.
-![](impasto.jpg "frangipani © Erica")
+![](../2014-10-31-halloween-cake-pops/impasto.jpg "frangipani © Erica")
 
 Fate raffreddare completamente la torta prima di procedere.
-![](torta.jpg "frangipani © Erica")
+![](../2014-10-31-halloween-cake-pops/torta.jpg "frangipani © Erica")
 
 Appena la torta è completamente fredda, prendete una ciotola grande e sbriciolate la torta più finemente possibile aiutandovi con le mani.
-![](sbriciolata.jpg "frangipani © Erica")
+![](../2014-10-31-halloween-cake-pops/sbriciolata.jpg "frangipani © Erica")
 
 A questo punto aggiungete un po' di formaggio spalmabile e iniziate ad impastare. Dovrà risultare un composto bello compatto ma non sbricioloso, quindi aggiungete il formaggio spalmabile finché sarà perfetto! Prendete un po' d'impasto, fate una pallina e schiacciatela leggermente. Se rimane bella compatta va bene, se si sbriciola dovrete aggiungere ancora del formaggio.
-![](riimpasto.jpg "frangipani © Erica")
+![](../2014-10-31-halloween-cake-pops/riimpasto.jpg "frangipani © Erica")
 
 Appena l'impasto è pronto potete iniziare a formare i Cake Pops. Prendete un po' d'impasto alla volta, caso mai potete aiutarvi con un porzionatore per gelato e fate delle palline per le zucche, degli ovali per le mummie, dei rettangoli per i Frankenstein ecc. Fate le forme che volete, io vi do solamente un'idea! Mettete i Cake Pops su di una teglia con sotto della carta forno e mettete in frigo per mezz'oretta.
-![](palline.jpg "frangipani © Erica")
+![](../2014-10-31-halloween-cake-pops/palline.jpg "frangipani © Erica")
 
-![](rettangoli.jpg "frangipani © Erica")
+![](../2014-10-31-halloween-cake-pops/rettangoli.jpg "frangipani © Erica")
 
 Nel frattempo fate sciogliere le glasse colorate, se dovessero risultare troppo dense aggiungete dell'olio di cocco o dell'olio di semi neutro. Passate la glasse dentro dei recipienti stretti e lunghi in modo che sia più facile immergere i Cake Pops.
-![](glassa.jpg "frangipani © Erica")
+![](../2014-10-31-halloween-cake-pops/glassa.jpg "frangipani © Erica")
 
 Adesso dobbiamo infilzare i bastoncini nei Cake Pops, prendete un bastoncino e immergetelo fino a 2cm nell'apposita glassa e poi infilzate il bastoncino nel Cake Pop.
-![](infilzare.jpg "frangipani © Erica")
+![](../2014-10-31-halloween-cake-pops/infilzare.jpg "frangipani © Erica")
 
 Rimetteteli sulla teglia e fate asciugare completamente la glassa. Poi iniziate ad immergere i Cake Pops nelle glasse facendoli roteare un po' e per far cadere la glassa in eccesso date dei colpettini leggeri.
-![](glassare.jpg "frangipani © Erica")
+![](../2014-10-31-halloween-cake-pops/glassare.jpg "frangipani © Erica")
 
-![](sbattere.jpg "frangipani © Erica")
+![](../2014-10-31-halloween-cake-pops/sbattere.jpg "frangipani © Erica")
 
 Fate asciugare la glassa e finite di decorare.
-![](asciugare.jpg "frangipani © Erica")
+![](../2014-10-31-halloween-cake-pops/asciugare.jpg "frangipani © Erica")
 
 Io ho ricoperto una semisfera di polistirolo con della carta velina e ci ho infilzato i Cake Pops.
-![](risultato.jpg "frangipani © Erica")
+![](../2014-10-31-halloween-cake-pops/risultato.jpg "frangipani © Erica")
 
 
 <h4>Buon appetito

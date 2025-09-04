@@ -12,7 +12,7 @@ categories:
 label: 2020-06-30-crostata-morbida-con-crema-al-latte-crema-di-nocciole-e-fragole
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2020-06-30-crostata-morbida-con-crema-al-latte-crema-di-nocciole-e-fragole/header.jpeg "frangipani © Erica")
 
 **Crostata Morbida con Crema al latte, Crema di Nocciole e Fragole** dal gusto molto delicato e semplice, ma tanto tanto buona! Sa di biscotto, latte, cioccolato e fragole... Sì, proprio così. È una torta fresca da mangiare fredda da frigo, perfetta per queste belle giornate. Poi tanti di noi hanno questo stampo furbo ma non lo usiamo! Questa è la volta buona per usarlo...
 <br />
@@ -25,7 +25,7 @@ Non c'è paragone con le fragole comprate al supermercato! Ultimamente quelle ch
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Crostata Morbida con Crema al latte, Crema di Nocciole e Fragole</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-06-30-crostata-morbida-con-crema-al-latte-crema-di-nocciole-e-fragole/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Crostata Morbida con Crema al latte, Crema di Nocciole e Fragole dal gusto molto delicato e semplice, ma tanto tanto buona! Sa di biscotto, latte, cioccolato e fragole...</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -121,53 +121,53 @@ Livellate un pochettino la base per la crostata morbida, poi mettetela sul piatt
 <br />
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="baseecrema.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="crostatamorbida.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-06-30-crostata-morbida-con-crema-al-latte-crema-di-nocciole-e-fragole/baseecrema.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-06-30-crostata-morbida-con-crema-al-latte-crema-di-nocciole-e-fragole/crostatamorbida.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 Adesso decorate la torta con le fragole, come piace a voi. Finite spennellando su tutte le fragole della confettura di albicocche o altra gelatina. Mettete in frigo per almeno due ore prima di servirla... 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-06-30-crostata-morbida-con-crema-al-latte-crema-di-nocciole-e-fragole/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-06-30-crostata-morbida-con-crema-al-latte-crema-di-nocciole-e-fragole/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato3.jpeg "frangipani © Erica")
+![](../2020-06-30-crostata-morbida-con-crema-al-latte-crema-di-nocciole-e-fragole/risultato3.jpeg "frangipani © Erica")
 
-![](risultato4.jpeg "frangipani © Erica")
+![](../2020-06-30-crostata-morbida-con-crema-al-latte-crema-di-nocciole-e-fragole/risultato4.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-06-30-crostata-morbida-con-crema-al-latte-crema-di-nocciole-e-fragole/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-06-30-crostata-morbida-con-crema-al-latte-crema-di-nocciole-e-fragole/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-06-30-crostata-morbida-con-crema-al-latte-crema-di-nocciole-e-fragole/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-06-30-crostata-morbida-con-crema-al-latte-crema-di-nocciole-e-fragole/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato9.jpeg "frangipani © Erica")
+![](../2020-06-30-crostata-morbida-con-crema-al-latte-crema-di-nocciole-e-fragole/risultato9.jpeg "frangipani © Erica")
 
-![](risultato10.jpeg "frangipani © Erica")
+![](../2020-06-30-crostata-morbida-con-crema-al-latte-crema-di-nocciole-e-fragole/risultato10.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato11.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato12.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-06-30-crostata-morbida-con-crema-al-latte-crema-di-nocciole-e-fragole/risultato11.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-06-30-crostata-morbida-con-crema-al-latte-crema-di-nocciole-e-fragole/risultato12.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato13.jpeg "frangipani © Erica")
+![](../2020-06-30-crostata-morbida-con-crema-al-latte-crema-di-nocciole-e-fragole/risultato13.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

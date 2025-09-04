@@ -12,7 +12,7 @@ categories:
 - Panificati
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2013-12-06-treccia-russa/header.jpg "frangipani © Erica")
 
 **Treccia Russa**, ovvero una treccia dolce con ripieno alle Nocciole che è la fine del mondo!
 
@@ -23,7 +23,7 @@ Il 6 dicembre qui in Svizzera Santa Claus viene a casa dei bambini per portargli
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Treccia Russa (Treccia dolce con ripieno alle Nocciole)</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2013-12-06-treccia-russa/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Treccia Russa, ovvero una treccia dolce con ripieno alle Nocciole che è la fine del mondo!</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -121,36 +121,36 @@ Il 6 dicembre qui in Svizzera Santa Claus viene a casa dei bambini per portargli
 {% youtube UvnCqbhwxTw %}
 
 Impastate tutti gli ingredienti per l'impasto, poi mettetelo a lievitare a temperatura ambiente per ca. 4 ore o finché avrà raddoppiato il suo volume. Se non avete tutto questo tempo aumentate la dose del lievito. Potete preparare l'impasto anche la sera prima usando la metà del lievito e lasciandolo lievitare per tutta la notte a temperatura ambiente.
-![](impasto.jpg "frangipani © Erica")
+![](../2013-12-06-treccia-russa/impasto.jpg "frangipani © Erica")
 
 Nel frattempo preparate il ripieno, mescolando insieme tutti gli ingredienti.
-![](ripieno.jpg "frangipani © Erica")
+![](../2013-12-06-treccia-russa/ripieno.jpg "frangipani © Erica")
 
 Stendete l'impasto cercando di fare un rettangolo e spalmateci sopra il ripieno.
-![](stesa.jpg "frangipani © Erica")
+![](../2013-12-06-treccia-russa/stesa.jpg "frangipani © Erica")
 
 Arrotolatela e tagliatela a metà per il lungo.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="arrotolata.jpg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="tagliata.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2013-12-06-treccia-russa/arrotolata.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2013-12-06-treccia-russa/tagliata.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 Poi mettetela direttamente in una teglia con sotto della carta forno, attorcigliate i due pezzi e fatela lievitare ancora per mezz'oretta.
-![](intrecciata.jpg "frangipani © Erica")
+![](../2013-12-06-treccia-russa/intrecciata.jpg "frangipani © Erica")
 
 Ora infornate la treccia russa nel forno preriscaldato a 180°C per 30min (controllate può essere che ci vuole più o meno tempo)! Preparate velocemente la glassa mescolando tutti gli ingredienti e spalmatela sulla treccia appena sfornata.
-![](risultato1.jpg "frangipani © Erica")
+![](../2013-12-06-treccia-russa/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2013-12-06-treccia-russa/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2013-12-06-treccia-russa/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2013-12-06-treccia-russa/risultato4.jpg "frangipani © Erica")
 
-![](risultato5.jpg "frangipani © Erica")
+![](../2013-12-06-treccia-russa/risultato5.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

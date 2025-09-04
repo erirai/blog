@@ -12,7 +12,7 @@ categories:
 label: 2025-02-12-crostata-di-marmellata
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2025-02-12-crostata-di-marmellata/header.jpeg "frangipani © Erica")
 
 Pubblicità: **Crostata di Marmellata** in collaborazione con <a href="https://www.farmy.ch" target="_blank">Farmy</a>. La crostata più semplice in assoluto, perfetta per la colazione o per la merenda. Vi serve solo fare la pasta frolla e farcirla con la marmellata o la confettura che preferite. Io preferisco di gran lunga la confettura di lamponi o di ciliegie, ma diciamo che la classica sarebbe con la confettura di albicocche... Va bene tutto, anche una marmellata di arance per dire!
 <br />
@@ -25,7 +25,7 @@ Per la frolla ci vogliono pochi ingredienti, ma buoni. Farina, zucchero a velo, 
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Crostata di Marmellata</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2025-02-12-crostata-di-marmellata/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Crostata di Marmellata, la crostata più semplice in assoluto, perfetta per la colazione o per la merenda.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -74,8 +74,8 @@ Preparate la frolla: mettete farina, zucchero a velo e sale in una coppa capient
 Passato il tempo necessario, uscite la frolla dal frigo e lasciatela a temperatura ambiente per 10min circa per farla ammorbidire un pochino. Se non volete fare questo coperchio con i cuori come ho fatto io, saltate il prossimo passaggio e alla fine fate la classica griglia tipica delle crostate. Dunque, mettete un velo di farina sul piano di lavoro, prendete metà dell'impasto, mettete un velo di farina anche sulla frolla e aiutandovi con un mattarello stendetelo fino a uno spessore di 4mm. Prendete la teglia e usatela come coppapasta, ricavandone un disco. Mettete il disco di frolla su una teglia e con una formina a cuore fate qualche decoro. Mettete il disco in frigo.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="frolla.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="coperchio.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-02-12-crostata-di-marmellata/frolla.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-02-12-crostata-di-marmellata/coperchio.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -83,8 +83,8 @@ Passato il tempo necessario, uscite la frolla dal frigo e lasciatela a temperatu
 Adesso prendete il resto della frolla, mettete un velo di farina sul piano di lavoro, mettete un velo di farina anche sulla frolla e aiutandovi con un mattarello stendetelo fino a uno spessore di 4mm. Rivestite la teglia con la frolla, aggiustate i bordi e fate aderire bene il bordo alla teglia. Con una forchetta fate tanti buchini sulla base della crostata per non farla gonfiare in cottura. Distribuite uniformemente la marmellata o la confettura di vostro piacimento su tutta la base, non troppa, non poca. Prendete il disco di frolla e molto delicatamente appoggiatelo sulla marmellata. Con gli scarti della frolla potete fare qualche altro cuoricino e metterlo come decorazione. Fate riposare la **Crostata di Marmellata** in frigo per mezz'oretta.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="marmellata.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-02-12-crostata-di-marmellata/marmellata.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-02-12-crostata-di-marmellata/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -92,56 +92,56 @@ Adesso prendete il resto della frolla, mettete un velo di farina sul piano di la
 Infornate la **Crostata di Marmellata** nella parte bassa del forno (se avete 5 ripiani, mettetela al secondo da sotto per capirci) preriscaldato a 170°C statico per 35-40min. Passata le mezz'oretta tenetela sotto controllo per non farla bruciare. Una volta sfornata, fatela intiepidire prima di toglierla dalla forma.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-02-12-crostata-di-marmellata/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-02-12-crostata-di-marmellata/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-02-12-crostata-di-marmellata/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-02-12-crostata-di-marmellata/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-02-12-crostata-di-marmellata/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-02-12-crostata-di-marmellata/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-02-12-crostata-di-marmellata/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-02-12-crostata-di-marmellata/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-02-12-crostata-di-marmellata/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-02-12-crostata-di-marmellata/risultato10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato11.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato12.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-02-12-crostata-di-marmellata/risultato11.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-02-12-crostata-di-marmellata/risultato12.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato13.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato14.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-02-12-crostata-di-marmellata/risultato13.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-02-12-crostata-di-marmellata/risultato14.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

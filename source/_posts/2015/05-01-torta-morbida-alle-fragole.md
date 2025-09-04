@@ -12,7 +12,7 @@ categories:
 - Torte
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2015-05-01-torta-morbida-alle-fragole/header.jpg "frangipani © Erica")
 
 > Dedico questa torta a tutte le Mamme, ma soprattutto alla mia Mamma!
 
@@ -81,13 +81,13 @@ Ero alla ricerca di una torta da fare per la Festa della Mamma, solo che poi mi 
 </h3>
 
 Lavorate con le fruste elettriche lo zucchero insieme al burro, poi unite l'uovo e il latte e continuate a mescolare. Aggiungete il sale, la vaniglia e la farina setacciata con il lievito e amalgamate bene.
-![](impasto.jpg "frangipani © Erica")
+![](../2015-05-01-torta-morbida-alle-fragole/impasto.jpg "frangipani © Erica")
 
 Versate l'impasto in uno stampo da 22cm precedentemente imburrato ed infarinato (o ancora meglio una teglia a forma di cuore). Livellate un po', mettete sopra le fragole tagliate a metà e cospargete con due cucchiai di zucchero di canna.
-![](teglia.jpg "frangipani © Erica")
+![](../2015-05-01-torta-morbida-alle-fragole/teglia.jpg "frangipani © Erica")
 
 Infornate la torta nel forno preriscaldato a 180°C per 10min, poi abbassate a 160°C e continuate la cottura per altri 45min. Mi raccomando fate sempre la prova stecchino. Fatela raffreddare e finite con una bella spolverata di zucchero a velo.
-![](risultato.jpg "frangipani © Erica")
+![](../2015-05-01-torta-morbida-alle-fragole/risultato.jpg "frangipani © Erica")
 
 <h3>
   <font color="#FFCC00">

@@ -11,7 +11,7 @@ categories:
 label: 2013-11-25-chocolate-chip-cookies
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2013-11-25-chocolate-chip-cookies/header.jpeg "frangipani © Erica")
 
 **Chocolate Chip Cookies** dei biscotti friabili e pieni di cioccolato che piacciono a tutti! Belli burrosi, con quei pezzetti di cioccolato goduriosi.
 <br />
@@ -27,7 +27,7 @@ Mio marito per domani voleva dei dolcetti da potersi portare per un viaggetto in
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Chocolate Chip Cookies</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2013-11-25-chocolate-chip-cookies/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Chocolate Chip Cookies dei biscotti friabili e pieni di cioccolato che piacciono a tutti! Belli burrosi, con quei pezzetti di cioccolato goduriosi.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -82,37 +82,37 @@ Mio marito per domani voleva dei dolcetti da potersi portare per un viaggetto in
 </h3>
 
 Mettete il burro e lo zucchero in una coppa e mescolate con un cucchiaio, finché i due ingredienti si saranno amalgamati bene. Poi mettete l'uovo e la vaniglia e mescolate ancora. Aggiungete la farina setacciata ed un pizzico di sale e continuate a mescolare. Per ultimo aggiungete il cioccolato a pezzetti e impastate velocemente con le mani. Prendete una cucchiaiata d'impasto (meglio ancora va con il porzionatore per gelato), fate una pallina, mettetela sulla teglia. Mettete la teglia con le palline d'impasto in frigo per almeno 1h.
-![](crudi.jpg "frangipani © Erica")
+![](../2013-11-25-chocolate-chip-cookies/crudi.jpg "frangipani © Erica")
 
 Mettete massimo 9 Cookies su di una teglia con della carta forno e infornateli nel forno preriscaldato a 190°C statico per circa 12min. Sfornateli e fateli raffreddare nella teglia stessa. Una volta freddi conservateli in un barattolo chiuso ermeticamente.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2013-11-25-chocolate-chip-cookies/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2013-11-25-chocolate-chip-cookies/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2013-11-25-chocolate-chip-cookies/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2013-11-25-chocolate-chip-cookies/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2013-11-25-chocolate-chip-cookies/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2013-11-25-chocolate-chip-cookies/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2013-11-25-chocolate-chip-cookies/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2013-11-25-chocolate-chip-cookies/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

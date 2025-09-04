@@ -11,7 +11,7 @@ categories:
 label: 2023-04-12-brioche-suisse
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2023-04-12-brioche-suisse/header.jpeg "frangipani © Erica")
 
 **Brioche Suisse** delle brioches francesi sofficissime con un ripieno di crema pasticcera e gocce di cioccolato. Inutile dirvi che sono divine!
 
@@ -28,7 +28,7 @@ Se vi avanzano, potete chiuderli ermeticamente e il giorno dopo saranno ancora s
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Brioche Suisse</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2023-04-12-brioche-suisse/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Brioche Suisse, delle brioches francesi sofficissime con un ripieno di crema pasticcera e gocce di cioccolato.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -116,9 +116,9 @@ Durante la lievitazione (o il giorno prima) preparate la crema pasticcera: sbatt
 Riprendete l'impasto e con l'aiuto di un matterello formate un rettangolo da 30x40cm circa. Spalmate la crema pasticcera su metà impasto (parte bassa), distribuite sopra alla crema le gocce o i pezzetti di cioccolato, schiacciate un pochettino, poi ripiegate l'impasto coprendo tutto. Schiacciate delicatamente, avvolgete con della pellicola e mettete in frigo per mezz'oretta. 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 32%; margin-right: 1%;" src="impasto.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="farcire.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-left: 1%;" src="piegato.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%;" src="../2023-04-12-brioche-suisse/impasto.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="../2023-04-12-brioche-suisse/farcire.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-left: 1%;" src="../2023-04-12-brioche-suisse/piegato.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -126,8 +126,8 @@ Riprendete l'impasto e con l'aiuto di un matterello formate un rettangolo da 30x
 A questo punto uscite l'impasto dal frigo, con un coltello ben affilato tagliate delle strisce regolari da 5cm. Distribuite le Brioches ben distanziate su di una teglia con della carta forno di sotto, coprite e fate lievitare per altre 2 orette. Poi spennellate la superficie delle **Brioches Suisses** con del latte o tuorlo d'uovo.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="tagliato.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-04-12-brioche-suisse/tagliato.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-04-12-brioche-suisse/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -135,40 +135,40 @@ A questo punto uscite l'impasto dal frigo, con un coltello ben affilato tagliate
 Infornate nel forno preriscaldato a 180°C statico per 15min. Fateli intiepidire prima di gustarli.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-04-12-brioche-suisse/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-04-12-brioche-suisse/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-04-12-brioche-suisse/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-04-12-brioche-suisse/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-04-12-brioche-suisse/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-04-12-brioche-suisse/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-04-12-brioche-suisse/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-04-12-brioche-suisse/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-04-12-brioche-suisse/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-04-12-brioche-suisse/risultato10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

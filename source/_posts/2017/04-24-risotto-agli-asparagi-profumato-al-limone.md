@@ -15,7 +15,7 @@ categories:
 label: 2017-04-24-risotto-agli-asparagi-profumato
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2017-04-24-risotto-agli-asparagi-profumato-al-limone/header.jpeg "frangipani © Erica")
 
 **Risotto agli Asparagi profumato al Limone** un risotto fresco e gustoso. Un piatto vegano facilissimo.
 
@@ -26,7 +26,7 @@ Ho notato che faccio poche ricette con il riso... Non so per quale motivo, il ri
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Risotto agli Asparagi profumato al Limone</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2017-04-24-risotto-agli-asparagi-profumato-al-limone/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Risotto agli Asparagi profumato al Limone, un risotto fresco e gustoso. Un piatto vegano facilissimo.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -76,29 +76,29 @@ Ho notato che faccio poche ricette con il riso... Non so per quale motivo, il ri
 </h3>
 
 Eliminate la parte dura legnosa degli asparagi, ma non buttateli. Tagliate a rondelline piccole la parte tenera degli asparagi tenendo da parte le punte. Tagliate finemente lo scalogno e fatelo soffriggere in un tegame con un filo d'olio ed un pizzico di sale. Adesso aggiungete gli asparagi (senza le punte) e fate saltare per due minuti. Aggingete il riso e fatelo tostare per un minuto sempre mescolando. 
-![](padella.jpeg "frangipani © Erica")
+![](../2017-04-24-risotto-agli-asparagi-profumato-al-limone/padella.jpeg "frangipani © Erica")
 
 Aggiungete il succo del limone e cuocete il riso a fiamma moderata aggiungendo a mano a mano altra acqua bollente aromatizzata con gli scarti degli asparagi e mescolando di tanto in tanto, non dimenticatevi il sale. Quasi a fine cottura aggiungete anche le punte degli asparagi e la scorza di limone quanto basta. Impiattate e finite con altra scorza di limone.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2017-04-24-risotto-agli-asparagi-profumato-al-limone/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2017-04-24-risotto-agli-asparagi-profumato-al-limone/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2017-04-24-risotto-agli-asparagi-profumato-al-limone/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2017-04-24-risotto-agli-asparagi-profumato-al-limone/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2017-04-24-risotto-agli-asparagi-profumato-al-limone/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2017-04-24-risotto-agli-asparagi-profumato-al-limone/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

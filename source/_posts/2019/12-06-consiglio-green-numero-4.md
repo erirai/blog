@@ -9,7 +9,7 @@ categories:
 label: 2019-12-06-consiglio-4
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2019-12-06-consiglio-green-numero-4/header.jpeg "frangipani © Erica")
 
 <h3>
   <font color="grey">
@@ -19,7 +19,7 @@ lang: it
 Oggi vorrei condividere con voi dei CONSIGLI PER UN NATALE PIÙ GREEN E SOSTENIBILE. Purtroppo Natale è diventato la festa dei regali. Io amo fare i regali, ma negli ultimi anni ho ridotto parecchio! Ridotto, nel senso che non vado più a comprare regali per tutti, ma cerco di preparare dei regali fatti in casa. È molto meno stressante. Perché sinceramente non piace a nessuno andare in cerca di regali a Dicembre, quando i negozi sono sempre pieni zeppi. Che poi ormai abbiamo già tutto e fare regali è diventata un'impresa impossibile. Per questo motivo, la probabilità di fare o ricevere un regalo poco utile è molto alta.
 <br />
 Fortunatamente però, il Natale non è fatto solo di regali. C'è tanto buon cibo condiviso con le persone a cui vogliamo bene e anche qui purtroppo ci sono tante trappole poco green. Iniziando con la frutta e verdura fuori stagione che viene importata da non so dove. Dobbiamo avere a disposizione tutto, sempre!
-![](green14.jpeg "frangipani © Erica")
+![](../2019-12-06-consiglio-green-numero-4/green14.jpeg "frangipani © Erica")
 
 <h3>
 	<font color="grey">
@@ -47,17 +47,17 @@ Ormai preferisco in gran lunga preparare regali fatti in casa. Tantissime cose l
 <a href="https://frangipani.raiano.ch/2015-12-13-cioccolata-calda-fatta-in-casa/" target="_blank">Cioccolata Calda</a>
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 32%; margin-right: 1%;" src="green1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="green2.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-left: 1%;" src="green3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%;" src="../2019-12-06-consiglio-green-numero-4/green1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="../2019-12-06-consiglio-green-numero-4/green2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-left: 1%;" src="../2019-12-06-consiglio-green-numero-4/green3.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 32%; margin-right: 1%;" src="green4.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="green5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-left: 1%;" src="green6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%;" src="../2019-12-06-consiglio-green-numero-4/green4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="../2019-12-06-consiglio-green-numero-4/green5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-left: 1%;" src="../2019-12-06-consiglio-green-numero-4/green6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -69,7 +69,7 @@ Regaliamo il nostro tempo, perché è la cosa più preziosa che abbiamo. Invitia
 **4. Scegliere un packaging ecologico**
 <br />
 La prima regola in questo caso è: utilizziamo quello che abbiamo in casa. Sia i rotoli di carta da regalo, ma anche la carta o i nastri riciclati. Finiamo la carta e i nastri che già abbiamo in casa. Scegliamo dei packaging alternativi, come la carta dei giornali o dei libri vecchi, della stoffa o addirittura dei teli cerati da utilizzare poi in cucina. Scegliamo nastri di stoffa o spago e se dobbiamo comprare della carta regalo, vi consiglio di prendere la carta da regalo kraft (quella marroncina grezza diciamo). Questa carta è super versatile e quindi adatta ad ogni occasione. Con un po' di pittura, dei timbri o stampi e rametti e bacche, possiamo trasformare della carta "noiosa" in qualcosa di molto bello.
-![](green13.jpeg "frangipani © Erica")
+![](../2019-12-06-consiglio-green-numero-4/green13.jpeg "frangipani © Erica")
 
 **5. Scegliere un menù natalizio di stagione**
 <br />
@@ -91,17 +91,17 @@ Evitiamo anche di buttare il cibo. Non dobbiamo esagerare con il mangiare, che t
 Quanto riguarda il menù di Natale, se non riuscite a fare tutto il menù con ingredienti di stagione, iniziate almeno con una portata.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 32%; margin-right: 1%;" src="green7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="green8.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-left: 1%;" src="green9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%;" src="../2019-12-06-consiglio-green-numero-4/green7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="../2019-12-06-consiglio-green-numero-4/green8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-left: 1%;" src="../2019-12-06-consiglio-green-numero-4/green9.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 32%; margin-right: 1%;" src="green10.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="green11.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-left: 1%;" src="green12.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%;" src="../2019-12-06-consiglio-green-numero-4/green10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="../2019-12-06-consiglio-green-numero-4/green11.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-left: 1%;" src="../2019-12-06-consiglio-green-numero-4/green12.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

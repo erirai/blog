@@ -11,7 +11,7 @@ categories:
 label: 2020-10-14-conchiglioni-ripieni-con-ricotta-e-cavolo-riccio-su-crema-di-zucca
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2020-10-14-conchiglioni-ripieni-con-ricotta-e-cavolo-riccio-su-crema-di-zucca/header.jpeg "frangipani © Erica")
 
 **Conchiglioni ripieni con Ricotta e Cavolo Riccio su Crema di Zucca** un piatto molto comfy, perfetto per queste giornate autunnali. Questa è una rivisitazione autunnale dei classici conchiglioni ripieni con ricotta e spinaci fatti con il sugo di pomodoro. Amo l'amarognolo leggero del cavolo riccio in combinazione con la dolcezza della zucca. È un bel piatto da fare anche come monoporzione...
 <br />
@@ -26,7 +26,7 @@ Questi **Conchiglioni ripieni con Ricotta e Cavolo Riccio su Crema di Zucca** li
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Conchiglioni ripieni con Ricotta e Cavolo Riccio su Crema di Zucca</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-10-14-conchiglioni-ripieni-con-ricotta-e-cavolo-riccio-su-crema-di-zucca/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Conchiglioni ripieni con Ricotta e Cavolo Riccio su Crema di Zucca un piatto molto comfy, perfetto per queste giornate autunnali.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -119,50 +119,50 @@ Lavate le foglie del cavolo riccio e staccate le foglie dallo stelo centrale. Ta
 Per la crema di zucca tagliate finemente il porro e fatelo rosolare in una pentola con un filo d'olio e un pizzico di sale. Aggiungete la zucca tagliata a pezzettini (se la zucca Hokkaido è biologica, può essere usata con tutta la buccia) e un po' d'acqua e cuocete la zucca. Una volta cotta, frullatela e aggiustate di sale (decidete voi la conistenza aggiungendo o togliendo acqua).
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="farcia.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="zucca.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-10-14-conchiglioni-ripieni-con-ricotta-e-cavolo-riccio-su-crema-di-zucca/farcia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-10-14-conchiglioni-ripieni-con-ricotta-e-cavolo-riccio-su-crema-di-zucca/zucca.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 Cuocete la pasta in abbondante acqua salata, deve rimanere al dente. Una volta scolata, sciacquatela sotto l'acqua fredda per fermare la cottura. Prendete una teglia e coprite il fondo con la crema di zucca. Farcite i conchiglioni con il ripieno di ricotta e cavolo riccio, aiutandovi con un cucchiaino e adagiateli sulla crema di zucca. 
-![](teglia.jpeg "frangipani © Erica")
+![](../2020-10-14-conchiglioni-ripieni-con-ricotta-e-cavolo-riccio-su-crema-di-zucca/teglia.jpeg "frangipani © Erica")
 
 Finite con una bella grattugiata di parmigiano, coprite con un foglio di carta d'alluminio e infornate nel forno preriscaldato a 180°C ventilato per mezz'oretta. Gli ultimi 5min cuocete senza carta d'alluminio.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-10-14-conchiglioni-ripieni-con-ricotta-e-cavolo-riccio-su-crema-di-zucca/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-10-14-conchiglioni-ripieni-con-ricotta-e-cavolo-riccio-su-crema-di-zucca/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-10-14-conchiglioni-ripieni-con-ricotta-e-cavolo-riccio-su-crema-di-zucca/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-10-14-conchiglioni-ripieni-con-ricotta-e-cavolo-riccio-su-crema-di-zucca/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato5.jpeg "frangipani © Erica")
+![](../2020-10-14-conchiglioni-ripieni-con-ricotta-e-cavolo-riccio-su-crema-di-zucca/risultato5.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-10-14-conchiglioni-ripieni-con-ricotta-e-cavolo-riccio-su-crema-di-zucca/risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-10-14-conchiglioni-ripieni-con-ricotta-e-cavolo-riccio-su-crema-di-zucca/risultato7.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-10-14-conchiglioni-ripieni-con-ricotta-e-cavolo-riccio-su-crema-di-zucca/risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-10-14-conchiglioni-ripieni-con-ricotta-e-cavolo-riccio-su-crema-di-zucca/risultato9.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato10.jpeg "frangipani © Erica")
+![](../2020-10-14-conchiglioni-ripieni-con-ricotta-e-cavolo-riccio-su-crema-di-zucca/risultato10.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

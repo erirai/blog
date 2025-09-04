@@ -12,7 +12,7 @@ categories:
 label: 2017-06-27-tarte-tatin-integrale-con-carote-novelle-e-cipollotti
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2017-06-27-tarte-tatin-integrale-con-carote-novelle-e-cipollotti/header.jpg "frangipani © Erica")
 
 Circa due mesetti fa ho preso a casa di mia mamma tutti i giornalini di cucina che ho trovato per i mesi di aprile, maggio e giugno e ho raccolto qualche idea. Questa Tarte Tatin l'ho memorizzata subito e appena ho trovato le carote novelle l'ho rifatta. Anche se alla fine l'ho fatta a modo mio, tanto per cambiare... 
 
@@ -89,28 +89,28 @@ Circa due mesetti fa ho preso a casa di mia mamma tutti i giornalini di cucina c
 </h3>
 
 Per prima cosa preparate la Pasta Brisé. Mettete le farine, il burro ed un pizzico di sale in una ciotola e con le punte delle dita sbriciolate il burro, rendendo il composto sabbioso. Aggiungete l'acqua a filo e iniziate ad impastare. Impastate finché avrete una consistenza morbida ed elastica. Poi avvolgetela con della pellicola e mettete in frigo per almeno 45min.
-![](brise.jpg "frangipani © Erica")
+![](../2017-06-27-tarte-tatin-integrale-con-carote-novelle-e-cipollotti/brise.jpg "frangipani © Erica")
 
 Lavate bene le carote ed eliminate il ciuffo, solitamente non c'è bisogno di pelarle. Poi pulite anche i cipollotti. A questo punto portate ad ebollizione abbondante acqua, salatela e lessate le carote ed i cipollotti. Si devono solo ammorbidire leggermente, devono rimanere croccanti. Poi fateli scolare bene.
-![](sbollentati.jpg "frangipani © Erica")
+![](../2017-06-27-tarte-tatin-integrale-con-carote-novelle-e-cipollotti/sbollentati.jpg "frangipani © Erica")
 
 Fate riscaldare un filo d'olio in una padella, poi aggiungete le carote ed i cipollotti sbollentati e un po' di erbette aromatiche. Fate rosolare un pochettino, poi aggiungete il miele e fate glassare il tutto alla fine aggiustate di sale.
-![](padella.jpg "frangipani © Erica")
+![](../2017-06-27-tarte-tatin-integrale-con-carote-novelle-e-cipollotti/padella.jpg "frangipani © Erica")
 
 Prendete una teglia rotonda ed imburratela bene. Nella teglia sistemate le carote a raggiera, poi tagliate a metà i cipollotti e sistemate anche quelli nella teglia. Cospargete il tutto con del timo fresco.
-![](teglia1.jpg "frangipani © Erica")
+![](../2017-06-27-tarte-tatin-integrale-con-carote-novelle-e-cipollotti/teglia1.jpg "frangipani © Erica")
 
 Stendete la Pasta Brisé con l'aiuto di un mattarello formando un disco. Ricoprite le carote ed i cipollotti con il disco di Brisé e sistemate i bordi schiacciandoli verso il basso.
-![](teglia2.jpg "frangipani © Erica")
+![](../2017-06-27-tarte-tatin-integrale-con-carote-novelle-e-cipollotti/teglia2.jpg "frangipani © Erica")
 
 Infornate il tutto nel forno preriscaldato statico a 190° per ca. 30min. Aspettate 10min, poi scaravoltate la Tarte Tatin su di un piatto da portata.
-![](risultato1.jpg "frangipani © Erica")
+![](../2017-06-27-tarte-tatin-integrale-con-carote-novelle-e-cipollotti/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2017-06-27-tarte-tatin-integrale-con-carote-novelle-e-cipollotti/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2017-06-27-tarte-tatin-integrale-con-carote-novelle-e-cipollotti/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2017-06-27-tarte-tatin-integrale-con-carote-novelle-e-cipollotti/risultato4.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

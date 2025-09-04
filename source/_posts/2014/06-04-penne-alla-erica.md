@@ -13,7 +13,7 @@ categories:
 label: 2014-06-04-pasta-con-peperoni-e-fragole
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2014-06-04-penne-alla-erica/header.jpg "frangipani © Erica")
 
 > Grazie Nonno Alfredo per le buonissime fragoline di bosco!
 
@@ -25,7 +25,7 @@ La ricetta della **Pasta con Peperoni e Fragole** è nata tanti anni fa per caso
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Pasta con Peperoni e Fragole</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2014-06-04-penne-alla-erica/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">La ricetta della Pasta con Peperoni e Fragole è nata tanti anni fa per caso, così non sapendo cosa cucinare...</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -89,20 +89,20 @@ La ricetta della **Pasta con Peperoni e Fragole** è nata tanti anni fa per caso
 Tagliate finemente lo scalogno ed il peperone e lavate le fragoline. Poi mettete a soffriggere lo scalogno con poco olio ed un pizzico di sale. Quando sarà ben dorato, aggiungete il peperone tagliato a pezzetti e fate soffriggere per qualche minuto, poi sfumate con il vino o con il fragolino. Ora tocca all'ingrediente segreto, aggiungete le fragoline e poi i pelati. Se c'è bisogno aggiungete un po' d'acqua. Finite con qualche fogliolina di basilico, una spolverata di paprica in polvere e aggiustate di sale. Fate cucinare il sughetto a fuoco basso per mezz'oretta.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="ingredienti.jpg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="sughetto.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-06-04-penne-alla-erica/ingredienti.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-06-04-penne-alla-erica/sughetto.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 Quando la pasta è cotta, scolatela e versatela nella padella con il sughetto, mescolate bene e servite la pasta!
-![](risultato1.jpg "frangipani © Erica")
+![](../2014-06-04-penne-alla-erica/risultato1.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2014-06-04-penne-alla-erica/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2014-06-04-penne-alla-erica/risultato4.jpg "frangipani © Erica")
 
-![](risultato5.jpg "frangipani © Erica")
+![](../2014-06-04-penne-alla-erica/risultato5.jpg "frangipani © Erica")
 
 
 <h3>

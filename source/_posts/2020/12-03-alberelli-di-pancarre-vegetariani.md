@@ -10,7 +10,7 @@ categories:
 label: 2020-12-03-alberelli-di-pancarré-vegetariani
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2020-12-03-alberelli-di-pancarre-vegetariani/header.jpeg "frangipani © Erica")
 
 **Alberelli di Pancarré vegetariani** un aperitivo natalizio sfizioso e veloce. Vi serve solo del Pancarré e delle creme spalmabili come pesto verde, pesto rosso, paté di olive, Hummus, Babaganoush, formaggio spalmabile... quello che più vi piace. Potete comprare già tutto pronto o farlo in casa, dipende dal tempo che avete. Mi raccomando, non buttate via gli scarti del Pancarré, potete farci dei crostini per la zuppa o usarli per le polpette.
 <br />
@@ -25,7 +25,7 @@ Lunedì ho impacchettato tutti i regali e prossima settimana, se tutto va bene, 
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Alberelli di Pancarré vegetariani</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-12-03-alberelli-di-pancarre-vegetariani/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Alberelli di Pancarré vegetariani** un aperitivo natalizio sfizioso e veloce. Vi serve solo del Pancarré e delle creme spalmabili come pesto verde, pesto rosso, paté di olive, Hummus, Babaganoush, formaggio spalmabile...</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -55,23 +55,23 @@ Lunedì ho impacchettato tutti i regali e prossima settimana, se tutto va bene, 
 </h3>
 
 Servono 4 formine a forma di stelle di dimensioni diverse. Prendete le fette di pancarré e ricavatene le stelle. Per un alberello vi servono 2 stelle di pancarré grandi, 2 medie e 2 piccole. Tagliate il formaggio a fette spesse minimo 5mm e ricavatene delle stelle piccolissime per fare la punta. (Non buttate via gli scarti del pancarré, leggete sopra)
-![](ingredienti.jpeg "frangipani © Erica")
+![](../2020-12-03-alberelli-di-pancarre-vegetariani/ingredienti.jpeg "frangipani © Erica")
 
 Iniziate a farcire le stelle con pesto, paté, creme spalmabili... quello che volete! Poi formate dei panini. Prendete i panini a stella di 3 dimensioni diverse e metteteli uno sopra l'altro. Prendete la stella di formaggio, infilzatela con uno stuzzicadenti e fissate l'alberello con la stella di formaggio come punta. Tenete in frigo finché li servirete e se volete decorate con i grani di pepe rosa...
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-12-03-alberelli-di-pancarre-vegetariani/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-12-03-alberelli-di-pancarre-vegetariani/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato3.jpeg "frangipani © Erica")
+![](../2020-12-03-alberelli-di-pancarre-vegetariani/risultato3.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-12-03-alberelli-di-pancarre-vegetariani/risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-12-03-alberelli-di-pancarre-vegetariani/risultato5.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -79,8 +79,8 @@ Iniziate a farcire le stelle con pesto, paté, creme spalmabili... quello che vo
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-12-03-alberelli-di-pancarre-vegetariani/risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-12-03-alberelli-di-pancarre-vegetariani/risultato7.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

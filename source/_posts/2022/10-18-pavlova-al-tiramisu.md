@@ -11,7 +11,7 @@ categories:
 label: 2022-10-18-pavlova-al-tiramisu
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2022-10-18-pavlova-al-tiramisu/header.jpeg "frangipani © Erica")
 
 **Pavlova al Tiramisù** una nuvola meringata che sa di Tiramisù. Un modo diverso per preparare la Pavlova, invece della classica con crema e <a href="https://frangipani.raiano.ch/2020-12-14-pavlova-con-crema-pasticcera-e-mele-alla-cannella/" target="_blank">frutta</a>. È buona? Oh sì! È difficile da preparare? Naaaa. Preparate prima le meringhe, mentre cuociono preparate la crema ed il caffé. A questo punto avrete già tutto pronto e al momento potrete assemblare il dolce. 
 <br />
@@ -34,7 +34,7 @@ Erica
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Pavlova al Tiramisù</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2022-10-18-pavlova-al-tiramisu/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Pavlova al Tiramisù, una nuvola meringata che sa di Tiramisù.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -130,20 +130,20 @@ Fate sciogliere la fecola o l'amido nell'aceto e aggiungetelo quando la meringa 
 Sulla carta forno disegnate due cerchi da circa 17cm di diametro, ma non troppo vicini. Girate il foglio e dividete la meringa nei due cerchi. Formate due dischi, aggiustate un po' il bordo rendendolo più liscio.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="meringa.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-10-18-pavlova-al-tiramisu/meringa.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-10-18-pavlova-al-tiramisu/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 Infornate la Pavlova nel forno preriscaldato a 160°C ventilato, dopo 10min abbassate la temperatura a 150°C e cuocete per altri 40min. Non aprite il forno durante la cottura, per nessun motivo. Una volta cotta, fatela raffreddare nel forno leggermente aperto.
-![](pavlove.jpeg "frangipani © Erica")
+![](../2022-10-18-pavlova-al-tiramisu/pavlove.jpeg "frangipani © Erica")
 
 Per la crema al mascarpone fate sciogliere in un pentolino lo zucchero con l'acqua. Lo sciroppo dovrà arrivare a 121°C in modo da poter pastorizzare le uova. Se non avete il termometro, basta aspettare che lo sciroppo faccia le bolle. Poco prima che lo sciroppo avrà raggiunto la giusta temperatura, iniziate a montare le uova. Sempre mescolando a temperatura massima le uova, aggiungete lo sciroppo a filo e continuate a mescolare per almeno 6-8min, il composto dovrà essere completamente freddo. A parte ammorbidite il mascarpone insieme alla scorza di limone e arancia, aggiungete una cucchiaiata delle uova e mescolate bene, poi aggiugnete il resto delle uova mescolando a mano molto delicatamente. Mettete in frigo finché vi servirà.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="uova.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="mascarpone.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-10-18-pavlova-al-tiramisu/uova.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-10-18-pavlova-al-tiramisu/mascarpone.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -151,45 +151,45 @@ Per la crema al mascarpone fate sciogliere in un pentolino lo zucchero con l'acq
 Preparate il caffé, zuccheratelo e aggiungete un po' di aroma di Rum, poi fatelo raffreddare completamente.
 <br />
 Mettete un disco della Pavlova su di un piatto da portata e spalmateci sopra metà della crema al mascarpone. Spezzate a metà i savoiardi, inzuppateli nel caffé, poi distribuiteli sulla crema.
-![](pavlova.jpeg "frangipani © Erica")
+![](../2022-10-18-pavlova-al-tiramisu/pavlova.jpeg "frangipani © Erica")
 
 Appoggiateci sopra il secondo disco della Pavlova, poi spalmateci sopra il resto della crema e finete con delle scaglie di cioccolato. La **Pavlova al Tiramisù** va mangiata subito, appena fatta. Se ne rimane, conservate in frigo.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-10-18-pavlova-al-tiramisu/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-10-18-pavlova-al-tiramisu/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-10-18-pavlova-al-tiramisu/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-10-18-pavlova-al-tiramisu/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-10-18-pavlova-al-tiramisu/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-10-18-pavlova-al-tiramisu/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-10-18-pavlova-al-tiramisu/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-10-18-pavlova-al-tiramisu/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-10-18-pavlova-al-tiramisu/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-10-18-pavlova-al-tiramisu/risultato10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

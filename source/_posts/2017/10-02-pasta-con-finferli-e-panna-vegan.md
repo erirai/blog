@@ -12,7 +12,7 @@ categories:
 label: 2017-10-02-pasta-con-finferli-e-panna-vegan
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2017-10-02-pasta-con-finferli-e-panna-vegan/header.jpg "frangipani © Erica")
 
 > Benvenuto Ottobre!
 
@@ -76,16 +76,16 @@ Iniziamo il mese di Ottobre con una bella ricetta con i funghi, anche se non sia
 </h3>
 
 Pulite bene i finferli con un pennellino, possibilmente senza acqua. Se sono troppo grandi tagliateli a metà. In una padella fate soffriggere uno spicchio d'aglio con del burro o della margarina ed un pizzico di sale. Poi aggiungete i finferli e fateli rosolare bene a fiamma alta. A questo punto aggiungete la panna vegetale, un pochettino d'acqua, i chiodi di garofano, la noce moscata e aggiustate di sale, dunque fate andare a fuoco lento.
-![](padella.jpg "frangipani © Erica")
+![](../2017-10-02-pasta-con-finferli-e-panna-vegan/padella.jpg "frangipani © Erica")
 
 Portate ad ebollizione abbondante acqua, poi salate e buttate la pasta. Quando sarà cotta, scolatela tenendo da parte un po' d'acqua di cottura. Versate la pasta nella padella con il condimento e mantecate il tutto, ricordatevi però di togliere prima i chiodi di garofano e lo spicchio d'aglio. Se c'è bisogno aggiungete altra acqua di cottura. Impiattate ed aggiungete una bella spolverata di pepe appena macinato.
-![](risultato1.jpg "frangipani © Erica")
+![](../2017-10-02-pasta-con-finferli-e-panna-vegan/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2017-10-02-pasta-con-finferli-e-panna-vegan/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2017-10-02-pasta-con-finferli-e-panna-vegan/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2017-10-02-pasta-con-finferli-e-panna-vegan/risultato4.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

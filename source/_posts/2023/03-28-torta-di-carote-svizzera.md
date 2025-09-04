@@ -13,7 +13,7 @@ categories:
 label: 2023-03-28-torta-di-carote-svizzera
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2023-03-28-torta-di-carote-svizzera/header.jpeg "frangipani © Erica")
 
 **Torta di Carote Svizzera (Aargauer Rüeblitorte)**, mi dispiace, ma non esiste torta di carote più buona al mondo, inoltre è pure senza glutine e lattosio. È un classico della tradizione svizzera e deve avere esattamente queste caratteristiche: umida, rustica, un leggerissimo gusto di cannella e chiodi di garofano e una glassa al limone. Le carotine di marzapane sono un optional, ma diciamo che completano il tutto, tadizionalmente vanno messe. 
 
@@ -30,7 +30,7 @@ Non l'ho mai più fatta, ma ce l'avevo sempre in qualche parte nella mia testa p
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Torta di Carote Svizzera (Aargauer Rüeblitorte)</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2023-03-28-torta-di-carote-svizzera/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Torta di Carote Svizzera (Aargauer Rüeblitorte), mi dispiace, ma non esiste torta di carote più buona al mondo, inoltre è pure senza glutine e lattosio.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -100,39 +100,39 @@ Separate gli albumi dai tuorli. Montate i tuorli con 115gr di zucchero, il sale 
 Monate a neve gli albumi, appena inizano a diventare bianchi, aggiungete poco alla volta i restanti 35gr di zucchero. Prendete il composto con le carote e con un leccapentole incorporate con un movimento dall'alto verso il basso pochi alla volta gli albumi.
 <br />
 In una ciotolina a parte mescolate l'amido, il lievito, la cannella ed i chiodi di garofano. Setacciate queste polveri direttamente sopra l'impasto, poi incorporate delicatamente senza farlo smontare. Versate l'impasto in una teglia rotonda foderata con della carta forno.
-![](teglia.jpeg "frangipani © Erica")
+![](../2023-03-28-torta-di-carote-svizzera/teglia.jpeg "frangipani © Erica")
 
 Infornate la **Torta di Carote Svizzera** nel forno preriscaldato statico a 180°C nella parte bassa del forno per 50-60min, fate sempre la prova stecchino, ma comunque la torta rimane umidina. Lasciate la torta ancora un po' nel forno spento e aperto, poi sfornatela e una volta fredda passatela su di un piatto da portata.
 
 Preparate la glassa allo zucchero mescolando lo zucchero a velo con un pochino di succo di limone alla volta, dovrà essere densa ma fluida. Poi spalmate la glassa sulla superficie e fatela asciugare. Per ultimo aggiungete le carotine di marzapane (sono un optional, ma tradizionalmente ci vanno).
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-03-28-torta-di-carote-svizzera/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-03-28-torta-di-carote-svizzera/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-03-28-torta-di-carote-svizzera/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-03-28-torta-di-carote-svizzera/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-03-28-torta-di-carote-svizzera/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-03-28-torta-di-carote-svizzera/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2023-03-28-torta-di-carote-svizzera/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2023-03-28-torta-di-carote-svizzera/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

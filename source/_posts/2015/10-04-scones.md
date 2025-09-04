@@ -9,7 +9,7 @@ categories:
 - Colazione
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2015-10-04-scones/header.jpg "frangipani © Erica")
 
 Sta mattina mi sono svegliata presto, anzi il nostro piccolo Bombolone ci ha svegliati presto... Fuori piove, è grigio e c'è bisogno di qualcosa di caldo per colazione! Cosa posso fare veloce veloce? Gli Scones naturalmente! Si fanno veramente in un attimo e sono troppo buoni... e sono pure vegan!
 
@@ -64,16 +64,16 @@ Sta mattina mi sono svegliata presto, anzi il nostro piccolo Bombolone ci ha sve
 </h3>
 
 Mettete la farina, lo zucchero, il lievito, la vaniglia ed il sale in una coppa, mescolate con un cucchiaio. Aggiungete la margarina morbida e iniziate ad impastare, poi aggiungete il latte e continuate ad impastare finché avrete un impasto omogeneo e bello elastico.
-![](impasto.jpg "frangipani © Erica")
+![](../2015-10-04-scones/impasto.jpg "frangipani © Erica")
 
 Passate l'impasto su di un piano di lavoro infarinato e con un mattarello stendetelo fino ad uno spessore di 1.5cm. Prendete un coppapasta di un diametro di ca. 3-4cm e ricavatene tanti dischetti. Ricompattate l'impasto e ristendetelo finché avrete esaurito tutto l'impasto.
-![](dischi.jpg "frangipani © Erica")
+![](../2015-10-04-scones/dischi.jpg "frangipani © Erica")
 
 Mettete tutti i dischi su di una leccarda con sotto della carta forno ed infornate nel forno preriscaldato a 220°C per ca. 15min.
-![](sfornati.jpg "frangipani © Erica")
+![](../2015-10-04-scones/sfornati.jpg "frangipani © Erica")
 
 Spezzate gli Scones a metà e mangiateli con abbondante margarina e marmellata, ma sono ottimi anche con la crema di nocciole, con il miele o con del formaggio spalmabile... a voi la scelta, basta che li mangiate caldi e li accompagnate con un buon té caldo.
-![](risultato.jpg "frangipani © Erica")
+![](../2015-10-04-scones/risultato.jpg "frangipani © Erica")
 
 
 <h4>Buon appetito

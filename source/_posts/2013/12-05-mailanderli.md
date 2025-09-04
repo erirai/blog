@@ -10,7 +10,7 @@ categories:
 label: 2013-12-05-mailanderli
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2013-12-05-mailanderli/header.jpeg "frangipani © Erica")
 
 **Mailänderli** (Biscotti Svizzeri al burro e agrumi), dei biscotti natalizi della tradizione svizzera friabili, morbidi e scioglievoli.
 
@@ -21,7 +21,7 @@ Oggi ho fatto i primi biscotti di Natale :-) Secondo me sono i più facili da fa
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Mailänderli (Biscotti Svizzeri al burro e agrumi)</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2013-12-05-mailanderli/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Mailänderli (Biscotti Svizzeri al burro e agrumi), dei biscotti natalizi della tradizione svizzera friabili, morbidi e scioglievoli.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -82,9 +82,9 @@ Quando l'impasto si sarà indurito bene, prendete un pezzetto e stendetelo con i
 Prima d'infornare i Mailänderli, prendete il tuorlo che avevate messo da parte, aggiungete un po' d'acqua e mescolate bene, poi con un pennello spalmatelo sui biscotti.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 32%; margin-right: 1%;" src="impasto.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="mattarello.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-left: 1%;" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%;" src="../2013-12-05-mailanderli/impasto.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="../2013-12-05-mailanderli/mattarello.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-left: 1%;" src="../2013-12-05-mailanderli/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -92,14 +92,14 @@ Prima d'infornare i Mailänderli, prendete il tuorlo che avevate messo da parte,
 Infornate i Mailänderli nel forno preriscaldato a 180°C ventilato per circa 13min, poi passateli su di una griglia e fateli raffreddare.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 32%; margin-right: 1%;" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-left: 1%;" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%;" src="../2013-12-05-mailanderli/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="../2013-12-05-mailanderli/risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-left: 1%;" src="../2013-12-05-mailanderli/risultato3.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato2.jpeg "frangipani © Erica")
+![](../2013-12-05-mailanderli/risultato2.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

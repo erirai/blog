@@ -11,7 +11,7 @@ categories:
 label: 2013-12-09-frollini-al-limone
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2013-12-09-frollini-al-limone/header.jpeg "frangipani © Erica")
 
 **Frollini al Limone**, dei biscotti burrosi perfetti per il té. Ieri cercavo dei nuovi biscotti di natale e ho trovato questi. A quanto pare sono dei tipici biscotti di natale svizzeri... boooo, mai mangiati. Ma sono veramente buoni, li rifarò sicuramente!
 
@@ -21,7 +21,7 @@ lang: it
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Frollini al Limone</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2013-12-09-frollini-al-limone/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Frollini al Limone, dei biscotti burrosi perfetti per il té.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -96,9 +96,9 @@ Fate degli anelli di ca. 4cm di diametro direttamente sulla carta forno e mettet
 Quando li avrete sfornati preparate la glassa mescolando lo zucchero a velo con il succo di limone, deve risultare bella densa ma fluida. Appena freddi, glassateli con l'aiuto di un cucchiaino, facendo colare a filo la glassa sui biscotti. 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 32%; margin-right: 1%;" src="impasto.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="teglia.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-left: 1%;" src="glassa.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%;" src="../2013-12-09-frollini-al-limone/impasto.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="../2013-12-09-frollini-al-limone/teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-left: 1%;" src="../2013-12-09-frollini-al-limone/glassa.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -106,18 +106,18 @@ Quando li avrete sfornati preparate la glassa mescolando lo zucchero a velo con 
 Fate asciugare bene la glassa prima di conservarli in un contenitore di latta o di vetro.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2013-12-09-frollini-al-limone/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2013-12-09-frollini-al-limone/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato3.jpeg "frangipani © Erica")
+![](../2013-12-09-frollini-al-limone/risultato3.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2013-12-09-frollini-al-limone/risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2013-12-09-frollini-al-limone/risultato5.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -125,13 +125,13 @@ Fate asciugare bene la glassa prima di conservarli in un contenitore di latta o 
 Sono ottimi anche durante tutto il resto dell'anno...
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2013-12-09-frollini-al-limone/risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2013-12-09-frollini-al-limone/risultato7.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato8.jpeg "frangipani © Erica")
+![](../2013-12-09-frollini-al-limone/risultato8.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

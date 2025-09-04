@@ -10,7 +10,7 @@ categories:
 - Aperitivi
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2014-03-19-fiori-di-zucca-ripieni-di-mozzarella/header.jpg "frangipani © Erica")
 
 L'anno scorso ho inizato a comprare i fiori di zucca, ma sinceramente non sapevo come farli! Così ho pensato di riempirli con quello che avevo in frigo... e questo è il risultato! Non vi do le quantità degli ingredienti, perché dipende da quanti fiori di zucca avete. Per ogni fiore di zucca vi serve un pezzetto di ogni ingrediente...
 
@@ -57,26 +57,26 @@ L'anno scorso ho inizato a comprare i fiori di zucca, ma sinceramente non sapevo
 </h3>
 
 Togliete il pistillo e le foglioline appuntite di sotto, facendo attenzione di non rompere il fiore. Tagliate a pezzetti la mozzarella e le sardine e spezzate le foglie di basilico, se sono piccole lasciatele intere.
-![](ingredienti.jpg "frangipani © Erica")
+![](../2014-03-19-fiori-di-zucca-ripieni-di-mozzarella/ingredienti.jpg "frangipani © Erica")
 
 Aprite il fiore facendo attenzione a non fare buchi e riempitelo con un pezzo di mozzarella, un pezzetto di sardina e una foglia di basilico, poi chiudete bene.
-![](riempire.jpg "frangipani © Erica")
+![](../2014-03-19-fiori-di-zucca-ripieni-di-mozzarella/riempire.jpg "frangipani © Erica")
 
-![](chiusi.jpg "frangipani © Erica")
+![](../2014-03-19-fiori-di-zucca-ripieni-di-mozzarella/chiusi.jpg "frangipani © Erica")
 
 Ora preparate la pastella. Prendete una coppetta larga e mettete ca. 6 cucchiai di farina e aggiungete poca acqua alla volta, finché avrete una pastella bella densa. Non fatela troppo liquida, se no non rimane attaccata ai fiori di zucca.
-![](pastella.jpg "frangipani © Erica")
+![](../2014-03-19-fiori-di-zucca-ripieni-di-mozzarella/pastella.jpg "frangipani © Erica")
 
 Prendete una padella e versateci un po' di olio di semi e fatelo riscaldare. Immergete i fiori ripieni nella pastella, facendo attenzione che il fiore rimanga chiuso, in modo che la mozzarella non fuoriesca e friggeteli a temperatura moderata.
-![](impastellare.jpg "frangipani © Erica")
+![](../2014-03-19-fiori-di-zucca-ripieni-di-mozzarella/impastellare.jpg "frangipani © Erica")
 
-![](friggere.jpg "frangipani © Erica")
+![](../2014-03-19-fiori-di-zucca-ripieni-di-mozzarella/friggere.jpg "frangipani © Erica")
 
 Quando sono pronti, fateli riposare un attimo su della carta assorbente e salateli leggermente (ricordatevi che all'interno c'è la sardina che è già salata).
-![](fritti.jpg "frangipani © Erica")
+![](../2014-03-19-fiori-di-zucca-ripieni-di-mozzarella/fritti.jpg "frangipani © Erica")
 
 Serviteli ancora caldi!
-![](risultato.jpg "frangipani © Erica")
+![](../2014-03-19-fiori-di-zucca-ripieni-di-mozzarella/risultato.jpg "frangipani © Erica")
 
 
 

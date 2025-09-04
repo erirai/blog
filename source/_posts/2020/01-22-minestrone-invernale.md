@@ -13,7 +13,7 @@ categories:
 label: 2020-01-22-minestrone-invernale
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2020-01-22-minestrone-invernale/header.jpeg "frangipani © Erica")
 
 Un buon **Minestrone Invernale** per riscaldare queste gelide giornate! Non esiste nulla che riscaldi più del brodo... E per poter combattere i malanni vari durante l'inverno, è molto importante mangiare anche tanta verdura. Ma nei mesi di Gennaio e Febbraio non è per niente facile. La verdura di stagione regionale non è molta, c'è pochissima scelta. Praticamente su questa lista degli ingredienti, trovate quasi tutta la verdura svizzera stagionale. Ed è proprio in questi due mesi che faccio molta fatica, perché ormai non vedo l'ora che arrivi la primavera per avere più scelta.
 <br />
@@ -28,7 +28,7 @@ Non buttate gli scarti delle verdure (buccia delle carote, patate e zucca, le pa
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Minestrone Invernale</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2020-01-22-minestrone-invernale/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Un buon Minestrone Invernale per riscaldare queste gelide giornate! Non esiste nulla che riscaldi più del brodo...</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -91,22 +91,22 @@ Non buttate gli scarti delle verdure (buccia delle carote, patate e zucca, le pa
 </h3>
 
 Lavate tutta la verdura, pelate quello che c'è da pelare, eliminate la parte dura e legnosa dei cavoli e tagliate tutto a pezzettini piccolini. Mettete tutta la verdura in una pentola capiente, aggiungete del concentrato di pomodoro e aggiungete acqua fino a coprire completamente tutta la verdura.
-![](verdura.jpeg "frangipani © Erica")
+![](../2020-01-22-minestrone-invernale/verdura.jpeg "frangipani © Erica")
 
 Mettete sui fuochi e fate cuocere il tutto. Quando la verdura sarà quasi cotta, aggiungete anche i fagioli bianchi precedentemente cotti (o in scatola), se c'è bisogno aggiungete altra acqua. A cottura ultimata, salate. Se volte, potete aggiungere anche qualche cucchiaio di pastina. Prima di servire, aggiungete un bel filo d'olio evo e gustate questo minestrone con del pane tostato.
-![](risultato1.jpeg "frangipani © Erica")
+![](../2020-01-22-minestrone-invernale/risultato1.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2020-01-22-minestrone-invernale/risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2020-01-22-minestrone-invernale/risultato3.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
-![](risultato4.jpeg "frangipani © Erica")
+![](../2020-01-22-minestrone-invernale/risultato4.jpeg "frangipani © Erica")
 
-![](risultato5.jpeg "frangipani © Erica")
+![](../2020-01-22-minestrone-invernale/risultato5.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

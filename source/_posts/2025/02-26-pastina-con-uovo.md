@@ -11,7 +11,7 @@ categories:
 label: 2025-02-26-pastina-con-uovo
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2025-02-26-pastina-con-uovo/header.jpeg "frangipani © Erica")
 
 **Pastina con l'Uovo** un piatto con ingredienti poveri da dispensa che troviamo sempre in casa. Un piatto dal gusto confortevole. Un piatto che mi accompagna da sempre. Un piatto che sa di casa...
 
@@ -26,7 +26,7 @@ Finito Febbraio, finito anche l'inverno? Lo spero proprio... Abbiamo già avuto 
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Pastina con l'Uovo</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2025-02-26-pastina-con-uovo/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Pastina con l'Uovo, un piatto con ingredienti poveri da dispensa che troviamo sempre in casa, dal gusto confortevole.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -84,45 +84,45 @@ Finito Febbraio, finito anche l'inverno? Lo spero proprio... Abbiamo già avuto 
 </h3>
 
 Pelate e lavate le carote e le patate, pulite il sedano (io metto anche le foglie), poi tagliate tutto a dadini piccolini. In una casseruola mettete un bel filo d'olio, lo spicchio d'aglio e una spolverata di sale. Fate soffriggere l'aglio, poi aggiungete le verdure a dadini e fate soffriggere per qualche minutino. A questo punto aggiungete acqua quanto basta per poi cuocere la pastina, regolatevi voi con la quantità di brodo che vi piace. Fate bollire per 20min circa o finché tutte le verdure non saranno cotte.
-![](pentola.jpeg "frangipani © Erica")
+![](../2025-02-26-pastina-con-uovo/pentola.jpeg "frangipani © Erica")
 
 Controllate se c'è ancora abbastanza brodo, altrimenti aggiungetene ancora, togliete l'aglio, calate la pastina e aggiustate di sale. Aprite le uova in una coppetta, aggiungete un pizzico di sale e sbattetele leggermente. Quando la pastina sarà quasi cotta, versate le uova sbattute direttamente nella pentola e mescolate subito per stracciare bene le uova e formare una specie di stracciatella. Spegnete il fornello e aggiungete il parmigiano grattugiato. Servite ben caldo...
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-02-26-pastina-con-uovo/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-02-26-pastina-con-uovo/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-02-26-pastina-con-uovo/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-02-26-pastina-con-uovo/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-02-26-pastina-con-uovo/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-02-26-pastina-con-uovo/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-02-26-pastina-con-uovo/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-02-26-pastina-con-uovo/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-02-26-pastina-con-uovo/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-02-26-pastina-con-uovo/risultato10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

@@ -10,7 +10,7 @@ categories:
 label: 2018-10-12-panino-con-funghi-pleurotus-grigliati-e-raclette
 lang: it 
 ---
-![](header.jpg "frangipani © Erica")
+![](../2018-10-12-panino-con-funghi-pleurotus-grigliati-e-raclette/header.jpg "frangipani © Erica")
 
 **Panino con Funghi Pleurotus grigliati e Raclette**, perché anche se siamo di fretta non dobbiamo rinunciare al gusto! Preparare un pranzo o una cena facile, veloce e sana è possibile, basta volerlo! Ho impiegato più tempo a fotografare il panino che a farlo, veramente. I tre ingredienti principali sono il panino rustico, quello con la crosticina bella croccante e pieno di mollica. I funghi Pleurotus che sono belli grandi e non hanno bisogno di grandi pulizie o tagli, hanno una bella consistenza e non sono viscidi. Poi per ultimo la Raclette che in questo periodo qui in Svizzera non può mancare. Naturalmente va benissimo anche qualunque altro tipo di formaggio da poter sciogliere come la fontina, la scamorza o perché no, le sottilette. Ma anche un formaggio stagionato da mettere così a scaglie. Io poi ho aggiunto il Ketchup perché la salsina ci vuole. I pomodori secchi per la nota salata, i cetrioli sott'aceto per la componente acida e per finire l'insalata per dare un po' di freschezza... Per me è perfetto così, voi cosa mettereste in questo panino?
 
@@ -19,7 +19,7 @@ lang: it
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Panino con Funghi Pleurotus grigliati e Raclette</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2018-10-12-panino-con-funghi-pleurotus-grigliati-e-raclette/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Panino con Funghi Pleurotus grigliati e Raclette, perché anche se siamo di fretta non dobbiamo rinunciare al gusto!</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -63,16 +63,16 @@ lang: it
 </h3>
 
 Pulite i funghi e grigliateli su di una piastra bella calda girandoli spesso per non farli bruciare. Nel frattempo preparate tutto il resto che vi serve per farcire il vostro panino. Appena in funghi saranno pronti, toglieteli dalla piastra e salateli, tagliate a metà i panini e riscaldateli sulla parte della mollica per 1-2min sempre nella stessa piastra.
-![](griglia.jpg "frangipani © Erica")
+![](../2018-10-12-panino-con-funghi-pleurotus-grigliati-e-raclette/griglia.jpg "frangipani © Erica")
 
 Farcite il vostro panino con i funghi pleurotus grigliati e tutto quello che desiderate e per ultimo appoggiate un attimo le fette di Raclette sulla piastra per farli sciogliere. Aggiungete la Raclette sciolta nel vostro panino ed il gioco è fatto.
-![](risultato1.jpg "frangipani © Erica")
+![](../2018-10-12-panino-con-funghi-pleurotus-grigliati-e-raclette/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2018-10-12-panino-con-funghi-pleurotus-grigliati-e-raclette/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2018-10-12-panino-con-funghi-pleurotus-grigliati-e-raclette/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2018-10-12-panino-con-funghi-pleurotus-grigliati-e-raclette/risultato4.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

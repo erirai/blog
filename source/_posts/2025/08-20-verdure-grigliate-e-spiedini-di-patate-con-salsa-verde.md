@@ -15,7 +15,7 @@ categories:
 label: 2025-08-20-verdure-grigliate-e-spiedini-di-patate-con-salsa-verde
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2025-08-20-verdure-grigliate-e-spiedini-di-patate-con-salsa-verde/header.jpeg "frangipani © Erica")
 
 Pubblicità: **Verdure grigliate e Spiedini di Patate con Salsa Verde** in collaborazione con <a href="https://www.farmy.ch" target="_blank">Farmy</a>. Un contorno sfiziosissimo da preparare per una grigliata o per una cena a base di Mezze.
 <br />
@@ -30,7 +30,7 @@ Sul sito di <a href="https://www.farmy.ch" target="_blank">Farmy</a> trovate tut
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Verdure grigliate e Spiedini di Patate con Salsa Verde</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2025-08-20-verdure-grigliate-e-spiedini-di-patate-con-salsa-verde/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Verdure grigliate e Spiedini i Patate con Salsa Verde, un contorno sfiziosissimo da preparare per una grigliata o per una cena a base di Mezze.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -113,9 +113,9 @@ Sul sito di <a href="https://www.farmy.ch" target="_blank">Farmy</a> trovate tut
 Lavate i peperoni e metteteli interi su di una teglia. Lavate i cipolloti, eliminate lo strato più esterno e anche le foglie verdi secche e mettete anche questi sulla teglia. Infonate nel forno preriscaldato a 180°C ventilato per 45min circa, ogni tanto girateli. Quando mancheranno 20min, infornate anche i grappoli di pomodorini semplicemente lavati. Sfornate la teglia e mettete i peperoni in un contenitore chiuso e fate riposare mezz'oretta. Il resto lo tenete da parte. Poi prendete un peperone alla volta, pelatelo, eliminate i semini, tagliatelo a striscioline, mettetelo in una coppetta e condite con un filo d'olio e sale.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 32%; margin-right: 1%;" src="pomodori.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="peperonigrigliati.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-left: 1%;" src="peperoni.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%;" src="../2025-08-20-verdure-grigliate-e-spiedini-di-patate-con-salsa-verde/pomodori.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="../2025-08-20-verdure-grigliate-e-spiedini-di-patate-con-salsa-verde/peperonigrigliati.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-left: 1%;" src="../2025-08-20-verdure-grigliate-e-spiedini-di-patate-con-salsa-verde/peperoni.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -125,61 +125,61 @@ Lavate benissimo le patate e lessatele. Una volta cotte scolatele, prendete uno 
 Nel frattempo lavate le zucchine e le melanzane. Tagliatele a rondelle o strisce sottili e grigliatele sulla griglia (piano cottura o grill). Mettetele separatamente nelle coppette e condite anche queste con olio e sale.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 32%; margin-right: 1%;" src="patate.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="zucchine.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-left: 1%;" src="melanzane.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%;" src="../2025-08-20-verdure-grigliate-e-spiedini-di-patate-con-salsa-verde/patate.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="../2025-08-20-verdure-grigliate-e-spiedini-di-patate-con-salsa-verde/zucchine.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-left: 1%;" src="../2025-08-20-verdure-grigliate-e-spiedini-di-patate-con-salsa-verde/melanzane.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 Manca solo la salsa verde: frullate basilico, menta (poca), origano e prezzemolo con qualche cucchiaio di olio evo, un goccio di aceto e un pizzico di sale. Se volete, aggiungete anche l'aglio, io preferisco non frullarlo ma lascio semplicemente lo spicchio intero nella salsa per poi toglierlo prima di servire il tutto.
-![](salsaverde.jpeg "frangipani © Erica")
+![](../2025-08-20-verdure-grigliate-e-spiedini-di-patate-con-salsa-verde/salsaverde.jpeg "frangipani © Erica")
 
 Non vi resta che comporre il vostro piatto da portata. A me piace mettere le verdure tutte separate, ma volendo si possono anche mischiare e cospargete con la salsa verde...
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-08-20-verdure-grigliate-e-spiedini-di-patate-con-salsa-verde/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-08-20-verdure-grigliate-e-spiedini-di-patate-con-salsa-verde/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-08-20-verdure-grigliate-e-spiedini-di-patate-con-salsa-verde/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-08-20-verdure-grigliate-e-spiedini-di-patate-con-salsa-verde/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-08-20-verdure-grigliate-e-spiedini-di-patate-con-salsa-verde/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-08-20-verdure-grigliate-e-spiedini-di-patate-con-salsa-verde/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-08-20-verdure-grigliate-e-spiedini-di-patate-con-salsa-verde/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-08-20-verdure-grigliate-e-spiedini-di-patate-con-salsa-verde/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-08-20-verdure-grigliate-e-spiedini-di-patate-con-salsa-verde/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-08-20-verdure-grigliate-e-spiedini-di-patate-con-salsa-verde/risultato10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato11.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato12.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2025-08-20-verdure-grigliate-e-spiedini-di-patate-con-salsa-verde/risultato11.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2025-08-20-verdure-grigliate-e-spiedini-di-patate-con-salsa-verde/risultato12.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

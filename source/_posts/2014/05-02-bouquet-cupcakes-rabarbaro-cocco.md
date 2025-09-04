@@ -14,7 +14,7 @@ categories:
 - "Muffin, Cupcakes, Cake Pops..."
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2014-05-02-bouquet-cupcakes-rabarbaro-cocco/header.jpg "frangipani © Erica")
 
 > Auguri Anti & Tano per la prima parte del matrimonio!
 
@@ -109,52 +109,52 @@ Oggi si sono sposati mia sorella e mio cognato, vabbé solo il rito civile e mi 
 </h3>
 
 Preparate la base per il bouquet, quindi prendete una sfera di polistirolo ed un vaso (o cestino) adatto alla grandezza della sfera. La sfera che ho preso io ha un diametro di 20cm. Se volete, ricoprite la sfera con della carta velina e incollatela al vaso (in modo che poi potete staccarla quando non serve più).
-![](base1.jpg "frangipani © Erica")
+![](../2014-05-02-bouquet-cupcakes-rabarbaro-cocco/base1.jpg "frangipani © Erica")
 
-![](base2.jpg "frangipani © Erica")
+![](../2014-05-02-bouquet-cupcakes-rabarbaro-cocco/base2.jpg "frangipani © Erica")
 
 Ora inizate a preparare i muffin, pulendo e tagliando a pezzettini il rabarbaro.
-![](rabarbaro.jpg "frangipani © Erica")
+![](../2014-05-02-bouquet-cupcakes-rabarbaro-cocco/rabarbaro.jpg "frangipani © Erica")
 
 Poi mettete tutti gli ingredienti asciutti in una ciotola e mescolate con la frusta a mano, poi aggiungete l'olio ed il latte e mescolate con un cucchiaio, finché si tolgono tutti i grumi e finite aggiungendo il rabarbaro precedentemente tagliato a pezzettini.
-![](impasto.jpg "frangipani © Erica")
+![](../2014-05-02-bouquet-cupcakes-rabarbaro-cocco/impasto.jpg "frangipani © Erica")
 
 Versate l'impasto nei pirottini.
-![](formine.jpg "frangipani © Erica")
+![](../2014-05-02-bouquet-cupcakes-rabarbaro-cocco/formine.jpg "frangipani © Erica")
 
 E infornateli nel forno preriscaldato a 180°C (statico) per ca. 20min. 
-![](sfornati.jpg "frangipani © Erica")
+![](../2014-05-02-bouquet-cupcakes-rabarbaro-cocco/sfornati.jpg "frangipani © Erica")
 
 Quando i muffin sono freddi potete iniziare a creare il bouquet. Infilzate tre stuzzicadenti nella sfera e poi infilateci il muffin. Continuate finché avrete ricoperto tutta la sfera.
-![](assemblare1.jpg "frangipani © Erica")
+![](../2014-05-02-bouquet-cupcakes-rabarbaro-cocco/assemblare1.jpg "frangipani © Erica")
 
-![](assemblare2.jpg "frangipani © Erica")
+![](../2014-05-02-bouquet-cupcakes-rabarbaro-cocco/assemblare2.jpg "frangipani © Erica")
 
 Se sono rimasti dei buchi, potete coprirli infilandoci delle foglie fatte con la carta velina. Ritagliate due quadretti e metteteli uno sopra l'altro.
-![](foglie1.jpg "frangipani © Erica")
+![](../2014-05-02-bouquet-cupcakes-rabarbaro-cocco/foglie1.jpg "frangipani © Erica")
 
 Prendete i fogli nel centro e fissateli aiutandovi con uno spillo.
-![](foglie2.jpg "frangipani © Erica")
+![](../2014-05-02-bouquet-cupcakes-rabarbaro-cocco/foglie2.jpg "frangipani © Erica")
 
-![](assemblato.jpg "frangipani © Erica")
+![](../2014-05-02-bouquet-cupcakes-rabarbaro-cocco/assemblato.jpg "frangipani © Erica")
 
 Ora preparate la crema di burro. Mi raccomando, se volete fare i Cupcakes al 100% vegani prendete la margarina, se no il burro. Io ho usato la margarina... Iniziate uscendo dal frigo la margarina, deve essere morbida, ma non troppo. Mettetela nella planetaria (se no con il mixer a mano) e fatela andare finché risulterà una crema bella morbida. Poi cucchiaio dopo cucchiaio aggiungete lo zucchero a velo. Dopo qualche cucchiaiata aggiungete il latte, sempre poco a poco. Io uso un misurino da 5ml alla volta. Fate questo finché avrete finito tutto lo zucchero a velo ed il latte. Alla fine aggiungete il concentrato di vaniglia ed il colorante, sempre se volete. Io volevo colorare la crema di un bel rosso, ma con quel colorante che avevo non ha funzionato :-( E continuate finché la crema risulterà bella ferma. Se dovesse risultare troppo ruvida, aggiungete ancora latte. Poi mettete la crema di burro in un sac à poche usando una punta grande a stella.
-![](punta.jpg "frangipani © Erica")
+![](../2014-05-02-bouquet-cupcakes-rabarbaro-cocco/punta.jpg "frangipani © Erica")
 
 Scusatemi ma non ho fatto le foto della crema... Dunque mettete il sac à poche per un po' nel frigo per far rapprendere bene la crema di burro e poi iniziate a fare le rose:
 Iniziate premendo una piccola quantità di crema stando fermi al centro, sempre tenendo il sac à poche verticale.
-![](rosa1.jpg "frangipani © Erica")
+![](../2014-05-02-bouquet-cupcakes-rabarbaro-cocco/rosa1.jpg "frangipani © Erica")
 
 Poi continuata a premere e inizate a girare intorno al centro in senso antiorario sempre tenendo il sac à poche verticale.
-![](rosa2.jpg "frangipani © Erica")
+![](../2014-05-02-bouquet-cupcakes-rabarbaro-cocco/rosa2.jpg "frangipani © Erica")
 
 Continuate finché avrete coperto tutto il muffin.
-![](rosa3.jpg "frangipani © Erica")
+![](../2014-05-02-bouquet-cupcakes-rabarbaro-cocco/rosa3.jpg "frangipani © Erica")
 
 Comunque su Youtube trovate tantissimi video dove vedete come si fa, io per completezza ho provato a spiegarvi come funziona.
 
 Ecco il bouquet di rose completo, pronto da mangiare!
-![](risultato.jpg "frangipani © Erica")
+![](../2014-05-02-bouquet-cupcakes-rabarbaro-cocco/risultato.jpg "frangipani © Erica")
 
 
 

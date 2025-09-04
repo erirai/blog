@@ -13,7 +13,7 @@ categories:
 label: 2024-06-19-sbriciolata-di-ricotta-e-fragole
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2024-06-19-sbriciolata-di-ricotta-e-fragole/header.jpeg "frangipani © Erica")
 
 **Sbriciolata di Ricotta e Fragole** una torta delicata piena di cremosa ricotta e succose fragole. E il tutto racchiuso in un guscio di frolla sbriciolosa.
 <br />
@@ -24,7 +24,7 @@ Adoro questo dolce perché è facilissimo prepararlo. Non c'è bisogno di riposo
 Vorrei raccontarvi una cosa...
 <br />
 Un po' di tempo fa siamo riusciti a realizzare un nostro grande sogno. Ovvero una casa tutta nostra con un grande giardino. La ricerca non è stata per niente facile. Il mercato immobiliare è spietato ed i prezzi assurdi. Il caso ha voluto che incontrassimo le persone giuste che non smetterò mai di ringraziare. Sono state persone con un'umanità pazzesca, persone che non hanno messo al primo posto i soldi. Caratteristica diventata ormai molto rara. Essendo una casa degli anni 70, andava ristrutturata completamente. Ristrutturare casa o semplicemente costruire casa non è una passeggiata. 
-![](cucina.jpeg "frangipani © Erica")
+![](../2024-06-19-sbriciolata-di-ricotta-e-fragole/cucina.jpeg "frangipani © Erica")
 
 Ci sono tantissimi ostacoli, ma li stiamo superando tutti e se tutto andrà bene, in autunno potremmo entrare nella nostra Casina.
 
@@ -33,7 +33,7 @@ Ci sono tantissimi ostacoli, ma li stiamo superando tutti e se tutto andrà bene
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Sbriciolata di Ricotta e Fragole</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2024-06-19-sbriciolata-di-ricotta-e-fragole/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Sbriciolata con Prugne e Crema alla Cannella una torta che sa di tarda estate, di autunno. Dai gusti caldi e confortevoli, come le prugne cotte con la cannella. E il tutto racchiuso in un guscio di frolla sbriciolosa.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -113,8 +113,8 @@ Per la frolla impastate velocemente farina, zucchero, sale, burro e uovo. Dovret
 Per il ripieno mettete in una coppetta ricotta, zucchero, farina, vaniglia, scorza di limone e sale e mescolate bene. A parte tagliate in 4 le fragole precedentemente lavate.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="briciole.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="ricotta.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-06-19-sbriciolata-di-ricotta-e-fragole/briciole.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-06-19-sbriciolata-di-ricotta-e-fragole/ricotta.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -122,8 +122,8 @@ Per il ripieno mettete in una coppetta ricotta, zucchero, farina, vaniglia, scor
 Versate 2/3 dell'impasto bricioloso in una teglia rotonda a cerniera ricoperta di carta forno e con le mani schiacciate bene formando anche un bordo. A questo punto spalmate sulla base la ricotta. Affondate le fragole nella ricotta e sbriciolate il resto dell'impasto sopra alle fragole.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="teglia1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-06-19-sbriciolata-di-ricotta-e-fragole/teglia1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-06-19-sbriciolata-di-ricotta-e-fragole/teglia2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -131,40 +131,40 @@ Versate 2/3 dell'impasto bricioloso in una teglia rotonda a cerniera ricoperta d
 Infornate la **Sbriciolata di Ricotta e Fragole** nel forno preriscaldato statico a 180°C per ca. 40min. Dovrà avere un colore dorato, non troppo scuro. Fatela raffreddare completamente prima di toglierla dalla teglia. Conservatela in frigo...
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-06-19-sbriciolata-di-ricotta-e-fragole/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-06-19-sbriciolata-di-ricotta-e-fragole/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-06-19-sbriciolata-di-ricotta-e-fragole/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-06-19-sbriciolata-di-ricotta-e-fragole/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-06-19-sbriciolata-di-ricotta-e-fragole/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-06-19-sbriciolata-di-ricotta-e-fragole/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-06-19-sbriciolata-di-ricotta-e-fragole/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-06-19-sbriciolata-di-ricotta-e-fragole/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-06-19-sbriciolata-di-ricotta-e-fragole/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-06-19-sbriciolata-di-ricotta-e-fragole/risultato10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

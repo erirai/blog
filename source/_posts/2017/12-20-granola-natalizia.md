@@ -12,7 +12,7 @@ categories:
 label: 2017-12-20-granola-natalizia
 lang: it 
 ---
-![](header.jpg "frangipani © Erica")
+![](../2017-12-20-granola-natalizia/header.jpg "frangipani © Erica")
 
 > Buon Natale e un Felice Anno nuovo a tutti voi!
 
@@ -105,19 +105,19 @@ Beh, cosa dire... Per quest'anno ho finito con il Blog, mi prendo un pochettino 
 </h3>
 
 Mettete in una coppa gli ingredienti della lista fino al sale e mescolate. A parte riscaldate l'olio di cocco e lo sciroppo d'acero finché l'olio sarà liquido. Togliete dai fornelli e aggiungete le spezie a piacere (poco chiodi di garofano). Versate i liquidi nella coppa con gli ingredienti secchi e mescolate bene. Distribuite uniformemente il composto su due leccarde con sotto della carta forno.
-![](teglia.jpg "frangipani © Erica")
+![](../2017-12-20-granola-natalizia/teglia.jpg "frangipani © Erica")
 
 Infornate la Granola nel forno preriscaldato a 160°C ventilato per 20-25min. Date una mescolata dopo 10min in modo che non si bruci sulla superficie. Nel frattempo tagliate le mele a pezzettini e aggiungete una spolverata di cannella.
-![](mele.jpg "frangipani © Erica")
+![](../2017-12-20-granola-natalizia/mele.jpg "frangipani © Erica")
 
 Appena la Granola esce dal forno aggiungete le mele alla cannella, mescolate e lasciate raffreddare completamente. Quando sarà fredda aggiungete le scaglie di cioccolato e/o quello che desiderate… Conservate in un barattolo di vetro.
-![](risultato1.jpg "frangipani © Erica")
+![](../2017-12-20-granola-natalizia/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2017-12-20-granola-natalizia/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2017-12-20-granola-natalizia/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2017-12-20-granola-natalizia/risultato4.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

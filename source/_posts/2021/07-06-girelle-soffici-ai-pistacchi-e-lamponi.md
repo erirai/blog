@@ -13,7 +13,7 @@ categories:
 label: 2021-07-06-girelle-soffici-ai-pistacchi-e-lamponi
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2021-07-06-girelle-soffici-ai-pistacchi-e-lamponi/header.jpeg "frangipani © Erica")
 
 **Girelle soffici ai Pistacchi e Lamponi** una colazione estiva sofficissima e gustosissima, semplicemente favolosa. I colori parlano da se e si, ne vale la pena accendere il forno per prepararli, mi ringrazierete! Il gusto del pistacchio così buono e la succosità dei lamponi... Insieme sono un team imbattibile. Poi quella glassa fresca con succo di limone, che credetemi, fa la differenza! 
 <br />
@@ -28,7 +28,7 @@ E sì, benvenuto Luglio! Porti l'estate, la fine dell'anno scolastico, le vacanz
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Girelle soffici ai Pistacchi e Lamponi</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2021-07-06-girelle-soffici-ai-pistacchi-e-lamponi/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Girelle soffici ai Pistacchi e Lamponi una colazione estiva sofficissima e gustosissima, semplicemente favolosa. I colori parlano da se e si, ne vale la pena accendere il forno per prepararli, mi ringrazierete!</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -131,9 +131,9 @@ In una coppetta a parte preparate il ripieno, mescolando tutti gli ingredienti t
 Prendete l'impasto e aiutandovi con un mattarello stendetelo formando un rettangolo. Spalmateci sopra il ripieno, lasciando un bordo di 1cm, distribuite uniformemente i lamponi, poi arrotolatelo iniziando dalla parte più lunga. Adesso tagliate 8 girelle, sigillate la parte laterale dove finisce l'impasto e mettetele su una teglia con sotto della carta forno. Io le ho messe lontane tra loro per averle singole... Voi potete metterle anche vicine in una teglia più piccola. Fate lievitare per 1-2h.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 32%; margin-right: 1%;" src="pistacchi.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="arrotolare.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-left: 1%;" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%;" src="../2021-07-06-girelle-soffici-ai-pistacchi-e-lamponi/pistacchi.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="../2021-07-06-girelle-soffici-ai-pistacchi-e-lamponi/arrotolare.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-left: 1%;" src="../2021-07-06-girelle-soffici-ai-pistacchi-e-lamponi/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -141,24 +141,24 @@ Prendete l'impasto e aiutandovi con un mattarello stendetelo formando un rettang
 Infornate le Girelle soffici ai pistacchi e lamponi nel forno preriscaldato a 190°C statico per 15min o finché avranno un bel colorito. Appena sfornate preparate la glassa, mescolando lo zucchero prima con il succo di limone e man mano aggiungete pochissima acqua alla volta, finché la glassa avrà una consistenza bella densa (più liquida è, meno bianca sarà) e glassate le girelle con un pennello o tirando dei filo con un cucchiaio, come preferite.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-07-06-girelle-soffici-ai-pistacchi-e-lamponi/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-07-06-girelle-soffici-ai-pistacchi-e-lamponi/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-07-06-girelle-soffici-ai-pistacchi-e-lamponi/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-07-06-girelle-soffici-ai-pistacchi-e-lamponi/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-07-06-girelle-soffici-ai-pistacchi-e-lamponi/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-07-06-girelle-soffici-ai-pistacchi-e-lamponi/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

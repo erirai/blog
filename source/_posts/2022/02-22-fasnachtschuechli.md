@@ -11,7 +11,7 @@ categories:
 label: 2022-02-22-fasnachtschuechli
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2022-02-22-fasnachtschuechli/header.jpeg "frangipani © Erica")
 
 **Fasnachtschüechli (Frittelle di Carnevale Svizzere)** sottilissime, croccantissime e una tira l'altra. Sono un dolce di carnevale della tradizione svizzera e in questo periodo si trovano ovunque. L'impasto non contiene zucchero, quindi per dare dolcezza vengono cosparse generosamente con lo zucchero a velo.
 <br />
@@ -24,7 +24,7 @@ Come ho già scritto un paio di volte, non mi piace friggere ma i dolci di carne
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Fasnachtschüechli (Frittelle di Carnevale Svizzere)</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2022-02-22-fasnachtschuechli/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Fasnachtschüechli (Frittelle di Carnevale Svizzere) sottilissime, croccantissime e una tira l'altra. Sono un dolce di carnevale della tradizione svizzera e in questo periodo si trovano ovunque.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -75,8 +75,8 @@ Dividete il panetto in 15 parti uguali e coprite con una panno. Prendete un pezz
 Portate l'olio a 180°C in una pentola capiente (o nella friggitrice), poi prendete un disco alla volta e con le mani allargatelo e tiratelo dolcemente per renderlo ancora più sottile.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="stendere.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="sottile.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-02-22-fasnachtschuechli/stendere.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-02-22-fasnachtschuechli/sottile.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -84,8 +84,8 @@ Portate l'olio a 180°C in una pentola capiente (o nella friggitrice), poi prend
 Immergete una frittella alla volta nell'olio e subito con una pinza schiacciatela in giù, le bolle sono tipiche di queste frittelle. Dopo ca. 30s girate la frittella. Dovrà avere un colorito bello dorato, non troppo scuro, ma neanche troppo chiaro, altrimento non sarà croccante. Passate la frittella su di un piatto con della carta da cucina che assorbirà l'olio in eccesso, poi su di una gratella.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="friggere.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="frittelle.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-02-22-fasnachtschuechli/friggere.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-02-22-fasnachtschuechli/frittelle.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -93,32 +93,32 @@ Immergete una frittella alla volta nell'olio e subito con una pinza schiacciatel
 Servite queste **Frittelle di Carnevale Svizzere** cosparse con tantissimo zucchero a velo e mangiatele subito. Si possono conservare per 2-3 giorni in un contenitore ermetico, ma fresche sono più buone.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-02-22-fasnachtschuechli/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-02-22-fasnachtschuechli/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-02-22-fasnachtschuechli/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-02-22-fasnachtschuechli/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-02-22-fasnachtschuechli/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-02-22-fasnachtschuechli/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-02-22-fasnachtschuechli/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-02-22-fasnachtschuechli/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

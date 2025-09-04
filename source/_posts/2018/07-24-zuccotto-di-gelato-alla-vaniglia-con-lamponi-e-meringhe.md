@@ -11,7 +11,7 @@ categories:
 label: 2018-07-24-zuccotto-di-gelato-alla-vaniglia-con-lamponi-e-meringhe
 lang: it 
 ---
-![](header.jpg "frangipani © Erica")
+![](../2018-07-24-zuccotto-di-gelato-alla-vaniglia-con-lamponi-e-meringhe/header.jpg "frangipani © Erica")
 
 **Zuccotto di Gelato alla Vaniglia con Lamponi e Meringhe**, un dolce perfetto per le giornate calde! O come torta di compleanno per chi come me, fa il compleanno in piena estate... Per farlo vi servono solo 4 ingredienti, una ciotola ed una spatola! Facilissimo da preparare, ma il figurone è assicurato... La ricetta l'ho trovata nel giornalino Sweet Dreams che compro ogni due mesi, non delude mai! Questa è sicuramente una versione estiva, ma le combinazioni sono infinite. Mantenendo le proporzioni potete sostituire il gelato alla vaniglia con del gelato al cioccolato o alla frutta, o i lamponi con altra frutta, cioccolato o frutta secca... Sbizzarritevi!
 
@@ -22,7 +22,7 @@ Domenica scorsa ho compiuto 31 anni. Mmà, ancora non so come sia possibile, ma 
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Zuccotto di Gelato alla Vaniglia con Lamponi e Meringhe</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2018-07-24-zuccotto-di-gelato-alla-vaniglia-con-lamponi-e-meringhe/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Zuccotto di Gelato alla Vaniglia con Lamponi e Meringhe, un dolce perfetto per le giornate calde!</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -62,26 +62,26 @@ Domenica scorsa ho compiuto 31 anni. Mmà, ancora non so come sia possibile, ma 
 Fate sciogliere il gelato finché sarà cremoso ma non liquido. Mischiate la metà del gelato con i lamponi, le meringhe ed i biscotti sbriciolati. Ricoprite una forma da zuccotto con della pellicola e prendete più o meno ¾ del gelato con i lamponi e fate uno strato da circa 1.5cm. Aggiungete il gelato alla vaniglia, spalmatelo bene lasciando un buco al centro. Riempite il buco con il restante gelato con i lamponi. Livellate bene e coprite.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="guscio.jpg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="zuccotto.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2018-07-24-zuccotto-di-gelato-alla-vaniglia-con-lamponi-e-meringhe/guscio.jpg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2018-07-24-zuccotto-di-gelato-alla-vaniglia-con-lamponi-e-meringhe/zuccotto.jpg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 A questo punto mettete lo zuccotto in congelatore per almeno 4 ore, meglio ancora per tutta la notte. Lasciate a temperatura ambiente per circa 15 min prima di servirlo, poi scaravoltatelo su di un piatto da portata.
-![](risultato1.jpg "frangipani © Erica")
+![](../2018-07-24-zuccotto-di-gelato-alla-vaniglia-con-lamponi-e-meringhe/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2018-07-24-zuccotto-di-gelato-alla-vaniglia-con-lamponi-e-meringhe/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2018-07-24-zuccotto-di-gelato-alla-vaniglia-con-lamponi-e-meringhe/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2018-07-24-zuccotto-di-gelato-alla-vaniglia-con-lamponi-e-meringhe/risultato4.jpg "frangipani © Erica")
 
-![](risultato5.jpg "frangipani © Erica")
+![](../2018-07-24-zuccotto-di-gelato-alla-vaniglia-con-lamponi-e-meringhe/risultato5.jpg "frangipani © Erica")
 
-![](risultato6.jpg "frangipani © Erica")
+![](../2018-07-24-zuccotto-di-gelato-alla-vaniglia-con-lamponi-e-meringhe/risultato6.jpg "frangipani © Erica")
 
-![](risultato7.jpg "frangipani © Erica")
+![](../2018-07-24-zuccotto-di-gelato-alla-vaniglia-con-lamponi-e-meringhe/risultato7.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

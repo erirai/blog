@@ -11,7 +11,7 @@ categories:
 label: 2017-10-18-ciambella-alla-zucca-con-cuore-cremoso-alla-cannella
 lang: it 
 ---
-![](header.jpg "frangipani © Erica")
+![](../2017-10-18-ciambella-alla-zucca-con-cuore-cremoso-alla-cannella/header.jpg "frangipani © Erica")
 
 > Buon 4° Compliblog Profumo di Frangipani!
 
@@ -104,31 +104,31 @@ Mio marito qualche settimana fa mi ha fatto notare, che l'ultima videoricetta l'
 {% youtube g2rcybeZfnE %}
 
 Per prima cosa preparate il cuore cremoso alla cannella. In una ciotola mettete il formaggio spalmabile e lo zucchero e mescolate. Aggiungete la farina, mescolate e poi incorporate bene anche l'uovo. Alla fine aggiungete la cannella a piacere e mettete da parte.
-![](cremadiformaggio.jpg "frangipani © Erica")
+![](../2017-10-18-ciambella-alla-zucca-con-cuore-cremoso-alla-cannella/cremadiformaggio.jpg "frangipani © Erica")
 
 Dunque per l'impasto mettete la purea di zucca in una ciotola e aggiungete le uova, poi l'olio di semi e come ultimo ingrediente liquido il latte. Adesso aggiungete lo zucchero e mescolate. A parte mescolate la farina con il bicarbonato, il lievito ed il sale, poi aggiungetelo piano piano nella coppa con il composto di zucca sempre mescolando. Dovrete ottenere un composto liscio ed omogeneo.
-![](impasto.jpg "frangipani © Erica")
+![](../2017-10-18-ciambella-alla-zucca-con-cuore-cremoso-alla-cannella/impasto.jpg "frangipani © Erica")
 
 Versate metà impasto nello stampo per ciambelle imburrato ed infarinato. Poi tutto attorno al centro dell'impasto distribuiteci la crema al formaggio.
-![](teglia1.jpg "frangipani © Erica")
+![](../2017-10-18-ciambella-alla-zucca-con-cuore-cremoso-alla-cannella/teglia1.jpg "frangipani © Erica")
 
 Coprite con il resto dell'impasto.
-![](teglia2.jpg "frangipani © Erica")
+![](../2017-10-18-ciambella-alla-zucca-con-cuore-cremoso-alla-cannella/teglia2.jpg "frangipani © Erica")
 
 Infornate la ciambella alla zucca con cuore cremoso alla cannella nel forno preriscaldato a 160°C ventilato per circa 60-75min. Il tempo di cottura dipende dalla grandezza dello stampo, comunque fate la prova stecchino. Fate intiepidire la torta nello stampo, poi passatela su di un piatto da portata e cospargete il tutto con zucchero e cannella.
-![](risultato1.jpg "frangipani © Erica")
+![](../2017-10-18-ciambella-alla-zucca-con-cuore-cremoso-alla-cannella/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2017-10-18-ciambella-alla-zucca-con-cuore-cremoso-alla-cannella/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2017-10-18-ciambella-alla-zucca-con-cuore-cremoso-alla-cannella/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2017-10-18-ciambella-alla-zucca-con-cuore-cremoso-alla-cannella/risultato4.jpg "frangipani © Erica")
 
-![](risultato5.jpg "frangipani © Erica")
+![](../2017-10-18-ciambella-alla-zucca-con-cuore-cremoso-alla-cannella/risultato5.jpg "frangipani © Erica")
 
-![](risultato6.jpg "frangipani © Erica")
+![](../2017-10-18-ciambella-alla-zucca-con-cuore-cremoso-alla-cannella/risultato6.jpg "frangipani © Erica")
 
-![](risultato7.jpg "frangipani © Erica")
+![](../2017-10-18-ciambella-alla-zucca-con-cuore-cremoso-alla-cannella/risultato7.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

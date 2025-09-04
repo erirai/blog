@@ -10,7 +10,7 @@ categories:
 label: 2021-12-15-ghirlanda-di-pane-con-semi-di-lino
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2021-12-15-ghirlanda-di-pane-con-semi-di-lino/header.jpeg "frangipani © Erica")
 
 **Ghirlanda di Pane con Semi di Lino** perfetta da condividere durante le festività natalizie, ma non solo. Può essere usata come centrotavola, commestibile naturalmente. Si può preparare anche in anticipo, per poi surgelarla. La sera prima che vi serve la uscite dal freezer e la mettete in frigo, poi basta passarla in forno per 10min e sarà come appena sfornata.
 <br />
@@ -28,7 +28,7 @@ Eh niente, non mi resta che augurarvi un buon Natale, che sia un Natale pieno di
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">ghirlanda di Pane con Semi di Lino</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2021-12-15-ghirlanda-di-pane-con-semi-di-lino/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Ghirlanda di Pane con Semi di Lino perfetta da condividere durante le festività natalizie, ma non solo. Può essere usata come centrotavola, commestibile naturalmente.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -76,8 +76,8 @@ Mettete al centro della teglia ricoperta da carta forno una coppetta imburrata (
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="palline.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-12-15-ghirlanda-di-pane-con-semi-di-lino/palline.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-12-15-ghirlanda-di-pane-con-semi-di-lino/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -85,40 +85,40 @@ Mettete al centro della teglia ricoperta da carta forno una coppetta imburrata (
 Infornate la **ghirlanda di Pane con Semi di Lino** nel forno preriscaldato a 250°C statico, appena infornate abbassate a 200°C e spruzzate nel forno un po' d'acqua. Fate cuocere per 20-30min, deve prendere un bel colore senza bruciarsi ovviamente. Dopo 15min aprite velocemente il forno per fare uscire il vapore e poi continuate la cottura, in questo modo la crosta sarà più croccante. Appena sfornato mettetelo su di una griglia per farlo intiepidire/raffreddare.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-12-15-ghirlanda-di-pane-con-semi-di-lino/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-12-15-ghirlanda-di-pane-con-semi-di-lino/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-12-15-ghirlanda-di-pane-con-semi-di-lino/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-12-15-ghirlanda-di-pane-con-semi-di-lino/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-12-15-ghirlanda-di-pane-con-semi-di-lino/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-12-15-ghirlanda-di-pane-con-semi-di-lino/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-12-15-ghirlanda-di-pane-con-semi-di-lino/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-12-15-ghirlanda-di-pane-con-semi-di-lino/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-12-15-ghirlanda-di-pane-con-semi-di-lino/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-12-15-ghirlanda-di-pane-con-semi-di-lino/risultato10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

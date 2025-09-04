@@ -12,7 +12,7 @@ categories:
 label: 2019-12-12-preparato-per-cioccolata-calda-fatta-in-casa
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2019-12-12-preparato-per-cioccolata-calda-da-regalare/header.jpeg "frangipani © Erica")
 
 **Preparato per Cioccolata Calda** fatta in casa, un ottima idea regalo di Natale. Ha la giusta densità e dolcezza, ma può essere aggiustata secondo i propri gusti, mettendo meno o più del preparato o aggiungendo più latte. 
 Allarme Spoiler: Questo sarà una parte del mio regalo di Natale e mi scuso con chi lo vedrà già prima di riceverlo. Sorry! 
@@ -27,7 +27,7 @@ Questo è un post molto speciale per me, perché con questo partecipo al calenda
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Preparato per Cioccolata Calda fatta in casa</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2019-12-12-preparato-per-cioccolata-calda-da-regalare/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Preparato per Cioccolata Calda fatta in casa, un ottima idea regalo di Natale.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -115,19 +115,19 @@ Aggiungete al regalo anche le istruzioni per la preparazione della cioccolata ca
 **AGGIUNGETE 2 CUCCHIAI DEL PREPARATO IN UN PENTOLINO CON 150g DI LATTE, POI METTETE SUL FUOCO E MESCOLATE.
 FATE CUOCERE SEMPRE MESCOLANDO FINCHÉ LA CIOCCOLATA NON SI SARÀ ADDENSATA.**
 
-![](risultato1.jpeg "frangipani © Erica")
+![](../2019-12-12-preparato-per-cioccolata-calda-da-regalare/risultato1.jpeg "frangipani © Erica")
 
-![](risultato2.jpeg "frangipani © Erica")
+![](../2019-12-12-preparato-per-cioccolata-calda-da-regalare/risultato2.jpeg "frangipani © Erica")
 
-![](risultato3.jpeg "frangipani © Erica")
+![](../2019-12-12-preparato-per-cioccolata-calda-da-regalare/risultato3.jpeg "frangipani © Erica")
 
-![](risultato4.jpeg "frangipani © Erica")
+![](../2019-12-12-preparato-per-cioccolata-calda-da-regalare/risultato4.jpeg "frangipani © Erica")
 
-![](risultato5.jpeg "frangipani © Erica")
+![](../2019-12-12-preparato-per-cioccolata-calda-da-regalare/risultato5.jpeg "frangipani © Erica")
 
-![](risultato6.jpeg "frangipani © Erica")
+![](../2019-12-12-preparato-per-cioccolata-calda-da-regalare/risultato6.jpeg "frangipani © Erica")
 
-![](risultato7.jpeg "frangipani © Erica")
+![](../2019-12-12-preparato-per-cioccolata-calda-da-regalare/risultato7.jpeg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

@@ -13,7 +13,7 @@ categories:
 - "Primi Piatti"
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2016-07-23-risotto-con-zucchine-e-pomodorini-gialli/header.jpg "frangipani © Erica")
 
 Eccomi qua... Siamo appena tornati dalle vacanze e siamo dovuti correre dal pediatra col nostro piccolo Buldozer, otite acuta. Ma ormai siamo abituati... L'anno scorso appena rientrati, siamo dovuti andare dal dentista con la nostra grande diva, perché durante gli ultimi giorni delle vacanze si era fatta male a un dente. Speriamo non diventi abitudine! Comunque sia, il tempo per preparare qualcosa di buono si trova sempre. Poi il nostro giardino ci sta regalando un sacco di cose buone... zucchine gialle (mi sa che era l'ultima), pomodori, fiori di zucca, cetrioli, peperoni, cucuzze (forse), stanno crescendo le zucche per l'autunno, ancora lamponi... Adoro l'estate! Poi non vi dico quante erbe aromatiche che ci sono e come sono cresciute, sembra un'invasione! Ne ho raccolta un bel po' e ho fatto il sale alle erbe (la ricetta per il sale alle erbe la trovate <a href="http://frangipani.raiano.ch/2015-07-12-sale-alle-erbe/" target="_blank">qui</a>).
 
@@ -69,16 +69,16 @@ Per questo piatto ho usato una zucchina gialla e qualche pomodorino giallo, tutt
 </h3>
 
 Per prima cosa preparate i pomodirini al forno, una specie di pomodorini confit veloci. Prendete una pirofila e copritela con della carta forno, poi mettete i pomodorini interi, uno spicchio d'aglio, un bel filo d'olio e un pizzico di sale.
-![](pomodorini.jpg "frangipani © Erica")
+![](../2016-07-23-risotto-con-zucchine-e-pomodorini-gialli/pomodorini.jpg "frangipani © Erica")
 
 Infornate nel forno preriscaldato a 150°C statico per mezz'oretta. Se vedete che si bruciacchiano troppo, abbassate la temperatura.
-![](pomodorinicotti.jpg "frangipani © Erica")
+![](../2016-07-23-risotto-con-zucchine-e-pomodorini-gialli/pomodorinicotti.jpg "frangipani © Erica")
 
 Poi grattugiate grossolanamente la zucchina. In una padella o in una pentola mettete uno spicchio d'aglio, un filo d'olio e un pizzico di sale. Fate soffriggere, poi aggiungete le zucchine grattugiate.
-![](zucchine.jpg "frangipani © Erica")
+![](../2016-07-23-risotto-con-zucchine-e-pomodorini-gialli/zucchine.jpg "frangipani © Erica")
 
 Fate rosolare un attimino, poi aggiungete il riso sempre mescolando. Aggiungete un po' d'acqua bollente e fate cuocere il riso a fiamma moderata. Quando il riso avrà assorbito tutta l'acqua, aggiungetene ancora, ripetete questo finché il riso sarà cotto. Non dimenticate di mettere il sale e di togliere l'aglio. Quando il riso sarà cotto, aggiungete qualche fogliolina di basilico fresco e impiattate. Decorate il piatto con i pomodorini al forno e ancora del basilico.
-![](risultato.jpg "frangipani © Erica")
+![](../2016-07-23-risotto-con-zucchine-e-pomodorini-gialli/risultato.jpg "frangipani © Erica")
 
 
 <h4>Buon appetito

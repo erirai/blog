@@ -11,7 +11,7 @@ categories:
 label: 2024-03-06-nidi-di-pasta-sfoglia-con-agretti-e-uova
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2024-03-06-nidi-di-pasta-sfoglia-con-agretti-e-uova/header.jpeg "frangipani © Erica")
 
 **Nidi di Pasta Sfoglia con Agretti e Uova** delle piccole Tartes molto saporite perfette per Pasqua. Ottime come antipasto, per un Buffet ma anche per il Brunch pasquale. Io ho preparato la versione grande diciamo, ma volendo potete fare anche dei piccoli nidini usando le uova di quaglia al posto di quelle di gallina. In questo modo avrete dei piccoli bocconcini. In questo caso i tempi di cottura in forno si riducono.
 <br />
@@ -26,7 +26,7 @@ Ma voi conoscete gli agretti o la barba di frate? A me e ai bimbi piacciono tant
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Nidi di Pasta Sfoglia con Agretti e Uova</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2024-03-06-nidi-di-pasta-sfoglia-con-agretti-e-uova/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Nidi di Pasta Sfoglia con Agretti e Uova, delle piccole Tartes molto saporite perfette per Pasqua.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -84,9 +84,9 @@ Uscite la teglia dal forno e distribuite sui dischi di pasta sfoglia un po' di f
 Uscite di nuovo la teglia dal forno e al centro di ogni nido versateci delicatamente un uovo. 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 32%; margin-right: 1%;" src="sfoglia.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="agretti.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-left: 1%;" src="uovo.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%;" src="../2024-03-06-nidi-di-pasta-sfoglia-con-agretti-e-uova/sfoglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="../2024-03-06-nidi-di-pasta-sfoglia-con-agretti-e-uova/agretti.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-left: 1%;" src="../2024-03-06-nidi-di-pasta-sfoglia-con-agretti-e-uova/uovo.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -94,24 +94,24 @@ Uscite di nuovo la teglia dal forno e al centro di ogni nido versateci delicatam
 Abbassate la temperatura a 180°C in modalità ventilata ed infornate di nuovo per altri 10-15min, dipende da come vi piace la cottura dell'uovo. Appena sfornati, salate l'uovo.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-03-06-nidi-di-pasta-sfoglia-con-agretti-e-uova/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-03-06-nidi-di-pasta-sfoglia-con-agretti-e-uova/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-03-06-nidi-di-pasta-sfoglia-con-agretti-e-uova/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-03-06-nidi-di-pasta-sfoglia-con-agretti-e-uova/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2024-03-06-nidi-di-pasta-sfoglia-con-agretti-e-uova/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2024-03-06-nidi-di-pasta-sfoglia-con-agretti-e-uova/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

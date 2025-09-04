@@ -10,7 +10,7 @@ categories:
 label: 2022-03-30-capperi-di-tarassaco
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2022-03-30-capperi-di-tarassaco/header.jpeg "frangipani © Erica")
 
 **Capperi di Tarassaco sotto Sale (Boccioli di Tarassaco sotto sale)**, una conserva primaverile fatta con solo due ingredienti: boccioli di tarassaco e sale grosso. Ovviamente non sono capperi, quelli veri, ma una validissima alternativa. Il gusto è diverso, ma sono altrettanto buoni!
 <br />
@@ -19,7 +19,7 @@ Dopo aver preparato il <a href="https://frangipani.raiano.ch/2021-04-10-finto-mi
 La preparazione è facilissima... Iniziate facendo una lunga passeggiata tra i campi lontani dalle strade, ancora meglio se sono campi dove non vengono usati pesticidi. Raccogliete i boccioli chiusi del tarassaco. Devono essere ancora chiusi, questo è molto importante! Poi vanno puliti e messi sotto sale, tutto qui! Se tenuti in frigo, tengono tranquillamente per qualche mese. A noi piacciono tantissimo nelle insalate (dissalati ovviamente) o nei piatti freddi. Non li ho mai cotti perché secondo me sono più gustosi così...
 
 Ah, sabato finalmente abbiamo potuto festeggiare il compleanno di Gioele... Dopo che per via del Covid abbiamo dovuto rimandare due volte, ce l'abbiamo fatta! Mi aveva chiesto una torta con tutti gli Avengers che alla fine di Endgame entrano dai portali. Tutti! Ho fatto del mio meglio... 
-![](tortagioele.jpeg "frangipani © Erica")
+![](../2022-03-30-capperi-di-tarassaco/tortagioele.jpeg "frangipani © Erica")
 Non sono riuscita a trovarli tutti, ne mancano un paio importanti, ma lui è stato felicissimo! Mio marito invece quando ha visto la torta ha detto: Scha, ma mancano i portali! Preferisco non scrivere quello che avrei voluto dirgli.
 
 <div id="wrapper" style="text-align: center">
@@ -27,7 +27,7 @@ Non sono riuscita a trovarli tutti, ne mancano un paio importanti, ma lui è sta
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Capperi di Tarassaco sotto Sale (Boccioli di Tarassaco sotto sale)</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2022-03-30-capperi-di-tarassaco/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Capperi di Tarassaco sotto Sale (Boccioli di Tarassaco sotto sale), una conserva primaverile fatta con solo due ingredienti: boccioli dei fiori di tarassaco e sale grosso. Ovviamente non sono capperi, quelli veri, ma un'alternativa validissima.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -57,9 +57,9 @@ Non sono riuscita a trovarli tutti, ne mancano un paio importanti, ma lui è sta
 Prendete i boccioli chiusi di tarassaco ed eliminate le foglioline attaccate allo stelo. Poi sciacquateli delicatamente e asciugateli bene.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 32%; margin-right: 1%;" src="boccioli.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="foglioline.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-left: 1%;" src="bocciolilavati.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%;" src="../2022-03-30-capperi-di-tarassaco/boccioli.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="../2022-03-30-capperi-di-tarassaco/foglioline.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-left: 1%;" src="../2022-03-30-capperi-di-tarassaco/bocciolilavati.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -67,8 +67,8 @@ Prendete i boccioli chiusi di tarassaco ed eliminate le foglioline attaccate all
 Pesate i boccioli, vi servirà lo stesso peso di sale grosso. Mischiate i boccioli con il sale grosso e poi mettete nei vasetti di vetro, chiudete e tenete al fresco. A questo punto i boccioli di tarassaco inizieranno a buttare acqua, nel mio caso dopo una settimana la quantità di acqua non aumentava più.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="sale.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="acqua.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-03-30-capperi-di-tarassaco/sale.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-03-30-capperi-di-tarassaco/acqua.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -76,26 +76,26 @@ Pesate i boccioli, vi servirà lo stesso peso di sale grosso. Mischiate i boccio
 Dunque versate i boccioli in un setaccio a maglia larga buttando via l'acqua e cercando di eliminare più sale possibile. Tamponate i boccioli con della carta da cucina per asciugarli, poi pesateli. Prendete di nuovo lo stesso peso di sale, mischiate con i boccioli e rimettete nei vasetti puliti. Dopo qualche settimana sono pronti per essere mangiati, prima dissalateli ovviamente. Noi li abbiamo messi soprattutto nelle insalate, non li abbiamo cucinati.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-03-30-capperi-di-tarassaco/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-03-30-capperi-di-tarassaco/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-03-30-capperi-di-tarassaco/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-03-30-capperi-di-tarassaco/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
-![](risultato5.jpeg "frangipani © Erica")
+![](../2022-03-30-capperi-di-tarassaco/risultato5.jpeg "frangipani © Erica")
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-03-30-capperi-di-tarassaco/risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-03-30-capperi-di-tarassaco/risultato7.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

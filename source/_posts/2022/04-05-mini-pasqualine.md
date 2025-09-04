@@ -12,7 +12,7 @@ categories:
 label: 2022-04-05-mini-pasqualine
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2022-04-05-mini-pasqualine/header.jpeg "frangipani © Erica")
 
 **Mini Pasqualine facilissime**, la versione in monoporzione più facile e veloce della classica Torta Pasqualina, ma ugualmente buona! La cosa che richiede molto tempo nella preparazione della Torta Pasqualina è proprio la sfoglia, secondo la tradizione il guscio di pasta infatti dovrebbe essere composto da 33 strati. Ma noi in questo caso usiamo la pasta sfoglia già pronta. Sì, non è la stessa cosa e non è quello che richiede la tradizione, ma per me era ottima ugualmente.
 <br />
@@ -27,7 +27,7 @@ Se cercate altre ricette dedicate alla Pasqua o semplicemente primaverili, le tr
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Mini Pasqualine facilissime</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2022-04-05-mini-pasqualine/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Mini Pasqualine facilissime, la versione in monoporzione più facile e veloce della classica Torta Pasqualina, ma ugualmente buona!</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -86,9 +86,9 @@ Spaccate un ovetto alla volta in una ciotolina e molto delicatamente versate l'o
 Con un coppapasta più piccolo ricavate dei dischi di pasta sfoglia per coprire le mini Pasqualine e sigillate bene i bordi. Se volete potete decorare con qualche fiorellino di pasta sfoglia, poi spennellate con l'uovo sbattuto (io ho usato un ovetto di quaglia).
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 32%; margin-right: 1%;" src="ricottaspinaci.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="uovo.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 32%; margin-left: 1%;" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%;" src="../2022-04-05-mini-pasqualine/ricottaspinaci.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-right: 1%; margin-left: 1%;" src="../2022-04-05-mini-pasqualine/uovo.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 32%; margin-left: 1%;" src="../2022-04-05-mini-pasqualine/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -97,32 +97,32 @@ Infornate le **Mini Pasqualine** nella parte bassa del forno preriscaldato a 200
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-04-05-mini-pasqualine/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-04-05-mini-pasqualine/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-04-05-mini-pasqualine/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-04-05-mini-pasqualine/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-04-05-mini-pasqualine/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-04-05-mini-pasqualine/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2022-04-05-mini-pasqualine/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2022-04-05-mini-pasqualine/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>

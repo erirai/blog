@@ -14,7 +14,7 @@ categories:
 label: 2016-12-07-risotto-al-cavolo-viola
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2016-12-07-risotto-al-cavolo-viola-profumato-al-limone/header.jpg "frangipani © Erica")
 
 Non ci crederete, ma ho già preso tutti i regali di natale! Haha che secchiona che sono! Con figli non sai mai cosa può succedere, quindi per non disperarmi all'ultimo momento ho già fatto tutto e adesso devo solo impaccottare tutto (come dice mio marito). Infatti i miei due piccolini si sono raffreddati, nasino che cola, tossina, ma per fortuna niente di che, il solito raffreddore prenatalizio...
 
@@ -66,21 +66,21 @@ Parliamo della ricetta... Qualche annetto fa ho scoperto il cavolo rosso. Qui si
 </h3>
 
 Tagliate a metà il cavolo rosso, eliminate una o due foglie esterne, dipende da quanto è fresco, e togliete la parte centrale dura. Poi tagliatelo a striscioline. Tagliate finemente lo scalogno e fatelo rosolare con un filo d'olio evo ed un pizzico di sale direttamente nella padella dove cuocerete il risotto (io uso una padella antiaderente dai bordi alti). Poi aggiungete il cavolo rosso e fate rosolare un attimino. 
-![](cavolo1.jpg "frangipani © Erica")
+![](../2016-12-07-risotto-al-cavolo-viola-profumato-al-limone/cavolo1.jpg "frangipani © Erica")
 
 Sfumate con il succo di un limone, vedrete che il cavolo cambierà colore.
-![](cavolo2.jpg "frangipani © Erica")
+![](../2016-12-07-risotto-al-cavolo-viola-profumato-al-limone/cavolo2.jpg "frangipani © Erica")
 
 A parte fate bollire 1.5l d'acqua con 2 scorzette di limone, vi servirà per cuocere il riso.
-![](acqua.jpg "frangipani © Erica")
+![](../2016-12-07-risotto-al-cavolo-viola-profumato-al-limone/acqua.jpg "frangipani © Erica")
 
 Quando il cavolo si sarà ammorbidito un po' aggiungete il riso e fate tostare per un minutino sempre mescolando. Aggiungete un po' d'acqua bollente aromatizzata al limone e fate cuocere il riso a fiamma moderata mescolando ogni tanto. 
-![](riso.jpg "frangipani © Erica")
+![](../2016-12-07-risotto-al-cavolo-viola-profumato-al-limone/riso.jpg "frangipani © Erica")
 
 Quando il riso avrà assorbito tutta l'acqua, aggiungetene ancora, ripetete questo finché il riso sarà cotto, salate e aggiungete la scorza grattugiata del limone. Impiattate e spolverate con un po' di scorza di limone.
-![](risultato1.jpg "frangipani © Erica")
+![](../2016-12-07-risotto-al-cavolo-viola-profumato-al-limone/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2016-12-07-risotto-al-cavolo-viola-profumato-al-limone/risultato2.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

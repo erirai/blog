@@ -12,7 +12,7 @@ categories:
 label: 2021-01-12-torta-morbida-con-fiocchi-d-avena-e-pere
 lang: it 
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2021-01-12-torta-morbida-con-fiocchi-d-avena-e-pere/header.jpeg "frangipani © Erica")
 
 **Torta morbida con Fiocchi d'Avena e Pere** una torta bella burrosa, morbidissima, succosa grazie alla pera e con un leggero tocco croccante dato dai fiocchi d'avena. Una torta autunnale, invernale perché adesso a parte pere, mele, arance, mandarini e kiwi non c'è molta scelta. Potete sostituire le pere con le mele, ma anche con dei frutti di bosco surgelati. Potete aggiungere anche della frutta secca, infatti nella <a href="https://ricette.giallozafferano.it/Plumcake-all-avena-e-nocciole.html" target="_blank"> ricetta originale di Giallo Zafferano</a> ci sono le nocciole al posto delle pere. Avevo già fatto la loro ricetta ed è una favola.
 <br />
@@ -31,7 +31,7 @@ Non ti chiedo molto 2021, sinceramente ti chiedo solo di non essere peggiore del
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Torta morbida con Fiocchi d'Avena e Pere</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2021-01-12-torta-morbida-con-fiocchi-d-avena-e-pere/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Torta morbida con Fiocchi d'Avena e Pere una torta bella burrosa, morbidissima, succosa grazie alla pera e con un leggero tocco croccante dato dai fiocchi d'avena.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -93,45 +93,45 @@ Non ti chiedo molto 2021, sinceramente ti chiedo solo di non essere peggiore del
 </h3>
 
 Nella planetaria o con le fruste elettriche montate il burro a temperatura ambiente con lo zucchero. Quando saranno ben amalgamati, aggiungete l'uovo anche a temperatura ambiente e continuate a mescolare, finché l'uovo non sarà completamente incorporato. In una coppetta a parte mischiate farina, lievito e sale e aggiungete al composto burroso. Mescolate, aggiungete la vaniglia, poi il latte a filo. Amalgamate bene il tutto e aggiungete i fiocchi d'avena. Tagliate 1 pera e mezza a cubetti e aggiungetela all'impasto e date una mescolata veloce a mano. Versate l'impasto in una teglia da plumcake da 20cm precedentemente imburrata e infarinata. Tagliate l'altra metà della pera a fettine e adagiatele sopra l'impasto facendole affondare un po' nell'impasto. Finite con una spolverata di fiocchi d'avena.
-![](teglia.jpeg "frangipani © Erica")
+![](../2021-01-12-torta-morbida-con-fiocchi-d-avena-e-pere/teglia.jpeg "frangipani © Erica")
 
 Infornate nel forno preriscaldato a 180°C statico per 50-55min, fate sempre la prova stecchino. Fatela intiepidire un pochettino prima di farla uscire dalla forma. Mangiatela entro 1-2 giorni, altrimenti conservatela in frigo (per via delle pere).
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-01-12-torta-morbida-con-fiocchi-d-avena-e-pere/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-01-12-torta-morbida-con-fiocchi-d-avena-e-pere/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-01-12-torta-morbida-con-fiocchi-d-avena-e-pere/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-01-12-torta-morbida-con-fiocchi-d-avena-e-pere/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-01-12-torta-morbida-con-fiocchi-d-avena-e-pere/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-01-12-torta-morbida-con-fiocchi-d-avena-e-pere/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-01-12-torta-morbida-con-fiocchi-d-avena-e-pere/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-01-12-torta-morbida-con-fiocchi-d-avena-e-pere/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2021-01-12-torta-morbida-con-fiocchi-d-avena-e-pere/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2021-01-12-torta-morbida-con-fiocchi-d-avena-e-pere/risultato10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>

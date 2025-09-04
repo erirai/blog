@@ -11,7 +11,7 @@ categories:
 label: 2018-09-20-bruschetta-ai-funghi
 lang: it 
 ---
-![](header.jpg "frangipani © Erica")
+![](../2018-09-20-bruschetta-ai-funghi/header.jpg "frangipani © Erica")
 
 **Bruschetta ai Funghi**, un ottimo antipasto veloce e gustoso da preparare durante l'autunno, la stagione dei funghi. Siamo abituati a mangiare la bruschetta con i pomodori, ma perché non provare qualcosa di diverso? A noi è piaciuta molto... La preparate con i funghi che vi piacciono, io ho usato champignons, gallinacci e cardoncelli. Purtroppo non sono riuscita a trovare i funghi porcini, ci sarebbero stati bene. La proverò ancora, magari con altri funghi, devo vedere al mercato... Li ce n'è uno che vende solo funghi e ne ha di tutti i tipi! 
 
@@ -20,7 +20,7 @@ lang: it
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Bruschetta ai Funghi</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2018-09-20-bruschetta-ai-funghi/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Bruschetta ai Funghi, un ottimo antipasto veloce e gustoso da preparare durante l'autunno, la stagione dei funghi.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -61,24 +61,24 @@ lang: it
 </h3>
 
 Pulite i funghi e se c'è bisogno tagliateli a pezzetti più piccoli. In una padella fate soffriggere uno spicchio d'aglio con un pochettino d'olio ed un pizzico di sale, poi aggiungete i funghi e fateli saltare per qualche minuto. Appena i funghi saranno cotti, togliete dai fornelli, eliminate l'aglio e salate.
-![](funghi.jpg "frangipani © Erica")
+![](../2018-09-20-bruschetta-ai-funghi/funghi.jpg "frangipani © Erica")
 
 Tagliate il pane a fette e tostatelo nel forno, nella padella o nel tostapane. Mettete un filo d'olio sulle fette di pane tostato, coprite con i funghi e finite con del prezzemolo spezzettato.
-![](risultato1.jpg "frangipani © Erica")
+![](../2018-09-20-bruschetta-ai-funghi/risultato1.jpg "frangipani © Erica")
 
-![](risultato2.jpg "frangipani © Erica")
+![](../2018-09-20-bruschetta-ai-funghi/risultato2.jpg "frangipani © Erica")
 
-![](risultato3.jpg "frangipani © Erica")
+![](../2018-09-20-bruschetta-ai-funghi/risultato3.jpg "frangipani © Erica")
 
-![](risultato4.jpg "frangipani © Erica")
+![](../2018-09-20-bruschetta-ai-funghi/risultato4.jpg "frangipani © Erica")
 
-![](risultato5.jpg "frangipani © Erica")
+![](../2018-09-20-bruschetta-ai-funghi/risultato5.jpg "frangipani © Erica")
 
-![](risultato6.jpg "frangipani © Erica")
+![](../2018-09-20-bruschetta-ai-funghi/risultato6.jpg "frangipani © Erica")
 
-![](risultato7.jpg "frangipani © Erica")
+![](../2018-09-20-bruschetta-ai-funghi/risultato7.jpg "frangipani © Erica")
 
-![](risultato8.jpg "frangipani © Erica")
+![](../2018-09-20-bruschetta-ai-funghi/risultato8.jpg "frangipani © Erica")
 
 <h4>Buon appetito
   <font color="red">

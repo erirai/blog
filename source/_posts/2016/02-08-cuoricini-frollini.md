@@ -10,7 +10,7 @@ categories:
 - Biscotti
 lang: it
 ---
-![](header.jpg "frangipani © Erica")
+![](../2016-02-08-cuoricini-frollini/header.jpg "frangipani © Erica")
 
 Passiamo dalla modalità Carnevale in modalità San Valentino! Quest'anno sono proprio attaccati, che peccato. Anzi qui la sfilata di Carnevale sarà proprio domenica, a San Valentino. Basta friggere frittelle e cose varie, adesso le ricette saranno più romantiche. Come questi Frollini a forma di cuore che ho ricoperto con del cioccolato bianco. Sono buoni per la colazione, per merenda, con il té o la sera davanti alla TV, magari guardando San Remo... Questi biscotti li ho fatti con la Sparabiscotti e ho usato lo stampo per cuoricini, ma va benissimo qualunque stampo. Fanno un profumo fantastico di vaniglia e si sposano perfettamente con il cioccolato bianco...
 
@@ -68,22 +68,22 @@ Passiamo dalla modalità Carnevale in modalità San Valentino! Quest'anno sono p
 </h3>
 
 Mettete il burro morbido, lo zucchero, lo zucchero vanigliato ed un pizzico di sale in una ciotola capiente e mescolate il tutto con le fruste elettriche finché diventerà cremoso. Poi aggiungete l'uovo e fatelo amalgamare bene. Aggiungete la farina e finite di mescolare sempre con le fruste elettriche o a mano, ma senza lavorare troppo l'impasto.
-![](impasto.jpg "frangipani © Erica")
+![](../2016-02-08-cuoricini-frollini/impasto.jpg "frangipani © Erica")
 
 Mettete l'impasto nella Sparabiscotti usando lo stampo a cuore o quello che preferite.
-![](stampocuore.jpg "frangipani © Erica")
+![](../2016-02-08-cuoricini-frollini/stampocuore.jpg "frangipani © Erica")
 
 Iniziate a sparare i biscotti direttamente sulla teglia senza carta forno e senza imburrarla. Si staccheranno facilmente dopo la cottura, avendo una grande quantità di burro.
-![](teglia.jpg "frangipani © Erica")
+![](../2016-02-08-cuoricini-frollini/teglia.jpg "frangipani © Erica")
 
 Adesso infornateli nel forno preriscaldato a 180°C statico per ca. 12min. Fateli raffreddare un pochettino, poi staccateli e passateli sulla griglia per farli raffreddare completamente.
-![](sfornati.jpg "frangipani © Erica")
+![](../2016-02-08-cuoricini-frollini/sfornati.jpg "frangipani © Erica")
 
 Questi biscotti sono ottimi già così, ma se volete dare un tocco in più, fate sciogliere del cioccolato bianco. Se il cioccolato non dovesse sciogliersi bene, aggiungete un po' di burro di cacao. Una metà l'ho lasciata così, l'altra l'ho colorata di rosa.
-![](cioccolato.jpg "frangipani © Erica")
+![](../2016-02-08-cuoricini-frollini/cioccolato.jpg "frangipani © Erica")
 
 Immergete i cuoricini nel cioccolato bianco, metà o tutto, come preferite...
-![](risultato.jpg "frangipani © Erica")
+![](../2016-02-08-cuoricini-frollini/risultato.jpg "frangipani © Erica")
 
 
 <h3>

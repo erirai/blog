@@ -11,7 +11,7 @@ categories:
 label: 2014-12-04-biscotti-al-burro-e-arancia
 lang: it
 ---
-![](header.jpeg "frangipani © Erica")
+![](../2014-12-04-biscotti-al-burro-e-arancia/header.jpeg "frangipani © Erica")
 
 **Biscotti al Burro e Arancia** dei biscotti morbidi, belli burrosi e super profumati all'arancia. Sono dei biscotti fatti con la sacca da pasticcere, quindi si fanno veramente molto velocemente. In un attimo fate tranquillamente due teglie di biscotti.
 <br />
@@ -22,7 +22,7 @@ Sono perfetti quando volete fare dei sacchettini di biscotti da regalare...
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Biscotti al Burro e Arancia</span>
       <span itemprop="recipeCategory" style="display:none;">Dolce</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2014-12-04-biscotti-al-burro-e-arancia/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Biscotti al Burro e Arancia, dei biscotti morbidi, belli burrosi e super profumati all'arancia.</span>
       <div class="ingredients-title">Ingredienti</div>
@@ -94,8 +94,8 @@ Mettete nella planetaria il burro morbido e lo zucchero a velo setacciato e mont
 Preparate due teglie ricoperte con della carta forno e riempite il sac à poche (con bocchetta grandina a stella) con l'impasto e iniziate a fare i biscotti, dandogli la forma che volete.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="impasto.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="teglia.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-12-04-biscotti-al-burro-e-arancia/impasto.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-12-04-biscotti-al-burro-e-arancia/teglia.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both;"></div>
   </div>
 </p>
@@ -105,24 +105,24 @@ Quindi infornate i biscotti nel forno preriscaldato a 180°C statico per ca. 13m
 Appena freddi, glassateli con l'aiuto di un cucchiaino, facendo colare a filo la glassa sui biscotti. Fate asciugare bene la glassa prima di conservarli in un contenitore di latta o di vetro.
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato1.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato2.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-12-04-biscotti-al-burro-e-arancia/risultato1.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-12-04-biscotti-al-burro-e-arancia/risultato2.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato3.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato4.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-12-04-biscotti-al-burro-e-arancia/risultato3.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-12-04-biscotti-al-burro-e-arancia/risultato4.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato5.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato6.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-12-04-biscotti-al-burro-e-arancia/risultato5.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-12-04-biscotti-al-burro-e-arancia/risultato6.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
@@ -130,16 +130,16 @@ Appena freddi, glassateli con l'aiuto di un cucchiaino, facendo colare a filo la
 Versione Natalizia...
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato7.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato8.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-12-04-biscotti-al-burro-e-arancia/risultato7.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-12-04-biscotti-al-burro-e-arancia/risultato8.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
 
 <p>
   <div style="width: 100%; margin-bottom: 0">
-    <img style="float: left; width: 49%; margin-right: 1%" src="risultato9.jpeg" alt="" title="frangipani © Erica" />
-    <img style="float: left; width: 49%; margin-left: 1%" src="risultato10.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-right: 1%" src="../2014-12-04-biscotti-al-burro-e-arancia/risultato9.jpeg" alt="" title="frangipani © Erica" />
+    <img style="float: left; width: 49%; margin-left: 1%" src="../2014-12-04-biscotti-al-burro-e-arancia/risultato10.jpeg" alt="" title="frangipani © Erica" />
     <div style="clear: both"></div>
   </div>
 </p>
