@@ -6,7 +6,7 @@
     "init": "git submodule init && git submodule update && git submodule status",
     "pull": "git pull && git submodule update && git submodule foreach git pull origin master && cd themes/hueman && git checkout master && git pull && cd ../..",
     "push": "git add . && git commit -m 'update' && git push",
-    "work": "rm -rf public && hexo server --draft",
+    "work": "rm -f db.json && rm -rf public && hexo server --draft",
     "start": "npm run work",
     "generate": "hexo generate",
     "static": "hexo server --static",
