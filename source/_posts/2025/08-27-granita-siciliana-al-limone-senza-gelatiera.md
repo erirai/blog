@@ -21,7 +21,7 @@ La storia della granita ha inizio molti secoli fa, nel periodo della dominazione
 
 Io ho questo metodo: preparo lo sciroppo con il succo di limone e un goccino di succo d'arancia (è il mio ingrediente segreto), poi lo metto nei sacchettini o nelle vaschette per il ghiaccio e lascio tutto in freezer. Quando abbiamo voglia di granita, frullo i cubetti e ci mangiamo la granita. In questo modo avrete sempre a disposizione la granita e evitate di dover mescolare la granita ogni 30min.
 
-Per me la granita si mangia così in purezza, senza panna! Certo, una soffice brioche col tuppo o il nostro <a href="/2020-05-05-pane-di-semola-siciliano/">Pane Siciliano di Semola con Sesamo</a> come accompagnamento, sono quasi d'obbligo...
+Per me la granita si mangia così in purezza, senza panna! Certo, una soffice <a href="/2025-09-03-brioche-siciliana-col-tuppo/">Brioche col Tuppo</a> o il nostro <a href="/2020-05-05-pane-di-semola-siciliano/">Pane Siciliano di Semola con Sesamo</a> come accompagnamento, sono quasi d'obbligo...
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">

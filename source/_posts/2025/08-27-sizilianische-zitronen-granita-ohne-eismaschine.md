@@ -21,7 +21,7 @@ Die Geschichte der Granita beginnt viele Jahrhunderte zurück, während der arab
 
 Ich gehe so vor: Ich mache den Sirup aus Zitronensaft und einem Schuss Orangensaft (meine Geheimzutat), fülle ihn in Eisbeutel oder -behälter und lasse es im Gefrierschrank. Wenn wir Lust auf Granita haben, püriere ich die Würfel und dann geniessen wir Granita. So hat man immer Granita zur Hand und dazu muss man nicht alle 30min umrühren.
 
-Für mich schmeckt Granita am besten pur, ohne Schlagrahm! Natürlich darf eine fluffige sizilianische Brioche oder unser <a href="/2020-05-05-pane-di-semola-siciliano-de/">Sizilianisches Hartweizengriessbrot mit Sesam</a> als Beilage nicht fehlen...
+Für mich schmeckt Granita am besten pur, ohne Schlagrahm! Natürlich darf eine fluffige <a href="/2025-09-03-sizilianische-brioche/">Sizilianische Brioche</a> oder unser <a href="/2020-05-05-pane-di-semola-siciliano-de/">Sizilianisches Hartweizengriessbrot mit Sesam</a> als Beilage nicht fehlen...
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
