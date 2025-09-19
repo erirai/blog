@@ -2249,7 +2249,8 @@ i.icon:before {
   padding: 22px 26px;
   padding-bottom: 48px /* reserve space for the bottom note */;
   margin: 22px auto;
-  font-family: fantasy, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, cursive;
+  font-family: "Lucida Handwriting", fantasy, cursive;
+  font-size: 80%;
   display: block;
   max-width: 380px;
   border-radius: 8px;
