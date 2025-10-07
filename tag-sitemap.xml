@@ -3,14 +3,49 @@
 
 
     <url>
-        <loc>https://frangipani.raiano.ch/tags/prugne/</loc>
-        <lastmod>2025-09-16T09:05:20.685Z</lastmod>
+        <loc>https://frangipani.raiano.ch/tags/ceci/</loc>
+        <lastmod>2025-09-22T15:45:00.736Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/tags/vegan/</loc>
+        <lastmod>2025-09-22T15:45:00.736Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/tags/glutenfree/</loc>
+        <lastmod>2025-09-22T15:45:00.736Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/tags/zucca/</loc>
+        <lastmod>2025-09-22T15:45:00.736Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/tags/inverno/</loc>
+        <lastmod>2025-09-22T15:45:00.736Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://frangipani.raiano.ch/tags/autunno/</loc>
+        <lastmod>2025-09-22T15:45:00.736Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/tags/prugne/</loc>
         <lastmod>2025-09-16T09:05:20.685Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -46,13 +81,6 @@
 
     <url>
         <loc>https://frangipani.raiano.ch/tags/ricette-siciliane/</loc>
-        <lastmod>2025-09-15T12:44:23.246Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/tags/vegan/</loc>
         <lastmod>2025-09-15T12:44:23.246Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -101,7 +129,7 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/tags/ceci/</loc>
+        <loc>https://frangipani.raiano.ch/tags/cavolfiore/</loc>
         <lastmod>2025-09-05T07:29:07.224Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -109,13 +137,6 @@
 
     <url>
         <loc>https://frangipani.raiano.ch/tags/cous-cous/</loc>
-        <lastmod>2025-09-05T07:29:07.224Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/tags/cavolfiore/</loc>
         <lastmod>2025-09-05T07:29:07.224Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -304,20 +325,6 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/tags/zucca/</loc>
-        <lastmod>2025-09-05T07:29:07.183Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/tags/inverno/</loc>
-        <lastmod>2025-09-05T07:29:07.183Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://frangipani.raiano.ch/tags/fagioli/</loc>
         <lastmod>2025-09-05T07:29:07.182Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -346,14 +353,14 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/tags/funghi/</loc>
+        <loc>https://frangipani.raiano.ch/tags/nocciole/</loc>
         <lastmod>2025-09-05T07:29:07.179Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/tags/nocciole/</loc>
+        <loc>https://frangipani.raiano.ch/tags/funghi/</loc>
         <lastmod>2025-09-05T07:29:07.179Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -473,13 +480,6 @@
 
     <url>
         <loc>https://frangipani.raiano.ch/tags/riso/</loc>
-        <lastmod>2025-09-05T07:29:07.160Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/tags/glutenfree/</loc>
         <lastmod>2025-09-05T07:29:07.160Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>

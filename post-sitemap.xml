@@ -9,6 +9,22 @@
 
 
     <url>
+        <loc>https://frangipani.raiano.ch/2025-10-08-vegane-kurbis-kichererbsen-ballchen-mit-sesamkruste/</loc>
+        <lastmod>2025-09-22T15:45:00.736Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2025-10-08-polpette-vegane-di-zucca-e-ceci-con-crosta-di-sesamo/</loc>
+        <lastmod>2025-09-22T15:30:53.033Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://frangipani.raiano.ch/2025-09-17-crostata-alle-prugne-e-cannella/</loc>
         <lastmod>2025-09-16T09:05:20.685Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1681,14 +1697,6 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2019-03-28-treccia-salata-farcita-con-salsa-al-pomodoro-spinaci-mozzarella/</loc>
-        <lastmod>2025-09-05T07:29:07.092Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://frangipani.raiano.ch/2019-04-02-nidi-di-biscotti-al-cocco/</loc>
         <lastmod>2025-09-05T07:29:07.092Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1698,6 +1706,14 @@
 
     <url>
         <loc>https://frangipani.raiano.ch/2019-04-10-quadrotti-al-rabarbaro-con-crumble-alla-menta/</loc>
+        <lastmod>2025-09-05T07:29:07.092Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2019-03-28-treccia-salata-farcita-con-salsa-al-pomodoro-spinaci-mozzarella/</loc>
         <lastmod>2025-09-05T07:29:07.092Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1753,7 +1769,7 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2019-01-15-pan-darancio/</loc>
+        <loc>https://frangipani.raiano.ch/2018-12-20-scones-vegani-con-cranberries-profumati-all-arancia/</loc>
         <lastmod>2025-09-05T07:29:07.088Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1761,7 +1777,7 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2018-12-20-scones-vegani-con-cranberries-profumati-all-arancia/</loc>
+        <loc>https://frangipani.raiano.ch/2019-01-15-pan-darancio/</loc>
         <lastmod>2025-09-05T07:29:07.088Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
