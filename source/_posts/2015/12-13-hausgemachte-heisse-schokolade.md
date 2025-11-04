@@ -1,5 +1,5 @@
 ---
-title: "Cioccolata Calda fatta in Casa"
+title: "Hausgemachte heisse Schokolade"
 date: 2015-12-13
 tags:
 - cioccolato
@@ -10,46 +10,46 @@ categories:
 - Dolce
 - Bevande
 label: 2015-12-13-cioccolata-calda-fatta-in-casa
-lang: it
+lang: de
 ---
 ![](../2015-12-13-cioccolata-calda-fatta-in-casa/header.jpeg "frangipani © Erica")
 
-**Cioccolata Calda fatta in Casa** un cioccolata facilissima da preparare in un attimo e il regalo perfetto per un pensierino di Natale, soprattutto da far fare ai nostri piccoli.
-<br />
-Cosa beviamo quando fuori fa freddo, seduti sul divano davanti alla TV, sotto una bella coperta calda? Giusto! Una bella tazza di cioccolata calda. È una delle coccole che ci concediamo e facciamo bene... Questo natale regalerò un po' di coccole in forma di cioccolato per fare una bella tazza di cioccolata calda. È una vera genialata perché servono pochissime cose, ma è un vero piacere riceverlo! Decidete voi quale tipo di cioccolato usare e come devorarli...
+**Hausgemachte heisse Schokolade** eine Schokolade, die super einfach und blitzschnell zubereitet ist und das perfekte Weihnachtsgeschenk, das die Kleinen machen können.
+
+Was trinken wir, wenn es draussen kalt ist und wir gemütlich auf dem Sofa vor dem Fernseher unter einer warmen Decke sitzen? Genau! Eine leckere Tasse heisse Schokolade. Es ist einer dieser kleinen Genussmomente, die wir uns gönnen und das ist richtig so! Dieses Weihnachten verschenke ich diese Schokolöffel für eine leckere Tasse heisse Schokolade. Es ist wirklich genial, weil man so wenig braucht, aber es ist ein wahrer Genuss, sie geschenkt zu bekommen! Du entscheidest, welche Schokolade du verwendest und wie du sie dekorierst...
 
 
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
-      <span itemprop="name" style="display:none;">Cioccolata Calda fatta in Casa</span>
-      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <span itemprop="name" style="display:none;">Hausgemachte heisse Schokolade</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
       <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2015-12-13-cioccolata-calda-fatta-in-casa/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
-      <span itemprop="description" style="display:none;">Cioccolata Calda fatta in Casa, un cioccolata facilissima da preparare in un attimo e il regalo perfetto per un pensierino di Natale.</span>
+      <span itemprop="description" style="display:none;">Hausgemachte heisse Schokolade** eine Schokolade, die super einfach und blitzschnell zubereitet ist und das perfekte Weihnachtsgeschenk.</span>
        <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
           <tr itemprop="recipeIngredient">  
             <td>400gr</td>
-            <td>cioccolato fondente min. 70%</td>
+            <td>dunkle Schokolade min. 70%</td>
           </tr>
           <tr itemprop="recipeIngredient">
-            <td>qb</td>
-            <td>decorazioni di zucchero</td>
-          </tr>
-          <tr itemprop="recipeIngredient">
-            <td>10</td>
-            <td>stecchini da ghiacciolo o cucchiaini di legno</td>
+            <td>etwas</td>
+            <td>Zuckerstreusel</td>
           </tr>
           <tr itemprop="recipeIngredient">
             <td>10</td>
-            <td>bicchierini da caffé di plastica o forma per chiaccio in silicone</td>   
+            <td>Holz-Eisstiel oder -löffel</td>
+          </tr>
+          <tr itemprop="recipeIngredient">
+            <td>10</td>
+            <td>kleine Espresso-Plastikbecher oder Silikon-Eiswürfelform</td>   
           </tr>
         </tbody>
       </table>
       <br></br>
-      <i class="pull-right" style="font-size: 80%;" itemprop="recipeYield">per 10 porzioni</i>
+      <i class="pull-right" style="font-size: 80%;" itemprop="recipeYield">für 10 Portionen</i>
     </div>
   </div>
 </div>
@@ -58,10 +58,10 @@ Cosa beviamo quando fuori fa freddo, seduti sul divano davanti alla TV, sotto un
 <h3>
   <font color="grey">
     <i class="fa-solid fa-gears"></i>
-  </font> Preparazione
+  </font> Zubereitung
 </h3>
 
-Sciogliete il cioccolato a bagnomaria. Preparate 10 bicchierini da caffé di plastica e versate ca. 40gr di cioccolato fuso in ogni bicchierino. Altrimenti potete usare anche una forma per ghiaccio in silicone riempiendoli quasi fino all'orlo. Attendete qualche minuto poi immergete in ogni bicchierino uno stecchino da ghiacciolo o un cucchiaino di legno.
+Die Schokolade im Wasserbad schmelzen. Zehn Plastikbecher vorbereiten und jeweils etwa 40g geschmolzene Schokolade hineingeben. Alternativ kann man auch eine Silikon-Eiswürfelform verwenden und diese fast bis zum Rand füllen. Einige Minuten warten, dann jeweils einen Eisstiel oder einen Holzlöffel in die geschmolzene Schokolade tauchen.
 <p>
   <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2015-12-13-cioccolata-calda-fatta-in-casa/cioccolato.jpg" alt="" title="frangipani © Erica" />
@@ -70,7 +70,7 @@ Sciogliete il cioccolato a bagnomaria. Preparate 10 bicchierini da caffé di pla
   </div>
 </p>
 
-Se volete decorate con le decorazioni di zucchero, poi lasciate indurire completamente. Quando saranno completamente duri estraeteli dai bicchierini (io ho dovuto rompere i bicchierini per uscirli...). Accompagnateli con un bigliettino con scritto su: Scioglimi in una tazza di latte caldissimo!
+Nach Belieben mit Zuckerstreusel verzieren und vollständig aushärten lassen. Sobald sie ganz hart sind, aus den Bechern lösen (ich musste die Becher zerbrechen, um sie herauszubekommen...). Legt eine Notiz bei: "Lass mich in einer Tasse sehr heisser Milch schmelzen!"
 <p>
   <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2015-12-13-cioccolata-calda-fatta-in-casa/risultato1.jpeg" alt="" title="frangipani © Erica" />

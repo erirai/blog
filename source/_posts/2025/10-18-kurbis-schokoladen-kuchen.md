@@ -35,7 +35,7 @@ Erica
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Kürbis-Schokoladen-Kuchen</span>
-      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
       <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2025-10-18-torta-soffice-alla-zucca-e-cioccolato/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Kürbis-Schokoladen-Kuchen, </span>

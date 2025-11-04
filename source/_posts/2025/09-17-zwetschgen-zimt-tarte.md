@@ -26,7 +26,7 @@ Nur ein kleiner Tipp: Beim Zimtkauf empfehle ich Ceylon-Zimt. Es hat einen wenig
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Zwetschgen-Zimt-Tarte</span>
-      <span itemprop="recipeCategory" style="display:none;">Dolce</span>
+      <span itemprop="recipeCategory" style="display:none;">Süsses</span>
       <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2025-09-17-crostata-alle-prugne-e-cannella/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Zwetschgen-Zimt-Tarte, eine mürbe, cremige und saftige Tarte, die nach Herbst duftet.</span>

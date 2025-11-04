@@ -26,7 +26,7 @@ Wenn ihr keinen Sesam mögt, könnt ihr einfach Paniermehl oder zerstossene Corn
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Vegane Kürbis-Kichererbsen-Bällchen mit Sesamkruste</span>
-      <span itemprop="recipeCategory" style="display:none;">Herzhaft</span>
+      <span itemprop="recipeCategory" style="display:none;">Herzhaftes</span>
       <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2025-10-08-polpette-vegane-di-zucca-e-ceci-con-crosta-di-sesamo/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Vegane Kürbis-Kichererbsen-Bällchen in Sesamkruste, Köstliche vegane Bällchen, aussen knusprig und innen weich.</span>
