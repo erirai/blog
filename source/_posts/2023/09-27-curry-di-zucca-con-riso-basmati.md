@@ -89,11 +89,15 @@ Vi starete chiedendo: Ma dov'è il coriandolo? Ok, mettiamo in chiaro una cosa..
           </tr>
           <tr itemprop="recipeIngredient">
             <td>qb</td>
+            <td>sale</td>
+          </tr>
+          <tr itemprop="recipeIngredient">
+            <td>qb</td>
             <td>prezzemolo o coriandolo</td>
           </tr>
           <tr itemprop="recipeIngredient">
             <td>qb</td>
-            <td>lime</td>
+            <td>lime o limone</td>
           </tr>
         </tbody>
       </table>
@@ -110,9 +114,9 @@ Vi starete chiedendo: Ma dov'è il coriandolo? Ok, mettiamo in chiaro una cosa..
   </font> Preparazione
 </h3>
 
-Mettete in ammollo il riso Basmati per 20min, poi sciacquatelo di nuovo e mettetelo in una pentola con 600ml di acqua e lasciate di nuovo in ammollo per 10min. Aggiungete 1 cucchiaino raso di sale, accendete il fornello, appena bolle abbassate la temperatura e lasciate cuocere per 10-15min coperto con un coperchio o finché si sarà assorbita tutta l'acqua. Togliete dai fornelli e lasciatelo riposare ancora per 10min sempre chiuso con il coperchio.
+Sciacquate bene il riso Basmati, mettetelo in ammollo per 1h, poi sciacquatelo di nuovo e mettetelo in una pentola con 600ml di acqua e lasciate di nuovo in ammollo per 20min. Aggiungete 1 cucchiaino raso di sale, accendete il fornello, appena bolle abbassate la temperatura e lasciate cuocere per 10-15min coperto con un coperchio o finché non si sarà assorbita tutta l'acqua. Togliete dai fornelli e lasciatelo riposare ancora per 10min sempre chiuso con il coperchio. Io lo preparo in questo modo, ma potete ridurre i tempi semplicemente seguendo le istruzioni sulla confezione del riso.
 
-Per il curry mettete un filo d'olio in una padella, aggiungete la cipolla tagliata finemente, lo spicchio d'aglio intero o tritato, il curry, la paprika e lo zenzero grattugiato finemente. Fate rosolare il tutto, poi aggiungete la zucca, le zucchine ed il peperone tutto precedentemente pulito e tagliato a pezzetti. Se usate la zucca Hokkaido biologica, potete usarla con tutta la buccia. Fate rosolare un po', aggiungete il concentrato di pomodoro, il latte di cocco ed un goccio d'acqua. Mescolate, coprite e lasciate cuocere a temperatura media finché il tutto non sarà cotto. Se c'è bisogno aggiungete altra acqua, poca alla volta e alla fine salate. Se avete messo lo spicchio d'aglio intero, non scordatevi di eliminarlo prima di servire il curry di zucca.
+Per il curry mettete un filo d'olio in una padella, aggiungete la cipolla tagliata finemente, lo spicchio d'aglio intero o tritato, il curry, la paprika e lo zenzero grattugiato finemente. Fate rosolare il tutto, poi aggiungete la zucca, le zucchine ed il peperone tutto precedentemente pulito e tagliato a pezzetti. Se usate la zucca Hokkaido biologica, potete usarla con tutta la buccia. Fate rosolare un po', aggiungete il concentrato di pomodoro, il latte di cocco ed un goccio d'acqua. Mescolate, coprite e lasciate cuocere a temperatura media finché il tutto non sarà cotto. Se c'è bisogno aggiungete altra acqua, poca alla volta e alla fine salate. Se avete messo lo spicchio d'aglio intero, non scordatevi di eliminarlo prima di servire il Curry di zucca.
 <p>
   <div style="width: 100%; margin-bottom: 0">
     <img style="float: left; width: 49%; margin-right: 1%" src="../2023-09-27-curry-di-zucca-con-riso-basmati/cipolla.jpeg" alt="" title="frangipani © Erica" />

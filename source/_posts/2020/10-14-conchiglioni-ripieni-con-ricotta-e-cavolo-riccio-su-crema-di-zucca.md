@@ -124,7 +124,8 @@ Per la crema di zucca tagliate finemente il porro e fatelo rosolare in una pento
     <div style="clear: both"></div>
   </div>
 </p>
-Cuocete la pasta in abbondante acqua salata, deve rimanere al dente. Una volta scolata, sciacquatela sotto l'acqua fredda per fermare la cottura. Prendete una teglia e coprite il fondo con la crema di zucca. Farcite i conchiglioni con il ripieno di ricotta e cavolo riccio, aiutandovi con un cucchiaino e adagiateli sulla crema di zucca. 
+Cuocete la pasta in abbondante acqua salata, deve rimanere al dente. Una volta scolata, sciacquatela sotto l'acqua fredda per fermare la cottura. Prendete una teglia e coprite il fondo con la crema di zucca. Farcite i conchiglioni con il ripieno di ricotta e cavolo riccio, aiutandovi con un cucchiaino e adagiateli sulla crema di zucca.
+
 ![](../2020-10-14-conchiglioni-ripieni-con-ricotta-e-cavolo-riccio-su-crema-di-zucca/teglia.jpeg "frangipani © Erica")
 
 Finite con una bella grattugiata di parmigiano, coprite con un foglio di carta d'alluminio e infornate nel forno preriscaldato a 180°C ventilato per mezz'oretta. Gli ultimi 5min cuocete senza carta d'alluminio.

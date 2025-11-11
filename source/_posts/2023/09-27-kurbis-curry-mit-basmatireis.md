@@ -44,7 +44,7 @@ Ihr fragt euch vielleicht: Aber wo ist der Koriander? Ok, lasst mich eines klars
             <td>Knoblauchzehe</td>
           </tr>
           <tr itemprop="recipeIngredient">
-            <td>qs</td>
+            <td>etwas</td>
             <td>Sonnenblumenöl</td>
           </tr>
           <tr itemprop="recipeIngredient">
@@ -76,7 +76,7 @@ Ihr fragt euch vielleicht: Aber wo ist der Koriander? Ok, lasst mich eines klars
             <td>Tomatenkonzentrat</td>     
           </tr>
           <tr itemprop="recipeIngredient">
-            <td>1 Büchse</td>
+            <td>1 Dose</td>
             <td>Kokosmilch</td>
           </tr>
           <tr itemprop="recipeIngredient">
@@ -88,12 +88,16 @@ Ihr fragt euch vielleicht: Aber wo ist der Koriander? Ok, lasst mich eines klars
             <td>Wasser</td>
           </tr>
           <tr itemprop="recipeIngredient">
-            <td>qs</td>
+            <td>etwas</td>
+            <td>Salz</td>
+          </tr>
+          <tr itemprop="recipeIngredient">
+            <td>etwas</td>
             <td>Petersilie oder Koriander</td>
           </tr>
           <tr itemprop="recipeIngredient">
-            <td>qs</td>
-            <td>limette</td>
+            <td>etwas</td>
+            <td>Limette oder Zitrone</td>
           </tr>
         </tbody>
       </table>
@@ -110,7 +114,7 @@ Ihr fragt euch vielleicht: Aber wo ist der Koriander? Ok, lasst mich eines klars
   </font> Zubereitung
 </h3>
 
-Den Basmatireis 20min lang einweichen, abspülen und in einen Topf mit 600ml Wasser geben und erneut 10min lang einweichen. 1 gestrichenen Teelöffel Salz hinzufügen, den Herd einschalten, sobald es kocht, die Temperatur senken und 10-15min lang zugedeckt köcheln lassen, bis das gesamte Wasser aufgesogen ist. Vom Herd nehmen und weitere 10min ruhen lassen, immer mit geschlossenem Deckel.
+Den Basmatireis gut waschen, dann 1h lang einweichen, abspülen und in einen Topf mit 600ml Wasser geben und erneut 20min lang einweichen. 1 gestrichenen Teelöffel Salz hinzufügen, den Herd einschalten, sobald es kocht, die Temperatur senken und 10-15min lang zugedeckt köcheln lassen, bis das gesamte Wasser aufgesogen ist. Vom Herd nehmen und weitere 10min ruhen lassen, immer mit geschlossenem Deckel. Ich bereite es so zu, aber ihr könnt die Zubereitungszeit verkürzen, indem ihr einfach die Anweisungen auf der Reispackung befolgt.
 
 Für das Curry einen Schuss Öl in eine Pfanne geben, die fein gehackte Zwiebel, die ganze oder gehackte Knoblauchzehe, das Currypulver, das Paprikapulver und den fein geriebenen Ingwer hinzufügen. Alles anbraten, dann den zuvor gereinigten und in kleine Stücke geschnittenen Kürbis, die Zucchini und die Paprika dazugeben. Wenn ihr Bio-Hokkaido-Kürbis verwendet, könnt ihr diesen mit der ganzen Schale verwenden. Etwas anbraten lassen, Tomatenmark, Kokosmilch und einen Tropfen Wasser hinzufügen. Umrühren, abdecken und bei mittlerer Temperatur kochen, bis alles gar ist. Bei Bedarf nach und nach noch mehr Wasser hinzufügen und zum Schluss Salz hinzufügen. Wenn ihr die Knoblauchzehe ganz mitgekocht habt, vergesst nicht, diese vor dem Servieren zu entfernen.
 <p>

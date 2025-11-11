@@ -125,6 +125,7 @@ Für die Kürbiscreme den Lauch fein schneiden und in einem Topf mit etwas Öl u
   </div>
 </p>
 Muschelpasta, gemäss Anleitung, al dente kochen. Kochwasser weggiessen und Pasta unter kaltem Wasser ausspülen. Kürbiscreme auf den Boden der Ofenform verteilen und die Muscheln mit einem Teelöffel, einzeln, mit der Ricotta-Federkohl-Mischung füllen und auf die Kürbiscreme legen.
+
 ![](../2020-10-14-conchiglioni-ripieni-con-ricotta-e-cavolo-riccio-su-crema-di-zucca/teglia.jpeg "frangipani © Erica")
 
 Zum Schluss etwas Parmesankäse darüber reiben, mit Alufolie abdecken und für ca. 30min im vorgeheizten Ofen bei 180°C Umluft backen, die letzen 5min ohne Alufolie.
