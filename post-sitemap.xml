@@ -9,6 +9,38 @@
 
 
     <url>
+        <loc>https://frangipani.raiano.ch/2025-11-19-braune-butter-pancakes/</loc>
+        <lastmod>2025-11-18T10:53:29.112Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2025-11-19-pancake-al-burro-nocciola/</loc>
+        <lastmod>2025-11-18T10:53:10.453Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2013-12-09-spitzbuben/</loc>
+        <lastmod>2025-11-18T10:45:13.232Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2013-12-09-spitzbuebe/</loc>
+        <lastmod>2025-11-18T10:33:52.955Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://frangipani.raiano.ch/2025-11-12-blumenkohl-rote-linsen-curry-mit-kurkuma-basmati-reis/</loc>
         <lastmod>2025-11-11T17:07:22.347Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -465,7 +497,7 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2024-08-21-girelle-vegane-ai-mirtilli/</loc>
+        <loc>https://frangipani.raiano.ch/2024-07-10-triangoli-di-pasta-fillo-e-verdure/</loc>
         <lastmod>2025-09-05T07:29:07.175Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -473,7 +505,7 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2024-07-10-triangoli-di-pasta-fillo-e-verdure/</loc>
+        <loc>https://frangipani.raiano.ch/2024-08-21-girelle-vegane-ai-mirtilli/</loc>
         <lastmod>2025-09-05T07:29:07.175Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1977,7 +2009,7 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2018-10-04-zucca-al-forno-con-formaggio-feta-e-salvia/</loc>
+        <loc>https://frangipani.raiano.ch/2018-10-01-torta-di-mele-succosa-e-cremosa/</loc>
         <lastmod>2025-09-05T07:29:07.083Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1985,7 +2017,7 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2018-10-01-torta-di-mele-succosa-e-cremosa/</loc>
+        <loc>https://frangipani.raiano.ch/2018-10-04-zucca-al-forno-con-formaggio-feta-e-salvia/</loc>
         <lastmod>2025-09-05T07:29:07.083Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -3993,7 +4025,7 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2015-01-10-trofie-al-pesto-verde/</loc>
+        <loc>https://frangipani.raiano.ch/2015-01-16-piadine-vegetariane/</loc>
         <lastmod>2025-09-05T07:29:06.980Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -4001,7 +4033,7 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2015-01-16-piadine-vegetariane/</loc>
+        <loc>https://frangipani.raiano.ch/2015-01-10-trofie-al-pesto-verde/</loc>
         <lastmod>2025-09-05T07:29:06.980Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -4505,14 +4537,6 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2013-12-09-spitzbuebe/</loc>
-        <lastmod>2025-09-05T07:29:06.947Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://frangipani.raiano.ch/2013-12-09-frollini-al-limone/</loc>
         <lastmod>2025-09-05T07:29:06.946Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -4553,7 +4577,7 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2013-10-31-halloween-cupcakes/</loc>
+        <loc>https://frangipani.raiano.ch/2013-11-10-sfoglia-di-mele-con-crema-alla-vaniglia/</loc>
         <lastmod>2025-09-05T07:29:06.943Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -4561,7 +4585,7 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2013-11-10-sfoglia-di-mele-con-crema-alla-vaniglia/</loc>
+        <loc>https://frangipani.raiano.ch/2013-10-31-halloween-cupcakes/</loc>
         <lastmod>2025-09-05T07:29:06.943Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
