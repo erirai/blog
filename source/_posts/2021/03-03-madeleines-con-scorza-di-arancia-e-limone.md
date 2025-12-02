@@ -13,9 +13,9 @@ lang: it
 ---
 ![](../2021-03-03-madeleines-con-scorza-di-arancia-e-limone/header.jpeg "frangipani © Erica")
 
-**Madeleines con Scorza d'Arancia e Limone** belli soffici, profumati e con la sua caratteristica gobbetta. La preparazione è veramente facile e sono estremamente buone. Ottime per la colazione e la merenda o semplicemente quando ne avete voglia.
+**Madeleines con Scorza d'Arancia e Limone** belle soffici, profumate e con la loro caratteristica gobbetta. La preparazione è veramente facile e sono estremamente buone. Ottime per la colazione e la merenda o semplicemente quando ne avete voglia.
 <br />
-Le mie cugine dicono, che le Madeleines che fa mia Zia sono le più buone al mondo. Siccome ancora non sono riuscita a provarli, le ho chiesto la ricetta. Che dire, sono perfetti! Fantastici! Ma sono sicura che le sue sono ancora più buone... Ne proverò sicuramente tante altre varianti, le prossime penso saranno al cioccolato.
+Le mie cugine dicono, che le Madeleines che fa mia Zia sono le più buone al mondo. Siccome ancora non sono riuscita a provarle, le ho chiesto la ricetta. Che dire, sono perfette! Fantastiche! Ma sono sicura che le sue sono ancora più buone... Ne proverò sicuramente tante altre varianti, le prossime penso saranno al cioccolato.
 <br />
 Comunque ero un po' combattuta mentre le facevo. Quando pensavo alle Madeleines, mi venivano in mente sempre quelle comprate e quelle le detesto. In generale non mi piacciono i dolci confezionati e mi ricordo che da piccola c'era qualcuno che aveva sempre le Madeleines confezionate in casa, ma non mi ricordo chi... Piccolo trauma finalmente superato!
 
