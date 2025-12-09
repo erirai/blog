@@ -24,7 +24,7 @@ Es dauert nicht mehr lange, bis ich endlich die ganze Weihnachtsdeko rausholen d
       <span itemprop="recipeCategory" style="display:none;">Süsses</span>
       <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="2025-11-19-pancake-al-burro-nocciola/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
-      <span itemprop="description" style="display:none;">Braune-Butter-Pancakes,</span>
+      <span itemprop="description" style="display:none;">Braune-Butter-Pancakes, die herrlich nach Butter, nach einem gemütlichen Frühstück duften.</span>
       <div class="ingredients-title">Zutaten</div>
       <table>
         <tbody>
