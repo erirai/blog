@@ -28,10 +28,10 @@ Vi auguro a tutti un meraviglioso inizio d'anno! Sono curiosa di vedere cosa mi 
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
       <span itemprop="name" style="display:none;">Dreikönigskuchen Salato alle Cipolle e Timo (Corona dei Tre Re alle Cipolle e Timo)</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
-      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2026-01-03-dreikonigskuchen-salato-alle-cipolle-e-timo//header.jpeg"/>
+      <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2026-01-03-dreikonigskuchen-salato-alle-cipolle-e-timo/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
       <span itemprop="description" style="display:none;">Dreikönigskuchen Salato alle Cipolle e Timo (Corona dei Tre Re alle Cipolle e Timo), una Corona dei Re Magi soffice e saporita, ma questa volta in versione salata.</span>
-      <div class="ingredients-title">Zutaten</div>
+      <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
           <tr itemprop="recipeIngredient">
