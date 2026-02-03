@@ -4,7 +4,7 @@
   
   <link href="https://frangipani.raiano.ch/de/atom.xml" rel="self"/>
   <link href="https://frangipani.raiano.ch/"/>
-  <updated>2026-01-19T14:35:11.992Z</updated>
+  <updated>2026-02-03T15:57:46.379Z</updated>
   <id>https://frangipani.raiano.ch/</id>
   
   <author>
@@ -13,6 +13,195 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title xml:lang="de">Zigerkrapfen</title>
+    <link href="https://frangipani.raiano.ch/2026-02-04-zigerkrapfen-de/"/>
+    <id>https://frangipani.raiano.ch/2026-02-04-zigerkrapfen-de/</id>
+    <published>2026-02-03T23:00:00.000Z</published>
+    <updated>2026-02-03T15:57:46.379Z</updated>
+    <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;/../2026-02-04-zigerkrapfen/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Zigerkrapfen&lt;/strong&gt; ein typisches schweizer Fasnachtsgebäck. Es handelt sich um Hefeteigtaschen, die traditionell mit Zigerkäse, Mandeln und Rosinen gefüllt werden. Ziger wird jedoch oft durch Ricotta ersetzt, da dieser Käse einen sehr intensiven Geschmack hat. Es ist nämlich ein Frischkäse aus Magermilch und Bockshornklee. Ausserdem ist er, ausser im Kanton Glarus, nicht gerade leicht zu finden, daher findet man sie oft mit Ricotta gefüllt, so wie ich sie gemacht haben. Richtig gelesen, da sind Rosinen drin, und ich habe sie sogar hinzugefügt. Ich wollte sie nicht durch Schokolade ersetzen, um das Rezept nicht zu verfälschen. Ja, ich habe sie gegessen, aber jedes Mal, wenn ich eines dieser Dinger sah, habe ich sie rausgepickt. Natürlich habe ich sie nicht weggeworfen, die Kinder lieben sie.&lt;/p&gt;
+&lt;p&gt;Sie sind nicht schwer zuzubereiten, aber es ist Fasnachtsgebäck, also müssen sie frittiert werden. Wie ihr wisst, frittiere ich nicht gern, aber an der Fasnacht und mit Zucchiniblüten mache ich eine Ausnahme! &lt;a href=&quot;/tags/carnevale/&quot;&gt;Hier&lt;/a&gt; findet ihr viele weitere Fasnachtsrezepte, frittiert aber auch im Ofen gebacken.&lt;/p&gt;
+&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
+  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
+    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
+      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Zigerkrapfen&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Süsses&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2026-02-04-zigerkrapfen/header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Zigerkrapfen, ein typisches schweizer Fasnachtsgebäck. &lt;/span&gt;
+      &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
+      &lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Hefeteig&lt;/b&gt;&lt;/td&gt;
+          &lt;/tr&gt; 
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;       
+            &lt;td&gt;250gr&lt;/td&gt;
+            &lt;td&gt;Mehl&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1/2 Teelöffel&lt;/td&gt;
+            &lt;td&gt;Salz&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;2 Esslöffel&lt;/td&gt;
+            &lt;td&gt;Zucker&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;2gr&lt;/td&gt;
+            &lt;td&gt;frische Hefe&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;60gr&lt;/td&gt;
+            &lt;td&gt;Butter&lt;/td&gt;         
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1dl&lt;/td&gt;
+            &lt;td&gt;Milch&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr style=&quot;height: 15px;&quot;&gt;&lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Füllung&lt;/b&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;       
+            &lt;td&gt;150gr&lt;/td&gt;
+            &lt;td&gt;Ziger oder Ricotta&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;       
+            &lt;td&gt;2 Esslöffel&lt;/td&gt;
+            &lt;td&gt;brauner Zucker&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;100gr&lt;/td&gt;
+            &lt;td&gt;gemahlene Mandeln&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1/2&lt;/td&gt;
+            &lt;td&gt;Orange bio und unbehandelt nur Abrieb&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1/2&lt;/td&gt;
+            &lt;td&gt;Zitrone bio und unbehandelt nur Abrieb&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;2 Esslöffel&lt;/td&gt;
+            &lt;td&gt;Sultaninen&lt;/td&gt;
+         &lt;/tr&gt;
+          &lt;tr style=&quot;height: 15px;&quot;&gt;&lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Anderes&lt;/b&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;       
+            &lt;td&gt;etwas&lt;/td&gt;
+            &lt;td&gt;Frittieröl&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;       
+            &lt;td&gt;3 Esslöffel&lt;/td&gt;
+            &lt;td&gt;Kristallzucker&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 Teelöffel gestrichen&lt;/td&gt;
+            &lt;td&gt;Zimt&lt;/td&gt;      
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;
+      &lt;br&gt;&lt;/br&gt;
+      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot; itemprop=&quot;recipeYield&quot;&gt;für 12 Zigerkrapfen&lt;/i&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3&gt;
+  &lt;font color=&quot;grey&quot;&gt;
+    &lt;i class=&quot;fa-solid fa-gears&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt; Zubereitung
+&lt;/h3&gt;
+
+&lt;p&gt;Den Hefeteig zubereiten: Mehl, Salz und Zucker in eine Küchenmaschine geben und vermischen. Milch und Butter in einem kleinen Topf leicht erwärmen, vom Herd nehmen und die Hefe darin auflösen. Die Mischung in die Küchenmaschine geben und kneten. Der Teig ist sehr fest, sollte aber so glatt wie möglich sein. Zu einer Kugel formen, gut abdecken und über Nacht gehen lassen (bei Zeitmangel die Hefemenge erhöhen).
+&lt;br /&gt;
+Für die Füllung: Falls ihr Ricotta benutzt, vorher gut abtropfen lassen. Alle Zutaten für die Füllung in eine kleine Schüssel geben und gut vermischen. Im Kühlschrank ruhen lassen.&lt;/p&gt;
+&lt;p&gt;Nach der Gehzeit den Teig halbieren. Eine Hälfte zu einem Rechteck von 20x30cm ausrollen. Sechs Quadrate von ca. 10x10cm ausschneiden. Jeweils einen gehäuften Teelöffel Füllung in die Mitte der Quadrate geben.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2026-02-04-zigerkrapfen/ricotta.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2026-02-04-zigerkrapfen/farcire.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Die Teigtaschen diagonal übereinander falten und die Ränder gut zusammen drücken. Anschliessend die Ränder ein zweites Mal verschliessen, indem man von beiden Seiten 3-4 Mal mit einer Gabel andrückt. Mit der anderen Teighälfte wiederholen.&lt;/p&gt;
+&lt;p&gt;Das Frittieröl in einem Topf auf 160°C erhitzen. Jeweils 2-3 &lt;strong&gt;Zigerkrapfen&lt;/strong&gt; frittieren und 2-3 Mal wenden. Sie sollten goldbraun sein. Abtropfen lassen und auf einem mit Küchenpapier ausgelegten Teller legen. Anschliessend jede Teigtasche in einer Schüssel mit Zimtzucker wenden.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 32%; margin-right: 1%;&quot; src=&quot;../2026-02-04-zigerkrapfen/chiusi.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 32%; margin-right: 1%; margin-left: 1%;&quot; src=&quot;../2026-02-04-zigerkrapfen/friggere.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 32%; margin-left: 1%;&quot; src=&quot;../2026-02-04-zigerkrapfen/zucchero.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Lasst sie vor dem Verzehr etwas abkühlen. Frisch zubereitet schmecken sie am besten... Aber wenn ihr sie gut verschliesst, sind sie auch am nächsten Tag noch super lecker!&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2026-02-04-zigerkrapfen/risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2026-02-04-zigerkrapfen/risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2026-02-04-zigerkrapfen/risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2026-02-04-zigerkrapfen/risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2026-02-04-zigerkrapfen/risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2026-02-04-zigerkrapfen/risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2026-02-04-zigerkrapfen/risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2026-02-04-zigerkrapfen/risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/../2026-02-04-zigerkrapfen/risultato9.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;h4&gt;Buon appetito
+  &lt;font color=&quot;red&quot;&gt;
+    &lt;i class=&quot;fa-regular fa-face-smile&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt;
+&lt;/h4&gt;</content>
+    <summary type="html" xml:lang="de">
+    
+      &lt;p&gt;&lt;img src=&quot;/../2026-02-04-zigerkrapfen/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Zigerkrapfen&lt;/strong&gt; ein typisches schweiz
+    
+    </summary>
+    
+      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
+    
+      <category term="Piccola Pasticceria" scheme="https://frangipani.raiano.ch/categories/Dolce/Piccola-Pasticceria/"/>
+    
+    
+      <category term="carnevale" scheme="https://frangipani.raiano.ch/tags/carnevale/"/>
+    
+      <category term="frittelle" scheme="https://frangipani.raiano.ch/tags/frittelle/"/>
+    
+      <category term="mandorle" scheme="https://frangipani.raiano.ch/tags/mandorle/"/>
+    
+      <category term="ricotta" scheme="https://frangipani.raiano.ch/tags/ricotta/"/>
+    
+  </entry>
   
   <entry>
     <title xml:lang="de">Kürbissuppe mit Kichererbsen und Spinat</title>
@@ -3179,158 +3368,6 @@ Ich bereite Peperoni sehr oft so zu, weil wir sie alle vier mögen. Es braucht e
       <category term="vegan" scheme="https://frangipani.raiano.ch/tags/vegan/"/>
     
       <category term="peperoni" scheme="https://frangipani.raiano.ch/tags/peperoni/"/>
-    
-  </entry>
-  
-  <entry>
-    <title xml:lang="de">Grillierte Spargeln mit frischen Tomaten auf Ricottacrème</title>
-    <link href="https://frangipani.raiano.ch/2025-06-18-grillierte-spargeln-mit-frischen-tomaten-auf-ricottacreme/"/>
-    <id>https://frangipani.raiano.ch/2025-06-18-grillierte-spargeln-mit-frischen-tomaten-auf-ricottacreme/</id>
-    <published>2025-06-17T22:00:00.000Z</published>
-    <updated>2025-06-17T19:58:30.920Z</updated>
-    <content type="html" xml:lang="de">&lt;p&gt;&lt;img src=&quot;/../2025-06-18-asparagi-arrosto-con-pomodori-freschi-su-crema-di-ricotta/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Grillierte Spargeln mit frischen Tomaten auf Ricottacrème&lt;/strong&gt; eine Beilage oder ein leichtes Mittagessen, so lecker, dass nichts zurückbleiben wird! Die Zubereitung ist auch ganz schnell: Den Spargel in den Ofen schieben, in der Zwischenzeit die Ricottacrème und die Kirschtomaten zubereiten. Alles zusammenstellen und fertig! Dann brauchst du nur noch etwas geröstetes Brot, das du als Löffel verwenden kannst...
-&lt;br /&gt;
-Für eine vegane Variante pflanzliche Ricotta verwenden oder man bereitet ein &lt;a href=&quot;/2020-07-16-insalata-di-pomodori-cetrioli-e-melanzane-arrosto-con-hummus-de/&quot;&gt;Hummus aus Kichererbsen&lt;/a&gt; oder aus &lt;a href=&quot;/2025-01-15-hummus-aus-weissen-bohnen-mit-grostetem-wintergemuse/&quot;&gt;weissen Bohnen&lt;/a&gt; zu. Selbst mit Hummus ist es der Hammer! Oh, in den Zutaten findet ihr Pistazienöl... Ich verwende es immer zum Würzen von gegrilltem Spargel, weil es einfach himmlisch schmeckt und den Unterschied macht. Es kostet zwar ein Vermögen, aber ich gönne mir diese Köstlichkeit, wann immer ich kann. Ihr könnt es aber auch ganz einfach durch Olivenöl ersetzen.&lt;/p&gt;
-&lt;p&gt;Mit dem warmen April begann die Spargelsaison dieses Jahr früher, sodass viele schon vor dem 24. Juni mit der Spargelernte fertig waren. Wenn ihr aber noch welchen findet, schnappt ihn euch und probiert dieses Rezept aus, es ist der Wahnsinn!&lt;/p&gt;
-&lt;p&gt;Und mit diesem Rezept verabschieden wir uns vom Frühling und widmen uns offiziell dem Sommer! Das Wetter macht uns grosse Freude, ich hoffe, es bleibt so!&lt;/p&gt;
-&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
-  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
-    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
-      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Grillierte Spargeln mit frischen Tomaten auf Ricottacrème&lt;/span&gt;
-      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Herzhaftes&lt;/span&gt;
-      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2025-06-18-asparagi-arrosto-con-pomodori-freschi-su-crema-di-ricotta/header.jpeg&quot;/&gt;
-      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
-      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Grillierte Spargeln mit frischen Tomaten auf Ricottacrème, eine Beilage oder ein leichtes Mittagessen, so lecker, dass nichts zurückbleiben wird!&lt;/span&gt;
-      &lt;div class=&quot;ingredients-title&quot;&gt;Zutaten&lt;/div&gt;
-      &lt;table&gt;
-        &lt;tbody&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;500gr&lt;/td&gt;
-            &lt;td&gt;dünne grüne Spargeln&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;250gr&lt;/td&gt;
-            &lt;td&gt;Ricotta&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;300gr&lt;/td&gt;
-            &lt;td&gt;Cherry- oder Datteltomaten&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;etwas&lt;/td&gt;
-            &lt;td&gt;Pistazienöl (freiwillig)&lt;/td&gt;   
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;etwas&lt;/td&gt;
-            &lt;td&gt;Olivenöl&lt;/td&gt; 
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1&lt;/td&gt;
-            &lt;td&gt;Zitrone bio&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;etwas&lt;/td&gt;
-            &lt;td&gt;Kräuter/Basilikum&lt;/td&gt; 
-           &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;etwas&lt;/td&gt;
-            &lt;td&gt;Salz&lt;/td&gt;  
-          &lt;/tr&gt;
-        &lt;/tbody&gt;
-      &lt;/table&gt;
-      &lt;br&gt;&lt;/br&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;h3&gt;
-  &lt;font color=&quot;grey&quot;&gt;
-    &lt;i class=&quot;fa-solid fa-gears&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt; Zubereitung
-&lt;/h3&gt;
-
-&lt;p&gt;Den holzigen Teil des Spargels entfernen und waschen. Den Spargel in einer Schicht auf ein Blech verteilen und mit Olivenöl, Salz und Zitronensaft würzen. Im Ofen bei 180°C Umluft 20–25min garen.
-&lt;br /&gt;
-Während der Spargel gart, die Ricottacrème zubereiten: Ricotta mit Salz, Olivenöl, Zitronenabrieb und Kräutern nach Geschmack verrühren und beiseitestellen.
-&lt;br /&gt;
-Die Kirschtomaten halbieren und mit Olivenöl, Salz und frischem Basilikum würzen.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2025-06-18-asparagi-arrosto-con-pomodori-freschi-su-crema-di-ricotta/asparagi.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2025-06-18-asparagi-arrosto-con-pomodori-freschi-su-crema-di-ricotta/ricottapomodori.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Nun die Ricottacrème auf den Boden eines Serviertellers verteilen. Den Spargel darauf legen und direkt auf dem Teller mit Zitronensaft, Pistazien- oder Olivenöl und ggf. etwas Salz würzen. Zum Schluss die Kirschtomaten darüber verteilen. Mit getoastetem Brot servieren.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2025-06-18-asparagi-arrosto-con-pomodori-freschi-su-crema-di-ricotta/risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2025-06-18-asparagi-arrosto-con-pomodori-freschi-su-crema-di-ricotta/risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2025-06-18-asparagi-arrosto-con-pomodori-freschi-su-crema-di-ricotta/risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2025-06-18-asparagi-arrosto-con-pomodori-freschi-su-crema-di-ricotta/risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2025-06-18-asparagi-arrosto-con-pomodori-freschi-su-crema-di-ricotta/risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2025-06-18-asparagi-arrosto-con-pomodori-freschi-su-crema-di-ricotta/risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2025-06-18-asparagi-arrosto-con-pomodori-freschi-su-crema-di-ricotta/risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2025-06-18-asparagi-arrosto-con-pomodori-freschi-su-crema-di-ricotta/risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2025-06-18-asparagi-arrosto-con-pomodori-freschi-su-crema-di-ricotta/risultato9.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2025-06-18-asparagi-arrosto-con-pomodori-freschi-su-crema-di-ricotta/risultato10.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;h4&gt;Buon appetito
-  &lt;font color=&quot;red&quot;&gt;
-    &lt;i class=&quot;fa-regular fa-face-smile&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt;
-&lt;/h4&gt;</content>
-    <summary type="html" xml:lang="de">
-    
-      &lt;p&gt;&lt;img src=&quot;/../2025-06-18-asparagi-arrosto-con-pomodori-freschi-su-crema-di-ricotta/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;stron
-    
-    </summary>
-    
-      <category term="Salato" scheme="https://frangipani.raiano.ch/categories/Salato/"/>
-    
-      <category term="Secondi Piatti e Contorni" scheme="https://frangipani.raiano.ch/categories/Salato/Secondi-Piatti-e-Contorni/"/>
-    
-    
-      <category term="vegan" scheme="https://frangipani.raiano.ch/tags/vegan/"/>
-    
-      <category term="primavera" scheme="https://frangipani.raiano.ch/tags/primavera/"/>
-    
-      <category term="asparagi" scheme="https://frangipani.raiano.ch/tags/asparagi/"/>
-    
-      <category term="pomodori" scheme="https://frangipani.raiano.ch/tags/pomodori/"/>
-    
-      <category term="ricotta" scheme="https://frangipani.raiano.ch/tags/ricotta/"/>
     
   </entry>
   

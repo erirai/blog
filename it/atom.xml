@@ -4,7 +4,7 @@
   
   <link href="https://frangipani.raiano.ch/it/atom.xml" rel="self"/>
   <link href="https://frangipani.raiano.ch/"/>
-  <updated>2026-01-19T14:16:54.305Z</updated>
+  <updated>2026-02-03T15:54:20.490Z</updated>
   <id>https://frangipani.raiano.ch/</id>
   
   <author>
@@ -13,6 +13,196 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title xml:lang="it">Zigerkrapfen (Fagottini allo Ziger o Ricotta)</title>
+    <link href="https://frangipani.raiano.ch/2026-02-04-zigerkrapfen/"/>
+    <id>https://frangipani.raiano.ch/2026-02-04-zigerkrapfen/</id>
+    <published>2026-02-03T23:00:00.000Z</published>
+    <updated>2026-02-03T15:54:20.490Z</updated>
+    <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;/../2026-02-04-zigerkrapfen/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Zigerkrapfen (Fagottini allo Ziger o Ricotta)&lt;/strong&gt; delle frittelle di Carnevale svizzere. Sono dei Fagottini di pasta lievita farciti originariamente con il formaggio Ziger, mandorle e uvetta. Ma molto spesso lo Ziger viene sostituito con la ricotta, perché questo formaggio ha un gusto molto forte. Infatti è un formaggio fresco fatto con il latte magro con l&amp;#39;aggiunta di fieno greco. In più non è facilissimo trovarlo, a parte nel canton Glarona, quindi spesso li trovate ripieni di ricotta, come li ho fatti io. Avete letto bene, c&amp;#39;è l&amp;#39;uvetta dentro e ce l&amp;#39;ho pure messa. Non ho voluto sostituirla con il cioccolato per non stravolgere la ricetta. Sì, li ho mangiati, ma quando vedevo uno di quei cosi malefici lo scartavo. Ovviamente non li ho buttati, i bimbi li mangiano volentieri.&lt;/p&gt;
+&lt;p&gt;Non è affatto difficile farli, ma sono delle frittelle di Carnevale quindi vanno fritte. Come sapete a me non piace friggere, ma a Carnevale e con i fiori di zucca faccio un&amp;#39;eccezione! &lt;a href=&quot;/tags/carnevale/&quot;&gt;Qui&lt;/a&gt; trovate tante altre ricette di Carnevale, fritte e non.&lt;/p&gt;
+&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
+  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
+    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
+      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Zigerkrapfen (Fagottini allo Ziger o Ricotta)&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Dolce&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2026-02-04-zigerkrapfen/header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Zigerkrapfen (Fagottini allo Ziger o Ricotta) delle frittelle di Carnevale svizzere.&lt;/span&gt;
+      &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
+      &lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Pasta lievita&lt;/b&gt;&lt;/td&gt;
+          &lt;/tr&gt; 
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;       
+            &lt;td&gt;250gr&lt;/td&gt;
+            &lt;td&gt;farina&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1/2 cucchiaino&lt;/td&gt;
+            &lt;td&gt;sale&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;2 cucchiai&lt;/td&gt;
+            &lt;td&gt;zucchero&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;2gr&lt;/td&gt;
+            &lt;td&gt;lievito fresco&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;60gr&lt;/td&gt;
+            &lt;td&gt;burro&lt;/td&gt;         
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1dl&lt;/td&gt;
+            &lt;td&gt;latte&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr style=&quot;height: 15px;&quot;&gt;&lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Ripieno&lt;/b&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;       
+            &lt;td&gt;150gr&lt;/td&gt;
+            &lt;td&gt;Ziger o Ricotta&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;       
+            &lt;td&gt;2 cucchiai&lt;/td&gt;
+            &lt;td&gt;zucchero di canna&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;100gr&lt;/td&gt;
+            &lt;td&gt;mandorle macinate&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1/2&lt;/td&gt;
+            &lt;td&gt;arancia bio e non trattata solo scorza&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1/2&lt;/td&gt;
+            &lt;td&gt;limone bio e non trattata solo scorza&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;2 cucchiai&lt;/td&gt;
+            &lt;td&gt;uvetta&lt;/td&gt;
+         &lt;/tr&gt;
+          &lt;tr style=&quot;height: 15px;&quot;&gt;&lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Frittura/Finitura&lt;/b&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;       
+            &lt;td&gt;qb&lt;/td&gt;
+            &lt;td&gt;olio per friggere&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;       
+            &lt;td&gt;3 cucchiai&lt;/td&gt;
+            &lt;td&gt;zucchero semolato&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 cucchiaino raso&lt;/td&gt;
+            &lt;td&gt;cannella&lt;/td&gt;      
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;
+      &lt;br&gt;&lt;/br&gt;
+      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot; itemprop=&quot;recipeYield&quot;&gt;per 12 Zigerkrapfen&lt;/i&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3&gt;
+  &lt;font color=&quot;grey&quot;&gt;
+    &lt;i class=&quot;fa-solid fa-gears&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt; Preparazione
+&lt;/h3&gt;
+
+&lt;p&gt;Preparate la pasta lievita: mettete farina, sale e zucchero nella planetaria e mescolate. In un pentolino riscaldate leggermente il latte con il burro, togliete dai fornelli e fate sciogliere il lievito nel latte. Versate anche questo nella planetaria e impastate. L&amp;#39;impasto sarà molto duro, ma cercate di renderlo il più liscio possibile. Formate una palla, coprite bene e fate lievitare per tutta la notte (se non avete tutto questo tempo, aumentate la quantità del lievito).
+&lt;br /&gt;
+Per il ripieno, se usate la ricotta fatela sgocciolare prima. Poi mettete tutti gli ingredienti per il ripieno in una ciotolina e amalgamate bene, fate riposare in frigo.&lt;/p&gt;
+&lt;p&gt;Passato il tempo necessario per la lievitazione, dividete il panetto in due, prendetene una metà e stendete l&amp;#39;impasto fino ad avere un rettangolo da 20x30cm. Ritagliate dal rettangolo 6 quadrati da 10x10cm circa. Poi mettete al centro di ogni quadrato un cucchiaino abbondante del ripieno.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2026-02-04-zigerkrapfen/ricotta.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2026-02-04-zigerkrapfen/farcire.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Chiudete questi fagottini in diagonale sigillando bene tutto il bordo. Dopo sigillate una seconda volta passando 3-4 volte con la forchetta da entrambi i lati. Ripetete con l&amp;#39;altra metà dell&amp;#39;impasto.
+&lt;br /&gt;
+In una casseruola riscaldate l&amp;#39;olio per friggere portandolo a 160°C. Friggete 2-3 &lt;strong&gt;Zigerkrapfen&lt;/strong&gt; alla volta, girandoli 2 o 3 volte. Dovranno essere ben dorati. Scolateli e appoggiateli su di un piatto con della carta assorbente sotto, poi passate ogni fagottino in una coppetta con zucchero e cannella.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 32%; margin-right: 1%;&quot; src=&quot;../2026-02-04-zigerkrapfen/chiusi.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 32%; margin-right: 1%; margin-left: 1%;&quot; src=&quot;../2026-02-04-zigerkrapfen/friggere.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 32%; margin-left: 1%;&quot; src=&quot;../2026-02-04-zigerkrapfen/zucchero.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Fateli intiepidire un attimino prima di mangiarli. Freschi, appena fatti sono al loro massimo... Ma se li chiudete bene, anche il giorno dopo fanno la loro bella figura!&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2026-02-04-zigerkrapfen/risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2026-02-04-zigerkrapfen/risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2026-02-04-zigerkrapfen/risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2026-02-04-zigerkrapfen/risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2026-02-04-zigerkrapfen/risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2026-02-04-zigerkrapfen/risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2026-02-04-zigerkrapfen/risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2026-02-04-zigerkrapfen/risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/../2026-02-04-zigerkrapfen/risultato9.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;h4&gt;Buon appetito
+  &lt;font color=&quot;red&quot;&gt;
+    &lt;i class=&quot;fa-regular fa-face-smile&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt;
+&lt;/h4&gt;</content>
+    <summary type="html" xml:lang="it">
+    
+      &lt;p&gt;&lt;img src=&quot;/../2026-02-04-zigerkrapfen/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Zigerkrapfen (Fagottini allo Ziger o Ricott
+    
+    </summary>
+    
+      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
+    
+      <category term="Piccola Pasticceria" scheme="https://frangipani.raiano.ch/categories/Dolce/Piccola-Pasticceria/"/>
+    
+    
+      <category term="carnevale" scheme="https://frangipani.raiano.ch/tags/carnevale/"/>
+    
+      <category term="frittelle" scheme="https://frangipani.raiano.ch/tags/frittelle/"/>
+    
+      <category term="mandorle" scheme="https://frangipani.raiano.ch/tags/mandorle/"/>
+    
+      <category term="ricotta" scheme="https://frangipani.raiano.ch/tags/ricotta/"/>
+    
+  </entry>
   
   <entry>
     <title xml:lang="it">Zuppa di Zucca, Ceci e Spinaci</title>
@@ -3193,158 +3383,6 @@ Li preparo veramente spesso così i peperoni, perché piacciono a tutti e quattr
       <category term="vegan" scheme="https://frangipani.raiano.ch/tags/vegan/"/>
     
       <category term="peperoni" scheme="https://frangipani.raiano.ch/tags/peperoni/"/>
-    
-  </entry>
-  
-  <entry>
-    <title xml:lang="it">Asparagi arrosto con Pomodori freschi su crema di Ricotta</title>
-    <link href="https://frangipani.raiano.ch/2025-06-18-asparagi-arrosto-con-pomodori-freschi-su-crema-di-ricotta/"/>
-    <id>https://frangipani.raiano.ch/2025-06-18-asparagi-arrosto-con-pomodori-freschi-su-crema-di-ricotta/</id>
-    <published>2025-06-17T22:00:00.000Z</published>
-    <updated>2025-09-05T07:29:07.222Z</updated>
-    <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;/../2025-06-18-asparagi-arrosto-con-pomodori-freschi-su-crema-di-ricotta/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Asparagi arrosto con Pomodori freschi su crema di Ricotta&lt;/strong&gt; un contorno o un pranzetto leggero talmente buono che la scarpetta è un must! Si prepara anche molto velocemente: mettete in forno gli asparagi, nel frattempo preparate la crema di ricotta e i pomodorini. Assemblate tutto e il gioco è fatto! Poi vi serve solo del pane tostato che potete usare comodamente come cucchiaio...
-&lt;br /&gt;
-Per una versione vegana usate della ricotta vegetale o preparate un &lt;a href=&quot;/2020-07-16-insalata-di-pomodori-cetrioli-e-melanzane-arrosto-con-hummus/&quot;&gt;Hummus di ceci&lt;/a&gt; o di &lt;a href=&quot;/2025-01-15-hummus-di-fagioli-bianchi-con-roast-di-verdure-invernali/&quot;&gt;fagioli bianchi&lt;/a&gt;. Anche con l&amp;#39;Hummus è pazzesco! Ah, negli ingredienti troverete l&amp;#39;olio di pistacchio... Io lo uso sempre per condire gli asparagi arrosto perché ci sta divinamente e fa la differenza. Costa un accidente, ma mi concedo questo regalo quando posso. Però potete sostituirlo tranquillamente con l&amp;#39;olio evo.&lt;/p&gt;
-&lt;p&gt;Con il caldo che ha fatto ad Aprile, la stagione degli asparagi è iniziata prima quest&amp;#39;anno, quindi molti hanno finito prima del 24 giugno con la raccolta degli asparagi. Se però riuscite a trovarne ancora, prendeteli e provate questa ricetta, è pazzesca!&lt;/p&gt;
-&lt;p&gt;E con questa ricetta salutiamo la primavera e ci dedichiamo ufficialmente all&amp;#39;estate! Il tempo ci sta dando grandi soddisfazioni, speriamo continui!&lt;/p&gt;
-&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
-  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
-    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
-      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Asparagi arrosto con Pomodori freschi su crema di Ricotta&lt;/span&gt;
-      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Salato&lt;/span&gt;
-      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2025-06-18-asparagi-arrosto-con-pomodori-freschi-su-crema-di-ricotta/header.jpeg&quot;/&gt;
-      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
-      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Asparagi arrosto con Pomodori freschi su crema di Ricotta, un contorno o un pranzetto leggero talmente buono che la scarpetta è un must!&lt;/span&gt;
-      &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
-      &lt;table&gt;
-        &lt;tbody&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;500gr&lt;/td&gt;
-            &lt;td&gt;asparagi verdi fini&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;250gr&lt;/td&gt;
-            &lt;td&gt;ricotta&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;300gr&lt;/td&gt;
-            &lt;td&gt;pomodorini&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qb&lt;/td&gt;
-            &lt;td&gt;olio di pistacchio (facoltativo)&lt;/td&gt;   
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qb&lt;/td&gt;
-            &lt;td&gt;olio evo&lt;/td&gt; 
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1&lt;/td&gt;
-            &lt;td&gt;limone bio&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qb&lt;/td&gt;
-            &lt;td&gt;erbette aromatiche/basilico&lt;/td&gt; 
-           &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qb&lt;/td&gt;
-            &lt;td&gt;sale&lt;/td&gt;  
-          &lt;/tr&gt;
-        &lt;/tbody&gt;
-      &lt;/table&gt;
-      &lt;br&gt;&lt;/br&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;h3&gt;
-  &lt;font color=&quot;grey&quot;&gt;
-    &lt;i class=&quot;fa-solid fa-gears&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt; Preparazione
-&lt;/h3&gt;
-
-&lt;p&gt;Eliminate la parte legnosa degli asparagi e lavateli. Metteteli su di una teglia formando solo uno strato e condite con olio evo, sale e succo di limone. Mettete in forno a 180°C ventilato per 20-25min.
-&lt;br /&gt;
-Mentre cuociono gli asparagi preparate la crema di ricotta: amalgamate la ricotta con sale, olio evo, scorza di limone e erbette aromatiche a piacere, mettete da parte.
-&lt;br /&gt;
-Tagliate i pomodorini a metà, poi conditeli con olio evo, sale e basilico fresco.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2025-06-18-asparagi-arrosto-con-pomodori-freschi-su-crema-di-ricotta/asparagi.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2025-06-18-asparagi-arrosto-con-pomodori-freschi-su-crema-di-ricotta/ricottapomodori.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;A questo punto mettete la crema di ricotta sulla base di un piatto da portata. Sopra ci adagiate gli asparagi che condirete direttamente sul piatto con succo di limone, olio di pistacchio o evo e se c&amp;#39;è bisogno altro sale e terminate con i pomodorini. Servite con del pane tostato...&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2025-06-18-asparagi-arrosto-con-pomodori-freschi-su-crema-di-ricotta/risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2025-06-18-asparagi-arrosto-con-pomodori-freschi-su-crema-di-ricotta/risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2025-06-18-asparagi-arrosto-con-pomodori-freschi-su-crema-di-ricotta/risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2025-06-18-asparagi-arrosto-con-pomodori-freschi-su-crema-di-ricotta/risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2025-06-18-asparagi-arrosto-con-pomodori-freschi-su-crema-di-ricotta/risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2025-06-18-asparagi-arrosto-con-pomodori-freschi-su-crema-di-ricotta/risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2025-06-18-asparagi-arrosto-con-pomodori-freschi-su-crema-di-ricotta/risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2025-06-18-asparagi-arrosto-con-pomodori-freschi-su-crema-di-ricotta/risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2025-06-18-asparagi-arrosto-con-pomodori-freschi-su-crema-di-ricotta/risultato9.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2025-06-18-asparagi-arrosto-con-pomodori-freschi-su-crema-di-ricotta/risultato10.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;h4&gt;Buon appetito
-  &lt;font color=&quot;red&quot;&gt;
-    &lt;i class=&quot;fa-regular fa-face-smile&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt;
-&lt;/h4&gt;</content>
-    <summary type="html" xml:lang="it">
-    
-      &lt;p&gt;&lt;img src=&quot;/../2025-06-18-asparagi-arrosto-con-pomodori-freschi-su-crema-di-ricotta/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;stron
-    
-    </summary>
-    
-      <category term="Salato" scheme="https://frangipani.raiano.ch/categories/Salato/"/>
-    
-      <category term="Secondi Piatti e Contorni" scheme="https://frangipani.raiano.ch/categories/Salato/Secondi-Piatti-e-Contorni/"/>
-    
-    
-      <category term="vegan" scheme="https://frangipani.raiano.ch/tags/vegan/"/>
-    
-      <category term="primavera" scheme="https://frangipani.raiano.ch/tags/primavera/"/>
-    
-      <category term="asparagi" scheme="https://frangipani.raiano.ch/tags/asparagi/"/>
-    
-      <category term="pomodori" scheme="https://frangipani.raiano.ch/tags/pomodori/"/>
-    
-      <category term="ricotta" scheme="https://frangipani.raiano.ch/tags/ricotta/"/>
     
   </entry>
   

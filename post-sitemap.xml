@@ -9,6 +9,38 @@
 
 
     <url>
+        <loc>https://frangipani.raiano.ch/2026-02-04-zigerkrapfen-de/</loc>
+        <lastmod>2026-02-03T15:57:46.379Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2026-02-04-zigerkrapfen/</loc>
+        <lastmod>2026-02-03T15:54:20.490Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2014-01-21-orangen-mandel-tarte/</loc>
+        <lastmod>2026-01-27T10:32:47.270Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2014-01-21-crostata-di-arance-e-mandorle/</loc>
+        <lastmod>2026-01-27T10:32:22.719Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://frangipani.raiano.ch/2026-01-21-kurbissuppe-mit-kichererbsen-und-spinat/</loc>
         <lastmod>2026-01-19T14:35:11.992Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1057,7 +1089,7 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2022-11-08-torta-al-mosto-di-mele/</loc>
+        <loc>https://frangipani.raiano.ch/2022-11-16-tarte-flambee-con-zucca-e-funghi/</loc>
         <lastmod>2025-09-05T07:29:07.145Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1065,7 +1097,7 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2022-11-16-tarte-flambee-con-zucca-e-funghi/</loc>
+        <loc>https://frangipani.raiano.ch/2022-11-08-torta-al-mosto-di-mele/</loc>
         <lastmod>2025-09-05T07:29:07.145Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -4273,7 +4305,7 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2014-10-18-torrone-dei-morti/</loc>
+        <loc>https://frangipani.raiano.ch/2014-10-31-halloween-cake-pops/</loc>
         <lastmod>2025-09-05T07:29:06.973Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -4281,7 +4313,7 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2014-10-31-halloween-cake-pops/</loc>
+        <loc>https://frangipani.raiano.ch/2014-10-18-torrone-dei-morti/</loc>
         <lastmod>2025-09-05T07:29:06.973Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -4593,7 +4625,7 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2014-02-14-torta-al-cioccolato-e-lamponi/</loc>
+        <loc>https://frangipani.raiano.ch/2014-02-18-lasagne-bianche-con-asparagi/</loc>
         <lastmod>2025-09-05T07:29:06.953Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -4601,7 +4633,7 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2014-02-18-lasagne-bianche-con-asparagi/</loc>
+        <loc>https://frangipani.raiano.ch/2014-02-14-torta-al-cioccolato-e-lamponi/</loc>
         <lastmod>2025-09-05T07:29:06.953Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -4611,14 +4643,6 @@
     <url>
         <loc>https://frangipani.raiano.ch/2014-01-29-aelplermagronen/</loc>
         <lastmod>2025-09-05T07:29:06.952Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/2014-01-21-crostata-di-arance/</loc>
-        <lastmod>2025-09-05T07:29:06.951Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
