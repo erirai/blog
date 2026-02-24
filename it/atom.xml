@@ -4,7 +4,7 @@
   
   <link href="https://frangipani.raiano.ch/it/atom.xml" rel="self"/>
   <link href="https://frangipani.raiano.ch/"/>
-  <updated>2026-02-17T15:32:20.387Z</updated>
+  <updated>2026-02-24T10:42:21.608Z</updated>
   <id>https://frangipani.raiano.ch/</id>
   
   <author>
@@ -15,11 +15,170 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title xml:lang="it">Pasta e Patate</title>
+    <link href="https://frangipani.raiano.ch/2026-02-25-pasta-e-patate/"/>
+    <id>https://frangipani.raiano.ch/2026-02-25-pasta-e-patate/</id>
+    <published>2026-02-24T23:00:00.000Z</published>
+    <updated>2026-02-24T10:42:21.608Z</updated>
+    <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;/../2026-02-25-pasta-e-patate/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Pasta e Patate&lt;/strong&gt; un piatto di pasta cremosissimo e confortevole, il comfort food per eccellenza oserei quasi dire! Una ricetta fatta con ingredienti da dispensa: patate, carote, cipolle, sedano, concentrato di pomodoro, pasta e per non sprecare niente, anche la scorza del parmigiano. In inverno preparo molto spesso questo piatto, soprattutto durante le giornate gelide o quando siamo stati fuori tutto il giorno e sentiamo il freddo nelle ossa. Vi assicuro che questo piatto di pasta caccerà fuori tutto il freddo!&lt;/p&gt;
+&lt;p&gt;È una ricetta facilissima da preparare e con questi trucchetti diventerà perfetta:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Usate le patate farinose, si scioglieranno meglio in cottura e avrete un risultato più cremoso.&lt;/li&gt;
+&lt;li&gt;Prima di buttare la pasta, consiglio di schiacciare il tutto un pochino con lo schiacciapatate per avere meno pezzi di patate. Potete facilitare la cremosità, tagliando le patate non troppo grossolanamente.&lt;/li&gt;
+&lt;li&gt;Mettete il concentrato di pomodoro, vi darà quella punta di acidità che ci sta benissimo.&lt;/li&gt;
+&lt;li&gt;Il rosmarino fa la differenza, credetemi! Anzi, se anche voi conservate i gambi del prezzemolo, aggiungte anche quelli.&lt;/li&gt;
+&lt;li&gt;Non buttate mai la scorza del parmigiano, tenetela in frigo e usatela esattamente per questo tipo di ricette... Basta raschiare o grattare via bene la parte dove c&amp;#39;è il timbro, lavarla bene e poi tagliarla a cubettini. Poi la aggiungete quando buttate anche la pasta. Senza la scorza del parmigiano non è lo stesso.&lt;/li&gt;
+&lt;li&gt;Usate la Pasta Mista. Questo formato di pasta è perfetto per la &lt;strong&gt;Pasta e Patate&lt;/strong&gt;, ma in generale per tutte le preparazioni di pasta cremosa. La uso quando faccio la pasta con le lenticchie, pasta e fagioli ecc. In alternativa i Ditalini o i Tubetti rigati vanno bene pure, ma la Pasta Mista meglio.&lt;/li&gt;
+&lt;li&gt;Per una variante più golosa potete aggiungere alla fine, fuori dal fuoco, della provola e farla sciogliere.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
+  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
+    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
+      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Pasta e Patate&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Salato&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2026-02-25-pasta-e-patate/header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Pasta e Patate, un piatto di pasta cremosissimo e confortevole, il comfort food per eccellenza oserei dire!&lt;/span&gt;
+      &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
+      &lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1&lt;/td&gt;
+            &lt;td&gt;cipolla&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1&lt;/td&gt;
+            &lt;td&gt;spicchio d&#39;aglio&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1-2&lt;/td&gt;
+            &lt;td&gt;carote&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1&lt;/td&gt;
+            &lt;td&gt;costa di sedano&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;3-4&lt;/td&gt;
+            &lt;td&gt;patate medie farinose&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1&lt;/td&gt;
+            &lt;td&gt;rametto di rosmarino&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 cucchiaio&lt;/td&gt;
+            &lt;td&gt;concentrato di pomodoro&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;300gr&lt;/td&gt;
+            &lt;td&gt;Pasta Mista&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qb&lt;/td&gt;
+            &lt;td&gt;scorza del parmigiano (facoltativo)&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qb&lt;/td&gt;
+            &lt;td&gt;olio evo&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qb&lt;/td&gt;
+            &lt;td&gt;sale&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;
+      &lt;br&gt;&lt;/br&gt;
+      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot; itemprop=&quot;recipeYield&quot;&gt;per 4 Persone&lt;/i&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h3&gt;
+  &lt;font color=&quot;grey&quot;&gt;
+    &lt;i class=&quot;fa-solid fa-gears&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt; Preparazione
+&lt;/h3&gt;
+
+&lt;p&gt;Per prima cosa prepariamno tutte le verdure: pelate e tagliate finemente la cipolla (o un pezzo di porro) e tenetela da parte. Poi lavate e pelate le carote e le patate e tagliate le carote a pezzettini piccolini e le patate a cubetti. Lavate il sedano e tagliatelo finemente. Mettete la cipolla, l&amp;#39;aglio intero o tritato e il rametto di rosmarino in una casseruola con un abbondante filo d&amp;#39;olio e un pizzico di sale e fate soffriggere. Eliminate l&amp;#39;aglio se lo avete messo intero, aggiungete le verdure precedentemente tagliate e il concentrato di pomodoro. Fate rosolare un attimino, poi aggiungete acqua o brodo vegetale fino a coprire tutto.&lt;/p&gt;
+&lt;p&gt;Fate cuocere a temperatura medio-alta finché le patate non si saranno ammobidite completamente. A questo punto, se volete, potete rendere il tutto più cremoso schiacciando il tutto 2 o 3 volte con lo schiacciapatate. Se c&amp;#39;è bisogno aggiungete ancora un po&amp;#39; d&amp;#39;acqua per favorire la cottura della pasta e buttate la pasta mista e anche la scorza del parmigiano precedentemente pulita, lavata e tagliata a cubettini (sopra in descrizione spiego meglio). &lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2026-02-25-pasta-e-patate/patate.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2026-02-25-pasta-e-patate/parmigiano.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Salate e fate cuocere mescolando spesso. Eliminate il rametto legnoso del rosmarino e una volta cotta, fuori dal fuoco se volete potete aggiungere del formaggio grattugiato e&amp;#x2F;o della provola a dadini da fare sciogliere, io però preferisco non metterla. Servitela ancora bollente!&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2026-02-25-pasta-e-patate/risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2026-02-25-pasta-e-patate/risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/../2026-02-25-pasta-e-patate/risultato3.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2026-02-25-pasta-e-patate/risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2026-02-25-pasta-e-patate/risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2026-02-25-pasta-e-patate/risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2026-02-25-pasta-e-patate/risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2026-02-25-pasta-e-patate/risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2026-02-25-pasta-e-patate/risultato9.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h4&gt;Buon appetito
+  &lt;font color=&quot;red&quot;&gt;
+    &lt;i class=&quot;fa-regular fa-face-smile&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt;
+&lt;/h4&gt;</content>
+    <summary type="html" xml:lang="it">
+    
+      &lt;p&gt;&lt;img src=&quot;/../2026-02-25-pasta-e-patate/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Pasta e Patate&lt;/strong&gt; un piatto di past
+    
+    </summary>
+    
+      <category term="Salato" scheme="https://frangipani.raiano.ch/categories/Salato/"/>
+    
+      <category term="Primi Piatti" scheme="https://frangipani.raiano.ch/categories/Salato/Primi-Piatti/"/>
+    
+    
+      <category term="inverno" scheme="https://frangipani.raiano.ch/tags/inverno/"/>
+    
+      <category term="vegan" scheme="https://frangipani.raiano.ch/tags/vegan/"/>
+    
+      <category term="patate" scheme="https://frangipani.raiano.ch/tags/patate/"/>
+    
+      <category term="pasta" scheme="https://frangipani.raiano.ch/tags/pasta/"/>
+    
+  </entry>
+  
+  <entry>
     <title xml:lang="it">Cavolo Cinese Speziato</title>
     <link href="https://frangipani.raiano.ch/2026-02-18-cavolo-cinese-speziato/"/>
     <id>https://frangipani.raiano.ch/2026-02-18-cavolo-cinese-speziato/</id>
     <published>2026-02-17T23:00:00.000Z</published>
-    <updated>2026-02-17T15:32:20.387Z</updated>
+    <updated>2026-02-17T16:06:28.708Z</updated>
     <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;/../2026-02-18-cavolo-cinese-speziato/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Pubblicità: &lt;strong&gt;Cavolo Cinese Speziato&lt;/strong&gt; in collaborazione con &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt;. Un contorno invernale facile, saporito e piccantino. Servono pochissimi ingredienti, ingredienti forti, ma un gusto forte è quello che vogliamo. Tranquilli, potete regolare le spezie a vostro piacimento rendendolo più o meno piccante. Anche con l&amp;#39;aglio potete decidere se lasciare lo spicchio intero e poi toglierlo o se tritarlo per sentirne il gusto più intenso.&lt;/p&gt;
 &lt;p&gt;Questa ricetta ricorda molto il Kimchi, ma non lo è. Ci sono molti ingredienti uguali, ma la preparazione è completamente diversa. Se non vi piace il cavolo cinese o se non riuscite a trovarlo, potete fare questa ricetta anche con la verza o il cavolo cappuccio... Tutti ingredienti che in questo periodo trovate tranquillamente su &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt;. Come anche tutte le spezie che vi serviranno per questa ricetta. E dato che il meteo è completamente impazzito, avrete pure la comodità di ordinare tutto da casa e farvi portare la spesa direttamente davanti la porta di casa... Cosa volete di più?&lt;/p&gt;
@@ -1368,13 +1527,13 @@ Meno male che c&amp;#39;è Dicembre a tirarci su con le sue lucine e la sua magi
       <category term="Biscotti" scheme="https://frangipani.raiano.ch/categories/Dolce/Biscotti/"/>
     
     
-      <category term="pasta frolla" scheme="https://frangipani.raiano.ch/tags/pasta-frolla/"/>
-    
       <category term="cioccolato" scheme="https://frangipani.raiano.ch/tags/cioccolato/"/>
     
       <category term="biscotti" scheme="https://frangipani.raiano.ch/tags/biscotti/"/>
     
       <category term="natale" scheme="https://frangipani.raiano.ch/tags/natale/"/>
+    
+      <category term="pasta frolla" scheme="https://frangipani.raiano.ch/tags/pasta-frolla/"/>
     
   </entry>
   
@@ -1680,9 +1839,9 @@ Riscaldate una padella leggermente unta, poi aggiungete un mestolino dell&#39;im
     
       <category term="riso" scheme="https://frangipani.raiano.ch/tags/riso/"/>
     
-      <category term="legumi" scheme="https://frangipani.raiano.ch/tags/legumi/"/>
-    
       <category term="cavolfiore" scheme="https://frangipani.raiano.ch/tags/cavolfiore/"/>
+    
+      <category term="legumi" scheme="https://frangipani.raiano.ch/tags/legumi/"/>
     
       <category term="lenticchie" scheme="https://frangipani.raiano.ch/tags/lenticchie/"/>
     
@@ -2537,13 +2696,13 @@ Per la pastella mettete 2 cucchiai di zucchero, la farina e la cannella in un co
       <category term="Crostate, Tartes..." scheme="https://frangipani.raiano.ch/categories/Dolce/Crostate-Tartes/"/>
     
     
+      <category term="autunno" scheme="https://frangipani.raiano.ch/tags/autunno/"/>
+    
       <category term="estate" scheme="https://frangipani.raiano.ch/tags/estate/"/>
     
       <category term="pasta frolla" scheme="https://frangipani.raiano.ch/tags/pasta-frolla/"/>
     
       <category term="crostata" scheme="https://frangipani.raiano.ch/tags/crostata/"/>
-    
-      <category term="autunno" scheme="https://frangipani.raiano.ch/tags/autunno/"/>
     
       <category term="prugne" scheme="https://frangipani.raiano.ch/tags/prugne/"/>
     
@@ -3215,162 +3374,6 @@ Nel frattempo lavate le zucchine e le melanzane. Tagliatele a rondelle o strisce
       <category term="peperoni" scheme="https://frangipani.raiano.ch/tags/peperoni/"/>
     
       <category term="pomodori" scheme="https://frangipani.raiano.ch/tags/pomodori/"/>
-    
-  </entry>
-  
-  <entry>
-    <title xml:lang="it">Cous Cous con Cavolfiore speziato, Ceci croccanti e Pomodoro fresco</title>
-    <link href="https://frangipani.raiano.ch/2025-07-09-cous-cous-con-cavolfiore-speziato-ceci-croccanti-e-pomodoro-fresco/"/>
-    <id>https://frangipani.raiano.ch/2025-07-09-cous-cous-con-cavolfiore-speziato-ceci-croccanti-e-pomodoro-fresco/</id>
-    <published>2025-07-08T22:00:00.000Z</published>
-    <updated>2025-09-05T07:29:07.224Z</updated>
-    <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;/../2025-07-09-cous-cous-con-cavolfiore-speziato-ceci-croccanti-e-pomodoro-fresco/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Pubblicità: &lt;strong&gt;Cous Cous con Cavolfiore speziato, Ceci croccanti e Pomodoro fresco&lt;/strong&gt; in collaborazione con &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt;. Un piatto unico vegano, colorato, pieno di gusto e ottimo da portare in spiaggia o in piscina, ma anche in montagna! Molto buona anche come insalata per una grigliata...
-&lt;br /&gt;
-La preparazione è facile, cuocete il cavolfiore, nel frattempo mettete in forno i ceci, preparate il Cous Cous e i pomodori. Poi basta mettere insieme il tutto e buon appetito! È ottima sia calda che fredda, quindi volendo potete prepararla anche in anticipo...&lt;/p&gt;
-&lt;p&gt;E se come me preferite fare altre cose invece che andare a fare la spesa, basta ordinare tutto l&amp;#39;occorrente sul sito di &lt;a href=&quot;https://www.farmy.ch&quot; target=&quot;_blank&quot;&gt;Farmy&lt;/a&gt; e vi arriverà tutto comodamente a casa. &lt;/p&gt;
-&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
-  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
-    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
-      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Cous Cous con Cavolfiore speziato, Ceci croccanti e Pomodoro fresco&lt;/span&gt;
-      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Salato&lt;/span&gt;
-      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2025-07-09-cous-cous-con-cavolfiore-speziato-ceci-croccanti-e-pomodoro-fresco/header.jpeg&quot;/&gt;
-      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
-      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Cous Cous con Cavolfiore speziato, Ceci croccanti e Pomodoro fresco, un piatto unico vegano, colorato, pieno di gusto e ottimo da portare in spiaggia o in piscina, ma anche in montagna!&lt;/span&gt;
-      &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
-      &lt;table&gt;
-        &lt;tbody&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1&lt;/td&gt;
-            &lt;td&gt;cipolla&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1&lt;/td&gt;
-            &lt;td&gt;cavolfiore medio&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qb&lt;/td&gt;
-            &lt;td&gt;curcuma&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qb&lt;/td&gt;
-            &lt;td&gt;pepe&lt;/td&gt;   
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 barattolo&lt;/td&gt;
-            &lt;td&gt;ceci cotti&lt;/td&gt; 
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qb&lt;/td&gt;
-            &lt;td&gt;spezie a piacere&lt;/td&gt; 
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;250gr&lt;/td&gt;
-            &lt;td&gt;pomodorini&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qb&lt;/td&gt;
-            &lt;td&gt;basilico fresco&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1.5 bicchiere&lt;/td&gt;
-            &lt;td&gt;Cous Cous&lt;/td&gt;   
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1.5 bicchiere&lt;/td&gt;
-            &lt;td&gt;acqua o brodo vegetale&lt;/td&gt; 
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qb&lt;/td&gt;
-            &lt;td&gt;olio evo&lt;/td&gt; 
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;qb&lt;/td&gt;
-            &lt;td&gt;sale&lt;/td&gt; 
-          &lt;/tr&gt;
-        &lt;/tbody&gt;
-      &lt;/table&gt;
-      &lt;br&gt;&lt;/br&gt;
-      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot;&gt;per 4 persone&lt;/i&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;h3&gt;
-  &lt;font color=&quot;grey&quot;&gt;
-    &lt;i class=&quot;fa-solid fa-gears&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt; Preparazione
-&lt;/h3&gt;
-
-&lt;p&gt;Per prima cosa prepariamo il cavolfiore: Pulite la cipolla e tritatela finemente, mettetela un attimo da parte. Lavate il cavolfiore, poi grattugiatelo grossolanamente. Mettete la cipolla in una padella con un filo d&amp;#39;olio e un pizzico di sale e fatela rosolare. Quando sarà dorata aggiungete il cavolfiore grattugiato e fate rosolare un pochino. Aggiungete la curcuma e il pepe, mescolate e aggiungete un pochino d&amp;#39;acqua. Fate andare finché sarà cotto, ma ancora croccante e aggiustate di sale.
-&lt;br /&gt;
-Nel frattempo lavate i ceci in scatola, asciugateli e conditeli con olio, sale e spezie a piacere. Metteteli su di una teglia con sotto della carta forno e infornateli a 180°C ventilato per 20min circa o finché saranno croccanti.
-&lt;br /&gt;
-Preparate il Cous Cous come indicato sulla confezione. E per ultimo lavate i pomodorini, tagliateli a metà o in quattro e condite con olio, sale e basilico fresco.&lt;/p&gt;
-&lt;p&gt;Quando il Cous Cous e il cavolfiore saranno pronti, mischiateli.&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2025-07-09-cous-cous-con-cavolfiore-speziato-ceci-croccanti-e-pomodoro-fresco/ceci.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2025-07-09-cous-cous-con-cavolfiore-speziato-ceci-croccanti-e-pomodoro-fresco/couscous.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Versate il Cous Cous con il cavolfiore in una coppa capiente da portata, aggiungete i ceci e mischiate bene. Distribuiteci sopra i pomodori e servite...&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2025-07-09-cous-cous-con-cavolfiore-speziato-ceci-croccanti-e-pomodoro-fresco/risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2025-07-09-cous-cous-con-cavolfiore-speziato-ceci-croccanti-e-pomodoro-fresco/risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2025-07-09-cous-cous-con-cavolfiore-speziato-ceci-croccanti-e-pomodoro-fresco/risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2025-07-09-cous-cous-con-cavolfiore-speziato-ceci-croccanti-e-pomodoro-fresco/risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2025-07-09-cous-cous-con-cavolfiore-speziato-ceci-croccanti-e-pomodoro-fresco/risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2025-07-09-cous-cous-con-cavolfiore-speziato-ceci-croccanti-e-pomodoro-fresco/risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/../2025-07-09-cous-cous-con-cavolfiore-speziato-ceci-croccanti-e-pomodoro-fresco/risultato7.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;h4&gt;Buon appetito
-  &lt;font color=&quot;red&quot;&gt;
-    &lt;i class=&quot;fa-regular fa-face-smile&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt;
-&lt;/h4&gt;</content>
-    <summary type="html" xml:lang="it">
-    
-      &lt;p&gt;&lt;img src=&quot;/../2025-07-09-cous-cous-con-cavolfiore-speziato-ceci-croccanti-e-pomodoro-fresco/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-
-    
-    </summary>
-    
-      <category term="Salato" scheme="https://frangipani.raiano.ch/categories/Salato/"/>
-    
-      <category term="Piatti Unici" scheme="https://frangipani.raiano.ch/categories/Salato/Piatti-Unici/"/>
-    
-    
-      <category term="estate" scheme="https://frangipani.raiano.ch/tags/estate/"/>
-    
-      <category term="vegan" scheme="https://frangipani.raiano.ch/tags/vegan/"/>
-    
-      <category term="pomodori" scheme="https://frangipani.raiano.ch/tags/pomodori/"/>
-    
-      <category term="ceci" scheme="https://frangipani.raiano.ch/tags/ceci/"/>
-    
-      <category term="cavolfiore" scheme="https://frangipani.raiano.ch/tags/cavolfiore/"/>
-    
-      <category term="cous cous" scheme="https://frangipani.raiano.ch/tags/cous-cous/"/>
     
   </entry>
   
