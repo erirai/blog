@@ -9,6 +9,22 @@
 
 
     <url>
+        <loc>https://frangipani.raiano.ch/2026-03-11-barlauch-mozzarella-waffeln-ohne-butter/</loc>
+        <lastmod>2026-03-10T08:42:03.065Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/2026-03-11-waffle-con-aglio-orsino-e-mozzarella/</loc>
+        <lastmod>2026-03-10T08:27:39.816Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://frangipani.raiano.ch/2026-02-25-cremige-pasta-mit-kartoffeln/</loc>
         <lastmod>2026-02-24T17:30:54.288Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -2089,7 +2105,7 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2018-12-20-scones-vegani-con-cranberries-profumati-all-arancia/</loc>
+        <loc>https://frangipani.raiano.ch/2019-01-15-pan-darancio/</loc>
         <lastmod>2025-09-05T07:29:07.088Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -2097,7 +2113,7 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2019-01-15-pan-darancio/</loc>
+        <loc>https://frangipani.raiano.ch/2018-12-20-scones-vegani-con-cranberries-profumati-all-arancia/</loc>
         <lastmod>2025-09-05T07:29:07.088Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -4377,7 +4393,7 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2014-09-14-grissini/</loc>
+        <loc>https://frangipani.raiano.ch/2014-09-03-crostata-al-cioccolato-e-frutta/</loc>
         <lastmod>2025-09-05T07:29:06.971Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -4385,7 +4401,7 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2014-09-03-crostata-al-cioccolato-e-frutta/</loc>
+        <loc>https://frangipani.raiano.ch/2014-09-14-grissini/</loc>
         <lastmod>2025-09-05T07:29:06.971Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -4769,7 +4785,7 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2013-10-26-brownies/</loc>
+        <loc>https://frangipani.raiano.ch/2013-10-18-crostata-di-lamponi/</loc>
         <lastmod>2025-09-05T07:29:06.940Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -4777,7 +4793,7 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/2013-10-18-crostata-di-lamponi/</loc>
+        <loc>https://frangipani.raiano.ch/2013-10-26-brownies/</loc>
         <lastmod>2025-09-05T07:29:06.940Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
