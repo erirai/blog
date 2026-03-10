@@ -1,5 +1,5 @@
 ---
-title: "Waffle senza burro con Aglio Orsino e Mozzarella"
+title: "Waffle senza Burro con Aglio Orsino e Mozzarella"
 date: 2026-03-11
 tags: 
 - aglio orsino
@@ -13,7 +13,7 @@ lang: it
 ---
 ![](../2026-03-11-waffle-con-aglio-orsino-e-mozzarella/header.jpeg "frangipani © Erica")
 
-**Waffle con Aglio Orsino e Mozzarella** sfiziose e profumate, croccanti e morbide, ottime per usare l'aglio orsino, ma anche altre erbe aromatiche. Uno dei primi segnali primaverili in natura è proprio l'aglio orsino e da qualche annetto mi piace tanto usarlo. Non lo amo in purezza mangiato come pesto per esempio, ma <a href="https://frangipani.raiano.ch/tags/aglio-orsino/" target="_blank">negli impasti diversi</a> sta molto bene.
+**Waffle senza Burro con Aglio Orsino e Mozzarella** sfiziose e profumate, croccanti e morbide, ottime per usare l'aglio orsino, ma anche altre erbe aromatiche. Uno dei primi segnali primaverili in natura è proprio l'aglio orsino e da qualche annetto mi piace tanto usarlo. Non lo amo in purezza mangiato come pesto per esempio, ma <a href="https://frangipani.raiano.ch/tags/aglio-orsino/" target="_blank">negli impasti diversi</a> sta molto bene.
 
 I Waffle salati purtroppo li ho scoperti molto tardi. Ovvero, avevo solo la piastra per Waffle quella che li fa a disco con i spicchi a forma di cuore e con quelli i Waffle salati non vengono benissimo (se avete quello potete farla comunque questa ricetta, ma essendo più sottili, il risultato non sarà lo stesso). L'anno scorso finalmente ne ho comprato uno, anche perché mi si era rotto quello per fare i Toast e ne ho approfittato per prenderne uno con diverse piastre. Ho provato diversi tipi di Waffle salati ed erano tutti buoni, l'importante è mettere il formaggio dentro! Da quel tocco in più.
 
@@ -22,11 +22,11 @@ I Waffle salati sono ottimi per un pranzetto o una cenetta mangiati al posto del
 <div id="wrapper" style="text-align: center">
   <div id="yourdiv" style="display: inline-block;">
     <div class="ingredients" itemscope itemtype="http://schema.org/Recipe">
-      <span itemprop="name" style="display:none;">Waffle con Aglio Orsino e Mozzarella</span>
+      <span itemprop="name" style="display:none;">Waffle senza Burro con Aglio Orsino e Mozzarella</span>
       <span itemprop="recipeCategory" style="display:none;">Salato</span>
       <img itemprop="image" style="display:none;" class="ignore-gallery-item" src="../2026-03-11-waffle-con-aglio-orsino-e-mozzarella/header.jpeg"/>
       <span itemprop="author" style="display:none;">Erica Raiano</span>
-      <span itemprop="description" style="display:none;">Waffle con Aglio Orsino e Mozzarella, sfiziose e profumate, croccanti e morbide, ottime per usare l'aglio orsino, ma anche altre erbe aromatiche.</span>
+      <span itemprop="description" style="display:none;">Waffle senza Burro con Aglio Orsino e Mozzarella, sfiziose e profumate, croccanti e morbide, ottime per usare l'aglio orsino, ma anche altre erbe aromatiche.</span>
       <div class="ingredients-title">Ingredienti</div>
       <table>
         <tbody>
