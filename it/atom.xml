@@ -4,7 +4,7 @@
   
   <link href="https://frangipani.raiano.ch/it/atom.xml" rel="self"/>
   <link href="https://frangipani.raiano.ch/"/>
-  <updated>2026-03-10T16:43:59.315Z</updated>
+  <updated>2026-03-16T13:38:52.143Z</updated>
   <id>https://frangipani.raiano.ch/</id>
   
   <author>
@@ -13,6 +13,192 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title xml:lang="it">Muffin al Cappuccino con Crema al Mascarpone</title>
+    <link href="https://frangipani.raiano.ch/2026-03-17-muffin-al-cappuccino-con-crema-al-mascarpone/"/>
+    <id>https://frangipani.raiano.ch/2026-03-17-muffin-al-cappuccino-con-crema-al-mascarpone/</id>
+    <published>2026-03-16T23:00:00.000Z</published>
+    <updated>2026-03-16T13:38:52.143Z</updated>
+    <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;/../2026-03-17-muffin-al-cappuccino-con-crema-al-mascarpone/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Muffin al Cappuccino con Crema al Mascarpone&lt;/strong&gt; soffici, profumati al caffé e quella crema al Mascarpone... Buonissimi! No, non sanno di Tiramisù, sanno effettivamente di Cappuccino direi. E secondo me sono anche un ottimo dolce per la Festa del Papà. La preparazione dei Muffin è così facile, che possono farli anche i bimbi. Anzi, a proposito di bimbi, si può usare tranquillamente anche il caffé decaffeinato.&lt;/p&gt;
+&lt;p&gt;Io amo questa crema che si prepara letteralmente in due minuti. Mettete tutti gli ingredienti freddi nella ciotola fredda e montate il tutto. Attenti però a non mangiarla tutta a cucchiaiate già prima di metterla sui muffin. Vi ho avvertiti!&lt;/p&gt;
+&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
+  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
+    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
+      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Muffin al Cappuccino con Crema di Mascarpone&lt;/span&gt;
+      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Dolce&lt;/span&gt;
+      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2026-03-17-muffin-al-cappuccino-con-crema-al-mascarpone/header.jpeg&quot;/&gt;
+      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
+      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Muffin al Cappuccino con Crema al Mascarpone, soffici, profumati al caffé e quella crema al Mascarpone... Buonissimi!&lt;/span&gt;
+      &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
+      &lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Muffin al Cappuccino&lt;/b&gt;&lt;/td&gt;
+          &lt;/tr&gt; 
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;       
+            &lt;td&gt;2&lt;/td&gt;
+            &lt;td&gt;uova&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;100ml&lt;/td&gt;
+            &lt;td&gt;caffé espresso&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;100ml&lt;/td&gt;
+            &lt;td&gt;latte&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;115gr&lt;/td&gt;
+            &lt;td&gt;burro&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;1 pizzico&lt;/td&gt;
+            &lt;td&gt;sale&lt;/td&gt;         
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;120gr&lt;/td&gt;
+            &lt;td&gt;zucchero&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;330gr&lt;/td&gt;
+            &lt;td&gt;farina&lt;/td&gt;         
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;9gr&lt;/td&gt;
+            &lt;td&gt;lievito per dolci&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr style=&quot;height: 15px;&quot;&gt;&lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Crema al Mascarpone&lt;/b&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;       
+            &lt;td&gt;250gr&lt;/td&gt;
+            &lt;td&gt;Mascarpone&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;       
+            &lt;td&gt;250ml&lt;/td&gt;
+            &lt;td&gt;panna da montare&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;50gr&lt;/td&gt;
+            &lt;td&gt;zucchero a velo&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
+            &lt;td&gt;qb&lt;/td&gt;
+            &lt;td&gt;vaniglia&lt;/td&gt;
+         &lt;/tr&gt;
+          &lt;tr style=&quot;height: 15px;&quot;&gt;&lt;/tr&gt;
+          &lt;tr&gt;
+            &lt;td colspan=&quot;2&quot;&gt;&lt;b&gt;Finitura&lt;/b&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;       
+            &lt;td&gt;qb&lt;/td&gt;
+            &lt;td&gt;scaglie di cioccolato&lt;/td&gt;     
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;
+      &lt;br&gt;&lt;/br&gt;
+      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot; itemprop=&quot;recipeYield&quot;&gt;per 12 Cupcakes&lt;/i&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3&gt;
+  &lt;font color=&quot;grey&quot;&gt;
+    &lt;i class=&quot;fa-solid fa-gears&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt; Preparazione
+&lt;/h3&gt;
+
+&lt;p&gt;In una ciotola mettete le uova e sbattetele leggermente. Aggiungete il caffé ormai freddo mischiato con il latte e mescolate. Aggiungete il burro fuso intiepidito e un pizzico di sale e mescolate di nuovo. A questo punto aggiungete lo zucchero, amalgamate bene e alla fine unite anche la farina mischiata con il lievito per dolci. Mescolate bene il tutto finché avrete un impasto liscio e omogeneo, potete fare tutto con una frusta a mano.
+&lt;br /&gt;
+Riempite i pirottini per Muffin fino a 3&amp;#x2F;4 con l&amp;#39;impasto e infornate nel forno preriscaldato a 170°C ventilato per 25min, fate comunque la prova stecchino. Poi fateli raffreddare completamente.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2026-03-17-muffin-al-cappuccino-con-crema-al-mascarpone/impasto.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2026-03-17-muffin-al-cappuccino-con-crema-al-mascarpone/muffin.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Mentre i Muffin sono in forno, preparate la crema al mascarpone. Per la riuscita perfetta di questa crema, tutto deve essere freddo da frigo, anche la ciotola e la frusta della planetaria. Dunque mettete mascarpone, panna, zucchero a velo e vaniglia nella planetaria e montate il tutto alla massima velocità finché la crema avrà una consistenza bella ferma, ma attenzione a non farla diventare burro. Da me ci sono voluti circa 2min.
+&lt;img src=&quot;/../2026-03-17-muffin-al-cappuccino-con-crema-al-mascarpone/chantillymascarpone.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Mettete la crema in una sacca da pasticcere con boccetta liscia e decorate con abbondante crema al mascarpone. Finite con delle scaglie di cioccolato.&lt;/p&gt;
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2026-03-17-muffin-al-cappuccino-con-crema-al-mascarpone/risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2026-03-17-muffin-al-cappuccino-con-crema-al-mascarpone/risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2026-03-17-muffin-al-cappuccino-con-crema-al-mascarpone/risultato3.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2026-03-17-muffin-al-cappuccino-con-crema-al-mascarpone/risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2026-03-17-muffin-al-cappuccino-con-crema-al-mascarpone/risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2026-03-17-muffin-al-cappuccino-con-crema-al-mascarpone/risultato6.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2026-03-17-muffin-al-cappuccino-con-crema-al-mascarpone/risultato7.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2026-03-17-muffin-al-cappuccino-con-crema-al-mascarpone/risultato8.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2026-03-17-muffin-al-cappuccino-con-crema-al-mascarpone/risultato9.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2026-03-17-muffin-al-cappuccino-con-crema-al-mascarpone/risultato10.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2026-03-17-muffin-al-cappuccino-con-crema-al-mascarpone/risultato11.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2026-03-17-muffin-al-cappuccino-con-crema-al-mascarpone/risultato12.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
+    &lt;div style=&quot;clear: both&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h4&gt;Buon appetito
+  &lt;font color=&quot;red&quot;&gt;
+    &lt;i class=&quot;fa-regular fa-face-smile&quot;&gt;&lt;/i&gt;
+  &lt;/font&gt;
+&lt;/h4&gt;</content>
+    <summary type="html" xml:lang="it">
+    
+      &lt;p&gt;&lt;img src=&quot;/../2026-03-17-muffin-al-cappuccino-con-crema-al-mascarpone/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Muffin al C
+    
+    </summary>
+    
+      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
+    
+      <category term="Muffin, Cupcakes, Cake Pops..." scheme="https://frangipani.raiano.ch/categories/Dolce/Muffin-Cupcakes-Cake-Pops/"/>
+    
+    
+      <category term="cupcakes" scheme="https://frangipani.raiano.ch/tags/cupcakes/"/>
+    
+      <category term="muffin" scheme="https://frangipani.raiano.ch/tags/muffin/"/>
+    
+      <category term="festa del papà" scheme="https://frangipani.raiano.ch/tags/festa-del-papa/"/>
+    
+      <category term="caffé" scheme="https://frangipani.raiano.ch/tags/caffe/"/>
+    
+  </entry>
   
   <entry>
     <title xml:lang="it">Waffle senza Burro con Aglio Orsino e Mozzarella</title>
@@ -3219,111 +3405,6 @@ Più di una semplice brioche, è una certezza della colazione siciliana, fatta d
       <category term="lievitati" scheme="https://frangipani.raiano.ch/tags/lievitati/"/>
     
       <category term="ricette siciliane" scheme="https://frangipani.raiano.ch/tags/ricette-siciliane/"/>
-    
-  </entry>
-  
-  <entry>
-    <title xml:lang="it">Granita Siciliana al Limone senza gelatiera</title>
-    <link href="https://frangipani.raiano.ch/2025-08-27-granita-siciliana-al-limone-senza-gelatiera/"/>
-    <id>https://frangipani.raiano.ch/2025-08-27-granita-siciliana-al-limone-senza-gelatiera/</id>
-    <published>2025-08-26T22:00:00.000Z</published>
-    <updated>2025-09-15T12:43:21.174Z</updated>
-    <content type="html" xml:lang="it">&lt;p&gt;&lt;img src=&quot;/../2025-08-27-granita-siciliana-al-limone-senza-gelatiera/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Granita Siciliana al Limone senza gelatiera&lt;/strong&gt; un classico della cucina siciliana. Fresca, intensa, e profumata, la granita al limone siciliana non è solo un dolce: è esperienza, è tradizione secolare che affonda le sue radici nella storia dell’isola. In Sicilia la granita è un rito quotidiano, soprattutto d&amp;#39;estate. E il gusto al limone, tra i più semplici e autentici, è forse il più rappresentativo.&lt;/p&gt;
-&lt;p&gt;La storia della granita ha inizio molti secoli fa, nel periodo della dominazione araba (IX-XI secolo). Gli Arabi portarono con sé l’uso di mescolare neve dell’Etna con succhi di frutta e zucchero, dando vita a una primitiva forma di sorbetto. In inverno, i &amp;quot;nivaroli&amp;quot; raccoglievano la neve dalle montagne e la conservavano in grotte o fosse profonde (le &amp;quot;neviere&amp;quot;), coprendola con paglia. Durante l’estate, quella stessa neve veniva grattata e mescolata con limone, zucchero e acqua: nasceva così una delle prime versioni della granita.&lt;/p&gt;
-&lt;p&gt;Io ho questo metodo: preparo lo sciroppo con il succo di limone e un goccino di succo d&amp;#39;arancia (è il mio ingrediente segreto), poi lo metto nei sacchettini o nelle vaschette per il ghiaccio e lascio tutto in freezer. Quando abbiamo voglia di granita, frullo i cubetti e ci mangiamo la granita. In questo modo avrete sempre a disposizione la granita e evitate di dover mescolare la granita ogni 30min.&lt;/p&gt;
-&lt;p&gt;Per me la granita si mangia così in purezza, senza panna! Certo, una soffice &lt;a href=&quot;/2025-09-03-brioche-siciliana-col-tuppo/&quot;&gt;Brioche col Tuppo&lt;/a&gt; o il nostro &lt;a href=&quot;/2020-05-05-pane-di-semola-siciliano/&quot;&gt;Pane Siciliano di Semola con Sesamo&lt;/a&gt; come accompagnamento, sono quasi d&amp;#39;obbligo...&lt;/p&gt;
-&lt;div id=&quot;wrapper&quot; style=&quot;text-align: center&quot;&gt;
-  &lt;div id=&quot;yourdiv&quot; style=&quot;display: inline-block;&quot;&gt;
-    &lt;div class=&quot;ingredients&quot; itemscope itemtype=&quot;http://schema.org/Recipe&quot;&gt;
-      &lt;span itemprop=&quot;name&quot; style=&quot;display:none;&quot;&gt;Granita Siciliana al Limone senza gelatiera&lt;/span&gt;
-      &lt;span itemprop=&quot;recipeCategory&quot; style=&quot;display:none;&quot;&gt;Dolce&lt;/span&gt;
-      &lt;img itemprop=&quot;image&quot; style=&quot;display:none;&quot; class=&quot;ignore-gallery-item&quot; src=&quot;../2025-08-27-granita-siciliana-al-limone-senza-gelatiera/header.jpeg&quot;/&gt;
-      &lt;span itemprop=&quot;author&quot; style=&quot;display:none;&quot;&gt;Erica Raiano&lt;/span&gt;
-      &lt;span itemprop=&quot;description&quot; style=&quot;display:none;&quot;&gt;Granita Siciliana al Limone senza gelatiera, un classico della cucina siciliana. Fresca, intensa e profumata.&lt;/span&gt;
-      &lt;div class=&quot;ingredients-title&quot;&gt;Ingredienti&lt;/div&gt;
-      &lt;table&gt;
-        &lt;tbody&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1l&lt;/td&gt;
-            &lt;td&gt;acqua&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;350gr&lt;/td&gt;
-            &lt;td&gt;zucchero&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;600ml&lt;/td&gt;
-            &lt;td&gt;succo di limone&lt;/td&gt;
-          &lt;/tr&gt;
-          &lt;tr itemprop=&quot;recipeIngredient&quot;&gt;
-            &lt;td&gt;1 goccio&lt;/td&gt;
-            &lt;td&gt;succo d&#39;arancia&lt;/td&gt;    
-        &lt;/tbody&gt;
-      &lt;/table&gt;
-      &lt;br&gt;&lt;/br&gt;
-      &lt;i class=&quot;pull-right&quot; style=&quot;font-size: 80%;&quot;&gt;per circa 6 persone&lt;/i&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;h3&gt;
-  &lt;font color=&quot;grey&quot;&gt;
-    &lt;i class=&quot;fa-solid fa-gears&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt; Preparazione
-&lt;/h3&gt;
-
-&lt;p&gt;Per lo sciroppo mettete acqua e zucchero in un pentolino e riscaldate il tutto finché lo zucchero non si sarà sciolto completamente. Dunque fatelo raffreddare, poi aggiungete il succo di limone e d&amp;#39;arancia e mescolate bene.
-&lt;img src=&quot;/../2025-08-27-granita-siciliana-al-limone-senza-gelatiera/sciroppo.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;A questo punto versate il liquido nei sacchettini&amp;#x2F;nelle vaschette per il ghiaccio e lasciate in congelatore finché non si sarà congelato bene il tutto o finché vi servirà. Poi mettete i cubetti con lo sciroppo al limone ghiacciato in un contenitore e con il frullatore a immersione frullate il tutto finché sarà cremoso. A questo punto, se non è troppo liquido, la servite subito, altrimenti mettete la granita di nuovo in congelatore finché avrà la consistenza giusta.
-&lt;img src=&quot;/../2025-08-27-granita-siciliana-al-limone-senza-gelatiera/vaschetta.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;In ogni caso la &lt;strong&gt;Granita Siciliana al Limone&lt;/strong&gt; deve avere una consistenza morbida, non ghiacciata come un sorbetto. Servite in un bicchiere, magari accompagnata da una brioche col tuppo...&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2025-08-27-granita-siciliana-al-limone-senza-gelatiera/risultato1.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2025-08-27-granita-siciliana-al-limone-senza-gelatiera/risultato2.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/../2025-08-27-granita-siciliana-al-limone-senza-gelatiera/risultato3.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;
-  &lt;div style=&quot;width: 100%; margin-bottom: 0&quot;&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-right: 1%&quot; src=&quot;../2025-08-27-granita-siciliana-al-limone-senza-gelatiera/risultato4.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;img style=&quot;float: left; width: 49%; margin-left: 1%&quot; src=&quot;../2025-08-27-granita-siciliana-al-limone-senza-gelatiera/risultato5.jpeg&quot; alt=&quot;&quot; title=&quot;frangipani © Erica&quot; /&gt;
-    &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/../2025-08-27-granita-siciliana-al-limone-senza-gelatiera/risultato6.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;h4&gt;Buon appetito
-  &lt;font color=&quot;red&quot;&gt;
-    &lt;i class=&quot;fa-regular fa-face-smile&quot;&gt;&lt;/i&gt;
-  &lt;/font&gt;
-&lt;/h4&gt;
-</content>
-    <summary type="html" xml:lang="it">
-    
-      &lt;p&gt;&lt;img src=&quot;/../2025-08-27-granita-siciliana-al-limone-senza-gelatiera/header.jpeg&quot; title=&quot;frangipani © Erica&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Granita Sici
-    
-    </summary>
-    
-      <category term="Dolce" scheme="https://frangipani.raiano.ch/categories/Dolce/"/>
-    
-      <category term="Dolci al cucchiaio, Gelati..." scheme="https://frangipani.raiano.ch/categories/Dolce/Dolci-al-cucchiaio-Gelati/"/>
-    
-    
-      <category term="estate" scheme="https://frangipani.raiano.ch/tags/estate/"/>
-    
-      <category term="limone" scheme="https://frangipani.raiano.ch/tags/limone/"/>
-    
-      <category term="vegan" scheme="https://frangipani.raiano.ch/tags/vegan/"/>
-    
-      <category term="ricette siciliane" scheme="https://frangipani.raiano.ch/tags/ricette-siciliane/"/>
-    
-      <category term="gelato" scheme="https://frangipani.raiano.ch/tags/gelato/"/>
     
   </entry>
   

@@ -3,6 +3,34 @@
 
 
     <url>
+        <loc>https://frangipani.raiano.ch/tags/caffe/</loc>
+        <lastmod>2026-03-16T13:49:30.752Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/tags/festa-del-papa/</loc>
+        <lastmod>2026-03-16T13:49:30.752Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/tags/muffin/</loc>
+        <lastmod>2026-03-16T13:49:30.752Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://frangipani.raiano.ch/tags/cupcakes/</loc>
+        <lastmod>2026-03-16T13:49:30.752Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://frangipani.raiano.ch/tags/aglio-orsino/</loc>
         <lastmod>2026-03-10T16:43:59.315Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -374,20 +402,6 @@
     </url>
 
     <url>
-        <loc>https://frangipani.raiano.ch/tags/caffe/</loc>
-        <lastmod>2025-09-05T07:29:07.185Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/tags/festa-del-papa/</loc>
-        <lastmod>2025-09-05T07:29:07.185Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://frangipani.raiano.ch/tags/ricette-svizzere/</loc>
         <lastmod>2025-09-05T07:29:07.184Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -418,13 +432,6 @@
     <url>
         <loc>https://frangipani.raiano.ch/tags/gnocchi/</loc>
         <lastmod>2025-09-05T07:29:07.177Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/tags/muffin/</loc>
-        <lastmod>2025-09-05T07:29:07.176Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -649,13 +656,6 @@
     <url>
         <loc>https://frangipani.raiano.ch/tags/cheesecake/</loc>
         <lastmod>2025-09-05T07:29:07.090Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://frangipani.raiano.ch/tags/cupcakes/</loc>
-        <lastmod>2025-09-05T07:29:07.087Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
